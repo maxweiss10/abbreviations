@@ -1,5 +1,5 @@
 // Main dictionary: ACRONYM|meaning. Repeat an acronym for multiple meanings.
-const DICT = `
+var DICT = `
 AAA|Abdominal aortic aneurysm
 AAD|Antiarrhythmic drug
 AAD|Acute aortic dissection
