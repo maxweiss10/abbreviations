@@ -14,217 +14,84 @@
   td{padding:5px 8px;vertical-align:top}
   tr:nth-child(even) td{background:#F2F2F2}
   td:first-child{font-weight:bold;white-space:nowrap;width:1%}
+  #dec{margin-top:12px}
+  #dec div{padding:6px 8px;border:1px solid #000;margin-bottom:6px}
+  .g{font-size:14px;color:#444}
   #none{display:none;margin-top:12px}
 </style>
 </head>
 <body>
 <main>
 <div class="bar">Cardiology Decoder</div>
-<input id="q" type="search" placeholder="Type an acronym or a word…" autofocus autocomplete="off">
+<input id="q" type="search" placeholder="Acronym, string of acronyms (3VCAD, s/p CABG), or a word…" autofocus autocomplete="off">
+<div id="dec"></div>
 <table><thead><tr><th>Acronym</th><th>Meaning</th></tr></thead><tbody id="t"></tbody></table>
 <div id="none">No match.</div>
 </main>
+<script src="data.js"></script>
 <script>
-const D=`AAA|Abdominal aortic aneurysm
-ABI|Ankle-brachial index
-ACE-I|Angiotensin-converting enzyme inhibitor
-ACEI|Angiotensin-converting enzyme inhibitor
-ACS|Acute coronary syndrome
-ACT|Activated clotting time
-AF|Atrial fibrillation
-AFib|Atrial fibrillation
-AFL|Atrial flutter
-AICD|Automatic implantable cardioverter-defibrillator
-AIVR|Accelerated idioventricular rhythm
-AMI|Acute myocardial infarction
-ARB|Angiotensin receptor blocker
-ARNI|Angiotensin receptor-neprilysin inhibitor
-AS|Aortic stenosis
-ASA|Aspirin
-ASD|Atrial septal defect
-AV|Atrioventricular
-AVNRT|AV nodal reentrant tachycardia
-AVR|Aortic valve replacement
-AVRT|AV reentrant tachycardia
-AR|Aortic regurgitation
-BBB|Bundle branch block
-BiV|Biventricular
-BMS|Bare-metal stent
-BNP|B-type natriuretic peptide
-BP|Blood pressure
-BRASH|Bradycardia, renal failure, AV nodal blockade, shock, hyperkalemia
-CABG|Coronary artery bypass graft
-CAD|Coronary artery disease
-CAC|Coronary artery calcium
-CCB|Calcium channel blocker
-CCU|Cardiac care unit
-CHB|Complete heart block
-CHD|Congenital heart disease; coronary heart disease
-CHF|Congestive heart failure
-CI|Cardiac index
-CIED|Cardiac implantable electronic device
-CK-MB|Creatine kinase, MB isoenzyme
-CO|Cardiac output
-COCM|Cardiomyopathy
-CPR|Cardiopulmonary resuscitation
-CRT|Cardiac resynchronization therapy
-CRT-D|Cardiac resynchronization therapy with defibrillator
-CRT-P|Cardiac resynchronization therapy with pacemaker
-CTA|CT angiography
-CTO|Chronic total occlusion
-CTEPH|Chronic thromboembolic pulmonary hypertension
-CVP|Central venous pressure
-DAPT|Dual antiplatelet therapy
-DCM|Dilated cardiomyopathy
-DES|Drug-eluting stent
-DOAC|Direct oral anticoagulant
-DVT|Deep vein thrombosis
-EAT|Ectopic atrial tachycardia
-ECG|Electrocardiogram
-EKG|Electrocardiogram
-ECMO|Extracorporeal membrane oxygenation
-EF|Ejection fraction
-EP|Electrophysiology
-EPS|Electrophysiology study
-ETT|Exercise treadmill test
-FFR|Fractional flow reserve
-FMC|First medical contact
-GDMT|Guideline-directed medical therapy
-HCM|Hypertrophic cardiomyopathy
-HFmrEF|Heart failure with mildly reduced ejection fraction
-HFpEF|Heart failure with preserved ejection fraction
-HFrEF|Heart failure with reduced ejection fraction
-HOCM|Hypertrophic obstructive cardiomyopathy
-HR|Heart rate
-HTN|Hypertension
-IABP|Intra-aortic balloon pump
-ICD|Implantable cardioverter-defibrillator
-ICM|Ischemic cardiomyopathy
-IE|Infective endocarditis
-ILR|Implantable loop recorder
-INR|International normalized ratio
-IVC|Inferior vena cava
-IVUS|Intravascular ultrasound
-JVD|Jugular venous distension
-JVP|Jugular venous pressure
-LA|Left atrium
-LAA|Left atrial appendage
-LAAO|Left atrial appendage occlusion
-LAD|Left anterior descending (artery); left axis deviation
-LAE|Left atrial enlargement
-LAFB|Left anterior fascicular block
-LBBB|Left bundle branch block
-LCx|Left circumflex (artery)
-LGE|Late gadolinium enhancement
-LMCA|Left main coronary artery
-LPFB|Left posterior fascicular block
-LQTS|Long QT syndrome
-LV|Left ventricle
-LVAD|Left ventricular assist device
-LVEDP|Left ventricular end-diastolic pressure
-LVEF|Left ventricular ejection fraction
-LVH|Left ventricular hypertrophy
-LVOT|Left ventricular outflow tract
-MAP|Mean arterial pressure
-MAT|Multifocal atrial tachycardia
-MCS|Mechanical circulatory support
-MI|Myocardial infarction
-MINOCA|Myocardial infarction with nonobstructive coronary arteries
-MR|Mitral regurgitation
-MS|Mitral stenosis
-MV|Mitral valve
-MVP|Mitral valve prolapse
-MVR|Mitral valve replacement
-NICM|Nonischemic cardiomyopathy
-NSR|Normal sinus rhythm
-NSTE-ACS|Non-ST-elevation acute coronary syndrome
-NSTEMI|Non-ST-elevation myocardial infarction
-NSVT|Nonsustained ventricular tachycardia
-NT-proBNP|N-terminal pro-B-type natriuretic peptide
-NYHA|New York Heart Association (functional class)
-OHCA|Out-of-hospital cardiac arrest
-OMT|Optimal medical therapy
-PA|Pulmonary artery
-PAC|Premature atrial contraction; pulmonary artery catheter
-PAD|Peripheral artery disease
-PAH|Pulmonary arterial hypertension
-PCI|Percutaneous coronary intervention
-PCWP|Pulmonary capillary wedge pressure
-PDA|Patent ductus arteriosus; posterior descending artery
-PE|Pulmonary embolism
-PFO|Patent foramen ovale
-PH|Pulmonary hypertension
-PM|Pacemaker
-PMVT|Polymorphic ventricular tachycardia
-POTS|Postural orthostatic tachycardia syndrome
-PPM|Permanent pacemaker
-PR|Pulmonic regurgitation
-PS|Pulmonic stenosis
-PSVT|Paroxysmal supraventricular tachycardia
-PTCA|Percutaneous transluminal coronary angioplasty
-PVC|Premature ventricular contraction
-PVD|Peripheral vascular disease
-PVR|Pulmonary vascular resistance
-RA|Right atrium
-RAD|Right axis deviation
-RAE|Right atrial enlargement
-RAP|Right atrial pressure
-RBBB|Right bundle branch block
-RCA|Right coronary artery
-RCM|Restrictive cardiomyopathy
-RHC|Right heart catheterization
-RV|Right ventricle
-RVH|Right ventricular hypertrophy
-RVSP|Right ventricular systolic pressure
-SAM|Systolic anterior motion (of the mitral valve)
-SCAD|Spontaneous coronary artery dissection
-SCD|Sudden cardiac death
-SGLT2i|Sodium-glucose cotransporter-2 inhibitor
-SIHD|Stable ischemic heart disease
-SND|Sinus node dysfunction
-SSS|Sick sinus syndrome
-STEMI|ST-elevation myocardial infarction
-SV|Stroke volume
-SVC|Superior vena cava
-SVR|Systemic vascular resistance
-SVT|Supraventricular tachycardia
-TAPSE|Tricuspid annular plane systolic excursion
-TAVI|Transcatheter aortic valve implantation
-TAVR|Transcatheter aortic valve replacement
-TdP|Torsades de pointes
-TEE|Transesophageal echocardiogram
-TIA|Transient ischemic attack
-TR|Tricuspid regurgitation
-TS|Tricuspid stenosis
-TTE|Transthoracic echocardiogram
-TTM|Targeted temperature management
-UA|Unstable angina
-UFH|Unfractionated heparin
-VAD|Ventricular assist device
-VF|Ventricular fibrillation
-VFib|Ventricular fibrillation
-VSD|Ventricular septal defect
-VT|Ventricular tachycardia
-VTE|Venous thromboembolism
-WCT|Wide-complex tachycardia
-WPW|Wolff-Parkinson-White syndrome`.split("\n").map(l=>l.split("|"));
-const t=document.getElementById("t"),q=document.getElementById("q"),none=document.getElementById("none");
 const norm=s=>s.toLowerCase().replace(/[^a-z0-9]/g,"");
+const parse=txt=>txt.trim().split("\n").filter(Boolean).map(l=>{const i=l.indexOf("|");return [l.slice(0,i),l.slice(i+1)]});
+const D=parse(DICT), P=parse(PARTS);
+// lexicon: normalized key -> [meanings]
+const LEX={};
+D.forEach(([a,m])=>{const k=norm(a);(LEX[k]=LEX[k]||[]).push(m)});
+const PLEX={};
+P.forEach(([a,m])=>{const k=norm(a);(PLEX[k]=PLEX[k]||[]).push(m)});
+for(let n=1;n<=6;n++){PLEX[n+"v"]=[n+"-vessel"];LEX[n+"vd"]=[n+"-vessel disease"];LEX[n+"vcad"]=[n+"-vessel coronary artery disease"];}
+PLEX["vd"]=["Vessel disease"]; PLEX["sp"]=["Status post"];LEX["sp"]=["Status post (s/p)"];
+const ALL=k=>LEX[k]||PLEX[k];
+
+// split a token into known pieces (fewest pieces; ties favor longer dictionary words)
+function segment(w){
+  const n=w.length, best=Array(n+1).fill(null); best[0]={c:0,p:[]};
+  for(let i=0;i<n;i++){ if(!best[i])continue;
+    for(let j=i+1;j<=n;j++){ const k=w.slice(i,j); if(!ALL(k))continue;
+      const c=best[i].c+(LEX[k]?1:1.5)+(k.length<2?1:0);
+      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat(k)}; } }
+  return best[n]?best[n].p:null;
+}
+function decodeToken(tok){
+  const k=norm(tok); if(!k)return null;
+  if(LEX[k]) return {t:tok,exact:LEX[k]};
+  const seg=segment(k);
+  if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>[s,(PLEX[s]||LEX[s])[0]])};
+  return {t:tok,none:true};
+}
+
+const t=document.getElementById("t"),q=document.getElementById("q"),none=document.getElementById("none"),dec=document.getElementById("dec");
 function render(){
-  const n=norm(q.value),raw=q.value.trim().toLowerCase();
-  let r=D;
+  const raw=q.value.trim().toLowerCase(), n=norm(raw);
+  // decoder strip: only for multi-token input or a miss
+  dec.innerHTML="";
+  const toks=raw.replace(/s\/p/g,"sp").split(/[\s\/+,;&]+/).filter(Boolean);
+  const whole=LEX[n];
+  let rows;
   if(raw){
     const score=([a,m])=>{const na=norm(a);
       if(na===n)return 0; if(na.startsWith(n))return 1;
       if(m.toLowerCase().includes(raw))return 2; return 9;};
-    r=D.map(d=>[score(d),d]).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
-  }
+    rows=D.map(d=>[score(d),d]).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
+    // decode when several tokens, or when the single word isn't an exact entry
+    if(toks.length>1||!whole){
+      const out=toks.map(decodeToken).filter(Boolean);
+      const lines=out.map(o=>{
+        if(o.exact) return `<b>${esc(o.t)}</b>: ${esc(o.exact.join("; "))}`;
+        if(o.seg) return `<b>${esc(o.t)}</b>: ${o.seg.map(([s,m])=>esc(m)).join(" + ")} <span class="g">(best guess: ${o.seg.map(([s])=>s.toUpperCase()).join(" + ")})</span>`;
+        return `<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
+      });
+      if(toks.length>1||out.some(o=>o.seg)) lines.forEach(l=>{const d=document.createElement("div");d.innerHTML=l;dec.append(d)});
+    }
+  } else rows=D;
+  const seen=new Set(), grouped=[];
+  rows.forEach(([a,m])=>{const g=grouped.find(x=>x[0]===a);g?g[1].push(m):grouped.push([a,[m]])});
   t.innerHTML="";
-  r.forEach(([a,m])=>{const tr=document.createElement("tr");
+  grouped.forEach(([a,ms])=>{const tr=document.createElement("tr");
     const c1=document.createElement("td"),c2=document.createElement("td");
-    c1.textContent=a;c2.textContent=m;tr.append(c1,c2);t.append(tr);});
-  none.style.display=r.length?"none":"block";
+    c1.textContent=a;c2.textContent=ms.join("; ");tr.append(c1,c2);t.append(tr);});
+  none.style.display=(grouped.length||dec.children.length)?"none":"block";
 }
+function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 q.addEventListener("input",render);render();
 </script>
 </body>
