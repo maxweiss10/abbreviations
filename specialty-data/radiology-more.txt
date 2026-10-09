@@ -1,0 +1,671 @@
+T1|Longitudinal relaxation time-weighted MRI sequence|Radiology
+T2|Transverse relaxation time-weighted MRI sequence|Radiology
+T2*|T2-star gradient echo sequence sensitive to susceptibility|Radiology
+T1 map|Quantitative map of T1 relaxation times|Radiology
+T2 map|Quantitative map of T2 relaxation times|Radiology
+T1FS|T1-weighted fat-suppressed|Radiology
+T2FS|T2-weighted fat-suppressed|Radiology
+T1 FS|T1-weighted fat-saturated|Radiology
+T2 FS|T2-weighted fat-saturated|Radiology
+T1+C|T1-weighted with contrast|Radiology
+T1 pre|T1-weighted precontrast|Radiology
+T1 post|T1-weighted postcontrast|Radiology
+T1 IP|T1-weighted in-phase|Radiology
+T1 OP|T1-weighted opposed-phase|Radiology
+IP|In-phase|Radiology
+OP|Opposed-phase|Radiology
+FS|Fat saturation|Radiology
+FatSat|Fat saturation|Radiology
+SPAIR|Spectral attenuated inversion recovery|Radiology
+SPIR|Spectral presaturation with inversion recovery|Radiology
+CHESS|Chemical shift selective fat suppression|Radiology
+DIR|Double inversion recovery|Radiology
+PSIR|Phase-sensitive inversion recovery|Radiology
+MPRAGE|Magnetization-prepared rapid gradient echo|Radiology
+SPGR|Spoiled gradient recalled echo|Radiology
+bSSFP|Balanced steady-state free precession|Radiology
+SSFP|Steady-state free precession|Radiology
+FIESTA|Fast imaging employing steady-state acquisition|Radiology
+TrueFISP|True fast imaging with steady-state precession|Radiology
+CISS|Constructive interference in steady state|Radiology
+HASTE|Half-Fourier acquired single-shot turbo spin echo|Radiology
+SSFSE|Single-shot fast spin echo|Radiology
+SSTSE|Single-shot turbo spin echo|Radiology
+RARE|Rapid acquisition with relaxation enhancement|Radiology
+VIBE|Volumetric interpolated breath-hold examination|Radiology
+LAVA|Liver acquisition with volume acceleration|Radiology
+THRIVE|T1-weighted high-resolution isotropic volume examination|Radiology
+SPACE|Sampling perfection with application-optimized contrasts using different flip angle evolution|Radiology
+CUBE|Three-dimensional fast spin echo acquisition|Radiology
+3D|Three-dimensional|Radiology
+2D|Two-dimensional|Radiology
+4D|Four-dimensional|Radiology
+4D flow|Time-resolved three-dimensional phase-contrast MRI|Radiology
+PCA|Phase-contrast angiography|Radiology
+CE-MRA|Contrast-enhanced magnetic resonance angiography|Radiology
+NCE-MRA|Non-contrast-enhanced magnetic resonance angiography|Radiology
+TRICKS|Time-resolved imaging of contrast kinetics|Radiology
+DCE|Dynamic contrast-enhanced|Radiology
+DCE-MRI|Dynamic contrast-enhanced magnetic resonance imaging|Radiology
+DSC|Dynamic susceptibility contrast|Radiology
+ASL|Arterial spin labeling|Radiology
+BOLD|Blood oxygen level-dependent|Radiology
+rs-fMRI|Resting-state functional magnetic resonance imaging|Radiology
+DWIBS|Diffusion-weighted whole-body imaging with background body signal suppression|Radiology
+IVIM|Intravoxel incoherent motion|Radiology
+DKI|Diffusion kurtosis imaging|Radiology
+DSI|Diffusion spectrum imaging|Radiology
+FA|Fractional anisotropy|Radiology
+MD|Mean diffusivity|Radiology
+RESOLVE|Readout-segmented echo planar diffusion imaging|Radiology
+b-value|Diffusion weighting factor in diffusion-weighted imaging|Radiology
+b0|Diffusion image with no diffusion weighting|Radiology
+b1000|Diffusion-weighted image with b-value of 1000 s/mm2|Radiology
+TRACE|Isotropic diffusion-weighted image averaged across directions|Radiology
+EPISTAR|Echo planar imaging and signal targeting with alternating radiofrequency|Radiology
+PASL|Pulsed arterial spin labeling|Radiology
+pCASL|Pseudo-continuous arterial spin labeling|Radiology
+CBF|Cerebral blood flow|Radiology
+CBV|Cerebral blood volume|Radiology
+rCBV|Relative cerebral blood volume|Radiology
+MTT|Mean transit time|Radiology
+Tmax|Time to maximum of the residue function|Radiology
+CTP|CT perfusion imaging|Radiology
+MTR|Magnetization transfer ratio|Radiology
+MT|Magnetization transfer|Radiology
+CEST|Chemical exchange saturation transfer|Radiology
+MRSI|Magnetic resonance spectroscopic imaging|Radiology
+H-MRS|Proton magnetic resonance spectroscopy|Radiology
+NAA|N-acetylaspartate|Radiology
+Cho|Choline|Radiology
+Cr|Creatine on magnetic resonance spectroscopy|Radiology
+Lac|Lactate|Radiology
+mI|Myo-inositol|Radiology
+Glx|Glutamate and glutamine|Radiology
+QSM|Quantitative susceptibility mapping|Radiology
+SWAN|Susceptibility-weighted angiography|Radiology
+MRN|Magnetic resonance neurography|Radiology
+MRU|Magnetic resonance urography|Radiology
+MRI-US|Magnetic resonance imaging and ultrasound fusion|Radiology
+MRgFUS|Magnetic resonance-guided focused ultrasound|Radiology
+WB-MRI|Whole-body magnetic resonance imaging|Radiology
+bpMRI|Biparametric magnetic resonance imaging|Radiology
+mpMRI|Multiparametric magnetic resonance imaging|Radiology
+ERC|Endorectal coil|Radiology
+PPA|Parallel imaging acceleration|Radiology
+GRAPPA|Generalized autocalibrating partially parallel acquisitions|Radiology
+SENSE|Sensitivity encoding|Radiology
+DLR|Deep learning reconstruction|Radiology
+NEX|Number of excitations|Radiology
+NSA|Number of signal averages|Radiology
+FA|Flip angle|Radiology
+BW|Bandwidth|Radiology
+ST|Slice thickness|Radiology
+ETL|Echo train length|Radiology
+TSE factor|Turbo factor in turbo spin echo|Radiology
+k-space|Raw data space of spatial frequencies in MRI|Radiology
+B0|Main static magnetic field|Radiology
+B1|Radiofrequency magnetic field|Radiology
+SAR|Specific absorption rate in MRI|Radiology
+dB/dt|Rate of change of magnetic field gradient|Radiology
+MR-safe|Poses no known hazard in the magnetic resonance environment|Radiology
+MR-unsafe|Poses hazards in all magnetic resonance environments|Radiology
+RF|Radiofrequency pulse|Radiology
+SI|Signal intensity|Radiology
+hyperintense|Brighter signal than reference tissue|Radiology
+hypointense|Darker signal than reference tissue|Radiology
+isointense|Same signal as reference tissue|Radiology
+iso|Isointense or isodense|Radiology
+hyper|Hyperintense or hyperdense|Radiology
+hypo|Hypointense or hypodense|Radiology
+T2 shine|T2 shine-through on diffusion-weighted imaging|Radiology
+T2 dark|T2 hypointense signal|Radiology
+Gd|Gadolinium|Radiology
+Gd-DTPA|Gadolinium diethylenetriamine pentaacetic acid|Radiology
+Gd-EOB-DTPA|Gadoxetate disodium hepatobiliary contrast agent|Radiology
+Gd-BOPTA|Gadobenate dimeglumine contrast agent|Radiology
+DOTA|Tetraazacyclododecane tetraacetic acid chelator|Radiology
+DTPA|Diethylenetriamine pentaacetic acid|Radiology
+HP-DO3A|Hydroxy-tetraazacyclododecane triacetic acid chelator|Radiology
+MION|Monocrystalline iron oxide nanoparticle|Radiology
+Mn-DPDP|Mangafodipir trisodium contrast agent|Radiology
+UCA|Ultrasound contrast agent|Radiology
+MB|Microbubble|Radiology
+MBs|Microbubbles|Radiology
+SF6|Sulfur hexafluoride microbubble gas|Radiology
+PFC|Perfluorocarbon|Radiology
+w contrast|With contrast|Radiology
+w/o contrast|Without contrast|Radiology
+w/wo|With and without contrast|Radiology
+WWO|With and without contrast|Radiology
+PO contrast|Oral contrast|Radiology
+GI contrast|Gastrointestinal contrast|Radiology
+ECM|Extracellular contrast medium|Radiology
+CE|Contrast enhancement|Radiology
+CE|Contrast-enhanced|Radiology
+NECT|Non-enhanced computed tomography|Radiology
+CT w|CT with contrast|Radiology
+CT wo|CT without contrast|Radiology
+CT w/o|Computed tomography without contrast|Radiology
+CTA H|Computed tomography angiography of the head|Radiology
+CTA N|Computed tomography angiography of the neck|Radiology
+CTA H&N|Computed tomography angiography of the head and neck|Radiology
+CTA C/A/P|Computed tomography angiography of the chest, abdomen and pelvis|Radiology
+CT C/A/P|Computed tomography of the chest, abdomen and pelvis|Radiology
+CT A/P|Computed tomography of the abdomen and pelvis|Radiology
+CT CAP|Computed tomography of the chest, abdomen and pelvis|Radiology
+CT head|Computed tomography of the head|Radiology
+CTH|Computed tomography of the head|Radiology
+CTA runoff|Computed tomography angiography of the lower extremity arteries|Radiology
+CT-FFR|Computed tomography-derived fractional flow reserve|Radiology
+FFR|Fractional flow reserve|Radiology
+FFRCT|Fractional flow reserve derived from computed tomography|Radiology
+CT-MPI|Computed tomography myocardial perfusion imaging|Radiology
+CTLA|Computed tomography left atrial angiography|Radiology
+CT-PVA|Computed tomography pulmonary vein angiography|Radiology
+PCCT|Photon-counting computed tomography|Radiology
+SECT|Single-energy computed tomography|Radiology
+CBCT|Cone-beam computed tomography|Radiology
+HRCT|High-resolution computed tomography of the chest|Radiology
+LDCT|Low-dose computed tomography|Radiology
+ULDCT|Ultra-low-dose computed tomography|Radiology
+CTF|Computed tomography fluoroscopy|Radiology
+CTE|Computed tomography enterography|Radiology
+CTA|CT angiogram|Radiology
+SSDE|Size-specific dose estimate|Radiology
+DRL|Diagnostic reference level|Radiology
+DQE|Detective quantum efficiency|Radiology
+MTF|Modulation transfer function|Radiology
+FBP|Filtered back projection|Radiology
+MBIR|Model-based iterative reconstruction|Radiology
+DLIR|Deep learning image reconstruction|Radiology
+ATCM|Automatic tube current modulation|Radiology
+AEC|Automatic exposure control|Radiology
+mGy|Milligray|Radiology
+uSv|Microsievert|Radiology
+MD|Material decomposition|Radiology
+CTVI|Computed tomography ventilation imaging|Radiology
+CTPA|CT pulmonary angiogram|Radiology
+BT|Bolus tracking|Radiology
+ROI|Region of interest for bolus tracking|Radiology
+AP|Arterial phase|Radiology
+NP|Nephrographic phase|Radiology
+CM phase|Corticomedullary phase|Radiology
+Hyperdense|Higher attenuation than reference tissue|Radiology
+Hypodense|Lower attenuation than reference tissue|Radiology
+Isodense|Same attenuation as reference tissue|Radiology
+Hyperattenuating|Higher attenuation than reference tissue|Radiology
+Hypoattenuating|Lower attenuation than reference tissue|Radiology
+Hyperechoic|Brighter echogenicity than reference tissue on ultrasound|Radiology
+Hypoechoic|Darker echogenicity than reference tissue on ultrasound|Radiology
+Anechoic|Without internal echoes on ultrasound|Radiology
+Isoechoic|Same echogenicity as reference tissue on ultrasound|Radiology
+PAE|Posterior acoustic enhancement|Radiology
+PAS|Posterior acoustic shadowing|Radiology
+PAS|Posterior acoustic shadow|Radiology
+PSV|Peak systolic velocity on Doppler|Radiology
+TAMV|Time-averaged mean velocity|Radiology
+TAPV|Time-averaged peak velocity|Radiology
+CW|Continuous wave Doppler|Radiology
+CD|Color Doppler|Radiology
+TDI|Tissue Doppler imaging|Radiology
+SRI|Strain rate imaging|Radiology
+GLS|Global longitudinal strain|Radiology
+2DE|Two-dimensional echocardiography|Radiology
+3DE|Three-dimensional echocardiography|Radiology
+ICE|Intracardiac echocardiography|Radiology
+TCCS|Transcranial color-coded sonography|Radiology
+ABUS|Automated breast ultrasound|Radiology
+BLE|Bilateral lower extremities|Radiology
+BUE|Bilateral upper extremities|Radiology
+RLE|Right lower extremity|Radiology
+LLE|Left lower extremity|Radiology
+RUE|Right upper extremity|Radiology
+LUE|Left upper extremity|Radiology
+HIFU|High-intensity focused ultrasound ablation|Radiology
+SWV|Shear wave velocity|Radiology
+CAP|Controlled attenuation parameter|Radiology
+UGAP|Ultrasound-guided attenuation parameter|Radiology
+UDFF|Ultrasound-derived fat fraction|Radiology
+IQR|Interquartile range|Radiology
+US-guided|Ultrasound-guided|Radiology
+CT-guided|Computed tomography-guided|Radiology
+MR-guided|Magnetic resonance-guided|Radiology
+FL-guided|Fluoroscopy-guided|Radiology
+USGB|Ultrasound-guided biopsy|Radiology
+CTGB|Computed tomography-guided biopsy|Radiology
+UGFNA|Ultrasound-guided fine-needle aspiration|Radiology
+SLNB|Sentinel lymph node biopsy|Radiology
+SLN|Sentinel lymph node|Radiology
+ALN|Axillary lymph node|Radiology
+ROSE|Rapid on-site evaluation|Radiology
+NCB|Needle core biopsy|Radiology
+TNB|Transthoracic needle biopsy|Radiology
+TTNB|Transthoracic needle biopsy|Radiology
+TJLB|Transjugular liver biopsy|Radiology
+PLB|Percutaneous liver biopsy|Radiology
+PRB|Percutaneous renal biopsy|Radiology
+TRB|Transrectal biopsy|Radiology
+TPB|Transperineal biopsy|Radiology
+STB|Stereotactic biopsy|Radiology
+SVAB|Stereotactic vacuum-assisted biopsy|Radiology
+NLB|Needle localization biopsy|Radiology
+SNOLL|Sentinel node and occult lesion localization|Radiology
+ROLL|Radioguided occult lesion localization|Radiology
+RSL|Radioactive seed localization|Radiology
+MRM|Modified radical mastectomy|Radiology
+Cat 0|BI-RADS category 0, incomplete assessment needing additional imaging|Radiology
+Cat 1|BI-RADS category 1, negative|Radiology
+Cat 2|BI-RADS category 2, benign|Radiology
+Cat 3|BI-RADS category 3, probably benign|Radiology
+Cat 4|BI-RADS category 4, suspicious|Radiology
+Cat 4A|BI-RADS category 4A, low suspicion for malignancy|Radiology
+Cat 4B|BI-RADS category 4B, moderate suspicion for malignancy|Radiology
+Cat 4C|BI-RADS category 4C, high suspicion for malignancy|Radiology
+Cat 5|BI-RADS category 5, highly suggestive of malignancy|Radiology
+Cat 6|BI-RADS category 6, known biopsy-proven malignancy|Radiology
+LR-1|LI-RADS category 1, definitely benign|Radiology
+LR-2|LI-RADS category 2, probably benign|Radiology
+LR-3|LI-RADS category 3, intermediate probability of malignancy|Radiology
+LR-4|LI-RADS category 4, probably hepatocellular carcinoma|Radiology
+LR-5|LI-RADS category 5, definitely hepatocellular carcinoma|Radiology
+LR-M|LI-RADS category M, probably or definitely malignant but not specific for hepatocellular carcinoma|Radiology
+LR-TIV|LI-RADS category tumor in vein|Radiology
+LR-NC|LI-RADS category not categorizable|Radiology
+LR-TR|LI-RADS treatment response category|Radiology
+TR-1|Thyroid nodule category 1, benign|Radiology
+TR-2|Thyroid nodule category 2, not suspicious|Radiology
+TR-3|Thyroid nodule category 3, mildly suspicious|Radiology
+TR-4|Thyroid nodule category 4, moderately suspicious|Radiology
+TR-5|Thyroid nodule category 5, highly suspicious|Radiology
+TR1|Thyroid nodule category 1, benign|Radiology
+TR2|Thyroid nodule category 2, not suspicious|Radiology
+TR3|Thyroid nodule category 3, mildly suspicious|Radiology
+TR4|Thyroid nodule category 4, moderately suspicious|Radiology
+TR5|Thyroid nodule category 5, highly suspicious|Radiology
+PIRADS 1|Prostate imaging category 1, clinically significant cancer highly unlikely|Radiology
+PIRADS 2|Prostate imaging category 2, clinically significant cancer unlikely|Radiology
+PIRADS 3|Prostate imaging category 3, clinically significant cancer equivocal|Radiology
+PIRADS 4|Prostate imaging category 4, clinically significant cancer likely|Radiology
+PIRADS 5|Prostate imaging category 5, clinically significant cancer highly likely|Radiology
+CDS|Clinical decision support|Radiology
+LCS|Lung cancer screening|Radiology
+SSN|Subsolid nodule|Radiology
+PSN|Part-solid nodule|Radiology
+SN|Solid nodule|Radiology
+SPN|Solitary pulmonary nodule|Radiology
+MPN|Multiple pulmonary nodules|Radiology
+PN|Pulmonary nodule|Radiology
+LN|Lung nodule|Radiology
+VDT|Volume doubling time|Radiology
+RLN|Right lung nodule|Radiology
+LLN|Left lung nodule|Radiology
+CPN|Calcified pulmonary nodule|Radiology
+CG|Calcified granuloma|Radiology
+CGs|Calcified granulomas|Radiology
+CLN|Calcified lymph node|Radiology
+CLNs|Calcified lymph nodes|Radiology
+PBL|Peribronchial lymph node|Radiology
+HLN|Hilar lymph node|Radiology
+MLN|Mediastinal lymph node|Radiology
+MLAD|Mediastinal lymphadenopathy|Radiology
+HLAD|Hilar lymphadenopathy|Radiology
+BHL|Bilateral hilar lymphadenopathy|Radiology
+RPLN|Retroperitoneal lymph node|Radiology
+RP|Retroperitoneal|Radiology
+RPLAD|Retroperitoneal lymphadenopathy|Radiology
+PALN|Para-aortic lymph node|Radiology
+PA LN|Para-aortic lymph node|Radiology
+ILN|Inguinal lymph node|Radiology
+CLN|Cervical lymph node|Radiology
+SCLN|Supraclavicular lymph node|Radiology
+PAN|Para-aortic node|Radiology
+SAX|Short axis|Radiology
+LAX|Long axis|Radiology
+2CH|Two-chamber view|Radiology
+3CH|Three-chamber view|Radiology
+4CH|Four-chamber view|Radiology
+A4C|Apical four-chamber view|Radiology
+A2C|Apical two-chamber view|Radiology
+A3C|Apical three-chamber view|Radiology
+A5C|Apical five-chamber view|Radiology
+PLAX|Parasternal long axis|Radiology
+PSAX|Parasternal short axis|Radiology
+PLA|Parasternal long axis|Radiology
+PSA|Parasternal short axis|Radiology
+SC4|Subcostal four-chamber view|Radiology
+SSN view|Suprasternal notch view|Radiology
+RVIT|Right ventricular inflow tract|Radiology
+LVIT|Left ventricular inflow tract|Radiology
+LVOT|Left ventricular outflow tract view|Radiology
+IVS|Interventricular septum|Radiology
+IAS|Interatrial septum|Radiology
+LVPW|Left ventricular posterior wall|Radiology
+LVIDd|Left ventricular internal diameter in diastole|Radiology
+LVIDs|Left ventricular internal diameter in systole|Radiology
+EDV|End-diastolic volume|Radiology
+ESV|End-systolic volume|Radiology
+SVol|Stroke volume|Radiology
+LAVI|Left atrial volume index|Radiology
+LVM|Left ventricular mass|Radiology
+LVMI|Left ventricular mass index|Radiology
+RWT|Relative wall thickness|Radiology
+FAC|Fractional area change|Radiology
+FS|Fractional shortening|Radiology
+RWMA|Regional wall motion abnormality|Radiology
+WMA|Wall motion abnormality|Radiology
+WMSI|Wall motion score index|Radiology
+LVNC|Left ventricular noncompaction|Radiology
+HCM|Hypertrophic cardiomyopathy|Radiology
+RCM|Restrictive cardiomyopathy|Radiology
+NICM|Nonischemic cardiomyopathy|Radiology
+TTS|Takotsubo syndrome|Radiology
+MINOCA|Myocardial infarction with nonobstructive coronary arteries|Radiology
+IMH|Intramural hematoma of the aorta|Radiology
+PVR|Pulmonary vascular resistance|Radiology
+Qp:Qs|Pulmonary to systemic blood flow ratio|Radiology
+Qp/Qs|Pulmonary to systemic blood flow ratio|Radiology
+PVs|Pulmonary veins|Radiology
+LUPV|Left upper pulmonary vein|Radiology
+LLPV|Left lower pulmonary vein|Radiology
+RUPV|Right upper pulmonary vein|Radiology
+RLPV|Right lower pulmonary vein|Radiology
+LAA|Left atrial appendage|Radiology
+AoV|Aortic valve|Radiology
+AoR|Aortic root|Radiology
+AscAo|Ascending aorta|Radiology
+DescAo|Descending aorta|Radiology
+AoA|Aortic arch|Radiology
+STJ|Sinotubular junction|Radiology
+BAV|Bicuspid aortic valve|Radiology
+TAV|Tricuspid aortic valve|Radiology
+AVA|Aortic valve area|Radiology
+AVC|Aortic valve calcification|Radiology
+MVP|Mitral valve prolapse|Radiology
+TAVI|Transcatheter aortic valve implantation|Radiology
+TMVR|Transcatheter mitral valve replacement|Radiology
+LAAO|Left atrial appendage occlusion|Radiology
+PCI|Percutaneous coronary intervention|Radiology
+CABG|Coronary artery bypass grafting|Radiology
+LIMA|Left internal mammary artery|Radiology
+RIMA|Right internal mammary artery|Radiology
+SVG|Saphenous vein graft|Radiology
+ICD|Implantable cardioverter-defibrillator|Radiology
+PPM|Permanent pacemaker|Radiology
+CRT|Cardiac resynchronization therapy|Radiology
+LVAD|Left ventricular assist device|Radiology
+IABP|Intra-aortic balloon pump|Radiology
+ECMO|Extracorporeal membrane oxygenation|Radiology
+BiV|Biventricular|Radiology
+CTO|Chronic total occlusion|Radiology
+ISR|In-stent restenosis|Radiology
+DS|Diameter stenosis|Radiology
+CAD-RADS 0|Coronary artery disease category 0, no visible stenosis|Radiology
+sestamibi|Technetium-99m sestamibi radiotracer|Radiology
+MIBI|Technetium-99m methoxyisobutylisonitrile|Radiology
+Tc-MIBI|Technetium-99m methoxyisobutylisonitrile|Radiology
+Tc-99m MDP|Technetium-99m methylene diphosphonate|Radiology
+MDP|Methylene diphosphonate|Radiology
+HDP|Hydroxydiphosphonate|Radiology
+HMDP|Hydroxymethylene diphosphonate|Radiology
+Tc-MAA|Technetium-99m macroaggregated albumin|Radiology
+SC|Sulfur colloid|Radiology
+Tc-SC|Technetium-99m sulfur colloid|Radiology
+DTPA|Diethylenetriamine pentaacetic acid radiotracer|Radiology
+Tc-DTPA|Technetium-99m diethylenetriamine pentaacetic acid|Radiology
+HMPAO|Hexamethylpropyleneamine oxime|Radiology
+ECD|Ethyl cysteinate dimer|Radiology
+TRODAT|Tropane radiotracer for dopamine transporter imaging|Radiology
+PYP|Pyrophosphate|Radiology
+Tc-PYP|Technetium-99m pyrophosphate|Radiology
+DPD|Dicarboxypropane diphosphonate|Radiology
+RBC|Red blood cell|Radiology
+Tc-RBC|Technetium-99m labeled red blood cell|Radiology
+TcO4|Technetium-99m pertechnetate|Radiology
+Tc-PT|Technetium-99m pertechnetate|Radiology
+WBC scan|White blood cell labeled scintigraphy|Radiology
+In-111|Indium-111|Radiology
+In-WBC|Indium-111 labeled white blood cell|Radiology
+111In-oxine|Indium-111 oxyquinoline|Radiology
+111In-pentetreotide|Indium-111 pentetreotide|Radiology
+Ga-68|Gallium-68|Radiology
+F-18|Fluorine-18|Radiology
+C-11|Carbon-11|Radiology
+N-13|Nitrogen-13|Radiology
+O-15|Oxygen-15|Radiology
+Rb-82|Rubidium-82|Radiology
+Cu-64|Copper-64|Radiology
+Zr-89|Zirconium-89|Radiology
+Lu-177|Lutetium-177|Radiology
+Y-90|Yttrium-90|Radiology
+Ra-223|Radium-223|Radiology
+Sm-153|Samarium-153|Radiology
+Sr-89|Strontium-89|Radiology
+Xe-133|Xenon-133|Radiology
+Kr-81m|Krypton-81m|Radiology
+Re-188|Rhenium-188|Radiology
+Ho-166|Holmium-166|Radiology
+I-125|Iodine-125|Radiology
+Pd-103|Palladium-103|Radiology
+Ir-192|Iridium-192|Radiology
+Cs-131|Cesium-131|Radiology
+Co-57|Cobalt-57|Radiology
+Cs-137|Cesium-137|Radiology
+Mo-99|Molybdenum-99|Radiology
+Tc-99|Technetium-99|Radiology
+Ac-225|Actinium-225|Radiology
+99mTc|Technetium-99m|Radiology
+99Mo|Molybdenum-99|Radiology
+201Tl|Thallium-201|Radiology
+123I|Iodine-123|Radiology
+131I|Iodine-131|Radiology
+18F|Fluorine-18|Radiology
+68Ga|Gallium-68|Radiology
+82Rb|Rubidium-82|Radiology
+13N|Nitrogen-13|Radiology
+13NH3|Nitrogen-13 ammonia|Radiology
+NH3|Ammonia|Radiology
+15O-water|Oxygen-15 labeled water|Radiology
+H215O|Oxygen-15 labeled water|Radiology
+18F-FDG|Fluorine-18 fluorodeoxyglucose|Radiology
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Radiology
+FDG PET/CT|Fluorodeoxyglucose positron emission tomography and computed tomography|Radiology
+FDG-avid|Showing increased fluorodeoxyglucose uptake|Radiology
+FDG avid|Showing increased fluorodeoxyglucose uptake|Radiology
+non-avid|Without increased radiotracer uptake|Radiology
+NaF|Sodium fluoride|Radiology
+18F-NaF|Fluorine-18 sodium fluoride|Radiology
+FLT|Fluorothymidine|Radiology
+FET|Fluoroethyltyrosine|Radiology
+FDOPA|Fluorodopa|Radiology
+FES|Fluoroestradiol|Radiology
+FCH|Fluorocholine|Radiology
+FACBC|Fluciclovine|Radiology
+FMISO|Fluoromisonidazole|Radiology
+FAZA|Fluoroazomycin arabinoside|Radiology
+FAPI|Fibroblast activation protein inhibitor|Radiology
+DOTATATE|DOTA-Tyr3-octreotate somatostatin analog|Radiology
+DOTATOC|DOTA-Tyr3-octreotide somatostatin analog|Radiology
+DOTANOC|DOTA-1-Nal3-octreotide somatostatin analog|Radiology
+SSTR|Somatostatin receptor|Radiology
+SRS|Somatostatin receptor scintigraphy|Radiology
+PRRT|Peptide receptor radionuclide therapy|Radiology
+RLT|Radioligand therapy|Radiology
+RIT|Radioimmunotherapy|Radiology
+RAI|Radioactive iodine|Radiology
+RAIT|Radioactive iodine therapy|Radiology
+WBS|Whole-body scan|Radiology
+WBS|Whole-body scintigraphy|Radiology
+TPBS|Three-phase bone scan|Radiology
+SPECT/CT|Single-photon emission computed tomography combined with computed tomography|Radiology
+GI bleed scan|Gastrointestinal bleeding scintigraphy|Radiology
+HBS|Hepatobiliary scintigraphy|Radiology
+GBEF|Gallbladder ejection fraction|Radiology
+CCK|Cholecystokinin|Radiology
+GER|Gastroesophageal reflux|Radiology
+GERD|Gastroesophageal reflux disease|Radiology
+SBTT|Small bowel transit time|Radiology
+CTT|Colonic transit time|Radiology
+RBCS|Red blood cell scintigraphy|Radiology
+CBF scan|Cerebral blood flow scan|Radiology
+BD scan|Brain death scintigraphy|Radiology
+CSF scan|Cerebrospinal fluid scintigraphy|Radiology
+RNC|Radionuclide cisternography|Radiology
+RNV|Radionuclide ventriculography|Radiology
+RVG|Radionuclide ventriculography|Radiology
+MUGA|Multigated acquisition|Radiology
+GBPS|Gated blood pool scan|Radiology
+GBP|Gated blood pool|Radiology
+RNA|Radionuclide angiography|Radiology
+SPECT MPI|Single-photon emission computed tomography myocardial perfusion imaging|Radiology
+PET MPI|Positron emission tomography myocardial perfusion imaging|Radiology
+MBF|Myocardial blood flow|Radiology
+MFR|Myocardial flow reserve|Radiology
+CFR|Coronary flow reserve|Radiology
+MPR|Myocardial perfusion reserve|Radiology
+SSS|Summed stress score|Radiology
+SRS|Summed rest score|Radiology
+SDS|Summed difference score|Radiology
+TID|Transient ischemic dilation|Radiology
+PSD|Phase standard deviation|Radiology
+HBW|Histogram bandwidth|Radiology
+ECG-gated|Electrocardiogram-gated|Radiology
+AC|Attenuation correction|Radiology
+NAC|Non-attenuation corrected|Radiology
+SC|Scatter correction|Radiology
+PVC|Partial volume correction|Radiology
+PVE|Partial volume effect|Radiology
+TOF|Time-of-flight PET|Radiology
+OSEM|Ordered subset expectation maximization|Radiology
+LOR|Line of response|Radiology
+FWHM|Full width at half maximum|Radiology
+NEMA|Standard for performance testing of PET scanners|Radiology
+MTV|Metabolic tumor volume|Radiology
+TLG|Total lesion glycolysis|Radiology
+SULpeak|Peak standardized uptake value normalized to lean body mass|Radiology
+SUL|Standardized uptake value normalized to lean body mass|Radiology
+SUVmean|Mean standardized uptake value|Radiology
+SUVbw|Standardized uptake value normalized to body weight|Radiology
+SUVlbm|Standardized uptake value normalized to lean body mass|Radiology
+SUVpeak|Peak standardized uptake value|Radiology
+TBR|Tumor-to-background ratio|Radiology
+T/B|Tumor-to-background ratio|Radiology
+TLR|Tumor-to-liver ratio|Radiology
+LBR|Lesion-to-background ratio|Radiology
+%ID|Percent injected dose|Radiology
+%ID/g|Percent injected dose per gram|Radiology
+MBq|Megabecquerel|Radiology
+GBq|Gigabecquerel|Radiology
+kBq|Kilobecquerel|Radiology
+Bq|Becquerel|Radiology
+mCi|Millicurie|Radiology
+Ci|Curie|Radiology
+uCi|Microcurie|Radiology
+cps|Counts per second|Radiology
+cpm|Counts per minute|Radiology
+t1/2|Half-life|Radiology
+T1/2|Half-life|Radiology
+LEHR|Low-energy high-resolution collimator|Radiology
+LEAP|Low-energy all-purpose collimator|Radiology
+MEGP|Medium-energy general-purpose collimator|Radiology
+HEGP|High-energy general-purpose collimator|Radiology
+PMT|Photomultiplier tube|Radiology
+NaI|Sodium iodide|Radiology
+CZT|Cadmium zinc telluride|Radiology
+LSO|Lutetium oxyorthosilicate|Radiology
+BGO|Bismuth germanate|Radiology
+GSO|Gadolinium oxyorthosilicate|Radiology
+LYSO|Lutetium yttrium oxyorthosilicate|Radiology
+SiPM|Silicon photomultiplier|Radiology
+TOF-PET|Time-of-flight positron emission tomography|Radiology
+ECAT|Emission computed axial tomography|Radiology
+UTE|Ultrashort echo time|Radiology
+ZTE|Zero echo time|Radiology
+Dixon|Water-fat separation MRI technique|Radiology
+PET-MRI|Positron emission tomography combined with magnetic resonance imaging|Radiology
+PMR|Partial metabolic response|Radiology
+NMR|No metabolic response|Radiology
+PMD|Progressive metabolic disease|Radiology
+SMD|Stable metabolic disease|Radiology
+PERCIST|Positron emission tomography response criteria in solid tumors|Radiology
+iRECIST|Immune response evaluation criteria in solid tumors|Radiology
+mRECIST|Modified response evaluation criteria in solid tumors|Radiology
+LD|Longest diameter|Radiology
+SLD|Sum of longest diameters|Radiology
+LDi|Longest diameter|Radiology
+SOD|Sum of diameters|Radiology
+NTL|Nontarget lesion|Radiology
+TL|Target lesion|Radiology
+NL|New lesion|Radiology
+UPD|Unconfirmed progressive disease|Radiology
+CPD|Confirmed progressive disease|Radiology
+iUPD|Immune unconfirmed progressive disease|Radiology
+iCPD|Immune confirmed progressive disease|Radiology
+iSD|Immune stable disease|Radiology
+iPR|Immune partial response|Radiology
+iCR|Immune complete response|Radiology
+CRu|Complete response unconfirmed|Radiology
+PFS|Progression-free survival|Radiology
+OS|Overall survival|Radiology
+ORR|Objective response rate|Radiology
+DCR|Disease control rate|Radiology
+BOR|Best overall response|Radiology
+NE|Not evaluable|Radiology
+ND|Not described|Radiology
+NAD|No abnormality detected|Radiology
+NAD|No acute disease|Radiology
+NACP|No acute cardiopulmonary process|Radiology
+NAP|No acute process|Radiology
+NAI|No acute intracranial abnormality|Radiology
+NAF|No acute fracture|Radiology
+NAFD|No acute fracture or dislocation|Radiology
+NOF|No acute osseous findings|Radiology
+NIC|No interval change|Radiology
+NIC|No interval change since prior study|Radiology
+ddx|Differential diagnosis|Radiology
+Ddx|Differential diagnosis|Radiology
+DDX|Differential diagnosis|Radiology
+DIBH|Deep inspiration breath hold|Radiology
+MAR|Metal artifact reduction|Radiology
+OMAR|Orthopedic metal artifact reduction|Radiology
+SEMAC|Slice encoding for metal artifact correction|Radiology
+MAVRIC|Multiacquisition variable-resonance image combination|Radiology
+VAT|Visceral adipose tissue|Radiology
+SAT|Subcutaneous adipose tissue|Radiology
+L3|Third lumbar vertebra level|Radiology
+BMI|Body mass index|Radiology
+BSA|Body surface area|Radiology
+LBM|Lean body mass|Radiology
+LAT|Lateral view|Radiology
+LAO|Left anterior oblique|Radiology
+RAO|Right anterior oblique|Radiology
+LPO|Left posterior oblique|Radiology
+RPO|Right posterior oblique|Radiology
+SPOT|Spot compression|Radiology
+MAG|Magnification|Radiology
+TOMO|Tomosynthesis|Radiology
+SM|Synthetic mammogram|Radiology
+2DSM|Two-dimensional synthesized mammogram|Radiology
+CEM|Contrast-enhanced mammography|Radiology
+CESM|Contrast-enhanced spectral mammography|Radiology
+CEDM|Contrast-enhanced digital mammography|Radiology
+BPE|Background parenchymal enhancement|Radiology
+FGT|Fibroglandular tissue|Radiology
+NME|Nonmass enhancement|Radiology
+FOCI|Foci|Radiology
+MCs|Microcalcifications|Radiology
+MCC|Microcalcification cluster|Radiology
+AD|Architectural distortion|Radiology
+ARD|Architectural distortion|Radiology
+ABER|Abduction and external rotation view|Radiology
+WB|Weight-bearing|Radiology
+NWB|Non-weight-bearing|Radiology
+SUP|Supine|Radiology
+PCXR|Portable chest x-ray|Radiology
+2V|Two views|Radiology
+3V|Three views|Radiology
+4V|Four views|Radiology
+1V|One view|Radiology
+SKS|Skeletal survey|Radiology
+BA|Bone age|Radiology
+NOF|Nonossifying fibroma|Radiology

@@ -1,0 +1,700 @@
+CK|Cytokeratin|Pathology
+CK5/6|Cytokeratin 5/6 (squamous and basal marker)|Pathology
+CK8/18|Cytokeratin 8/18 (simple epithelial marker)|Pathology
+CK19|Cytokeratin 19|Pathology
+CK903|Cytokeratin clone 34betaE12 (high-molecular-weight cytokeratin)|Pathology
+HMWCK|High-molecular-weight cytokeratin|Pathology
+LMWCK|Low-molecular-weight cytokeratin|Pathology
+AE1/AE3|Pan-cytokeratin antibody cocktail|Pathology
+PanCK|Pan-cytokeratin|Pathology
+p40|p40 nuclear marker of squamous and basal differentiation|Pathology
+p63|p63 nuclear marker of squamous, basal and myoepithelial cells|Pathology
+TTF-1|Thyroid transcription factor 1 (lung and thyroid marker)|Pathology
+GATA3|GATA binding protein 3 marker (breast and urothelial)|Pathology
+CDX2|Caudal-type homeobox 2 intestinal marker|Pathology
+SATB2|Special AT-rich sequence-binding protein 2 (colorectal and osteoblastic marker)|Pathology
+PAX8|Paired box 8 (renal, Mullerian and thyroid marker)|Pathology
+PAX5|Paired box 5 (B-cell marker)|Pathology
+WT1|Wilms tumor 1 protein marker (mesothelial and serous)|Pathology
+SOX10|SRY-box 10 (melanocytic and nerve sheath marker)|Pathology
+Napsin A|Napsin A (lung adenocarcinoma marker)|Pathology
+SP-A|Surfactant protein A|Pathology
+SP-B|Surfactant protein B|Pathology
+HMB-45|Human melanoma black 45 antibody|Pathology
+Melan-A|Melan-A melanocytic marker|Pathology
+MART-1|Melanoma antigen recognized by T cells 1|Pathology
+D2-40|D2-40 lymphatic endothelial and mesothelial marker|Pathology
+h-caldesmon|Heavy caldesmon (smooth muscle marker)|Pathology
+SMMHC|Smooth muscle myosin heavy chain|Pathology
+MSA|Muscle-specific actin|Pathology
+HHF-35|Muscle-specific actin antibody clone|Pathology
+MyoD1|Myogenic differentiation 1 marker|Pathology
+GCDFP-15|Gross cystic disease fluid protein 15|Pathology
+MGB|Mammaglobin|Pathology
+CAIX|Carbonic anhydrase IX|Pathology
+RCC Ag|Renal cell carcinoma antigen|Pathology
+Arg-1|Arginase-1 (hepatocellular marker)|Pathology
+HSA|Hepatocyte-specific antigen|Pathology
+MOC-31|MOC-31 epithelial antibody clone|Pathology
+Ber-EP4|Ber-EP4 epithelial cell adhesion antibody|Pathology
+B72.3|B72.3 tumor-associated glycoprotein antibody|Pathology
+TAG-72|Tumor-associated glycoprotein 72|Pathology
+EpCAM|Epithelial cell adhesion molecule|Pathology
+OCT3/4|Octamer-binding transcription factor 3/4|Pathology
+CD117|Cluster of differentiation 117 (stem cell factor receptor)|Pathology
+NSE|Neuron-specific enolase|Pathology
+HER2|Human epidermal growth factor receptor 2|Pathology
+Ki67|Ki-67 proliferation index antibody|Pathology
+MIB-1|MIB-1 antibody clone to Ki-67|Pathology
+PCNA|Proliferating cell nuclear antigen|Pathology
+Mum1|Multiple myeloma oncogene 1 protein|Pathology
+OCT2|Octamer transcription factor 2|Pathology
+BOB.1|B-cell Oct-binding protein 1|Pathology
+LMO2|LIM domain only 2 protein|Pathology
+TCL1|T-cell leukemia/lymphoma 1 protein|Pathology
+ZAP-70|Zeta-chain-associated protein kinase 70|Pathology
+EBER|Epstein-Barr virus-encoded RNA|Pathology
+EBER-ISH|Epstein-Barr virus-encoded RNA in situ hybridization|Pathology
+LMP1|Latent membrane protein 1 (Epstein-Barr virus)|Pathology
+LANA|Latency-associated nuclear antigen (HHV-8)|Pathology
+HHV-8|Human herpesvirus 8|Pathology
+EBV|Epstein-Barr virus|Pathology
+CMV|Cytomegalovirus|Pathology
+HSV|Herpes simplex virus|Pathology
+VZV|Varicella-zoster virus|Pathology
+HPV|Human papillomavirus|Pathology
+HBV|Hepatitis B virus|Pathology
+HCV|Hepatitis C virus|Pathology
+HDV|Hepatitis D virus|Pathology
+HIV|Human immunodeficiency virus|Pathology
+HTLV-1|Human T-cell leukemia virus type 1|Pathology
+JCV|John Cunningham polyomavirus|Pathology
+BKV|BK polyomavirus|Pathology
+SV40|Simian virus 40 large T antigen (polyomavirus marker)|Pathology
+MCPyV|Merkel cell polyomavirus|Pathology
+ACTH|Adrenocorticotropic hormone|Pathology
+GH|Growth hormone|Pathology
+PRL|Prolactin|Pathology
+TSH|Thyroid-stimulating hormone|Pathology
+FSH|Follicle-stimulating hormone|Pathology
+LH|Luteinizing hormone|Pathology
+PitNET|Pituitary neuroendocrine tumor|Pathology
+NFPA|Nonfunctioning pituitary adenoma|Pathology
+CD1a|Cluster of differentiation 1a (Langerhans cell and cortical thymocyte marker)|Pathology
+CD2|Cluster of differentiation 2 (T-cell and NK-cell marker)|Pathology
+CD3|Cluster of differentiation 3 (T-cell marker)|Pathology
+CD4|Cluster of differentiation 4 (helper T-cell marker)|Pathology
+CD5|Cluster of differentiation 5 (T-cell marker, aberrant on some B-cell lymphomas)|Pathology
+CD7|Cluster of differentiation 7 (T-cell marker)|Pathology
+CD8|Cluster of differentiation 8 (cytotoxic T-cell marker)|Pathology
+CD10|Cluster of differentiation 10 (germinal center, renal and lymphoblast marker)|Pathology
+CD11c|Cluster of differentiation 11c (hairy cell and monocyte marker)|Pathology
+CD13|Cluster of differentiation 13 (myeloid marker)|Pathology
+CD14|Cluster of differentiation 14 (monocyte marker)|Pathology
+CD15|Cluster of differentiation 15 (granulocyte and Hodgkin cell marker)|Pathology
+CD16|Cluster of differentiation 16 (NK-cell and neutrophil marker)|Pathology
+CD19|Cluster of differentiation 19 (B-cell marker)|Pathology
+CD20|Cluster of differentiation 20 (B-cell marker)|Pathology
+CD21|Cluster of differentiation 21 (follicular dendritic cell and B-cell marker)|Pathology
+CD22|Cluster of differentiation 22 (B-cell marker)|Pathology
+CD23|Cluster of differentiation 23 (CLL and follicular dendritic cell marker)|Pathology
+CD25|Cluster of differentiation 25 (interleukin-2 receptor alpha)|Pathology
+CD30|Cluster of differentiation 30 (Hodgkin and anaplastic large cell marker)|Pathology
+CD31|Cluster of differentiation 31 (endothelial marker)|Pathology
+CD33|Cluster of differentiation 33 (myeloid marker)|Pathology
+CD34|Cluster of differentiation 34 (progenitor and endothelial marker)|Pathology
+CD38|Cluster of differentiation 38 (plasma cell marker)|Pathology
+CD41|Cluster of differentiation 41 (platelet and megakaryocyte glycoprotein IIb)|Pathology
+CD42b|Cluster of differentiation 42b (platelet and megakaryocyte marker)|Pathology
+CD43|Cluster of differentiation 43 (T-cell and myeloid marker)|Pathology
+CD45|Cluster of differentiation 45 (leukocyte common antigen)|Pathology
+CD56|Cluster of differentiation 56 (NK-cell and neuroendocrine marker)|Pathology
+CD57|Cluster of differentiation 57 (NK-cell and T-cell subset marker)|Pathology
+CD61|Cluster of differentiation 61 (platelet and megakaryocyte glycoprotein IIIa)|Pathology
+CD64|Cluster of differentiation 64 (monocyte marker)|Pathology
+CD68|Cluster of differentiation 68 (macrophage marker)|Pathology
+CD71|Cluster of differentiation 71 (transferrin receptor, erythroid marker)|Pathology
+CD79a|Cluster of differentiation 79a (B-cell marker)|Pathology
+CD99|Cluster of differentiation 99 (Ewing sarcoma and lymphoblast marker)|Pathology
+CD103|Cluster of differentiation 103 (hairy cell and intraepithelial T-cell marker)|Pathology
+CD123|Cluster of differentiation 123 (plasmacytoid dendritic cell marker)|Pathology
+CD138|Cluster of differentiation 138 (plasma cell marker)|Pathology
+CD163|Cluster of differentiation 163 (macrophage marker)|Pathology
+CD200|Cluster of differentiation 200|Pathology
+CD4/CD8|Ratio of CD4-positive to CD8-positive T cells|Pathology
+Tregs|Regulatory T cells|Pathology
+CTL|Cytotoxic T lymphocyte|Pathology
+NK|Natural killer cell|Pathology
+Th|T helper cell|Pathology
+FDC|Follicular dendritic cell|Pathology
+DC|Dendritic cell|Pathology
+pDC|Plasmacytoid dendritic cell|Pathology
+MNGC|Multinucleated giant cell|Pathology
+PMN|Polymorphonuclear leukocyte|Pathology
+PMNs|Polymorphonuclear leukocytes|Pathology
+HPF|High-power field|Pathology
+LPF|Low-power field|Pathology
+hpf|High-power field|Pathology
+OIF|Oil immersion field|Pathology
+MI|Mitotic index|Pathology
+MC|Mitotic count|Pathology
+LI|Labeling index|Pathology
+PI|Proliferation index|Pathology
+H-score|Histoscore for immunostain intensity and percentage|Pathology
+IRS|Immunoreactive score|Pathology
+QS|Quickscore for immunostain evaluation|Pathology
+TC|Tumor cells|Pathology
+IC|Immune cells|Pathology
+TCP|Tumor cell percentage|Pathology
+HER2-low|HER2 IHC 1+ or 2+ without gene amplification|Pathology
+HER2-0|HER2 immunohistochemistry score of zero|Pathology
+DISH|Dual-color in situ hybridization|Pathology
+BDISH|Bright-field dual in situ hybridization|Pathology
+CEP17|Chromosome enumeration probe for chromosome 17|Pathology
+CEP|Chromosome enumeration probe|Pathology
+DAB|3,3'-diaminobenzidine chromogen|Pathology
+AEC|3-amino-9-ethylcarbazole chromogen|Pathology
+HRP|Horseradish peroxidase|Pathology
+AP|Alkaline phosphatase (as a detection enzyme)|Pathology
+ABC|Avidin-biotin complex|Pathology
+LSAB|Labeled streptavidin-biotin method|Pathology
+HIER|Heat-induced epitope retrieval|Pathology
+PIER|Proteolytic-induced epitope retrieval|Pathology
+AR|Antigen retrieval|Pathology
+NBT/BCIP|Nitro blue tetrazolium and 5-bromo-4-chloro-3-indolyl phosphate substrate|Pathology
+DAPI|4',6-diamidino-2-phenylindole nuclear counterstain|Pathology
+FITC|Fluorescein isothiocyanate|Pathology
+TRITC|Tetramethylrhodamine isothiocyanate|Pathology
+PE|Phycoerythrin (flow cytometry fluorochrome)|Pathology
+PerCP|Peridinin chlorophyll protein|Pathology
+7-AAD|7-aminoactinomycin D viability dye|Pathology
+FSC|Forward scatter|Pathology
+SSC|Side scatter|Pathology
+MFI|Mean fluorescence intensity|Pathology
+sIg|Surface immunoglobulin|Pathology
+cIg|Cytoplasmic immunoglobulin|Pathology
+TCR|T-cell receptor|Pathology
+TCRG|T-cell receptor gamma gene rearrangement|Pathology
+BCR|B-cell receptor|Pathology
+Ig|Immunoglobulin|Pathology
+PBS|Phosphate-buffered saline|Pathology
+TBS|Tris-buffered saline|Pathology
+PBST|Phosphate-buffered saline with Tween|Pathology
+BSA|Bovine serum albumin|Pathology
+OCT|Optimal cutting temperature compound|Pathology
+RPMI|Roswell Park Memorial Institute culture medium|Pathology
+FBS|Fetal bovine serum|Pathology
+DMSO|Dimethyl sulfoxide|Pathology
+EDTA|Ethylenediaminetetraacetic acid|Pathology
+SDS|Sodium dodecyl sulfate|Pathology
+SDS-PAGE|Sodium dodecyl sulfate polyacrylamide gel electrophoresis|Pathology
+WB|Western blot|Pathology
+ELISA|Enzyme-linked immunosorbent assay|Pathology
+EIA|Enzyme immunoassay|Pathology
+IFA|Immunofluorescence assay|Pathology
+DFA|Direct fluorescent antibody|Pathology
+LFA|Lateral flow assay|Pathology
+AB|Alcian blue stain|Pathology
+AB/PAS|Alcian blue with periodic acid-Schiff stain|Pathology
+DPAS|Periodic acid-Schiff with diastase digestion|Pathology
+Mucicarmine|Mucicarmine stain for epithelial mucin|Pathology
+Retic|Reticulin stain|Pathology
+CR|Congo red stain|Pathology
+ThT|Thioflavin T|Pathology
+ThS|Thioflavin S|Pathology
+ORO|Oil Red O stain for fat|Pathology
+LFB|Luxol fast blue stain for myelin|Pathology
+LFB-PAS|Luxol fast blue with periodic acid-Schiff stain|Pathology
+MT|Masson trichrome stain|Pathology
+Trichrome|Trichrome stain for collagen and muscle|Pathology
+EVG|Elastic van Gieson stain|Pathology
+Fe stain|Iron stain|Pathology
+Gram|Gram stain|Pathology
+GPC|Gram-positive cocci|Pathology
+GNR|Gram-negative rods|Pathology
+GPR|Gram-positive rods|Pathology
+GNDC|Gram-negative diplococci|Pathology
+GPCC|Gram-positive cocci in clusters|Pathology
+GPCP|Gram-positive cocci in pairs|Pathology
+GPCS|Gram-positive cocci in chains|Pathology
+KOH prep|Potassium hydroxide wet preparation for fungi|Pathology
+CFW|Calcofluor white stain|Pathology
+NTC|No template control|Pathology
+Ct|Cycle threshold|Pathology
+Cq|Quantification cycle|Pathology
+VAF|Variant allele frequency|Pathology
+LOD|Limit of detection|Pathology
+LDT|Laboratory-developed test|Pathology
+IVD|In vitro diagnostic|Pathology
+gDNA|Genomic DNA|Pathology
+cDNA|Complementary DNA|Pathology
+RNA-seq|RNA sequencing|Pathology
+RT-qPCR|Reverse transcription quantitative polymerase chain reaction|Pathology
+CGP|Comprehensive genomic profiling|Pathology
+CMA|Chromosomal microarray analysis|Pathology
+SKY|Spectral karyotyping|Pathology
+PGx|Pharmacogenomics|Pathology
+TMB-H|Tumor mutational burden high|Pathology
+MSI-L|Microsatellite instability low|Pathology
+IHC-MMR|Mismatch repair immunohistochemistry|Pathology
+HRR|Homologous recombination repair|Pathology
+NIPT|Noninvasive prenatal testing|Pathology
+TAT|Turnaround time|Pathology
+QC|Quality control|Pathology
+QA|Quality assurance|Pathology
+SOP|Standard operating procedure|Pathology
+IQC|Internal quality control|Pathology
+EQA|External quality assessment|Pathology
+PT|Proficiency testing|Pathology
+CV|Coefficient of variation|Pathology
+FS|Frozen section|Pathology
+FSD|Frozen section diagnosis|Pathology
+IOC|Intraoperative consultation|Pathology
+PS|Permanent section|Pathology
+TP|Touch preparation|Pathology
+CB|Cell block|Pathology
+DS|Direct smear|Pathology
+SFE|Satisfactory for evaluation|Pathology
+UNSAT|Unsatisfactory specimen|Pathology
+ND|Nondiagnostic|Pathology
+EC/TZ|Endocervical and transformation zone component|Pathology
+TZ|Transformation zone|Pathology
+HR-HPV|High-risk human papillomavirus|Pathology
+LR-HPV|Low-risk human papillomavirus|Pathology
+CT/NG|Chlamydia trachomatis and Neisseria gonorrhoeae testing|Pathology
+TV|Trichomonas vaginalis|Pathology
+BV|Bacterial vaginosis|Pathology
+NHGUC|Negative for high-grade urothelial carcinoma|Pathology
+AUC|Atypical urothelial cells|Pathology
+SHGUC|Suspicious for high-grade urothelial carcinoma|Pathology
+HGUC|High-grade urothelial carcinoma|Pathology
+LGUN|Low-grade urothelial neoplasm|Pathology
+UC|Urothelial carcinoma|Pathology
+PUNLMP|Papillary urothelial neoplasm of low malignant potential|Pathology
+LGPUC|Low-grade papillary urothelial carcinoma|Pathology
+HGPUC|High-grade papillary urothelial carcinoma|Pathology
+MPUC|Micropapillary urothelial carcinoma|Pathology
+UTUC|Upper tract urothelial carcinoma|Pathology
+LPI|Lamina propria invasion|Pathology
+DMP|Detrusor muscle present|Pathology
+G1|Grade 1, well differentiated|Pathology
+G2|Grade 2, moderately differentiated|Pathology
+G3|Grade 3, poorly differentiated|Pathology
+G4|Grade 4, undifferentiated|Pathology
+GX|Grade cannot be assessed|Pathology
+WD|Well differentiated|Pathology
+MD|Moderately differentiated|Pathology
+PD|Poorly differentiated|Pathology
+UD|Undifferentiated|Pathology
+HG|High grade|Pathology
+LG|Low grade|Pathology
+NHG|Nottingham histologic grade|Pathology
+TF|Tubule formation|Pathology
+pTis|Pathologic carcinoma in situ|Pathology
+pTa|Pathologic noninvasive papillary carcinoma|Pathology
+pT0|Pathologic stage with no evidence of primary tumor|Pathology
+pT1|Pathologic tumor stage 1|Pathology
+pT2|Pathologic tumor stage 2|Pathology
+pT3|Pathologic tumor stage 3|Pathology
+pT4|Pathologic tumor stage 4|Pathology
+pTX|Pathologic primary tumor cannot be assessed|Pathology
+pN0|No regional lymph node metastasis on pathology|Pathology
+pN1|Pathologic regional lymph node stage 1|Pathology
+pN2|Pathologic regional lymph node stage 2|Pathology
+pN3|Pathologic regional lymph node stage 3|Pathology
+pNX|Pathologic regional lymph nodes cannot be assessed|Pathology
+pN0(i+)|No nodal metastasis with isolated tumor cells present|Pathology
+pN0(mol+)|No nodal metastasis by histology but positive by molecular testing|Pathology
+pN1mi|Pathologic nodal micrometastasis|Pathology
+pM1|Pathologic distant metastasis|Pathology
+ypT|Pathologic tumor stage after neoadjuvant therapy|Pathology
+ypN|Pathologic node stage after neoadjuvant therapy|Pathology
+yT|Tumor stage after neoadjuvant therapy|Pathology
+rTNM|Staging of a recurrent tumor|Pathology
+aTNM|Staging determined at autopsy|Pathology
+Tis|Carcinoma in situ (tumor stage)|Pathology
+Ta|Noninvasive papillary carcinoma (tumor stage)|Pathology
+TX|Primary tumor cannot be assessed|Pathology
+NX|Regional lymph nodes cannot be assessed|Pathology
+MX|Distant metastasis cannot be assessed|Pathology
+L0|No lymphatic invasion|Pathology
+L1|Lymphatic invasion present|Pathology
+V0|No venous invasion|Pathology
+V1|Microscopic venous invasion|Pathology
+V2|Macroscopic venous invasion|Pathology
+Pn0|No perineural invasion|Pathology
+Pn1|Perineural invasion present|Pathology
+(sn)|Sentinel node suffix in staging|Pathology
+(i+)|Isolated tumor cells suffix in staging|Pathology
+(mol+)|Molecular positivity suffix in staging|Pathology
+LN|Lymph node|Pathology
+LNs|Lymph nodes|Pathology
+ALN|Axillary lymph node|Pathology
+IMN|Internal mammary node|Pathology
+NSLN|Non-sentinel lymph node|Pathology
+LNR|Lymph node ratio|Pathology
+LND|Lymph node dissection|Pathology
+PLND|Pelvic lymph node dissection|Pathology
+RND|Radical neck dissection|Pathology
+MRND|Modified radical neck dissection|Pathology
+SND|Selective neck dissection|Pathology
+CND|Central neck dissection|Pathology
+SM|Surgical margin|Pathology
+DM|Distal margin|Pathology
+PM|Proximal margin|Pathology
+RM|Radial margin|Pathology
+AM|Anterior margin|Pathology
+CM|Circumferential margin|Pathology
+Dx|Diagnosis|Pathology
+DDx|Differential diagnosis|Pathology
+Bx|Biopsy|Pathology
+Mets|Metastases|Pathology
+c/w|Consistent with|Pathology
+s/p|Status post|Pathology
+r/o|Rule out|Pathology
+pos|Positive|Pathology
+neg|Negative|Pathology
+SP|Surgical pathology|Pathology
+CP|Clinical pathology|Pathology
+LS|Longitudinal section|Pathology
+XS|Cross section|Pathology
+RS|Representative sections|Pathology
+LUL|Left upper lobe|Pathology
+LLL|Left lower lobe|Pathology
+RUL|Right upper lobe|Pathology
+RML|Right middle lobe|Pathology
+RLL|Right lower lobe|Pathology
+UOQ|Upper outer quadrant|Pathology
+UIQ|Upper inner quadrant|Pathology
+LOQ|Lower outer quadrant|Pathology
+LIQ|Lower inner quadrant|Pathology
+NAC|Nipple-areolar complex|Pathology
+MRM|Modified radical mastectomy|Pathology
+BCS|Breast-conserving surgery|Pathology
+BCT|Breast-conserving therapy|Pathology
+SR|Specimen radiograph|Pathology
+WL|Wire localization|Pathology
+RSL|Radioactive seed localization|Pathology
+IMPC|Invasive micropapillary carcinoma|Pathology
+IBC|Inflammatory breast cancer|Pathology
+MBC|Metaplastic breast carcinoma|Pathology
+EPC|Encapsulated papillary carcinoma|Pathology
+SPC|Solid papillary carcinoma|Pathology
+IPC|Intraductal papillary carcinoma|Pathology
+IDP|Intraductal papilloma|Pathology
+FA|Fibroadenoma|Pathology
+PT|Phyllodes tumor|Pathology
+PASH|Pseudoangiomatous stromal hyperplasia|Pathology
+RS|Radial scar|Pathology
+CSL|Complex sclerosing lesion|Pathology
+CCL|Columnar cell lesion|Pathology
+CCC|Columnar cell change|Pathology
+ALH|Atypical lobular hyperplasia|Pathology
+PLCIS|Pleomorphic lobular carcinoma in situ|Pathology
+LN|Lobular neoplasia|Pathology
+AdCC|Adenoid cystic carcinoma|Pathology
+ACiCC|Acinic cell carcinoma|Pathology
+EMC|Epithelial-myoepithelial carcinoma|Pathology
+PLGA|Polymorphous low-grade adenocarcinoma|Pathology
+CXPA|Carcinoma ex pleomorphic adenoma|Pathology
+PA|Pleomorphic adenoma|Pathology
+SGT|Salivary gland tumor|Pathology
+SMG|Submandibular gland|Pathology
+SCCIS|Squamous cell carcinoma in situ|Pathology
+SCCUP|Squamous cell carcinoma of unknown primary|Pathology
+CUP|Cancer of unknown primary|Pathology
+BSCC|Basaloid squamous cell carcinoma|Pathology
+VC|Verrucous carcinoma|Pathology
+OL|Oral leukoplakia|Pathology
+PVL|Proliferative verrucous leukoplakia|Pathology
+OSF|Oral submucous fibrosis|Pathology
+OKC|Odontogenic keratocyst|Pathology
+CGCG|Central giant cell granuloma|Pathology
+ORN|Osteoradionecrosis|Pathology
+AK|Actinic keratosis|Pathology
+SK|Seborrheic keratosis|Pathology
+KA|Keratoacanthoma|Pathology
+KC|Keratinocyte carcinoma|Pathology
+NMSC|Nonmelanoma skin cancer|Pathology
+MM|Malignant melanoma|Pathology
+MIS|Melanoma in situ|Pathology
+NM|Nodular melanoma|Pathology
+RGP|Radial growth phase|Pathology
+VGP|Vertical growth phase|Pathology
+AMP|Atypical melanocytic proliferation|Pathology
+DPN|Deep penetrating nevus|Pathology
+CMN|Congenital melanocytic nevus|Pathology
+CN|Compound nevus|Pathology
+JN|Junctional nevus|Pathology
+IDN|Intradermal nevus|Pathology
+CBN|Cellular blue nevus|Pathology
+DN|Dysplastic nevus|Pathology
+PEM|Pigmented epithelioid melanocytoma|Pathology
+UM|Uveal melanoma|Pathology
+RB|Retinoblastoma|Pathology
+PCFCL|Primary cutaneous follicle center lymphoma|Pathology
+PCMZL|Primary cutaneous marginal zone lymphoma|Pathology
+pcALCL|Primary cutaneous anaplastic large cell lymphoma|Pathology
+DEJ|Dermal-epidermal junction|Pathology
+BMZ|Basement membrane zone|Pathology
+SC|Stratum corneum|Pathology
+SG|Stratum granulosum|Pathology
+LP|Lamina propria|Pathology
+MM|Muscularis mucosae|Pathology
+SMC|Smooth muscle cell|Pathology
+ECM|Extracellular matrix|Pathology
+LCV|Leukocytoclastic vasculitis|Pathology
+PLEVA|Pityriasis lichenoides et varioliformis acuta|Pathology
+PLC|Pityriasis lichenoides chronica|Pathology
+PRP|Pityriasis rubra pilaris|Pathology
+LABD|Linear IgA bullous dermatosis|Pathology
+EBA|Epidermolysis bullosa acquisita|Pathology
+PV|Pemphigus vulgaris|Pathology
+EM|Erythema multiforme|Pathology
+GA|Granuloma annulare|Pathology
+DM|Dermatomyositis|Pathology
+IM|Intestinal metaplasia|Pathology
+CAG|Chronic atrophic gastritis|Pathology
+PUD|Peptic ulcer disease|Pathology
+UC|Ulcerative colitis|Pathology
+MC|Microscopic colitis|Pathology
+LC|Lymphocytic colitis|Pathology
+CC|Collagenous colitis|Pathology
+CeD|Celiac disease|Pathology
+VBA|Villous blunting and atrophy|Pathology
+EG|Eosinophilic gastritis|Pathology
+ICC|Intrahepatic cholangiocarcinoma|Pathology
+pCCA|Perihilar cholangiocarcinoma|Pathology
+dCCA|Distal cholangiocarcinoma|Pathology
+GBC|Gallbladder cancer|Pathology
+GB|Gallbladder|Pathology
+CBD|Common bile duct|Pathology
+PPPD|Pylorus-preserving pancreaticoduodenectomy|Pathology
+DP|Distal pancreatectomy|Pathology
+SBR|Small bowel resection|Pathology
+RHC|Right hemicolectomy|Pathology
+LHC|Left hemicolectomy|Pathology
+MiNEN|Mixed neuroendocrine-nonneuroendocrine neoplasm|Pathology
+MANEC|Mixed adenoneuroendocrine carcinoma|Pathology
+PanNET|Pancreatic neuroendocrine tumor|Pathology
+GEP-NET|Gastroenteropancreatic neuroendocrine tumor|Pathology
+NET G1|Neuroendocrine tumor grade 1|Pathology
+NET G2|Neuroendocrine tumor grade 2|Pathology
+NET G3|Neuroendocrine tumor grade 3|Pathology
+CHC|Combined hepatocellular-cholangiocarcinoma|Pathology
+FNH|Focal nodular hyperplasia|Pathology
+HCA|Hepatocellular adenoma|Pathology
+NRH|Nodular regenerative hyperplasia|Pathology
+SAF|Steatosis, activity and fibrosis score|Pathology
+ALD|Alcoholic liver disease|Pathology
+DILI|Drug-induced liver injury|Pathology
+VBDS|Vanishing bile duct syndrome|Pathology
+ESLD|End-stage liver disease|Pathology
+OLT|Orthotopic liver transplant|Pathology
+BDL|Bile duct loss|Pathology
+PT|Portal tract|Pathology
+CV|Central vein|Pathology
+GBM|Glomerular basement membrane|Pathology
+TBM|Tubular basement membrane|Pathology
+GN|Glomerulonephritis|Pathology
+PIGN|Post-infectious glomerulonephritis|Pathology
+LN|Lupus nephritis|Pathology
+TMA|Thrombotic microangiopathy|Pathology
+AIN|Acute interstitial nephritis|Pathology
+TIN|Tubulointerstitial nephritis|Pathology
+GGS|Global glomerulosclerosis|Pathology
+SGS|Segmental glomerulosclerosis|Pathology
+C3G|C3 glomerulopathy|Pathology
+DDD|Dense deposit disease|Pathology
+FGN|Fibrillary glomerulonephritis|Pathology
+MIDD|Monoclonal immunoglobulin deposition disease|Pathology
+PGNMID|Proliferative glomerulonephritis with monoclonal immunoglobulin deposits|Pathology
+BKVN|BK virus nephropathy|Pathology
+PVAN|Polyomavirus-associated nephropathy|Pathology
+ABMR|Antibody-mediated rejection|Pathology
+CNI|Calcineurin inhibitor|Pathology
+TG|Transplant glomerulopathy|Pathology
+PTC|Peritubular capillaries|Pathology
+RO|Renal oncocytoma|Pathology
+ccPRCC|Clear cell papillary renal cell carcinoma|Pathology
+PN|Partial nephrectomy|Pathology
+NSS|Nephron-sparing surgery|Pathology
+NU|Nephroureterectomy|Pathology
+RC|Radical cystectomy|Pathology
+SBx|Systematic biopsy|Pathology
+TBx|Targeted biopsy|Pathology
+PCa|Prostate cancer|Pathology
+CSPCa|Clinically significant prostate cancer|Pathology
+RALP|Robot-assisted laparoscopic prostatectomy|Pathology
+PZ|Peripheral zone|Pathology
+CZ|Central zone|Pathology
+AFMS|Anterior fibromuscular stroma|Pathology
+SV|Seminal vesicle|Pathology
+VD|Vas deferens|Pathology
+BN|Bladder neck|Pathology
+fPSA|Free prostate-specific antigen|Pathology
+tPSA|Total prostate-specific antigen|Pathology
+PSAD|Prostate-specific antigen density|Pathology
+TRUS|Transrectal ultrasound|Pathology
+ITGCN|Intratubular germ cell neoplasia|Pathology
+EC|Embryonal carcinoma|Pathology
+SCST|Sex cord-stromal tumor|Pathology
+RTE|Rete testis|Pathology
+SpC|Spermatic cord|Pathology
+AEH|Atypical endometrial hyperplasia|Pathology
+EH|Endometrial hyperplasia|Pathology
+SEC|Serous endometrial carcinoma|Pathology
+UPSC|Uterine papillary serous carcinoma|Pathology
+CS|Carcinosarcoma|Pathology
+MELF|Microcystic, elongated and fragmented pattern of myoinvasion|Pathology
+p53abn|p53 abnormal (molecular subtype of endometrial carcinoma)|Pathology
+p53wt|p53 wild type|Pathology
+NSMP|No specific molecular profile|Pathology
+LUS|Lower uterine segment|Pathology
+DOI|Depth of invasion|Pathology
+MI|Myometrial invasion|Pathology
+AGCT|Adult granulosa cell tumor|Pathology
+JGCT|Juvenile granulosa cell tumor|Pathology
+SCTAT|Sex cord tumor with annular tubules|Pathology
+MCT|Mature cystic teratoma|Pathology
+IT|Immature teratoma|Pathology
+DG|Dysgerminoma|Pathology
+MBT|Mucinous borderline tumor|Pathology
+BOT|Borderline ovarian tumor|Pathology
+CCOC|Clear cell ovarian carcinoma|Pathology
+EnOC|Endometrioid ovarian carcinoma|Pathology
+MOC|Mucinous ovarian carcinoma|Pathology
+HGSOC|High-grade serous ovarian carcinoma|Pathology
+LGSOC|Low-grade serous ovarian carcinoma|Pathology
+EOC|Epithelial ovarian cancer|Pathology
+FTE|Fallopian tube epithelium|Pathology
+SEE-FIM|Sectioning and extensively examining the fimbriated end|Pathology
+STIL|Serous tubal intraepithelial lesion|Pathology
+PPC|Primary peritoneal carcinoma|Pathology
+GAS|Gastric-type adenocarcinoma of the cervix|Pathology
+MDA|Minimal deviation adenocarcinoma|Pathology
+SMILE|Stratified mucin-producing intraepithelial lesion|Pathology
+CGIN|Cervical glandular intraepithelial neoplasia|Pathology
+dVIN|Differentiated vulvar intraepithelial neoplasia|Pathology
+uVIN|Usual-type vulvar intraepithelial neoplasia|Pathology
+AIN|Anal intraepithelial neoplasia|Pathology
+LSC|Lichen simplex chronicus|Pathology
+TLH|Total laparoscopic hysterectomy|Pathology
+TVH|Total vaginal hysterectomy|Pathology
+LAVH|Laparoscopically assisted vaginal hysterectomy|Pathology
+RH|Radical hysterectomy|Pathology
+SCH|Supracervical hysterectomy|Pathology
+BTL|Bilateral tubal ligation|Pathology
+POC|Products of conception|Pathology
+SAB|Spontaneous abortion|Pathology
+TAB|Therapeutic abortion|Pathology
+EGA|Estimated gestational age|Pathology
+CHM|Complete hydatidiform mole|Pathology
+PHM|Partial hydatidiform mole|Pathology
+HM|Hydatidiform mole|Pathology
+IM|Invasive mole|Pathology
+VUE|Villitis of unknown etiology|Pathology
+MVM|Maternal vascular malperfusion|Pathology
+FVM|Fetal vascular malperfusion|Pathology
+MFI|Maternal floor infarction|Pathology
+PAS|Placenta accreta spectrum|Pathology
+TTTS|Twin-twin transfusion syndrome|Pathology
+FIRS|Fetal inflammatory response syndrome|Pathology
+SUA|Single umbilical artery|Pathology
+AGA|Appropriate for gestational age|Pathology
+LGA|Large for gestational age|Pathology
+NTD|Neural tube defect|Pathology
+SB|Stillbirth|Pathology
+NND|Neonatal death|Pathology
+BPD|Bronchopulmonary dysplasia|Pathology
+RDS|Respiratory distress syndrome|Pathology
+HMD|Hyaline membrane disease|Pathology
+NEC|Necrotizing enterocolitis|Pathology
+PVL|Periventricular leukomalacia|Pathology
+GMH|Germinal matrix hemorrhage|Pathology
+HIE|Hypoxic-ischemic encephalopathy|Pathology
+TBI|Traumatic brain injury|Pathology
+DAI|Diffuse axonal injury|Pathology
+SDH|Subdural hematoma|Pathology
+EDH|Epidural hematoma|Pathology
+SAH|Subarachnoid hemorrhage|Pathology
+ICH|Intracerebral hemorrhage|Pathology
+IVH|Intraventricular hemorrhage|Pathology
+SBS|Shaken baby syndrome|Pathology
+AHT|Abusive head trauma|Pathology
+PME|Postmortem examination|Pathology
+COD|Cause of death|Pathology
+MOD|Manner of death|Pathology
+ME|Medical examiner|Pathology
+DOA|Dead on arrival|Pathology
+BID|Brought in dead|Pathology
+TOD|Time of death|Pathology
+GSW|Gunshot wound|Pathology
+MVC|Motor vehicle collision|Pathology
+BAC|Blood alcohol concentration|Pathology
+ETOH|Ethanol|Pathology
+DOD|Died of disease|Pathology
+AWD|Alive with disease|Pathology
+DOC|Dead of other causes|Pathology
+AMI|Acute myocardial infarction|Pathology
+LVH|Left ventricular hypertrophy|Pathology
+HCM|Hypertrophic cardiomyopathy|Pathology
+DCM|Dilated cardiomyopathy|Pathology
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Pathology
+EMB|Endomyocardial biopsy|Pathology
+GCM|Giant cell myocarditis|Pathology
+IE|Infective endocarditis|Pathology
+NBTE|Nonbacterial thrombotic endocarditis|Pathology
+LAD|Left anterior descending coronary artery|Pathology
+RCA|Right coronary artery|Pathology
+LCx|Left circumflex coronary artery|Pathology
+LMCA|Left main coronary artery|Pathology
+SCAD|Spontaneous coronary artery dissection|Pathology
+PE|Pulmonary embolism|Pathology
+DVT|Deep vein thrombosis|Pathology
+CAD|Coronary artery disease|Pathology
+AAA|Abdominal aortic aneurysm|Pathology
+ILD|Interstitial lung disease|Pathology
+HP|Hypersensitivity pneumonitis|Pathology
+EP|Eosinophilic pneumonia|Pathology
+DAH|Diffuse alveolar hemorrhage|Pathology
+BOOP|Bronchiolitis obliterans organizing pneumonia|Pathology
+LAM|Lymphangioleiomyomatosis|Pathology
+PPFE|Pleuroparenchymal fibroelastosis|Pathology
+AFOP|Acute fibrinous and organizing pneumonia|Pathology
+PVOD|Pulmonary veno-occlusive disease|Pathology
+PAH|Pulmonary arterial hypertension|Pathology
+ABPA|Allergic bronchopulmonary aspergillosis|Pathology
+IPA|Invasive pulmonary aspergillosis|Pathology
+TBLC|Transbronchial lung cryobiopsy|Pathology
+TBLB|Transbronchial lung biopsy|Pathology
+VATS|Video-assisted thoracoscopic surgery|Pathology
+SLB|Surgical lung biopsy|Pathology
+GBM|Glioblastoma|Pathology
+OD|Oligodendroglioma|Pathology
+AA|Anaplastic astrocytoma|Pathology
+AO|Anaplastic oligodendroglioma|Pathology
+DA|Diffuse astrocytoma|Pathology
+PA|Pilocytic astrocytoma|Pathology
+EPN|Ependymoma|Pathology
+CPP|Choroid plexus papilloma|Pathology
+CPC|Choroid plexus carcinoma|Pathology
+SFT|Solitary fibrous tumor|Pathology
+ETMR|Embryonal tumor with multilayered rosettes|Pathology
+CNS|Central nervous system|Pathology
+LBD|Lewy body disease|Pathology
+ADNC|Alzheimer disease neuropathologic change|Pathology
+LATE|Limbic-predominant age-related TDP-43 encephalopathy|Pathology
+TDP-43|TAR DNA-binding protein 43|Pathology
+PrP|Prion protein|Pathology
+MSA|Multiple system atrophy|Pathology
+ARTAG|Aging-related tau astrogliopathy|Pathology
+PART|Primary age-related tauopathy|Pathology
+SVD|Small vessel disease|Pathology
+CADASIL|Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy|Pathology
+HSE|Herpes simplex encephalitis|Pathology
+MS|Multiple sclerosis|Pathology
+STS|Soft tissue sarcoma|Pathology
+OS|Osteosarcoma|Pathology
+CS|Chondrosarcoma|Pathology
+SS|Synovial sarcoma|Pathology

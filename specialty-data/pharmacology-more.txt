@@ -1,0 +1,896 @@
+QOD|Every other day|Pharmacology
+QHS|Every night at bedtime|Pharmacology
+QAM|Every morning|Pharmacology
+QPM|Every evening|Pharmacology
+QAC|Before each meal|Pharmacology
+QW|Once weekly|Pharmacology
+BIW|Twice weekly|Pharmacology
+TIW|Three times weekly|Pharmacology
+q1h|Every 1 hour|Pharmacology
+q2h|Every 2 hours|Pharmacology
+q3h|Every 3 hours|Pharmacology
+q24h|Every 24 hours|Pharmacology
+q36h|Every 36 hours|Pharmacology
+q48h|Every 48 hours|Pharmacology
+q72h|Every 72 hours|Pharmacology
+q15min|Every 15 minutes|Pharmacology
+q30min|Every 30 minutes|Pharmacology
+qshift|Every shift|Pharmacology
+qs|Quantity sufficient|Pharmacology
+qs ad|Quantity sufficient to make|Pharmacology
+ad lib|As desired (ad libitum)|Pharmacology
+ATC|Around the clock|Pharmacology
+gtt|Drop|Pharmacology
+gtts|Drops|Pharmacology
+ss|One half (semis)|Pharmacology
+aa|Of each|Pharmacology
+cc|Cubic centimeter|Pharmacology
+gr|Grain|Pharmacology
+tsp|Teaspoon|Pharmacology
+Tbsp|Tablespoon|Pharmacology
+oz|Ounce|Pharmacology
+Sig|Directions for use on the label (signa)|Pharmacology
+Disp|Dispense|Pharmacology
+RF|Refills|Pharmacology
+NR|No refills|Pharmacology
+DAW|Dispense as written|Pharmacology
+DS|Days' supply|Pharmacology
+UD|Unit dose|Pharmacology
+D/C|Discontinue (also discharge; ambiguous)|Pharmacology
+VO|Verbal order|Pharmacology
+TO|Telephone order|Pharmacology
+NKDA|No known drug allergies|Pharmacology
+NKA|No known allergies|Pharmacology
+PTA|Prior to admission (as in home medications)|Pharmacology
+mcg|Microgram|Pharmacology
+ug|Microgram (error-prone abbreviation)|Pharmacology
+mg|Milligram|Pharmacology
+g|Gram|Pharmacology
+kg|Kilogram|Pharmacology
+mL|Milliliter|Pharmacology
+L|Liter|Pharmacology
+dL|Deciliter|Pharmacology
+mEq|Milliequivalent|Pharmacology
+mEq/L|Milliequivalents per liter|Pharmacology
+mEq/kg|Milliequivalents per kilogram|Pharmacology
+mmol|Millimole|Pharmacology
+mmol/L|Millimoles per liter|Pharmacology
+umol/L|Micromoles per liter|Pharmacology
+nmol/L|Nanomoles per liter|Pharmacology
+mOsm|Milliosmole|Pharmacology
+mOsm/kg|Milliosmoles per kilogram|Pharmacology
+IU|International unit|Pharmacology
+U|Unit (error-prone abbreviation)|Pharmacology
+units/kg|Units per kilogram|Pharmacology
+units/hr|Units per hour|Pharmacology
+mL/hr|Milliliters per hour|Pharmacology
+mg/hr|Milligrams per hour|Pharmacology
+mg/min|Milligrams per minute|Pharmacology
+mcg/min|Micrograms per minute|Pharmacology
+mcg/hr|Micrograms per hour|Pharmacology
+mcg/kg/hr|Micrograms per kilogram per hour|Pharmacology
+mg/kg/day|Milligrams per kilogram per day|Pharmacology
+mg/kg/dose|Milligrams per kilogram per dose|Pharmacology
+mg/m2|Milligrams per square meter|Pharmacology
+mg/24h|Milligrams per 24 hours|Pharmacology
+g/dL|Grams per deciliter|Pharmacology
+pg/mL|Picograms per milliliter|Pharmacology
+ng/dL|Nanograms per deciliter|Pharmacology
+mcg/dL|Micrograms per deciliter|Pharmacology
+mL/min|Milliliters per minute|Pharmacology
+mL/min/1.73 m2|Milliliters per minute per 1.73 square meters of body surface area|Pharmacology
+mL/kg|Milliliters per kilogram|Pharmacology
+mmHg|Millimeters of mercury|Pharmacology
+NG|Nasogastric|Pharmacology
+OG|Orogastric|Pharmacology
+NJ|Nasojejunal|Pharmacology
+GT|Gastrostomy tube|Pharmacology
+JT|Jejunostomy tube|Pharmacology
+ET|Endotracheal|Pharmacology
+IO|Intraosseous|Pharmacology
+IA|Intra-arterial|Pharmacology
+IP|Intraperitoneal|Pharmacology
+IVT|Intravitreal|Pharmacology
+SQ|Subcutaneous|Pharmacology
+SubQ|Subcutaneous|Pharmacology
+BUC|Buccal|Pharmacology
+TOP|Topical|Pharmacology
+PV|Per vagina|Pharmacology
+EPID|Epidural|Pharmacology
+CVC|Central venous catheter|Pharmacology
+PICC|Peripherally inserted central catheter|Pharmacology
+KVO|Keep vein open|Pharmacology
+TKO|To keep open|Pharmacology
+LR|Lactated Ringer's|Pharmacology
+RL|Ringer's lactate|Pharmacology
+D5LR|5 percent dextrose in lactated Ringer's|Pharmacology
+D5 1/4NS|5 percent dextrose in quarter-normal saline|Pharmacology
+MIVF|Maintenance intravenous fluids|Pharmacology
+LVP|Large-volume parenteral|Pharmacology
+SVP|Small-volume parenteral|Pharmacology
+PPN|Peripheral parenteral nutrition|Pharmacology
+TNA|Total nutrient admixture|Pharmacology
+TF|Tube feeding|Pharmacology
+ONS|Oral nutritional supplement|Pharmacology
+MCT|Medium-chain triglycerides|Pharmacology
+LCT|Long-chain triglycerides|Pharmacology
+GIR|Glucose infusion rate|Pharmacology
+HES|Hydroxyethyl starch|Pharmacology
+Alb|Albumin|Pharmacology
+PRBC|Packed red blood cells|Pharmacology
+Cryo|Cryoprecipitate|Pharmacology
+KPhos|Potassium phosphate|Pharmacology
+NaAc|Sodium acetate|Pharmacology
+NH4Cl|Ammonium chloride|Pharmacology
+CaCO3|Calcium carbonate|Pharmacology
+FeSO4|Ferrous sulfate|Pharmacology
+Fe|Iron|Pharmacology
+Zn|Zinc|Pharmacology
+MVI|Multivitamin|Pharmacology
+Vit C|Vitamin C (ascorbic acid)|Pharmacology
+Vit A|Vitamin A|Pharmacology
+Vit E|Vitamin E|Pharmacology
+B1|Vitamin B1 (thiamine)|Pharmacology
+B2|Vitamin B2 (riboflavin)|Pharmacology
+B3|Vitamin B3 (niacin)|Pharmacology
+B9|Vitamin B9 (folate)|Pharmacology
+D2|Vitamin D2 (ergocalciferol)|Pharmacology
+D3|Vitamin D3 (cholecalciferol)|Pharmacology
+25(OH)D|25-hydroxyvitamin D|Pharmacology
+SOL|Solution|Pharmacology
+soln|Solution|Pharmacology
+susp|Suspension|Pharmacology
+syr|Syrup|Pharmacology
+elix|Elixir|Pharmacology
+inj|Injection|Pharmacology
+supp|Suppository|Pharmacology
+oint|Ointment|Pharmacology
+crm|Cream|Pharmacology
+lot|Lotion|Pharmacology
+tinct|Tincture|Pharmacology
+chew|Chewable tablet|Pharmacology
+FDT|Fast-dissolving tablet|Pharmacology
+MR|Modified release|Pharmacology
+PR|Prolonged release|Pharmacology
+TR|Timed release|Pharmacology
+LAR|Long-acting release|Pharmacology
+TDS|Transdermal delivery system|Pharmacology
+TTS|Transdermal therapeutic system|Pharmacology
+IUS|Intrauterine system|Pharmacology
+PFS|Prefilled syringe|Pharmacology
+AI|Auto-injector|Pharmacology
+MDV|Multidose vial|Pharmacology
+SDV|Single-dose vial|Pharmacology
+CI|Continuous infusion|Pharmacology
+CRI|Continuous rate infusion|Pharmacology
+EI|Extended infusion|Pharmacology
+RTU|Ready to use|Pharmacology
+BUD|Beyond-use date|Pharmacology
+HD|Hazardous drug|Pharmacology
+CSP|Compounded sterile preparation|Pharmacology
+CSTD|Closed-system transfer device|Pharmacology
+PPE|Personal protective equipment|Pharmacology
+BSC|Biological safety cabinet|Pharmacology
+LAFW|Laminar airflow workbench|Pharmacology
+SDS|Safety data sheet|Pharmacology
+SVN|Small-volume nebulizer|Pharmacology
+HHN|Hand-held nebulizer|Pharmacology
+ADC|Automated dispensing cabinet|Pharmacology
+HAM|High-alert medication|Pharmacology
+LASA|Look-alike sound-alike|Pharmacology
+FMEA|Failure mode and effects analysis|Pharmacology
+RCA|Root cause analysis|Pharmacology
+RPh|Registered pharmacist|Pharmacology
+PharmD|Doctor of Pharmacy|Pharmacology
+CPhT|Certified pharmacy technician|Pharmacology
+P&T|Pharmacy and therapeutics (committee)|Pharmacology
+PBM|Pharmacy benefit manager|Pharmacology
+PA|Prior authorization|Pharmacology
+ST|Step therapy|Pharmacology
+QL|Quantity limit|Pharmacology
+NF|Nonformulary|Pharmacology
+UM|Utilization management|Pharmacology
+AWP|Average wholesale price|Pharmacology
+WAC|Wholesale acquisition cost|Pharmacology
+ASP|Average sales price|Pharmacology
+MAC|Maximum allowable cost|Pharmacology
+OOP|Out of pocket|Pharmacology
+DUR|Drug utilization review|Pharmacology
+DUE|Drug use evaluation|Pharmacology
+MUE|Medication use evaluation|Pharmacology
+MPR|Medication possession ratio|Pharmacology
+PDC|Proportion of days covered|Pharmacology
+MEMS|Medication event monitoring system|Pharmacology
+RTBC|Real-time benefit check|Pharmacology
+eRx|Electronic prescribing|Pharmacology
+EPCS|Electronic prescribing of controlled substances|Pharmacology
+CS|Controlled substance|Pharmacology
+C-I|Schedule I controlled substance|Pharmacology
+C-III|Schedule III controlled substance|Pharmacology
+C-IV|Schedule IV controlled substance|Pharmacology
+C-V|Schedule V controlled substance|Pharmacology
+ATC|Anatomical Therapeutic Chemical (drug classification system)|Pharmacology
+DDD|Defined daily dose|Pharmacology
+PDD|Prescribed daily dose|Pharmacology
+INN|International nonproprietary name|Pharmacology
+NCE|New chemical entity|Pharmacology
+NME|New molecular entity|Pharmacology
+BS|Biosimilar|Pharmacology
+RP|Reference product|Pharmacology
+RLD|Reference listed drug|Pharmacology
+ODD|Orphan drug designation|Pharmacology
+BTD|Breakthrough therapy designation|Pharmacology
+EAP|Expanded access program|Pharmacology
+CU|Compassionate use|Pharmacology
+OL|Off-label|Pharmacology
+OLU|Off-label use|Pharmacology
+PV|Pharmacovigilance|Pharmacology
+PMS|Postmarketing surveillance|Pharmacology
+ICSR|Individual case safety report|Pharmacology
+PSUR|Periodic safety update report|Pharmacology
+RMP|Risk management plan|Pharmacology
+SUSAR|Suspected unexpected serious adverse reaction|Pharmacology
+CTCAE|Common Terminology Criteria for Adverse Events|Pharmacology
+SPC|Summary of product characteristics|Pharmacology
+PI|Package insert|Pharmacology
+PIL|Patient information leaflet|Pharmacology
+BBW|Boxed warning (black box warning)|Pharmacology
+C/I|Contraindication|Pharmacology
+W&P|Warnings and precautions|Pharmacology
+DI|Drug interaction|Pharmacology
+TOC|Transitions of care|Pharmacology
+DC meds|Discharge medications|Pharmacology
+OPAT|Outpatient parenteral antimicrobial therapy|Pharmacology
+STOPP|Screening Tool of Older Persons' Prescriptions|Pharmacology
+START|Screening Tool to Alert to Right Treatment|Pharmacology
+ACB|Anticholinergic cognitive burden|Pharmacology
+ARS|Anticholinergic risk scale|Pharmacology
+DBI|Drug burden index|Pharmacology
+LDA|Low-dose aspirin|Pharmacology
+EC-ASA|Enteric-coated aspirin|Pharmacology
+DP|Dipyridamole|Pharmacology
+Cp|Plasma concentration|Pharmacology
+Cpeak|Peak concentration|Pharmacology
+Ctrough|Trough concentration|Pharmacology
+Cavg|Average concentration|Pharmacology
+Cmax,ss|Maximum concentration at steady state|Pharmacology
+Cmin,ss|Minimum concentration at steady state|Pharmacology
+C0|Initial concentration at time zero|Pharmacology
+AUC0-inf|Area under the curve from time zero to infinity|Pharmacology
+AUCinf|Area under the curve extrapolated to infinity|Pharmacology
+AUC0-t|Area under the curve from time zero to the last measurable concentration|Pharmacology
+AUC0-12|Area under the curve over 12 hours|Pharmacology
+AUCtau|Area under the curve over a dosing interval|Pharmacology
+CL|Clearance|Pharmacology
+CL/F|Apparent oral clearance|Pharmacology
+CLr|Renal clearance|Pharmacology
+CLh|Hepatic clearance|Pharmacology
+CLtot|Total body clearance|Pharmacology
+Vss|Volume of distribution at steady state|Pharmacology
+V/F|Apparent volume of distribution after oral dosing|Pharmacology
+Vc|Volume of the central compartment|Pharmacology
+Vp|Volume of the peripheral compartment|Pharmacology
+ke|Elimination rate constant|Pharmacology
+ka|Absorption rate constant|Pharmacology
+F|Bioavailability|Pharmacology
+Fabs|Absolute bioavailability|Pharmacology
+Frel|Relative bioavailability|Pharmacology
+fu|Fraction unbound|Pharmacology
+fe|Fraction excreted unchanged|Pharmacology
+Eh|Hepatic extraction ratio|Pharmacology
+MRT|Mean residence time|Pharmacology
+MAT|Mean absorption time|Pharmacology
+BA|Bioavailability|Pharmacology
+ABE|Average bioequivalence|Pharmacology
+LD|Loading dose|Pharmacology
+MD|Maintenance dose|Pharmacology
+TDD|Total daily dose|Pharmacology
+MRDD|Maximum recommended daily dose|Pharmacology
+MRHD|Maximum recommended human dose|Pharmacology
+MDD|Maximum daily dose|Pharmacology
+MEC|Minimum effective concentration|Pharmacology
+MTC|Minimum toxic concentration|Pharmacology
+SS|Steady state|Pharmacology
+popPK|Population pharmacokinetics|Pharmacology
+PBPK|Physiologically based pharmacokinetic modeling|Pharmacology
+NCA|Noncompartmental analysis|Pharmacology
+NLME|Nonlinear mixed-effects modeling|Pharmacology
+MIPD|Model-informed precision dosing|Pharmacology
+IIV|Interindividual variability|Pharmacology
+IOV|Interoccasion variability|Pharmacology
+RUV|Residual unexplained variability|Pharmacology
+CV|Coefficient of variation|Pharmacology
+PTA|Probability of target attainment|Pharmacology
+CFR|Cumulative fraction of response|Pharmacology
+T>MIC|Time above the minimum inhibitory concentration|Pharmacology
+MIC50|Minimum inhibitory concentration inhibiting 50 percent of isolates|Pharmacology
+MIC90|Minimum inhibitory concentration inhibiting 90 percent of isolates|Pharmacology
+ECOFF|Epidemiological cutoff value|Pharmacology
+SDD|Susceptible, dose-dependent|Pharmacology
+MSW|Mutant selection window|Pharmacology
+Emax|Maximum effect|Pharmacology
+EC90|Concentration producing 90 percent of maximal effect|Pharmacology
+ED90|Dose producing 90 percent of maximal effect|Pharmacology
+IC90|Concentration producing 90 percent inhibition|Pharmacology
+LC50|Median lethal concentration|Pharmacology
+Ki|Inhibition constant|Pharmacology
+Kd|Dissociation constant|Pharmacology
+Km|Michaelis constant|Pharmacology
+Vmax|Maximum reaction velocity|Pharmacology
+pKa|Negative log of the acid dissociation constant|Pharmacology
+logP|Logarithm of the octanol-water partition coefficient|Pharmacology
+logD|Logarithm of the distribution coefficient|Pharmacology
+Papp|Apparent permeability|Pharmacology
+MW|Molecular weight|Pharmacology
+MOA|Mechanism of action|Pharmacology
+SAR|Structure-activity relationship|Pharmacology
+QSAR|Quantitative structure-activity relationship|Pharmacology
+PAM|Positive allosteric modulator|Pharmacology
+NAM|Negative allosteric modulator|Pharmacology
+SARM|Selective androgen receptor modulator|Pharmacology
+SPRM|Selective progesterone receptor modulator|Pharmacology
+GPCR|G protein-coupled receptor|Pharmacology
+RTK|Receptor tyrosine kinase|Pharmacology
+nAChR|Nicotinic acetylcholine receptor|Pharmacology
+mAChR|Muscarinic acetylcholine receptor|Pharmacology
+NMDAR|N-methyl-D-aspartate receptor|Pharmacology
+GABA-A|Gamma-aminobutyric acid type A receptor|Pharmacology
+D2|Dopamine D2 receptor|Pharmacology
+H1|Histamine-1 receptor|Pharmacology
+CB1|Cannabinoid receptor type 1|Pharmacology
+MOR|Mu-opioid receptor|Pharmacology
+KOR|Kappa-opioid receptor|Pharmacology
+DOR|Delta-opioid receptor|Pharmacology
+VGSC|Voltage-gated sodium channel|Pharmacology
+VGCC|Voltage-gated calcium channel|Pharmacology
+KATP|ATP-sensitive potassium channel|Pharmacology
+NKCC2|Sodium-potassium-2-chloride cotransporter 2|Pharmacology
+NCC|Sodium-chloride cotransporter|Pharmacology
+GR|Glucocorticoid receptor|Pharmacology
+MR|Mineralocorticoid receptor|Pharmacology
+AR|Androgen receptor|Pharmacology
+ER|Estrogen receptor|Pharmacology
+PR|Progesterone receptor|Pharmacology
+VDR|Vitamin D receptor|Pharmacology
+PPAR|Peroxisome proliferator-activated receptor|Pharmacology
+RXR|Retinoid X receptor|Pharmacology
+RAR|Retinoic acid receptor|Pharmacology
+FXR|Farnesoid X receptor|Pharmacology
+cAMP|Cyclic adenosine monophosphate|Pharmacology
+cGMP|Cyclic guanosine monophosphate|Pharmacology
+NO|Nitric oxide|Pharmacology
+NEP|Neprilysin|Pharmacology
+PG|Prostaglandin|Pharmacology
+PGE1|Prostaglandin E1|Pharmacology
+PGI2|Prostacyclin (prostaglandin I2)|Pharmacology
+TXA2|Thromboxane A2|Pharmacology
+LT|Leukotriene|Pharmacology
+5-LOX|5-lipoxygenase|Pharmacology
+PAF|Platelet-activating factor|Pharmacology
+ET-1|Endothelin-1|Pharmacology
+ANP|Atrial natriuretic peptide|Pharmacology
+PRA|Plasma renin activity|Pharmacology
+PAC|Plasma aldosterone concentration|Pharmacology
+RAS|Renin-angiotensin system|Pharmacology
+AAG|Alpha-1 acid glycoprotein|Pharmacology
+HSA|Human serum albumin|Pharmacology
+MATE|Multidrug and toxin extrusion transporter|Pharmacology
+OAT|Organic anion transporter|Pharmacology
+OCT|Organic cation transporter|Pharmacology
+BSEP|Bile salt export pump|Pharmacology
+CYP inducer|Drug that increases cytochrome P450 enzyme activity|Pharmacology
+CYP inhibitor|Drug that decreases cytochrome P450 enzyme activity|Pharmacology
+PK DDI|Pharmacokinetic drug-drug interaction|Pharmacology
+PD DDI|Pharmacodynamic drug-drug interaction|Pharmacology
+SCr|Serum creatinine|Pharmacology
+BUN|Blood urea nitrogen|Pharmacology
+eCrCl|Estimated creatinine clearance|Pharmacology
+mGFR|Measured glomerular filtration rate|Pharmacology
+CysC|Cystatin C|Pharmacology
+UACR|Urine albumin-to-creatinine ratio|Pharmacology
+UPCR|Urine protein-to-creatinine ratio|Pharmacology
+UOP|Urine output|Pharmacology
+AKI|Acute kidney injury|Pharmacology
+CKD|Chronic kidney disease|Pharmacology
+ESRD|End-stage renal disease|Pharmacology
+ESKD|End-stage kidney disease|Pharmacology
+HD|Hemodialysis|Pharmacology
+IHD|Intermittent hemodialysis|Pharmacology
+RRT|Renal replacement therapy|Pharmacology
+CRRT|Continuous renal replacement therapy|Pharmacology
+CVVH|Continuous venovenous hemofiltration|Pharmacology
+CVVHD|Continuous venovenous hemodialysis|Pharmacology
+CVVHDF|Continuous venovenous hemodiafiltration|Pharmacology
+SLED|Sustained low-efficiency dialysis|Pharmacology
+ECMO|Extracorporeal membrane oxygenation|Pharmacology
+CPB|Cardiopulmonary bypass|Pharmacology
+DBW|Dosing body weight|Pharmacology
+LFTs|Liver function tests|Pharmacology
+LFT|Liver function test|Pharmacology
+ALT|Alanine aminotransferase|Pharmacology
+AST|Aspartate aminotransferase|Pharmacology
+GGT|Gamma-glutamyl transferase|Pharmacology
+TBili|Total bilirubin|Pharmacology
+ULN|Upper limit of normal|Pharmacology
+LLN|Lower limit of normal|Pharmacology
+CBC|Complete blood count|Pharmacology
+BMP|Basic metabolic panel|Pharmacology
+CMP|Comprehensive metabolic panel|Pharmacology
+TFTs|Thyroid function tests|Pharmacology
+fT4|Free thyroxine|Pharmacology
+LDL-C|Low-density lipoprotein cholesterol|Pharmacology
+HDL-C|High-density lipoprotein cholesterol|Pharmacology
+non-HDL-C|Non-high-density lipoprotein cholesterol|Pharmacology
+TG|Triglycerides|Pharmacology
+TC|Total cholesterol|Pharmacology
+Lp(a)|Lipoprotein(a)|Pharmacology
+CK|Creatine kinase|Pharmacology
+CPK|Creatine phosphokinase|Pharmacology
+HbA1c|Glycated hemoglobin|Pharmacology
+UDS|Urine drug screen|Pharmacology
+UDT|Urine drug test|Pharmacology
+EtOH|Ethanol|Pharmacology
+BAL|Blood alcohol level|Pharmacology
+SA|Salicylate|Pharmacology
+MeOH|Methanol|Pharmacology
+EG|Ethylene glycol|Pharmacology
+4-MP|Fomepizole (4-methylpyrazole)|Pharmacology
+AG|Anion gap|Pharmacology
+OG|Osmolar gap|Pharmacology
+HBOT|Hyperbaric oxygen therapy|Pharmacology
+OP|Organophosphate|Pharmacology
+POC|Point of care|Pharmacology
+POCT|Point-of-care testing|Pharmacology
+HPLC|High-performance liquid chromatography|Pharmacology
+LC-MS/MS|Liquid chromatography-tandem mass spectrometry|Pharmacology
+GC-MS|Gas chromatography-mass spectrometry|Pharmacology
+EMIT|Enzyme multiplied immunoassay technique|Pharmacology
+FPIA|Fluorescence polarization immunoassay|Pharmacology
+CMIA|Chemiluminescent microparticle immunoassay|Pharmacology
+CEDIA|Cloned enzyme donor immunoassay|Pharmacology
+KIMS|Kinetic interaction of microparticles in solution|Pharmacology
+ELISA|Enzyme-linked immunosorbent assay|Pharmacology
+RIA|Radioimmunoassay|Pharmacology
+LLOQ|Lower limit of quantification|Pharmacology
+ULOQ|Upper limit of quantification|Pharmacology
+BLQ|Below the limit of quantification|Pharmacology
+PRU|P2Y12 reaction units|Pharmacology
+VASP|Vasodilator-stimulated phosphoprotein assay|Pharmacology
+LTA|Light transmission aggregometry|Pharmacology
+HPR|High on-treatment platelet reactivity|Pharmacology
+aPCC|Activated prothrombin complex concentrate|Pharmacology
+BP|Blood pressure|Pharmacology
+SBP|Systolic blood pressure|Pharmacology
+DBP|Diastolic blood pressure|Pharmacology
+HR|Heart rate|Pharmacology
+RR|Respiratory rate|Pharmacology
+I/O|Intake and output|Pharmacology
+Wt|Weight|Pharmacology
+Ht|Height|Pharmacology
+BG|Blood glucose|Pharmacology
+FBG|Fasting blood glucose|Pharmacology
+FPG|Fasting plasma glucose|Pharmacology
+PPG|Postprandial glucose|Pharmacology
+TIR|Time in range|Pharmacology
+TAR|Time above range|Pharmacology
+TBR|Time below range|Pharmacology
+GMI|Glucose management indicator|Pharmacology
+GV|Glycemic variability|Pharmacology
+AGP|Ambulatory glucose profile|Pharmacology
+TDI|Total daily insulin|Pharmacology
+IGlar|Insulin glargine|Pharmacology
+IDeg|Insulin degludec|Pharmacology
+IDet|Insulin detemir|Pharmacology
+IAsp|Insulin aspart|Pharmacology
+ILis|Insulin lispro|Pharmacology
+INS|Insulin|Pharmacology
+U-100|Insulin concentration of 100 units per milliliter|Pharmacology
+U-500|Insulin concentration of 500 units per milliliter|Pharmacology
+MET|Metformin|Pharmacology
+GLIP|Glipizide|Pharmacology
+MALA|Metformin-associated lactic acidosis|Pharmacology
+euDKA|Euglycemic diabetic ketoacidosis|Pharmacology
+HAGMA|High anion gap metabolic acidosis|Pharmacology
+NAGMA|Non-anion gap metabolic acidosis|Pharmacology
+OH|Orthostatic hypotension|Pharmacology
+SSA|Somatostatin analog|Pharmacology
+SRL|Somatostatin receptor ligand|Pharmacology
+OCT|Octreotide|Pharmacology
+HC|Hydrocortisone|Pharmacology
+FC|Fludrocortisone|Pharmacology
+DEX|Dexamethasone|Pharmacology
+PRED|Prednisone|Pharmacology
+MP|Methylprednisolone|Pharmacology
+IVMP|Intravenous methylprednisolone|Pharmacology
+SCS|Systemic corticosteroid|Pharmacology
+TCS|Topical corticosteroid|Pharmacology
+TCI|Topical calcineurin inhibitor|Pharmacology
+GCs|Glucocorticoids|Pharmacology
+E2|Estradiol|Pharmacology
+EE|Ethinyl estradiol|Pharmacology
+P4|Progesterone|Pharmacology
+CEE|Conjugated equine estrogens|Pharmacology
+LNG|Levonorgestrel|Pharmacology
+NETA|Norethindrone acetate|Pharmacology
+DRSP|Drospirenone|Pharmacology
+ETG|Etonogestrel|Pharmacology
+CHC|Combined hormonal contraceptive|Pharmacology
+OCs|Oral contraceptives|Pharmacology
+ECP|Emergency contraceptive pill|Pharmacology
+DMPA-SC|Subcutaneous depot medroxyprogesterone acetate|Pharmacology
+DHT|Dihydrotestosterone|Pharmacology
+DHEA|Dehydroepiandrosterone|Pharmacology
+DHEA-S|Dehydroepiandrosterone sulfate|Pharmacology
+LH|Luteinizing hormone|Pharmacology
+hMG|Human menopausal gonadotropin|Pharmacology
+rFSH|Recombinant follicle-stimulating hormone|Pharmacology
+GnRHa|Gonadotropin-releasing hormone agonist|Pharmacology
+CC|Clomiphene citrate|Pharmacology
+COH|Controlled ovarian hyperstimulation|Pharmacology
+IVF|In vitro fertilization|Pharmacology
+RhIG|Rh immune globulin|Pharmacology
+MIS|Misoprostol|Pharmacology
+HBIG|Hepatitis B immune globulin|Pharmacology
+VZIG|Varicella zoster immune globulin|Pharmacology
+TIG|Tetanus immune globulin|Pharmacology
+RIG|Rabies immune globulin|Pharmacology
+Ig|Immunoglobulin|Pharmacology
+TPE|Therapeutic plasma exchange|Pharmacology
+PLEX|Plasma exchange|Pharmacology
+ABX|Antibiotics|Pharmacology
+AB|Antibiotic|Pharmacology
+AMS|Antimicrobial stewardship|Pharmacology
+FQ|Fluoroquinolone|Pharmacology
+AG|Aminoglycoside|Pharmacology
+AMX|Amoxicillin|Pharmacology
+AMC|Amoxicillin-clavulanate|Pharmacology
+AMP|Ampicillin|Pharmacology
+PEN G|Penicillin G|Pharmacology
+PEN VK|Penicillin V potassium|Pharmacology
+NAF|Nafcillin|Pharmacology
+OXA|Oxacillin|Pharmacology
+TZP|Piperacillin-tazobactam|Pharmacology
+CFZ|Cefazolin|Pharmacology
+CRO|Ceftriaxone|Pharmacology
+CXM|Cefuroxime|Pharmacology
+CEX|Cephalexin|Pharmacology
+CPD|Cefpodoxime|Pharmacology
+CTT|Cefotetan|Pharmacology
+CFT|Ceftaroline|Pharmacology
+CZA|Ceftazidime-avibactam|Pharmacology
+C/T|Ceftolozane-tazobactam|Pharmacology
+M/V|Meropenem-vaborbactam|Pharmacology
+I/R|Imipenem-relebactam|Pharmacology
+ATM|Aztreonam|Pharmacology
+DOR|Doripenem|Pharmacology
+TGC|Tigecycline|Pharmacology
+MIN|Minocycline|Pharmacology
+COL|Colistin|Pharmacology
+PMB|Polymyxin B|Pharmacology
+DAL|Dalbavancin|Pharmacology
+ORI|Oritavancin|Pharmacology
+TLV|Telavancin|Pharmacology
+TED|Tedizolid|Pharmacology
+FOS|Fosfomycin|Pharmacology
+SXT|Trimethoprim-sulfamethoxazole|Pharmacology
+CHL|Chloramphenicol|Pharmacology
+STR|Streptomycin|Pharmacology
+KAN|Kanamycin|Pharmacology
+ETH|Ethionamide|Pharmacology
+BDQ|Bedaquiline|Pharmacology
+DLM|Delamanid|Pharmacology
+RFB|Rifabutin|Pharmacology
+RPT|Rifapentine|Pharmacology
+PAS|Para-aminosalicylic acid|Pharmacology
+CS|Cycloserine|Pharmacology
+CAS|Caspofungin|Pharmacology
+MICA|Micafungin|Pharmacology
+ANID|Anidulafungin|Pharmacology
+POSA|Posaconazole|Pharmacology
+ITRA|Itraconazole|Pharmacology
+ISAV|Isavuconazole|Pharmacology
+IVM|Ivermectin|Pharmacology
+ABZ|Albendazole|Pharmacology
+PZQ|Praziquantel|Pharmacology
+CQ|Chloroquine|Pharmacology
+PQ|Primaquine|Pharmacology
+TQ|Tafenoquine|Pharmacology
+AL|Artemether-lumefantrine|Pharmacology
+ATQ/PG|Atovaquone-proguanil|Pharmacology
+SP|Sulfadoxine-pyrimethamine|Pharmacology
+NTZ|Nitazoxanide|Pharmacology
+BNZ|Benznidazole|Pharmacology
+OSE|Oseltamivir|Pharmacology
+BXM|Baloxavir marboxil|Pharmacology
+NMV/r|Nirmatrelvir-ritonavir|Pharmacology
+RDV|Remdesivir|Pharmacology
+PFA|Foscarnet (phosphonoformic acid)|Pharmacology
+CDV|Cidofovir|Pharmacology
+LET|Letermovir|Pharmacology
+MBV|Maribavir|Pharmacology
+SOF|Sofosbuvir|Pharmacology
+LDV|Ledipasvir|Pharmacology
+VEL|Velpatasvir|Pharmacology
+GLE/PIB|Glecaprevir-pibrentasvir|Pharmacology
+RBV|Ribavirin|Pharmacology
+ETV|Entecavir|Pharmacology
+ADV|Adefovir|Pharmacology
+IFN|Interferon|Pharmacology
+PEG-IFN|Peginterferon|Pharmacology
+RPV|Rilpivirine|Pharmacology
+ETR|Etravirine|Pharmacology
+NVP|Nevirapine|Pharmacology
+CAB|Cabotegravir|Pharmacology
+MVC|Maraviroc|Pharmacology
+ENF|Enfuvirtide|Pharmacology
+FTR|Fostemsavir|Pharmacology
+EVG|Elvitegravir|Pharmacology
+ZDV|Zidovudine|Pharmacology
+d4T|Stavudine|Pharmacology
+ddI|Didanosine|Pharmacology
+FPV|Fosamprenavir|Pharmacology
+SQV|Saquinavir|Pharmacology
+NFV|Nelfinavir|Pharmacology
+TPV|Tipranavir|Pharmacology
+IDV|Indinavir|Pharmacology
+IRIS|Immune reconstitution inflammatory syndrome|Pharmacology
+PJP|Pneumocystis jirovecii pneumonia|Pharmacology
+MAC|Mycobacterium avium complex|Pharmacology
+HAP|Hospital-acquired pneumonia|Pharmacology
+VAP|Ventilator-associated pneumonia|Pharmacology
+CAP|Community-acquired pneumonia|Pharmacology
+cUTI|Complicated urinary tract infection|Pharmacology
+cIAI|Complicated intra-abdominal infection|Pharmacology
+ABSSSI|Acute bacterial skin and skin structure infection|Pharmacology
+SSTI|Skin and soft tissue infection|Pharmacology
+CPE|Carbapenemase-producing Enterobacterales|Pharmacology
+MBL|Metallo-beta-lactamase|Pharmacology
+DTR|Difficult-to-treat resistance|Pharmacology
+DTR-PA|Difficult-to-treat resistant Pseudomonas aeruginosa|Pharmacology
+ESBL-E|Extended-spectrum beta-lactamase-producing Enterobacterales|Pharmacology
+CAPE|Capecitabine|Pharmacology
+GEM|Gemcitabine|Pharmacology
+PEM|Pemetrexed|Pharmacology
+L-OHP|Oxaliplatin|Pharmacology
+IRI|Irinotecan|Pharmacology
+PTX|Paclitaxel|Pharmacology
+DTX|Docetaxel|Pharmacology
+nab-P|Nab-paclitaxel (albumin-bound paclitaxel)|Pharmacology
+ETO|Etoposide|Pharmacology
+VP-16|Etoposide|Pharmacology
+TMZ|Temozolomide|Pharmacology
+BLM|Bleomycin|Pharmacology
+DTIC|Dacarbazine|Pharmacology
+IFOS|Ifosfamide|Pharmacology
+BU|Busulfan|Pharmacology
+MEL|Melphalan|Pharmacology
+BEN|Bendamustine|Pharmacology
+FLUD|Fludarabine|Pharmacology
+CLAD|Cladribine|Pharmacology
+DAC|Decitabine|Pharmacology
+HMA|Hypomethylating agent|Pharmacology
+BTZ|Bortezomib|Pharmacology
+POM|Pomalidomide|Pharmacology
+THAL|Thalidomide|Pharmacology
+IMiD|Immunomodulatory drug|Pharmacology
+HDACi|Histone deacetylase inhibitor|Pharmacology
+BsAb|Bispecific antibody|Pharmacology
+T-DM1|Ado-trastuzumab emtansine|Pharmacology
+T-DXd|Fam-trastuzumab deruxtecan|Pharmacology
+BV|Brentuximab vedotin|Pharmacology
+RTX|Rituximab|Pharmacology
+OBI|Obinutuzumab|Pharmacology
+TRAS|Trastuzumab|Pharmacology
+BEV|Bevacizumab|Pharmacology
+PEMBRO|Pembrolizumab|Pharmacology
+NIVO|Nivolumab|Pharmacology
+IPI|Ipilimumab|Pharmacology
+ATEZO|Atezolizumab|Pharmacology
+DURV|Durvalumab|Pharmacology
+ICIs|Immune checkpoint inhibitors|Pharmacology
+OFS|Ovarian function suppression|Pharmacology
+ET|Endocrine therapy|Pharmacology
+ARPI|Androgen receptor pathway inhibitor|Pharmacology
+ARSI|Androgen receptor signaling inhibitor|Pharmacology
+NSAA|Nonsteroidal antiandrogen|Pharmacology
+TPO-RA|Thrombopoietin receptor agonist|Pharmacology
+CSF|Colony-stimulating factor|Pharmacology
+FN|Febrile neutropenia|Pharmacology
+HFS|Hand-foot syndrome|Pharmacology
+PPE|Palmar-plantar erythrodysesthesia|Pharmacology
+CIA|Chemotherapy-induced alopecia|Pharmacology
+CIT|Chemotherapy-induced thrombocytopenia|Pharmacology
+AIN|Acute interstitial nephritis|Pharmacology
+ATN|Acute tubular necrosis|Pharmacology
+DIKI|Drug-induced kidney injury|Pharmacology
+CI-AKI|Contrast-induced acute kidney injury|Pharmacology
+DIHA|Drug-induced hemolytic anemia|Pharmacology
+DIIHA|Drug-induced immune hemolytic anemia|Pharmacology
+DITP|Drug-induced thrombocytopenia|Pharmacology
+DIC|Disseminated intravascular coagulation|Pharmacology
+TMA|Thrombotic microangiopathy|Pharmacology
+DIP|Drug-induced parkinsonism|Pharmacology
+ILD|Interstitial lung disease|Pharmacology
+DILD|Drug-induced interstitial lung disease|Pharmacology
+FDE|Fixed drug eruption|Pharmacology
+MPE|Maculopapular exanthem|Pharmacology
+DIHS|Drug-induced hypersensitivity syndrome|Pharmacology
+HSR|Hypersensitivity reaction|Pharmacology
+IRR|Infusion-related reaction|Pharmacology
+ISR|Injection-site reaction|Pharmacology
+ADCC|Antibody-dependent cellular cytotoxicity|Pharmacology
+CDC|Complement-dependent cytotoxicity|Pharmacology
+ADA|Antidrug antibody|Pharmacology
+NAb|Neutralizing antibody|Pharmacology
+PRES|Posterior reversible encephalopathy syndrome|Pharmacology
+ONJ|Osteonecrosis of the jaw|Pharmacology
+MRONJ|Medication-related osteonecrosis of the jaw|Pharmacology
+AFF|Atypical femoral fracture|Pharmacology
+PML|Progressive multifocal leukoencephalopathy|Pharmacology
+MOH|Medication-overuse headache|Pharmacology
+RLS|Restless legs syndrome|Pharmacology
+DT|Delirium tremens|Pharmacology
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised|Pharmacology
+COWS|Clinical Opiate Withdrawal Scale|Pharmacology
+SOWS|Subjective Opiate Withdrawal Scale|Pharmacology
+RASS|Richmond Agitation-Sedation Scale|Pharmacology
+CAM-ICU|Confusion Assessment Method for the ICU|Pharmacology
+CPOT|Critical-Care Pain Observation Tool|Pharmacology
+BPS|Behavioral Pain Scale|Pharmacology
+SAS|Sedation-Agitation Scale|Pharmacology
+FLACC|Face, legs, activity, cry, consolability pain scale|Pharmacology
+BPI|Brief Pain Inventory|Pharmacology
+AIMS|Abnormal Involuntary Movement Scale|Pharmacology
+SBIRT|Screening, brief intervention, and referral to treatment|Pharmacology
+AUDIT|Alcohol Use Disorders Identification Test|Pharmacology
+ORT|Opioid Risk Tool|Pharmacology
+BTP|Breakthrough pain|Pharmacology
+ROO|Rapid-onset opioid|Pharmacology
+TIRF|Transmucosal immediate-release fentanyl|Pharmacology
+OTFC|Oral transmucosal fentanyl citrate|Pharmacology
+ER/LA|Extended-release and long-acting (opioid formulations)|Pharmacology
+ADF|Abuse-deterrent formulation|Pharmacology
+OEND|Overdose education and naloxone distribution|Pharmacology
+MMT|Methadone maintenance treatment|Pharmacology
+BNX|Buprenorphine-naloxone|Pharmacology
+BPN|Buprenorphine|Pharmacology
+MTD|Methadone|Pharmacology
+HM|Hydromorphone|Pharmacology
+PCM|Paracetamol|Pharmacology
+IBU|Ibuprofen|Pharmacology
+GBP|Gabapentin|Pharmacology
+PGB|Pregabalin|Pharmacology
+DLX|Duloxetine|Pharmacology
+VEN|Venlafaxine|Pharmacology
+AMI|Amitriptyline|Pharmacology
+QTP|Quetiapine|Pharmacology
+OLZ|Olanzapine|Pharmacology
+RIS|Risperidone|Pharmacology
+ARI|Aripiprazole|Pharmacology
+HAL|Haloperidol|Pharmacology
+MIRT|Mirtazapine|Pharmacology
+TRZ|Trazodone|Pharmacology
+BUS|Buspirone|Pharmacology
+AP|Antipsychotic|Pharmacology
+APs|Antipsychotics|Pharmacology
+ADs|Antidepressants|Pharmacology
+DRBA|Dopamine receptor-blocking agent|Pharmacology
+NaSSA|Noradrenergic and specific serotonergic antidepressant|Pharmacology
+RIMA|Reversible inhibitor of monoamine oxidase A|Pharmacology
+MAO-A|Monoamine oxidase A|Pharmacology
+TRD|Treatment-resistant depression|Pharmacology
+BRV|Brivaracetam|Pharmacology
+CLB|Clobazam|Pharmacology
+ZNS|Zonisamide|Pharmacology
+PER|Perampanel|Pharmacology
+ESL|Eslicarbazepine acetate|Pharmacology
+CNB|Cenobamate|Pharmacology
+RUF|Rufinamide|Pharmacology
+FBM|Felbamate|Pharmacology
+VGB|Vigabatrin|Pharmacology
+ETX|Ethosuximide|Pharmacology
+PRM|Primidone|Pharmacology
+KD|Ketogenic diet|Pharmacology
+DAs|Dopamine agonists|Pharmacology
+LEDD|Levodopa equivalent daily dose|Pharmacology
+DDCI|Dopa decarboxylase inhibitor|Pharmacology
+ChEI|Cholinesterase inhibitor|Pharmacology
+MEM|Memantine|Pharmacology
+DON|Donepezil|Pharmacology
+DMT|Disease-modifying therapy|Pharmacology
+CGRPi|Calcitonin gene-related peptide inhibitor|Pharmacology
+TAC|Tacrolimus|Pharmacology
+CsA|Cyclosporine|Pharmacology
+SRL|Sirolimus|Pharmacology
+EVL|Everolimus|Pharmacology
+MPA|Mycophenolic acid|Pharmacology
+EC-MPS|Enteric-coated mycophenolate sodium|Pharmacology
+IFX|Infliximab|Pharmacology
+GOL|Golimumab|Pharmacology
+CZP|Certolizumab pegol|Pharmacology
+TCZ|Tocilizumab|Pharmacology
+ABA|Abatacept|Pharmacology
+UST|Ustekinumab|Pharmacology
+VDZ|Vedolizumab|Pharmacology
+TOFA|Tofacitinib|Pharmacology
+UPA|Upadacitinib|Pharmacology
+BARI|Baricitinib|Pharmacology
+SSZ|Sulfasalazine|Pharmacology
+LEF|Leflunomide|Pharmacology
+5-ASA|5-aminosalicylic acid (mesalamine)|Pharmacology
+COLC|Colchicine|Pharmacology
+ALLO|Allopurinol|Pharmacology
+ULT|Urate-lowering therapy|Pharmacology
+TNF|Tumor necrosis factor|Pharmacology
+IL|Interleukin|Pharmacology
+IL-6|Interleukin-6|Pharmacology
+IL-1|Interleukin-1|Pharmacology
+BAS|Bile acid sequestrant|Pharmacology
+UDCA|Ursodeoxycholic acid|Pharmacology
+OCA|Obeticholic acid|Pharmacology
+PERT|Pancreatic enzyme replacement therapy|Pharmacology
+PEI|Pancreatic exocrine insufficiency|Pharmacology
+BQT|Bismuth quadruple therapy|Pharmacology
+MOM|Milk of magnesia|Pharmacology
+PGA|Prostaglandin analog|Pharmacology
+BAK|Benzalkonium chloride|Pharmacology
+PF|Preservative-free|Pharmacology
+BPO|Benzoyl peroxide|Pharmacology
+AHA|Alpha hydroxy acid|Pharmacology
+SPF|Sun protection factor|Pharmacology
+PUVA|Psoralen plus ultraviolet A|Pharmacology
+NB-UVB|Narrowband ultraviolet B|Pharmacology
+PDE3i|Phosphodiesterase-3 inhibitor|Pharmacology
+PDE4i|Phosphodiesterase-4 inhibitor|Pharmacology
+ICS/LABA|Inhaled corticosteroid plus long-acting beta agonist|Pharmacology
+LABA/LAMA|Long-acting beta agonist plus long-acting muscarinic antagonist|Pharmacology
+MART|Maintenance and reliever therapy|Pharmacology
+rhDNase|Recombinant human deoxyribonuclease|Pharmacology
+LTOT|Long-term oxygen therapy|Pharmacology
+GE|Generic equivalent|Pharmacology
+CTD|Chlorthalidone|Pharmacology
+SPIRO|Spironolactone|Pharmacology
+EPL|Eplerenone|Pharmacology
+ACZ|Acetazolamide|Pharmacology
+MTP|Metoprolol|Pharmacology
+ATE|Atenolol|Pharmacology
+CAR|Carvedilol|Pharmacology
+PROP|Propranolol|Pharmacology
+LAB|Labetalol|Pharmacology
+NIF|Nifedipine|Pharmacology
+AML|Amlodipine|Pharmacology
+DILT|Diltiazem|Pharmacology
+HYD|Hydralazine|Pharmacology
+CLON|Clonidine|Pharmacology
+AMIO|Amiodarone|Pharmacology
+DIG|Digoxin|Pharmacology
+ADO|Adenosine|Pharmacology
+ENOX|Enoxaparin|Pharmacology
+FOND|Fondaparinux|Pharmacology
+HEP|Heparin|Pharmacology
+APIX|Apixaban|Pharmacology
+RIVA|Rivaroxaban|Pharmacology
+DABI|Dabigatran|Pharmacology
+WARF|Warfarin|Pharmacology
+ATOR|Atorvastatin|Pharmacology
+ROSU|Rosuvastatin|Pharmacology
+EZE|Ezetimibe|Pharmacology
+PPF|Propofol|Pharmacology
+KET|Ketamine|Pharmacology
+DEXMED|Dexmedetomidine|Pharmacology
+REMI|Remifentanil|Pharmacology
+ROC|Rocuronium|Pharmacology
+VEC|Vecuronium|Pharmacology
+NEO|Neostigmine|Pharmacology
+GLY|Glycopyrrolate|Pharmacology
+ATR|Atropine|Pharmacology
+BUPI|Bupivacaine|Pharmacology
+ROPI|Ropivacaine|Pharmacology
+N2O|Nitrous oxide|Pharmacology
+VA|Volatile anesthetic|Pharmacology
+GA|General anesthesia|Pharmacology
+RA|Regional anesthesia|Pharmacology
+MAC|Monitored anesthesia care|Pharmacology
+ERAS|Enhanced recovery after surgery|Pharmacology
+MMA|Multimodal analgesia|Pharmacology
+TAP|Transversus abdominis plane (block)|Pharmacology

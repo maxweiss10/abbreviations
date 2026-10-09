@@ -1,0 +1,700 @@
+AMKL|Acute megakaryoblastic leukemia|Oncology
+AMoL|Acute monocytic leukemia|Oncology
+APML|Acute promyelocytic leukemia|Oncology
+Ph+ ALL|Philadelphia chromosome-positive acute lymphoblastic leukemia|Oncology
+MPAL|Mixed phenotype acute leukemia|Oncology
+AUL|Acute undifferentiated leukemia|Oncology
+BC|Blast crisis|Oncology
+CP|Chronic phase|Oncology
+AP|Accelerated phase|Oncology
+BP|Blast phase|Oncology
+PLL|Prolymphocytic leukemia|Oncology
+MBL|Monoclonal B-cell lymphocytosis|Oncology
+IGHV|Immunoglobulin heavy chain variable region|Oncology
+MGRS|Monoclonal gammopathy of renal significance|Oncology
+MGCS|Monoclonal gammopathy of clinical significance|Oncology
+IgM|Immunoglobulin M|Oncology
+IgG|Immunoglobulin G|Oncology
+IgA|Immunoglobulin A|Oncology
+LCDD|Light chain deposition disease|Oncology
+HCDD|Heavy chain deposition disease|Oncology
+ATTR|Transthyretin amyloidosis|Oncology
+AA|Reactive systemic amyloidosis|Oncology
+PC|Plasma cell|Oncology
+PCD|Plasma cell dyscrasia|Oncology
+PCN|Plasma cell neoplasm|Oncology
+BMPC|Bone marrow plasma cells|Oncology
+CPC|Circulating plasma cells|Oncology
+iFLC|Involved free light chain|Oncology
+dFLC|Difference between involved and uninvolved free light chains|Oncology
+uFLC|Uninvolved free light chain|Oncology
+BJP|Bence Jones protein|Oncology
+NSMM|Non-secretory multiple myeloma|Oncology
+MR|Minimal response|Oncology
+DMR|Deep molecular response|Oncology
+MR4|Molecular response with 4-log reduction in BCR::ABL1 transcripts|Oncology
+MR4.5|Molecular response with 4.5-log reduction in BCR::ABL1 transcripts|Oncology
+IS|International Scale (BCR::ABL1 transcript reporting)|Oncology
+PCyR|Partial cytogenetic response|Oncology
+MCyR|Major cytogenetic response|Oncology
+CyR|Cytogenetic response|Oncology
+HR|Hematologic response|Oncology
+CRu|Complete response unconfirmed|Oncology
+CCR|Continuous complete remission|Oncology
+CR1|First complete remission|Oncology
+CR2|Second complete remission|Oncology
+CRp|Complete remission with incomplete platelet recovery|Oncology
+RD|Refractory disease|Oncology
+PIF|Primary induction failure|Oncology
+Ref|Refractory|Oncology
+REL|Relapse|Oncology
+MRD+|Minimal residual disease positive|Oncology
+LAIP|Leukemia-associated immunophenotype|Oncology
+LSC|Leukemic stem cell|Oncology
+BMB|Bone marrow blasts|Oncology
+PB blasts|Peripheral blood blasts|Oncology
+IT|Intrathecal|Oncology
+IT chemo|Intrathecal chemotherapy|Oncology
+sAML|Secondary acute myeloid leukemia|Oncology
+AHD|Antecedent hematologic disorder|Oncology
+tAML|Therapy-related acute myeloid leukemia|Oncology
+MRC|Myelodysplasia-related changes|Oncology
+RCMD|Refractory cytopenia with multilineage dysplasia|Oncology
+RCUD|Refractory cytopenia with unilineage dysplasia|Oncology
+RA|Refractory anemia|Oncology
+CCUS|Clonal cytopenia of undetermined significance|Oncology
+ICUS|Idiopathic cytopenia of undetermined significance|Oncology
+IDUS|Idiopathic dysplasia of uncertain significance|Oncology
+PNH|Paroxysmal nocturnal hemoglobinuria|Oncology
+SAA|Severe aplastic anemia|Oncology
+TI|Transfusion independence|Oncology
+TD|Transfusion dependence|Oncology
+LTB|Low transfusion burden|Oncology
+HTB|High transfusion burden|Oncology
+IWG|Response criteria set for myelodysplastic syndromes label|Oncology
+SMF|Secondary myelofibrosis|Oncology
+SVT|Splanchnic vein thrombosis|Oncology
+JAKi|Janus kinase inhibitor|Oncology
+Hct|Hematocrit|Oncology
+RBCm|Red blood cell mass|Oncology
+EPO|Erythropoietin|Oncology
+sEPO|Serum erythropoietin|Oncology
+LAP|Leukocyte alkaline phosphatase|Oncology
+LEB|Leukoerythroblastic blood picture|Oncology
+TearDrop|Teardrop-shaped red cells|Oncology
+SVR35|Spleen volume reduction of at least 35 percent|Oncology
+TSS50|Total symptom score reduction of at least 50 percent|Oncology
+TSS|Total symptom score|Oncology
+SPL|Splenomegaly|Oncology
+HSM|Hepatosplenomegaly|Oncology
+EMH|Extramedullary hematopoiesis|Oncology
+ANKL|Aggressive natural killer cell leukemia|Oncology
+ENKTL|Extranodal natural killer/T-cell lymphoma|Oncology
+NK/T|Natural killer/T-cell lymphoma|Oncology
+AITL|Angioimmunoblastic T-cell lymphoma|Oncology
+TFH|T follicular helper cell|Oncology
+nTFHL|Nodal T follicular helper cell lymphoma|Oncology
+ALK+ ALCL|Anaplastic lymphoma kinase-positive anaplastic large cell lymphoma|Oncology
+EATL|Enteropathy-associated T-cell lymphoma|Oncology
+MEITL|Monomorphic epitheliotropic intestinal T-cell lymphoma|Oncology
+HSTCL|Hepatosplenic T-cell lymphoma|Oncology
+SPTCL|Subcutaneous panniculitis-like T-cell lymphoma|Oncology
+CBCL|Cutaneous B-cell lymphoma|Oncology
+PCFCL|Primary cutaneous follicular center lymphoma|Oncology
+PCMZL|Primary cutaneous marginal zone lymphoma|Oncology
+mSWAT|Modified Severity Weighted Assessment Tool for skin involvement|Oncology
+TSEB|Total skin electron beam therapy|Oncology
+ECP|Extracorporeal photopheresis|Oncology
+PUVA|Psoralen plus ultraviolet A therapy|Oncology
+iPET|Interim positron emission tomography|Oncology
+EoT|End of treatment|Oncology
+DS|Deauville score|Oncology
+DS1|Deauville score 1, no uptake|Oncology
+DS4|Deauville score 4, uptake moderately above liver|Oncology
+DS5|Deauville score 5, uptake markedly above liver|Oncology
+LYRIC|Lymphoma response to immunomodulatory therapy criteria|Oncology
+LDi|Longest transverse diameter of a lesion|Oncology
+SPD|Sum of the products of the perpendicular diameters|Oncology
+SLD|Sum of longest diameters|Oncology
+SAD|Short axis diameter|Oncology
+NTL|Non-target lesion|Oncology
+TL|Target lesion|Oncology
+NL|New lesion|Oncology
+NE|Not evaluable|Oncology
+NR|No response|Oncology
+NCR|No complete response|Oncology
+NA|Not applicable|Oncology
+BOR|Best overall response|Oncology
+iCR|Immune complete response|Oncology
+iPR|Immune partial response|Oncology
+iSD|Immune stable disease|Oncology
+iUPD|Immune unconfirmed progressive disease|Oncology
+iCPD|Immune confirmed progressive disease|Oncology
+PsPD|Pseudoprogression|Oncology
+HPD|Hyperprogressive disease|Oncology
+TFS|Treatment-free survival|Oncology
+TFI|Treatment-free interval|Oncology
+PFI|Platinum-free interval|Oncology
+PFS2|Progression-free survival on next-line therapy|Oncology
+PFS1|First progression-free survival|Oncology
+EFS24|Event-free survival at 24 months|Oncology
+POD24|Progression of disease within 24 months|Oncology
+FFS|Failure-free survival|Oncology
+FFTF|Freedom from treatment failure|Oncology
+FFP|Freedom from progression|Oncology
+LRFS|Locoregional recurrence-free survival|Oncology
+LRR|Locoregional recurrence|Oncology
+LR|Local recurrence|Oncology
+DR|Distant recurrence|Oncology
+DM|Distant metastasis|Oncology
+IDFS|Invasive disease-free survival|Oncology
+BCFS|Biochemical failure-free survival|Oncology
+bPFS|Biochemical progression-free survival|Oncology
+rPFS|Radiographic progression-free survival|Oncology
+BCR|Biochemical recurrence|Oncology
+BF|Biochemical failure|Oncology
+CSS|Cancer-specific survival|Oncology
+DSS|Disease-specific survival|Oncology
+mOS|Median overall survival|Oncology
+mPFS|Median progression-free survival|Oncology
+QALY|Quality-adjusted life year|Oncology
+PRO|Patient-reported outcome|Oncology
+QoL|Quality of life|Oncology
+HRQoL|Health-related quality of life|Oncology
+ESAS|Edmonton Symptom Assessment System|Oncology
+PPS|Palliative performance scale|Oncology
+ADL|Activities of daily living|Oncology
+IADL|Instrumental activities of daily living|Oncology
+BMI|Body mass index|Oncology
+LBM|Lean body mass|Oncology
+SMI|Skeletal muscle index|Oncology
+CACS|Cancer anorexia-cachexia syndrome|Oncology
+NRS|Nutritional risk screening|Oncology
+SGA|Subjective global assessment|Oncology
+MST|Malnutrition screening tool|Oncology
+ONS|Oral nutritional supplement|Oncology
+EN|Enteral nutrition|Oncology
+CA27.29|Cancer antigen 27.29|Oncology
+CA 27.29|Cancer antigen 27.29|Oncology
+CA 72-4|Cancer antigen 72-4|Oncology
+CA 50|Cancer antigen 50|Oncology
+CA 242|Cancer antigen 242|Oncology
+CA 549|Cancer antigen 549|Oncology
+CA 125|Cancer antigen 125|Oncology
+CA125|Cancer antigen 125|Oncology
+CA19-9|Carbohydrate antigen 19-9|Oncology
+CA15-3|Cancer antigen 15-3|Oncology
+CA 15.3|Cancer antigen 15-3|Oncology
+CA 19.9|Carbohydrate antigen 19-9|Oncology
+CYFRA 21-1|Cytokeratin 19 fragment 21-1|Oncology
+CYFRA|Cytokeratin 19 fragment|Oncology
+HE4|Human epididymis protein 4|Oncology
+ROMA|Risk of ovarian malignancy algorithm|Oncology
+OVA1|Multivariate ovarian cancer risk index assay|Oncology
+SCCA|Squamous cell carcinoma antigen|Oncology
+TPA|Tissue polypeptide antigen|Oncology
+ProGRP|Pro-gastrin-releasing peptide|Oncology
+GRP|Gastrin-releasing peptide|Oncology
+DCP|Des-gamma-carboxy prothrombin|Oncology
+GALAD|Gender, age, AFP-L3, AFP and DCP score|Oncology
+GP73|Golgi protein 73|Oncology
+tAFP|Total alpha-fetoprotein|Oncology
+HCG|Human chorionic gonadotropin|Oncology
+tHCG|Total human chorionic gonadotropin|Oncology
+hCGb|Beta human chorionic gonadotropin|Oncology
+PLAP|Placental alkaline phosphatase|Oncology
+ALP|Alkaline phosphatase|Oncology
+BALP|Bone-specific alkaline phosphatase|Oncology
+ULN|Upper limit of normal|Oncology
+LLN|Lower limit of normal|Oncology
+PSAD|Prostate-specific antigen density|Oncology
+fPSA|Free prostate-specific antigen|Oncology
+tPSA|Total prostate-specific antigen|Oncology
+%fPSA|Percent free prostate-specific antigen|Oncology
+PHI|Prostate health index|Oncology
+4Kscore|Four-kallikrein panel score|Oncology
+PCA3|Prostate cancer antigen 3 urine test|Oncology
+PSA50|Prostate-specific antigen decline of at least 50 percent|Oncology
+uPSA|Ultrasensitive prostate-specific antigen|Oncology
+FACBC|Fluciclovine (amino acid PET tracer)|Oncology
+GG|Grade group|Oncology
+GGG|Grade group|Oncology
+GS|Gleason score|Oncology
+ISUP|Grade group by the international urological pathology consensus|Oncology
+cT1c|Clinical stage T1c, nonpalpable tumor found by needle biopsy for elevated PSA|Oncology
+BxGG|Biopsy grade group|Oncology
+SB|Systematic biopsy|Oncology
+TB|Targeted biopsy|Oncology
+TRUS|Transrectal ultrasound|Oncology
+TPB|Transperineal biopsy|Oncology
+CSPC|Clinically significant prostate cancer|Oncology
+csPCa|Clinically significant prostate cancer|Oncology
+AS|Active surveillance|Oncology
+WW|Watchful waiting|Oncology
+ART|Adjuvant radiotherapy|Oncology
+IAD|Intermittent androgen deprivation|Oncology
+CAB|Combined androgen blockade|Oncology
+MAB|Maximal androgen blockade|Oncology
+LHRHa|Luteinizing hormone-releasing hormone agonist|Oncology
+BO|Bilateral orchiectomy|Oncology
+LVD|Low-volume disease|Oncology
+HVD|High-volume disease|Oncology
+LVMD|Low-volume metastatic disease|Oncology
+HVMD|High-volume metastatic disease|Oncology
+oligomets|Oligometastases|Oncology
+OMD|Oligometastatic disease|Oncology
+OPD|Oligoprogressive disease|Oncology
+MDT|Metastasis-directed therapy|Oncology
+RANO|Response assessment in neuro-oncology criteria|Oncology
+mRANO|Modified response assessment in neuro-oncology criteria|Oncology
+GPA|Graded prognostic assessment|Oncology
+RPA|Recursive partitioning analysis|Oncology
+EOR|Extent of resection|Oncology
+GTR|Gross total resection|Oncology
+STR|Subtotal resection|Oncology
+NTR|Near-total resection|Oncology
+IDHwt|Isocitrate dehydrogenase wild-type|Oncology
+IDHmut|Isocitrate dehydrogenase mutant|Oncology
+AO|Anaplastic oligodendroglioma|Oncology
+AOA|Anaplastic oligoastrocytoma|Oncology
+OD|Oligodendroglioma|Oncology
+1p/19q|Codeletion of chromosome arms 1p and 19q|Oncology
+PA|Pilocytic astrocytoma|Oncology
+MB|Medulloblastoma|Oncology
+EPN|Ependymoma|Oncology
+ATRT|Atypical teratoid rhabdoid tumor|Oncology
+VS|Vestibular schwannoma|Oncology
+NF1|Neurofibromatosis type 1|Oncology
+NF2|Neurofibromatosis type 2|Oncology
+CSI|Craniospinal irradiation|Oncology
+G1|Grade 1, well differentiated|Oncology
+G2|Grade 2, moderately differentiated|Oncology
+G3|Grade 3, poorly differentiated|Oncology
+G4|Grade 4, undifferentiated|Oncology
+GX|Grade cannot be assessed|Oncology
+WD|Well differentiated|Oncology
+MD|Moderately differentiated|Oncology
+UD|Undifferentiated|Oncology
+NOS|Not otherwise specified|Oncology
+NST|No special type|Oncology
+NHG|Nottingham histologic grade|Oncology
+MI|Mitotic index|Oncology
+MC|Mitotic count|Oncology
+HPF|High-power field|Oncology
+mit/50 HPF|Mitoses per 50 high-power fields|Oncology
+N/C ratio|Nuclear to cytoplasmic ratio|Oncology
+H&E|Hematoxylin and eosin stain|Oncology
+FS|Frozen section|Oncology
+FFPE|Formalin-fixed paraffin-embedded|Oncology
+CK|Cytokeratin|Oncology
+LCA|Leukocyte common antigen|Oncology
+EMA|Epithelial membrane antigen|Oncology
+CDX2|Caudal-type homeobox 2 immunostain|Oncology
+CK7|Cytokeratin 7|Oncology
+CK20|Cytokeratin 20|Oncology
+CK5/6|Cytokeratin 5/6|Oncology
+p40|Squamous differentiation nuclear marker p40|Oncology
+p63|Squamous and basal cell nuclear marker p63|Oncology
+SMA|Smooth muscle actin|Oncology
+S100|S100 protein|Oncology
+SOX10|SRY-box transcription factor 10 immunostain|Oncology
+PAX8|Paired box 8 immunostain|Oncology
+GATA3|GATA binding protein 3 immunostain|Oncology
+CD117|KIT receptor (cluster of differentiation 117)|Oncology
+DOG1|Discovered on GIST 1|Oncology
+CD34|Cluster of differentiation 34|Oncology
+CD20|Cluster of differentiation 20|Oncology
+CD19|Cluster of differentiation 19|Oncology
+CD22|Cluster of differentiation 22|Oncology
+CD30|Cluster of differentiation 30|Oncology
+CD33|Cluster of differentiation 33|Oncology
+CD38|Cluster of differentiation 38|Oncology
+CD52|Cluster of differentiation 52|Oncology
+CD123|Cluster of differentiation 123|Oncology
+BCMA|B-cell maturation antigen|Oncology
+GPRC5D|G protein-coupled receptor class C group 5 member D|Oncology
+SLAMF7|Signaling lymphocytic activation molecule family member 7|Oncology
+CEACAM5|Carcinoembryonic antigen-related cell adhesion molecule 5|Oncology
+TROP2|Trophoblast cell surface antigen 2|Oncology
+FRalpha|Folate receptor alpha|Oncology
+DLL3|Delta-like ligand 3|Oncology
+CLDN18.2|Claudin 18.2|Oncology
+TIGIT|T-cell immunoreceptor with Ig and ITIM domains|Oncology
+HER2|Human epidermal growth factor receptor 2|Oncology
+HER2+|Human epidermal growth factor receptor 2 positive|Oncology
+HER2-0|Human epidermal growth factor receptor 2 immunohistochemistry score 0|Oncology
+HER2 3+|Human epidermal growth factor receptor 2 immunohistochemistry score 3+|Oncology
+HER2 IHC|Human epidermal growth factor receptor 2 immunohistochemistry|Oncology
+HER2 FISH|Human epidermal growth factor receptor 2 fluorescence in situ hybridization|Oncology
+HER2-E|HER2-enriched intrinsic subtype|Oncology
+HER2/CEP17|Ratio of HER2 signals to chromosome 17 centromere signals|Oncology
+CEP17|Chromosome 17 centromere probe|Oncology
+PR+|Progesterone receptor positive|Oncology
+PgR+|Progesterone receptor positive|Oncology
+HR+/HER2-|Hormone receptor positive, HER2 negative|Oncology
+HR+/HER2+|Hormone receptor positive, HER2 positive|Oncology
+TN|Triple negative|Oncology
+Allred|Allred score for hormone receptor staining|Oncology
+Ki67|Proliferation index marker Ki-67|Oncology
+Ki-67|Proliferation index marker Ki-67|Oncology
+TILs|Tumor-infiltrating lymphocytes|Oncology
+sTILs|Stromal tumor-infiltrating lymphocytes|Oncology
+RCB|Residual cancer burden|Oncology
+CPS+EG|Clinical-pathologic stage plus estrogen receptor status and grade|Oncology
+ODX|Oncotype DX recurrence score assay|Oncology
+GEP|Gene expression profile|Oncology
+PAM50|Prediction analysis of microarray 50-gene intrinsic subtype assay|Oncology
+ROR|Risk of recurrence score|Oncology
+BCI|Breast cancer index|Oncology
+EPclin|EndoPredict clinical score|Oncology
+gBRCA|Germline BRCA mutation|Oncology
+sBRCA|Somatic BRCA mutation|Oncology
+gBRCAm|Germline BRCA-mutated|Oncology
+tBRCA|Tumor BRCA mutation|Oncology
+HRR|Homologous recombination repair|Oncology
+HRP|Homologous recombination proficient|Oncology
+GIS|Genomic instability score|Oncology
+LST|Large-scale state transitions|Oncology
+TAI|Telomeric allelic imbalance|Oncology
+CNV|Copy number variation|Oncology
+CNA|Copy number alteration|Oncology
+SNV|Single nucleotide variant|Oncology
+SNP|Single nucleotide polymorphism|Oncology
+indel|Insertion or deletion|Oncology
+SV|Structural variant|Oncology
+GOF|Gain of function|Oncology
+LOF|Loss of function|Oncology
+WES|Whole exome sequencing|Oncology
+WGS|Whole genome sequencing|Oncology
+CGP|Comprehensive genomic profiling|Oncology
+MGPT|Multigene panel testing|Oncology
+HGVS|Human Genome Variation nomenclature label|Oncology
+P/LP|Pathogenic or likely pathogenic|Oncology
+LP|Likely pathogenic|Oncology
+LB|Likely benign|Oncology
+GL|Germline|Oncology
+SOM|Somatic|Oncology
+CGT|Cancer genetic testing|Oncology
+PGT|Preimplantation genetic testing|Oncology
+FDR|First-degree relative|Oncology
+SDR|Second-degree relative|Oncology
+FHx|Family history|Oncology
+PHx|Past history|Oncology
+AJ|Ashkenazi Jewish ancestry|Oncology
+MMRd|Mismatch repair deficiency|Oncology
+CIMP|CpG island methylator phenotype|Oncology
+TMB10|Tumor mutational burden of at least 10 mutations per megabase|Oncology
+mut/Mb|Mutations per megabase|Oncology
+bTMB|Blood tumor mutational burden|Oncology
+tTMB|Tissue tumor mutational burden|Oncology
+NAL|Neoantigen load|Oncology
+TME|Tumor microenvironment|Oncology
+TAM|Tumor-associated macrophage|Oncology
+MDSC|Myeloid-derived suppressor cell|Oncology
+Treg|Regulatory T cell|Oncology
+NK|Natural killer cell|Oncology
+CTL|Cytotoxic T lymphocyte|Oncology
+APC|Antigen-presenting cell|Oncology
+MHC|Major histocompatibility complex|Oncology
+TCR|T-cell receptor|Oncology
+PD-L1+|Programmed death-ligand 1 positive|Oncology
+PD-L1 TPS|Programmed death-ligand 1 tumor proportion score|Oncology
+PD-L1 CPS|Programmed death-ligand 1 combined positive score|Oncology
+PD-L1 IC|Programmed death-ligand 1 expression on immune cells|Oncology
+PD-L1 TC|Programmed death-ligand 1 expression on tumor cells|Oncology
+TAP|Tumor area positivity score|Oncology
+IC score|Immune cell score|Oncology
+TC score|Tumor cell score|Oncology
+IPS|Immunophenoscore|Oncology
+TPS<1%|Tumor proportion score below 1 percent|Oncology
+TPS>=50%|Tumor proportion score of 50 percent or higher|Oncology
+CPS>=1|Combined positive score of 1 or higher|Oncology
+CPS>=10|Combined positive score of 10 or higher|Oncology
+IO|Immuno-oncology|Oncology
+irAEs|Immune-related adverse events|Oncology
+irColitis|Immune-related colitis|Oncology
+irPneumonitis|Immune-related pneumonitis|Oncology
+irHepatitis|Immune-related hepatitis|Oncology
+irThyroiditis|Immune-related thyroiditis|Oncology
+irHypophysitis|Immune-related hypophysitis|Oncology
+irRash|Immune-related rash|Oncology
+irNephritis|Immune-related nephritis|Oncology
+irMyocarditis|Immune-related myocarditis|Oncology
+irDM|Immune-related diabetes mellitus|Oncology
+SJS|Stevens-Johnson syndrome|Oncology
+TEN|Toxic epidermal necrolysis|Oncology
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Oncology
+IRR|Infusion-related reaction|Oncology
+HSR|Hypersensitivity reaction|Oncology
+ADR|Adverse drug reaction|Oncology
+ADE|Adverse drug event|Oncology
+TRAE|Treatment-related adverse event|Oncology
+TEAE|Treatment-emergent adverse event|Oncology
+G3/4|Grade 3 or 4 toxicity|Oncology
+G>=3|Grade 3 or higher toxicity|Oncology
+AESI|Adverse event of special interest|Oncology
+SUSAR|Suspected unexpected serious adverse reaction|Oncology
+sCRS|Severe cytokine release syndrome|Oncology
+ICE|Immune effector cell-associated encephalopathy score|Oncology
+CARTOX|CAR T-cell therapy-associated toxicity score|Oncology
+ICAHT|Immune effector cell-associated hematotoxicity|Oncology
+MAS|Macrophage activation syndrome|Oncology
+TNF|Tumor necrosis factor|Oncology
+CAR-NK|Chimeric antigen receptor natural killer cell therapy|Oncology
+LDC|Lymphodepleting chemotherapy|Oncology
+Flu/Cy|Fludarabine and cyclophosphamide lymphodepletion|Oncology
+TCE|T-cell engager|Oncology
+BsAb|Bispecific antibody|Oncology
+TCB|T-cell bispecific antibody|Oncology
+OBD|Optimal biological dose|Oncology
+q2w|Every 2 weeks|Oncology
+q3w|Every 3 weeks|Oncology
+q4w|Every 4 weeks|Oncology
+q6w|Every 6 weeks|Oncology
+q21d|Every 21 days|Oncology
+q28d|Every 28 days|Oncology
+NACT|Neoadjuvant chemotherapy|Oncology
+AdjCT|Adjuvant chemotherapy|Oncology
+NAC|Neoadjuvant chemotherapy|Oncology
+NAT|Neoadjuvant therapy|Oncology
+NACRT|Neoadjuvant chemoradiotherapy|Oncology
+PCT|Preoperative chemotherapy|Oncology
+POCT|Postoperative chemotherapy|Oncology
+AET|Adjuvant endocrine therapy|Oncology
+EET|Extended endocrine therapy|Oncology
+Ca in situ|Carcinoma in situ|Oncology
+LN+|Lymph node positive|Oncology
+N+|Node positive|Oncology
+N0|No regional lymph node metastasis|Oncology
+N1|Regional lymph node metastasis, lowest category|Oncology
+N2|Regional lymph node metastasis, intermediate category|Oncology
+N3|Regional lymph node metastasis, highest category|Oncology
+NX|Regional lymph nodes cannot be assessed|Oncology
+M0|No distant metastasis|Oncology
+M1|Distant metastasis present|Oncology
+M1a|Distant metastasis, category a|Oncology
+M1b|Distant metastasis, category b|Oncology
+M1c|Distant metastasis, category c|Oncology
+M1d|Distant metastasis, category d|Oncology
+MX|Distant metastasis cannot be assessed|Oncology
+T0|No evidence of primary tumor|Oncology
+T1|Primary tumor, smallest or least invasive category|Oncology
+T2|Primary tumor, intermediate category|Oncology
+T3|Primary tumor, larger or locally advanced category|Oncology
+T4|Primary tumor invading adjacent structures|Oncology
+TX|Primary tumor cannot be assessed|Oncology
+Ta|Noninvasive papillary carcinoma|Oncology
+pTis|Pathologic carcinoma in situ|Oncology
+pT0|No residual primary tumor on pathologic examination|Oncology
+pN0|No regional lymph node metastasis on pathologic examination|Oncology
+pN1mi|Lymph node micrometastasis on pathologic examination|Oncology
+pNX|Regional lymph nodes not assessed pathologically|Oncology
+pM1|Pathologically confirmed distant metastasis|Oncology
+ypT|Pathologic tumor stage after neoadjuvant therapy|Oncology
+ypN|Pathologic nodal stage after neoadjuvant therapy|Oncology
+ypT0N0|No residual tumor in primary site or nodes after neoadjuvant therapy|Oncology
+ypCR|Pathologic complete response after neoadjuvant therapy|Oncology
+ycTNM|Clinical TNM stage after neoadjuvant therapy|Oncology
+rTNM|Recurrence TNM stage|Oncology
+aTNM|Autopsy TNM stage|Oncology
+ITC|Isolated tumor cells|Oncology
+LA|Locally advanced|Oncology
+LABC|Locally advanced breast cancer|Oncology
+LAPC|Locally advanced pancreatic cancer|Oncology
+LACC|Locally advanced cervical cancer|Oncology
+LARC|Locally advanced rectal cancer|Oncology
+LAHNSCC|Locally advanced head and neck squamous cell cancer|Oncology
+LAUC|Locally advanced urothelial carcinoma|Oncology
+mUC|Metastatic urothelial carcinoma|Oncology
+mRCC|Metastatic renal cell carcinoma|Oncology
+mHCC|Metastatic hepatocellular carcinoma|Oncology
+uHCC|Unresectable hepatocellular carcinoma|Oncology
+aHCC|Advanced hepatocellular carcinoma|Oncology
+mPDAC|Metastatic pancreatic ductal adenocarcinoma|Oncology
+mNSCLC|Metastatic non-small cell lung cancer|Oncology
+aNSCLC|Advanced non-small cell lung cancer|Oncology
+mTNBC|Metastatic triple-negative breast cancer|Oncology
+mBC|Metastatic breast cancer|Oncology
+mGC|Metastatic gastric cancer|Oncology
+aGC|Advanced gastric cancer|Oncology
+EGC|Early gastric cancer|Oncology
+GAC|Gastric adenocarcinoma|Oncology
+GEA|Gastroesophageal adenocarcinoma|Oncology
+EC|Esophageal cancer|Oncology
+EA|Esophageal adenocarcinoma|Oncology
+BE|Barrett esophagus|Oncology
+HGD|High-grade dysplasia|Oncology
+LGD|Low-grade dysplasia|Oncology
+IM|Intestinal metaplasia|Oncology
+IMC|Intramucosal carcinoma|Oncology
+SRCC|Signet ring cell carcinoma|Oncology
+PM|Peritoneal metastasis|Oncology
+PMP|Pseudomyxoma peritonei|Oncology
+LAMN|Low-grade appendiceal mucinous neoplasm|Oncology
+HAMN|High-grade appendiceal mucinous neoplasm|Oncology
+DPAM|Disseminated peritoneal adenomucinosis|Oncology
+PMCA|Peritoneal mucinous carcinomatosis|Oncology
+DPM|Diffuse peritoneal mesothelioma|Oncology
+BPM|Biphasic pleural mesothelioma|Oncology
+EPM|Epithelioid pleural mesothelioma|Oncology
+SPM|Sarcomatoid pleural mesothelioma|Oncology
+P/D|Pleurectomy and decortication|Oncology
+EOCRC|Early-onset colorectal cancer|Oncology
+LOCRC|Late-onset colorectal cancer|Oncology
+LCC|Left-sided colon cancer|Oncology
+CRLM|Colorectal liver metastases|Oncology
+CRPM|Colorectal peritoneal metastases|Oncology
+PVE|Portal vein embolization|Oncology
+ALPPS|Associating liver partition and portal vein ligation for staged hepatectomy|Oncology
+FLR|Future liver remnant|Oncology
+FLRV|Future liver remnant volume|Oncology
+PHLF|Post-hepatectomy liver failure|Oncology
+SFSS|Small-for-size syndrome|Oncology
+LT|Liver transplantation|Oncology
+LDLT|Living donor liver transplantation|Oncology
+DDLT|Deceased donor liver transplantation|Oncology
+BCLC|Barcelona Clinic Liver Cancer staging system|Oncology
+ALBI|Albumin-bilirubin grade|Oncology
+MELD|Model for end-stage liver disease|Oncology
+MoRAL|Model of recurrence after liver transplant|Oncology
+HAP|Hepatic arterial perfusion|Oncology
+HAIC|Hepatic arterial infusion chemotherapy|Oncology
+cTACE|Conventional transarterial chemoembolization|Oncology
+LRT|Locoregional therapy|Oncology
+MASH|Metabolic dysfunction-associated steatohepatitis|Oncology
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Oncology
+PVTT|Portal vein tumor thrombus|Oncology
+PVT|Portal vein thrombosis|Oncology
+TT|Tumor thrombus|Oncology
+APHE|Arterial phase hyperenhancement|Oncology
+FNH|Focal nodular hyperplasia|Oncology
+HCA|Hepatocellular adenoma|Oncology
+FLHCC|Fibrolamellar hepatocellular carcinoma|Oncology
+pCCA|Perihilar cholangiocarcinoma|Oncology
+dCCA|Distal cholangiocarcinoma|Oncology
+GBC|Gallbladder cancer|Oncology
+BTC|Biliary tract cancer|Oncology
+PSC|Primary sclerosing cholangitis|Oncology
+IPMN|Intraductal papillary mucinous neoplasm|Oncology
+MCN|Mucinous cystic neoplasm|Oncology
+SCN|Serous cystic neoplasm|Oncology
+PanIN|Pancreatic intraepithelial neoplasia|Oncology
+PNEN|Pancreatic neuroendocrine neoplasm|Oncology
+PNEC|Pancreatic neuroendocrine carcinoma|Oncology
+BRPC|Borderline resectable pancreatic cancer|Oncology
+RPC|Resectable pancreatic cancer|Oncology
+UPC|Unresectable pancreatic cancer|Oncology
+PPPD|Pylorus-preserving pancreaticoduodenectomy|Oncology
+DP|Distal pancreatectomy|Oncology
+TP|Total pancreatectomy|Oncology
+POPF|Postoperative pancreatic fistula|Oncology
+DGE|Delayed gastric emptying|Oncology
+PEI|Pancreatic exocrine insufficiency|Oncology
+PERT|Pancreatic enzyme replacement therapy|Oncology
+NOD|New-onset diabetes|Oncology
+SMV|Superior mesenteric vein|Oncology
+CHA|Common hepatic artery|Oncology
+CeA|Celiac axis|Oncology
+CPN|Celiac plexus neurolysis|Oncology
+CPB|Celiac plexus block|Oncology
+SEMS|Self-expanding metal stent|Oncology
+SEPS|Self-expanding plastic stent|Oncology
+PBD|Preoperative biliary drainage|Oncology
+PTBD|Percutaneous transhepatic biliary drainage|Oncology
+EBD|Endoscopic biliary drainage|Oncology
+GOO|Gastric outlet obstruction|Oncology
+MBO|Malignant bowel obstruction|Oncology
+MLO|Malignant large bowel obstruction|Oncology
+SBO|Small bowel obstruction|Oncology
+VGT|Venting gastrostomy tube|Oncology
+NPO|Nothing by mouth|Oncology
+SCST|Sex cord-stromal tumor|Oncology
+SCCOHT|Small cell carcinoma of the ovary, hypercalcemic type|Oncology
+MOC|Mucinous ovarian carcinoma|Oncology
+EnOC|Endometrioid ovarian carcinoma|Oncology
+LMP|Low malignant potential|Oncology
+BOT|Borderline ovarian tumor|Oncology
+STIC|Serous tubal intraepithelial carcinoma|Oncology
+PPC|Primary peritoneal carcinoma|Oncology
+PROC|Platinum-resistant ovarian cancer|Oncology
+PSOC|Platinum-sensitive ovarian cancer|Oncology
+PRR|Platinum-refractory|Oncology
+IDS|Interval debulking surgery|Oncology
+PDS|Primary debulking surgery|Oncology
+SCS|Secondary cytoreductive surgery|Oncology
+RD0|No residual disease after cytoreduction|Oncology
+NVRD|No visible residual disease|Oncology
+IP/IV|Intraperitoneal and intravenous chemotherapy|Oncology
+EEC|Endometrioid endometrial carcinoma|Oncology
+NEEC|Non-endometrioid endometrial carcinoma|Oncology
+USC|Uterine serous carcinoma|Oncology
+UCS|Uterine carcinosarcoma|Oncology
+ULMS|Uterine leiomyosarcoma|Oncology
+ESS|Endometrial stromal sarcoma|Oncology
+EIN|Endometrial intraepithelial neoplasia|Oncology
+AH|Atypical hyperplasia|Oncology
+EH|Endometrial hyperplasia|Oncology
+TVUS|Transvaginal ultrasound|Oncology
+EMB|Endometrial biopsy|Oncology
+D&C|Dilation and curettage|Oncology
+LVSI|Lymphovascular space invasion|Oncology
+p53abn|Abnormal p53 expression|Oncology
+p53wt|Wild-type p53 expression|Oncology
+NSMP|No specific molecular profile|Oncology
+POLEmut|POLE ultramutated endometrial cancer subtype|Oncology
+ASC|Adenosquamous carcinoma|Oncology
+CGIN|Cervical glandular intraepithelial neoplasia|Oncology
+HPV16|Human papillomavirus type 16|Oncology
+HPV18|Human papillomavirus type 18|Oncology
+hrHPV|High-risk human papillomavirus|Oncology
+HPV+|Human papillomavirus positive|Oncology
+p16|Cyclin-dependent kinase inhibitor p16 immunostain|Oncology
+p16+|p16 positive|Oncology
+Pap|Papanicolaou smear|Oncology
+LBC|Liquid-based cytology|Oncology
+NILM|Negative for intraepithelial lesion or malignancy|Oncology
+CIN1|Cervical intraepithelial neoplasia grade 1|Oncology
+CIN2|Cervical intraepithelial neoplasia grade 2|Oncology
+CIN3|Cervical intraepithelial neoplasia grade 3|Oncology
+CIN2+|Cervical intraepithelial neoplasia grade 2 or worse|Oncology
+CIN3+|Cervical intraepithelial neoplasia grade 3 or worse|Oncology
+RH|Radical hysterectomy|Oncology
+FST|Fertility-sparing treatment|Oncology
+FSS|Fertility-sparing surgery|Oncology
+MIS|Minimally invasive surgery|Oncology
+LNS|Lymph node staging|Oncology
+PLND|Pelvic lymph node dissection|Oncology
+PALND|Para-aortic lymph node dissection|Oncology
+ePLND|Extended pelvic lymph node dissection|Oncology
+ICG|Indocyanine green|Oncology
+BT|Brachytherapy|Oncology
+ICBT|Intracavitary brachytherapy|Oncology
+ISBT|Interstitial brachytherapy|Oncology
+IGABT|Image-guided adaptive brachytherapy|Oncology
+VCB|Vaginal cuff brachytherapy|Oncology
+EQD2|Equivalent dose in 2 Gy fractions|Oncology
+OTT|Overall treatment time|Oncology
+HNC|Head and neck cancer|Oncology
+OCSCC|Oral cavity squamous cell carcinoma|Oncology
+LSCC|Laryngeal squamous cell carcinoma|Oncology
+HPSCC|Hypopharyngeal squamous cell carcinoma|Oncology
+OPC|Oropharyngeal cancer|Oncology
+SNSCC|Sinonasal squamous cell carcinoma|Oncology
+ONB|Olfactory neuroblastoma|Oncology
+SGC|Salivary gland carcinoma|Oncology
+MEC|Mucoepidermoid carcinoma|Oncology
+SDC|Salivary duct carcinoma|Oncology
+OLP|Oral lichen planus|Oncology
+OPMD|Oral potentially malignant disorder|Oncology
+OSF|Oral submucous fibrosis|Oncology
+OED|Oral epithelial dysplasia|Oncology
+VC|Verrucous carcinoma|Oncology
+DOI|Depth of invasion|Oncology
+ENE+|Extranodal extension present|Oncology
+PORT|Postoperative radiotherapy|Oncology
+POCRT|Postoperative chemoradiotherapy|Oncology
+IC|Induction chemotherapy|Oncology
+TPF|Docetaxel, cisplatin and fluorouracil regimen|Oncology
+PF|Cisplatin and fluorouracil regimen|Oncology
+ORN|Osteoradionecrosis|Oncology
+XST|Xerostomia|Oncology

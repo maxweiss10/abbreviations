@@ -1,0 +1,576 @@
+A. baumannii|Acinetobacter baumannii|Infectious Disease
+ACB|Acinetobacter calcoaceticus-baumannii complex|Infectious Disease
+P. aeruginosa|Pseudomonas aeruginosa|Infectious Disease
+S. maltophilia|Stenotrophomonas maltophilia|Infectious Disease
+B. cepacia|Burkholderia cepacia|Infectious Disease
+Bcc|Burkholderia cepacia complex|Infectious Disease
+B. pseudomallei|Burkholderia pseudomallei|Infectious Disease
+E. faecalis|Enterococcus faecalis|Infectious Disease
+E. faecium|Enterococcus faecium|Infectious Disease
+S. epidermidis|Staphylococcus epidermidis|Infectious Disease
+S. lugdunensis|Staphylococcus lugdunensis|Infectious Disease
+S. saprophyticus|Staphylococcus saprophyticus|Infectious Disease
+S. pyogenes|Streptococcus pyogenes|Infectious Disease
+S. agalactiae|Streptococcus agalactiae|Infectious Disease
+S. dysgalactiae|Streptococcus dysgalactiae|Infectious Disease
+SDSE|Streptococcus dysgalactiae subspecies equisimilis|Infectious Disease
+S. mutans|Streptococcus mutans|Infectious Disease
+S. gallolyticus|Streptococcus gallolyticus|Infectious Disease
+SBSEC|Streptococcus bovis/equinus complex|Infectious Disease
+VGS|Viridans group streptococci|Infectious Disease
+SAG|Streptococcus anginosus group|Infectious Disease
+SMG|Streptococcus milleri group|Infectious Disease
+GCS|Group C Streptococcus|Infectious Disease
+GGS|Group G Streptococcus|Infectious Disease
+NVS|Nutritionally variant streptococci|Infectious Disease
+HACEK|Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella group|Infectious Disease
+H. influenzae|Haemophilus influenzae|Infectious Disease
+NTHi|Nontypeable Haemophilus influenzae|Infectious Disease
+N. meningitidis|Neisseria meningitidis|Infectious Disease
+M. catarrhalis|Moraxella catarrhalis|Infectious Disease
+B. pertussis|Bordetella pertussis|Infectious Disease
+C. diphtheriae|Corynebacterium diphtheriae|Infectious Disease
+C. jeikeium|Corynebacterium jeikeium|Infectious Disease
+L. monocytogenes|Listeria monocytogenes|Infectious Disease
+B. anthracis|Bacillus anthracis|Infectious Disease
+B. cereus|Bacillus cereus|Infectious Disease
+C. perfringens|Clostridium perfringens|Infectious Disease
+C. tetani|Clostridium tetani|Infectious Disease
+C. botulinum|Clostridium botulinum|Infectious Disease
+C. sordellii|Clostridium sordellii|Infectious Disease
+B. fragilis|Bacteroides fragilis|Infectious Disease
+BFG|Bacteroides fragilis group|Infectious Disease
+F. nucleatum|Fusobacterium nucleatum|Infectious Disease
+F. necrophorum|Fusobacterium necrophorum|Infectious Disease
+C. acnes|Cutibacterium acnes|Infectious Disease
+A. israelii|Actinomyces israelii|Infectious Disease
+N. asteroides|Nocardia asteroides|Infectious Disease
+N. brasiliensis|Nocardia brasiliensis|Infectious Disease
+E. cloacae|Enterobacter cloacae|Infectious Disease
+ECC|Enterobacter cloacae complex|Infectious Disease
+K. aerogenes|Klebsiella aerogenes|Infectious Disease
+K. oxytoca|Klebsiella oxytoca|Infectious Disease
+KP|Klebsiella pneumoniae|Infectious Disease
+hvKp|Hypervirulent Klebsiella pneumoniae|Infectious Disease
+P. mirabilis|Proteus mirabilis|Infectious Disease
+S. marcescens|Serratia marcescens|Infectious Disease
+C. freundii|Citrobacter freundii|Infectious Disease
+C. koseri|Citrobacter koseri|Infectious Disease
+M. morganii|Morganella morganii|Infectious Disease
+HECK-Yes|Mnemonic for Enterobacterales with chromosomal AmpC risk (Hafnia, Enterobacter, Citrobacter, Klebsiella aerogenes, Yersinia, Serratia)|Infectious Disease
+SPICE|Serratia, Pseudomonas, indole-positive Proteus, Citrobacter, Enterobacter group with inducible AmpC|Infectious Disease
+SPACE|Serratia, Pseudomonas, Acinetobacter, Citrobacter, Enterobacter group with inducible AmpC|Infectious Disease
+ESKAPE|Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterobacter species|Infectious Disease
+S. enterica|Salmonella enterica|Infectious Disease
+NTS|Nontyphoidal Salmonella|Infectious Disease
+S. Typhi|Salmonella enterica serovar Typhi|Infectious Disease
+S. Paratyphi|Salmonella enterica serovar Paratyphi|Infectious Disease
+V. cholerae|Vibrio cholerae|Infectious Disease
+V. vulnificus|Vibrio vulnificus|Infectious Disease
+V. parahaemolyticus|Vibrio parahaemolyticus|Infectious Disease
+C. jejuni|Campylobacter jejuni|Infectious Disease
+Y. enterocolitica|Yersinia enterocolitica|Infectious Disease
+Y. pestis|Yersinia pestis|Infectious Disease
+F. tularensis|Francisella tularensis|Infectious Disease
+B. burgdorferi|Borrelia burgdorferi|Infectious Disease
+B. miyamotoi|Borrelia miyamotoi|Infectious Disease
+T. pallidum|Treponema pallidum|Infectious Disease
+N. gonorrhoeae|Neisseria gonorrhoeae|Infectious Disease
+C. trachomatis|Chlamydia trachomatis|Infectious Disease
+U. urealyticum|Ureaplasma urealyticum|Infectious Disease
+M. hominis|Mycoplasma hominis|Infectious Disease
+L. interrogans|Leptospira interrogans|Infectious Disease
+R. rickettsii|Rickettsia rickettsii|Infectious Disease
+A. phagocytophilum|Anaplasma phagocytophilum|Infectious Disease
+E. chaffeensis|Ehrlichia chaffeensis|Infectious Disease
+C. burnetii|Coxiella burnetii|Infectious Disease
+B. henselae|Bartonella henselae|Infectious Disease
+B. quintana|Bartonella quintana|Infectious Disease
+Brucella spp.|Brucella species|Infectious Disease
+M. leprae|Mycobacterium leprae|Infectious Disease
+M. bovis|Mycobacterium bovis|Infectious Disease
+M. kansasii|Mycobacterium kansasii|Infectious Disease
+M. marinum|Mycobacterium marinum|Infectious Disease
+M. abscessus|Mycobacterium abscessus|Infectious Disease
+MABSC|Mycobacterium abscessus complex|Infectious Disease
+M. chelonae|Mycobacterium chelonae|Infectious Disease
+M. fortuitum|Mycobacterium fortuitum|Infectious Disease
+M. ulcerans|Mycobacterium ulcerans|Infectious Disease
+RGM|Rapidly growing mycobacteria|Infectious Disease
+SGM|Slowly growing mycobacteria|Infectious Disease
+A. fumigatus|Aspergillus fumigatus|Infectious Disease
+A. flavus|Aspergillus flavus|Infectious Disease
+C. glabrata|Candida glabrata|Infectious Disease
+C. parapsilosis|Candida parapsilosis|Infectious Disease
+C. tropicalis|Candida tropicalis|Infectious Disease
+C. krusei|Candida krusei|Infectious Disease
+P. kudriavzevii|Pichia kudriavzevii (formerly Candida krusei)|Infectious Disease
+N. glabratus|Nakaseomyces glabratus (formerly Candida glabrata)|Infectious Disease
+C. gattii|Cryptococcus gattii|Infectious Disease
+P. jirovecii|Pneumocystis jirovecii|Infectious Disease
+H. capsulatum|Histoplasma capsulatum|Infectious Disease
+B. dermatitidis|Blastomyces dermatitidis|Infectious Disease
+C. immitis|Coccidioides immitis|Infectious Disease
+C. posadasii|Coccidioides posadasii|Infectious Disease
+P. brasiliensis|Paracoccidioides brasiliensis|Infectious Disease
+S. schenckii|Sporothrix schenckii|Infectious Disease
+T. marneffei|Talaromyces marneffei|Infectious Disease
+M. furfur|Malassezia furfur|Infectious Disease
+T. rubrum|Trichophyton rubrum|Infectious Disease
+E. histolytica|Entamoeba histolytica|Infectious Disease
+G. lamblia|Giardia lamblia|Infectious Disease
+G. duodenalis|Giardia duodenalis|Infectious Disease
+C. parvum|Cryptosporidium parvum|Infectious Disease
+C. cayetanensis|Cyclospora cayetanensis|Infectious Disease
+T. gondii|Toxoplasma gondii|Infectious Disease
+T. cruzi|Trypanosoma cruzi|Infectious Disease
+T. brucei|Trypanosoma brucei|Infectious Disease
+L. donovani|Leishmania donovani|Infectious Disease
+N. fowleri|Naegleria fowleri|Infectious Disease
+B. mandrillaris|Balamuthia mandrillaris|Infectious Disease
+P. falciparum|Plasmodium falciparum|Infectious Disease
+P. vivax|Plasmodium vivax|Infectious Disease
+P. ovale|Plasmodium ovale|Infectious Disease
+P. malariae|Plasmodium malariae|Infectious Disease
+P. knowlesi|Plasmodium knowlesi|Infectious Disease
+B. microti|Babesia microti|Infectious Disease
+S. stercoralis|Strongyloides stercoralis|Infectious Disease
+A. lumbricoides|Ascaris lumbricoides|Infectious Disease
+T. solium|Taenia solium|Infectious Disease
+E. granulosus|Echinococcus granulosus|Infectious Disease
+E. vermicularis|Enterobius vermicularis|Infectious Disease
+W. bancrofti|Wuchereria bancrofti|Infectious Disease
+O. volvulus|Onchocerca volvulus|Infectious Disease
+S. mansoni|Schistosoma mansoni|Infectious Disease
+S. haematobium|Schistosoma haematobium|Infectious Disease
+S. scabiei|Sarcoptes scabiei|Infectious Disease
+P. humanus|Pediculus humanus|Infectious Disease
+HSV-1/2|Herpes simplex virus types 1 and 2|Infectious Disease
+HHV-1|Human herpesvirus 1 (herpes simplex virus type 1)|Infectious Disease
+HHV-2|Human herpesvirus 2 (herpes simplex virus type 2)|Infectious Disease
+HHV-3|Human herpesvirus 3 (varicella zoster virus)|Infectious Disease
+HHV-4|Human herpesvirus 4 (Epstein-Barr virus)|Infectious Disease
+HHV-5|Human herpesvirus 5 (cytomegalovirus)|Infectious Disease
+HHV-7|Human herpesvirus 7|Infectious Disease
+HIV-2|Human immunodeficiency virus type 2|Infectious Disease
+HBV DNA|Hepatitis B virus deoxyribonucleic acid level|Infectious Disease
+HCV RNA|Hepatitis C virus ribonucleic acid level|Infectious Disease
+HDV RNA|Hepatitis D virus ribonucleic acid level|Infectious Disease
+CMV DNAemia|Cytomegalovirus DNA detected in blood|Infectious Disease
+EBV DNA|Epstein-Barr virus deoxyribonucleic acid level|Infectious Disease
+cccDNA|Covalently closed circular DNA (hepatitis B virus replication template)|Infectious Disease
+HBcrAg|Hepatitis B core-related antigen|Infectious Disease
+IgM anti-HBc|Immunoglobulin M antibody to hepatitis B core antigen|Infectious Disease
+OBI|Occult hepatitis B infection|Infectious Disease
+CHB|Chronic hepatitis B|Infectious Disease
+CHC|Chronic hepatitis C|Infectious Disease
+HBV-HCC|Hepatitis B virus-related hepatocellular carcinoma|Infectious Disease
+HIV Ag/Ab|Combined HIV antigen and antibody test|Infectious Disease
+HIV VL|HIV viral load|Infectious Disease
+LLV|Low-level viremia|Infectious Disease
+VF|Virologic failure|Infectious Disease
+VS|Virologic suppression|Infectious Disease
+TND|Target not detected|Infectious Disease
+TD-HIV|HIV RNA target detected|Infectious Disease
+ART-naive|Never treated with antiretroviral therapy|Infectious Disease
+ARV-exp|Antiretroviral-experienced|Infectious Disease
+BR|Boosted regimen|Infectious Disease
+2DR|Two-drug regimen|Infectious Disease
+3DR|Three-drug regimen|Infectious Disease
+STR|Single-tablet regimen|Infectious Disease
+LA-ART|Long-acting antiretroviral therapy|Infectious Disease
+LEN|Lenacapavir|Infectious Disease
+FTR|Fostemsavir|Infectious Disease
+IBA|Ibalizumab|Infectious Disease
+DPV|Dapivirine|Infectious Disease
+LPV/r|Lopinavir boosted with ritonavir|Infectious Disease
+DRV/r|Darunavir boosted with ritonavir|Infectious Disease
+DRV/c|Darunavir boosted with cobicistat|Infectious Disease
+ATV/r|Atazanavir boosted with ritonavir|Infectious Disease
+ATV/c|Atazanavir boosted with cobicistat|Infectious Disease
+TAF/FTC|Tenofovir alafenamide with emtricitabine|Infectious Disease
+TDF/FTC|Tenofovir disoproxil fumarate with emtricitabine|Infectious Disease
+ABC/3TC|Abacavir with lamivudine|Infectious Disease
+DTG/3TC|Dolutegravir with lamivudine|Infectious Disease
+DTG/RPV|Dolutegravir with rilpivirine|Infectious Disease
+NRTI-sparing|Antiretroviral regimen without nucleoside reverse transcriptase inhibitors|Infectious Disease
+TAM|Thymidine analog mutation|Infectious Disease
+NAM|Nucleoside analog mutation|Infectious Disease
+TDR|Transmitted drug resistance|Infectious Disease
+ADR|Acquired drug resistance|Infectious Disease
+RT|Reverse transcriptase|Infectious Disease
+PR|Protease (HIV enzyme)|Infectious Disease
+IN|Integrase (HIV enzyme)|Infectious Disease
+CCR5|C-C chemokine receptor type 5 (HIV coreceptor)|Infectious Disease
+CXCR4|C-X-C chemokine receptor type 4 (HIV coreceptor)|Infectious Disease
+R5|HIV virus using the CCR5 coreceptor|Infectious Disease
+X4|HIV virus using the CXCR4 coreceptor|Infectious Disease
+HIVAN|HIV-associated nephropathy|Infectious Disease
+OHL|Oral hairy leukoplakia|Infectious Disease
+TMA|Transcription-mediated amplification|Infectious Disease
+bDNA|Branched-chain DNA assay|Infectious Disease
+RDT|Rapid diagnostic test|Infectious Disease
+POCT|Point-of-care testing|Infectious Disease
+POC|Point of care|Infectious Disease
+EIA|Enzyme immunoassay|Infectious Disease
+CLIA|Chemiluminescence immunoassay|Infectious Disease
+CIA|Chemiluminescent immunoassay|Infectious Disease
+WB|Western blot|Infectious Disease
+IB|Immunoblot|Infectious Disease
+CF|Complement fixation|Infectious Disease
+HI|Hemagglutination inhibition|Infectious Disease
+PRNT|Plaque reduction neutralization test|Infectious Disease
+MAT|Microscopic agglutination test|Infectious Disease
+SAT|Serum agglutination test|Infectious Disease
+IIF|Indirect immunofluorescence|Infectious Disease
+IFAT|Indirect fluorescent antibody test|Infectious Disease
+MAC-ELISA|IgM antibody capture enzyme-linked immunosorbent assay|Infectious Disease
+IgM|Immunoglobulin M antibody|Infectious Disease
+IgG|Immunoglobulin G antibody|Infectious Disease
+Ct|Cycle threshold|Infectious Disease
+LOD|Limit of detection|Infectious Disease
+LLOQ|Lower limit of quantification|Infectious Disease
+IU/mL|International units per milliliter|Infectious Disease
+copies/mL|Viral genome copies per milliliter|Infectious Disease
+log10|Base-10 logarithm (viral load reduction unit)|Infectious Disease
+ME panel|Meningitis-encephalitis multiplex PCR panel|Infectious Disease
+PNA-FISH|Peptide nucleic acid fluorescence in situ hybridization|Infectious Disease
+FISH|Fluorescence in situ hybridization|Infectious Disease
+16S|16S ribosomal RNA gene sequencing|Infectious Disease
+16S rRNA|16S ribosomal ribonucleic acid sequencing|Infectious Disease
+ITS|Internal transcribed spacer sequencing (fungal identification)|Infectious Disease
+cfDNA|Cell-free DNA|Infectious Disease
+Plasma cfDNA|Plasma microbial cell-free DNA sequencing|Infectious Disease
+MCfDNA|Microbial cell-free DNA|Infectious Disease
+ID/AST|Identification and antimicrobial susceptibility testing|Infectious Disease
+RAST|Rapid antimicrobial susceptibility testing|Infectious Disease
+BMD|Broth microdilution|Infectious Disease
+Etest|Gradient diffusion strip test for minimum inhibitory concentration|Infectious Disease
+ASTs|Antimicrobial susceptibility tests|Infectious Disease
+NS|Nonsusceptible|Infectious Disease
+SIR|Susceptible, intermediate, resistant categories|Infectious Disease
+ATU|Area of technical uncertainty|Infectious Disease
+MIC50|Minimum inhibitory concentration inhibiting 50 percent of isolates|Infectious Disease
+MIC90|Minimum inhibitory concentration inhibiting 90 percent of isolates|Infectious Disease
+ECOFF|Epidemiological cutoff value|Infectious Disease
+D-test|Disk approximation test for inducible clindamycin resistance|Infectious Disease
+iMLSB|Inducible macrolide-lincosamide-streptogramin B resistance|Infectious Disease
+MLSB|Macrolide-lincosamide-streptogramin B|Infectious Disease
+cMLSB|Constitutive macrolide-lincosamide-streptogramin B resistance|Infectious Disease
+PBP|Penicillin-binding protein|Infectious Disease
+PBP2a|Penicillin-binding protein 2a|Infectious Disease
+CA-MRSA|Community-associated methicillin-resistant Staphylococcus aureus|Infectious Disease
+HA-MRSA|Healthcare-associated methicillin-resistant Staphylococcus aureus|Infectious Disease
+LA-MRSA|Livestock-associated methicillin-resistant Staphylococcus aureus|Infectious Disease
+PVL|Panton-Valentine leukocidin|Infectious Disease
+MRCoNS|Methicillin-resistant coagulase-negative staphylococci|Infectious Disease
+PRSP|Penicillin-resistant Streptococcus pneumoniae|Infectious Disease
+PSSP|Penicillin-susceptible Streptococcus pneumoniae|Infectious Disease
+DRSP|Drug-resistant Streptococcus pneumoniae|Infectious Disease
+BLNAR|Beta-lactamase-negative ampicillin-resistant Haemophilus influenzae|Infectious Disease
+BLPAR|Beta-lactamase-positive ampicillin-resistant Haemophilus influenzae|Infectious Disease
+CRKP|Carbapenem-resistant Klebsiella pneumoniae|Infectious Disease
+CRE-KP|Carbapenem-resistant Klebsiella pneumoniae|Infectious Disease
+CRGN|Carbapenem-resistant gram-negative|Infectious Disease
+CR-GNB|Carbapenem-resistant gram-negative bacilli|Infectious Disease
+CRO-R|Ceftriaxone-resistant|Infectious Disease
+3GC-R|Third-generation cephalosporin resistant|Infectious Disease
+3GC|Third-generation cephalosporin|Infectious Disease
+4GC|Fourth-generation cephalosporin|Infectious Disease
+1GC|First-generation cephalosporin|Infectious Disease
+2GC|Second-generation cephalosporin|Infectious Disease
+5GC|Fifth-generation cephalosporin|Infectious Disease
+ESC|Extended-spectrum cephalosporin|Infectious Disease
+ESBL-E|Extended-spectrum beta-lactamase-producing Enterobacterales|Infectious Disease
+ESBL-PE|Extended-spectrum beta-lactamase-producing Enterobacterales|Infectious Disease
+MBL|Metallo-beta-lactamase|Infectious Disease
+SBL|Serine beta-lactamase|Infectious Disease
+CHDL|Carbapenem-hydrolyzing class D beta-lactamase|Infectious Disease
+IRT|Inhibitor-resistant TEM beta-lactamase|Infectious Disease
+GES|Guiana extended-spectrum beta-lactamase|Infectious Disease
+CRPsA|Carbapenem-resistant Pseudomonas aeruginosa|Infectious Disease
+MDR-PA|Multidrug-resistant Pseudomonas aeruginosa|Infectious Disease
+MDR-AB|Multidrug-resistant Acinetobacter baumannii|Infectious Disease
+MDR-GNB|Multidrug-resistant gram-negative bacilli|Infectious Disease
+CRE-screen|Rectal screening for carbapenem-resistant Enterobacterales|Infectious Disease
+VRE-colonization|Colonization with vancomycin-resistant enterococci|Infectious Disease
+LRE|Linezolid-resistant enterococci|Infectious Disease
+MSSE|Methicillin-susceptible Staphylococcus epidermidis|Infectious Disease
+GISA|Glycopeptide-intermediate Staphylococcus aureus|Infectious Disease
+FQ-R|Fluoroquinolone-resistant|Infectious Disease
+TMP-SMX-R|Trimethoprim-sulfamethoxazole resistant|Infectious Disease
+AZM-R|Azithromycin-resistant|Infectious Disease
+CIP-R|Ciprofloxacin-resistant|Infectious Disease
+CIP-S|Ciprofloxacin-susceptible|Infectious Disease
+PEN-FAST|Penicillin allergy decision rule (five-year, anaphylaxis/angioedema/severe cutaneous reaction, treatment)|Infectious Disease
+SCAR|Severe cutaneous adverse reaction|Infectious Disease
+IV-to-PO|Intravenous-to-oral switch|Infectious Disease
+IVPO|Intravenous-to-oral switch|Infectious Disease
+DOT/1000|Days of therapy per 1000 patient-days|Infectious Disease
+DDD|Defined daily dose|Infectious Disease
+LOT|Length of therapy|Infectious Disease
+EAT|Effective antimicrobial therapy|Infectious Disease
+IAT|Inappropriate antimicrobial therapy|Infectious Disease
+TOC|Test of cure|Infectious Disease
+EOT|End of treatment|Infectious Disease
+ITT|Intention to treat|Infectious Disease
+MIC creep|Gradual rise in minimum inhibitory concentrations over time|Infectious Disease
+fAUC|Free-drug area under the concentration-time curve|Infectious Disease
+fCmax|Free-drug peak concentration|Infectious Disease
+Cmax/MIC|Peak concentration to minimum inhibitory concentration ratio|Infectious Disease
+Cmax:MIC|Peak concentration to minimum inhibitory concentration ratio|Infectious Disease
+%T>MIC|Percent of dosing interval with concentration above the minimum inhibitory concentration|Infectious Disease
+CrCl|Creatinine clearance|Infectious Disease
+ECMO|Extracorporeal membrane oxygenation|Infectious Disease
+AKI|Acute kidney injury|Infectious Disease
+VPT|Vancomycin plus piperacillin-tazobactam|Infectious Disease
+ABR|Antibiotic resistance|Infectious Disease
+AMR|Antimicrobial resistance|Infectious Disease
+AMU|Antimicrobial use|Infectious Disease
+AMC|Antimicrobial consumption|Infectious Disease
+CSF|Cerebrospinal fluid|Infectious Disease
+LP|Lumbar puncture|Infectious Disease
+PMN|Polymorphonuclear leukocyte|Infectious Disease
+ANC|Absolute neutrophil count|Infectious Disease
+BCx+|Blood culture positive|Infectious Disease
+BCx-|Blood culture negative|Infectious Disease
+BCNE|Blood culture-negative endocarditis|Infectious Disease
+CNE|Culture-negative endocarditis|Infectious Disease
+PBC|Persistent bacteremia|Infectious Disease
+RBSI|Recurrent bloodstream infection|Infectious Disease
+BSI-SA|Staphylococcus aureus bloodstream infection|Infectious Disease
+GN-BSI|Gram-negative bloodstream infection|Infectious Disease
+MBI-LCBI|Mucosal barrier injury laboratory-confirmed bloodstream infection|Infectious Disease
+LCBI|Laboratory-confirmed bloodstream infection|Infectious Disease
+LCBI-MBI|Laboratory-confirmed bloodstream infection with mucosal barrier injury|Infectious Disease
+HO-CDI|Hospital-onset Clostridioides difficile infection|Infectious Disease
+CO-CDI|Community-onset Clostridioides difficile infection|Infectious Disease
+CA-CDI|Community-associated Clostridioides difficile infection|Infectious Disease
+CDI-fulm|Fulminant Clostridioides difficile infection|Infectious Disease
+TcdA|Clostridioides difficile toxin A|Infectious Disease
+TcdB|Clostridioides difficile toxin B|Infectious Disease
+CDT|Clostridioides difficile binary toxin|Infectious Disease
+EIA-toxin|Enzyme immunoassay for Clostridioides difficile toxin|Infectious Disease
+FDX|Fidaxomicin|Infectious Disease
+VAN PO|Oral vancomycin|Infectious Disease
+PO vanc|Oral vancomycin|Infectious Disease
+MBT|Microbiota-based therapy|Infectious Disease
+LBP|Live biotherapeutic product|Infectious Disease
+PPI|Proton pump inhibitor|Infectious Disease
+SOD-GI|Selective oropharyngeal decontamination|Infectious Disease
+VAP-bundle|Ventilator-associated pneumonia prevention bundle|Infectious Disease
+CLABSI-bundle|Central line-associated bloodstream infection prevention bundle|Infectious Disease
+CAUTI-bundle|Catheter-associated urinary tract infection prevention bundle|Infectious Disease
+SSI-bundle|Surgical site infection prevention bundle|Infectious Disease
+IPAC|Infection prevention and control|Infectious Disease
+HAI-surv|Healthcare-associated infection surveillance|Infectious Disease
+SUR|Standardized utilization ratio|Infectious Disease
+HHC|Hand hygiene compliance|Infectious Disease
+ABHS|Alcohol-based hand sanitizer|Infectious Disease
+EBP|Enhanced barrier precautions|Infectious Disease
+CP-E|Contact precautions with enteric measures|Infectious Disease
+N95|Filtering facepiece respirator that filters at least 95 percent of airborne particles|Infectious Disease
+BSL-2|Biosafety level 2|Infectious Disease
+BSL-3|Biosafety level 3|Infectious Disease
+BSL-4|Biosafety level 4|Infectious Disease
+UVGI|Ultraviolet germicidal irradiation|Infectious Disease
+PVP-I|Povidone-iodine|Infectious Disease
+CHG bath|Chlorhexidine gluconate bathing|Infectious Disease
+MUP|Mupirocin|Infectious Disease
+ICU|Intensive care unit|Infectious Disease
+NICU|Neonatal intensive care unit|Infectious Disease
+LTCF|Long-term care facility|Infectious Disease
+SNF|Skilled nursing facility|Infectious Disease
+LTACH|Long-term acute care hospital|Infectious Disease
+HCW|Healthcare worker|Infectious Disease
+HCP|Healthcare personnel|Infectious Disease
+NSI|Needlestick injury|Infectious Disease
+BBP|Bloodborne pathogen|Infectious Disease
+AFB-neg|Acid-fast bacilli smear negative|Infectious Disease
+AFB-pos|Acid-fast bacilli smear positive|Infectious Disease
+SS+|Smear-positive|Infectious Disease
+SS-|Smear-negative|Infectious Disease
+Xpert|Cartridge-based nucleic acid amplification test for tuberculosis|Infectious Disease
+RIF-R|Rifampin-resistant|Infectious Disease
+Hr-TB|Isoniazid-resistant rifampin-susceptible tuberculosis|Infectious Disease
+INH-R|Isoniazid-resistant|Infectious Disease
+Pre-XDR-TB|Pre-extensively drug-resistant tuberculosis|Infectious Disease
+DS-TB|Drug-susceptible tuberculosis|Infectious Disease
+DR-TB|Drug-resistant tuberculosis|Infectious Disease
+TB-IRIS|Tuberculosis-associated immune reconstitution inflammatory syndrome|Infectious Disease
+TPT|Tuberculosis preventive treatment|Infectious Disease
+IPT|Isoniazid preventive therapy|Infectious Disease
+CFP-10|Culture filtrate protein 10 (tuberculosis antigen)|Infectious Disease
+ESAT-6|Early secreted antigenic target 6 kDa (tuberculosis antigen)|Infectious Disease
+QFT|QuantiFERON-TB interferon-gamma release assay (generic: QFT)|Infectious Disease
+QFT-Plus|Fourth-generation interferon-gamma release assay for tuberculosis|Infectious Disease
+T-SPOT|T-cell enzyme-linked immunospot interferon-gamma release assay|Infectious Disease
+ADA|Adenosine deaminase|Infectious Disease
+TB pleuritis|Tuberculous pleurisy|Infectious Disease
+TB spine|Tuberculous spondylitis|Infectious Disease
+GUTB|Genitourinary tuberculosis|Infectious Disease
+TBLN|Tuberculous lymphadenitis|Infectious Disease
+MTB-DNA|Mycobacterium tuberculosis DNA|Infectious Disease
+LAM-urine|Urine lipoarabinomannan|Infectious Disease
+CAP-sev|Severe community-acquired pneumonia|Infectious Disease
+sCAP|Severe community-acquired pneumonia|Infectious Disease
+CAP-MRSA|Community-acquired pneumonia with methicillin-resistant Staphylococcus aureus|Infectious Disease
+PSI|Pneumonia severity index|Infectious Disease
+PORT|Pneumonia outcomes research team score|Infectious Disease
+CURB-65|Confusion, urea, respiratory rate, blood pressure, age 65 pneumonia severity score|Infectious Disease
+IDSA/ATS|Infectious diseases and thoracic society pneumonia criteria (guideline joint)|Infectious Disease
+RSV-LRTI|Respiratory syncytial virus lower respiratory tract infection|Infectious Disease
+CPAP|Continuous positive airway pressure|Infectious Disease
+HFNC|High-flow nasal cannula|Infectious Disease
+NIV|Noninvasive ventilation|Infectious Disease
+IAV|Influenza A virus|Infectious Disease
+IBV|Influenza B virus|Infectious Disease
+pdm09|2009 pandemic influenza A(H1N1) virus|Infectious Disease
+VE|Vaccine effectiveness|Infectious Disease
+CCP|Convalescent plasma|Infectious Disease
+PEP-COVID|Post-exposure prophylaxis for COVID-19|Infectious Disease
+PrEP-COVID|Pre-exposure prophylaxis for COVID-19|Infectious Disease
+MERS-CoV|Middle East respiratory syndrome coronavirus|Infectious Disease
+SARS-CoV|Severe acute respiratory syndrome coronavirus|Infectious Disease
+NSP|Nonstructural protein|Infectious Disease
+RdRp|RNA-dependent RNA polymerase|Infectious Disease
+3CLpro|3-chymotrypsin-like protease (SARS-CoV-2 main protease)|Infectious Disease
+Mpro|Main protease of SARS-CoV-2|Infectious Disease
+ARDS|Acute respiratory distress syndrome|Infectious Disease
+VZV-IgG|Varicella zoster virus immunoglobulin G antibody|Infectious Disease
+DZ|Disseminated zoster|Infectious Disease
+RHS|Ramsay Hunt syndrome|Infectious Disease
+HSV PCR|Herpes simplex virus polymerase chain reaction|Infectious Disease
+HSV-meningitis|Herpes simplex virus meningitis|Infectious Disease
+NHSV|Neonatal herpes simplex virus infection|Infectious Disease
+SEM|Skin, eye, and mouth disease (neonatal herpes)|Infectious Disease
+EBV-VCA|Epstein-Barr virus viral capsid antigen|Infectious Disease
+EBV-PTLD|Epstein-Barr virus-associated post-transplant lymphoproliferative disorder|Infectious Disease
+HLH|Hemophagocytic lymphohistiocytosis|Infectious Disease
+CMV-pp65|Cytomegalovirus pp65 antigenemia assay|Infectious Disease
+CMV-D|Cytomegalovirus disease|Infectious Disease
+CMV-I|Cytomegalovirus infection|Infectious Disease
+CMV-S|Cytomegalovirus syndrome|Infectious Disease
+TI-CMV|Tissue-invasive cytomegalovirus disease|Infectious Disease
+CMV-R|Cytomegalovirus-resistant|Infectious Disease
+CMV-CMI|Cytomegalovirus cell-mediated immunity|Infectious Disease
+PPx|Prophylaxis|Infectious Disease
+ppx|Prophylaxis|Infectious Disease
+1° ppx|Primary prophylaxis|Infectious Disease
+2° ppx|Secondary prophylaxis|Infectious Disease
+PJP ppx|Pneumocystis jirovecii pneumonia prophylaxis|Infectious Disease
+MAC ppx|Mycobacterium avium complex prophylaxis|Infectious Disease
+TOXO ppx|Toxoplasmosis prophylaxis|Infectious Disease
+SBP ppx|Spontaneous bacterial peritonitis prophylaxis|Infectious Disease
+VTE|Venous thromboembolism|Infectious Disease
+OIs|Opportunistic infections|Infectious Disease
+AFI|Acute febrile illness|Infectious Disease
+AUFI|Acute undifferentiated febrile illness|Infectious Disease
+FWSI|Fever without a source of infection|Infectious Disease
+SBI|Serious bacterial infection|Infectious Disease
+IBI|Invasive bacterial infection|Infectious Disease
+PUO|Pyrexia of unknown origin|Infectious Disease
+MSSA-BSI|Methicillin-susceptible Staphylococcus aureus bloodstream infection|Infectious Disease
+MRSA-BSI|Methicillin-resistant Staphylococcus aureus bloodstream infection|Infectious Disease
+SAB-ID|Infectious diseases consultation for Staphylococcus aureus bacteremia|Infectious Disease
+IDC|Infectious diseases consultation|Infectious Disease
+ID consult|Infectious diseases consultation|Infectious Disease
+LV-IE|Left-sided infective endocarditis|Infectious Disease
+RSIE|Right-sided infective endocarditis|Infectious Disease
+LSIE|Left-sided infective endocarditis|Infectious Disease
+CIED-IE|Cardiac implantable electronic device infective endocarditis|Infectious Disease
+CIED-I|Cardiac implantable electronic device infection|Infectious Disease
+PET-CT|Positron emission tomography with computed tomography|Infectious Disease
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Infectious Disease
+POCUS|Point-of-care ultrasound|Infectious Disease
+NJI|Native joint infection|Infectious Disease
+NJSA|Native joint septic arthritis|Infectious Disease
+PJI-DAIR|Prosthetic joint infection treated with debridement and implant retention|Infectious Disease
+ABX-spacer|Antibiotic-impregnated cement spacer|Infectious Disease
+ALAC|Antibiotic-loaded acrylic cement|Infectious Disease
+ABC-beads|Antibiotic-impregnated cement beads|Infectious Disease
+PEDIS|Perfusion, extent, depth, infection, sensation classification for diabetic foot ulcers|Infectious Disease
+WIfI|Wound, ischemia, and foot infection classification|Infectious Disease
+LRINEC|Laboratory risk indicator for necrotizing fasciitis|Infectious Disease
+NSTI-I|Type I necrotizing soft tissue infection (polymicrobial)|Infectious Disease
+NSTI-II|Type II necrotizing soft tissue infection (monomicrobial)|Infectious Disease
+GG|Gas gangrene|Infectious Disease
+FG|Fournier gangrene|Infectious Disease
+SSTI-pur|Purulent skin and soft tissue infection|Infectious Disease
+NP-SSTI|Nonpurulent skin and soft tissue infection|Infectious Disease
+BA|Bacillary angiomatosis|Infectious Disease
+CSD|Cat scratch disease|Infectious Disease
+MCV4|Quadrivalent meningococcal conjugate vaccine|Infectious Disease
+MPSV4|Quadrivalent meningococcal polysaccharide vaccine|Infectious Disease
+MenABCWY|Pentavalent meningococcal vaccine against serogroups A, B, C, W, and Y|Infectious Disease
+OMV|Outer membrane vesicle vaccine|Infectious Disease
+PRP-T|Polyribosylribitol phosphate conjugated to tetanus toxoid (Hib vaccine)|Infectious Disease
+HepA-HepB|Combined hepatitis A and hepatitis B vaccine|Infectious Disease
+IPV|Inactivated poliovirus vaccine|Infectious Disease
+OPV|Oral poliovirus vaccine|Infectious Disease
+VAPP|Vaccine-associated paralytic poliomyelitis|Infectious Disease
+cVDPV|Circulating vaccine-derived poliovirus|Infectious Disease
+WPV|Wild poliovirus|Infectious Disease
+ADEM|Acute disseminated encephalomyelitis|Infectious Disease
+SSPE|Subacute sclerosing panencephalitis|Infectious Disease
+CRS-sync|Congenital rubella syndrome|Infectious Disease
+CVS|Congenital varicella syndrome|Infectious Disease
+CZS|Congenital Zika syndrome|Infectious Disease
+HBV-vacc|Hepatitis B vaccination|Infectious Disease
+HepB-CpG|Hepatitis B vaccine with CpG adjuvant|Infectious Disease
+HepB-3|Three-dose hepatitis B vaccine series|Infectious Disease
+RSVPreF|Respiratory syncytial virus prefusion F vaccine|Infectious Disease
+RSVpreF3|Adjuvanted respiratory syncytial virus prefusion F vaccine|Infectious Disease
+9vHPV|9-valent human papillomavirus vaccine|Infectious Disease
+2vHPV|Bivalent human papillomavirus vaccine|Infectious Disease
+4vHPV|Quadrivalent human papillomavirus vaccine|Infectious Disease
+HPV9|9-valent human papillomavirus vaccine|Infectious Disease
+HPV-DNA|Human papillomavirus DNA test|Infectious Disease
+HPV-RNA|Human papillomavirus RNA test|Infectious Disease
+TIV|Trivalent inactivated influenza vaccine|Infectious Disease
+QIV|Quadrivalent influenza vaccine|Infectious Disease
+aIIV|Adjuvanted inactivated influenza vaccine|Infectious Disease
+ccIIV|Cell culture-based inactivated influenza vaccine|Infectious Disease
+IgG-ppx|Immune globulin prophylaxis|Infectious Disease
+IGIM|Intramuscular immune globulin|Infectious Disease
+SCIG|Subcutaneous immune globulin|Infectious Disease
+HBIG-PEP|Hepatitis B immune globulin for post-exposure prophylaxis|Infectious Disease
+BAT|Botulinum antitoxin|Infectious Disease
+BIG|Botulism immune globulin|Infectious Disease
+BoNT|Botulinum neurotoxin|Infectious Disease
+DAT|Diphtheria antitoxin|Infectious Disease
+AIG|Anthrax immune globulin|Infectious Disease
+LeTx|Anthrax lethal toxin|Infectious Disease
+AAD|Antibiotic-associated diarrhea|Infectious Disease
+AAC|Antibiotic-associated colitis|Infectious Disease
+IBS-PI|Post-infectious irritable bowel syndrome|Infectious Disease
+PI-IBS|Post-infectious irritable bowel syndrome|Infectious Disease
+HP-eradication|Helicobacter pylori eradication therapy|Infectious Disease
+SIBO-HBT|Hydrogen breath test for small intestinal bacterial overgrowth|Infectious Disease
+CAPD|Continuous ambulatory peritoneal dialysis|Infectious Disease
+PDAP|Peritoneal dialysis-associated peritonitis|Infectious Disease
+HAI-IAI|Healthcare-associated intra-abdominal infection|Infectious Disease
+PCD|Percutaneous drainage|Infectious Disease
+IAA|Intra-abdominal abscess|Infectious Disease
+NS-syph|Neurosyphilis|Infectious Disease
+OtoS|Otosyphilis|Infectious Disease
+SS-syph|Secondary syphilis|Infectious Disease
+RPR-titer|Rapid plasma reagin titer|Infectious Disease
+EIA-syph|Treponemal enzyme immunoassay|Infectious Disease
+CIA-syph|Treponemal chemiluminescence immunoassay|Infectious Disease
+TRUST|Toluidine red unheated serum test|Infectious Disease
+TPHA|Treponema pallidum hemagglutination assay|Infectious Disease
+DGI|Disseminated gonococcal infection|Infectious Disease
+GCP|Gonococcal pharyngitis|Infectious Disease
+PPNG|Penicillinase-producing Neisseria gonorrhoeae|Infectious Disease
+CRNG|Ceftriaxone-resistant Neisseria gonorrhoeae|Infectious Disease
+TOC-GC|Test of cure for gonorrhea|Infectious Disease
+CT/NG|Chlamydia trachomatis and Neisseria gonorrhoeae|Infectious Disease
+NAAT-3site|Three-site nucleic acid amplification testing (genital, pharyngeal, rectal)|Infectious Disease
+UTI-R|Recurrent urinary tract infection|Infectious Disease
+rUTI|Recurrent urinary tract infection|Infectious Disease
+AUC-cyst|Acute uncomplicated cystitis|Infectious Disease
+uUTI|Uncomplicated urinary tract infection|Infectious Disease
+LE/nitrite|Leukocyte esterase and nitrite urinalysis markers|Infectious Disease
+cath UA|Catheterized urinalysis specimen|Infectious Disease
+CCMS|Clean-catch midstream urine specimen|Infectious Disease
