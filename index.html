@@ -6,7 +6,7 @@
 <title>Medical Acronym Decoder</title>
 <style>
   body{margin:0;background:#fff;color:#000;font-family:"Arial Narrow",Arial,sans-serif;font-size:17px}
-  main{max-width:980px;margin:0 auto;padding:16px}
+  main{max-width:1200px;margin:0 auto;padding:16px}
   .bar{background:#D9D9D9;font-variant:small-caps;font-weight:bold;padding:4px 8px;margin:0 0 10px}
   .row{display:flex;gap:8px;margin-bottom:8px}
   input,select{font:inherit;font-size:17px;padding:8px;border:1px solid #000;border-radius:0;background:#fff;color:#000}
@@ -17,7 +17,7 @@
   td{padding:5px 8px;vertical-align:top}
   tr:nth-child(even) td{background:#F2F2F2}
   td:first-child{font-weight:bold;white-space:nowrap;width:16%}
-  td.sp{color:#333;font-size:14px;width:22%;white-space:normal}
+  td.sp{color:#333;font-size:14px;width:16%;white-space:normal}
   #dec{margin-top:12px}
   #dec div{padding:6px 8px;border:1px solid #000;margin-bottom:6px}
   .g{font-size:14px;color:#444}
@@ -93,6 +93,7 @@ const t=$("t"),q=$("q"),none=$("none"),dec=$("dec"),spec=$("spec"),count=$("coun
 [...new Set(ENTRIES.flatMap(e=>e[2].split(", ")).concat(["Compound modifier"]))].sort().forEach(s=>{
   const o=document.createElement("option");o.value=s;o.textContent=s;spec.append(o);
 });
+const SPEC_ABBR={"Cardiology":"Cards","Electrophysiology":"EP","Interventional Cardiology":"Interv","Cardiac Imaging":"Imaging","Heart Failure":"HF","Cardiac Surgery":"CT Surg","Vascular Surgery":"Vasc","Pulmonology":"Pulm","Sleep Medicine":"Sleep","Critical Care":"CC","Nephrology":"Neph","Gastroenterology":"GI","Hepatology":"Hep","Endocrinology":"Endo","Hematology":"Heme","Oncology":"Onc","Transplant":"Transplant","Infectious Disease":"ID","Rheumatology":"Rheum","Allergy & Immunology":"Allergy","Neurology":"Neuro","Neurosurgery":"NSG","Psychiatry":"Psych","Addiction Medicine":"Addiction","Emergency Medicine":"EM","Toxicology":"Tox","Anesthesiology":"Anesth","General Surgery":"Gen Surg","Trauma Surgery":"Trauma","Orthopedics":"Ortho","Sports Medicine":"Sports","Physical Medicine & Rehab":"PM&R","Urology":"Uro","Obstetrics":"OB","Gynecology":"Gyn","Pediatrics":"Peds","Neonatology":"Neo","Genetics":"Genetics","Geriatrics":"Geri","Palliative Care":"Palliative","Pain Medicine":"Pain","Dermatology":"Derm","Plastic Surgery":"Plastics","Ophthalmology":"Ophth","Otolaryngology":"ENT","Dentistry":"Dental","Radiology":"Rad","Pathology":"Path","Laboratory Medicine":"Lab","Pharmacology":"Pharm","Nutrition":"Nutr","Public Health":"PH","Health Administration":"Admin","Hospital Medicine":"Hosp Med","Nursing":"Nursing","Compound modifier":"Compound"};
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function render(){
@@ -127,7 +128,7 @@ function render(){
   t.innerHTML="";
   rows.slice(0,400).forEach(([a,m,s])=>{
     const tr=document.createElement("tr");
-    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const parts=v.split(", "); td.textContent=parts.length>2?parts.slice(0,2).join(", ")+` +${parts.length-2} more`:v; td.title=v;} else td.textContent=v; tr.append(td);});
+    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.textContent=ab.length>3?ab.slice(0,3).join(", ")+` +${ab.length-3}`:ab.join(", "); td.title=v;} else td.textContent=v; tr.append(td);});
     t.append(tr);
   });
   count.textContent = rows.length>400 ? `Showing 400 of ${rows.length}. Narrow your search.` : (rows.length? `${rows.length} match${rows.length===1?"":"es"}` : "");
