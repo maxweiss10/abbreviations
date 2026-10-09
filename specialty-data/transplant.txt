@@ -570,3 +570,131 @@ SL|Sublingual|Transplant
 MM|Multiple myeloma|Transplant
 CIT|Cold ischemia time|Transplant
 SR|Steroid-resistant|Transplant
+BPAR|Biopsy-proven acute rejection|Transplant
+pAMR|Pathologic antibody-mediated rejection|Transplant
+IS|Immunosuppression|Transplant
+FK506|Tacrolimus|Transplant
+C0|Trough drug concentration|Transplant
+C2|Two-hour post-dose drug concentration|Transplant
+Cmax|Peak drug concentration|Transplant
+Tmax|Time to peak drug concentration|Transplant
+RTX|Rituximab|Transplant
+CHOP|Cyclophosphamide, doxorubicin, vincristine and prednisone chemotherapy|Transplant
+CMVIG|Cytomegalovirus immune globulin|Transplant
+HBIG|Hepatitis B immune globulin|Transplant
+HBsAg|Hepatitis B surface antigen|Transplant
+anti-HBc|Hepatitis B core antibody|Transplant
+anti-HBs|Hepatitis B surface antibody|Transplant
+DAA|Direct-acting antiviral|Transplant
+SVR|Sustained virologic response|Transplant
+NAAT|Nucleic acid amplification test|Transplant
+VL|Viral load|Transplant
+LLOQ|Lower limit of quantification|Transplant
+JCV|JC polyomavirus|Transplant
+BKPyV|BK polyomavirus|Transplant
+PML|Progressive multifocal leukoencephalopathy|Transplant
+TTV|Torque teno virus|Transplant
+EBER|Epstein-Barr virus-encoded RNA|Transplant
+NTM|Nontuberculous mycobacteria|Transplant
+MAC|Mycobacterium avium complex|Transplant
+CAP|Community-acquired pneumonia|Transplant
+HAP|Hospital-acquired pneumonia|Transplant
+VAP|Ventilator-associated pneumonia|Transplant
+CLABSI|Central line-associated bloodstream infection|Transplant
+CAUTI|Catheter-associated urinary tract infection|Transplant
+CDI|Clostridioides difficile infection|Transplant
+ASB|Asymptomatic bacteriuria|Transplant
+MDR|Multidrug-resistant|Transplant
+CRKP|Carbapenem-resistant Klebsiella pneumoniae|Transplant
+CRAB|Carbapenem-resistant Acinetobacter baumannii|Transplant
+MSSA|Methicillin-susceptible Staphylococcus aureus|Transplant
+D+/R-|Donor seropositive, recipient seronegative|Transplant
+D-/R-|Donor seronegative, recipient seronegative|Transplant
+R+|Recipient seropositive|Transplant
+TNC|Total nucleated cell count|Transplant
+MNC|Mononuclear cell|Transplant
+CFU|Colony-forming unit|Transplant
+TCD|T cell depletion|Transplant
+URD|Unrelated donor|Transplant
+BM|Bone marrow|Transplant
+PB|Peripheral blood|Transplant
+MRD|Measurable residual disease|Transplant
+NED|No evidence of disease|Transplant
+SD|Stable disease|Transplant
+PD|Progressive disease|Transplant
+VGPR|Very good partial response|Transplant
+sCR|Stringent complete response|Transplant
+PFS|Progression-free survival|Transplant
+FISH|Fluorescence in situ hybridization|Transplant
+MGUS|Monoclonal gammopathy of undetermined significance|Transplant
+SPEP|Serum protein electrophoresis|Transplant
+FLC|Free light chain|Transplant
+AL|Amyloid light chain amyloidosis|Transplant
+ATTR|Transthyretin amyloidosis|Transplant
+TRALI|Transfusion-related acute lung injury|Transplant
+TACO|Transfusion-associated circulatory overload|Transplant
+PRCA|Pure red cell aplasia|Transplant
+BTKi|Bruton tyrosine kinase inhibitor|Transplant
+LAD|Left anterior descending artery|Transplant
+RCA|Right coronary artery|Transplant
+LCx|Left circumflex artery|Transplant
+CAD|Coronary artery disease|Transplant
+CABG|Coronary artery bypass grafting|Transplant
+PCI|Percutaneous coronary intervention|Transplant
+MI|Myocardial infarction|Transplant
+AF|Atrial fibrillation|Transplant
+VT|Ventricular tachycardia|Transplant
+VF|Ventricular fibrillation|Transplant
+PVC|Premature ventricular contraction|Transplant
+SVT|Supraventricular tachycardia|Transplant
+MR|Mitral regurgitation|Transplant
+TR|Tricuspid regurgitation|Transplant
+LA|Left atrium|Transplant
+RA|Right atrium|Transplant
+PAP|Pulmonary artery pressure|Transplant
+mPAP|Mean pulmonary artery pressure|Transplant
+PAWP|Pulmonary artery wedge pressure|Transplant
+WU|Wood units|Transplant
+PAPi|Pulmonary artery pulsatility index|Transplant
+RVSP|Right ventricular systolic pressure|Transplant
+TAPSE|Tricuspid annular plane systolic excursion|Transplant
+LVEDP|Left ventricular end-diastolic pressure|Transplant
+LVH|Left ventricular hypertrophy|Transplant
+PFO|Patent foramen ovale|Transplant
+ASD|Atrial septal defect|Transplant
+VSD|Ventricular septal defect|Transplant
+PDA|Patent ductus arteriosus|Transplant
+HLHS|Hypoplastic left heart syndrome|Transplant
+TGA|Transposition of the great arteries|Transplant
+SV|Single ventricle|Transplant
+TCPC|Total cavopulmonary connection|Transplant
+PLE|Protein-losing enteropathy|Transplant
+FALD|Fontan-associated liver disease|Transplant
+MRA|Mineralocorticoid receptor antagonist|Transplant
+ACEi|Angiotensin-converting enzyme inhibitor|Transplant
+ARB|Angiotensin receptor blocker|Transplant
+CCB|Calcium channel blocker|Transplant
+BB|Beta blocker|Transplant
+CPB|Cardiopulmonary bypass|Transplant
+VATS|Video-assisted thoracoscopic surgery|Transplant
+EBL|Estimated blood loss|Transplant
+OR|Operating room|Transplant
+PACU|Post-anesthesia care unit|Transplant
+ETT|Endotracheal tube|Transplant
+CXR|Chest x-ray|Transplant
+ABG|Arterial blood gas|Transplant
+LDH|Lactate dehydrogenase|Transplant
+CRP|C-reactive protein|Transplant
+ESR|Erythrocyte sedimentation rate|Transplant
+LDL|Low-density lipoprotein|Transplant
+HDL|High-density lipoprotein|Transplant
+TG|Triglycerides|Transplant
+HVPG|Hepatic venous pressure gradient|Transplant
+CSPH|Clinically significant portal hypertension|Transplant
+NSBB|Nonselective beta blocker|Transplant
+EVL|Endoscopic variceal ligation|Transplant
+PHG|Portal hypertensive gastropathy|Transplant
+ALBI|Albumin-bilirubin grade|Transplant
+PEth|Phosphatidylethanol|Transplant
+CDT|Carbohydrate-deficient transferrin|Transplant
+AMA|Antimitochondrial antibody|Transplant

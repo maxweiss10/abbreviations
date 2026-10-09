@@ -117,7 +117,6 @@ OON|Out-of-network|Health Administration
 OOP|Out-of-pocket|Health Administration
 OPPS|Outpatient prospective payment system|Health Administration
 P4P|Pay for performance|Health Administration
-PA|Prior authorization|Health Administration
 PA-C|Physician assistant, certified|Health Administration
 PAC|Post-acute care|Health Administration
 PBM|Pharmacy benefit manager|Health Administration
@@ -366,3 +365,160 @@ RA|Remittance advice|Health Administration
 ACH|Automated clearing house|Health Administration
 NSF|Non-sufficient funds|Health Administration
 FPRR|First-pass resolution rate|Health Administration
+DC|Discharge|Health Administration
+D/C|Discharge|Health Administration
+D/C|Discontinue|Health Administration
+LWOT|Left without treatment|Health Administration
+LAMA|Left against medical advice|Health Administration
+OP|Outpatient|Health Administration
+IP|Inpatient|Health Administration
+ED|Emergency department|Health Administration
+ER|Emergency room|Health Administration
+OR|Operating room|Health Administration
+PACU|Post-anesthesia care unit|Health Administration
+ICU|Intensive care unit|Health Administration
+CCU|Cardiac care unit|Health Administration
+NICU|Neonatal intensive care unit|Health Administration
+PICU|Pediatric intensive care unit|Health Administration
+SICU|Surgical intensive care unit|Health Administration
+MICU|Medical intensive care unit|Health Administration
+SDU|Step-down unit|Health Administration
+OBU|Observation unit|Health Administration
+CDU|Clinical decision unit|Health Administration
+IMC|Intermediate care|Health Administration
+PCU|Progressive care unit|Health Administration
+L&D|Labor and delivery|Health Administration
+HOPD|Hospital outpatient department|Health Administration
+IRF-PAI|Inpatient rehabilitation facility patient assessment instrument|Health Administration
+OASIS|Outcome and assessment information set|Health Administration
+PDGM|Patient-driven groupings model|Health Administration
+RUG|Resource utilization group|Health Administration
+CMG|Case-mix group|Health Administration
+IPF|Inpatient psychiatric facility|Health Administration
+IPFQR|Inpatient psychiatric facility quality reporting|Health Administration
+OQR|Outpatient quality reporting|Health Administration
+IQR|Inpatient quality reporting|Health Administration
+VBPP|Value-based purchasing program|Health Administration
+HVBP|Hospital value-based purchasing|Health Administration
+HACRP|Hospital-acquired condition reduction program|Health Administration
+SNFVBP|Skilled nursing facility value-based purchasing|Health Administration
+ACG|Adjusted clinical group|Health Administration
+CRG|Clinical risk group|Health Administration
+CPM|Cost per member|Health Administration
+CPC|Cost per case|Health Administration
+CPD|Cost per discharge|Health Administration
+CPAD|Cost per adjusted discharge|Health Administration
+ADC|Average daily census|Health Administration
+AOR|Average occupancy rate|Health Administration
+BOR|Bed occupancy rate|Health Administration
+TOI|Turnover interval|Health Administration
+BTR|Bed turnover rate|Health Administration
+FY|Fiscal year|Health Administration
+CY|Calendar year|Health Administration
+PY|Performance year|Health Administration
+QTR|Quarter|Health Administration
+YOY|Year over year|Health Administration
+MOM|Month over month|Health Administration
+FTEs|Full-time equivalents|Health Administration
+PPD|Patients per day|Health Administration
+HPPD|Hours per patient day|Health Administration
+NHPPD|Nursing hours per patient day|Health Administration
+RN|Registered nurse|Health Administration
+LPN|Licensed practical nurse|Health Administration
+LVN|Licensed vocational nurse|Health Administration
+CNA|Certified nursing assistant|Health Administration
+MA|Medical assistant|Health Administration
+PT|Physical therapy|Health Administration
+OT|Occupational therapy|Health Administration
+ST|Speech therapy|Health Administration
+RT|Respiratory therapy|Health Administration
+SW|Social worker|Health Administration
+CM|Case manager|Health Administration
+DON|Director of nursing|Health Administration
+CNO|Chief nursing officer|Health Administration
+CEO|Chief executive officer|Health Administration
+CFO|Chief financial officer|Health Administration
+COO|Chief operating officer|Health Administration
+CIO|Chief information officer|Health Administration
+CNIO|Chief nursing informatics officer|Health Administration
+CQO|Chief quality officer|Health Administration
+CPO|Chief privacy officer|Health Administration
+CISO|Chief information security officer|Health Administration
+CHRO|Chief human resources officer|Health Administration
+CSO|Chief strategy officer|Health Administration
+CPXO|Chief patient experience officer|Health Administration
+PMO|Project management office|Health Administration
+EMPI|Enterprise master patient index|Health Administration
+MPI|Master patient index|Health Administration
+PMS|Practice management system|Health Administration
+RIS|Radiology information system|Health Administration
+PACS|Picture archiving and communication system|Health Administration
+CIS|Clinical information system|Health Administration
+HIS|Hospital information system|Health Administration
+ERP|Enterprise resource planning|Health Administration
+PHM|Population health management|Health Administration
+SaaS|Software as a service|Health Administration
+API|Application programming interface|Health Administration
+SSO|Single sign-on|Health Administration
+MFA|Multifactor authentication|Health Administration
+BYOD|Bring your own device|Health Administration
+VPN|Virtual private network|Health Administration
+PII|Personally identifiable information|Health Administration
+ePHI|Electronic protected health information|Health Administration
+AOD|Accounting of disclosures|Health Administration
+SRA|Security risk analysis|Health Administration
+CAP|Corrective action plan|Health Administration
+PIP|Performance improvement plan|Health Administration
+QAPI|Quality assurance and performance improvement|Health Administration
+QMP|Quality management plan|Health Administration
+KRI|Key risk indicator|Health Administration
+OKR|Objectives and key results|Health Administration
+SWOT|Strengths, weaknesses, opportunities, threats|Health Administration
+ROE|Return on equity|Health Administration
+ROA|Return on assets|Health Administration
+NOI|Net operating income|Health Administration
+DCOH|Days cash on hand|Health Administration
+AR|Accounts receivable|Health Administration
+A/R|Accounts receivable|Health Administration
+NCR|Net collection rate|Health Administration
+GCR|Gross collection rate|Health Administration
+DED|Deductible|Health Administration
+COINS|Coinsurance|Health Administration
+COPAY|Copayment|Health Administration
+SBC|Summary of benefits and coverage|Health Administration
+PEC|Pre-existing condition|Health Administration
+MEC|Minimum essential coverage|Health Administration
+OEP|Open enrollment period|Health Administration
+IEP|Initial enrollment period|Health Administration
+GEP|General enrollment period|Health Administration
+SSDI|Social Security disability insurance|Health Administration
+SSI-income|Supplemental security income|Health Administration
+STD|Short-term disability|Health Administration
+LTD|Long-term disability|Health Administration
+EAP|Employee assistance program|Health Administration
+PPE|Personal protective equipment|Health Administration
+JIT|Just in time|Health Administration
+SKU|Stock keeping unit|Health Administration
+PO|Purchase order|Health Administration
+RFQ|Request for quotation|Health Administration
+SOW|Statement of work|Health Administration
+NDA|Nondisclosure agreement|Health Administration
+BPA|Blanket purchase agreement|Health Administration
+CMS-1500|Professional paper claim form|Health Administration
+UB-04|Institutional paper claim form|Health Administration
+EOMB|Explanation of Medicare benefits|Health Administration
+MSN|Medicare summary notice|Health Administration
+HINN|Hospital-issued notice of noncoverage|Health Administration
+MSPQ|Medicare secondary payer questionnaire|Health Administration
+CoC|Certificate of coverage|Health Administration
+LOMN|Letter of medical necessity|Health Administration
+CMN|Certificate of medical necessity|Health Administration
+NONPAR|Nonparticipating provider|Health Administration
+SCA|Single case agreement|Health Administration
+HCW|Health care worker|Health Administration
+EOL|End of life|Health Administration
+GOC|Goals of care|Health Administration
+DNAR|Do not attempt resuscitation|Health Administration
+NOK|Next of kin|Health Administration
+PA|Prior authorization|Health Administration
+PA|Physician assistant|Health Administration

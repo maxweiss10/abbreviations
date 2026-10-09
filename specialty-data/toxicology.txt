@@ -591,3 +591,109 @@ BB|Beta blocker|Toxicology
 OC|Oleoresin capsicum (pepper spray)|Toxicology
 SSRIs|Selective serotonin reuptake inhibitors|Toxicology
 Dig|Digoxin|Toxicology
+AChEI|Acetylcholinesterase inhibitor|Toxicology
+PCC|Poison control center|Toxicology
+PCC|Prothrombin complex concentrate|Toxicology
+EtG|Ethyl glucuronide|Toxicology
+EtS|Ethyl sulfate|Toxicology
+CDT|Carbohydrate-deficient transferrin|Toxicology
+PEth|Phosphatidylethanol|Toxicology
+GGT|Gamma-glutamyl transferase|Toxicology
+MCV|Mean corpuscular volume|Toxicology
+BrAC|Breath alcohol concentration|Toxicology
+BAL|Blood alcohol level|Toxicology
+ATNAA|Antidote treatment nerve agent autoinjector|Toxicology
+SCN|Thiocyanate|Toxicology
+CNCbl|Cyanocobalamin|Toxicology
+NADPH|Nicotinamide adenine dinucleotide phosphate, reduced|Toxicology
+NO|Nitric oxide|Toxicology
+iNO|Inhaled nitric oxide|Toxicology
+NOx|Nitrogen oxides|Toxicology
+O2|Oxygen|Toxicology
+NRB|Non-rebreather mask|Toxicology
+NC|Nasal cannula|Toxicology
+MV|Mechanical ventilation|Toxicology
+PEEP|Positive end-expiratory pressure|Toxicology
+A-a gradient|Alveolar-arterial oxygen gradient|Toxicology
+QT|QT interval|Toxicology
+LAFB|Left anterior fascicular block|Toxicology
+IVCD|Intraventricular conduction delay|Toxicology
+NSR|Normal sinus rhythm|Toxicology
+ST|Sinus tachycardia|Toxicology
+SB|Sinus bradycardia|Toxicology
+AF|Atrial fibrillation|Toxicology
+AFib|Atrial fibrillation|Toxicology
+BRASH|Bradycardia, renal failure, AV nodal blockade, shock, hyperkalemia syndrome|Toxicology
+aVR|Augmented vector right lead|Toxicology
+PCP|Primary care provider|Toxicology
+PDMP|Prescription drug monitoring program|Toxicology
+OTC|Over the counter|Toxicology
+ADHD|Attention-deficit/hyperactivity disorder|Toxicology
+PTSD|Posttraumatic stress disorder|Toxicology
+MDD|Major depressive disorder|Toxicology
+SAL|Salicylate|Toxicology
+HT|Hyperthermia|Toxicology
+AV|Antivenom|Toxicology
+ASV|Anti-snake venom|Toxicology
+BAT|Botulism antitoxin|Toxicology
+BoNT|Botulinum neurotoxin|Toxicology
+MG|Myasthenia gravis|Toxicology
+RDD|Radiological dispersal device|Toxicology
+Cu|Copper|Toxicology
+Zn|Zinc|Toxicology
+Mn|Manganese|Toxicology
+Ni|Nickel|Toxicology
+Se|Selenium|Toxicology
+Al|Aluminum|Toxicology
+Be|Beryllium|Toxicology
+CBD|Chronic beryllium disease|Toxicology
+BeLPT|Beryllium lymphocyte proliferation test|Toxicology
+D-pen|D-penicillamine|Toxicology
+mcg/dL|Micrograms per deciliter|Toxicology
+mcg/L|Micrograms per liter|Toxicology
+mg/L|Milligrams per liter|Toxicology
+mg/kg|Milligrams per kilogram|Toxicology
+mcg/kg/min|Micrograms per kilogram per minute|Toxicology
+mmHg|Millimeters of mercury|Toxicology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Toxicology
+MTX|Methotrexate|Toxicology
+5-FU|5-fluorouracil|Toxicology
+LCV|Leucovorin|Toxicology
+HCQ|Hydroxychloroquine|Toxicology
+CQ|Chloroquine|Toxicology
+DEET|N,N-diethyl-meta-toluamide (insect repellent)|Toxicology
+PPD|Paraphenylenediamine|Toxicology
+TOCP|Tri-ortho-cresyl phosphate|Toxicology
+PG|Propylene glycol|Toxicology
+H2O2|Hydrogen peroxide|Toxicology
+NaOCl|Sodium hypochlorite|Toxicology
+H2SO4|Sulfuric acid|Toxicology
+PH3|Phosphine|Toxicology
+AlP|Aluminum phosphide|Toxicology
+ZnP|Zinc phosphide|Toxicology
+MgSO4|Magnesium sulfate|Toxicology
+KCl|Potassium chloride|Toxicology
+LR|Lactated Ringer solution|Toxicology
+NS|Normal saline|Toxicology
+D5W|5 percent dextrose in water|Toxicology
+SQ|Subcutaneous|Toxicology
+SL|Sublingual|Toxicology
+IN|Intranasal|Toxicology
+IT|Intrathecal|Toxicology
+ODT|Orally disintegrating tablet|Toxicology
+PCA|Patient-controlled analgesia|Toxicology
+LAI|Long-acting injectable|Toxicology
+DR|Delayed release|Toxicology
+CR|Controlled release|Toxicology
+CO|Cardiac output|Toxicology
+CI|Cardiac index|Toxicology
+SVR|Systemic vascular resistance|Toxicology
+CVP|Central venous pressure|Toxicology
+PAC|Pulmonary artery catheter|Toxicology
+TTE|Transthoracic echocardiogram|Toxicology
+LVEF|Left ventricular ejection fraction|Toxicology
+ICD|Implantable cardioverter-defibrillator|Toxicology
+TVP|Transvenous pacing|Toxicology
+TCP|Transcutaneous pacing|Toxicology
+TSH|Thyroid-stimulating hormone|Toxicology
+UPT|Urine pregnancy test|Toxicology

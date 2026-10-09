@@ -453,3 +453,221 @@ RUQ|Right upper quadrant|Vascular Surgery
 LUQ|Left upper quadrant|Vascular Surgery
 RLQ|Right lower quadrant|Vascular Surgery
 LLQ|Left lower quadrant|Vascular Surgery
+LRA|Left renal artery|Vascular Surgery
+RRA|Right renal artery|Vascular Surgery
+LRV|Left renal vein|Vascular Surgery
+RRV|Right renal vein|Vascular Surgery
+CHA|Common hepatic artery|Vascular Surgery
+SPA|Splenic artery|Vascular Surgery
+LGA|Left gastric artery|Vascular Surgery
+GDA|Gastroduodenal artery|Vascular Surgery
+IMV|Inferior mesenteric vein|Vascular Surgery
+SCV|Subclavian vein|Vascular Surgery
+AxV|Axillary vein|Vascular Surgery
+CV|Cephalic vein|Vascular Surgery
+AASV|Anterior accessory saphenous vein|Vascular Surgery
+PASV|Posterior accessory saphenous vein|Vascular Surgery
+TPT|Tibioperoneal trunk|Vascular Surgery
+MOCA|Mechanochemical ablation|Vascular Surgery
+UGS|Ultrasound-guided sclerotherapy|Vascular Surgery
+GCS|Graduated compression stockings|Vascular Surgery
+PTE|Pulmonary thromboembolism|Vascular Surgery
+TDC|Tunneled dialysis catheter|Vascular Surgery
+NTDC|Non-tunneled dialysis catheter|Vascular Surgery
+BCAVF|Brachiocephalic arteriovenous fistula|Vascular Surgery
+BBAVF|Brachiobasilic arteriovenous fistula|Vascular Surgery
+RCAVF|Radiocephalic arteriovenous fistula|Vascular Surgery
+RUDI|Revision using distal inflow|Vascular Surgery
+ESKD|End-stage kidney disease|Vascular Surgery
+DASS|Dialysis access steal syndrome|Vascular Surgery
+TP|Toe pressure|Vascular Surgery
+GLASS|Global limb anatomic staging system|Vascular Surgery
+TBAD|Type B aortic dissection|Vascular Surgery
+TAAD|Type A aortic dissection|Vascular Surgery
+ATAAD|Acute type A aortic dissection|Vascular Surgery
+ATBAD|Acute type B aortic dissection|Vascular Surgery
+cTBAD|Complicated type B aortic dissection|Vascular Surgery
+uTBAD|Uncomplicated type B aortic dissection|Vascular Surgery
+BTAI|Blunt thoracic aortic injury|Vascular Surgery
+BAI|Blunt aortic injury|Vascular Surgery
+BCVI|Blunt cerebrovascular injury|Vascular Surgery
+PSA|Pseudoaneurysm|Vascular Surgery
+EL|Endoleak|Vascular Surgery
+ChEVAR|Chimney endovascular aneurysm repair|Vascular Surgery
+OSR|Open surgical repair|Vascular Surgery
+OAR|Open aneurysm repair|Vascular Surgery
+ICAS|Intracranial atherosclerotic stenosis|Vascular Surgery
+CBF|Cerebral blood flow|Vascular Surgery
+CPP|Cerebral perfusion pressure|Vascular Surgery
+CHS|Cerebral hyperperfusion syndrome|Vascular Surgery
+CN|Cranial nerve|Vascular Surgery
+CTP|CT perfusion|Vascular Surgery
+TOF|Time-of-flight MR angiography|Vascular Surgery
+CE-MRA|Contrast-enhanced magnetic resonance angiography|Vascular Surgery
+CDUS|Color duplex ultrasound|Vascular Surgery
+EDV|End-diastolic velocity|Vascular Surgery
+VR|Velocity ratio|Vascular Surgery
+MVT|Mesenteric venous thrombosis|Vascular Surgery
+SMAE|Superior mesenteric artery embolus|Vascular Surgery
+SMAT|Superior mesenteric artery thrombosis|Vascular Surgery
+CAA|Celiac artery aneurysm|Vascular Surgery
+NTOS|Neurogenic thoracic outlet syndrome|Vascular Surgery
+VTOS|Venous thoracic outlet syndrome|Vascular Surgery
+ATOS|Arterial thoracic outlet syndrome|Vascular Surgery
+FRR|First rib resection|Vascular Surgery
+CRPS|Complex regional pain syndrome|Vascular Surgery
+SSc|Systemic sclerosis|Vascular Surgery
+EGPA|Eosinophilic granulomatosis with polyangiitis|Vascular Surgery
+MPA|Microscopic polyangiitis|Vascular Surgery
+VLU|Venous leg ulcer|Vascular Surgery
+VV|Varicose veins|Vascular Surgery
+SVI|Superficial venous insufficiency|Vascular Surgery
+DVI|Deep venous insufficiency|Vascular Surgery
+PVI|Perforator vein incompetence|Vascular Surgery
+VCSS|Venous clinical severity score|Vascular Surgery
+PESI|Pulmonary embolism severity index|Vascular Surgery
+anti-Xa|Anti-factor Xa level|Vascular Surgery
+FXa|Factor Xa|Vascular Surgery
+TT|Thrombin time|Vascular Surgery
+TACO|Transfusion-associated circulatory overload|Vascular Surgery
+IRI|Ischemia-reperfusion injury|Vascular Surgery
+TTA|Transtibial amputation|Vascular Surgery
+TFA|Transfemoral amputation|Vascular Surgery
+TFA|Transfemoral access|Vascular Surgery
+TRA|Transradial access|Vascular Surgery
+SSG|Split-thickness skin graft|Vascular Surgery
+FTSG|Full-thickness skin graft|Vascular Surgery
+ABX|Antibiotics|Vascular Surgery
+CRBSI|Catheter-related bloodstream infection|Vascular Surgery
+CLABSI|Central line-associated bloodstream infection|Vascular Surgery
+NCCT|Non-contrast CT|Vascular Surgery
+CECT|Contrast-enhanced CT|Vascular Surgery
+PET|Positron emission tomography|Vascular Surgery
+MIP|Maximum intensity projection|Vascular Surgery
+MPR|Multiplanar reconstruction|Vascular Surgery
+VRT|Volume rendering technique|Vascular Surgery
+CPR|Curved planar reformation|Vascular Surgery
+PACS|Picture archiving and communication system|Vascular Surgery
+CI-AKI|Contrast-induced acute kidney injury|Vascular Surgery
+RCRI|Revised cardiac risk index|Vascular Surgery
+METs|Metabolic equivalents|Vascular Surgery
+PFT|Pulmonary function tests|Vascular Surgery
+FEV1|Forced expiratory volume in one second|Vascular Surgery
+FVC|Forced vital capacity|Vascular Surgery
+DLCO|Diffusing capacity of the lung for carbon monoxide|Vascular Surgery
+DSE|Dobutamine stress echocardiography|Vascular Surgery
+MPI|Myocardial perfusion imaging|Vascular Surgery
+ETT|Exercise treadmill test|Vascular Surgery
+ETT|Endotracheal tube|Vascular Surgery
+6MWT|Six-minute walk test|Vascular Surgery
+PWD|Pain-free walking distance|Vascular Surgery
+MWD|Maximum walking distance|Vascular Surgery
+SET|Supervised exercise therapy|Vascular Surgery
+SAPT|Single antiplatelet therapy|Vascular Surgery
+LDL-C|Low-density lipoprotein cholesterol|Vascular Surgery
+HDL-C|High-density lipoprotein cholesterol|Vascular Surgery
+TG|Triglycerides|Vascular Surgery
+TC|Total cholesterol|Vascular Surgery
+Lp(a)|Lipoprotein(a)|Vascular Surgery
+ApoB|Apolipoprotein B|Vascular Surgery
+hs-CRP|High-sensitivity C-reactive protein|Vascular Surgery
+PPI|Proton pump inhibitor|Vascular Surgery
+IM|Intramuscular|Vascular Surgery
+SC|Subcutaneous|Vascular Surgery
+SL|Sublingual|Vascular Surgery
+IVF|Intravenous fluids|Vascular Surgery
+Q4H|Every 4 hours|Vascular Surgery
+Q6H|Every 6 hours|Vascular Surgery
+Q8H|Every 8 hours|Vascular Surgery
+Q12H|Every 12 hours|Vascular Surgery
+QID|Four times daily|Vascular Surgery
+QAM|Every morning|Vascular Surgery
+STAT|Immediately|Vascular Surgery
+HR|Heart rate|Vascular Surgery
+RR|Respiratory rate|Vascular Surgery
+SpO2|Peripheral oxygen saturation|Vascular Surgery
+A&O|Alert and oriented|Vascular Surgery
+CV|Cardiovascular|Vascular Surgery
+GI|Gastrointestinal|Vascular Surgery
+GU|Genitourinary|Vascular Surgery
+MSK|Musculoskeletal|Vascular Surgery
+HEENT|Head, eyes, ears, nose, and throat|Vascular Surgery
+DTRs|Deep tendon reflexes|Vascular Surgery
+SOB|Shortness of breath|Vascular Surgery
+DOE|Dyspnea on exertion|Vascular Surgery
+CP|Chest pain|Vascular Surgery
+N/V|Nausea and vomiting|Vascular Surgery
+c/o|Complains of|Vascular Surgery
+h/o|History of|Vascular Surgery
+FHx|Family history|Vascular Surgery
+SHx|Social history|Vascular Surgery
+NKA|No known allergies|Vascular Surgery
+ETOH|Alcohol|Vascular Surgery
+IVDU|Intravenous drug use|Vascular Surgery
+PPD|Packs per day|Vascular Surgery
+PY|Pack-years|Vascular Surgery
+FBG|Fasting blood glucose|Vascular Surgery
+Na|Sodium|Vascular Surgery
+K|Potassium|Vascular Surgery
+Mg|Magnesium|Vascular Surgery
+Cl|Chloride|Vascular Surgery
+HCO3|Bicarbonate|Vascular Surgery
+ALT|Alanine aminotransferase|Vascular Surgery
+AST|Aspartate aminotransferase|Vascular Surgery
+ALP|Alkaline phosphatase|Vascular Surgery
+TBili|Total bilirubin|Vascular Surgery
+Alb|Albumin|Vascular Surgery
+UA|Urinalysis|Vascular Surgery
+UCx|Urine culture|Vascular Surgery
+BCx|Blood culture|Vascular Surgery
+ANC|Absolute neutrophil count|Vascular Surgery
+MCV|Mean corpuscular volume|Vascular Surgery
+RBC|Red blood cell|Vascular Surgery
+RDW|Red cell distribution width|Vascular Surgery
+PCT|Procalcitonin|Vascular Surgery
+TSH|Thyroid-stimulating hormone|Vascular Surgery
+UOP|Urine output|Vascular Surgery
+I/O|Intake and output|Vascular Surgery
+PACU|Post-anesthesia care unit|Vascular Surgery
+SICU|Surgical intensive care unit|Vascular Surgery
+GA|General anesthesia|Vascular Surgery
+NGT|Nasogastric tube|Vascular Surgery
+OGT|Orogastric tube|Vascular Surgery
+A-line|Arterial line|Vascular Surgery
+CVL|Central venous line|Vascular Surgery
+DOS|Date of surgery|Vascular Surgery
+d/c|Discharge|Vascular Surgery
+f/u|Follow-up|Vascular Surgery
+Dx|Diagnosis|Vascular Surgery
+Tx|Treatment|Vascular Surgery
+Sx|Symptoms|Vascular Surgery
+Hx|History|Vascular Surgery
+Abx|Antibiotics|Vascular Surgery
+Ppx|Prophylaxis|Vascular Surgery
+R/O|Rule out|Vascular Surgery
+w/u|Workup|Vascular Surgery
+DEB|Drug-eluting balloon|Vascular Surgery
+BE|Balloon-expandable|Vascular Surgery
+SE|Self-expanding|Vascular Surgery
+VCD|Vascular closure device|Vascular Surgery
+ePTFE|Expanded polytetrafluoroethylene|Vascular Surgery
+CoA|Coarctation of the aorta|Vascular Surgery
+PDA|Patent ductus arteriosus|Vascular Surgery
+HHT|Hereditary hemorrhagic telangiectasia|Vascular Surgery
+IH|Infantile hemangioma|Vascular Surgery
+CM|Capillary malformation|Vascular Surgery
+VM|Venous malformation|Vascular Surgery
+LM|Lymphatic malformation|Vascular Surgery
+LVA|Lymphaticovenous anastomosis|Vascular Surgery
+GSW|Gunshot wound|Vascular Surgery
+MVC|Motor vehicle collision|Vascular Surgery
+ED|Emergency department|Vascular Surgery
+EMS|Emergency medical services|Vascular Surgery
+TQ|Tourniquet|Vascular Surgery
+DCR|Damage control resuscitation|Vascular Surgery
+DCS|Damage control surgery|Vascular Surgery
+WB|Whole blood|Vascular Surgery
+ROSC|Return of spontaneous circulation|Vascular Surgery
+MESS|Mangled extremity severity score|Vascular Surgery
+eFAST|Extended focused assessment with sonography for trauma|Vascular Surgery
+rtPA|Recombinant tissue plasminogen activator|Vascular Surgery

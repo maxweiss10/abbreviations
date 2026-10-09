@@ -504,3 +504,197 @@ OFA|Opioid-free anesthesia|Pain Medicine
 TIVA|Total intravenous anesthesia|Pain Medicine
 PONV|Postoperative nausea and vomiting|Pain Medicine
 PACU|Post-anesthesia care unit|Pain Medicine
+ABI|Ankle-brachial index|Pain Medicine
+ABG|Arterial blood gas|Pain Medicine
+ADHD|Attention-deficit/hyperactivity disorder|Pain Medicine
+AF|Atrial fibrillation|Pain Medicine
+AF|Annulus fibrosus|Pain Medicine
+ALT|Alanine aminotransferase|Pain Medicine
+AST|Aspartate aminotransferase|Pain Medicine
+ALP|Alkaline phosphatase|Pain Medicine
+AROM|Active range of motion|Pain Medicine
+BP|Blood pressure|Pain Medicine
+BUN|Blood urea nitrogen|Pain Medicine
+CN|Cranial nerve|Pain Medicine
+CVA|Cerebrovascular accident|Pain Medicine
+CXR|Chest X-ray|Pain Medicine
+CC|Chief complaint|Pain Medicine
+DM|Diabetes mellitus|Pain Medicine
+T2DM|Type 2 diabetes mellitus|Pain Medicine
+DTR|Deep tendon reflex|Pain Medicine
+DOE|Dyspnea on exertion|Pain Medicine
+Dx|Diagnosis|Pain Medicine
+Hx|History|Pain Medicine
+Tx|Treatment|Pain Medicine
+Rx|Prescription|Pain Medicine
+HR|Heart rate|Pain Medicine
+RR|Respiratory rate|Pain Medicine
+SpO2|Peripheral oxygen saturation|Pain Medicine
+HLD|Hyperlipidemia|Pain Medicine
+LOC|Loss of consciousness|Pain Medicine
+LLE|Left lower extremity|Pain Medicine
+RLE|Right lower extremity|Pain Medicine
+LUE|Left upper extremity|Pain Medicine
+RUE|Right upper extremity|Pain Medicine
+BLE|Bilateral lower extremities|Pain Medicine
+BUE|Bilateral upper extremities|Pain Medicine
+MMT|Manual muscle testing|Pain Medicine
+MAP|Mean arterial pressure|Pain Medicine
+NKDA|No known drug allergies|Pain Medicine
+NWB|Non-weight bearing|Pain Medicine
+WBAT|Weight bearing as tolerated|Pain Medicine
+PWB|Partial weight bearing|Pain Medicine
+PE|Physical examination|Pain Medicine
+PE|Pulmonary embolism|Pain Medicine
+PMH|Past medical history|Pain Medicine
+PSH|Past surgical history|Pain Medicine
+FH|Family history|Pain Medicine
+SH|Social history|Pain Medicine
+RTC|Return to clinic|Pain Medicine
+SOB|Shortness of breath|Pain Medicine
+NAD|No acute distress|Pain Medicine
+TTP|Tender to palpation|Pain Medicine
+NVI|Neurovascularly intact|Pain Medicine
+LMN|Lower motor neuron|Pain Medicine
+UMN|Upper motor neuron|Pain Medicine
+GCS|Glasgow Coma Scale|Pain Medicine
+RASS|Richmond Agitation-Sedation Scale|Pain Medicine
+AED|Antiepileptic drug|Pain Medicine
+ARB|Angiotensin receptor blocker|Pain Medicine
+ACEI|Angiotensin-converting enzyme inhibitor|Pain Medicine
+OCP|Oral contraceptive pill|Pain Medicine
+HRT|Hormone replacement therapy|Pain Medicine
+PTT|Partial thromboplastin time|Pain Medicine
+aPTT|Activated partial thromboplastin time|Pain Medicine
+PLT|Platelet count|Pain Medicine
+Hgb|Hemoglobin|Pain Medicine
+Hct|Hematocrit|Pain Medicine
+WBC|White blood cell count|Pain Medicine
+HbA1c|Glycated hemoglobin|Pain Medicine
+CK|Creatine kinase|Pain Medicine
+RF|Rheumatoid factor|Pain Medicine
+PSA|Prostate-specific antigen|Pain Medicine
+TFTs|Thyroid function tests|Pain Medicine
+PFTs|Pulmonary function tests|Pain Medicine
+DEXA|Dual-energy X-ray absorptiometry|Pain Medicine
+BMD|Bone mineral density|Pain Medicine
+CTA|Computed tomography angiography|Pain Medicine
+DWI|Diffusion-weighted imaging|Pain Medicine
+STIR|Short tau inversion recovery|Pain Medicine
+FLAIR|Fluid-attenuated inversion recovery|Pain Medicine
+SPECT|Single-photon emission computed tomography|Pain Medicine
+SSEP|Somatosensory evoked potential|Pain Medicine
+MEP|Motor evoked potential|Pain Medicine
+IONM|Intraoperative neurophysiologic monitoring|Pain Medicine
+MUAP|Motor unit action potential|Pain Medicine
+SNAP|Sensory nerve action potential|Pain Medicine
+CMAP|Compound muscle action potential|Pain Medicine
+EDx|Electrodiagnostic studies|Pain Medicine
+DRGS|Dorsal root ganglion stimulation|Pain Medicine
+RFN|Radiofrequency neurotomy|Pain Medicine
+RFTC|Radiofrequency thermocoagulation|Pain Medicine
+LSB|Lumbar sympathetic block|Pain Medicine
+CPB|Celiac plexus block|Pain Medicine
+CPN|Celiac plexus neurolysis|Pain Medicine
+SHP|Superior hypogastric plexus|Pain Medicine
+OTFC|Oral transmucosal fentanyl citrate|Pain Medicine
+TIRF|Transmucosal immediate-release fentanyl|Pain Medicine
+REMS|Risk evaluation and mitigation strategy|Pain Medicine
+ER/LA|Extended-release and long-acting (opioids)|Pain Medicine
+ADF|Abuse-deterrent formulation|Pain Medicine
+OTP|Opioid treatment program|Pain Medicine
+MOUD|Medication for opioid use disorder|Pain Medicine
+OAT|Opioid agonist therapy|Pain Medicine
+SBIRT|Screening, brief intervention, and referral to treatment|Pain Medicine
+AUDIT|Alcohol Use Disorders Identification Test|Pain Medicine
+DAST|Drug Abuse Screening Test|Pain Medicine
+PHQ-2|Patient Health Questionnaire 2-item depression screen|Pain Medicine
+GAD-2|Generalized Anxiety Disorder 2-item scale|Pain Medicine
+PCL-5|Posttraumatic Stress Disorder Checklist for DSM-5|Pain Medicine
+ISI|Insomnia Severity Index|Pain Medicine
+STOP-BANG|Snoring, tired, observed apnea, pressure, BMI, age, neck, gender (sleep apnea screen)|Pain Medicine
+SPADI|Shoulder Pain and Disability Index|Pain Medicine
+NPSI|Neuropathic Pain Symptom Inventory|Pain Medicine
+PGIC|Patient Global Impression of Change|Pain Medicine
+CGI|Clinical Global Impression|Pain Medicine
+SF-12|Short Form 12 health survey|Pain Medicine
+PPT|Pressure pain threshold|Pain Medicine
+TS|Temporal summation|Pain Medicine
+MCID|Minimal clinically important difference|Pain Medicine
+SD|Standard deviation|Pain Medicine
+CI|Confidence interval|Pain Medicine
+OR|Odds ratio|Pain Medicine
+ICD-10|International Classification of Diseases, 10th revision|Pain Medicine
+CPT|Current Procedural Terminology|Pain Medicine
+PA|Prior authorization|Pain Medicine
+PA|Physician assistant|Pain Medicine
+PA|Posteroanterior|Pain Medicine
+NP|Nurse practitioner|Pain Medicine
+NP|Nucleus pulposus|Pain Medicine
+RN|Registered nurse|Pain Medicine
+MA|Medical assistant|Pain Medicine
+DME|Durable medical equipment|Pain Medicine
+WC|Workers' compensation|Pain Medicine
+IME|Independent medical examination|Pain Medicine
+FCE|Functional capacity evaluation|Pain Medicine
+PPD|Permanent partial disability|Pain Medicine
+TTD|Temporary total disability|Pain Medicine
+RTW|Return to work|Pain Medicine
+HEP|Home exercise program|Pain Medicine
+IADL|Instrumental activities of daily living|Pain Medicine
+IADLs|Instrumental activities of daily living|Pain Medicine
+TBI|Traumatic brain injury|Pain Medicine
+Q4H|Every 4 hours|Pain Medicine
+Q6H|Every 6 hours|Pain Medicine
+Q8H|Every 8 hours|Pain Medicine
+Q12H|Every 12 hours|Pain Medicine
+QAM|Every morning|Pain Medicine
+QPM|Every evening|Pain Medicine
+QOD|Every other day|Pain Medicine
+HS|At bedtime|Pain Medicine
+AC|Before meals|Pain Medicine
+PC|After meals|Pain Medicine
+STAT|Immediately|Pain Medicine
+ATC|Around the clock|Pain Medicine
+DAW|Dispense as written|Pain Medicine
+PR|By rectum|Pain Medicine
+OXC|Oxcarbazepine|Pain Medicine
+LTG|Lamotrigine|Pain Medicine
+TPM|Topiramate|Pain Medicine
+VPA|Valproic acid|Pain Medicine
+H2RA|Histamine-2 receptor antagonist|Pain Medicine
+OMT|Osteopathic manipulative treatment|Pain Medicine
+OMM|Osteopathic manipulative medicine|Pain Medicine
+MFR|Myofascial release|Pain Medicine
+STM|Soft tissue mobilization|Pain Medicine
+PNF|Proprioceptive neuromuscular facilitation|Pain Medicine
+HVLA|High-velocity low-amplitude (manipulation)|Pain Medicine
+SMT|Spinal manipulative therapy|Pain Medicine
+NSLBP|Non-specific low back pain|Pain Medicine
+ALBP|Acute low back pain|Pain Medicine
+OPLL|Ossification of the posterior longitudinal ligament|Pain Medicine
+LF|Ligamentum flavum|Pain Medicine
+LFH|Ligamentum flavum hypertrophy|Pain Medicine
+PLL|Posterior longitudinal ligament|Pain Medicine
+ALL|Anterior longitudinal ligament|Pain Medicine
+VB|Vertebral body|Pain Medicine
+SP|Spinous process|Pain Medicine
+TP|Transverse process|Pain Medicine
+NF|Neural foramen|Pain Medicine
+NFS|Neural foraminal stenosis|Pain Medicine
+LRS|Lateral recess stenosis|Pain Medicine
+HIZ|High-intensity zone|Pain Medicine
+LAT|Lateral (view)|Pain Medicine
+CuTS|Cubital tunnel syndrome|Pain Medicine
+RSI|Repetitive strain injury|Pain Medicine
+PTNS|Percutaneous tibial nerve stimulation|Pain Medicine
+SNM|Sacral neuromodulation|Pain Medicine
+PFD|Pelvic floor dysfunction|Pain Medicine
+PFPT|Pelvic floor physical therapy|Pain Medicine
+PBS|Painful bladder syndrome|Pain Medicine
+PUD|Peptic ulcer disease|Pain Medicine
+HIT|Heparin-induced thrombocytopenia|Pain Medicine
+NMS|Neuroleptic malignant syndrome|Pain Medicine
+LQTS|Long QT syndrome|Pain Medicine
+HOB|Head of bed|Pain Medicine
+ICP|Intracranial pressure|Pain Medicine

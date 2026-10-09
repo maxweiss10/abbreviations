@@ -487,3 +487,214 @@ anti-MAG|Anti-myelin-associated glycoprotein neuropathy|Neurology
 anti-CGRP|Anti-calcitonin gene-related peptide|Neurology
 X-ALD|X-linked adrenoleukodystrophy|Neurology
 AMN|Adrenomyeloneuropathy|Neurology
+ABG|Arterial blood gas|Neurology
+ACh|Acetylcholine|Neurology
+AIE|Autoimmune encephalitis|Neurology
+AF|Atrial fibrillation|Neurology
+AFDAS|Atrial fibrillation detected after stroke|Neurology
+AMS|Altered mental status|Neurology
+ANS|Autonomic nervous system|Neurology
+BUE|Bilateral upper extremities|Neurology
+BLE|Bilateral lower extremities|Neurology
+RUE|Right upper extremity|Neurology
+LUE|Left upper extremity|Neurology
+RLE|Right lower extremity|Neurology
+LLE|Left lower extremity|Neurology
+CK|Creatine kinase|Neurology
+CRP|C-reactive protein|Neurology
+ESR|Erythrocyte sedimentation rate|Neurology
+CBC|Complete blood count|Neurology
+CMP|Comprehensive metabolic panel|Neurology
+LFTs|Liver function tests|Neurology
+TFTs|Thyroid function tests|Neurology
+TSH|Thyroid-stimulating hormone|Neurology
+CVD|Cerebrovascular disease|Neurology
+DM|Diabetes mellitus|Neurology
+DM|Dermatomyositis|Neurology
+JDM|Juvenile dermatomyositis|Neurology
+PM|Polymyositis|Neurology
+EDS|Excessive daytime sleepiness|Neurology
+EDX|Electrodiagnostic testing|Neurology
+EOR|Extent of resection|Neurology
+GTR|Gross total resection|Neurology
+STR|Subtotal resection|Neurology
+WBRT|Whole-brain radiation therapy|Neurology
+TMZ|Temozolomide|Neurology
+HGG|High-grade glioma|Neurology
+LGG|Low-grade glioma|Neurology
+PXA|Pleomorphic xanthoastrocytoma|Neurology
+SEGA|Subependymal giant cell astrocytoma|Neurology
+DIPG|Diffuse intrinsic pontine glioma|Neurology
+VS|Vestibular schwannoma|Neurology
+IHC|Immunohistochemistry|Neurology
+H&E|Hematoxylin and eosin stain|Neurology
+LEV|Levetiracetam|Neurology
+VPA|Valproic acid|Neurology
+LTG|Lamotrigine|Neurology
+CBZ|Carbamazepine|Neurology
+OXC|Oxcarbazepine|Neurology
+PHT|Phenytoin|Neurology
+fPHT|Fosphenytoin|Neurology
+PB|Phenobarbital|Neurology
+TPM|Topiramate|Neurology
+LCM|Lacosamide|Neurology
+CLB|Clobazam|Neurology
+ZNS|Zonisamide|Neurology
+GBP|Gabapentin|Neurology
+PGB|Pregabalin|Neurology
+LZP|Lorazepam|Neurology
+MDZ|Midazolam|Neurology
+DZP|Diazepam|Neurology
+CZP|Clonazepam|Neurology
+BRV|Brivaracetam|Neurology
+PER|Perampanel|Neurology
+ESL|Eslicarbazepine acetate|Neurology
+VGB|Vigabatrin|Neurology
+ETX|Ethosuximide|Neurology
+PRM|Primidone|Neurology
+ACZ|Acetazolamide|Neurology
+MMF|Mycophenolate mofetil|Neurology
+AZA|Azathioprine|Neurology
+MTX|Methotrexate|Neurology
+RTX|Rituximab|Neurology
+NTZ|Natalizumab|Neurology
+OCR|Ocrelizumab|Neurology
+GA|Glatiramer acetate|Neurology
+DHE|Dihydroergotamine|Neurology
+TBZ|Tetrabenazine|Neurology
+TXA|Tranexamic acid|Neurology
+HTS|Hypertonic saline|Neurology
+CBD|Cannabidiol|Neurology
+CD/LD|Carbidopa/levodopa|Neurology
+DA|Dopamine agonist|Neurology
+CCB|Calcium channel blocker|Neurology
+LMWH|Low molecular weight heparin|Neurology
+UFH|Unfractionated heparin|Neurology
+VKA|Vitamin K antagonist|Neurology
+PCC|Prothrombin complex concentrate|Neurology
+4F-PCC|Four-factor prothrombin complex concentrate|Neurology
+FFP|Fresh frozen plasma|Neurology
+aPTT|Activated partial thromboplastin time|Neurology
+PTT|Partial thromboplastin time|Neurology
+ACT|Activated clotting time|Neurology
+TEG|Thromboelastography|Neurology
+MAP|Mean arterial pressure|Neurology
+MAS|Modified Ashworth Scale|Neurology
+MMT|Manual muscle testing|Neurology
+MSE|Mental status examination|Neurology
+MUAP|Motor unit action potential|Neurology
+MUP|Motor unit potential|Neurology
+MCV|Motor conduction velocity|Neurology
+SCV|Sensory conduction velocity|Neurology
+DML|Distal motor latency|Neurology
+CV|Conduction velocity|Neurology
+CB|Conduction block|Neurology
+PSW|Positive sharp waves|Neurology
+CRD|Complex repetitive discharges|Neurology
+MUNE|Motor unit number estimation|Neurology
+NGT|Nasogastric tube|Neurology
+NPO|Nothing by mouth|Neurology
+NIV|Noninvasive ventilation|Neurology
+NIPPV|Noninvasive positive pressure ventilation|Neurology
+NIF|Negative inspiratory force|Neurology
+FVC|Forced vital capacity|Neurology
+PCF|Peak cough flow|Neurology
+PLEX|Plasma exchange|Neurology
+TPE|Therapeutic plasma exchange|Neurology
+MG-ADL|Myasthenia Gravis Activities of Daily Living scale|Neurology
+QMG|Quantitative Myasthenia Gravis score|Neurology
+DSP|Distal symmetric polyneuropathy|Neurology
+SFN|Small fiber neuropathy|Neurology
+CIPN|Chemotherapy-induced peripheral neuropathy|Neurology
+PHN|Postherpetic neuralgia|Neurology
+PLP|Phantom limb pain|Neurology
+NRS|Numeric rating scale|Neurology
+VAS|Visual analog scale|Neurology
+NCHCT|Non-contrast head computed tomography|Neurology
+CTH|Computed tomography of the head|Neurology
+TOF|Time of flight|Neurology
+MIP|Maximum intensity projection|Neurology
+Gd|Gadolinium|Neurology
+GBCA|Gadolinium-based contrast agent|Neurology
+DSC|Dynamic susceptibility contrast|Neurology
+DCE|Dynamic contrast-enhanced|Neurology
+CBV|Cerebral blood volume|Neurology
+MTT|Mean transit time|Neurology
+Tmax|Time to maximum of the residue function|Neurology
+FDG|Fluorodeoxyglucose|Neurology
+SUVR|Standardized uptake value ratio|Neurology
+EPI|Echo-planar imaging|Neurology
+TE|Echo time|Neurology
+TR|Repetition time|Neurology
+TI|Inversion time|Neurology
+FA|Fractional anisotropy|Neurology
+BOLD|Blood oxygen level-dependent|Neurology
+HMCAS|Hyperdense middle cerebral artery sign|Neurology
+CCF|Carotid-cavernous fistula|Neurology
+dAVF|Dural arteriovenous fistula|Neurology
+VA|Vertebral artery|Neurology
+VA|Visual acuity|Neurology
+SCA|Superior cerebellar artery|Neurology
+ECA|External carotid artery|Neurology
+ELVO|Emergent large vessel occlusion|Neurology
+MeVO|Medium vessel occlusion|Neurology
+MT|Mechanical thrombectomy|Neurology
+BAO|Basilar artery occlusion|Neurology
+sICH|Symptomatic intracerebral hemorrhage|Neurology
+HT|Hemorrhagic transformation|Neurology
+aSAH|Aneurysmal subarachnoid hemorrhage|Neurology
+tSAH|Traumatic subarachnoid hemorrhage|Neurology
+IPH|Intraparenchymal hemorrhage|Neurology
+ASDH|Acute subdural hematoma|Neurology
+DC|Decompressive craniectomy|Neurology
+DHC|Decompressive hemicraniectomy|Neurology
+ONSD|Optic nerve sheath diameter|Neurology
+PbtO2|Brain tissue oxygen partial pressure|Neurology
+TTM|Targeted temperature management|Neurology
+ROSC|Return of spontaneous circulation|Neurology
+WUS|Wake-up stroke|Neurology
+MSU|Mobile stroke unit|Neurology
+DTN|Door-to-needle time|Neurology
+BE-FAST|Balance, eyes, face, arm, speech, time|Neurology
+FAST|Face, arm, speech, time|Neurology
+PSCI|Post-stroke cognitive impairment|Neurology
+PSD|Post-stroke depression|Neurology
+PSE|Post-stroke epilepsy|Neurology
+SVO|Small vessel occlusion|Neurology
+LAA|Large artery atherosclerosis|Neurology
+ILR|Implantable loop recorder|Neurology
+MCOT|Mobile cardiac outpatient telemetry|Neurology
+BMT|Best medical therapy|Neurology
+CAS|Carotid artery stenting|Neurology
+VTE|Venous thromboembolism|Neurology
+DVT|Deep vein thrombosis|Neurology
+IPC|Intermittent pneumatic compression|Neurology
+RIC|Remote ischemic conditioning|Neurology
+LDL-C|Low-density lipoprotein cholesterol|Neurology
+Lp(a)|Lipoprotein(a)|Neurology
+HHT|Hereditary hemorrhagic telangiectasia|Neurology
+BIRDs|Brief potentially ictal rhythmic discharges|Neurology
+PDs|Periodic discharges|Neurology
+RDA|Rhythmic delta activity|Neurology
+BS|Burst suppression|Neurology
+qEEG|Quantitative electroencephalogram|Neurology
+aEEG|Amplitude-integrated electroencephalogram|Neurology
+SOZ|Seizure onset zone|Neurology
+EZ|Epileptogenic zone|Neurology
+RSE|Refractory status epilepticus|Neurology
+SRSE|Super-refractory status epilepticus|Neurology
+CSE|Convulsive status epilepticus|Neurology
+PWE|People with epilepsy|Neurology
+WWE|Women with epilepsy|Neurology
+TDM|Therapeutic drug monitoring|Neurology
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Neurology
+TEN|Toxic epidermal necrolysis|Neurology
+ATLR|Anterior temporal lobe resection|Neurology
+KD|Ketogenic diet|Neurology
+MAD|Modified Atkins diet|Neurology
+GLUT1-DS|Glucose transporter type 1 deficiency syndrome|Neurology
+NEDA|No evidence of disease activity|Neurology
+PIRA|Progression independent of relapse activity|Neurology
+MSFC|Multiple Sclerosis Functional Composite|Neurology
+T25FW|Timed 25-foot walk|Neurology
+9HPT|Nine-hole peg test|Neurology

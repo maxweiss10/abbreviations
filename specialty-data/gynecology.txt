@@ -92,3 +92,497 @@ LMP|Last menstrual period|Gynecology
 PMS|Premenstrual syndrome|Gynecology
 PMDD|Premenstrual dysphoric disorder|Gynecology
 VLP|Vulvar lichen planus|Gynecology
+G|Gravida (number of pregnancies)|Gynecology
+P|Para (number of births)|Gynecology
+GTPAL|Gravida, term, preterm, abortions, living children|Gynecology
+TPAL|Term, preterm, abortions, living children|Gynecology
+SAB|Spontaneous abortion|Gynecology
+EAB|Elective abortion|Gynecology
+IAB|Induced abortion|Gynecology
+TAB|Therapeutic abortion|Gynecology
+FMP|Final menstrual period|Gynecology
+EDC|Estimated date of confinement|Gynecology
+EDD|Estimated due date|Gynecology
+GA|Gestational age|Gynecology
+EGA|Estimated gestational age|Gynecology
+IUP|Intrauterine pregnancy|Gynecology
+EP|Ectopic pregnancy|Gynecology
+PUL|Pregnancy of unknown location|Gynecology
+POC|Products of conception|Gynecology
+RPOC|Retained products of conception|Gynecology
+hCG|Human chorionic gonadotropin|Gynecology
+bhCG|Beta human chorionic gonadotropin|Gynecology
+UPT|Urine pregnancy test|Gynecology
+SPT|Serum pregnancy test|Gynecology
+MTX|Methotrexate|Gynecology
+PPROM|Preterm premature rupture of membranes|Gynecology
+PROM|Premature rupture of membranes|Gynecology
+HG|Hyperemesis gravidarum|Gynecology
+NVP|Nausea and vomiting of pregnancy|Gynecology
+RPL|Recurrent pregnancy loss|Gynecology
+IUFD|Intrauterine fetal demise|Gynecology
+SGA|Small for gestational age|Gynecology
+TSH|Thyroid-stimulating hormone|Gynecology
+PRL|Prolactin|Gynecology
+DHEAS|Dehydroepiandrosterone sulfate|Gynecology
+17-OHP|17-hydroxyprogesterone|Gynecology
+SHBG|Sex hormone-binding globulin|Gynecology
+T|Testosterone|Gynecology
+FT|Free testosterone|Gynecology
+FAI|Free androgen index|Gynecology
+AFC|Antral follicle count|Gynecology
+OR|Oocyte retrieval|Gynecology
+COS|Controlled ovarian stimulation|Gynecology
+COH|Controlled ovarian hyperstimulation|Gynecology
+IVM|In vitro maturation|Gynecology
+FSH/LH|Follicle-stimulating hormone to luteinizing hormone ratio|Gynecology
+OI|Ovulation induction|Gynecology
+CC|Clomiphene citrate|Gynecology
+LPS|Luteal phase support|Gynecology
+BBT|Basal body temperature|Gynecology
+OPK|Ovulation predictor kit|Gynecology
+HyCoSy|Hysterosalpingo-contrast sonography|Gynecology
+SIS|Saline infusion sonography|Gynecology
+SIHG|Saline infusion sonohysterography|Gynecology
+SHG|Sonohysterography|Gynecology
+TAUS|Transabdominal ultrasound|Gynecology
+MRI|Magnetic resonance imaging|Gynecology
+CT|Computed tomography|Gynecology
+PET-CT|Positron emission tomography with computed tomography|Gynecology
+O-RADS|Ovarian-adnexal reporting and data system|Gynecology
+IOTA|International ovarian tumor analysis|Gynecology
+ET|Endometrial thickness|Gynecology
+EMT|Endometrial thickness|Gynecology
+EC|Endometrial cancer|Gynecology
+EIN|Endometrial intraepithelial neoplasia|Gynecology
+EH|Endometrial hyperplasia|Gynecology
+CAH|Complex atypical hyperplasia|Gynecology
+SEH|Simple endometrial hyperplasia|Gynecology
+AEH|Atypical endometrial hyperplasia|Gynecology
+LVSI|Lymphovascular space invasion|Gynecology
+LN|Lymph node|Gynecology
+SLN|Sentinel lymph node|Gynecology
+SLNB|Sentinel lymph node biopsy|Gynecology
+PLND|Pelvic lymph node dissection|Gynecology
+PALND|Para-aortic lymph node dissection|Gynecology
+RH|Radical hysterectomy|Gynecology
+MIS|Minimally invasive surgery|Gynecology
+RALH|Robotic-assisted laparoscopic hysterectomy|Gynecology
+VH|Vaginal hysterectomy|Gynecology
+AH|Abdominal hysterectomy|Gynecology
+LH|Laparoscopic hysterectomy|Gynecology
+SCH|Supracervical hysterectomy|Gynecology
+TRH|Total radical hysterectomy|Gynecology
+BS|Bilateral salpingectomy|Gynecology
+BTL|Bilateral tubal ligation|Gynecology
+PPTL|Postpartum tubal ligation|Gynecology
+RRSO|Risk-reducing salpingo-oophorectomy|Gynecology
+SO|Salpingo-oophorectomy|Gynecology
+LSO|Left salpingo-oophorectomy|Gynecology
+RSO|Right salpingo-oophorectomy|Gynecology
+BO|Bilateral oophorectomy|Gynecology
+TLH-BSO|Total laparoscopic hysterectomy with bilateral salpingo-oophorectomy|Gynecology
+TAH-BSO|Total abdominal hysterectomy with bilateral salpingo-oophorectomy|Gynecology
+DL|Diagnostic laparoscopy|Gynecology
+DH|Diagnostic hysteroscopy|Gynecology
+OH|Operative hysteroscopy|Gynecology
+TCRF|Transcervical resection of fibroid|Gynecology
+TCRE|Transcervical resection of endometrium|Gynecology
+EA|Endometrial ablation|Gynecology
+UAE|Uterine artery embolization|Gynecology
+UFE|Uterine fibroid embolization|Gynecology
+MRgFUS|Magnetic resonance-guided focused ultrasound|Gynecology
+LM|Leiomyoma|Gynecology
+LMS|Leiomyosarcoma|Gynecology
+UF|Uterine fibroid|Gynecology
+SM|Submucosal myoma|Gynecology
+IM|Intramural myoma|Gynecology
+SS|Subserosal myoma|Gynecology
+PALM-COEIN|Polyp, adenomyosis, leiomyoma, malignancy and hyperplasia; coagulopathy, ovulatory dysfunction, endometrial, iatrogenic, not yet classified|Gynecology
+IMB|Intermenstrual bleeding|Gynecology
+PCB|Postcoital bleeding|Gynecology
+AUB-O|Abnormal uterine bleeding due to ovulatory dysfunction|Gynecology
+AUB-L|Abnormal uterine bleeding due to leiomyoma|Gynecology
+AUB-A|Abnormal uterine bleeding due to adenomyosis|Gynecology
+AUB-P|Abnormal uterine bleeding due to polyp|Gynecology
+AUB-C|Abnormal uterine bleeding due to coagulopathy|Gynecology
+AUB-E|Abnormal uterine bleeding due to endometrial disorder|Gynecology
+AUB-I|Abnormal uterine bleeding iatrogenic|Gynecology
+AUB-M|Abnormal uterine bleeding due to malignancy or hyperplasia|Gynecology
+AUB-N|Abnormal uterine bleeding not yet classified|Gynecology
+PBAC|Pictorial blood assessment chart|Gynecology
+vWD|Von Willebrand disease|Gynecology
+NSAID|Nonsteroidal anti-inflammatory drug|Gynecology
+TXA|Tranexamic acid|Gynecology
+MPA|Medroxyprogesterone acetate|Gynecology
+NETA|Norethindrone acetate|Gynecology
+EE|Ethinyl estradiol|Gynecology
+CEE|Conjugated equine estrogens|Gynecology
+E+P|Estrogen plus progestin|Gynecology
+ET|Estrogen therapy|Gynecology
+EPT|Estrogen-progestin therapy|Gynecology
+SERM|Selective estrogen receptor modulator|Gynecology
+SPRM|Selective progesterone receptor modulator|Gynecology
+TSEC|Tissue-selective estrogen complex|Gynecology
+AI|Aromatase inhibitor|Gynecology
+VE|Vaginal estrogen|Gynecology
+VDHEA|Vaginal dehydroepiandrosterone|Gynecology
+DMPA-SC|Subcutaneous depot medroxyprogesterone acetate|Gynecology
+ENG|Etonogestrel implant|Gynecology
+CIC|Combined injectable contraceptive|Gynecology
+CHC|Combined hormonal contraception|Gynecology
+CHCs|Combined hormonal contraceptives|Gynecology
+POC|Progestin-only contraception|Gynecology
+POCs|Progestin-only contraceptives|Gynecology
+EC|Emergency contraception|Gynecology
+Cu-IUD|Copper intrauterine device|Gynecology
+LNG-EC|Levonorgestrel emergency contraception|Gynecology
+UPA|Ulipristal acetate|Gynecology
+FAM|Fertility awareness method|Gynecology
+LAM|Lactational amenorrhea method|Gynecology
+SDM|Standard days method|Gynecology
+MEC|Medical eligibility criteria for contraceptive use|Gynecology
+SPR|Selected practice recommendations for contraceptive use|Gynecology
+BC|Birth control|Gynecology
+VTE|Venous thromboembolism|Gynecology
+DVT|Deep vein thrombosis|Gynecology
+PE|Pulmonary embolism|Gynecology
+BMI|Body mass index|Gynecology
+BP|Blood pressure|Gynecology
+HTN|Hypertension|Gynecology
+GDM|Gestational diabetes mellitus|Gynecology
+T2DM|Type 2 diabetes mellitus|Gynecology
+AN|Acanthosis nigricans|Gynecology
+HA|Hyperandrogenism|Gynecology
+NCCAH|Nonclassic congenital adrenal hyperplasia|Gynecology
+CAH|Congenital adrenal hyperplasia|Gynecology
+HAIR-AN|Hyperandrogenism, insulin resistance, acanthosis nigricans|Gynecology
+IR|Insulin resistance|Gynecology
+mFG|Modified Ferriman-Gallwey score|Gynecology
+FHA|Functional hypothalamic amenorrhea|Gynecology
+HH|Hypogonadotropic hypogonadism|Gynecology
+PA|Primary amenorrhea|Gynecology
+SA|Secondary amenorrhea|Gynecology
+HPO|Hypothalamic-pituitary-ovarian axis|Gynecology
+HPA|Hypothalamic-pituitary-adrenal axis|Gynecology
+MRKH|Müllerian agenesis (Mayer-Rokitansky-Küster-Hauser syndrome)|Gynecology
+CAIS|Complete androgen insensitivity syndrome|Gynecology
+PAIS|Partial androgen insensitivity syndrome|Gynecology
+TS|Turner syndrome|Gynecology
+DSD|Differences of sex development|Gynecology
+PMP|Postmenopausal|Gynecology
+PM|Postmenopausal|Gynecology
+PEM|Perimenopause|Gynecology
+STRAW|Stages of reproductive aging workshop staging|Gynecology
+HFNS|Hot flashes and night sweats|Gynecology
+HF|Hot flashes|Gynecology
+NS|Night sweats|Gynecology
+VVA|Vulvovaginal atrophy|Gynecology
+AV|Atrophic vaginitis|Gynecology
+DEXA|Dual-energy x-ray absorptiometry|Gynecology
+BMD|Bone mineral density|Gynecology
+OP|Osteoporosis|Gynecology
+FRAX|Fracture risk assessment tool|Gynecology
+CVD|Cardiovascular disease|Gynecology
+HBOC|Hereditary breast and ovarian cancer|Gynecology
+LS|Lynch syndrome|Gynecology
+MMR|Mismatch repair|Gynecology
+MSI|Microsatellite instability|Gynecology
+MSI-H|Microsatellite instability-high|Gynecology
+dMMR|Mismatch repair deficient|Gynecology
+pMMR|Mismatch repair proficient|Gynecology
+HRD|Homologous recombination deficiency|Gynecology
+IHC|Immunohistochemistry|Gynecology
+ER|Estrogen receptor|Gynecology
+PR|Progesterone receptor|Gynecology
+HER2|Human epidermal growth factor receptor 2|Gynecology
+PARPi|Poly ADP-ribose polymerase inhibitor|Gynecology
+NACT|Neoadjuvant chemotherapy|Gynecology
+IDS|Interval debulking surgery|Gynecology
+PDS|Primary debulking surgery|Gynecology
+HIPEC|Hyperthermic intraperitoneal chemotherapy|Gynecology
+IP|Intraperitoneal|Gynecology
+CRS|Cytoreductive surgery|Gynecology
+R0|No residual disease after resection|Gynecology
+PFS|Progression-free survival|Gynecology
+OS|Overall survival|Gynecology
+DFS|Disease-free survival|Gynecology
+NED|No evidence of disease|Gynecology
+CR|Complete response|Gynecology
+PR|Partial response|Gynecology
+SD|Stable disease|Gynecology
+PD|Progressive disease|Gynecology
+PPV|Positive predictive value|Gynecology
+SCC|Squamous cell carcinoma|Gynecology
+CSCC|Cervical squamous cell carcinoma|Gynecology
+ACA|Adenocarcinoma|Gynecology
+HGSC|High-grade serous carcinoma|Gynecology
+LGSC|Low-grade serous carcinoma|Gynecology
+HGSOC|High-grade serous ovarian carcinoma|Gynecology
+LGSOC|Low-grade serous ovarian carcinoma|Gynecology
+CCC|Clear cell carcinoma|Gynecology
+EC|Endometrioid carcinoma|Gynecology
+MC|Mucinous carcinoma|Gynecology
+SBT|Serous borderline tumor|Gynecology
+BOT|Borderline ovarian tumor|Gynecology
+LMP|Low malignant potential|Gynecology
+STIC|Serous tubal intraepithelial carcinoma|Gynecology
+GCT|Granulosa cell tumor|Gynecology
+SCST|Sex cord-stromal tumor|Gynecology
+MOGCT|Malignant ovarian germ cell tumor|Gynecology
+LCH|Langerhans cell histiocytosis|Gynecology
+USC|Uterine serous carcinoma|Gynecology
+UPSC|Uterine papillary serous carcinoma|Gynecology
+UCS|Uterine carcinosarcoma|Gynecology
+ESS|Endometrial stromal sarcoma|Gynecology
+STUMP|Smooth muscle tumor of uncertain malignant potential|Gynecology
+PSTT|Placental site trophoblastic tumor|Gynecology
+ETT|Epithelioid trophoblastic tumor|Gynecology
+CHM|Complete hydatidiform mole|Gynecology
+PHM|Partial hydatidiform mole|Gynecology
+HM|Hydatidiform mole|Gynecology
+EMA-CO|Etoposide, methotrexate, actinomycin D, cyclophosphamide, vincristine|Gynecology
+AGC|Atypical glandular cells|Gynecology
+ASC-US|Atypical squamous cells of undetermined significance|Gynecology
+ASC-H|Atypical squamous cells, cannot exclude high-grade squamous intraepithelial lesion|Gynecology
+SIL|Squamous intraepithelial lesion|Gynecology
+NILM|Negative for intraepithelial lesion or malignancy|Gynecology
+TZ|Transformation zone|Gynecology
+SCJ|Squamocolumnar junction|Gynecology
+CKC|Cold knife conization|Gynecology
+LLETZ|Large loop excision of the transformation zone|Gynecology
+CGIN|Cervical glandular intraepithelial neoplasia|Gynecology
+HR-HPV|High-risk human papillomavirus|Gynecology
+LR-HPV|Low-risk human papillomavirus|Gynecology
+hrHPV|High-risk human papillomavirus|Gynecology
+LBC|Liquid-based cytology|Gynecology
+SCC-Ag|Squamous cell carcinoma antigen|Gynecology
+CHEMORT|Concurrent chemoradiation therapy|Gynecology
+CCRT|Concurrent chemoradiotherapy|Gynecology
+CRT|Chemoradiotherapy|Gynecology
+EBRT|External beam radiation therapy|Gynecology
+BT|Brachytherapy|Gynecology
+VCB|Vaginal cuff brachytherapy|Gynecology
+IMRT|Intensity-modulated radiation therapy|Gynecology
+RT|Radiation therapy|Gynecology
+XRT|External radiation therapy|Gynecology
+IFRT|Involved-field radiation therapy|Gynecology
+VC|Vaginal cuff|Gynecology
+VCD|Vaginal cuff dehiscence|Gynecology
+SSI|Surgical site infection|Gynecology
+SBO|Small bowel obstruction|Gynecology
+PONV|Postoperative nausea and vomiting|Gynecology
+ERAS|Enhanced recovery after surgery|Gynecology
+POD|Postoperative day|Gynecology
+PACU|Postanesthesia care unit|Gynecology
+EBL|Estimated blood loss|Gynecology
+IVF|Intravenous fluids|Gynecology
+FEN|Fluids, electrolytes, nutrition|Gynecology
+NPO|Nothing by mouth|Gynecology
+SCDs|Sequential compression devices|Gynecology
+TVUS|Transvaginal ultrasonography|Gynecology
+RUQ|Right upper quadrant|Gynecology
+LLQ|Left lower quadrant|Gynecology
+RLQ|Right lower quadrant|Gynecology
+LUQ|Left upper quadrant|Gynecology
+CMT|Cervical motion tenderness|Gynecology
+AT|Adnexal tenderness|Gynecology
+UT|Uterine tenderness|Gynecology
+FHT|Fetal heart tones|Gynecology
+SSE|Sterile speculum examination|Gynecology
+BME|Bimanual examination|Gynecology
+RVE|Rectovaginal examination|Gynecology
+PE|Pelvic examination|Gynecology
+NAAT|Nucleic acid amplification test|Gynecology
+GC|Gonorrhea|Gynecology
+CT|Chlamydia trachomatis|Gynecology
+NG|Neisseria gonorrhoeae|Gynecology
+GC/CT|Gonorrhea and chlamydia|Gynecology
+HSV|Herpes simplex virus|Gynecology
+HSV-2|Herpes simplex virus type 2|Gynecology
+HIV|Human immunodeficiency virus|Gynecology
+RPR|Rapid plasma reagin|Gynecology
+VDRL|Venereal disease research laboratory test|Gynecology
+HBV|Hepatitis B virus|Gynecology
+HCV|Hepatitis C virus|Gynecology
+EPT|Expedited partner therapy|Gynecology
+TOC|Test of cure|Gynecology
+WP|Wet prep|Gynecology
+KOH|Potassium hydroxide preparation|Gynecology
+WBC|White blood cells|Gynecology
+CVC|Clue cells|Gynecology
+RVVC|Recurrent vulvovaginal candidiasis|Gynecology
+AV|Aerobic vaginitis|Gynecology
+DIV|Desquamative inflammatory vaginitis|Gynecology
+LS|Lichen sclerosus|Gynecology
+LP|Lichen planus|Gynecology
+LSC|Lichen simplex chronicus|Gynecology
+VLS|Vulvar lichen sclerosus|Gynecology
+VVS|Vulvar vestibulitis syndrome|Gynecology
+LPV|Localized provoked vulvodynia|Gynecology
+GPV|Generalized provoked vulvodynia|Gynecology
+PVD|Provoked vestibulodynia|Gynecology
+GUS|Genitourinary syndrome|Gynecology
+I&D|Incision and drainage|Gynecology
+HS|Hidradenitis suppurativa|Gynecology
+CPP|Chronic pelvic pain|Gynecology
+PP|Pelvic pain|Gynecology
+DYS|Dysmenorrhea|Gynecology
+PD|Primary dysmenorrhea|Gynecology
+SD|Secondary dysmenorrhea|Gynecology
+DYSP|Dyspareunia|Gynecology
+IC|Interstitial cystitis|Gynecology
+BPS|Bladder pain syndrome|Gynecology
+IC/BPS|Interstitial cystitis and bladder pain syndrome|Gynecology
+IBS|Irritable bowel syndrome|Gynecology
+PCS|Pelvic congestion syndrome|Gynecology
+PFD|Pelvic floor dysfunction|Gynecology
+PFPT|Pelvic floor physical therapy|Gynecology
+HTPFD|Hypertonic pelvic floor dysfunction|Gynecology
+ENDO|Endometriosis|Gynecology
+DIE|Deep infiltrating endometriosis|Gynecology
+OMA|Endometrioma|Gynecology
+rASRM|Revised American Society for Reproductive Medicine endometriosis classification|Gynecology
+ADENO|Adenomyosis|Gynecology
+AD|Adenomyosis|Gynecology
+PAS|Placenta accreta spectrum|Gynecology
+CSP|Cesarean scar pregnancy|Gynecology
+CS|Cesarean section|Gynecology
+C/S|Cesarean section|Gynecology
+LTCS|Low transverse cesarean section|Gynecology
+CD|Cesarean delivery|Gynecology
+SVD|Spontaneous vaginal delivery|Gynecology
+NSVD|Normal spontaneous vaginal delivery|Gynecology
+PPH|Postpartum hemorrhage|Gynecology
+PPD|Postpartum depression|Gynecology
+PNC|Prenatal care|Gynecology
+OB|Obstetrics|Gynecology
+OBGYN|Obstetrics and gynecology|Gynecology
+GYN|Gynecology|Gynecology
+GYN-ONC|Gynecologic oncology|Gynecology
+REI|Reproductive endocrinology and infertility|Gynecology
+FPMRS|Female pelvic medicine and reconstructive surgery|Gynecology
+MFM|Maternal-fetal medicine|Gynecology
+UG|Urogynecology|Gynecology
+IOL|Induction of labor|Gynecology
+OAB|Overactive bladder|Gynecology
+MUI|Mixed urinary incontinence|Gynecology
+OUI|Overflow urinary incontinence|Gynecology
+FI|Fecal incontinence|Gynecology
+AI|Anal incontinence|Gynecology
+ISD|Intrinsic sphincter deficiency|Gynecology
+PVR|Post-void residual|Gynecology
+UDS|Urodynamic studies|Gynecology
+CMG|Cystometrogram|Gynecology
+VLPP|Valsalva leak point pressure|Gynecology
+MUCP|Maximal urethral closure pressure|Gynecology
+UA|Urinalysis|Gynecology
+UCx|Urine culture|Gynecology
+UTI|Urinary tract infection|Gynecology
+rUTI|Recurrent urinary tract infection|Gynecology
+CAUTI|Catheter-associated urinary tract infection|Gynecology
+ISC|Intermittent self-catheterization|Gynecology
+TOV|Trial of void|Gynecology
+MUS|Midurethral sling|Gynecology
+RRP|Retropubic sling|Gynecology
+SIS|Single-incision sling|Gynecology
+TVM|Transvaginal mesh|Gynecology
+SCP|Sacrocolpopexy|Gynecology
+ASC|Abdominal sacrocolpopexy|Gynecology
+LSC|Laparoscopic sacrocolpopexy|Gynecology
+RSC|Robotic sacrocolpopexy|Gynecology
+SSLF|Sacrospinous ligament fixation|Gynecology
+USLS|Uterosacral ligament suspension|Gynecology
+ASLF|Anterior sacrospinous ligament fixation|Gynecology
+A&P|Anterior and posterior colporrhaphy|Gynecology
+AC|Anterior colporrhaphy|Gynecology
+PC|Posterior colporrhaphy|Gynecology
+APR|Anterior-posterior repair|Gynecology
+CO|Colpocleisis|Gynecology
+POPQ|Pelvic organ prolapse quantification|Gynecology
+Aa|POP-Q point A on anterior vaginal wall|Gynecology
+Ba|POP-Q point B on anterior vaginal wall|Gynecology
+Ap|POP-Q point A on posterior vaginal wall|Gynecology
+Bp|POP-Q point B on posterior vaginal wall|Gynecology
+GH|Genital hiatus|Gynecology
+PB|Perineal body|Gynecology
+TVL|Total vaginal length|Gynecology
+VFR|Vesicovaginal fistula repair|Gynecology
+VVF|Vesicovaginal fistula|Gynecology
+RVF|Rectovaginal fistula|Gynecology
+UVF|Ureterovaginal fistula|Gynecology
+OASIS|Obstetric anal sphincter injury|Gynecology
+EAS|External anal sphincter|Gynecology
+IAS|Internal anal sphincter|Gynecology
+CST|Cough stress test|Gynecology
+PESS|Pessary|Gynecology
+FGM|Female genital mutilation|Gynecology
+FGC|Female genital cutting|Gynecology
+IPV|Intimate partner violence|Gynecology
+SANE|Sexual assault nurse examiner|Gynecology
+SAFE|Sexual assault forensic examination|Gynecology
+PEP|Postexposure prophylaxis|Gynecology
+nPEP|Nonoccupational postexposure prophylaxis|Gynecology
+FSD|Female sexual dysfunction|Gynecology
+HSDD|Hypoactive sexual desire disorder|Gynecology
+FSAD|Female sexual arousal disorder|Gynecology
+GPPPD|Genito-pelvic pain/penetration disorder|Gynecology
+FSFI|Female sexual function index|Gynecology
+GAHT|Gender-affirming hormone therapy|Gynecology
+TGD|Transgender and gender diverse|Gynecology
+GAS|Gender-affirming surgery|Gynecology
+FFS|Facial feminization surgery|Gynecology
+MSM|Men who have sex with men|Gynecology
+WSW|Women who have sex with women|Gynecology
+LGBTQ|Lesbian, gay, bisexual, transgender, queer|Gynecology
+HMB-PBAC|Heavy menstrual bleeding with pictorial blood assessment chart|Gynecology
+IVF-ICSI|In vitro fertilization with intracytoplasmic sperm injection|Gynecology
+MESA|Microsurgical epididymal sperm aspiration|Gynecology
+TESE|Testicular sperm extraction|Gynecology
+DI|Donor insemination|Gynecology
+AID|Artificial insemination by donor|Gynecology
+AIH|Artificial insemination by husband|Gynecology
+GIFT|Gamete intrafallopian transfer|Gynecology
+ZIFT|Zygote intrafallopian transfer|Gynecology
+PGT-A|Preimplantation genetic testing for aneuploidy|Gynecology
+PGT-M|Preimplantation genetic testing for monogenic disorders|Gynecology
+PGT-SR|Preimplantation genetic testing for structural rearrangements|Gynecology
+SET|Single embryo transfer|Gynecology
+DET|Double embryo transfer|Gynecology
+eSET|Elective single embryo transfer|Gynecology
+FER|Frozen embryo replacement|Gynecology
+IVF-FET|In vitro fertilization with frozen embryo transfer|Gynecology
+OD|Oocyte donation|Gynecology
+OC|Oocyte cryopreservation|Gynecology
+EC|Egg cryopreservation|Gynecology
+FP|Fertility preservation|Gynecology
+DOR|Diminished ovarian reserve|Gynecology
+POR|Poor ovarian response|Gynecology
+ORT|Ovarian reserve testing|Gynecology
+CCCT|Clomiphene citrate challenge test|Gynecology
+TFI|Tubal factor infertility|Gynecology
+MFI|Male factor infertility|Gynecology
+PI|Primary infertility|Gynecology
+SI|Secondary infertility|Gynecology
+SA|Semen analysis|Gynecology
+TMSC|Total motile sperm count|Gynecology
+TTC|Trying to conceive|Gynecology
+MMR|Measles, mumps, rubella|Gynecology
+Tdap|Tetanus, diphtheria, acellular pertussis vaccine|Gynecology
+HPV9|Nine-valent human papillomavirus vaccine|Gynecology
+PCV|Pneumococcal conjugate vaccine|Gynecology
+CBC|Complete blood count|Gynecology
+BMP|Basic metabolic panel|Gynecology
+CMP|Comprehensive metabolic panel|Gynecology
+LFTs|Liver function tests|Gynecology
+T&S|Type and screen|Gynecology
+T&C|Type and crossmatch|Gynecology
+PT/INR|Prothrombin time and international normalized ratio|Gynecology
+aPTT|Activated partial thromboplastin time|Gynecology
+Hgb|Hemoglobin|Gynecology
+Hct|Hematocrit|Gynecology
+MCV|Mean corpuscular volume|Gynecology
+IDA|Iron deficiency anemia|Gynecology
+IV iron|Intravenous iron|Gynecology
+PRBC|Packed red blood cells|Gynecology
+FFP|Fresh frozen plasma|Gynecology

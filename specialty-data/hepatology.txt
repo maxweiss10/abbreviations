@@ -592,3 +592,108 @@ HIV|Human immunodeficiency virus|Hepatology
 TNM|Tumor, node, metastasis staging|Hepatology
 CRP|C-reactive protein|Hepatology
 NSAID|Nonsteroidal anti-inflammatory drug|Hepatology
+MAFLD|Metabolic dysfunction-associated fatty liver disease|Hepatology
+AAR|AST to ALT ratio|Hepatology
+PLT|Platelet count|Hepatology
+TIBC|Total iron-binding capacity|Hepatology
+TSAT|Transferrin saturation|Hepatology
+Cp|Ceruloplasmin|Hepatology
+24h UCu|24-hour urinary copper excretion|Hepatology
+LC1|Liver cytosol antigen type 1 antibody|Hepatology
+CR|Complete response|Hepatology
+PR|Partial response|Hepatology
+SD|Stable disease|Hepatology
+PD|Progressive disease|Hepatology
+MVI|Microvascular invasion|Hepatology
+EHS|Extrahepatic spread|Hepatology
+LRT|Locoregional therapy|Hepatology
+BSC|Best supportive care|Hepatology
+PS|Performance status|Hepatology
+AE|Adverse event|Hepatology
+irAE|Immune-related adverse event|Hepatology
+Atezo|Atezolizumab|Hepatology
+Bev|Bevacizumab|Hepatology
+LEN|Lenvatinib|Hepatology
+NIVO|Nivolumab|Hepatology
+IPI|Ipilimumab|Hepatology
+Durva|Durvalumab|Hepatology
+Treme|Tremelimumab|Hepatology
+LLOQ|Lower limit of quantification|Hepatology
+TND|Target not detected|Hepatology
+LOD|Limit of detection|Hepatology
+qHBsAg|Quantitative hepatitis B surface antigen|Hepatology
+OBI|Occult hepatitis B infection|Hepatology
+GALAD|Gender, age, AFP-L3, AFP, and DCP score|Hepatology
+GT1|Hepatitis C genotype 1|Hepatology
+GT3|Hepatitis C genotype 3|Hepatology
+TN|Treatment-naive|Hepatology
+DC|Decompensated cirrhosis|Hepatology
+CC|Compensated cirrhosis|Hepatology
+PWID|People who inject drugs|Hepatology
+ART|Antiretroviral therapy|Hepatology
+RA|Refractory ascites|Hepatology
+DIPS|Direct intrahepatic portosystemic shunt|Hepatology
+PPG|Portal pressure gradient|Hepatology
+SSM|Spleen stiffness measurement|Hepatology
+LSPS|Liver stiffness-spleen size-platelet score|Hepatology
+NRP|Normothermic regional perfusion|Hepatology
+NMP|Normothermic machine perfusion|Hepatology
+SCS|Static cold storage|Hepatology
+CIT|Cold ischemia time|Hepatology
+WIT|Warm ischemia time|Hepatology
+IRI|Ischemia-reperfusion injury|Hepatology
+EAD|Early allograft dysfunction|Hepatology
+PNF|Primary nonfunction|Hepatology
+ITBL|Ischemic-type biliary lesions|Hepatology
+AS|Anastomotic stricture|Hepatology
+ECD|Extended criteria donor|Hepatology
+AMR|Antibody-mediated rejection|Hepatology
+ACR|Acute cellular rejection|Hepatology
+TCMR|T cell-mediated rejection|Hepatology
+DSA|Donor-specific antibody|Hepatology
+HLA|Human leukocyte antigen|Hepatology
+IS|Immunosuppression|Hepatology
+CMV|Cytomegalovirus|Hepatology
+EBV|Epstein-Barr virus|Hepatology
+NODAT|New-onset diabetes after transplant|Hepatology
+BTT|Bridge to transplant|Hepatology
+SOFA|Sequential organ failure assessment|Hepatology
+CVVH|Continuous venovenous hemofiltration|Hepatology
+CVVHDF|Continuous venovenous hemodiafiltration|Hepatology
+IAP|Intra-abdominal pressure|Hepatology
+IAH|Intra-abdominal hypertension|Hepatology
+ACS|Abdominal compartment syndrome|Hepatology
+NAPQI|N-acetyl-p-benzoquinone imine|Hepatology
+GSH|Glutathione|Hepatology
+PET|Positron emission tomography|Hepatology
+FDG|Fluorodeoxyglucose|Hepatology
+HBP|Hepatobiliary phase|Hepatology
+PVP|Portal venous phase|Hepatology
+FNA|Fine-needle aspiration|Hepatology
+CNB|Core needle biopsy|Hepatology
+H&E|Hematoxylin and eosin stain|Hepatology
+IHC|Immunohistochemistry|Hepatology
+CK7|Cytokeratin 7|Hepatology
+CK19|Cytokeratin 19|Hepatology
+HSP70|Heat shock protein 70|Hepatology
+CPA|Collagen proportionate area|Hepatology
+SHG|Second harmonic generation microscopy|Hepatology
+RWM|Red wale marks|Hepatology
+EGD|Esophagogastroduodenoscopy|Hepatology
+PRBC|Packed red blood cells|Hepatology
+MTP|Massive transfusion protocol|Hepatology
+VET|Viscoelastic testing|Hepatology
+FV|Factor V|Hepatology
+IHTG|Intrahepatic triglyceride content|Hepatology
+HFF|Hepatic fat fraction|Hepatology
+VLCD|Very-low-calorie diet|Hepatology
+MBS|Metabolic and bariatric surgery|Hepatology
+SG|Sleeve gastrectomy|Hepatology
+OSA|Obstructive sleep apnea|Hepatology
+MALO|Major adverse liver outcomes|Hepatology
+MACE|Major adverse cardiovascular events|Hepatology
+HVOTO|Hepatic venous outflow tract obstruction|Hepatology
+SVT|Splanchnic vein thrombosis|Hepatology
+MPN|Myeloproliferative neoplasm|Hepatology
+PNH|Paroxysmal nocturnal hemoglobinuria|Hepatology
+APS|Antiphospholipid syndrome|Hepatology

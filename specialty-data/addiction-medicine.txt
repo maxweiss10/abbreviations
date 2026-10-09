@@ -583,3 +583,118 @@ WHODAS|World Health Organization disability assessment schedule|Addiction Medici
 QOL|Quality of life|Addiction Medicine
 ADL|Activities of daily living|Addiction Medicine
 IADL|Instrumental activities of daily living|Addiction Medicine
+PAWS|Post-acute withdrawal syndrome|Addiction Medicine
+WM|Withdrawal management|Addiction Medicine
+LOC|Level of care|Addiction Medicine
+LOC|Loss of consciousness|Addiction Medicine
+LAMA|Left against medical advice|Addiction Medicine
+SAWS|Short alcohol withdrawal scale|Addiction Medicine
+SASQ|Single alcohol screening question|Addiction Medicine
+SISQ|Single-item screening question|Addiction Medicine
+S2BI|Screening to brief intervention|Addiction Medicine
+BSTAD|Brief screener for tobacco, alcohol and other drugs|Addiction Medicine
+COD|Co-occurring disorder|Addiction Medicine
+CODs|Co-occurring disorders|Addiction Medicine
+NSSI|Nonsuicidal self-injury|Addiction Medicine
+PD|Personality disorder|Addiction Medicine
+PDD|Persistent depressive disorder|Addiction Medicine
+SAD|Social anxiety disorder|Addiction Medicine
+HR|Harm reduction|Addiction Medicine
+HR|Heart rate|Addiction Medicine
+DCR|Drug consumption room|Addiction Medicine
+SIS|Supervised injection site|Addiction Medicine
+MAR|Medication administration record|Addiction Medicine
+TDM|Therapeutic drug monitoring|Addiction Medicine
+ALT|Alanine aminotransferase|Addiction Medicine
+ALP|Alkaline phosphatase|Addiction Medicine
+TBili|Total bilirubin|Addiction Medicine
+PT|Prothrombin time|Addiction Medicine
+PT|Physical therapy|Addiction Medicine
+OT|Occupational therapy|Addiction Medicine
+PTT|Partial thromboplastin time|Addiction Medicine
+Plt|Platelet count|Addiction Medicine
+Mg|Magnesium|Addiction Medicine
+Phos|Phosphorus|Addiction Medicine
+K|Potassium|Addiction Medicine
+Na|Sodium|Addiction Medicine
+Ca|Calcium|Addiction Medicine
+LDH|Lactate dehydrogenase|Addiction Medicine
+Hgb|Hemoglobin|Addiction Medicine
+Hct|Hematocrit|Addiction Medicine
+WBC|White blood cell count|Addiction Medicine
+ESR|Erythrocyte sedimentation rate|Addiction Medicine
+CRP|C-reactive protein|Addiction Medicine
+BNP|B-type natriuretic peptide|Addiction Medicine
+HbA1c|Hemoglobin A1c|Addiction Medicine
+FIB-4|Fibrosis-4 index|Addiction Medicine
+APRI|AST to platelet ratio index|Addiction Medicine
+VCTE|Vibration-controlled transient elastography|Addiction Medicine
+LSM|Liver stiffness measurement|Addiction Medicine
+US|Ultrasound|Addiction Medicine
+RUQ|Right upper quadrant|Addiction Medicine
+LVEF|Left ventricular ejection fraction|Addiction Medicine
+EF|Ejection fraction|Addiction Medicine
+VL|Viral load|Addiction Medicine
+ARV|Antiretroviral|Addiction Medicine
+DOT|Directly observed therapy|Addiction Medicine
+ID|Infectious disease|Addiction Medicine
+BCx|Blood culture|Addiction Medicine
+UCx|Urine culture|Addiction Medicine
+Cx|Culture|Addiction Medicine
+CSF|Cerebrospinal fluid|Addiction Medicine
+RPR|Rapid plasma reagin|Addiction Medicine
+GC|Gonorrhea|Addiction Medicine
+CT|Chlamydia trachomatis|Addiction Medicine
+NAAT|Nucleic acid amplification test|Addiction Medicine
+EIA|Enzyme immunoassay|Addiction Medicine
+ELISA|Enzyme-linked immunosorbent assay|Addiction Medicine
+HSV|Herpes simplex virus|Addiction Medicine
+HPV|Human papillomavirus|Addiction Medicine
+IV|Intravenous|Addiction Medicine
+IO|Intraosseous|Addiction Medicine
+SC|Subcutaneous|Addiction Medicine
+ODT|Orally disintegrating tablet|Addiction Medicine
+QD|Once daily|Addiction Medicine
+QOD|Every other day|Addiction Medicine
+Q8H|Every 8 hours|Addiction Medicine
+Q12H|Every 12 hours|Addiction Medicine
+Q2H|Every 2 hours|Addiction Medicine
+AC|Before meals|Addiction Medicine
+PC|After meals|Addiction Medicine
+HS|At bedtime|Addiction Medicine
+STAT|Immediately|Addiction Medicine
+TDD|Total daily dose|Addiction Medicine
+DC|Discontinue|Addiction Medicine
+D/C|Discharge|Addiction Medicine
+Dx|Diagnosis|Addiction Medicine
+Hx|History|Addiction Medicine
+Tx|Treatment|Addiction Medicine
+Sx|Symptoms|Addiction Medicine
+HPI|History of present illness|Addiction Medicine
+PMH|Past medical history|Addiction Medicine
+PSH|Past surgical history|Addiction Medicine
+FH|Family history|Addiction Medicine
+SH|Social history|Addiction Medicine
+ROS|Review of systems|Addiction Medicine
+CC|Chief complaint|Addiction Medicine
+MSE|Mental status examination|Addiction Medicine
+A&P|Assessment and plan|Addiction Medicine
+SOB|Shortness of breath|Addiction Medicine
+CP|Chest pain|Addiction Medicine
+N/V|Nausea and vomiting|Addiction Medicine
+HA|Headache|Addiction Medicine
+AMS|Altered mental status|Addiction Medicine
+GTC|Generalized tonic-clonic|Addiction Medicine
+BP|Blood pressure|Addiction Medicine
+SBP|Systolic blood pressure|Addiction Medicine
+DBP|Diastolic blood pressure|Addiction Medicine
+RR|Respiratory rate|Addiction Medicine
+BMI|Body mass index|Addiction Medicine
+AED|Automated external defibrillator|Addiction Medicine
+AED|Antiepileptic drug|Addiction Medicine
+PE|Pulmonary embolism|Addiction Medicine
+DVT|Deep vein thrombosis|Addiction Medicine
+CVA|Cerebrovascular accident|Addiction Medicine
+TIA|Transient ischemic attack|Addiction Medicine
+OSA|Obstructive sleep apnea|Addiction Medicine
+CPAP|Continuous positive airway pressure|Addiction Medicine

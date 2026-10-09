@@ -591,3 +591,91 @@ RCA|Root cause analysis|Nursing
 PDSA|Plan, do, study, act|Nursing
 EBP|Evidence-based practice|Nursing
 CEU|Continuing education unit|Nursing
+QH|Every hour|Nursing
+Q1H|Every 1 hour|Nursing
+Q3H|Every 3 hours|Nursing
+Q24H|Every 24 hours|Nursing
+QWK|Every week|Nursing
+BIW|Twice a week|Nursing
+TIW|Three times a week|Nursing
+ATC|Around the clock|Nursing
+AD LIB|As desired|Nursing
+NMT|Not more than|Nursing
+IO|Intraosseous|Nursing
+ID|Intradermal|Nursing
+IT|Intrathecal|Nursing
+SubQ|Subcutaneous|Nursing
+TD|Transdermal|Nursing
+GJ|Gastrojejunostomy tube|Nursing
+JT|Jejunostomy tube|Nursing
+PEJ|Percutaneous endoscopic jejunostomy|Nursing
+TF|Tube feeding|Nursing
+NG tube|Nasogastric tube|Nursing
+LIS|Low intermittent suction|Nursing
+LCS|Low continuous suction|Nursing
+IVC|Inferior vena cava|Nursing
+IJ|Internal jugular|Nursing
+SCV|Subclavian vein|Nursing
+UVC|Umbilical venous catheter|Nursing
+UAC|Umbilical arterial catheter|Nursing
+PAC|Port-a-cath implanted venous port|Nursing
+A-line|Arterial line|Nursing
+Foley|Indwelling urinary catheter|Nursing
+IUC|Indwelling urinary catheter|Nursing
+SPC|Suprapubic catheter|Nursing
+CBI|Continuous bladder irrigation|Nursing
+IC|Intermittent catheterization|Nursing
+PVR|Post-void residual|Nursing
+UO|Urine output|Nursing
+EtCO2|End-tidal carbon dioxide|Nursing
+SaO2|Arterial oxygen saturation|Nursing
+PaO2|Partial pressure of arterial oxygen|Nursing
+PaCO2|Partial pressure of arterial carbon dioxide|Nursing
+P/F ratio|PaO2 to FiO2 ratio|Nursing
+LPM|Liters per minute|Nursing
+L/min|Liters per minute|Nursing
+VM|Venturi mask|Nursing
+SFM|Simple face mask|Nursing
+PRVC|Pressure-regulated volume control|Nursing
+PC|Pressure control ventilation|Nursing
+VC|Volume control ventilation|Nursing
+ABCs|Airway, breathing, circulation|Nursing
+SpO2 goal|Target oxygen saturation|Nursing
+WOB|Work of breathing|Nursing
+SOBOE|Shortness of breath on exertion|Nursing
+HTN urgency|Hypertensive urgency|Nursing
+NSTEMI|Non-ST-elevation myocardial infarction|Nursing
+STEMI|ST-elevation myocardial infarction|Nursing
+ACS|Acute coronary syndrome|Nursing
+AFL|Atrial flutter|Nursing
+A-fib RVR|Atrial fibrillation with rapid ventricular response|Nursing
+RVR|Rapid ventricular response|Nursing
+VTach|Ventricular tachycardia|Nursing
+VFib|Ventricular fibrillation|Nursing
+AV block|Atrioventricular block|Nursing
+PPM|Permanent pacemaker|Nursing
+ICD|Implantable cardioverter-defibrillator|Nursing
+TCP|Transcutaneous pacing|Nursing
+LVAD|Left ventricular assist device|Nursing
+TOF|Tetralogy of Fallot|Nursing
+ASD|Atrial septal defect|Nursing
+VSD|Ventricular septal defect|Nursing
+HFrEF|Heart failure with reduced ejection fraction|Nursing
+HFpEF|Heart failure with preserved ejection fraction|Nursing
+LOS|Loss of sensation|Nursing
+FOB|Fecal occult blood|Nursing
+HOB elevated|Head of bed elevated|Nursing
+UTD|Up to date|Nursing
+CBR|Complete bed rest|Nursing
+OOB to chair|Out of bed to chair|Nursing
+SBA|Stand-by assist|Nursing
+CGA|Contact guard assist|Nursing
+Min A|Minimal assistance|Nursing
+Mod A|Moderate assistance|Nursing
+Max A|Maximal assistance|Nursing
+TDWB|Toe-down weight bearing|Nursing
+AD|Assistive device|Nursing
+FROM|Full range of motion|Nursing
+LROM|Limited range of motion|Nursing
+EOB|Edge of bed|Nursing
+TLSO|Thoracolumbosacral orthosis|Nursing

@@ -261,3 +261,210 @@ WBC|White blood cell count|Pediatrics
 WCC|Well-child check|Pediatrics
 WNL|Within normal limits|Pediatrics
 XLA|X-linked agammaglobulinemia|Pediatrics
+AAP|Asthma action plan|Pediatrics
+ABO|ABO blood group incompatibility|Pediatrics
+ADA|Adenosine deaminase|Pediatrics
+AFP|Alpha-fetoprotein|Pediatrics
+AGN|Acute glomerulonephritis|Pediatrics
+AIN|Acute interstitial nephritis|Pediatrics
+AKI|Acute kidney injury|Pediatrics
+ALT|Alanine aminotransferase|Pediatrics
+ANC|Absolute neutrophil count|Pediatrics
+AOP|Apnea of prematurity|Pediatrics
+AR|Aortic regurgitation|Pediatrics
+AS|Aortic stenosis|Pediatrics
+ASO|Antistreptolysin O|Pediatrics
+AST|Aspartate aminotransferase|Pediatrics
+BAL|Bronchoalveolar lavage|Pediatrics
+BCx|Blood culture|Pediatrics
+BiPAP|Bilevel positive airway pressure|Pediatrics
+BMP|Basic metabolic panel|Pediatrics
+BP|Blood pressure|Pediatrics
+BPM|Beats per minute|Pediatrics
+BW|Birth weight|Pediatrics
+CA|Chronological age|Pediatrics
+CBG|Capillary blood gas|Pediatrics
+CHB|Complete heart block|Pediatrics
+CKD|Chronic kidney disease|Pediatrics
+CLABSI|Central line-associated bloodstream infection|Pediatrics
+CMP|Comprehensive metabolic panel|Pediatrics
+CMT|Congenital muscular torticollis|Pediatrics
+CO2|Carbon dioxide|Pediatrics
+CoNS|Coagulase-negative staphylococci|Pediatrics
+CP|Chest pain|Pediatrics
+Cr|Creatinine|Pediatrics
+CSW|Cerebral salt wasting|Pediatrics
+CTA|Clear to auscultation|Pediatrics
+CTAB|Clear to auscultation bilaterally|Pediatrics
+CVA|Cerebrovascular accident|Pediatrics
+CVP|Central venous pressure|Pediatrics
+DAPT|Dual antiplatelet therapy|Pediatrics
+DBP|Diastolic blood pressure|Pediatrics
+DCT|Direct Coombs test|Pediatrics
+DHA|Docosahexaenoic acid|Pediatrics
+DOB|Date of birth|Pediatrics
+DSD|Differences of sex development|Pediatrics
+DT|Diphtheria and tetanus vaccine|Pediatrics
+Dx|Diagnosis|Pediatrics
+EBL|Estimated blood loss|Pediatrics
+ECG|Electrocardiogram|Pediatrics
+EKG|Electrocardiogram|Pediatrics
+ECHO|Echocardiogram|Pediatrics
+EGD|Esophagogastroduodenoscopy|Pediatrics
+ELISA|Enzyme-linked immunosorbent assay|Pediatrics
+EMR|Electronic medical record|Pediatrics
+EoE|Eosinophilic esophagitis|Pediatrics
+ET|Endotracheal|Pediatrics
+EtCO2|End-tidal carbon dioxide|Pediatrics
+ETOH|Ethyl alcohol|Pediatrics
+FB|Foreign body|Pediatrics
+FDR|First-degree relative|Pediatrics
+FH|Family history|Pediatrics
+FHx|Family history|Pediatrics
+FLACC|Face, legs, activity, cry, consolability (pain scale)|Pediatrics
+FNA|Fine-needle aspiration|Pediatrics
+FPIES|Food protein-induced enterocolitis syndrome|Pediatrics
+FRC|Functional residual capacity|Pediatrics
+FSH|Follicle-stimulating hormone|Pediatrics
+FTA|Fluorescent treponemal antibody|Pediatrics
+G-tube|Gastrostomy tube|Pediatrics
+GAS|Group A streptococcus|Pediatrics
+GCS|Glasgow Coma Scale|Pediatrics
+GDM|Gestational diabetes mellitus|Pediatrics
+GH|Growth hormone|Pediatrics
+GIB|Gastrointestinal bleed|Pediatrics
+GN|Glomerulonephritis|Pediatrics
+GnRH|Gonadotropin-releasing hormone|Pediatrics
+GTT|Glucose tolerance test|Pediatrics
+HAP|Hospital-acquired pneumonia|Pediatrics
+HAV|Hepatitis A virus|Pediatrics
+HbA1c|Glycated hemoglobin|Pediatrics
+HbF|Fetal hemoglobin|Pediatrics
+HbS|Sickle hemoglobin|Pediatrics
+hCG|Human chorionic gonadotropin|Pediatrics
+HCT|Hematocrit|Pediatrics
+HEENT|Head, eyes, ears, nose and throat|Pediatrics
+Hgb|Hemoglobin|Pediatrics
+HIV|Human immunodeficiency virus|Pediatrics
+HLH|Hemophagocytic lymphohistiocytosis|Pediatrics
+HPI|History of present illness|Pediatrics
+HR|Heart rate|Pediatrics
+HSM|Hepatosplenomegaly|Pediatrics
+HTN|Hypertension|Pediatrics
+IBD|Inflammatory bowel disease|Pediatrics
+ICH|Intracranial hemorrhage|Pediatrics
+ID|Infectious disease|Pediatrics
+IDA|Iron deficiency anemia|Pediatrics
+IFA|Immunofluorescent assay|Pediatrics
+IGF-1|Insulin-like growth factor 1|Pediatrics
+I&O|Intake and output|Pediatrics
+INR|International normalized ratio|Pediatrics
+IVP|Intravenous push|Pediatrics
+IVPB|Intravenous piggyback|Pediatrics
+JVD|Jugular venous distension|Pediatrics
+KUB|Kidneys, ureters, bladder (abdominal radiograph)|Pediatrics
+LAD|Lymphadenopathy|Pediatrics
+LDH|Lactate dehydrogenase|Pediatrics
+LFT|Liver function tests|Pediatrics
+LH|Luteinizing hormone|Pediatrics
+LLQ|Left lower quadrant|Pediatrics
+LOC|Loss of consciousness|Pediatrics
+LRTI|Lower respiratory tract infection|Pediatrics
+LTBI|Latent tuberculosis infection|Pediatrics
+MAR|Medication administration record|Pediatrics
+MCH|Mean corpuscular hemoglobin|Pediatrics
+MCHC|Mean corpuscular hemoglobin concentration|Pediatrics
+MEE|Middle ear effusion|Pediatrics
+MR|Mitral regurgitation|Pediatrics
+MS|Mitral stenosis|Pediatrics
+MVA|Motor vehicle accident|Pediatrics
+MVC|Motor vehicle collision|Pediatrics
+NAD|No acute distress|Pediatrics
+NCPAP|Nasal continuous positive airway pressure|Pediatrics
+NF1|Neurofibromatosis type 1|Pediatrics
+NF2|Neurofibromatosis type 2|Pediatrics
+NKDA|No known drug allergies|Pediatrics
+NO|Nitric oxide|Pediatrics
+NPA|Nasopharyngeal aspirate|Pediatrics
+NS|Nephrotic syndrome|Pediatrics
+NSAID|Nonsteroidal anti-inflammatory drug|Pediatrics
+N/V|Nausea and vomiting|Pediatrics
+NVD|Nausea, vomiting and diarrhea|Pediatrics
+O2|Oxygen|Pediatrics
+OI|Oxygenation index|Pediatrics
+OT|Occupational therapy|Pediatrics
+OTC|Over the counter|Pediatrics
+PAC|Premature atrial contraction|Pediatrics
+PaCO2|Arterial partial pressure of carbon dioxide|Pediatrics
+PaO2|Arterial partial pressure of oxygen|Pediatrics
+PCP|Primary care provider|Pediatrics
+PCR|Polymerase chain reaction|Pediatrics
+PE tubes|Pressure equalization tubes|Pediatrics
+PEFR|Peak expiratory flow rate|Pediatrics
+PERRLA|Pupils equal, round, reactive to light and accommodation|Pediatrics
+PFT|Pulmonary function test|Pediatrics
+PGE1|Prostaglandin E1|Pediatrics
+PIV|Peripheral intravenous line|Pediatrics
+PLT|Platelet count|Pediatrics
+PMH|Past medical history|Pediatrics
+PMHx|Past medical history|Pediatrics
+PMI|Point of maximal impulse|Pediatrics
+PNA|Pneumonia|Pediatrics
+POC|Point of care|Pediatrics
+PRN|As needed|Pediatrics
+PSH|Past surgical history|Pediatrics
+PT|Physical therapy|Pediatrics
+PT|Prothrombin time|Pediatrics
+PTT|Partial thromboplastin time|Pediatrics
+PVC|Premature ventricular contraction|Pediatrics
+QID|Four times daily|Pediatrics
+RBC|Red blood cell|Pediatrics
+RDW|Red cell distribution width|Pediatrics
+RLQ|Right lower quadrant|Pediatrics
+ROM|Range of motion|Pediatrics
+ROS|Review of systems|Pediatrics
+RRR|Regular rate and rhythm|Pediatrics
+RUQ|Right upper quadrant|Pediatrics
+RVOT|Right ventricular outflow tract|Pediatrics
+Rx|Prescription|Pediatrics
+SBP|Systolic blood pressure|Pediatrics
+SC|Subcutaneous|Pediatrics
+SCFE|Slipped capital femoral epiphysis|Pediatrics
+SH|Social history|Pediatrics
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Pediatrics
+SIMV|Synchronized intermittent mandatory ventilation|Pediatrics
+SLE|Systemic lupus erythematosus|Pediatrics
+SMA|Spinal muscular atrophy|Pediatrics
+SNF|Skilled nursing facility|Pediatrics
+SOB|Shortness of breath|Pediatrics
+ST|Speech therapy|Pediatrics
+STI|Sexually transmitted infection|Pediatrics
+SVR|Systemic vascular resistance|Pediatrics
+T&C|Type and crossmatch|Pediatrics
+T&S|Type and screen|Pediatrics
+TB|Tuberculosis|Pediatrics
+TBI|Traumatic brain injury|Pediatrics
+TBili|Total bilirubin|Pediatrics
+TEE|Transesophageal echocardiogram|Pediatrics
+TFT|Thyroid function tests|Pediatrics
+TID|Three times daily|Pediatrics
+TIBC|Total iron-binding capacity|Pediatrics
+TM|Tympanic membrane|Pediatrics
+TPR|Temperature, pulse, respirations|Pediatrics
+TR|Tricuspid regurgitation|Pediatrics
+TSH|Thyroid-stimulating hormone|Pediatrics
+TTE|Transthoracic echocardiogram|Pediatrics
+TV|Tidal volume|Pediatrics
+UA|Urinalysis|Pediatrics
+UCx|Urine culture|Pediatrics
+UGI|Upper gastrointestinal series|Pediatrics
+UOP|Urine output|Pediatrics
+URI|Upper respiratory infection|Pediatrics
+US|Ultrasound|Pediatrics
+VBG|Venous blood gas|Pediatrics
+VAP|Ventilator-associated pneumonia|Pediatrics
+VS|Vital signs|Pediatrics
+VZV|Varicella-zoster virus|Pediatrics
+WDWN|Well-developed, well-nourished|Pediatrics
+WT|Weight|Pediatrics
+XR|X-ray|Pediatrics

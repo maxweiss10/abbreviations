@@ -557,3 +557,144 @@ PJ|Pancreaticojejunostomy|Trauma Surgery
 TOF|Train-of-four neuromuscular monitoring|Trauma Surgery
 CRIC|Cricothyroidotomy|Trauma Surgery
 EVAR|Endovascular aneurysm repair|Trauma Surgery
+A&O|Alert and oriented|Trauma Surgery
+A&P|Assessment and plan|Trauma Surgery
+AAL|Anterior axillary line|Trauma Surgery
+ACJ|Acromioclavicular joint|Trauma Surgery
+ACT|Activated clotting time|Trauma Surgery
+AMA|Against medical advice|Trauma Surgery
+APACHE|Acute Physiology and Chronic Health Evaluation|Trauma Surgery
+AROM|Active range of motion|Trauma Surgery
+ASAP|As soon as possible|Trauma Surgery
+ATFL|Anterior talofibular ligament|Trauma Surgery
+ATV|All-terrain vehicle|Trauma Surgery
+AXR|Abdominal x-ray|Trauma Surgery
+BBS|Bilateral breath sounds|Trauma Surgery
+BCx|Blood culture|Trauma Surgery
+BID|Twice daily|Trauma Surgery
+BLE|Bilateral lower extremities|Trauma Surgery
+BUE|Bilateral upper extremities|Trauma Surgery
+BPS|Behavioral Pain Scale|Trauma Surgery
+C&S|Culture and sensitivity|Trauma Surgery
+CDI|Clostridioides difficile infection|Trauma Surgery
+CMN|Cephalomedullary nail|Trauma Surgery
+CPOT|Critical-Care Pain Observation Tool|Trauma Surgery
+CRE|Carbapenem-resistant Enterobacterales|Trauma Surgery
+CT|Chest tube|Trauma Surgery
+CTAB|Clear to auscultation bilaterally|Trauma Surgery
+CTAP|Computed tomography of the abdomen and pelvis|Trauma Surgery
+CTLS|Cervical, thoracic, and lumbosacral spine|Trauma Surgery
+CTV|Computed tomography venography|Trauma Surgery
+Cx|Culture|Trauma Surgery
+D/C|Discontinue|Trauma Surgery
+DC|Discharge|Trauma Surgery
+DCI|Delayed cerebral ischemia|Trauma Surgery
+DHC|Decompressive hemicraniectomy|Trauma Surgery
+DHS|Dynamic hip screw|Trauma Surgery
+DI|Diabetes insipidus|Trauma Surgery
+DIP|Distal interphalangeal joint|Trauma Surgery
+DP|Dorsalis pedis|Trauma Surgery
+Dx|Diagnosis|Trauma Surgery
+ECF|Enterocutaneous fistula|Trauma Surgery
+EDT|Emergency department thoracotomy|Trauma Surgery
+EKG|Electrocardiogram|Trauma Surgery
+EN|Enteral nutrition|Trauma Surgery
+ESBL|Extended-spectrum beta-lactamase|Trauma Surgery
+FC|Flail chest|Trauma Surgery
+FFH|Fall from height|Trauma Surgery
+FH|Family history|Trauma Surgery
+FWB|Full weight bearing|Trauma Surgery
+G-tube|Gastrostomy tube|Trauma Surgery
+GA|General anesthesia|Trauma Surgery
+GDA|Gastroduodenal artery|Trauma Surgery
+GH|Glenohumeral|Trauma Surgery
+GLF|Ground-level fall|Trauma Surgery
+GOS|Glasgow Outcome Scale|Trauma Surgery
+GS|Gram stain|Trauma Surgery
+H&P|History and physical|Trauma Surgery
+HA|Hepatic artery|Trauma Surgery
+Hx|History|Trauma Surgery
+ICS|Intercostal space|Trauma Surgery
+ICU-AW|Intensive care unit-acquired weakness|Trauma Surgery
+IH|Incisional hernia|Trauma Surgery
+IMA|Inferior mesenteric artery|Trauma Surgery
+IMC|Intermediate care unit|Trauma Surgery
+IMV|Inferior mesenteric vein|Trauma Surgery
+IVCCI|Inferior vena cava collapsibility index|Trauma Surgery
+IVP|Intravenous push|Trauma Surgery
+IVPB|Intravenous piggyback|Trauma Surgery
+J-tube|Jejunostomy tube|Trauma Surgery
+L-spine|Lumbar spine|Trauma Surgery
+LA|Left atrium|Trauma Surgery
+LIJ|Left internal jugular vein|Trauma Surgery
+LLE|Left lower extremity|Trauma Surgery
+LSO|Lumbosacral orthosis|Trauma Surgery
+LUE|Left upper extremity|Trauma Surgery
+LV|Left ventricle|Trauma Surgery
+LVEF|Left ventricular ejection fraction|Trauma Surgery
+MAC|Monitored anesthesia care|Trauma Surgery
+MAL|Midaxillary line|Trauma Surgery
+MCL|Midclavicular line|Trauma Surgery
+MCP|Metacarpophalangeal joint|Trauma Surgery
+MESS|Mangled Extremity Severity Score|Trauma Surgery
+MTP|Metatarsophalangeal joint|Trauma Surgery
+MV|Mechanical ventilation|Trauma Surgery
+NABS|Normoactive bowel sounds|Trauma Surgery
+NAT|Non-accidental trauma|Trauma Surgery
+ND|Nondistended|Trauma Surgery
+NIF|Negative inspiratory force|Trauma Surgery
+NJ|Nasojejunal|Trauma Surgery
+NKDA|No known drug allergies|Trauma Surgery
+NRS|Numeric rating scale|Trauma Surgery
+NT|Nontender|Trauma Surgery
+NTND|Nontender, nondistended|Trauma Surgery
+OA|Open abdomen|Trauma Surgery
+OIS|Organ Injury Scale|Trauma Surgery
+PACU|Postanesthesia care unit|Trauma Surgery
+PAL|Prolonged air leak|Trauma Surgery
+PCP|Primary care physician|Trauma Surgery
+PD|Pancreaticoduodenectomy|Trauma Surgery
+PFC|Primary fascial closure|Trauma Surgery
+PIP|Proximal interphalangeal joint|Trauma Surgery
+PN|Parenteral nutrition|Trauma Surgery
+PPx|Prophylaxis|Trauma Surgery
+PRVC|Pressure-regulated volume control|Trauma Surgery
+PROM|Passive range of motion|Trauma Surgery
+PT|Posterior tibial|Trauma Surgery
+PTA|Prior to arrival|Trauma Surgery
+PV|Portal vein|Trauma Surgery
+PVA|Pedestrian versus automobile|Trauma Surgery
+PXR|Pelvic x-ray|Trauma Surgery
+QHS|Every bedtime|Trauma Surgery
+RA|Right atrium|Trauma Surgery
+RASS|Richmond Agitation-Sedation Scale|Trauma Surgery
+RF|Rib fractures|Trauma Surgery
+RIJ|Right internal jugular vein|Trauma Surgery
+RLE|Right lower extremity|Trauma Surgery
+rFVIIa|Recombinant activated factor VII|Trauma Surgery
+ROS|Review of systems|Trauma Surgery
+RRR|Regular rate and rhythm|Trauma Surgery
+RSBI|Rapid shallow breathing index|Trauma Surgery
+RUE|Right upper extremity|Trauma Surgery
+RUSH|Rapid ultrasound for shock and hypotension|Trauma Surgery
+S/P|Status post|Trauma Surgery
+SCA|Subclavian artery|Trauma Surgery
+SCV|Subclavian vein|Trauma Surgery
+SDU|Step-down unit|Trauma Surgery
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Trauma Surgery
+SIMV|Synchronized intermittent mandatory ventilation|Trauma Surgery
+SLR|Straight leg raise|Trauma Surgery
+SOFA|Sequential Organ Failure Assessment|Trauma Surgery
+SQH|Subcutaneous heparin|Trauma Surgery
+T-spine|Thoracic spine|Trauma Surgery
+TBili|Total bilirubin|Trauma Surgery
+TEE|Transesophageal echocardiogram|Trauma Surgery
+TIA|Transient ischemic attack|Trauma Surgery
+TMT|Tarsometatarsal joint|Trauma Surgery
+TTWB|Toe-touch weight bearing|Trauma Surgery
+Tx|Treatment|Trauma Surgery
+UCx|Urine culture|Trauma Surgery
+UGI|Upper gastrointestinal series|Trauma Surgery
+VC|Volume control|Trauma Surgery
+VH|Ventral hernia|Trauma Surgery
+VRE|Vancomycin-resistant enterococci|Trauma Surgery

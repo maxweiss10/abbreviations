@@ -591,3 +591,107 @@ OSA|Obstructive sleep apnea|Orthopedics
 PSO|Pedicle subtraction osteotomy|Orthopedics
 HA|Hyaluronic acid|Orthopedics
 OLT|Osteochondral lesion of the talus|Orthopedics
+IMN fixation|Intramedullary nail fixation|Orthopedics
+PFN|Proximal femoral nail|Orthopedics
+SHS|Sliding hip screw|Orthopedics
+CHS|Compression hip screw|Orthopedics
+LISS|Less invasive stabilization system plate|Orthopedics
+LCP plate|Locking compression plate|Orthopedics
+DCP|Dynamic compression plate|Orthopedics
+LC-DCP|Limited contact dynamic compression plate|Orthopedics
+K-wire|Kirschner wire|Orthopedics
+TBW|Tension band wiring|Orthopedics
+ORIF DRF|Open reduction internal fixation of distal radius fracture|Orthopedics
+VLP|Volar locking plate|Orthopedics
+CRIF DRF|Closed reduction internal fixation of distal radius fracture|Orthopedics
+PRO|Proximal row carpectomy|Orthopedics
+SLAC|Scapholunate advanced collapse|Orthopedics
+SNAC|Scaphoid nonunion advanced collapse|Orthopedics
+SL|Scapholunate|Orthopedics
+LT|Lunotriquetral|Orthopedics
+DISI|Dorsal intercalated segment instability|Orthopedics
+VISI|Volar intercalated segment instability|Orthopedics
+UV|Ulnar variance|Orthopedics
+DIPJ fusion|Distal interphalangeal joint arthrodesis|Orthopedics
+UCLR|Ulnar collateral ligament reconstruction|Orthopedics
+MCLR|Medial collateral ligament reconstruction|Orthopedics
+LUCL|Lateral ulnar collateral ligament|Orthopedics
+PLRI|Posterolateral rotatory instability|Orthopedics
+THA hemi|Hip hemiarthroplasty|Orthopedics
+HRA|Hip resurfacing arthroplasty|Orthopedics
+rTKA|Revision total knee arthroplasty|Orthopedics
+rTHA|Revision total hip arthroplasty|Orthopedics
+TKA revision|Revision total knee arthroplasty|Orthopedics
+THA revision|Revision total hip arthroplasty|Orthopedics
+CR TKA|Cruciate-retaining total knee arthroplasty|Orthopedics
+PS TKA|Posterior-stabilized total knee arthroplasty|Orthopedics
+CR|Cruciate retaining|Orthopedics
+PS|Posterior stabilized|Orthopedics
+CCK|Constrained condylar knee|Orthopedics
+RHK|Rotating hinge knee|Orthopedics
+DAA|Direct anterior approach|Orthopedics
+PLA|Posterolateral approach|Orthopedics
+DLA|Direct lateral approach|Orthopedics
+MIS THA|Minimally invasive total hip arthroplasty|Orthopedics
+HKA|Hip-knee-ankle angle|Orthopedics
+mLDFA|Mechanical lateral distal femoral angle|Orthopedics
+MPTA|Medial proximal tibial angle|Orthopedics
+mFTA|Mechanical femorotibial angle|Orthopedics
+JLCA|Joint line convergence angle|Orthopedics
+CDI|Cup-to-diameter index|Orthopedics
+CEA|Center-edge angle|Orthopedics
+LCEA|Lateral center-edge angle|Orthopedics
+ACEA|Anterior center-edge angle|Orthopedics
+TA|Tonnis angle|Orthopedics
+AI|Acetabular index|Orthopedics
+NSA|Neck-shaft angle|Orthopedics
+AV|Acetabular version|Orthopedics
+FV|Femoral version|Orthopedics
+CAM|Cam-type femoroacetabular impingement|Orthopedics
+HAD|Hip adduction|Orthopedics
+HABD|Hip abduction|Orthopedics
+HFL|Hip flexion|Orthopedics
+HER|Hip external rotation|Orthopedics
+HIR|Hip internal rotation|Orthopedics
+KF|Knee flexion|Orthopedics
+KE|Knee extension|Orthopedics
+DF|Dorsiflexion|Orthopedics
+PF|Plantarflexion|Orthopedics
+INV|Inversion|Orthopedics
+EV|Eversion|Orthopedics
+SLR neg|Negative straight leg raise|Orthopedics
+SLR pos|Positive straight leg raise|Orthopedics
+ASLR|Active straight leg raise|Orthopedics
+PSLR|Passive straight leg raise|Orthopedics
+PKB|Prone knee bend test|Orthopedics
+MMT 5/5|Manual muscle testing full strength|Orthopedics
+GHJ ROM|Glenohumeral joint range of motion|Orthopedics
+FE|Forward elevation|Orthopedics
+ASFE|Active supine forward elevation|Orthopedics
+AFE|Active forward elevation|Orthopedics
+PFE|Passive forward elevation|Orthopedics
+ABD/ER|Abduction and external rotation|Orthopedics
+ER lag|External rotation lag sign|Orthopedics
+IR lag|Internal rotation lag sign|Orthopedics
+SASD|Subacromial-subdeltoid|Orthopedics
+SA bursa|Subacromial bursa|Orthopedics
+AHD|Acromiohumeral distance|Orthopedics
+CSA|Critical shoulder angle|Orthopedics
+GHOA|Glenohumeral osteoarthritis|Orthopedics
+ACOA|Acromioclavicular osteoarthritis|Orthopedics
+DCE|Distal clavicle excision|Orthopedics
+ACJR|Acromioclavicular joint reconstruction|Orthopedics
+ARCR|Arthroscopic rotator cuff repair|Orthopedics
+SCR|Superior capsular reconstruction|Orthopedics
+LHBT tenodesis|Long head of biceps tendon tenodesis|Orthopedics
+ABS|Arthroscopic Bankart repair|Orthopedics
+OSA|Osteochondral allograft shoulder|Orthopedics
+FTRCT|Full-thickness rotator cuff tear|Orthopedics
+PTRCT|Partial-thickness rotator cuff tear|Orthopedics
+PASTA|Partial articular-sided supraspinatus tendon avulsion|Orthopedics
+GLAD|Glenolabral articular disruption|Orthopedics
+POLPSA|Posterior labrum periosteal sleeve avulsion|Orthopedics
+MGHL|Middle glenohumeral ligament|Orthopedics
+IGHL|Inferior glenohumeral ligament|Orthopedics
+SGHL|Superior glenohumeral ligament|Orthopedics
+CHL|Coracohumeral ligament|Orthopedics
