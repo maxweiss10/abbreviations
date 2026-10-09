@@ -17,7 +17,7 @@
   td{padding:5px 8px;vertical-align:top}
   tr:nth-child(even) td{background:#F2F2F2}
   td:first-child{font-weight:bold;white-space:nowrap;width:1%}
-  td.sp{white-space:nowrap;color:#333;width:1%}
+  td.sp{color:#333;font-size:14px;width:30%;white-space:normal}
   #dec{margin-top:12px}
   #dec div{padding:6px 8px;border:1px solid #000;margin-bottom:6px}
   .g{font-size:14px;color:#444}
@@ -127,7 +127,7 @@ function render(){
   t.innerHTML="";
   rows.slice(0,400).forEach(([a,m,s])=>{
     const tr=document.createElement("tr");
-    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2) td.className="sp"; td.textContent=v; tr.append(td);});
+    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const parts=v.split(", "); td.textContent=parts.length>2?parts.slice(0,2).join(", ")+` +${parts.length-2} more`:v; td.title=v;} else td.textContent=v; tr.append(td);});
     t.append(tr);
   });
   count.textContent = rows.length>400 ? `Showing 400 of ${rows.length}. Narrow your search.` : (rows.length? `${rows.length} match${rows.length===1?"":"es"}` : "");
