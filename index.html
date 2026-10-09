@@ -3,98 +3,133 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Cardiology Decoder</title>
+<title>Medical Acronym Decoder</title>
 <style>
   body{margin:0;background:#fff;color:#000;font-family:"Arial Narrow",Arial,sans-serif;font-size:17px}
-  main{max-width:640px;margin:0 auto;padding:16px}
+  main{max-width:720px;margin:0 auto;padding:16px}
   .bar{background:#D9D9D9;font-variant:small-caps;font-weight:bold;padding:4px 8px;margin:0 0 10px}
-  input{width:100%;box-sizing:border-box;font:inherit;font-size:18px;padding:10px;border:1px solid #000;border-radius:0}
+  .row{display:flex;gap:8px;margin-bottom:8px}
+  input,select{font:inherit;font-size:17px;padding:8px;border:1px solid #000;border-radius:0;background:#fff;color:#000}
+  #q{flex:1;font-size:18px;padding:10px}
+  #spec{max-width:200px}
   table{width:100%;border-collapse:collapse;margin-top:10px}
   th{background:#000;color:#fff;text-align:left;padding:4px 8px;font-variant:small-caps}
   td{padding:5px 8px;vertical-align:top}
   tr:nth-child(even) td{background:#F2F2F2}
   td:first-child{font-weight:bold;white-space:nowrap;width:1%}
+  td.sp{white-space:nowrap;color:#333;width:1%}
   #dec{margin-top:12px}
   #dec div{padding:6px 8px;border:1px solid #000;margin-bottom:6px}
   .g{font-size:14px;color:#444}
   #none{display:none;margin-top:12px}
+  #count{font-size:14px;color:#444;margin-top:6px}
 </style>
 </head>
 <body>
 <main>
-<div class="bar">Cardiology Decoder</div>
-<input id="q" type="search" placeholder="Acronym, string of acronyms (3VCAD, s/p CABG), or a word…" autofocus autocomplete="off">
+<div class="bar">Medical Acronym Decoder</div>
+<div class="row">
+  <input id="q" type="search" placeholder="Acronym, string (3VCAD, s/p CABG), or a word…" autofocus autocomplete="off">
+  <select id="spec"><option value="">All specialties</option></select>
+</div>
 <div id="dec"></div>
-<table><thead><tr><th>Acronym</th><th>Meaning</th></tr></thead><tbody id="t"></tbody></table>
+<div id="count"></div>
+<table><thead><tr><th>Acronym</th><th>Meaning</th><th>Specialty</th></tr></thead><tbody id="t"></tbody></table>
 <div id="none">No match.</div>
 </main>
 <script src="data.js"></script>
-<script src="data2.js"></script>
-<script src="data3.js"></script>
 <script>
+// ---- parse ----
 const norm=s=>s.toLowerCase().replace(/[^a-z0-9]/g,"");
-const parse=txt=>txt.trim().split("\n").filter(Boolean).map(l=>{const i=l.indexOf("|");return [l.slice(0,i),l.slice(i+1)]});
-const _seen=new Set();const D=parse(DICT).filter(([a,m])=>{const k=a.toLowerCase()+"|"+m.toLowerCase();if(_seen.has(k))return false;_seen.add(k);return true}), P=parse(PARTS);
-// lexicon: normalized key -> [meanings]
-const LEX={};
-D.forEach(([a,m])=>{const k=norm(a);if(k.length<2)return;(LEX[k]=LEX[k]||[]).push(m)});
-const PLEX={};
-P.forEach(([a,m])=>{const k=norm(a);(PLEX[k]=PLEX[k]||[]).push(m)});
-for(let n=1;n<=6;n++){PLEX[n+"v"]=[n+"-vessel"];LEX[n+"vd"]=[n+"-vessel disease"];LEX[n+"vcad"]=[n+"-vessel coronary artery disease"];}
-PLEX["vd"]=["Vessel disease"]; PLEX["sp"]=["Status post"];LEX["sp"]=["Status post (s/p)"];
-const ALL=k=>LEX[k]||PLEX[k];
+const ENTRIES=DICT.trim().split("\n").map(l=>l.split("|").map(x=>x.trim())).filter(p=>p.length===3&&p[0]&&p[1]&&p[2]);
 
-// split a token into known pieces (fewest pieces; ties favor longer dictionary words)
+// modifiers that only appear inside compounds (not shown as standalone entries)
+const PARTS=[
+ ["SV","Single-vessel"],["DV","Double-vessel"],["TV","Triple-vessel"],["MV","Multivessel"],
+ ["LM","Left main"],["NO","Non-obstructive"],["SEV","Severe"],["MOD","Moderate"],["SIG","Significant"],
+ ["SP","Status post"],["CHR","Chronic"],["ACUT","Acute"],["PAR","Paroxysmal"],["PERS","Persistent"],
+ ["PERM","Permanent"],["NV","Nonvalvular"],["NI","Nonischemic"],["HX","History of"],["FHX","Family history of"],
+ ["HYP","Hypertrophic"],["CONG","Congenital"],["RX","Treatment"],["TX","Treatment"],["DX","Diagnosis"],["SX","Symptoms"]
+].map(([a,m])=>({a,m,spec:"Compound modifier"}));
+
+// lexicon: normalized acronym -> [{a,m,spec}]
+const LEX={};
+const add=(e)=>{const k=norm(e.a); if(!k) return; (LEX[k]=LEX[k]||[]).push(e);};
+ENTRIES.forEach(([a,m,s])=>add({a,m,spec:s}));
+PARTS.forEach(add);
+for(let n=1;n<=6;n++){
+  add({a:n+"VCAD",m:n+"-vessel coronary artery disease",spec:"Cardiology"});
+  add({a:n+"VD",m:n+"-vessel disease",spec:"Cardiology"});
+}
+
+// ---- compound splitting (fewest pieces, longer known pieces preferred) ----
 function segment(w){
   const n=w.length, best=Array(n+1).fill(null); best[0]={c:0,p:[]};
-  for(let i=0;i<n;i++){ if(!best[i])continue;
-    for(let j=i+1;j<=n;j++){ const k=w.slice(i,j); if(!ALL(k))continue;
-      const c=best[i].c+(LEX[k]?1:1.5)+(k.length<2?1:0);
-      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat(k)}; } }
+  for(let i=0;i<n;i++){ if(!best[i]) continue;
+    for(let j=i+1;j<=n;j++){
+      const k=w.slice(i,j); if(!LEX[k]||k.length<2) continue;
+      const c=best[i].c+1+(k.length<3?0.5:0);
+      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat(k)};
+    } }
   return best[n]?best[n].p:null;
 }
 function decodeToken(tok){
-  const k=norm(tok); if(!k)return null;
+  const k=norm(tok); if(!k) return null;
   if(LEX[k]) return {t:tok,exact:LEX[k]};
   const seg=segment(k);
-  if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>[s,(PLEX[s]||LEX[s])[0]])};
+  if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>({k:s,e:LEX[s][0]}))};
   return {t:tok,none:true};
 }
 
-const t=document.getElementById("t"),q=document.getElementById("q"),none=document.getElementById("none"),dec=document.getElementById("dec");
+// ---- DOM ----
+const $=id=>document.getElementById(id);
+const t=$("t"),q=$("q"),none=$("none"),dec=$("dec"),spec=$("spec"),count=$("count");
+[...new Set(ENTRIES.map(e=>e[2]).concat(["Compound modifier"]))].sort().forEach(s=>{
+  const o=document.createElement("option");o.value=s;o.textContent=s;spec.append(o);
+});
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
 function render(){
-  const raw=q.value.trim().toLowerCase(), n=norm(raw);
-  // decoder strip: only for multi-token input or a miss
+  const raw=q.value.trim().toLowerCase(), n=norm(raw), sp=spec.value;
   dec.innerHTML="";
-  const toks=raw.replace(/s\/p/g,"sp").split(/[\s\/+,;&]+/).filter(Boolean);
-  const whole=LEX[n];
-  let rows;
+
+  // decoder: multi-token input, or a single token that is not a whole entry
   if(raw){
-    const score=([a,m])=>{const na=norm(a);
-      if(na===n)return 0; if(na.startsWith(n))return 1;
-      if(m.toLowerCase().includes(raw))return 2; return 9;};
-    rows=D.map(d=>[score(d),d]).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
-    // decode when several tokens, or when the single word isn't an exact entry
-    if(toks.length>1||!whole){
-      const out=toks.map(decodeToken).filter(Boolean);
-      const lines=out.map(o=>{
-        if(o.exact) return `<b>${esc(o.t)}</b>: ${esc(o.exact.join("; "))}`;
-        if(o.seg) return `<b>${esc(o.t)}</b>: ${o.seg.map(([s,m])=>esc(m)).join(" + ")} <span class="g">(best guess: ${o.seg.map(([s])=>s.toUpperCase()).join(" + ")})</span>`;
-        return `<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
+    const toks=raw.replace(/s\/p/g,"sp").split(/[\s\/+,;&]+/).filter(Boolean);
+    if(toks.length>1||!LEX[n]){
+      toks.map(decodeToken).filter(Boolean).forEach(o=>{
+        const d=document.createElement("div");
+        if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(e.spec)})</span>`).join("; ")}`;
+        else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(best guess: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
+        else d.innerHTML=`<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
+        dec.append(d);
       });
-      if(toks.length>1||out.some(o=>o.seg)) lines.forEach(l=>{const d=document.createElement("div");d.innerHTML=l;dec.append(d)});
     }
-  } else rows=D;
-  const seen=new Set(), grouped=[];
-  rows.forEach(([a,m])=>{const g=grouped.find(x=>x[0]===a);g?g[1].push(m):grouped.push([a,[m]])});
+  }
+
+  // table
+  let rows=ENTRIES.concat(PARTS.map(p=>[p.a,p.m,p.spec]));
+  if(raw){
+    rows=rows.map(e=>{const na=norm(e[0]);
+      let s=9;
+      if(na===n) s=0; else if(na.startsWith(n)) s=1; else if(e[1].toLowerCase().includes(raw)) s=2;
+      return [s,e];
+    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
+  } else rows=rows.slice().sort((x,y)=>x[0].localeCompare(y[0]));
+  if(sp) rows=rows.filter(e=>e[2]===sp);
+
   t.innerHTML="";
-  grouped.forEach(([a,ms])=>{const tr=document.createElement("tr");
-    const c1=document.createElement("td"),c2=document.createElement("td");
-    c1.textContent=a;c2.textContent=ms.join("; ");tr.append(c1,c2);t.append(tr);});
-  none.style.display=(grouped.length||dec.children.length)?"none":"block";
+  rows.slice(0,400).forEach(([a,m,s])=>{
+    const tr=document.createElement("tr");
+    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2) td.className="sp"; td.textContent=v; tr.append(td);});
+    t.append(tr);
+  });
+  count.textContent = rows.length>400 ? `Showing 400 of ${rows.length}. Narrow your search.` : (rows.length? `${rows.length} match${rows.length===1?"":"es"}` : "");
+  none.style.display=(rows.length||dec.children.length)?"none":"block";
 }
-function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
-q.addEventListener("input",render);render();
+q.addEventListener("input",render);
+spec.addEventListener("change",render);
+render();
 </script>
 </body>
 </html>
