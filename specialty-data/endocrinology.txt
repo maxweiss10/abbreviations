@@ -1,0 +1,700 @@
+T1D|Type 1 diabetes|Endocrinology
+T2D|Type 2 diabetes|Endocrinology
+T1DM|Type 1 diabetes mellitus|Endocrinology
+T2DM|Type 2 diabetes mellitus|Endocrinology
+DM|Diabetes mellitus|Endocrinology
+DM2|Type 2 diabetes mellitus|Endocrinology
+DM1|Type 1 diabetes mellitus|Endocrinology
+IDDM|Insulin-dependent diabetes mellitus|Endocrinology
+NIDDM|Non-insulin-dependent diabetes mellitus|Endocrinology
+GDM|Gestational diabetes mellitus|Endocrinology
+LADA|Latent autoimmune diabetes in adults|Endocrinology
+MODY|Maturity-onset diabetes of the young|Endocrinology
+CFRD|Cystic fibrosis-related diabetes|Endocrinology
+PDM|Pregestational diabetes mellitus|Endocrinology
+NODAT|New-onset diabetes after transplant|Endocrinology
+PTDM|Post-transplant diabetes mellitus|Endocrinology
+DKA|Diabetic ketoacidosis|Endocrinology
+HHS|Hyperosmolar hyperglycemic state|Endocrinology
+HHNK|Hyperosmolar hyperglycemic nonketotic state|Endocrinology
+HONK|Hyperosmolar nonketotic coma|Endocrinology
+BHB|Beta-hydroxybutyrate|Endocrinology
+A1c|Glycated hemoglobin|Endocrinology
+HbA1c|Glycated hemoglobin|Endocrinology
+HgbA1c|Glycated hemoglobin|Endocrinology
+GMI|Glucose management indicator|Endocrinology
+SMBG|Self-monitoring of blood glucose|Endocrinology
+CGM|Continuous glucose monitoring|Endocrinology
+rtCGM|Real-time continuous glucose monitoring|Endocrinology
+isCGM|Intermittently scanned continuous glucose monitoring|Endocrinology
+FGM|Flash glucose monitoring|Endocrinology
+TIR|Time in range|Endocrinology
+TAR|Time above range|Endocrinology
+TBR|Time below range|Endocrinology
+AGP|Ambulatory glucose profile|Endocrinology
+FBG|Fasting blood glucose|Endocrinology
+FPG|Fasting plasma glucose|Endocrinology
+FSBG|Fingerstick blood glucose|Endocrinology
+FSG|Fingerstick glucose|Endocrinology
+BG|Blood glucose|Endocrinology
+RBG|Random blood glucose|Endocrinology
+RPG|Random plasma glucose|Endocrinology
+PPG|Postprandial glucose|Endocrinology
+PPBG|Postprandial blood glucose|Endocrinology
+OGTT|Oral glucose tolerance test|Endocrinology
+GTT|Glucose tolerance test|Endocrinology
+IVGTT|Intravenous glucose tolerance test|Endocrinology
+GCT|Glucose challenge test|Endocrinology
+IFG|Impaired fasting glucose|Endocrinology
+IGT|Impaired glucose tolerance|Endocrinology
+NGT|Normal glucose tolerance|Endocrinology
+DPP|Diabetes prevention program|Endocrinology
+DSMES|Diabetes self-management education and support|Endocrinology
+DSME|Diabetes self-management education|Endocrinology
+MNT|Medical nutrition therapy|Endocrinology
+CHO|Carbohydrate|Endocrinology
+ICR|Insulin-to-carbohydrate ratio|Endocrinology
+ISF|Insulin sensitivity factor|Endocrinology
+TDD|Total daily dose of insulin|Endocrinology
+IOB|Insulin on board|Endocrinology
+COB|Carbohydrates on board|Endocrinology
+CSII|Continuous subcutaneous insulin infusion|Endocrinology
+MDI|Multiple daily injections|Endocrinology
+AID|Automated insulin delivery|Endocrinology
+HCL|Hybrid closed loop|Endocrinology
+LGS|Low glucose suspend|Endocrinology
+PLGS|Predictive low glucose suspend|Endocrinology
+SAP|Sensor-augmented pump|Endocrinology
+NPH|Neutral protamine Hagedorn insulin (intermediate-acting insulin)|Endocrinology
+RI|Regular insulin|Endocrinology
+SSI|Sliding-scale insulin|Endocrinology
+RAI|Rapid-acting insulin|Endocrinology
+LAI|Long-acting insulin|Endocrinology
+BBI|Basal-bolus insulin|Endocrinology
+HS|At bedtime|Endocrinology
+QHS|Every night at bedtime|Endocrinology
+DPP-4i|Dipeptidyl peptidase-4 inhibitor|Endocrinology
+GLP-1|Glucagon-like peptide-1|Endocrinology
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Endocrinology
+GLP1RA|Glucagon-like peptide-1 receptor agonist|Endocrinology
+GIP|Glucose-dependent insulinotropic polypeptide|Endocrinology
+SGLT2|Sodium-glucose cotransporter 2|Endocrinology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Endocrinology
+SGLT-2i|Sodium-glucose cotransporter 2 inhibitor|Endocrinology
+SU|Sulfonylurea|Endocrinology
+TZD|Thiazolidinedione|Endocrinology
+AGI|Alpha-glucosidase inhibitor|Endocrinology
+PIO|Pioglitazone|Endocrinology
+OAD|Oral antidiabetic drug|Endocrinology
+OHA|Oral hypoglycemic agent|Endocrinology
+GLP-2|Glucagon-like peptide-2|Endocrinology
+PYY|Peptide YY|Endocrinology
+CCK|Cholecystokinin|Endocrinology
+euDKA|Euglycemic diabetic ketoacidosis|Endocrinology
+SIH|Stress-induced hyperglycemia|Endocrinology
+DPN|Diabetic peripheral neuropathy|Endocrinology
+DSPN|Diabetic sensorimotor polyneuropathy|Endocrinology
+DAN|Diabetic autonomic neuropathy|Endocrinology
+CAN|Cardiac autonomic neuropathy|Endocrinology
+DR|Diabetic retinopathy|Endocrinology
+NPDR|Nonproliferative diabetic retinopathy|Endocrinology
+PDR|Proliferative diabetic retinopathy|Endocrinology
+DME|Diabetic macular edema|Endocrinology
+CSME|Clinically significant macular edema|Endocrinology
+DKD|Diabetic kidney disease|Endocrinology
+DN|Diabetic nephropathy|Endocrinology
+DFU|Diabetic foot ulcer|Endocrinology
+DFI|Diabetic foot infection|Endocrinology
+UACR|Urine albumin-to-creatinine ratio|Endocrinology
+ACR|Albumin-to-creatinine ratio|Endocrinology
+eGFR|Estimated glomerular filtration rate|Endocrinology
+ASCVD|Atherosclerotic cardiovascular disease|Endocrinology
+MetS|Metabolic syndrome|Endocrinology
+IR|Insulin resistance|Endocrinology
+HOMA-IR|Homeostatic model assessment of insulin resistance|Endocrinology
+HOMA-B|Homeostatic model assessment of beta-cell function|Endocrinology
+QUICKI|Quantitative insulin sensitivity check index|Endocrinology
+C-peptide|Connecting peptide of insulin|Endocrinology
+GAD|Glutamic acid decarboxylase|Endocrinology
+GAD65|Glutamic acid decarboxylase 65 antibody target|Endocrinology
+IA-2|Islet antigen 2|Endocrinology
+ZnT8|Zinc transporter 8|Endocrinology
+IAA|Insulin autoantibody|Endocrinology
+ICA|Islet cell antibody|Endocrinology
+IAS|Insulin autoimmune syndrome|Endocrinology
+HAAF|Hypoglycemia-associated autonomic failure|Endocrinology
+HAU|Hypoglycemia unawareness|Endocrinology
+IAH|Impaired awareness of hypoglycemia|Endocrinology
+NKH|Nonketotic hyperglycemia|Endocrinology
+PHHI|Persistent hyperinsulinemic hypoglycemia of infancy|Endocrinology
+CHI|Congenital hyperinsulinism|Endocrinology
+NIPHS|Non-insulinoma pancreatogenous hypoglycemia syndrome|Endocrinology
+PBH|Post-bariatric hypoglycemia|Endocrinology
+PPH|Postprandial hypoglycemia|Endocrinology
+NICTH|Non-islet cell tumor hypoglycemia|Endocrinology
+IGF-1|Insulin-like growth factor 1|Endocrinology
+IGF-2|Insulin-like growth factor 2|Endocrinology
+IGF1|Insulin-like growth factor 1|Endocrinology
+IGFBP-3|Insulin-like growth factor binding protein 3|Endocrinology
+IGFBP3|Insulin-like growth factor binding protein 3|Endocrinology
+GH|Growth hormone|Endocrinology
+hGH|Human growth hormone|Endocrinology
+rhGH|Recombinant human growth hormone|Endocrinology
+GHD|Growth hormone deficiency|Endocrinology
+AGHD|Adult growth hormone deficiency|Endocrinology
+GHRH|Growth hormone-releasing hormone|Endocrinology
+GHS|Growth hormone secretagogue|Endocrinology
+SRL|Somatostatin receptor ligand|Endocrinology
+SSA|Somatostatin analog|Endocrinology
+SSTR|Somatostatin receptor|Endocrinology
+GHRP|Growth hormone-releasing peptide|Endocrinology
+ITT|Insulin tolerance test|Endocrinology
+ACTH|Adrenocorticotropic hormone|Endocrinology
+CRH|Corticotropin-releasing hormone|Endocrinology
+AVP|Arginine vasopressin|Endocrinology
+ADH|Antidiuretic hormone|Endocrinology
+DI|Diabetes insipidus|Endocrinology
+CDI|Central diabetes insipidus|Endocrinology
+NDI|Nephrogenic diabetes insipidus|Endocrinology
+AVP-D|Arginine vasopressin deficiency|Endocrinology
+AVP-R|Arginine vasopressin resistance|Endocrinology
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Endocrinology
+SIAD|Syndrome of inappropriate antidiuresis|Endocrinology
+CSW|Cerebral salt wasting|Endocrinology
+DDAVP|Desmopressin|Endocrinology
+PRL|Prolactin|Endocrinology
+PRLoma|Prolactin-secreting pituitary adenoma|Endocrinology
+HPRL|Hyperprolactinemia|Endocrinology
+CAB|Cabergoline|Endocrinology
+BRC|Bromocriptine|Endocrinology
+FSH|Follicle-stimulating hormone|Endocrinology
+GnRH|Gonadotropin-releasing hormone|Endocrinology
+LHRH|Luteinizing hormone-releasing hormone|Endocrinology
+hCG|Human chorionic gonadotropin|Endocrinology
+HCG|Human chorionic gonadotropin|Endocrinology
+hMG|Human menopausal gonadotropin|Endocrinology
+TSH|Thyroid-stimulating hormone|Endocrinology
+TRH|Thyrotropin-releasing hormone|Endocrinology
+HPA|Hypothalamic-pituitary-adrenal|Endocrinology
+HPG|Hypothalamic-pituitary-gonadal|Endocrinology
+NFPA|Nonfunctioning pituitary adenoma|Endocrinology
+NFPT|Nonfunctioning pituitary tumor|Endocrinology
+PitNET|Pituitary neuroendocrine tumor|Endocrinology
+TSS|Transsphenoidal surgery|Endocrinology
+SRS|Stereotactic radiosurgery|Endocrinology
+SRT|Stereotactic radiotherapy|Endocrinology
+GKRS|Gamma knife radiosurgery|Endocrinology
+MRI|Magnetic resonance imaging|Endocrinology
+PET|Positron emission tomography|Endocrinology
+CSF|Cerebrospinal fluid|Endocrinology
+VF|Visual fields|Endocrinology
+CVF|Confrontation visual fields|Endocrinology
+SOD|Septo-optic dysplasia|Endocrinology
+CPHD|Combined pituitary hormone deficiency|Endocrinology
+MPHD|Multiple pituitary hormone deficiency|Endocrinology
+IHH|Idiopathic hypogonadotropic hypogonadism|Endocrinology
+CHH|Congenital hypogonadotropic hypogonadism|Endocrinology
+CDGP|Constitutional delay of growth and puberty|Endocrinology
+CDP|Constitutional delay of puberty|Endocrinology
+CPP|Central precocious puberty|Endocrinology
+PPP|Peripheral precocious puberty|Endocrinology
+GnRHa|Gonadotropin-releasing hormone agonist|Endocrinology
+SMR|Sexual maturity rating|Endocrinology
+ISS|Idiopathic short stature|Endocrinology
+FSS|Familial short stature|Endocrinology
+PWS|Prader-Willi syndrome|Endocrinology
+KFS|Klinefelter syndrome|Endocrinology
+CAH|Congenital adrenal hyperplasia|Endocrinology
+NCCAH|Nonclassic congenital adrenal hyperplasia|Endocrinology
+21-OHD|21-hydroxylase deficiency|Endocrinology
+17-OHP|17-hydroxyprogesterone|Endocrinology
+17OHP|17-hydroxyprogesterone|Endocrinology
+DSD|Disorders of sex development|Endocrinology
+AIS|Androgen insensitivity syndrome|Endocrinology
+CAIS|Complete androgen insensitivity syndrome|Endocrinology
+PAIS|Partial androgen insensitivity syndrome|Endocrinology
+POI|Primary ovarian insufficiency|Endocrinology
+POF|Premature ovarian failure|Endocrinology
+PCOS|Polycystic ovary syndrome|Endocrinology
+PCO|Polycystic ovaries|Endocrinology
+PCOM|Polycystic ovarian morphology|Endocrinology
+AMH|Anti-Mullerian hormone|Endocrinology
+HA|Hypothalamic amenorrhea|Endocrinology
+FHA|Functional hypothalamic amenorrhea|Endocrinology
+HRT|Hormone replacement therapy|Endocrinology
+MHT|Menopausal hormone therapy|Endocrinology
+EPT|Estrogen plus progestogen therapy|Endocrinology
+CEE|Conjugated equine estrogens|Endocrinology
+E2|Estradiol|Endocrinology
+E1|Estrone|Endocrinology
+E3|Estriol|Endocrinology
+EE2|Ethinyl estradiol|Endocrinology
+P4|Progesterone|Endocrinology
+MPA|Medroxyprogesterone acetate|Endocrinology
+DMPA|Depot medroxyprogesterone acetate|Endocrinology
+OCP|Oral contraceptive pill|Endocrinology
+COC|Combined oral contraceptive|Endocrinology
+SERM|Selective estrogen receptor modulator|Endocrinology
+SPRM|Selective progesterone receptor modulator|Endocrinology
+GSM|Genitourinary syndrome of menopause|Endocrinology
+VMS|Vasomotor symptoms|Endocrinology
+FMP|Final menstrual period|Endocrinology
+LMP|Last menstrual period|Endocrinology
+DUB|Dysfunctional uterine bleeding|Endocrinology
+AUB|Abnormal uterine bleeding|Endocrinology
+SHBG|Sex hormone-binding globulin|Endocrinology
+DHEA|Dehydroepiandrosterone|Endocrinology
+DHEAS|Dehydroepiandrosterone sulfate|Endocrinology
+DHEA-S|Dehydroepiandrosterone sulfate|Endocrinology
+DHT|Dihydrotestosterone|Endocrinology
+BioT|Bioavailable testosterone|Endocrinology
+FAI|Free androgen index|Endocrinology
+TRT|Testosterone replacement therapy|Endocrinology
+TTh|Testosterone therapy|Endocrinology
+LOH|Late-onset hypogonadism|Endocrinology
+ADAM|Androgen deficiency in the aging male|Endocrinology
+PDE5i|Phosphodiesterase type 5 inhibitor|Endocrinology
+AAS|Anabolic-androgenic steroids|Endocrinology
+GAHT|Gender-affirming hormone therapy|Endocrinology
+GAS|Gender-affirming surgery|Endocrinology
+AFAB|Assigned female at birth|Endocrinology
+AMAB|Assigned male at birth|Endocrinology
+T3|Triiodothyronine|Endocrinology
+T4|Thyroxine|Endocrinology
+FT3|Free triiodothyronine|Endocrinology
+FT4|Free thyroxine|Endocrinology
+TT3|Total triiodothyronine|Endocrinology
+TT4|Total thyroxine|Endocrinology
+rT3|Reverse triiodothyronine|Endocrinology
+LT4|Levothyroxine|Endocrinology
+LT3|Liothyronine|Endocrinology
+DTE|Desiccated thyroid extract|Endocrinology
+TFTs|Thyroid function tests|Endocrinology
+TBG|Thyroxine-binding globulin|Endocrinology
+TBPA|Thyroxine-binding prealbumin|Endocrinology
+TTR|Transthyretin|Endocrinology
+TPO|Thyroid peroxidase|Endocrinology
+TPOAb|Thyroid peroxidase antibody|Endocrinology
+TPO-Ab|Thyroid peroxidase antibody|Endocrinology
+TgAb|Thyroglobulin antibody|Endocrinology
+Tg|Thyroglobulin|Endocrinology
+TRAb|Thyrotropin receptor antibody|Endocrinology
+TSI|Thyroid-stimulating immunoglobulin|Endocrinology
+TBII|Thyrotropin-binding inhibitory immunoglobulin|Endocrinology
+TSHR|Thyroid-stimulating hormone receptor|Endocrinology
+TBAb|Thyroid-blocking antibody|Endocrinology
+RAIU|Radioactive iodine uptake|Endocrinology
+RAI-U|Radioactive iodine uptake|Endocrinology
+RAIT|Radioactive iodine therapy|Endocrinology
+I-131|Iodine-131|Endocrinology
+I-123|Iodine-123|Endocrinology
+131I|Iodine-131|Endocrinology
+123I|Iodine-123|Endocrinology
+WBS|Whole-body scan|Endocrinology
+TcO4|Technetium pertechnetate|Endocrinology
+MNG|Multinodular goiter|Endocrinology
+TMNG|Toxic multinodular goiter|Endocrinology
+TNG|Toxic nodular goiter|Endocrinology
+TAN|Toxic autonomous nodule|Endocrinology
+AFTN|Autonomously functioning thyroid nodule|Endocrinology
+AITD|Autoimmune thyroid disease|Endocrinology
+AIT|Amiodarone-induced thyrotoxicosis|Endocrinology
+AIH|Amiodarone-induced hypothyroidism|Endocrinology
+PPT|Postpartum thyroiditis|Endocrinology
+SCH|Subclinical hypothyroidism|Endocrinology
+SCT|Subclinical thyrotoxicosis|Endocrinology
+SCHyper|Subclinical hyperthyroidism|Endocrinology
+CH|Congenital hypothyroidism|Endocrinology
+NTI|Nonthyroidal illness|Endocrinology
+NTIS|Nonthyroidal illness syndrome|Endocrinology
+ESS|Euthyroid sick syndrome|Endocrinology
+TED|Thyroid eye disease|Endocrinology
+GO|Graves orbitopathy|Endocrinology
+TAO|Thyroid-associated orbitopathy|Endocrinology
+ATD|Antithyroid drug|Endocrinology
+MMI|Methimazole|Endocrinology
+PTU|Propylthiouracil|Endocrinology
+SSKI|Saturated solution of potassium iodide|Endocrinology
+BWPS|Burch-Wartofsky point scale|Endocrinology
+NTT|Near-total thyroidectomy|Endocrinology
+CND|Central neck dissection|Endocrinology
+LND|Lateral neck dissection|Endocrinology
+MND|Modified neck dissection|Endocrinology
+RLN|Recurrent laryngeal nerve|Endocrinology
+SLN|Superior laryngeal nerve|Endocrinology
+IONM|Intraoperative nerve monitoring|Endocrinology
+FNA|Fine-needle aspiration|Endocrinology
+FNAB|Fine-needle aspiration biopsy|Endocrinology
+FNAC|Fine-needle aspiration cytology|Endocrinology
+USG|Ultrasonography|Endocrinology
+TI-RADS|Thyroid imaging reporting and data system|Endocrinology
+TIRADS|Thyroid imaging reporting and data system|Endocrinology
+AUS|Atypia of undetermined significance|Endocrinology
+FLUS|Follicular lesion of undetermined significance|Endocrinology
+SFN|Suspicious for follicular neoplasm|Endocrinology
+SFM|Suspicious for malignancy|Endocrinology
+SUSP|Suspicious for malignancy|Endocrinology
+ND|Nondiagnostic|Endocrinology
+NIFTP|Noninvasive follicular thyroid neoplasm with papillary-like nuclear features|Endocrinology
+TBSRTC|The Bethesda System for Reporting Thyroid Cytopathology|Endocrinology
+GEC|Gene expression classifier|Endocrinology
+PTC|Papillary thyroid carcinoma|Endocrinology
+FTC|Follicular thyroid carcinoma|Endocrinology
+HCC|Hurthle cell carcinoma|Endocrinology
+MTC|Medullary thyroid carcinoma|Endocrinology
+ATC|Anaplastic thyroid carcinoma|Endocrinology
+DTC|Differentiated thyroid cancer|Endocrinology
+PDTC|Poorly differentiated thyroid carcinoma|Endocrinology
+PTMC|Papillary thyroid microcarcinoma|Endocrinology
+RAIR|Radioactive iodine-refractory|Endocrinology
+RAI-R|Radioactive iodine-refractory|Endocrinology
+rhTSH|Recombinant human thyrotropin|Endocrinology
+THW|Thyroid hormone withdrawal|Endocrinology
+CEA|Carcinoembryonic antigen|Endocrinology
+MEN|Multiple endocrine neoplasia|Endocrinology
+MEN1|Multiple endocrine neoplasia type 1|Endocrinology
+MEN2|Multiple endocrine neoplasia type 2|Endocrinology
+MEN2A|Multiple endocrine neoplasia type 2A|Endocrinology
+MEN2B|Multiple endocrine neoplasia type 2B|Endocrinology
+FMTC|Familial medullary thyroid carcinoma|Endocrinology
+PTH|Parathyroid hormone|Endocrinology
+iPTH|Intact parathyroid hormone|Endocrinology
+PTHrP|Parathyroid hormone-related peptide|Endocrinology
+PHPT|Primary hyperparathyroidism|Endocrinology
+SHPT|Secondary hyperparathyroidism|Endocrinology
+THPT|Tertiary hyperparathyroidism|Endocrinology
+NPHPT|Normocalcemic primary hyperparathyroidism|Endocrinology
+HypoPT|Hypoparathyroidism|Endocrinology
+PsHP|Pseudohypoparathyroidism|Endocrinology
+FHH|Familial hypocalciuric hypercalcemia|Endocrinology
+HPT-JT|Hyperparathyroidism-jaw tumor syndrome|Endocrinology
+CaSR|Calcium-sensing receptor|Endocrinology
+PTX|Parathyroidectomy|Endocrinology
+sPTX|Subtotal parathyroidectomy|Endocrinology
+IOPTH|Intraoperative parathyroid hormone|Endocrinology
+SPECT|Single-photon emission computed tomography|Endocrinology
+4D-CT|Four-dimensional computed tomography|Endocrinology
+MIBI|Technetium-99m sestamibi|Endocrinology
+iCa|Ionized calcium|Endocrinology
+cCa|Corrected calcium|Endocrinology
+PO4|Phosphate|Endocrinology
+Phos|Phosphorus|Endocrinology
+ALP|Alkaline phosphatase|Endocrinology
+BSAP|Bone-specific alkaline phosphatase|Endocrinology
+25(OH)D|25-hydroxyvitamin D|Endocrinology
+25-OH D|25-hydroxyvitamin D|Endocrinology
+1,25(OH)2D|1,25-dihydroxyvitamin D|Endocrinology
+FGF23|Fibroblast growth factor 23|Endocrinology
+XLH|X-linked hypophosphatemia|Endocrinology
+TIO|Tumor-induced osteomalacia|Endocrinology
+HPP|Hypophosphatasia|Endocrinology
+ADHR|Autosomal dominant hypophosphatemic rickets|Endocrinology
+VDDR|Vitamin D-dependent rickets|Endocrinology
+CKD-MBD|Chronic kidney disease-mineral and bone disorder|Endocrinology
+MBD|Mineral and bone disorder|Endocrinology
+ROD|Renal osteodystrophy|Endocrinology
+OP|Osteoporosis|Endocrinology
+OPN|Osteopenia|Endocrinology
+OI|Osteogenesis imperfecta|Endocrinology
+PDB|Paget disease of bone|Endocrinology
+MAS|McCune-Albright syndrome|Endocrinology
+GIOP|Glucocorticoid-induced osteoporosis|Endocrinology
+PMO|Postmenopausal osteoporosis|Endocrinology
+BMD|Bone mineral density|Endocrinology
+BMC|Bone mineral content|Endocrinology
+DXA|Dual-energy x-ray absorptiometry|Endocrinology
+DEXA|Dual-energy x-ray absorptiometry|Endocrinology
+QCT|Quantitative computed tomography|Endocrinology
+pQCT|Peripheral quantitative computed tomography|Endocrinology
+HR-pQCT|High-resolution peripheral quantitative computed tomography|Endocrinology
+TBS|Trabecular bone score|Endocrinology
+VFA|Vertebral fracture assessment|Endocrinology
+LSC|Least significant change|Endocrinology
+VCF|Vertebral compression fracture|Endocrinology
+FLS|Fracture liaison service|Endocrinology
+FRAX|Fracture risk assessment tool|Endocrinology
+MOF|Major osteoporotic fracture|Endocrinology
+BTM|Bone turnover marker|Endocrinology
+BTMs|Bone turnover markers|Endocrinology
+CTX|C-terminal telopeptide of type I collagen|Endocrinology
+NTX|N-terminal telopeptide of type I collagen|Endocrinology
+P1NP|Procollagen type 1 N-terminal propeptide|Endocrinology
+PINP|Procollagen type 1 N-terminal propeptide|Endocrinology
+TRAP|Tartrate-resistant acid phosphatase|Endocrinology
+TRACP-5b|Tartrate-resistant acid phosphatase 5b|Endocrinology
+BP|Bisphosphonate|Endocrinology
+BPs|Bisphosphonates|Endocrinology
+ZA|Zoledronic acid|Endocrinology
+ZOL|Zoledronic acid|Endocrinology
+ALN|Alendronate|Endocrinology
+RIS|Risedronate|Endocrinology
+IBN|Ibandronate|Endocrinology
+PAM|Pamidronate|Endocrinology
+RLX|Raloxifene|Endocrinology
+TPTD|Teriparatide|Endocrinology
+ABL|Abaloparatide|Endocrinology
+ROMO|Romosozumab|Endocrinology
+DMAb|Denosumab|Endocrinology
+RANKL|Receptor activator of nuclear factor kappa-B ligand|Endocrinology
+RANK|Receptor activator of nuclear factor kappa-B|Endocrinology
+OPG|Osteoprotegerin|Endocrinology
+PTH(1-34)|Parathyroid hormone fragment 1-34 (teriparatide)|Endocrinology
+ONJ|Osteonecrosis of the jaw|Endocrinology
+MRONJ|Medication-related osteonecrosis of the jaw|Endocrinology
+BRONJ|Bisphosphonate-related osteonecrosis of the jaw|Endocrinology
+AFF|Atypical femoral fracture|Endocrinology
+HCM|Hypercalcemia of malignancy|Endocrinology
+MAH|Malignancy-associated hypercalcemia|Endocrinology
+HBS|Hungry bone syndrome|Endocrinology
+PAI|Primary adrenal insufficiency|Endocrinology
+SAI|Secondary adrenal insufficiency|Endocrinology
+TAI|Tertiary adrenal insufficiency|Endocrinology
+GC-AI|Glucocorticoid-induced adrenal insufficiency|Endocrinology
+CIRCI|Critical illness-related corticosteroid insufficiency|Endocrinology
+AAD|Autoimmune Addison disease|Endocrinology
+APS|Autoimmune polyglandular syndrome|Endocrinology
+APS1|Autoimmune polyglandular syndrome type 1|Endocrinology
+APS2|Autoimmune polyglandular syndrome type 2|Endocrinology
+APS-1|Autoimmune polyglandular syndrome type 1|Endocrinology
+APS-2|Autoimmune polyglandular syndrome type 2|Endocrinology
+X-ALD|X-linked adrenoleukodystrophy|Endocrinology
+ALD|Adrenoleukodystrophy|Endocrinology
+VLCFA|Very long-chain fatty acids|Endocrinology
+21-OH|21-hydroxylase|Endocrinology
+CD|Cushing disease|Endocrinology
+ECS|Ectopic Cushing syndrome|Endocrinology
+EAS|Ectopic ACTH syndrome|Endocrinology
+ACS|Autonomous cortisol secretion|Endocrinology
+MACS|Mild autonomous cortisol secretion|Endocrinology
+PBMAH|Primary bilateral macronodular adrenal hyperplasia|Endocrinology
+PPNAD|Primary pigmented nodular adrenocortical disease|Endocrinology
+ACC|Adrenocortical carcinoma|Endocrinology
+ACA|Adrenocortical adenoma|Endocrinology
+CPA|Cortisol-producing adenoma|Endocrinology
+DST|Dexamethasone suppression test|Endocrinology
+ODST|Overnight dexamethasone suppression test|Endocrinology
+LDDST|Low-dose dexamethasone suppression test|Endocrinology
+HDDST|High-dose dexamethasone suppression test|Endocrinology
+1-mg DST|1-mg overnight dexamethasone suppression test|Endocrinology
+UFC|Urinary free cortisol|Endocrinology
+24h UFC|24-hour urinary free cortisol|Endocrinology
+LNSC|Late-night salivary cortisol|Endocrinology
+CRH-stim|Corticotropin-releasing hormone stimulation test|Endocrinology
+IPSS|Inferior petrosal sinus sampling|Endocrinology
+BIPSS|Bilateral inferior petrosal sinus sampling|Endocrinology
+CST|Cosyntropin stimulation test|Endocrinology
+ACTH-stim|ACTH stimulation test|Endocrinology
+LDST|Low-dose cosyntropin stimulation test|Endocrinology
+HDST|High-dose cosyntropin stimulation test|Endocrinology
+AM cortisol|Morning cortisol|Endocrinology
+GC|Glucocorticoid|Endocrinology
+GCs|Glucocorticoids|Endocrinology
+HC|Hydrocortisone|Endocrinology
+HCT|Hydrocortisone|Endocrinology
+MC|Mineralocorticoid|Endocrinology
+DEX|Dexamethasone|Endocrinology
+PRED|Prednisone|Endocrinology
+MP|Methylprednisolone|Endocrinology
+IVMP|Intravenous methylprednisolone|Endocrinology
+SDG|Stress-dose glucocorticoids|Endocrinology
+CBG|Corticosteroid-binding globulin|Endocrinology
+11-DOC|11-deoxycortisol|Endocrinology
+DOC|Deoxycorticosterone|Endocrinology
+11bHSD|11-beta-hydroxysteroid dehydrogenase|Endocrinology
+AME|Apparent mineralocorticoid excess|Endocrinology
+PAL|Primary aldosteronism|Endocrinology
+APA|Aldosterone-producing adenoma|Endocrinology
+BAH|Bilateral adrenal hyperplasia|Endocrinology
+IHA|Idiopathic hyperaldosteronism|Endocrinology
+UAH|Unilateral adrenal hyperplasia|Endocrinology
+GRA|Glucocorticoid-remediable aldosteronism|Endocrinology
+ARR|Aldosterone-to-renin ratio|Endocrinology
+PAC|Plasma aldosterone concentration|Endocrinology
+PRA|Plasma renin activity|Endocrinology
+RAAS|Renin-angiotensin-aldosterone system|Endocrinology
+RAS|Renin-angiotensin system|Endocrinology
+AVS|Adrenal vein sampling|Endocrinology
+SIT|Saline infusion test|Endocrinology
+CCT|Captopril challenge test|Endocrinology
+MRA|Mineralocorticoid receptor antagonist|Endocrinology
+ACEi|Angiotensin-converting enzyme inhibitor|Endocrinology
+ARB|Angiotensin receptor blocker|Endocrinology
+HTN|Hypertension|Endocrinology
+ADX|Adrenalectomy|Endocrinology
+BLA|Bilateral adrenalectomy|Endocrinology
+PCC|Pheochromocytoma|Endocrinology
+PHEO|Pheochromocytoma|Endocrinology
+PGL|Paraganglioma|Endocrinology
+PPGL|Pheochromocytoma and paraganglioma|Endocrinology
+HNPGL|Head and neck paraganglioma|Endocrinology
+PMN|Plasma metanephrines|Endocrinology
+UMN|Urinary metanephrines|Endocrinology
+NMN|Normetanephrine|Endocrinology
+3-MT|3-methoxytyramine|Endocrinology
+CGA|Chromogranin A|Endocrinology
+VMA|Vanillylmandelic acid|Endocrinology
+HVA|Homovanillic acid|Endocrinology
+MIBG|Metaiodobenzylguanidine|Endocrinology
+FDG|Fluorodeoxyglucose|Endocrinology
+FDOPA|Fluorodihydroxyphenylalanine|Endocrinology
+SDH|Succinate dehydrogenase|Endocrinology
+SDHx|Succinate dehydrogenase complex genes|Endocrinology
+VHL|Von Hippel-Lindau disease|Endocrinology
+NF1|Neurofibromatosis type 1|Endocrinology
+HU|Hounsfield units|Endocrinology
+CSI|Chemical shift imaging|Endocrinology
+APW|Absolute percentage washout|Endocrinology
+RPW|Relative percentage washout|Endocrinology
+AIs|Adrenal incidentalomas|Endocrinology
+NET|Neuroendocrine tumor|Endocrinology
+NEC|Neuroendocrine carcinoma|Endocrinology
+NEN|Neuroendocrine neoplasm|Endocrinology
+GEP-NET|Gastroenteropancreatic neuroendocrine tumor|Endocrinology
+pNET|Pancreatic neuroendocrine tumor|Endocrinology
+PNET|Pancreatic neuroendocrine tumor|Endocrinology
+SBNET|Small bowel neuroendocrine tumor|Endocrinology
+GI-NET|Gastrointestinal neuroendocrine tumor|Endocrinology
+5-HIAA|5-hydroxyindoleacetic acid|Endocrinology
+5-HT|5-hydroxytryptamine (serotonin)|Endocrinology
+ZES|Zollinger-Ellison syndrome|Endocrinology
+VIPoma|Vasoactive intestinal peptide-secreting tumor|Endocrinology
+VIP|Vasoactive intestinal peptide|Endocrinology
+PRRT|Peptide receptor radionuclide therapy|Endocrinology
+GHRA|Growth hormone receptor antagonist|Endocrinology
+BMI|Body mass index|Endocrinology
+WC|Waist circumference|Endocrinology
+WHR|Waist-to-hip ratio|Endocrinology
+%BF|Percent body fat|Endocrinology
+BIA|Bioelectrical impedance analysis|Endocrinology
+FFM|Fat-free mass|Endocrinology
+LBM|Lean body mass|Endocrinology
+VAT|Visceral adipose tissue|Endocrinology
+BAT|Brown adipose tissue|Endocrinology
+WAT|White adipose tissue|Endocrinology
+EWL|Excess weight loss|Endocrinology
+%EWL|Percent excess weight loss|Endocrinology
+TBWL|Total body weight loss|Endocrinology
+%TBWL|Percent total body weight loss|Endocrinology
+IBW|Ideal body weight|Endocrinology
+AdjBW|Adjusted body weight|Endocrinology
+LCD|Low-calorie diet|Endocrinology
+VLCD|Very low-calorie diet|Endocrinology
+LCHF|Low-carbohydrate, high-fat diet|Endocrinology
+DASH|Dietary approaches to stop hypertension|Endocrinology
+CBT|Cognitive behavioral therapy|Endocrinology
+AOM|Anti-obesity medication|Endocrinology
+AOMs|Anti-obesity medications|Endocrinology
+MC4R|Melanocortin 4 receptor|Endocrinology
+POMC|Proopiomelanocortin|Endocrinology
+MSH|Melanocyte-stimulating hormone|Endocrinology
+AgRP|Agouti-related peptide|Endocrinology
+NPY|Neuropeptide Y|Endocrinology
+BBS|Bardet-Biedl syndrome|Endocrinology
+HO|Hypothalamic obesity|Endocrinology
+MBS|Metabolic and bariatric surgery|Endocrinology
+RYGB|Roux-en-Y gastric bypass|Endocrinology
+VSG|Vertical sleeve gastrectomy|Endocrinology
+LSG|Laparoscopic sleeve gastrectomy|Endocrinology
+LAGB|Laparoscopic adjustable gastric banding|Endocrinology
+AGB|Adjustable gastric band|Endocrinology
+BPD|Biliopancreatic diversion|Endocrinology
+BPD-DS|Biliopancreatic diversion with duodenal switch|Endocrinology
+SADI-S|Single anastomosis duodeno-ileal bypass with sleeve|Endocrinology
+OAGB|One-anastomosis gastric bypass|Endocrinology
+MGB|Mini gastric bypass|Endocrinology
+IGB|Intragastric balloon|Endocrinology
+ESG|Endoscopic sleeve gastroplasty|Endocrinology
+NAFLD|Nonalcoholic fatty liver disease|Endocrinology
+NASH|Nonalcoholic steatohepatitis|Endocrinology
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Endocrinology
+MASH|Metabolic dysfunction-associated steatohepatitis|Endocrinology
+OSA|Obstructive sleep apnea|Endocrinology
+FLD|Fatty liver disease|Endocrinology
+NFS|NAFLD fibrosis score|Endocrinology
+FIB-4|Fibrosis-4 index|Endocrinology
+VCTE|Vibration-controlled transient elastography|Endocrinology
+ELF|Enhanced liver fibrosis test|Endocrinology
+HLD|Hyperlipidemia|Endocrinology
+HTG|Hypertriglyceridemia|Endocrinology
+HoFH|Homozygous familial hypercholesterolemia|Endocrinology
+HeFH|Heterozygous familial hypercholesterolemia|Endocrinology
+FCHL|Familial combined hyperlipidemia|Endocrinology
+FCS|Familial chylomicronemia syndrome|Endocrinology
+LDL|Low-density lipoprotein|Endocrinology
+LDL-C|Low-density lipoprotein cholesterol|Endocrinology
+HDL|High-density lipoprotein|Endocrinology
+HDL-C|High-density lipoprotein cholesterol|Endocrinology
+VLDL|Very low-density lipoprotein|Endocrinology
+IDL|Intermediate-density lipoprotein|Endocrinology
+TG|Triglycerides|Endocrinology
+non-HDL-C|Non-high-density lipoprotein cholesterol|Endocrinology
+Lp(a)|Lipoprotein(a)|Endocrinology
+apoB|Apolipoprotein B|Endocrinology
+ApoB|Apolipoprotein B|Endocrinology
+apoA1|Apolipoprotein A-I|Endocrinology
+apoE|Apolipoprotein E|Endocrinology
+apoC3|Apolipoprotein C-III|Endocrinology
+PCSK9|Proprotein convertase subtilisin/kexin type 9|Endocrinology
+PCSK9i|Proprotein convertase subtilisin/kexin type 9 inhibitor|Endocrinology
+CETP|Cholesteryl ester transfer protein|Endocrinology
+LPL|Lipoprotein lipase|Endocrinology
+LCAT|Lecithin-cholesterol acyltransferase|Endocrinology
+MTP|Microsomal triglyceride transfer protein|Endocrinology
+HMG-CoA|3-hydroxy-3-methylglutaryl coenzyme A|Endocrinology
+FFA|Free fatty acids|Endocrinology
+NEFA|Non-esterified fatty acids|Endocrinology
+CAC|Coronary artery calcium|Endocrinology
+CACS|Coronary artery calcium score|Endocrinology
+hsCRP|High-sensitivity C-reactive protein|Endocrinology
+CRP|C-reactive protein|Endocrinology
+LFT|Liver function tests|Endocrinology
+LFTs|Liver function tests|Endocrinology
+ALT|Alanine aminotransferase|Endocrinology
+AST|Aspartate aminotransferase|Endocrinology
+CK|Creatine kinase|Endocrinology
+CPK|Creatine phosphokinase|Endocrinology
+BMP|Basic metabolic panel|Endocrinology
+CMP|Comprehensive metabolic panel|Endocrinology
+CBC|Complete blood count|Endocrinology
+HCO3|Bicarbonate|Endocrinology
+AG|Anion gap|Endocrinology
+BUN|Blood urea nitrogen|Endocrinology
+Osm|Osmolality|Endocrinology
+SOsm|Serum osmolality|Endocrinology
+UOsm|Urine osmolality|Endocrinology
+UNa|Urine sodium|Endocrinology
+FeNa|Fractional excretion of sodium|Endocrinology
+FEUA|Fractional excretion of uric acid|Endocrinology
+TmP/GFR|Tubular maximum phosphate reabsorption per glomerular filtration rate|Endocrinology
+CCCR|Calcium-to-creatinine clearance ratio|Endocrinology
+24h Ca|24-hour urine calcium|Endocrinology
+HypoNa|Hyponatremia|Endocrinology
+HyperNa|Hypernatremia|Endocrinology
+HypoK|Hypokalemia|Endocrinology
+HyperK|Hyperkalemia|Endocrinology
+HypoCa|Hypocalcemia|Endocrinology
+HyperCa|Hypercalcemia|Endocrinology
+HypoMg|Hypomagnesemia|Endocrinology
+HypoP|Hypophosphatemia|Endocrinology
+HyperP|Hyperphosphatemia|Endocrinology
+RTA|Renal tubular acidosis|Endocrinology
+WDT|Water deprivation test|Endocrinology
+HST|Hypertonic saline test|Endocrinology
+ODS|Osmotic demyelination syndrome|Endocrinology
+NS|Normal saline|Endocrinology
+D5W|Dextrose 5% in water|Endocrinology
+D50|Dextrose 50%|Endocrinology
+D10|Dextrose 10%|Endocrinology
+D5NS|Dextrose 5% in normal saline|Endocrinology
+LR|Lactated Ringer solution|Endocrinology
+IVF|Intravenous fluids|Endocrinology
+IVI|Intravenous insulin infusion|Endocrinology
+VRII|Variable-rate intravenous insulin infusion|Endocrinology
+FRIII|Fixed-rate intravenous insulin infusion|Endocrinology
+GIK|Glucose-insulin-potassium|Endocrinology
+GKI|Glucose-potassium-insulin|Endocrinology
+TPN|Total parenteral nutrition|Endocrinology
+PN|Parenteral nutrition|Endocrinology
+NPO|Nothing by mouth|Endocrinology
+PEG|Percutaneous endoscopic gastrostomy|Endocrinology
+CVD|Cardiovascular disease|Endocrinology

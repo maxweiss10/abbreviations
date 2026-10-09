@@ -1,0 +1,700 @@
+AAA|Abdominal aortic aneurysm|Hospital Medicine
+ABG|Arterial blood gas|Hospital Medicine
+ABI|Ankle-brachial index|Hospital Medicine
+ABX|Antibiotics|Hospital Medicine
+ACEi|Angiotensin-converting enzyme inhibitor|Hospital Medicine
+ACS|Acute coronary syndrome|Hospital Medicine
+ADL|Activities of daily living|Hospital Medicine
+ADHF|Acute decompensated heart failure|Hospital Medicine
+AF|Atrial fibrillation|Hospital Medicine
+AFib|Atrial fibrillation|Hospital Medicine
+AFL|Atrial flutter|Hospital Medicine
+AG|Anion gap|Hospital Medicine
+AIN|Acute interstitial nephritis|Hospital Medicine
+AKI|Acute kidney injury|Hospital Medicine
+ALT|Alanine aminotransferase|Hospital Medicine
+AMA|Against medical advice|Hospital Medicine
+AMS|Altered mental status|Hospital Medicine
+ANA|Antinuclear antibody|Hospital Medicine
+ANC|Absolute neutrophil count|Hospital Medicine
+AoCKD|Acute on chronic kidney disease|Hospital Medicine
+AOCD|Anemia of chronic disease|Hospital Medicine
+AP|Anteroposterior|Hospital Medicine
+ARB|Angiotensin receptor blocker|Hospital Medicine
+ARDS|Acute respiratory distress syndrome|Hospital Medicine
+ARF|Acute renal failure|Hospital Medicine
+ARNI|Angiotensin receptor-neprilysin inhibitor|Hospital Medicine
+AST|Aspartate aminotransferase|Hospital Medicine
+ATN|Acute tubular necrosis|Hospital Medicine
+AVM|Arteriovenous malformation|Hospital Medicine
+AVR|Aortic valve replacement|Hospital Medicine
+AXR|Abdominal x-ray|Hospital Medicine
+BAL|Bronchoalveolar lavage|Hospital Medicine
+BCx|Blood culture|Hospital Medicine
+BID|Twice daily|Hospital Medicine
+BiPAP|Bilevel positive airway pressure|Hospital Medicine
+BKA|Below-knee amputation|Hospital Medicine
+BM|Bowel movement|Hospital Medicine
+BMI|Body mass index|Hospital Medicine
+BMP|Basic metabolic panel|Hospital Medicine
+BNP|B-type natriuretic peptide|Hospital Medicine
+BP|Blood pressure|Hospital Medicine
+BPH|Benign prostatic hyperplasia|Hospital Medicine
+BPM|Beats per minute|Hospital Medicine
+BRBPR|Bright red blood per rectum|Hospital Medicine
+BS|Breath sounds|Hospital Medicine
+BUN|Blood urea nitrogen|Hospital Medicine
+BUN/Cr|Blood urea nitrogen to creatinine ratio|Hospital Medicine
+CABG|Coronary artery bypass graft|Hospital Medicine
+CAD|Coronary artery disease|Hospital Medicine
+CAM|Confusion assessment method|Hospital Medicine
+CAP|Community-acquired pneumonia|Hospital Medicine
+CBC|Complete blood count|Hospital Medicine
+CBD|Common bile duct|Hospital Medicine
+CBI|Continuous bladder irrigation|Hospital Medicine
+CC|Chief complaint|Hospital Medicine
+CCB|Calcium channel blocker|Hospital Medicine
+CCU|Cardiac care unit|Hospital Medicine
+CDI|Clostridioides difficile infection|Hospital Medicine
+CHF|Congestive heart failure|Hospital Medicine
+CHA2DS2-VASc|Stroke risk score for atrial fibrillation|Hospital Medicine
+CIWA|Clinical institute withdrawal assessment for alcohol|Hospital Medicine
+CK|Creatine kinase|Hospital Medicine
+CKD|Chronic kidney disease|Hospital Medicine
+CLABSI|Central line-associated bloodstream infection|Hospital Medicine
+CM|Contrast media|Hospital Medicine
+CMP|Comprehensive metabolic panel|Hospital Medicine
+CMV|Cytomegalovirus|Hospital Medicine
+CN|Cranial nerve|Hospital Medicine
+CO|Cardiac output|Hospital Medicine
+CO2|Carbon dioxide|Hospital Medicine
+COPD|Chronic obstructive pulmonary disease|Hospital Medicine
+COWS|Clinical opiate withdrawal scale|Hospital Medicine
+CP|Chest pain|Hospital Medicine
+CPAP|Continuous positive airway pressure|Hospital Medicine
+CPR|Cardiopulmonary resuscitation|Hospital Medicine
+CRP|C-reactive protein|Hospital Medicine
+CRRT|Continuous renal replacement therapy|Hospital Medicine
+CSF|Cerebrospinal fluid|Hospital Medicine
+CT|Computed tomography|Hospital Medicine
+CTA|Computed tomography angiography|Hospital Medicine
+CTA|Clear to auscultation|Hospital Medicine
+CTAB|Clear to auscultation bilaterally|Hospital Medicine
+CTH|Computed tomography of the head|Hospital Medicine
+CTPA|Computed tomography pulmonary angiogram|Hospital Medicine
+CVA|Cerebrovascular accident|Hospital Medicine
+CVAT|Costovertebral angle tenderness|Hospital Medicine
+CVC|Central venous catheter|Hospital Medicine
+CVP|Central venous pressure|Hospital Medicine
+CXR|Chest x-ray|Hospital Medicine
+D/C|Discharge or discontinue|Hospital Medicine
+D5W|Dextrose 5 percent in water|Hospital Medicine
+DAPT|Dual antiplatelet therapy|Hospital Medicine
+DDx|Differential diagnosis|Hospital Medicine
+DIC|Disseminated intravascular coagulation|Hospital Medicine
+DKA|Diabetic ketoacidosis|Hospital Medicine
+DM|Diabetes mellitus|Hospital Medicine
+DM2|Type 2 diabetes mellitus|Hospital Medicine
+DNI|Do not intubate|Hospital Medicine
+DNR|Do not resuscitate|Hospital Medicine
+DOAC|Direct oral anticoagulant|Hospital Medicine
+DOE|Dyspnea on exertion|Hospital Medicine
+DPP-4|Dipeptidyl peptidase-4|Hospital Medicine
+DRE|Digital rectal exam|Hospital Medicine
+DTs|Delirium tremens|Hospital Medicine
+DVT|Deep vein thrombosis|Hospital Medicine
+EBL|Estimated blood loss|Hospital Medicine
+ECG|Electrocardiogram|Hospital Medicine
+EKG|Electrocardiogram|Hospital Medicine
+ED|Emergency department|Hospital Medicine
+EEG|Electroencephalogram|Hospital Medicine
+EF|Ejection fraction|Hospital Medicine
+EGD|Esophagogastroduodenoscopy|Hospital Medicine
+EMG|Electromyography|Hospital Medicine
+ENT|Ear, nose and throat|Hospital Medicine
+EOL|End of life|Hospital Medicine
+EPS|Extrapyramidal symptoms|Hospital Medicine
+ER|Emergency room|Hospital Medicine
+ERCP|Endoscopic retrograde cholangiopancreatography|Hospital Medicine
+ESBL|Extended-spectrum beta-lactamase|Hospital Medicine
+ESR|Erythrocyte sedimentation rate|Hospital Medicine
+ESRD|End-stage renal disease|Hospital Medicine
+ETOH|Alcohol (ethanol)|Hospital Medicine
+ETT|Endotracheal tube|Hospital Medicine
+EtOH|Alcohol (ethanol)|Hospital Medicine
+EUS|Endoscopic ultrasound|Hospital Medicine
+EVD|External ventricular drain|Hospital Medicine
+FBS|Fasting blood sugar|Hospital Medicine
+FEV1|Forced expiratory volume in one second|Hospital Medicine
+FFP|Fresh frozen plasma|Hospital Medicine
+FiO2|Fraction of inspired oxygen|Hospital Medicine
+FNA|Fine needle aspiration|Hospital Medicine
+FOBT|Fecal occult blood test|Hospital Medicine
+FSBG|Fingerstick blood glucose|Hospital Medicine
+FTT|Failure to thrive|Hospital Medicine
+FUO|Fever of unknown origin|Hospital Medicine
+FVC|Forced vital capacity|Hospital Medicine
+GB|Gallbladder|Hospital Medicine
+GBS|Group B streptococcus|Hospital Medicine
+GCS|Glasgow coma scale|Hospital Medicine
+GDMT|Guideline-directed medical therapy|Hospital Medicine
+GERD|Gastroesophageal reflux disease|Hospital Medicine
+GFR|Glomerular filtration rate|Hospital Medicine
+GI|Gastrointestinal|Hospital Medicine
+GIB|Gastrointestinal bleed|Hospital Medicine
+GLP-1|Glucagon-like peptide-1|Hospital Medicine
+GOC|Goals of care|Hospital Medicine
+GTT|Drip (continuous infusion)|Hospital Medicine
+GU|Genitourinary|Hospital Medicine
+HA|Headache|Hospital Medicine
+HAP|Hospital-acquired pneumonia|Hospital Medicine
+HbA1c|Glycated hemoglobin|Hospital Medicine
+HBV|Hepatitis B virus|Hospital Medicine
+HCAP|Healthcare-associated pneumonia|Hospital Medicine
+HCC|Hepatocellular carcinoma|Hospital Medicine
+HCT|Hematocrit|Hospital Medicine
+HCV|Hepatitis C virus|Hospital Medicine
+HD|Hemodialysis|Hospital Medicine
+HEENT|Head, eyes, ears, nose and throat|Hospital Medicine
+HF|Heart failure|Hospital Medicine
+HFpEF|Heart failure with preserved ejection fraction|Hospital Medicine
+HFrEF|Heart failure with reduced ejection fraction|Hospital Medicine
+HHS|Hyperosmolar hyperglycemic state|Hospital Medicine
+HIT|Heparin-induced thrombocytopenia|Hospital Medicine
+HIV|Human immunodeficiency virus|Hospital Medicine
+HJR|Hepatojugular reflux|Hospital Medicine
+HLD|Hyperlipidemia|Hospital Medicine
+HPI|History of present illness|Hospital Medicine
+HR|Heart rate|Hospital Medicine
+HRT|Hormone replacement therapy|Hospital Medicine
+HSV|Herpes simplex virus|Hospital Medicine
+HTN|Hypertension|Hospital Medicine
+HUS|Hemolytic uremic syndrome|Hospital Medicine
+IABP|Intra-aortic balloon pump|Hospital Medicine
+IBD|Inflammatory bowel disease|Hospital Medicine
+IBS|Irritable bowel syndrome|Hospital Medicine
+ICH|Intracranial hemorrhage|Hospital Medicine
+ICP|Intracranial pressure|Hospital Medicine
+ICU|Intensive care unit|Hospital Medicine
+ID|Infectious disease|Hospital Medicine
+IDDM|Insulin-dependent diabetes mellitus|Hospital Medicine
+IJ|Internal jugular|Hospital Medicine
+IM|Intramuscular|Hospital Medicine
+INR|International normalized ratio|Hospital Medicine
+I&D|Incision and drainage|Hospital Medicine
+I/O|Intake and output|Hospital Medicine
+I&O|Intake and output|Hospital Medicine
+IO|Intraosseous|Hospital Medicine
+IPF|Idiopathic pulmonary fibrosis|Hospital Medicine
+IR|Interventional radiology|Hospital Medicine
+ISS|Insulin sliding scale|Hospital Medicine
+ITP|Immune thrombocytopenia|Hospital Medicine
+IV|Intravenous|Hospital Medicine
+IVC|Inferior vena cava|Hospital Medicine
+IVDU|Intravenous drug use|Hospital Medicine
+IVF|Intravenous fluids|Hospital Medicine
+IVIG|Intravenous immunoglobulin|Hospital Medicine
+IVP|Intravenous push|Hospital Medicine
+JVD|Jugular venous distension|Hospital Medicine
+JVP|Jugular venous pressure|Hospital Medicine
+KUB|Kidneys, ureters and bladder x-ray|Hospital Medicine
+LAD|Lymphadenopathy|Hospital Medicine
+LAD|Left anterior descending artery|Hospital Medicine
+LBBB|Left bundle branch block|Hospital Medicine
+LDH|Lactate dehydrogenase|Hospital Medicine
+LDL|Low-density lipoprotein|Hospital Medicine
+LE|Lower extremity|Hospital Medicine
+LES|Lower esophageal sphincter|Hospital Medicine
+LFT|Liver function test|Hospital Medicine
+LGIB|Lower gastrointestinal bleed|Hospital Medicine
+LH|Luteinizing hormone|Hospital Medicine
+LLE|Left lower extremity|Hospital Medicine
+LLQ|Left lower quadrant|Hospital Medicine
+LLL|Left lower lobe|Hospital Medicine
+LMWH|Low molecular weight heparin|Hospital Medicine
+LOC|Loss of consciousness|Hospital Medicine
+LOS|Length of stay|Hospital Medicine
+LP|Lumbar puncture|Hospital Medicine
+LR|Lactated Ringer's|Hospital Medicine
+LUE|Left upper extremity|Hospital Medicine
+LUQ|Left upper quadrant|Hospital Medicine
+LVEF|Left ventricular ejection fraction|Hospital Medicine
+LVH|Left ventricular hypertrophy|Hospital Medicine
+LTAC|Long-term acute care|Hospital Medicine
+LTC|Long-term care|Hospital Medicine
+MAP|Mean arterial pressure|Hospital Medicine
+MAT|Multifocal atrial tachycardia|Hospital Medicine
+MCH|Mean corpuscular hemoglobin|Hospital Medicine
+MCHC|Mean corpuscular hemoglobin concentration|Hospital Medicine
+MCV|Mean corpuscular volume|Hospital Medicine
+MDR|Multidrug-resistant|Hospital Medicine
+MELD|Model for end-stage liver disease|Hospital Medicine
+MI|Myocardial infarction|Hospital Medicine
+MM|Multiple myeloma|Hospital Medicine
+MOF|Multiorgan failure|Hospital Medicine
+MR|Mitral regurgitation|Hospital Medicine
+MRA|Magnetic resonance angiography|Hospital Medicine
+MRCP|Magnetic resonance cholangiopancreatography|Hospital Medicine
+MRI|Magnetic resonance imaging|Hospital Medicine
+MRSA|Methicillin-resistant Staphylococcus aureus|Hospital Medicine
+MSSA|Methicillin-sensitive Staphylococcus aureus|Hospital Medicine
+MV|Mechanical ventilation|Hospital Medicine
+MVA|Motor vehicle accident|Hospital Medicine
+MVC|Motor vehicle collision|Hospital Medicine
+N/V|Nausea and vomiting|Hospital Medicine
+NAD|No acute distress|Hospital Medicine
+NAGMA|Non-anion gap metabolic acidosis|Hospital Medicine
+NASH|Nonalcoholic steatohepatitis|Hospital Medicine
+NC|Nasal cannula|Hospital Medicine
+NG|Nasogastric|Hospital Medicine
+NGT|Nasogastric tube|Hospital Medicine
+NHL|Non-Hodgkin lymphoma|Hospital Medicine
+NIDDM|Non-insulin-dependent diabetes mellitus|Hospital Medicine
+NIPPV|Noninvasive positive pressure ventilation|Hospital Medicine
+NKA|No known allergies|Hospital Medicine
+NKDA|No known drug allergies|Hospital Medicine
+NPO|Nothing by mouth|Hospital Medicine
+NPH|Neutral protamine Hagedorn insulin|Hospital Medicine
+NRB|Non-rebreather mask|Hospital Medicine
+NS|Normal saline|Hospital Medicine
+NSAID|Nonsteroidal anti-inflammatory drug|Hospital Medicine
+NSCLC|Non-small cell lung cancer|Hospital Medicine
+NSR|Normal sinus rhythm|Hospital Medicine
+NSTEMI|Non-ST-elevation myocardial infarction|Hospital Medicine
+NTG|Nitroglycerin|Hospital Medicine
+OCP|Oral contraceptive pill|Hospital Medicine
+OHS|Obesity hypoventilation syndrome|Hospital Medicine
+OOB|Out of bed|Hospital Medicine
+OR|Operating room|Hospital Medicine
+ORIF|Open reduction and internal fixation|Hospital Medicine
+OSA|Obstructive sleep apnea|Hospital Medicine
+OT|Occupational therapy|Hospital Medicine
+OTC|Over the counter|Hospital Medicine
+PA|Posteroanterior|Hospital Medicine
+PAD|Peripheral artery disease|Hospital Medicine
+PAF|Paroxysmal atrial fibrillation|Hospital Medicine
+PCI|Percutaneous coronary intervention|Hospital Medicine
+PCN|Penicillin|Hospital Medicine
+PCO2|Partial pressure of carbon dioxide|Hospital Medicine
+PCP|Primary care provider|Hospital Medicine
+PCP|Pneumocystis pneumonia|Hospital Medicine
+PCR|Polymerase chain reaction|Hospital Medicine
+PCWP|Pulmonary capillary wedge pressure|Hospital Medicine
+PE|Pulmonary embolism|Hospital Medicine
+PEA|Pulseless electrical activity|Hospital Medicine
+PEEP|Positive end-expiratory pressure|Hospital Medicine
+PEG|Percutaneous endoscopic gastrostomy|Hospital Medicine
+PERRL|Pupils equal, round and reactive to light|Hospital Medicine
+PERRLA|Pupils equal, round, reactive to light and accommodation|Hospital Medicine
+PFT|Pulmonary function test|Hospital Medicine
+PICC|Peripherally inserted central catheter|Hospital Medicine
+PID|Pelvic inflammatory disease|Hospital Medicine
+PMH|Past medical history|Hospital Medicine
+PN|Pyelonephritis|Hospital Medicine
+PNA|Pneumonia|Hospital Medicine
+PND|Paroxysmal nocturnal dyspnea|Hospital Medicine
+PO|By mouth|Hospital Medicine
+PO2|Partial pressure of oxygen|Hospital Medicine
+POC|Point of care|Hospital Medicine
+POD|Postoperative day|Hospital Medicine
+PPD|Purified protein derivative|Hospital Medicine
+PPI|Proton pump inhibitor|Hospital Medicine
+PR|Per rectum|Hospital Medicine
+PRBC|Packed red blood cells|Hospital Medicine
+PRN|As needed|Hospital Medicine
+PSA|Prostate-specific antigen|Hospital Medicine
+PSH|Past surgical history|Hospital Medicine
+PT|Physical therapy|Hospital Medicine
+PT|Prothrombin time|Hospital Medicine
+PTT|Partial thromboplastin time|Hospital Medicine
+PUD|Peptic ulcer disease|Hospital Medicine
+PVD|Peripheral vascular disease|Hospital Medicine
+PVC|Premature ventricular contraction|Hospital Medicine
+Q4H|Every 4 hours|Hospital Medicine
+Q6H|Every 6 hours|Hospital Medicine
+Q8H|Every 8 hours|Hospital Medicine
+Q12H|Every 12 hours|Hospital Medicine
+QD|Every day|Hospital Medicine
+QHS|Every night at bedtime|Hospital Medicine
+QID|Four times daily|Hospital Medicine
+QOD|Every other day|Hospital Medicine
+qSOFA|Quick sequential organ failure assessment|Hospital Medicine
+RA|Room air|Hospital Medicine
+RA|Rheumatoid arthritis|Hospital Medicine
+RBBB|Right bundle branch block|Hospital Medicine
+RBC|Red blood cell|Hospital Medicine
+RCA|Right coronary artery|Hospital Medicine
+RDW|Red cell distribution width|Hospital Medicine
+REM|Rapid eye movement|Hospital Medicine
+RLE|Right lower extremity|Hospital Medicine
+RLL|Right lower lobe|Hospital Medicine
+RLQ|Right lower quadrant|Hospital Medicine
+RML|Right middle lobe|Hospital Medicine
+ROM|Range of motion|Hospital Medicine
+ROS|Review of systems|Hospital Medicine
+RR|Respiratory rate|Hospital Medicine
+RRT|Rapid response team|Hospital Medicine
+RSI|Rapid sequence intubation|Hospital Medicine
+RT|Respiratory therapy|Hospital Medicine
+RUE|Right upper extremity|Hospital Medicine
+RUL|Right upper lobe|Hospital Medicine
+RUQ|Right upper quadrant|Hospital Medicine
+RVR|Rapid ventricular response|Hospital Medicine
+SaO2|Arterial oxygen saturation|Hospital Medicine
+SAH|Subarachnoid hemorrhage|Hospital Medicine
+SBO|Small bowel obstruction|Hospital Medicine
+SBP|Systolic blood pressure|Hospital Medicine
+SBP|Spontaneous bacterial peritonitis|Hospital Medicine
+SC|Subcutaneous|Hospital Medicine
+SCD|Sequential compression device|Hospital Medicine
+SCLC|Small cell lung cancer|Hospital Medicine
+SDH|Subdural hematoma|Hospital Medicine
+SGLT2|Sodium-glucose cotransporter-2|Hospital Medicine
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Hospital Medicine
+SICU|Surgical intensive care unit|Hospital Medicine
+SIRS|Systemic inflammatory response syndrome|Hospital Medicine
+SL|Sublingual|Hospital Medicine
+SLE|Systemic lupus erythematosus|Hospital Medicine
+SNF|Skilled nursing facility|Hospital Medicine
+SOB|Shortness of breath|Hospital Medicine
+SOBOE|Shortness of breath on exertion|Hospital Medicine
+SOFA|Sequential organ failure assessment|Hospital Medicine
+SpO2|Peripheral oxygen saturation|Hospital Medicine
+SQ|Subcutaneous|Hospital Medicine
+SSI|Surgical site infection|Hospital Medicine
+SSRI|Selective serotonin reuptake inhibitor|Hospital Medicine
+SSTI|Skin and soft tissue infection|Hospital Medicine
+STAT|Immediately|Hospital Medicine
+STEMI|ST-elevation myocardial infarction|Hospital Medicine
+STI|Sexually transmitted infection|Hospital Medicine
+SVC|Superior vena cava|Hospital Medicine
+SVR|Systemic vascular resistance|Hospital Medicine
+SVT|Supraventricular tachycardia|Hospital Medicine
+T&C|Type and crossmatch|Hospital Medicine
+T&S|Type and screen|Hospital Medicine
+TB|Tuberculosis|Hospital Medicine
+TBI|Traumatic brain injury|Hospital Medicine
+TBW|Total body water|Hospital Medicine
+TCA|Tricyclic antidepressant|Hospital Medicine
+TEE|Transesophageal echocardiogram|Hospital Medicine
+TFTs|Thyroid function tests|Hospital Medicine
+TIA|Transient ischemic attack|Hospital Medicine
+TIBC|Total iron-binding capacity|Hospital Medicine
+TID|Three times daily|Hospital Medicine
+TIPS|Transjugular intrahepatic portosystemic shunt|Hospital Medicine
+TKO|To keep open|Hospital Medicine
+TLS|Tumor lysis syndrome|Hospital Medicine
+TM|Tympanic membrane|Hospital Medicine
+TNF|Tumor necrosis factor|Hospital Medicine
+TPA|Tissue plasminogen activator|Hospital Medicine
+TPN|Total parenteral nutrition|Hospital Medicine
+TSH|Thyroid-stimulating hormone|Hospital Medicine
+TTE|Transthoracic echocardiogram|Hospital Medicine
+TTP|Thrombotic thrombocytopenic purpura|Hospital Medicine
+TURP|Transurethral resection of the prostate|Hospital Medicine
+TV|Tidal volume|Hospital Medicine
+TX|Treatment|Hospital Medicine
+UA|Urinalysis|Hospital Medicine
+UC|Ulcerative colitis|Hospital Medicine
+UCx|Urine culture|Hospital Medicine
+UE|Upper extremity|Hospital Medicine
+UFH|Unfractionated heparin|Hospital Medicine
+UGIB|Upper gastrointestinal bleed|Hospital Medicine
+UOP|Urine output|Hospital Medicine
+URI|Upper respiratory infection|Hospital Medicine
+US|Ultrasound|Hospital Medicine
+UTI|Urinary tract infection|Hospital Medicine
+VAP|Ventilator-associated pneumonia|Hospital Medicine
+VBG|Venous blood gas|Hospital Medicine
+VF|Ventricular fibrillation|Hospital Medicine
+VRE|Vancomycin-resistant Enterococcus|Hospital Medicine
+VS|Vital signs|Hospital Medicine
+VT|Ventricular tachycardia|Hospital Medicine
+VTE|Venous thromboembolism|Hospital Medicine
+V/Q|Ventilation-perfusion|Hospital Medicine
+WBC|White blood cell|Hospital Medicine
+WNL|Within normal limits|Hospital Medicine
+w/u|Workup|Hospital Medicine
+YO|Years old|Hospital Medicine
+y/o|Years old|Hospital Medicine
+AAOx3|Awake, alert and oriented to person, place and time|Hospital Medicine
+A&Ox3|Alert and oriented to person, place and time|Hospital Medicine
+AAT|Alpha-1 antitrypsin|Hospital Medicine
+ABPA|Allergic bronchopulmonary aspergillosis|Hospital Medicine
+ACLS|Advanced cardiac life support|Hospital Medicine
+ACT|Activated clotting time|Hospital Medicine
+AD|Alzheimer disease|Hospital Medicine
+AED|Automated external defibrillator|Hospital Medicine
+AFP|Alpha-fetoprotein|Hospital Medicine
+AIH|Autoimmune hepatitis|Hospital Medicine
+ALI|Acute lung injury|Hospital Medicine
+ALP|Alkaline phosphatase|Hospital Medicine
+ALS|Amyotrophic lateral sclerosis|Hospital Medicine
+AML|Acute myeloid leukemia|Hospital Medicine
+ALL|Acute lymphoblastic leukemia|Hospital Medicine
+AMI|Acute myocardial infarction|Hospital Medicine
+ANCA|Antineutrophil cytoplasmic antibody|Hospital Medicine
+AOM|Acute otitis media|Hospital Medicine
+APAP|Acetaminophen|Hospital Medicine
+aPTT|Activated partial thromboplastin time|Hospital Medicine
+AR|Aortic regurgitation|Hospital Medicine
+AS|Aortic stenosis|Hospital Medicine
+ASCVD|Atherosclerotic cardiovascular disease|Hospital Medicine
+ASD|Atrial septal defect|Hospital Medicine
+ASO|Antistreptolysin O|Hospital Medicine
+AV|Atrioventricular|Hospital Medicine
+AVN|Avascular necrosis|Hospital Medicine
+BAV|Bicuspid aortic valve|Hospital Medicine
+BCC|Basal cell carcinoma|Hospital Medicine
+BMT|Bone marrow transplant|Hospital Medicine
+BNP|N-terminal pro-B-type natriuretic peptide|Hospital Medicine
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Hospital Medicine
+BPPV|Benign paroxysmal positional vertigo|Hospital Medicine
+BSA|Body surface area|Hospital Medicine
+BUE|Bilateral upper extremities|Hospital Medicine
+BLE|Bilateral lower extremities|Hospital Medicine
+CA|Cancer|Hospital Medicine
+CAUTI|Catheter-associated urinary tract infection|Hospital Medicine
+CBC w/ diff|Complete blood count with differential|Hospital Medicine
+CCUA|Clean-catch urinalysis|Hospital Medicine
+CEA|Carcinoembryonic antigen|Hospital Medicine
+CHB|Complete heart block|Hospital Medicine
+CIN|Contrast-induced nephropathy|Hospital Medicine
+CLL|Chronic lymphocytic leukemia|Hospital Medicine
+CML|Chronic myeloid leukemia|Hospital Medicine
+CMT|Cervical motion tenderness|Hospital Medicine
+CNS|Central nervous system|Hospital Medicine
+COP|Cryptogenic organizing pneumonia|Hospital Medicine
+CPK|Creatine phosphokinase|Hospital Medicine
+CRAO|Central retinal artery occlusion|Hospital Medicine
+CRC|Colorectal cancer|Hospital Medicine
+CRE|Carbapenem-resistant Enterobacterales|Hospital Medicine
+CRS|Cytokine release syndrome|Hospital Medicine
+CS|Cesarean section|Hospital Medicine
+CT-A/P|Computed tomography of abdomen and pelvis|Hospital Medicine
+CTD|Connective tissue disease|Hospital Medicine
+CVID|Common variable immunodeficiency|Hospital Medicine
+CVS|Cardiovascular system|Hospital Medicine
+DC|Discontinue|Hospital Medicine
+DCIS|Ductal carcinoma in situ|Hospital Medicine
+DI|Diabetes insipidus|Hospital Medicine
+DIP|Distal interphalangeal|Hospital Medicine
+DJD|Degenerative joint disease|Hospital Medicine
+DLBCL|Diffuse large B-cell lymphoma|Hospital Medicine
+DMII|Type 2 diabetes mellitus|Hospital Medicine
+DNR/DNI|Do not resuscitate and do not intubate|Hospital Medicine
+DPI|Dry powder inhaler|Hospital Medicine
+DRG|Diagnosis-related group|Hospital Medicine
+DT|Delirium tremens|Hospital Medicine
+DTR|Deep tendon reflex|Hospital Medicine
+DUB|Dysfunctional uterine bleeding|Hospital Medicine
+DWI|Diffusion-weighted imaging|Hospital Medicine
+EBV|Epstein-Barr virus|Hospital Medicine
+ECMO|Extracorporeal membrane oxygenation|Hospital Medicine
+ECHO|Echocardiogram|Hospital Medicine
+EGFR|Estimated glomerular filtration rate|Hospital Medicine
+EMR|Electronic medical record|Hospital Medicine
+EOM|Extraocular movements|Hospital Medicine
+EOMI|Extraocular movements intact|Hospital Medicine
+EPO|Erythropoietin|Hospital Medicine
+ESA|Erythropoiesis-stimulating agent|Hospital Medicine
+ESLD|End-stage liver disease|Hospital Medicine
+ETT|Exercise tolerance test|Hospital Medicine
+EVAR|Endovascular aneurysm repair|Hospital Medicine
+FAST|Focused assessment with sonography for trauma|Hospital Medicine
+FB|Foreign body|Hospital Medicine
+FDP|Fibrin degradation product|Hospital Medicine
+FeNa|Fractional excretion of sodium|Hospital Medicine
+FeUrea|Fractional excretion of urea|Hospital Medicine
+FH|Family history|Hospital Medicine
+FHx|Family history|Hospital Medicine
+FLP|Fasting lipid panel|Hospital Medicine
+FOOSH|Fall on outstretched hand|Hospital Medicine
+FSH|Follicle-stimulating hormone|Hospital Medicine
+FT4|Free thyroxine|Hospital Medicine
+GAD|Generalized anxiety disorder|Hospital Medicine
+GBM|Glioblastoma multiforme|Hospital Medicine
+GCA|Giant cell arteritis|Hospital Medicine
+GGT|Gamma-glutamyl transferase|Hospital Medicine
+GH|Growth hormone|Hospital Medicine
+GN|Glomerulonephritis|Hospital Medicine
+GOO|Gastric outlet obstruction|Hospital Medicine
+GPC|Gram-positive cocci|Hospital Medicine
+GNR|Gram-negative rods|Hospital Medicine
+GNC|Gram-negative cocci|Hospital Medicine
+GPR|Gram-positive rods|Hospital Medicine
+GSW|Gunshot wound|Hospital Medicine
+GVHD|Graft-versus-host disease|Hospital Medicine
+H&P|History and physical|Hospital Medicine
+HAV|Hepatitis A virus|Hospital Medicine
+HCO3|Bicarbonate|Hospital Medicine
+HCTZ|Hydrochlorothiazide|Hospital Medicine
+HE|Hepatic encephalopathy|Hospital Medicine
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Hospital Medicine
+HFNC|High-flow nasal cannula|Hospital Medicine
+HgbA1c|Glycated hemoglobin|Hospital Medicine
+HIDA|Hepatobiliary iminodiacetic acid scan|Hospital Medicine
+HOCM|Hypertrophic obstructive cardiomyopathy|Hospital Medicine
+HPV|Human papillomavirus|Hospital Medicine
+HRS|Hepatorenal syndrome|Hospital Medicine
+HS|At bedtime|Hospital Medicine
+HTLV|Human T-lymphotropic virus|Hospital Medicine
+IBW|Ideal body weight|Hospital Medicine
+ICS|Inhaled corticosteroid|Hospital Medicine
+IE|Infective endocarditis|Hospital Medicine
+IgA|Immunoglobulin A|Hospital Medicine
+IgG|Immunoglobulin G|Hospital Medicine
+IgM|Immunoglobulin M|Hospital Medicine
+ILD|Interstitial lung disease|Hospital Medicine
+IMV|Invasive mechanical ventilation|Hospital Medicine
+INH|Isoniazid|Hospital Medicine
+IOP|Intraocular pressure|Hospital Medicine
+IPPV|Intermittent positive pressure ventilation|Hospital Medicine
+IUD|Intrauterine device|Hospital Medicine
+IVCD|Intraventricular conduction delay|Hospital Medicine
+IVH|Intraventricular hemorrhage|Hospital Medicine
+IVPB|Intravenous piggyback|Hospital Medicine
+KCl|Potassium chloride|Hospital Medicine
+KVO|Keep vein open|Hospital Medicine
+LABA|Long-acting beta agonist|Hospital Medicine
+LAMA|Long-acting muscarinic antagonist|Hospital Medicine
+LBP|Low back pain|Hospital Medicine
+LCx|Left circumflex artery|Hospital Medicine
+LDA|Lines, drains and airways|Hospital Medicine
+LE edema|Lower extremity edema|Hospital Medicine
+LFTs|Liver function tests|Hospital Medicine
+LKW|Last known well|Hospital Medicine
+LMP|Last menstrual period|Hospital Medicine
+LN|Lymph node|Hospital Medicine
+LOA|Loss of appetite|Hospital Medicine
+LTBI|Latent tuberculosis infection|Hospital Medicine
+LV|Left ventricle|Hospital Medicine
+LVAD|Left ventricular assist device|Hospital Medicine
+LVOT|Left ventricular outflow tract|Hospital Medicine
+MAC|Mycobacterium avium complex|Hospital Medicine
+MAO|Monoamine oxidase|Hospital Medicine
+MAOI|Monoamine oxidase inhibitor|Hospital Medicine
+MCA|Middle cerebral artery|Hospital Medicine
+MDS|Myelodysplastic syndrome|Hospital Medicine
+MG|Myasthenia gravis|Hospital Medicine
+MGUS|Monoclonal gammopathy of undetermined significance|Hospital Medicine
+MIVF|Maintenance intravenous fluids|Hospital Medicine
+MODS|Multiple organ dysfunction syndrome|Hospital Medicine
+MS|Multiple sclerosis|Hospital Medicine
+MS|Mitral stenosis|Hospital Medicine
+MSK|Musculoskeletal|Hospital Medicine
+MTX|Methotrexate|Hospital Medicine
+MVP|Mitral valve prolapse|Hospital Medicine
+NAAT|Nucleic acid amplification test|Hospital Medicine
+NCCT|Non-contrast computed tomography|Hospital Medicine
+NCHCT|Non-contrast head computed tomography|Hospital Medicine
+NEC|Necrotizing enterocolitis|Hospital Medicine
+NF|Necrotizing fasciitis|Hospital Medicine
+NMS|Neuroleptic malignant syndrome|Hospital Medicine
+NNT|Number needed to treat|Hospital Medicine
+NOAC|Novel oral anticoagulant|Hospital Medicine
+NP|Nurse practitioner|Hospital Medicine
+NPPV|Noninvasive positive pressure ventilation|Hospital Medicine
+NTM|Nontuberculous mycobacteria|Hospital Medicine
+O2|Oxygen|Hospital Medicine
+O2 sat|Oxygen saturation|Hospital Medicine
+OD|Right eye|Hospital Medicine
+OM|Osteomyelitis|Hospital Medicine
+ON|Optic neuritis|Hospital Medicine
+OS|Left eye|Hospital Medicine
+OU|Both eyes|Hospital Medicine
+P/F ratio|Ratio of arterial oxygen to inspired oxygen fraction|Hospital Medicine
+PAC|Premature atrial contraction|Hospital Medicine
+PACU|Post-anesthesia care unit|Hospital Medicine
+PAH|Pulmonary arterial hypertension|Hospital Medicine
+PAP|Pulmonary artery pressure|Hospital Medicine
+PBC|Primary biliary cholangitis|Hospital Medicine
+PCA|Patient-controlled analgesia|Hospital Medicine
+PCC|Prothrombin complex concentrate|Hospital Medicine
+PCKD|Polycystic kidney disease|Hospital Medicine
+PDA|Patent ductus arteriosus|Hospital Medicine
+PE|Physical exam|Hospital Medicine
+PEFR|Peak expiratory flow rate|Hospital Medicine
+PFO|Patent foramen ovale|Hospital Medicine
+PH|Pulmonary hypertension|Hospital Medicine
+PHx|Past history|Hospital Medicine
+PIP|Proximal interphalangeal|Hospital Medicine
+PJP|Pneumocystis jirovecii pneumonia|Hospital Medicine
+PLT|Platelets|Hospital Medicine
+PMR|Polymyalgia rheumatica|Hospital Medicine
+PNH|Paroxysmal nocturnal hemoglobinuria|Hospital Medicine
+PNI|Peripheral nerve injury|Hospital Medicine
+POTS|Postural orthostatic tachycardia syndrome|Hospital Medicine
+PPM|Permanent pacemaker|Hospital Medicine
+PPN|Peripheral parenteral nutrition|Hospital Medicine
+PRES|Posterior reversible encephalopathy syndrome|Hospital Medicine
+PRN|As needed medications|Hospital Medicine
+PSC|Primary sclerosing cholangitis|Hospital Medicine
+PSVT|Paroxysmal supraventricular tachycardia|Hospital Medicine
+PTA|Prior to admission|Hospital Medicine
+PTH|Parathyroid hormone|Hospital Medicine
+PTSD|Post-traumatic stress disorder|Hospital Medicine
+PTX|Pneumothorax|Hospital Medicine
+PV|Per vagina|Hospital Medicine
+PVR|Pulmonary vascular resistance|Hospital Medicine
+QTc|Corrected QT interval|Hospital Medicine
+RAS|Renal artery stenosis|Hospital Medicine
+RBC|Red blood cell count|Hospital Medicine
+RCRI|Revised cardiac risk index|Hospital Medicine
+RF|Rheumatoid factor|Hospital Medicine
+RHD|Rheumatic heart disease|Hospital Medicine
+RIJ|Right internal jugular|Hospital Medicine
+RLS|Restless legs syndrome|Hospital Medicine
+RN|Registered nurse|Hospital Medicine
+RPR|Rapid plasma reagin|Hospital Medicine
+RSV|Respiratory syncytial virus|Hospital Medicine
+RTA|Renal tubular acidosis|Hospital Medicine
+RV|Right ventricle|Hospital Medicine
+RVH|Right ventricular hypertrophy|Hospital Medicine
+RVSP|Right ventricular systolic pressure|Hospital Medicine
+S1|First heart sound|Hospital Medicine
+S2|Second heart sound|Hospital Medicine
+S3|Third heart sound|Hospital Medicine
+S4|Fourth heart sound|Hospital Medicine
+SAAG|Serum-ascites albumin gradient|Hospital Medicine
+SABA|Short-acting beta agonist|Hospital Medicine
+SAMA|Short-acting muscarinic antagonist|Hospital Medicine
+SAT|Spontaneous awakening trial|Hospital Medicine
+SBT|Spontaneous breathing trial|Hospital Medicine
+SCC|Squamous cell carcinoma|Hospital Medicine
+SCr|Serum creatinine|Hospital Medicine
+SD|Standard deviation|Hospital Medicine
+SE|Side effect|Hospital Medicine
+SIMV|Synchronized intermittent mandatory ventilation|Hospital Medicine
+SLP|Speech-language pathologist|Hospital Medicine
+SMA|Superior mesenteric artery|Hospital Medicine
+SMV|Superior mesenteric vein|Hospital Medicine
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Hospital Medicine
+SOAP|Subjective, objective, assessment and plan|Hospital Medicine
+SpO2/FiO2|Ratio of oxygen saturation to inspired oxygen fraction|Hospital Medicine
+SR|Sinus rhythm|Hospital Medicine
+SSS|Sick sinus syndrome|Hospital Medicine
+ST|Sinus tachycardia|Hospital Medicine
+STD|Sexually transmitted disease|Hospital Medicine
+SUP|Stress ulcer prophylaxis|Hospital Medicine
+SVR|Sustained virologic response|Hospital Medicine
+SW|Social work|Hospital Medicine
+T1DM|Type 1 diabetes mellitus|Hospital Medicine
+T2DM|Type 2 diabetes mellitus|Hospital Medicine
+TAVR|Transcatheter aortic valve replacement|Hospital Medicine
+TBSA|Total body surface area|Hospital Medicine
+TCP|Thrombocytopenia|Hospital Medicine
+TD|Tardive dyskinesia|Hospital Medicine
+TEN|Toxic epidermal necrolysis|Hospital Medicine
+TG|Triglycerides|Hospital Medicine
+TIW|Three times weekly|Hospital Medicine
+TLC|Total lung capacity|Hospital Medicine
+TMP-SMX|Trimethoprim-sulfamethoxazole|Hospital Medicine
+TOA|Tubo-ovarian abscess|Hospital Medicine
+TR|Tricuspid regurgitation|Hospital Medicine
+TRALI|Transfusion-related acute lung injury|Hospital Medicine
+TACO|Transfusion-associated circulatory overload|Hospital Medicine
+TSS|Toxic shock syndrome|Hospital Medicine
+TT|Thrombin time|Hospital Medicine
+TVC|Tidal volume control|Hospital Medicine
+UC|Urgent care|Hospital Medicine

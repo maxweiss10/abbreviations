@@ -1,0 +1,802 @@
+CBC|Complete blood count|Laboratory Medicine
+WBC|White blood cell count|Laboratory Medicine
+RBC|Red blood cell count|Laboratory Medicine
+Hgb|Hemoglobin|Laboratory Medicine
+Hb|Hemoglobin|Laboratory Medicine
+Hct|Hematocrit|Laboratory Medicine
+MCV|Mean corpuscular volume|Laboratory Medicine
+MCH|Mean corpuscular hemoglobin|Laboratory Medicine
+MCHC|Mean corpuscular hemoglobin concentration|Laboratory Medicine
+RDW|Red cell distribution width|Laboratory Medicine
+MPV|Mean platelet volume|Laboratory Medicine
+PLT|Platelet count|Laboratory Medicine
+ANC|Absolute neutrophil count|Laboratory Medicine
+ALC|Absolute lymphocyte count|Laboratory Medicine
+AEC|Absolute eosinophil count|Laboratory Medicine
+AMC|Absolute monocyte count|Laboratory Medicine
+ABC|Absolute basophil count|Laboratory Medicine
+Diff|Differential white cell count|Laboratory Medicine
+PMN|Polymorphonuclear leukocyte (neutrophil)|Laboratory Medicine
+Segs|Segmented neutrophils|Laboratory Medicine
+Bands|Immature band neutrophils|Laboratory Medicine
+Lymphs|Lymphocytes|Laboratory Medicine
+Monos|Monocytes|Laboratory Medicine
+Eos|Eosinophils|Laboratory Medicine
+Basos|Basophils|Laboratory Medicine
+NRBC|Nucleated red blood cell|Laboratory Medicine
+Retic|Reticulocyte count|Laboratory Medicine
+RPI|Reticulocyte production index|Laboratory Medicine
+IRF|Immature reticulocyte fraction|Laboratory Medicine
+IPF|Immature platelet fraction|Laboratory Medicine
+ESR|Erythrocyte sedimentation rate|Laboratory Medicine
+CRP|C-reactive protein|Laboratory Medicine
+hsCRP|High-sensitivity C-reactive protein|Laboratory Medicine
+PCT|Procalcitonin|Laboratory Medicine
+BMP|Basic metabolic panel|Laboratory Medicine
+CMP|Comprehensive metabolic panel|Laboratory Medicine
+LFT|Liver function test|Laboratory Medicine
+LFTs|Liver function tests|Laboratory Medicine
+RFT|Renal function test|Laboratory Medicine
+BUN|Blood urea nitrogen|Laboratory Medicine
+Cr|Creatinine|Laboratory Medicine
+Scr|Serum creatinine|Laboratory Medicine
+eGFR|Estimated glomerular filtration rate|Laboratory Medicine
+GFR|Glomerular filtration rate|Laboratory Medicine
+CrCl|Creatinine clearance|Laboratory Medicine
+UACR|Urine albumin-to-creatinine ratio|Laboratory Medicine
+UPCR|Urine protein-to-creatinine ratio|Laboratory Medicine
+ACR|Albumin-to-creatinine ratio|Laboratory Medicine
+Na|Sodium|Laboratory Medicine
+K|Potassium|Laboratory Medicine
+Cl|Chloride|Laboratory Medicine
+HCO3|Bicarbonate|Laboratory Medicine
+CO2|Total carbon dioxide (serum bicarbonate)|Laboratory Medicine
+Ca|Calcium|Laboratory Medicine
+iCa|Ionized calcium|Laboratory Medicine
+Mg|Magnesium|Laboratory Medicine
+Phos|Phosphate|Laboratory Medicine
+PO4|Phosphate|Laboratory Medicine
+AG|Anion gap|Laboratory Medicine
+OG|Osmolar gap|Laboratory Medicine
+Osm|Osmolality|Laboratory Medicine
+Sosm|Serum osmolality|Laboratory Medicine
+Uosm|Urine osmolality|Laboratory Medicine
+UNa|Urine sodium|Laboratory Medicine
+UK|Urine potassium|Laboratory Medicine
+UCl|Urine chloride|Laboratory Medicine
+FENa|Fractional excretion of sodium|Laboratory Medicine
+FEUrea|Fractional excretion of urea|Laboratory Medicine
+Glu|Glucose|Laboratory Medicine
+FBG|Fasting blood glucose|Laboratory Medicine
+FPG|Fasting plasma glucose|Laboratory Medicine
+RBG|Random blood glucose|Laboratory Medicine
+POC|Point of care|Laboratory Medicine
+POCT|Point-of-care testing|Laboratory Medicine
+OGTT|Oral glucose tolerance test|Laboratory Medicine
+GTT|Glucose tolerance test|Laboratory Medicine
+GCT|Glucose challenge test|Laboratory Medicine
+A1c|Glycated hemoglobin|Laboratory Medicine
+HbA1c|Glycated hemoglobin A1c|Laboratory Medicine
+BHB|Beta-hydroxybutyrate|Laboratory Medicine
+AST|Aspartate aminotransferase|Laboratory Medicine
+ALT|Alanine aminotransferase|Laboratory Medicine
+SGOT|Serum glutamic-oxaloacetic transaminase (AST)|Laboratory Medicine
+SGPT|Serum glutamic-pyruvic transaminase (ALT)|Laboratory Medicine
+ALP|Alkaline phosphatase|Laboratory Medicine
+Alk phos|Alkaline phosphatase|Laboratory Medicine
+GGT|Gamma-glutamyl transferase|Laboratory Medicine
+LDH|Lactate dehydrogenase|Laboratory Medicine
+T bili|Total bilirubin|Laboratory Medicine
+D bili|Direct bilirubin|Laboratory Medicine
+I bili|Indirect bilirubin|Laboratory Medicine
+TBili|Total bilirubin|Laboratory Medicine
+DBili|Direct bilirubin|Laboratory Medicine
+TP|Total protein|Laboratory Medicine
+Alb|Albumin|Laboratory Medicine
+SPEP|Serum protein electrophoresis|Laboratory Medicine
+UPEP|Urine protein electrophoresis|Laboratory Medicine
+SIFE|Serum immunofixation electrophoresis|Laboratory Medicine
+UIFE|Urine immunofixation electrophoresis|Laboratory Medicine
+IFE|Immunofixation electrophoresis|Laboratory Medicine
+sFLC|Serum free light chains|Laboratory Medicine
+FLC|Free light chains|Laboratory Medicine
+Ig|Immunoglobulin|Laboratory Medicine
+IgG|Immunoglobulin G|Laboratory Medicine
+IgA|Immunoglobulin A|Laboratory Medicine
+IgM|Immunoglobulin M|Laboratory Medicine
+IgE|Immunoglobulin E|Laboratory Medicine
+IgD|Immunoglobulin D|Laboratory Medicine
+M protein|Monoclonal protein|Laboratory Medicine
+CK|Creatine kinase|Laboratory Medicine
+CPK|Creatine phosphokinase|Laboratory Medicine
+CK-MB|Creatine kinase MB isoenzyme|Laboratory Medicine
+cTn|Cardiac troponin|Laboratory Medicine
+cTnI|Cardiac troponin I|Laboratory Medicine
+cTnT|Cardiac troponin T|Laboratory Medicine
+hs-cTn|High-sensitivity cardiac troponin|Laboratory Medicine
+hsTnI|High-sensitivity troponin I|Laboratory Medicine
+hsTnT|High-sensitivity troponin T|Laboratory Medicine
+BNP|B-type natriuretic peptide|Laboratory Medicine
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Laboratory Medicine
+ANP|Atrial natriuretic peptide|Laboratory Medicine
+LDL-C|Low-density lipoprotein cholesterol|Laboratory Medicine
+HDL-C|High-density lipoprotein cholesterol|Laboratory Medicine
+VLDL|Very-low-density lipoprotein|Laboratory Medicine
+TC|Total cholesterol|Laboratory Medicine
+TG|Triglycerides|Laboratory Medicine
+Lp(a)|Lipoprotein(a)|Laboratory Medicine
+apoB|Apolipoprotein B|Laboratory Medicine
+apoA1|Apolipoprotein A1|Laboratory Medicine
+non-HDL-C|Non-high-density lipoprotein cholesterol|Laboratory Medicine
+LDL|Low-density lipoprotein|Laboratory Medicine
+HDL|High-density lipoprotein|Laboratory Medicine
+TSH|Thyroid-stimulating hormone|Laboratory Medicine
+fT4|Free thyroxine|Laboratory Medicine
+fT3|Free triiodothyronine|Laboratory Medicine
+T4|Thyroxine|Laboratory Medicine
+T3|Triiodothyronine|Laboratory Medicine
+TPO|Thyroid peroxidase|Laboratory Medicine
+TPOAb|Thyroid peroxidase antibody|Laboratory Medicine
+TgAb|Thyroglobulin antibody|Laboratory Medicine
+TRAb|Thyrotropin receptor antibody|Laboratory Medicine
+TSI|Thyroid-stimulating immunoglobulin|Laboratory Medicine
+Tg|Thyroglobulin|Laboratory Medicine
+PTH|Parathyroid hormone|Laboratory Medicine
+iPTH|Intact parathyroid hormone|Laboratory Medicine
+PTHrP|Parathyroid hormone-related peptide|Laboratory Medicine
+ACTH|Adrenocorticotropic hormone|Laboratory Medicine
+GH|Growth hormone|Laboratory Medicine
+IGF-1|Insulin-like growth factor 1|Laboratory Medicine
+FSH|Follicle-stimulating hormone|Laboratory Medicine
+LH|Luteinizing hormone|Laboratory Medicine
+PRL|Prolactin|Laboratory Medicine
+E2|Estradiol|Laboratory Medicine
+DHEA-S|Dehydroepiandrosterone sulfate|Laboratory Medicine
+17-OHP|17-hydroxyprogesterone|Laboratory Medicine
+SHBG|Sex hormone-binding globulin|Laboratory Medicine
+AMH|Anti-mullerian hormone|Laboratory Medicine
+hCG|Human chorionic gonadotropin|Laboratory Medicine
+BhCG|Beta human chorionic gonadotropin|Laboratory Medicine
+PSA|Prostate-specific antigen|Laboratory Medicine
+fPSA|Free prostate-specific antigen|Laboratory Medicine
+ADH|Antidiuretic hormone|Laboratory Medicine
+PRA|Plasma renin activity|Laboratory Medicine
+ARR|Aldosterone-to-renin ratio|Laboratory Medicine
+DST|Dexamethasone suppression test|Laboratory Medicine
+UFC|Urine free cortisol|Laboratory Medicine
+LNSC|Late-night salivary cortisol|Laboratory Medicine
+VMA|Vanillylmandelic acid|Laboratory Medicine
+HVA|Homovanillic acid|Laboratory Medicine
+5-HIAA|5-hydroxyindoleacetic acid|Laboratory Medicine
+CgA|Chromogranin A|Laboratory Medicine
+25-OH D|25-hydroxyvitamin D|Laboratory Medicine
+1,25-OH D|1,25-dihydroxyvitamin D|Laboratory Medicine
+B12|Vitamin B12 (cobalamin)|Laboratory Medicine
+MMA|Methylmalonic acid|Laboratory Medicine
+tHcy|Total homocysteine|Laboratory Medicine
+TIBC|Total iron-binding capacity|Laboratory Medicine
+UIBC|Unsaturated iron-binding capacity|Laboratory Medicine
+TSAT|Transferrin saturation|Laboratory Medicine
+sTfR|Soluble transferrin receptor|Laboratory Medicine
+ZPP|Zinc protoporphyrin|Laboratory Medicine
+FEP|Free erythrocyte protoporphyrin|Laboratory Medicine
+PT|Prothrombin time|Laboratory Medicine
+INR|International normalized ratio|Laboratory Medicine
+aPTT|Activated partial thromboplastin time|Laboratory Medicine
+PTT|Partial thromboplastin time|Laboratory Medicine
+TT|Thrombin time|Laboratory Medicine
+ACT|Activated clotting time|Laboratory Medicine
+ISI|International sensitivity index|Laboratory Medicine
+dRVVT|Dilute Russell viper venom time|Laboratory Medicine
+LA|Lupus anticoagulant|Laboratory Medicine
+aCL|Anticardiolipin antibody|Laboratory Medicine
+aPL|Antiphospholipid antibody|Laboratory Medicine
+APLA|Antiphospholipid antibodies|Laboratory Medicine
+anti-beta2GPI|Anti-beta-2 glycoprotein I antibody|Laboratory Medicine
+FDP|Fibrin degradation products|Laboratory Medicine
+D-dimer|Fibrin degradation product from cross-linked fibrin|Laboratory Medicine
+Fib|Fibrinogen|Laboratory Medicine
+vWF|von Willebrand factor|Laboratory Medicine
+vWF:Ag|von Willebrand factor antigen|Laboratory Medicine
+vWF:RCo|von Willebrand factor ristocetin cofactor activity|Laboratory Medicine
+BT|Bleeding time|Laboratory Medicine
+PFA|Platelet function analyzer|Laboratory Medicine
+PFT|Platelet function test|Laboratory Medicine
+TEG|Thromboelastography|Laboratory Medicine
+ROTEM|Rotational thromboelastometry|Laboratory Medicine
+AT|Antithrombin|Laboratory Medicine
+AT III|Antithrombin III|Laboratory Medicine
+APC|Activated protein C|Laboratory Medicine
+APCR|Activated protein C resistance|Laboratory Medicine
+anti-Xa|Anti-factor Xa assay|Laboratory Medicine
+LMWH|Low-molecular-weight heparin|Laboratory Medicine
+UFH|Unfractionated heparin|Laboratory Medicine
+HIT|Heparin-induced thrombocytopenia|Laboratory Medicine
+PF4|Platelet factor 4|Laboratory Medicine
+SRA|Serotonin release assay|Laboratory Medicine
+DIC|Disseminated intravascular coagulation|Laboratory Medicine
+TTP|Thrombotic thrombocytopenic purpura|Laboratory Medicine
+HUS|Hemolytic uremic syndrome|Laboratory Medicine
+ITP|Immune thrombocytopenia|Laboratory Medicine
+TMA|Thrombotic microangiopathy|Laboratory Medicine
+MAHA|Microangiopathic hemolytic anemia|Laboratory Medicine
+AIHA|Autoimmune hemolytic anemia|Laboratory Medicine
+PNH|Paroxysmal nocturnal hemoglobinuria|Laboratory Medicine
+G6PD|Glucose-6-phosphate dehydrogenase|Laboratory Medicine
+DAT|Direct antiglobulin test|Laboratory Medicine
+IAT|Indirect antiglobulin test|Laboratory Medicine
+DCT|Direct Coombs test|Laboratory Medicine
+ICT|Indirect Coombs test|Laboratory Medicine
+HDFN|Hemolytic disease of the fetus and newborn|Laboratory Medicine
+T&S|Type and screen|Laboratory Medicine
+T&C|Type and crossmatch|Laboratory Medicine
+ABO|ABO blood group system|Laboratory Medicine
+Rh|Rhesus blood group|Laboratory Medicine
+RhIG|Rh immune globulin|Laboratory Medicine
+PRBC|Packed red blood cells|Laboratory Medicine
+pRBC|Packed red blood cells|Laboratory Medicine
+FFP|Fresh frozen plasma|Laboratory Medicine
+PF24|Plasma frozen within 24 hours|Laboratory Medicine
+Cryo|Cryoprecipitate|Laboratory Medicine
+MTP|Massive transfusion protocol|Laboratory Medicine
+PCC|Prothrombin complex concentrate|Laboratory Medicine
+4F-PCC|Four-factor prothrombin complex concentrate|Laboratory Medicine
+TRALI|Transfusion-related acute lung injury|Laboratory Medicine
+TACO|Transfusion-associated circulatory overload|Laboratory Medicine
+TA-GVHD|Transfusion-associated graft-versus-host disease|Laboratory Medicine
+FNHTR|Febrile nonhemolytic transfusion reaction|Laboratory Medicine
+AHTR|Acute hemolytic transfusion reaction|Laboratory Medicine
+DHTR|Delayed hemolytic transfusion reaction|Laboratory Medicine
+GVHD|Graft-versus-host disease|Laboratory Medicine
+HLA|Human leukocyte antigen|Laboratory Medicine
+PRA%|Panel reactive antibody percentage|Laboratory Medicine
+DSA|Donor-specific antibody|Laboratory Medicine
+CMV|Cytomegalovirus|Laboratory Medicine
+EBV|Epstein-Barr virus|Laboratory Medicine
+HSV|Herpes simplex virus|Laboratory Medicine
+VZV|Varicella-zoster virus|Laboratory Medicine
+HHV|Human herpesvirus|Laboratory Medicine
+HBV|Hepatitis B virus|Laboratory Medicine
+HCV|Hepatitis C virus|Laboratory Medicine
+HAV|Hepatitis A virus|Laboratory Medicine
+HDV|Hepatitis D virus|Laboratory Medicine
+HEV|Hepatitis E virus|Laboratory Medicine
+HIV|Human immunodeficiency virus|Laboratory Medicine
+HTLV|Human T-lymphotropic virus|Laboratory Medicine
+HPV|Human papillomavirus|Laboratory Medicine
+RSV|Respiratory syncytial virus|Laboratory Medicine
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2|Laboratory Medicine
+HBsAg|Hepatitis B surface antigen|Laboratory Medicine
+HBsAb|Hepatitis B surface antibody|Laboratory Medicine
+anti-HBs|Hepatitis B surface antibody|Laboratory Medicine
+HBcAb|Hepatitis B core antibody|Laboratory Medicine
+anti-HBc|Hepatitis B core antibody|Laboratory Medicine
+HBeAg|Hepatitis B e antigen|Laboratory Medicine
+HBeAb|Hepatitis B e antibody|Laboratory Medicine
+HBV DNA|Hepatitis B virus DNA level|Laboratory Medicine
+HCV RNA|Hepatitis C virus RNA level|Laboratory Medicine
+HCV Ab|Hepatitis C antibody|Laboratory Medicine
+HAV IgM|Hepatitis A immunoglobulin M antibody|Laboratory Medicine
+VL|Viral load|Laboratory Medicine
+CD4|CD4-positive T-lymphocyte count|Laboratory Medicine
+PCR|Polymerase chain reaction|Laboratory Medicine
+RT-PCR|Reverse transcription polymerase chain reaction|Laboratory Medicine
+qPCR|Quantitative polymerase chain reaction|Laboratory Medicine
+NAAT|Nucleic acid amplification test|Laboratory Medicine
+NAT|Nucleic acid test|Laboratory Medicine
+NGS|Next-generation sequencing|Laboratory Medicine
+FISH|Fluorescence in situ hybridization|Laboratory Medicine
+CGH|Comparative genomic hybridization|Laboratory Medicine
+ELISA|Enzyme-linked immunosorbent assay|Laboratory Medicine
+EIA|Enzyme immunoassay|Laboratory Medicine
+CLIA|Chemiluminescent immunoassay|Laboratory Medicine
+RIA|Radioimmunoassay|Laboratory Medicine
+IFA|Immunofluorescence assay|Laboratory Medicine
+DFA|Direct fluorescent antibody|Laboratory Medicine
+IHC|Immunohistochemistry|Laboratory Medicine
+ISH|In situ hybridization|Laboratory Medicine
+IF|Immunofluorescence|Laboratory Medicine
+WB|Western blot|Laboratory Medicine
+LC-MS/MS|Liquid chromatography tandem mass spectrometry|Laboratory Medicine
+GC-MS|Gas chromatography mass spectrometry|Laboratory Medicine
+MS|Mass spectrometry|Laboratory Medicine
+HPLC|High-performance liquid chromatography|Laboratory Medicine
+MALDI-TOF|Matrix-assisted laser desorption ionization time-of-flight mass spectrometry|Laboratory Medicine
+ICP-MS|Inductively coupled plasma mass spectrometry|Laboratory Medicine
+AAS|Atomic absorption spectroscopy|Laboratory Medicine
+ISE|Ion-selective electrode|Laboratory Medicine
+EMIT|Enzyme multiplied immunoassay technique|Laboratory Medicine
+FPIA|Fluorescence polarization immunoassay|Laboratory Medicine
+CEDIA|Cloned enzyme donor immunoassay|Laboratory Medicine
+CMIA|Chemiluminescent microparticle immunoassay|Laboratory Medicine
+ECLIA|Electrochemiluminescence immunoassay|Laboratory Medicine
+LFA|Lateral flow assay|Laboratory Medicine
+RDT|Rapid diagnostic test|Laboratory Medicine
+LOD|Limit of detection|Laboratory Medicine
+LOQ|Limit of quantitation|Laboratory Medicine
+LLOQ|Lower limit of quantitation|Laboratory Medicine
+ULOQ|Upper limit of quantitation|Laboratory Medicine
+CV|Coefficient of variation|Laboratory Medicine
+SD|Standard deviation|Laboratory Medicine
+QC|Quality control|Laboratory Medicine
+QA|Quality assurance|Laboratory Medicine
+EQA|External quality assessment|Laboratory Medicine
+PT testing|Proficiency testing|Laboratory Medicine
+LIS|Laboratory information system|Laboratory Medicine
+LIMS|Laboratory information management system|Laboratory Medicine
+TAT|Turnaround time|Laboratory Medicine
+STAT|Immediately (urgent test order)|Laboratory Medicine
+RRR|Reference range report|Laboratory Medicine
+RI|Reference interval|Laboratory Medicine
+ULN|Upper limit of normal|Laboratory Medicine
+LLN|Lower limit of normal|Laboratory Medicine
+URL|Upper reference limit|Laboratory Medicine
+PPV|Positive predictive value|Laboratory Medicine
+NPV|Negative predictive value|Laboratory Medicine
+ROC|Receiver operating characteristic|Laboratory Medicine
+AUC|Area under the curve|Laboratory Medicine
+LR|Likelihood ratio|Laboratory Medicine
+LR+|Positive likelihood ratio|Laboratory Medicine
+LR-|Negative likelihood ratio|Laboratory Medicine
+TDM|Therapeutic drug monitoring|Laboratory Medicine
+UDS|Urine drug screen|Laboratory Medicine
+UTox|Urine toxicology screen|Laboratory Medicine
+BAL|Blood alcohol level|Laboratory Medicine
+EtOH|Ethanol|Laboratory Medicine
+BAC|Blood alcohol concentration|Laboratory Medicine
+APAP|Acetaminophen|Laboratory Medicine
+ASA|Acetylsalicylic acid (aspirin)|Laboratory Medicine
+THC|Tetrahydrocannabinol|Laboratory Medicine
+PCP|Phencyclidine|Laboratory Medicine
+BZD|Benzodiazepine|Laboratory Medicine
+TCA|Tricyclic antidepressant|Laboratory Medicine
+COHb|Carboxyhemoglobin|Laboratory Medicine
+MetHb|Methemoglobin|Laboratory Medicine
+SulfHb|Sulfhemoglobin|Laboratory Medicine
+HbF|Fetal hemoglobin|Laboratory Medicine
+HbA|Adult hemoglobin A|Laboratory Medicine
+HbA2|Hemoglobin A2|Laboratory Medicine
+HbS|Sickle hemoglobin|Laboratory Medicine
+HbC|Hemoglobin C|Laboratory Medicine
+Hb EP|Hemoglobin electrophoresis|Laboratory Medicine
+CBG|Capillary blood gas|Laboratory Medicine
+ABG|Arterial blood gas|Laboratory Medicine
+VBG|Venous blood gas|Laboratory Medicine
+pH|Negative log of hydrogen ion concentration|Laboratory Medicine
+PaO2|Partial pressure of arterial oxygen|Laboratory Medicine
+PaCO2|Partial pressure of arterial carbon dioxide|Laboratory Medicine
+PvO2|Partial pressure of venous oxygen|Laboratory Medicine
+PvCO2|Partial pressure of venous carbon dioxide|Laboratory Medicine
+SaO2|Arterial oxygen saturation|Laboratory Medicine
+SvO2|Mixed venous oxygen saturation|Laboratory Medicine
+ScvO2|Central venous oxygen saturation|Laboratory Medicine
+BE|Base excess|Laboratory Medicine
+SBE|Standard base excess|Laboratory Medicine
+A-a gradient|Alveolar-arterial oxygen gradient|Laboratory Medicine
+P/F ratio|PaO2 to fraction of inspired oxygen ratio|Laboratory Medicine
+Lac|Lactate|Laboratory Medicine
+NH3|Ammonia|Laboratory Medicine
+UA|Urinalysis|Laboratory Medicine
+UA/UC|Urinalysis and urine culture|Laboratory Medicine
+UCx|Urine culture|Laboratory Medicine
+BCx|Blood culture|Laboratory Medicine
+SCx|Sputum culture|Laboratory Medicine
+CSF|Cerebrospinal fluid|Laboratory Medicine
+LP|Lumbar puncture|Laboratory Medicine
+OP|Opening pressure|Laboratory Medicine
+SG|Specific gravity|Laboratory Medicine
+LE|Leukocyte esterase|Laboratory Medicine
+UTI|Urinary tract infection|Laboratory Medicine
+UDIP|Urine dipstick|Laboratory Medicine
+RBCs/hpf|Red blood cells per high-power field|Laboratory Medicine
+WBCs/hpf|White blood cells per high-power field|Laboratory Medicine
+HPF|High-power field|Laboratory Medicine
+LPF|Low-power field|Laboratory Medicine
+CFU|Colony-forming units|Laboratory Medicine
+FOBT|Fecal occult blood test|Laboratory Medicine
+FIT|Fecal immunochemical test|Laboratory Medicine
+gFOBT|Guaiac-based fecal occult blood test|Laboratory Medicine
+O&P|Ova and parasites|Laboratory Medicine
+C diff|Clostridioides difficile|Laboratory Medicine
+GDH|Glutamate dehydrogenase|Laboratory Medicine
+FCP|Fecal calprotectin|Laboratory Medicine
+FLF|Fecal lactoferrin|Laboratory Medicine
+FEL|Fecal elastase|Laboratory Medicine
+Gram stain|Stain classifying bacteria by cell wall|Laboratory Medicine
+AFB|Acid-fast bacilli|Laboratory Medicine
+KOH|Potassium hydroxide preparation|Laboratory Medicine
+GPC|Gram-positive cocci|Laboratory Medicine
+GNR|Gram-negative rods|Laboratory Medicine
+GPR|Gram-positive rods|Laboratory Medicine
+GNC|Gram-negative cocci|Laboratory Medicine
+GNDC|Gram-negative diplococci|Laboratory Medicine
+GNB|Gram-negative bacilli|Laboratory Medicine
+GPB|Gram-positive bacilli|Laboratory Medicine
+MRSA|Methicillin-resistant Staphylococcus aureus|Laboratory Medicine
+MSSA|Methicillin-susceptible Staphylococcus aureus|Laboratory Medicine
+VRE|Vancomycin-resistant Enterococcus|Laboratory Medicine
+ESBL|Extended-spectrum beta-lactamase|Laboratory Medicine
+CRE|Carbapenem-resistant Enterobacterales|Laboratory Medicine
+CRAB|Carbapenem-resistant Acinetobacter baumannii|Laboratory Medicine
+CoNS|Coagulase-negative staphylococci|Laboratory Medicine
+MDR|Multidrug-resistant|Laboratory Medicine
+XDR|Extensively drug-resistant|Laboratory Medicine
+MDRO|Multidrug-resistant organism|Laboratory Medicine
+AST (susceptibility)|Antimicrobial susceptibility testing|Laboratory Medicine
+MIC|Minimum inhibitory concentration|Laboratory Medicine
+MBC|Minimum bactericidal concentration|Laboratory Medicine
+S|Susceptible|Laboratory Medicine
+I|Intermediate|Laboratory Medicine
+R|Resistant|Laboratory Medicine
+SDD|Susceptible dose-dependent|Laboratory Medicine
+NS|Nonsusceptible|Laboratory Medicine
+ID|Identification|Laboratory Medicine
+GBS|Group B streptococcus|Laboratory Medicine
+GAS|Group A streptococcus|Laboratory Medicine
+RADT|Rapid antigen detection test|Laboratory Medicine
+RPR|Rapid plasma reagin|Laboratory Medicine
+VDRL|Venereal disease research laboratory test|Laboratory Medicine
+TPPA|Treponema pallidum particle agglutination|Laboratory Medicine
+FTA-ABS|Fluorescent treponemal antibody absorption|Laboratory Medicine
+TP-PA|Treponema pallidum particle agglutination|Laboratory Medicine
+IGRA|Interferon-gamma release assay|Laboratory Medicine
+TST|Tuberculin skin test|Laboratory Medicine
+PPD|Purified protein derivative|Laboratory Medicine
+QFT|Quantiferon test|Laboratory Medicine
+TB|Tuberculosis|Laboratory Medicine
+MTB|Mycobacterium tuberculosis|Laboratory Medicine
+NTM|Nontuberculous mycobacteria|Laboratory Medicine
+MAC|Mycobacterium avium complex|Laboratory Medicine
+BDG|Beta-D-glucan|Laboratory Medicine
+GM|Galactomannan|Laboratory Medicine
+CrAg|Cryptococcal antigen|Laboratory Medicine
+LAM|Lipoarabinomannan|Laboratory Medicine
+PJP|Pneumocystis jirovecii pneumonia|Laboratory Medicine
+IFI|Invasive fungal infection|Laboratory Medicine
+BSI|Bloodstream infection|Laboratory Medicine
+CLABSI|Central line-associated bloodstream infection|Laboratory Medicine
+CAUTI|Catheter-associated urinary tract infection|Laboratory Medicine
+VAP|Ventilator-associated pneumonia|Laboratory Medicine
+HAI|Healthcare-associated infection|Laboratory Medicine
+SSI|Surgical site infection|Laboratory Medicine
+ANA|Antinuclear antibody|Laboratory Medicine
+dsDNA|Double-stranded DNA antibody|Laboratory Medicine
+anti-dsDNA|Anti-double-stranded DNA antibody|Laboratory Medicine
+anti-Sm|Anti-Smith antibody|Laboratory Medicine
+ENA|Extractable nuclear antigen|Laboratory Medicine
+SSA|Sjogren syndrome A antibody (anti-Ro)|Laboratory Medicine
+SSB|Sjogren syndrome B antibody (anti-La)|Laboratory Medicine
+RF|Rheumatoid factor|Laboratory Medicine
+anti-CCP|Anti-cyclic citrullinated peptide antibody|Laboratory Medicine
+ANCA|Antineutrophil cytoplasmic antibody|Laboratory Medicine
+c-ANCA|Cytoplasmic antineutrophil cytoplasmic antibody|Laboratory Medicine
+p-ANCA|Perinuclear antineutrophil cytoplasmic antibody|Laboratory Medicine
+PR3|Proteinase 3|Laboratory Medicine
+MPO|Myeloperoxidase|Laboratory Medicine
+anti-GBM|Anti-glomerular basement membrane antibody|Laboratory Medicine
+AMA|Antimitochondrial antibody|Laboratory Medicine
+ASMA|Anti-smooth muscle antibody|Laboratory Medicine
+LKM|Liver-kidney microsomal antibody|Laboratory Medicine
+tTG|Tissue transglutaminase|Laboratory Medicine
+tTG-IgA|Tissue transglutaminase immunoglobulin A antibody|Laboratory Medicine
+EMA|Endomysial antibody|Laboratory Medicine
+DGP|Deamidated gliadin peptide|Laboratory Medicine
+AChR|Acetylcholine receptor antibody|Laboratory Medicine
+C3|Complement component 3|Laboratory Medicine
+C4|Complement component 4|Laboratory Medicine
+CH50|Total hemolytic complement|Laboratory Medicine
+C1-INH|C1 esterase inhibitor|Laboratory Medicine
+CIC|Circulating immune complexes|Laboratory Medicine
+IL-6|Interleukin 6|Laboratory Medicine
+TNF|Tumor necrosis factor|Laboratory Medicine
+sIL-2R|Soluble interleukin-2 receptor|Laboratory Medicine
+ACE|Angiotensin-converting enzyme|Laboratory Medicine
+SAA|Serum amyloid A|Laboratory Medicine
+RAST|Radioallergosorbent test|Laboratory Medicine
+sIgE|Allergen-specific immunoglobulin E|Laboratory Medicine
+ECP|Eosinophil cationic protein|Laboratory Medicine
+CEA|Carcinoembryonic antigen|Laboratory Medicine
+AFP|Alpha-fetoprotein|Laboratory Medicine
+CA 19-9|Carbohydrate antigen 19-9|Laboratory Medicine
+CA 125|Cancer antigen 125|Laboratory Medicine
+CA 15-3|Cancer antigen 15-3|Laboratory Medicine
+CA 27.29|Cancer antigen 27.29|Laboratory Medicine
+HE4|Human epididymis protein 4|Laboratory Medicine
+NSE|Neuron-specific enolase|Laboratory Medicine
+SCC|Squamous cell carcinoma antigen|Laboratory Medicine
+B2M|Beta-2 microglobulin|Laboratory Medicine
+LDH (tumor)|Lactate dehydrogenase as tumor marker|Laboratory Medicine
+ER|Estrogen receptor|Laboratory Medicine
+PR|Progesterone receptor|Laboratory Medicine
+HER2|Human epidermal growth factor receptor 2|Laboratory Medicine
+ALK|Anaplastic lymphoma kinase|Laboratory Medicine
+PD-L1|Programmed death-ligand 1|Laboratory Medicine
+MSI|Microsatellite instability|Laboratory Medicine
+MSI-H|Microsatellite instability-high|Laboratory Medicine
+MSS|Microsatellite stable|Laboratory Medicine
+dMMR|Deficient mismatch repair|Laboratory Medicine
+pMMR|Proficient mismatch repair|Laboratory Medicine
+TMB|Tumor mutational burden|Laboratory Medicine
+MRD|Minimal residual disease|Laboratory Medicine
+ctDNA|Circulating tumor DNA|Laboratory Medicine
+CTC|Circulating tumor cells|Laboratory Medicine
+VAF|Variant allele fraction|Laboratory Medicine
+VUS|Variant of uncertain significance|Laboratory Medicine
+SNP|Single nucleotide polymorphism|Laboratory Medicine
+CNV|Copy number variation|Laboratory Medicine
+WES|Whole exome sequencing|Laboratory Medicine
+WGS|Whole genome sequencing|Laboratory Medicine
+CMA|Chromosomal microarray|Laboratory Medicine
+NIPT|Noninvasive prenatal testing|Laboratory Medicine
+cfDNA|Cell-free DNA|Laboratory Medicine
+MLPA|Multiplex ligation-dependent probe amplification|Laboratory Medicine
+PGx|Pharmacogenomics|Laboratory Medicine
+AML|Acute myeloid leukemia|Laboratory Medicine
+ALL|Acute lymphoblastic leukemia|Laboratory Medicine
+APL|Acute promyelocytic leukemia|Laboratory Medicine
+CML|Chronic myeloid leukemia|Laboratory Medicine
+CLL|Chronic lymphocytic leukemia|Laboratory Medicine
+MDS|Myelodysplastic syndrome|Laboratory Medicine
+MPN|Myeloproliferative neoplasm|Laboratory Medicine
+MM|Multiple myeloma|Laboratory Medicine
+MGUS|Monoclonal gammopathy of undetermined significance|Laboratory Medicine
+SMM|Smoldering multiple myeloma|Laboratory Medicine
+PV|Polycythemia vera|Laboratory Medicine
+ET|Essential thrombocythemia|Laboratory Medicine
+PMF|Primary myelofibrosis|Laboratory Medicine
+CMML|Chronic myelomonocytic leukemia|Laboratory Medicine
+NHL|Non-Hodgkin lymphoma|Laboratory Medicine
+HL|Hodgkin lymphoma|Laboratory Medicine
+DLBCL|Diffuse large B-cell lymphoma|Laboratory Medicine
+FL|Follicular lymphoma|Laboratory Medicine
+MCL|Mantle cell lymphoma|Laboratory Medicine
+LPL|Lymphoplasmacytic lymphoma|Laboratory Medicine
+WM|Waldenstrom macroglobulinemia|Laboratory Medicine
+MBL|Monoclonal B-cell lymphocytosis|Laboratory Medicine
+HLH|Hemophagocytic lymphohistiocytosis|Laboratory Medicine
+TLS|Tumor lysis syndrome|Laboratory Medicine
+BM|Bone marrow|Laboratory Medicine
+BMBx|Bone marrow biopsy|Laboratory Medicine
+BMA|Bone marrow aspirate|Laboratory Medicine
+FNA|Fine-needle aspiration|Laboratory Medicine
+CNB|Core needle biopsy|Laboratory Medicine
+H&E|Hematoxylin and eosin stain|Laboratory Medicine
+PAS|Periodic acid-Schiff stain|Laboratory Medicine
+GMS|Grocott methenamine silver stain|Laboratory Medicine
+ZN|Ziehl-Neelsen stain|Laboratory Medicine
+IPOX|Immunoperoxidase stain|Laboratory Medicine
+FS|Frozen section|Laboratory Medicine
+FFPE|Formalin-fixed paraffin-embedded|Laboratory Medicine
+NBF|Neutral buffered formalin|Laboratory Medicine
+Pap|Papanicolaou smear|Laboratory Medicine
+ASC-US|Atypical squamous cells of undetermined significance|Laboratory Medicine
+ASC-H|Atypical squamous cells, cannot exclude high-grade lesion|Laboratory Medicine
+LSIL|Low-grade squamous intraepithelial lesion|Laboratory Medicine
+HSIL|High-grade squamous intraepithelial lesion|Laboratory Medicine
+AGC|Atypical glandular cells|Laboratory Medicine
+AIS|Adenocarcinoma in situ|Laboratory Medicine
+CIN|Cervical intraepithelial neoplasia|Laboratory Medicine
+NILM|Negative for intraepithelial lesion or malignancy|Laboratory Medicine
+DCIS|Ductal carcinoma in situ|Laboratory Medicine
+LCIS|Lobular carcinoma in situ|Laboratory Medicine
+IDC|Invasive ductal carcinoma|Laboratory Medicine
+ILC|Invasive lobular carcinoma|Laboratory Medicine
+SCC (tumor)|Squamous cell carcinoma|Laboratory Medicine
+BCC|Basal cell carcinoma|Laboratory Medicine
+LVI|Lymphovascular invasion|Laboratory Medicine
+PNI|Perineural invasion|Laboratory Medicine
+SLN|Sentinel lymph node|Laboratory Medicine
+SLNB|Sentinel lymph node biopsy|Laboratory Medicine
+TNM|Tumor, node, metastasis staging|Laboratory Medicine
+IPF (pathology)|Idiopathic pulmonary fibrosis|Laboratory Medicine
+UIP|Usual interstitial pneumonia|Laboratory Medicine
+NSIP|Nonspecific interstitial pneumonia|Laboratory Medicine
+BAL fluid|Bronchoalveolar lavage fluid|Laboratory Medicine
+EBUS|Endobronchial ultrasound|Laboratory Medicine
+ROSE|Rapid on-site evaluation|Laboratory Medicine
+TBBx|Transbronchial biopsy|Laboratory Medicine
+SPEP/IFE|Serum protein electrophoresis with immunofixation|Laboratory Medicine
+DIF|Direct immunofluorescence|Laboratory Medicine
+EM|Electron microscopy|Laboratory Medicine
+LM|Light microscopy|Laboratory Medicine
+GN|Glomerulonephritis|Laboratory Medicine
+FSGS|Focal segmental glomerulosclerosis|Laboratory Medicine
+MCD|Minimal change disease|Laboratory Medicine
+MN|Membranous nephropathy|Laboratory Medicine
+MPGN|Membranoproliferative glomerulonephritis|Laboratory Medicine
+IgAN|Immunoglobulin A nephropathy|Laboratory Medicine
+ATN|Acute tubular necrosis|Laboratory Medicine
+AIN|Acute interstitial nephritis|Laboratory Medicine
+AKI|Acute kidney injury|Laboratory Medicine
+CKD|Chronic kidney disease|Laboratory Medicine
+ESRD|End-stage renal disease|Laboratory Medicine
+NGAL|Neutrophil gelatinase-associated lipocalin|Laboratory Medicine
+KIM-1|Kidney injury molecule 1|Laboratory Medicine
+CysC|Cystatin C|Laboratory Medicine
+eGFRcys|Estimated GFR based on cystatin C|Laboratory Medicine
+eGFRcr|Estimated GFR based on creatinine|Laboratory Medicine
+IDMS|Isotope dilution mass spectrometry|Laboratory Medicine
+UOP|Urine output|Laboratory Medicine
+24h UP|24-hour urine protein|Laboratory Medicine
+24h UFC|24-hour urine free cortisol|Laboratory Medicine
+PEth|Phosphatidylethanol|Laboratory Medicine
+CDT|Carbohydrate-deficient transferrin|Laboratory Medicine
+MCV (index)|Mean corpuscular volume as alcohol-use index|Laboratory Medicine
+ALP iso|Alkaline phosphatase isoenzymes|Laboratory Medicine
+5'NT|5-prime nucleotidase|Laboratory Medicine
+LAP|Leukocyte alkaline phosphatase|Laboratory Medicine
+TRAP|Tartrate-resistant acid phosphatase|Laboratory Medicine
+PAP|Prostatic acid phosphatase|Laboratory Medicine
+AMY|Amylase|Laboratory Medicine
+Lip|Lipase|Laboratory Medicine
+CHE|Cholinesterase|Laboratory Medicine
+RBC ChE|Red blood cell cholinesterase|Laboratory Medicine
+Pseudo-ChE|Pseudocholinesterase|Laboratory Medicine
+CPP|Coproporphyrin|Laboratory Medicine
+PBG|Porphobilinogen|Laboratory Medicine
+ALA|Aminolevulinic acid|Laboratory Medicine
+BLL|Blood lead level|Laboratory Medicine
+Hg|Mercury|Laboratory Medicine
+As|Arsenic|Laboratory Medicine
+Cu|Copper|Laboratory Medicine
+Zn|Zinc|Laboratory Medicine
+Se|Selenium|Laboratory Medicine
+Fe|Iron|Laboratory Medicine
+CP|Ceruloplasmin|Laboratory Medicine
+A1AT|Alpha-1 antitrypsin|Laboratory Medicine
+AAT|Alpha-1 antitrypsin|Laboratory Medicine
+TF|Transferrin|Laboratory Medicine
+Ferr|Ferritin|Laboratory Medicine
+Hapto|Haptoglobin|Laboratory Medicine
+Hp|Haptoglobin|Laboratory Medicine
+RBP|Retinol-binding protein|Laboratory Medicine
+PAB|Prealbumin|Laboratory Medicine
+TTR|Transthyretin|Laboratory Medicine
+CHOL|Cholesterol|Laboratory Medicine
+FFA|Free fatty acids|Laboratory Medicine
+NEFA|Nonesterified fatty acids|Laboratory Medicine
+CoQ10|Coenzyme Q10|Laboratory Medicine
+TPN|Total parenteral nutrition|Laboratory Medicine
+HOMA-IR|Homeostatic model assessment of insulin resistance|Laboratory Medicine
+C-peptide|Connecting peptide of insulin|Laboratory Medicine
+GAD65|Glutamic acid decarboxylase 65 antibody|Laboratory Medicine
+IAA|Insulin autoantibody|Laboratory Medicine
+IA-2|Islet antigen 2 antibody|Laboratory Medicine
+ZnT8|Zinc transporter 8 antibody|Laboratory Medicine
+ICA|Islet cell antibody|Laboratory Medicine
+SMBG|Self-monitoring of blood glucose|Laboratory Medicine
+CGM|Continuous glucose monitoring|Laboratory Medicine
+TIR|Time in range|Laboratory Medicine
+GMI|Glucose management indicator|Laboratory Medicine
+eAG|Estimated average glucose|Laboratory Medicine
+FRA|Fructosamine|Laboratory Medicine
+BG|Blood glucose|Laboratory Medicine
+CBG (glucose)|Capillary blood glucose|Laboratory Medicine
+SpO2|Peripheral oxygen saturation|Laboratory Medicine
+EtCO2|End-tidal carbon dioxide|Laboratory Medicine
+tcPCO2|Transcutaneous partial pressure of carbon dioxide|Laboratory Medicine
+Hb-O2|Oxyhemoglobin|Laboratory Medicine
+O2Hb|Oxyhemoglobin|Laboratory Medicine
+HHb|Deoxyhemoglobin|Laboratory Medicine
+P50|Partial pressure of oxygen at 50 percent hemoglobin saturation|Laboratory Medicine
+2,3-DPG|2,3-diphosphoglycerate|Laboratory Medicine
+EPO|Erythropoietin|Laboratory Medicine
+G-CSF|Granulocyte colony-stimulating factor|Laboratory Medicine
+GM-CSF|Granulocyte-macrophage colony-stimulating factor|Laboratory Medicine
+TPO (hormone)|Thrombopoietin|Laboratory Medicine
+CFU-GM|Colony-forming unit granulocyte-macrophage|Laboratory Medicine
+HSC|Hematopoietic stem cell|Laboratory Medicine
+HSCT|Hematopoietic stem cell transplant|Laboratory Medicine
+BMT|Bone marrow transplant|Laboratory Medicine
+CAR-T|Chimeric antigen receptor T-cell therapy|Laboratory Medicine
+MNC|Mononuclear cells|Laboratory Medicine
+PBSC|Peripheral blood stem cells|Laboratory Medicine
+TNC|Total nucleated cells|Laboratory Medicine
+CD34+|CD34-positive hematopoietic progenitor cells|Laboratory Medicine
+FC|Flow cytometry|Laboratory Medicine
+FCM|Flow cytometry|Laboratory Medicine
+MFC|Multiparameter flow cytometry|Laboratory Medicine
+IPT|Immunophenotyping|Laboratory Medicine
+MFI|Mean fluorescence intensity|Laboratory Medicine
+FSC|Forward scatter|Laboratory Medicine
+SSC|Side scatter|Laboratory Medicine
+TBNK|T, B and natural killer cell panel|Laboratory Medicine
+NK|Natural killer cell|Laboratory Medicine
+Treg|Regulatory T cell|Laboratory Medicine
+TCR|T-cell receptor|Laboratory Medicine
+BCR|B-cell receptor|Laboratory Medicine
+IgH|Immunoglobulin heavy chain|Laboratory Medicine
+TdT|Terminal deoxynucleotidyl transferase|Laboratory Medicine
+MPO (stain)|Myeloperoxidase cytochemical stain|Laboratory Medicine
+NSE (stain)|Nonspecific esterase stain|Laboratory Medicine
+PB|Peripheral blood|Laboratory Medicine
+PBS|Peripheral blood smear|Laboratory Medicine
+Schistos|Schistocytes|Laboratory Medicine
+HJB|Howell-Jolly bodies|Laboratory Medicine
+TART|Target cells|Laboratory Medicine
+BKT|Basophilic stippling|Laboratory Medicine
+PLT clumps|Platelet clumps|Laboratory Medicine
+EDTA|Ethylenediaminetetraacetic acid|Laboratory Medicine
+PTLC|Pseudothrombocytopenia from EDTA clumping|Laboratory Medicine
+SST|Serum separator tube|Laboratory Medicine
+PST|Plasma separator tube|Laboratory Medicine
+LiHep|Lithium heparin|Laboratory Medicine
+NaHep|Sodium heparin|Laboratory Medicine
+NaF|Sodium fluoride|Laboratory Medicine
+ACD|Acid citrate dextrose|Laboratory Medicine
+CPD|Citrate phosphate dextrose|Laboratory Medicine
+CPDA-1|Citrate phosphate dextrose adenine|Laboratory Medicine
+HDL (lab)|High-density lipoprotein measured in the laboratory|Laboratory Medicine
+NPO|Nothing by mouth|Laboratory Medicine
+AM labs|Morning laboratory draw|Laboratory Medicine
+Q6h|Every six hours|Laboratory Medicine
+Q8h|Every eight hours|Laboratory Medicine
+PRN|As needed|Laboratory Medicine
+H&H|Hemoglobin and hematocrit|Laboratory Medicine
+Chem 7|Seven-test basic chemistry panel|Laboratory Medicine
+Chem 10|Ten-test chemistry panel|Laboratory Medicine
+Lytes|Electrolytes|Laboratory Medicine
+Coags|Coagulation studies|Laboratory Medicine
+LFPs|Liver function panel|Laboratory Medicine
+HFP|Hepatic function panel|Laboratory Medicine
+RFP|Renal function panel|Laboratory Medicine
+TFTs|Thyroid function tests|Laboratory Medicine
+Tn|Troponin|Laboratory Medicine
+Trops|Troponins|Laboratory Medicine
+Lytes/Mg/Phos|Electrolytes with magnesium and phosphate|Laboratory Medicine
+ID panel|Infectious disease panel|Laboratory Medicine
+RVP|Respiratory viral panel|Laboratory Medicine
+RPP|Respiratory pathogen panel|Laboratory Medicine
+GIP|Gastrointestinal pathogen panel|Laboratory Medicine
+STI|Sexually transmitted infection|Laboratory Medicine
+GC|Gonorrhea (Neisseria gonorrhoeae)|Laboratory Medicine
+CT|Chlamydia trachomatis|Laboratory Medicine
+TV|Trichomonas vaginalis|Laboratory Medicine
+BV|Bacterial vaginosis|Laboratory Medicine
+H pylori|Helicobacter pylori|Laboratory Medicine
+UBT|Urea breath test|Laboratory Medicine
+HpSA|Helicobacter pylori stool antigen|Laboratory Medicine
+LAD|Leukocyte adhesion deficiency|Laboratory Medicine
+CVID|Common variable immunodeficiency|Laboratory Medicine
+SCID|Severe combined immunodeficiency|Laboratory Medicine
+CGD|Chronic granulomatous disease|Laboratory Medicine
+DHR|Dihydrorhodamine test|Laboratory Medicine
+NBT|Nitroblue tetrazolium test|Laboratory Medicine
+TREC|T-cell receptor excision circle|Laboratory Medicine
+NBS|Newborn screening|Laboratory Medicine
+PKU|Phenylketonuria|Laboratory Medicine
+MCAD|Medium-chain acyl-CoA dehydrogenase deficiency|Laboratory Medicine
+CAH|Congenital adrenal hyperplasia|Laboratory Medicine
+CF|Cystic fibrosis|Laboratory Medicine
+IRT|Immunoreactive trypsinogen|Laboratory Medicine
+SCD|Sickle cell disease|Laboratory Medicine
+SCT|Sickle cell trait|Laboratory Medicine
+IEM|Inborn error of metabolism|Laboratory Medicine
+TORCH|Toxoplasmosis, other infections, rubella, cytomegalovirus, herpes|Laboratory Medicine
+AFP (prenatal)|Alpha-fetoprotein as prenatal screening marker|Laboratory Medicine
+PAPP-A|Pregnancy-associated plasma protein A|Laboratory Medicine
+uE3|Unconjugated estriol|Laboratory Medicine
+MoM|Multiples of the median|Laboratory Medicine
+NT|Nuchal translucency|Laboratory Medicine
+fFN|Fetal fibronectin|Laboratory Medicine
+L/S ratio|Lecithin-to-sphingomyelin ratio|Laboratory Medicine
+KB test|Kleihauer-Betke test for fetal cells in maternal blood|Laboratory Medicine
+sFlt-1/PlGF|Soluble fms-like tyrosine kinase 1 to placental growth factor ratio|Laboratory Medicine
+SA|Semen analysis|Laboratory Medicine
+TMSC|Total motile sperm count|Laboratory Medicine
+CBC w/ diff|Complete blood count with differential|Laboratory Medicine
+CBC w/o diff|Complete blood count without differential|Laboratory Medicine
+WNL|Within normal limits|Laboratory Medicine
+NAD|No abnormality detected|Laboratory Medicine
+QNS|Quantity not sufficient|Laboratory Medicine
+TNP|Test not performed|Laboratory Medicine
+TNTC|Too numerous to count|Laboratory Medicine
+NSG|No significant growth|Laboratory Medicine
+NGTD|No growth to date|Laboratory Medicine
+NG|No growth|Laboratory Medicine
+NEG|Negative|Laboratory Medicine
+POS|Positive|Laboratory Medicine
+PRELIM|Preliminary result|Laboratory Medicine
+Corr|Corrected report|Laboratory Medicine
+Hemolyzed|Specimen with ruptured red cells|Laboratory Medicine
+HIL|Hemolysis, icterus and lipemia indices|Laboratory Medicine

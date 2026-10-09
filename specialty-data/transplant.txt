@@ -1,0 +1,572 @@
+HLA|Human leukocyte antigen|Transplant
+MHC|Major histocompatibility complex|Transplant
+PRA|Panel reactive antibody|Transplant
+cPRA|Calculated panel reactive antibody|Transplant
+DSA|Donor-specific antibody|Transplant
+dnDSA|De novo donor-specific antibody|Transplant
+AMR|Antibody-mediated rejection|Transplant
+ABMR|Antibody-mediated rejection|Transplant
+TCMR|T cell-mediated rejection|Transplant
+ACR|Acute cellular rejection|Transplant
+CAV|Cardiac allograft vasculopathy|Transplant
+CLAD|Chronic lung allograft dysfunction|Transplant
+BOS|Bronchiolitis obliterans syndrome|Transplant
+RAS|Restrictive allograft syndrome|Transplant
+PGD|Primary graft dysfunction|Transplant
+PGF|Primary graft failure|Transplant
+DGF|Delayed graft function|Transplant
+IFTA|Interstitial fibrosis and tubular atrophy|Transplant
+GVHD|Graft-versus-host disease|Transplant
+aGVHD|Acute graft-versus-host disease|Transplant
+cGVHD|Chronic graft-versus-host disease|Transplant
+GVL|Graft-versus-leukemia|Transplant
+GVT|Graft-versus-tumor|Transplant
+HSCT|Hematopoietic stem cell transplant|Transplant
+HCT|Hematopoietic cell transplant|Transplant
+BMT|Bone marrow transplant|Transplant
+SCT|Stem cell transplant|Transplant
+ASCT|Autologous stem cell transplant|Transplant
+auto-HCT|Autologous hematopoietic cell transplant|Transplant
+allo-HCT|Allogeneic hematopoietic cell transplant|Transplant
+PBSC|Peripheral blood stem cells|Transplant
+CBU|Cord blood unit|Transplant
+UCB|Umbilical cord blood|Transplant
+UCBT|Umbilical cord blood transplant|Transplant
+MUD|Matched unrelated donor|Transplant
+MRD|Matched related donor|Transplant
+MSD|Matched sibling donor|Transplant
+MMUD|Mismatched unrelated donor|Transplant
+haplo|Haploidentical|Transplant
+PTCy|Post-transplant cyclophosphamide|Transplant
+MAC|Myeloablative conditioning|Transplant
+RIC|Reduced-intensity conditioning|Transplant
+NMA|Nonmyeloablative conditioning|Transplant
+TBI|Total body irradiation|Transplant
+TLI|Total lymphoid irradiation|Transplant
+ATG|Anti-thymocyte globulin|Transplant
+rATG|Rabbit anti-thymocyte globulin|Transplant
+IL-2R|Interleukin-2 receptor|Transplant
+CNI|Calcineurin inhibitor|Transplant
+TAC|Tacrolimus|Transplant
+CsA|Cyclosporine|Transplant
+CyA|Cyclosporine A|Transplant
+MMF|Mycophenolate mofetil|Transplant
+MPA|Mycophenolic acid|Transplant
+MPAG|Mycophenolic acid glucuronide|Transplant
+EC-MPS|Enteric-coated mycophenolate sodium|Transplant
+AZA|Azathioprine|Transplant
+mTOR|Mammalian target of rapamycin|Transplant
+mTORi|Mammalian target of rapamycin inhibitor|Transplant
+SRL|Sirolimus|Transplant
+EVR|Everolimus|Transplant
+IVIG|Intravenous immunoglobulin|Transplant
+PLEX|Plasma exchange|Transplant
+TPE|Therapeutic plasma exchange|Transplant
+IA|Immunoadsorption|Transplant
+IST|Immunosuppressive therapy|Transplant
+TDM|Therapeutic drug monitoring|Transplant
+AUC|Area under the curve|Transplant
+CYP3A4|Cytochrome P450 3A4 enzyme|Transplant
+CYP3A5|Cytochrome P450 3A5 enzyme|Transplant
+P-gp|P-glycoprotein|Transplant
+PTLD|Post-transplant lymphoproliferative disorder|Transplant
+PTDM|Post-transplant diabetes mellitus|Transplant
+NODAT|New-onset diabetes after transplant|Transplant
+CMV|Cytomegalovirus|Transplant
+EBV|Epstein-Barr virus|Transplant
+BKV|BK polyomavirus|Transplant
+BKVAN|BK virus-associated nephropathy|Transplant
+HHV|Human herpesvirus|Transplant
+HHV-6|Human herpesvirus 6|Transplant
+HHV-8|Human herpesvirus 8|Transplant
+HSV|Herpes simplex virus|Transplant
+VZV|Varicella-zoster virus|Transplant
+HBV|Hepatitis B virus|Transplant
+HCV|Hepatitis C virus|Transplant
+HEV|Hepatitis E virus|Transplant
+HIV|Human immunodeficiency virus|Transplant
+HTLV|Human T-lymphotropic virus|Transplant
+RSV|Respiratory syncytial virus|Transplant
+PJP|Pneumocystis jirovecii pneumonia|Transplant
+PCP|Pneumocystis pneumonia|Transplant
+TMP-SMX|Trimethoprim-sulfamethoxazole|Transplant
+VGC|Valganciclovir|Transplant
+GCV|Ganciclovir|Transplant
+ACV|Acyclovir|Transplant
+VACV|Valacyclovir|Transplant
+VST|Virus-specific T cells|Transplant
+DLI|Donor lymphocyte infusion|Transplant
+PCR|Polymerase chain reaction|Transplant
+NAT|Nucleic acid testing|Transplant
+IGRA|Interferon-gamma release assay|Transplant
+LTBI|Latent tuberculosis infection|Transplant
+TB|Tuberculosis|Transplant
+IFI|Invasive fungal infection|Transplant
+IPA|Invasive pulmonary aspergillosis|Transplant
+GM|Galactomannan|Transplant
+BDG|Beta-D-glucan|Transplant
+CRE|Carbapenem-resistant Enterobacterales|Transplant
+VRE|Vancomycin-resistant Enterococcus|Transplant
+MRSA|Methicillin-resistant Staphylococcus aureus|Transplant
+ESBL|Extended-spectrum beta-lactamase|Transplant
+DDI|Drug-drug interaction|Transplant
+SOT|Solid organ transplant|Transplant
+SOTR|Solid organ transplant recipient|Transplant
+KT|Kidney transplant|Transplant
+KTR|Kidney transplant recipient|Transplant
+KTx|Kidney transplant|Transplant
+SPK|Simultaneous pancreas-kidney transplant|Transplant
+PAK|Pancreas after kidney transplant|Transplant
+PTA|Pancreas transplant alone|Transplant
+SLK|Simultaneous liver-kidney transplant|Transplant
+SHK|Simultaneous heart-kidney transplant|Transplant
+LT|Liver transplant|Transplant
+OLT|Orthotopic liver transplant|Transplant
+LDLT|Living donor liver transplant|Transplant
+DDLT|Deceased donor liver transplant|Transplant
+DCDLT|Donation after circulatory death liver transplant|Transplant
+HT|Heart transplant|Transplant
+OHT|Orthotopic heart transplant|Transplant
+HTx|Heart transplant|Transplant
+HLTx|Heart-lung transplant|Transplant
+LTx|Lung transplant|Transplant
+BLTx|Bilateral lung transplant|Transplant
+SLTx|Single lung transplant|Transplant
+DLT|Double lung transplant|Transplant
+VCA|Vascularized composite allotransplantation|Transplant
+ITx|Intestinal transplant|Transplant
+MVTx|Multivisceral transplant|Transplant
+LD|Living donor|Transplant
+LDKT|Living donor kidney transplant|Transplant
+DD|Deceased donor|Transplant
+DDKT|Deceased donor kidney transplant|Transplant
+DBD|Donation after brain death|Transplant
+DCD|Donation after circulatory death|Transplant
+BD|Brain death|Transplant
+SCD|Standard criteria donor|Transplant
+ECD|Expanded criteria donor|Transplant
+KDPI|Kidney donor profile index|Transplant
+KDRI|Kidney donor risk index|Transplant
+LDPI|Liver donor profile index|Transplant
+DRI|Donor risk index|Transplant
+IRD|Increased risk donor|Transplant
+HRD|High-risk donor|Transplant
+OPO|Organ procurement organization|Transplant
+OP|Organ procurement|Transplant
+DMG|Donor management goals|Transplant
+DI|Diabetes insipidus|Transplant
+WIT|Warm ischemia time|Transplant
+FWIT|Functional warm ischemia time|Transplant
+TIT|Total ischemia time|Transplant
+IRI|Ischemia-reperfusion injury|Transplant
+I/R|Ischemia-reperfusion|Transplant
+SCS|Static cold storage|Transplant
+HMP|Hypothermic machine perfusion|Transplant
+NMP|Normothermic machine perfusion|Transplant
+NRP|Normothermic regional perfusion|Transplant
+TA-NRP|Thoracoabdominal normothermic regional perfusion|Transplant
+ECMO|Extracorporeal membrane oxygenation|Transplant
+EVLP|Ex vivo lung perfusion|Transplant
+OCS|Organ care system|Transplant
+UW|University of Wisconsin preservation solution|Transplant
+HTK|Histidine-tryptophan-ketoglutarate solution|Transplant
+MELD|Model for end-stage liver disease|Transplant
+MELD-Na|Model for end-stage liver disease with sodium|Transplant
+MELD 3.0|Model for end-stage liver disease version 3.0|Transplant
+PELD|Pediatric end-stage liver disease score|Transplant
+CTP|Child-Turcotte-Pugh score|Transplant
+CPS|Child-Pugh score|Transplant
+HCC|Hepatocellular carcinoma|Transplant
+AFP|Alpha-fetoprotein|Transplant
+TACE|Transarterial chemoembolization|Transplant
+TARE|Transarterial radioembolization|Transplant
+RFA|Radiofrequency ablation|Transplant
+MWA|Microwave ablation|Transplant
+HAT|Hepatic artery thrombosis|Transplant
+PVT|Portal vein thrombosis|Transplant
+TIPS|Transjugular intrahepatic portosystemic shunt|Transplant
+HRS|Hepatorenal syndrome|Transplant
+HRS-AKI|Hepatorenal syndrome with acute kidney injury|Transplant
+HE|Hepatic encephalopathy|Transplant
+SBP|Spontaneous bacterial peritonitis|Transplant
+ACLF|Acute-on-chronic liver failure|Transplant
+ALF|Acute liver failure|Transplant
+ESLD|End-stage liver disease|Transplant
+HPS|Hepatopulmonary syndrome|Transplant
+POPH|Portopulmonary hypertension|Transplant
+PSC|Primary sclerosing cholangitis|Transplant
+PBC|Primary biliary cholangitis|Transplant
+AIH|Autoimmune hepatitis|Transplant
+NASH|Nonalcoholic steatohepatitis|Transplant
+MASH|Metabolic dysfunction-associated steatohepatitis|Transplant
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Transplant
+NAFLD|Nonalcoholic fatty liver disease|Transplant
+ALD|Alcohol-associated liver disease|Transplant
+AH|Alcohol-associated hepatitis|Transplant
+SALT|Sustained alcohol use post-liver transplant|Transplant
+SIPAT|Stanford Integrated Psychosocial Assessment for Transplant|Transplant
+ALT|Alanine aminotransferase|Transplant
+AST|Aspartate aminotransferase|Transplant
+ALP|Alkaline phosphatase|Transplant
+GGT|Gamma-glutamyl transferase|Transplant
+INR|International normalized ratio|Transplant
+LFT|Liver function test|Transplant
+CBD|Common bile duct|Transplant
+ERCP|Endoscopic retrograde cholangiopancreatography|Transplant
+MRCP|Magnetic resonance cholangiopancreatography|Transplant
+PTC|Percutaneous transhepatic cholangiography|Transplant
+ITBL|Ischemic-type biliary lesions|Transplant
+SOS|Sinusoidal obstruction syndrome|Transplant
+VOD|Veno-occlusive disease|Transplant
+TMA|Thrombotic microangiopathy|Transplant
+TA-TMA|Transplant-associated thrombotic microangiopathy|Transplant
+DAH|Diffuse alveolar hemorrhage|Transplant
+IPS|Idiopathic pneumonia syndrome|Transplant
+BO|Bronchiolitis obliterans|Transplant
+BOOP|Bronchiolitis obliterans organizing pneumonia|Transplant
+COP|Cryptogenic organizing pneumonia|Transplant
+CRS|Cytokine release syndrome|Transplant
+ICANS|Immune effector cell-associated neurotoxicity syndrome|Transplant
+CAR-T|Chimeric antigen receptor T cell|Transplant
+GF|Graft failure|Transplant
+CHIM|Chimerism|Transplant
+CR|Complete remission|Transplant
+CRi|Complete remission with incomplete count recovery|Transplant
+PR|Partial remission|Transplant
+RFS|Relapse-free survival|Transplant
+OS|Overall survival|Transplant
+EFS|Event-free survival|Transplant
+DFS|Disease-free survival|Transplant
+GRFS|GVHD-free, relapse-free survival|Transplant
+NRM|Non-relapse mortality|Transplant
+TRM|Transplant-related mortality|Transplant
+HCT-CI|Hematopoietic cell transplantation comorbidity index|Transplant
+ANC|Absolute neutrophil count|Transplant
+ALC|Absolute lymphocyte count|Transplant
+CBC|Complete blood count|Transplant
+CD34|Cluster of differentiation 34 stem cell marker|Transplant
+G-CSF|Granulocyte colony-stimulating factor|Transplant
+GM-CSF|Granulocyte-macrophage colony-stimulating factor|Transplant
+FN|Febrile neutropenia|Transplant
+MTX|Methotrexate|Transplant
+Cy|Cyclophosphamide|Transplant
+Flu|Fludarabine|Transplant
+Bu|Busulfan|Transplant
+Mel|Melphalan|Transplant
+Flu/Mel|Fludarabine and melphalan conditioning|Transplant
+Flu/Bu|Fludarabine and busulfan conditioning|Transplant
+Cy/TBI|Cyclophosphamide and total body irradiation conditioning|Transplant
+Bu/Cy|Busulfan and cyclophosphamide conditioning|Transplant
+PTCy/Tac/MMF|Post-transplant cyclophosphamide, tacrolimus and mycophenolate GVHD prophylaxis|Transplant
+CCr|Creatinine clearance|Transplant
+SCr|Serum creatinine|Transplant
+Cr|Creatinine|Transplant
+BUN|Blood urea nitrogen|Transplant
+eGFR|Estimated glomerular filtration rate|Transplant
+GFR|Glomerular filtration rate|Transplant
+mGFR|Measured glomerular filtration rate|Transplant
+CKD|Chronic kidney disease|Transplant
+ESKD|End-stage kidney disease|Transplant
+ESRD|End-stage renal disease|Transplant
+AKI|Acute kidney injury|Transplant
+ATN|Acute tubular necrosis|Transplant
+RRT|Renal replacement therapy|Transplant
+HD|Hemodialysis|Transplant
+PD|Peritoneal dialysis|Transplant
+CRRT|Continuous renal replacement therapy|Transplant
+CVVH|Continuous venovenous hemofiltration|Transplant
+CVVHD|Continuous venovenous hemodialysis|Transplant
+CVVHDF|Continuous venovenous hemodiafiltration|Transplant
+AVF|Arteriovenous fistula|Transplant
+AVG|Arteriovenous graft|Transplant
+TDC|Tunneled dialysis catheter|Transplant
+UPCR|Urine protein-to-creatinine ratio|Transplant
+UACR|Urine albumin-to-creatinine ratio|Transplant
+UA|Urinalysis|Transplant
+FSGS|Focal segmental glomerulosclerosis|Transplant
+IgAN|Immunoglobulin A nephropathy|Transplant
+MPGN|Membranoproliferative glomerulonephritis|Transplant
+MN|Membranous nephropathy|Transplant
+GN|Glomerulonephritis|Transplant
+ADPKD|Autosomal dominant polycystic kidney disease|Transplant
+PKD|Polycystic kidney disease|Transplant
+aHUS|Atypical hemolytic uremic syndrome|Transplant
+HUS|Hemolytic uremic syndrome|Transplant
+TTP|Thrombotic thrombocytopenic purpura|Transplant
+DN|Diabetic nephropathy|Transplant
+CAKUT|Congenital anomalies of the kidney and urinary tract|Transplant
+VUR|Vesicoureteral reflux|Transplant
+UTI|Urinary tract infection|Transplant
+RTA|Renal tubular acidosis|Transplant
+TRAS|Transplant renal artery stenosis|Transplant
+RVT|Renal vein thrombosis|Transplant
+UO|Urine output|Transplant
+LDN|Laparoscopic donor nephrectomy|Transplant
+HALDN|Hand-assisted laparoscopic donor nephrectomy|Transplant
+RDN|Robotic donor nephrectomy|Transplant
+PIV|Peripheral intravenous line|Transplant
+CVC|Central venous catheter|Transplant
+PICC|Peripherally inserted central catheter|Transplant
+JP|Jackson-Pratt drain|Transplant
+DJ|Double-J ureteral stent|Transplant
+UVJ|Ureterovesical junction|Transplant
+VCUG|Voiding cystourethrogram|Transplant
+HS|Highly sensitized|Transplant
+ABOi|ABO-incompatible|Transplant
+ABOc|ABO-compatible|Transplant
+HLAi|HLA-incompatible|Transplant
+XM|Crossmatch|Transplant
+CDC|Complement-dependent cytotoxicity|Transplant
+CDCXM|Complement-dependent cytotoxicity crossmatch|Transplant
+FCXM|Flow cytometry crossmatch|Transplant
+VXM|Virtual crossmatch|Transplant
+MFI|Mean fluorescence intensity|Transplant
+SSOP|Sequence-specific oligonucleotide probe|Transplant
+SSP|Sequence-specific primer|Transplant
+NGS|Next-generation sequencing|Transplant
+SBT|Sequence-based typing|Transplant
+MM|Mismatch|Transplant
+cfDNA|Cell-free DNA|Transplant
+dd-cfDNA|Donor-derived cell-free DNA|Transplant
+GEP|Gene expression profiling|Transplant
+EMB|Endomyocardial biopsy|Transplant
+TBBx|Transbronchial biopsy|Transplant
+TBLB|Transbronchial lung biopsy|Transplant
+BAL|Bronchoalveolar lavage|Transplant
+PFT|Pulmonary function test|Transplant
+FEV1|Forced expiratory volume in one second|Transplant
+FVC|Forced vital capacity|Transplant
+FEF25-75|Forced expiratory flow between 25 and 75 percent of vital capacity|Transplant
+TLC|Total lung capacity|Transplant
+DLCO|Diffusing capacity of the lung for carbon monoxide|Transplant
+LAS|Lung allocation score|Transplant
+CAS|Composite allocation score|Transplant
+ILD|Interstitial lung disease|Transplant
+IPF|Idiopathic pulmonary fibrosis|Transplant
+COPD|Chronic obstructive pulmonary disease|Transplant
+CF|Cystic fibrosis|Transplant
+PAH|Pulmonary arterial hypertension|Transplant
+PH|Pulmonary hypertension|Transplant
+PVR|Pulmonary vascular resistance|Transplant
+TPG|Transpulmonary gradient|Transplant
+PCWP|Pulmonary capillary wedge pressure|Transplant
+PA|Pulmonary artery|Transplant
+RHC|Right heart catheterization|Transplant
+CO|Cardiac output|Transplant
+CI|Cardiac index|Transplant
+LVAD|Left ventricular assist device|Transplant
+RVAD|Right ventricular assist device|Transplant
+BiVAD|Biventricular assist device|Transplant
+MCS|Mechanical circulatory support|Transplant
+TAH|Total artificial heart|Transplant
+IABP|Intra-aortic balloon pump|Transplant
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Transplant
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Transplant
+BTT|Bridge to transplant|Transplant
+BTC|Bridge to candidacy|Transplant
+BTR|Bridge to recovery|Transplant
+DT|Destination therapy|Transplant
+HF|Heart failure|Transplant
+HFrEF|Heart failure with reduced ejection fraction|Transplant
+LVEF|Left ventricular ejection fraction|Transplant
+EF|Ejection fraction|Transplant
+RVF|Right ventricular failure|Transplant
+RV|Right ventricle|Transplant
+LV|Left ventricle|Transplant
+DCM|Dilated cardiomyopathy|Transplant
+ICM|Ischemic cardiomyopathy|Transplant
+NICM|Nonischemic cardiomyopathy|Transplant
+HCM|Hypertrophic cardiomyopathy|Transplant
+RCM|Restrictive cardiomyopathy|Transplant
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Transplant
+CHD|Congenital heart disease|Transplant
+ACHD|Adult congenital heart disease|Transplant
+CS|Cardiogenic shock|Transplant
+VO2|Oxygen consumption|Transplant
+pVO2|Peak oxygen consumption|Transplant
+CPET|Cardiopulmonary exercise test|Transplant
+CRT|Cardiac resynchronization therapy|Transplant
+ICD|Implantable cardioverter-defibrillator|Transplant
+IVUS|Intravascular ultrasound|Transplant
+OCT|Optical coherence tomography|Transplant
+CTA|Computed tomography angiography|Transplant
+DSE|Dobutamine stress echocardiography|Transplant
+TTE|Transthoracic echocardiogram|Transplant
+TEE|Transesophageal echocardiogram|Transplant
+GLS|Global longitudinal strain|Transplant
+AV block|Atrioventricular block|Transplant
+SND|Sinus node dysfunction|Transplant
+PPM|Permanent pacemaker|Transplant
+ECG|Electrocardiogram|Transplant
+BNP|B-type natriuretic peptide|Transplant
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Transplant
+cTn|Cardiac troponin|Transplant
+hs-cTn|High-sensitivity cardiac troponin|Transplant
+CK|Creatine kinase|Transplant
+SVR|Systemic vascular resistance|Transplant
+MAP|Mean arterial pressure|Transplant
+CVP|Central venous pressure|Transplant
+RAP|Right atrial pressure|Transplant
+SvO2|Mixed venous oxygen saturation|Transplant
+MV|Mechanical ventilation|Transplant
+NIV|Noninvasive ventilation|Transplant
+HFNC|High-flow nasal cannula|Transplant
+BiPAP|Bilevel positive airway pressure|Transplant
+CPAP|Continuous positive airway pressure|Transplant
+ARDS|Acute respiratory distress syndrome|Transplant
+PEEP|Positive end-expiratory pressure|Transplant
+ICU|Intensive care unit|Transplant
+CTICU|Cardiothoracic intensive care unit|Transplant
+SICU|Surgical intensive care unit|Transplant
+LOS|Length of stay|Transplant
+POD|Postoperative day|Transplant
+MDM|Multidisciplinary meeting|Transplant
+NPO|Nothing by mouth|Transplant
+TPN|Total parenteral nutrition|Transplant
+NGT|Nasogastric tube|Transplant
+GI|Gastrointestinal|Transplant
+GIB|Gastrointestinal bleeding|Transplant
+PPI|Proton pump inhibitor|Transplant
+H2RA|Histamine-2 receptor antagonist|Transplant
+DVT|Deep vein thrombosis|Transplant
+PE|Pulmonary embolism|Transplant
+VTE|Venous thromboembolism|Transplant
+UFH|Unfractionated heparin|Transplant
+LMWH|Low-molecular-weight heparin|Transplant
+DOAC|Direct oral anticoagulant|Transplant
+ASA|Aspirin|Transplant
+HIT|Heparin-induced thrombocytopenia|Transplant
+PRBC|Packed red blood cells|Transplant
+FFP|Fresh frozen plasma|Transplant
+PLT|Platelets|Transplant
+TEG|Thromboelastography|Transplant
+ROTEM|Rotational thromboelastometry|Transplant
+PT|Prothrombin time|Transplant
+aPTT|Activated partial thromboplastin time|Transplant
+DIC|Disseminated intravascular coagulation|Transplant
+EPO|Erythropoietin|Transplant
+ESA|Erythropoiesis-stimulating agent|Transplant
+HTN|Hypertension|Transplant
+DM|Diabetes mellitus|Transplant
+T2DM|Type 2 diabetes mellitus|Transplant
+HLD|Hyperlipidemia|Transplant
+CVD|Cardiovascular disease|Transplant
+PTH|Parathyroid hormone|Transplant
+HPT|Hyperparathyroidism|Transplant
+MBD|Mineral and bone disorder|Transplant
+CKD-MBD|Chronic kidney disease mineral and bone disorder|Transplant
+BMD|Bone mineral density|Transplant
+DXA|Dual-energy x-ray absorptiometry|Transplant
+GIO|Glucocorticoid-induced osteoporosis|Transplant
+AVN|Avascular necrosis|Transplant
+BMI|Body mass index|Transplant
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Transplant
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Transplant
+HbA1c|Glycated hemoglobin|Transplant
+Mg|Magnesium|Transplant
+K|Potassium|Transplant
+PRES|Posterior reversible encephalopathy syndrome|Transplant
+CNS|Central nervous system|Transplant
+CNI toxicity|Calcineurin inhibitor toxicity|Transplant
+CNI-TMA|Calcineurin inhibitor-associated thrombotic microangiopathy|Transplant
+SCC|Squamous cell carcinoma|Transplant
+BCC|Basal cell carcinoma|Transplant
+NMSC|Nonmelanoma skin cancer|Transplant
+KS|Kaposi sarcoma|Transplant
+NHL|Non-Hodgkin lymphoma|Transplant
+DLBCL|Diffuse large B-cell lymphoma|Transplant
+HL|Hodgkin lymphoma|Transplant
+AML|Acute myeloid leukemia|Transplant
+ALL|Acute lymphoblastic leukemia|Transplant
+CML|Chronic myeloid leukemia|Transplant
+CLL|Chronic lymphocytic leukemia|Transplant
+MDS|Myelodysplastic syndrome|Transplant
+MPN|Myeloproliferative neoplasm|Transplant
+SAA|Severe aplastic anemia|Transplant
+AA|Aplastic anemia|Transplant
+PNH|Paroxysmal nocturnal hemoglobinuria|Transplant
+TDT|Transfusion-dependent thalassemia|Transplant
+SCID|Severe combined immunodeficiency|Transplant
+WAS|Wiskott-Aldrich syndrome|Transplant
+HLH|Hemophagocytic lymphohistiocytosis|Transplant
+CGD|Chronic granulomatous disease|Transplant
+TKI|Tyrosine kinase inhibitor|Transplant
+JAKi|Janus kinase inhibitor|Transplant
+ECP|Extracorporeal photopheresis|Transplant
+BSA|Body surface area|Transplant
+Ab|Antibody|Transplant
+Ag|Antigen|Transplant
+IgG|Immunoglobulin G|Transplant
+IgM|Immunoglobulin M|Transplant
+IgA|Immunoglobulin A|Transplant
+C3|Complement component 3|Transplant
+C4d|Complement component 4d|Transplant
+C5|Complement component 5|Transplant
+CD20|Cluster of differentiation 20|Transplant
+CD3|Cluster of differentiation 3|Transplant
+CD4|Cluster of differentiation 4|Transplant
+CD8|Cluster of differentiation 8|Transplant
+Treg|Regulatory T cell|Transplant
+NK|Natural killer|Transplant
+APC|Antigen-presenting cell|Transplant
+TCR|T cell receptor|Transplant
+BCR|B cell receptor|Transplant
+DC|Dendritic cell|Transplant
+IL|Interleukin|Transplant
+TNF|Tumor necrosis factor|Transplant
+IFN|Interferon|Transplant
+MLR|Mixed lymphocyte reaction|Transplant
+IVC|Inferior vena cava|Transplant
+SVC|Superior vena cava|Transplant
+PV|Portal vein|Transplant
+HV|Hepatic vein|Transplant
+SMV|Superior mesenteric vein|Transplant
+SMA|Superior mesenteric artery|Transplant
+SV|Splenic vein|Transplant
+HA|Hepatic artery|Transplant
+GDA|Gastroduodenal artery|Transplant
+RA|Renal artery|Transplant
+EIA|External iliac artery|Transplant
+EIV|External iliac vein|Transplant
+CIA|Common iliac artery|Transplant
+IIA|Internal iliac artery|Transplant
+US|Ultrasound|Transplant
+DUS|Duplex ultrasound|Transplant
+RI|Resistive index|Transplant
+CEUS|Contrast-enhanced ultrasound|Transplant
+MRI|Magnetic resonance imaging|Transplant
+MRA|Magnetic resonance angiography|Transplant
+CT|Computed tomography|Transplant
+PET|Positron emission tomography|Transplant
+MAG3|Technetium-99m mercaptoacetyltriglycine renal scan|Transplant
+DMSA|Dimercaptosuccinic acid renal scan|Transplant
+Bx|Biopsy|Transplant
+H&E|Hematoxylin and eosin|Transplant
+PAS|Periodic acid-Schiff|Transplant
+IF|Immunofluorescence|Transplant
+IHC|Immunohistochemistry|Transplant
+EM|Electron microscopy|Transplant
+TG|Transplant glomerulopathy|Transplant
+SSI|Surgical site infection|Transplant
+SBO|Small bowel obstruction|Transplant
+NYHA|New York Heart Association functional class|Transplant
+FEV1/FVC|Ratio of forced expiratory volume in one second to forced vital capacity|Transplant
+6MWT|Six-minute walk test|Transplant
+KPS|Karnofsky performance status|Transplant
+ECOG|Eastern Cooperative Oncology Group performance status|Transplant
+OB|Obliterative bronchiolitis|Transplant
+AR|Acute rejection|Transplant
+HAR|Hyperacute rejection|Transplant
+AAR|Accelerated acute rejection|Transplant
+SRAD|Steroid-refractory acute GVHD|Transplant
+MP|Methylprednisolone|Transplant
+Pred|Prednisone|Transplant
+BID|Twice daily|Transplant
+QD|Once daily|Transplant
+IV|Intravenous|Transplant
+PO|By mouth|Transplant
+SQ|Subcutaneous|Transplant
+SL|Sublingual|Transplant
+MM|Multiple myeloma|Transplant
+CIT|Cold ischemia time|Transplant
+SR|Steroid-resistant|Transplant

@@ -57,6 +57,12 @@ const LEX={};
 const add=(e)=>{const k=norm(e.a); if(!k) return; (LEX[k]=LEX[k]||[]).push(e);};
 ENTRIES.forEach(([a,m,s])=>add({a,m,spec:s}));
 PARTS.forEach(add);
+add({a:"MVCAD",m:"Multivessel coronary artery disease",spec:"Cardiology"});
+add({a:"SVCAD",m:"Single-vessel coronary artery disease",spec:"Cardiology"});
+add({a:"DVCAD",m:"Double-vessel coronary artery disease",spec:"Cardiology"});
+add({a:"TVCAD",m:"Triple-vessel coronary artery disease",spec:"Cardiology"});
+add({a:"LMCAD",m:"Left main coronary artery disease",spec:"Cardiology"});
+add({a:"MVD",m:"Multivessel disease",spec:"Cardiology"});
 for(let n=1;n<=6;n++){
   add({a:n+"VCAD",m:n+"-vessel coronary artery disease",spec:"Cardiology"});
   add({a:n+"VD",m:n+"-vessel disease",spec:"Cardiology"});
@@ -84,7 +90,7 @@ function decodeToken(tok){
 // ---- DOM ----
 const $=id=>document.getElementById(id);
 const t=$("t"),q=$("q"),none=$("none"),dec=$("dec"),spec=$("spec"),count=$("count");
-[...new Set(ENTRIES.map(e=>e[2]).concat(["Compound modifier"]))].sort().forEach(s=>{
+[...new Set(ENTRIES.flatMap(e=>e[2].split(", ")).concat(["Compound modifier"]))].sort().forEach(s=>{
   const o=document.createElement("option");o.value=s;o.textContent=s;spec.append(o);
 });
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -116,7 +122,7 @@ function render(){
       return [s,e];
     }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
   } else rows=rows.slice().sort((x,y)=>x[0].localeCompare(y[0]));
-  if(sp) rows=rows.filter(e=>e[2]===sp);
+  if(sp) rows=rows.filter(e=>e[2].split(", ").includes(sp));
 
   t.innerHTML="";
   rows.slice(0,400).forEach(([a,m,s])=>{

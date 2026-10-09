@@ -1,0 +1,690 @@
+HF|Heart failure|Heart Failure
+CHF|Congestive heart failure|Heart Failure
+HFrEF|Heart failure with reduced ejection fraction|Heart Failure
+HFpEF|Heart failure with preserved ejection fraction|Heart Failure
+HFmrEF|Heart failure with mildly reduced ejection fraction|Heart Failure
+HFimpEF|Heart failure with improved ejection fraction|Heart Failure
+HFrecEF|Heart failure with recovered ejection fraction|Heart Failure
+ADHF|Acute decompensated heart failure|Heart Failure
+AHF|Acute heart failure|Heart Failure
+ACHF|Acute on chronic heart failure|Heart Failure
+AoCHF|Acute on chronic heart failure|Heart Failure
+SHF|Systolic heart failure|Heart Failure
+DHF|Diastolic heart failure|Heart Failure
+RHF|Right heart failure|Heart Failure
+LHF|Left heart failure|Heart Failure
+GDMT|Guideline-directed medical therapy|Heart Failure
+OMT|Optimal medical therapy|Heart Failure
+ACEi|Angiotensin-converting enzyme inhibitor|Heart Failure
+ACE-I|Angiotensin-converting enzyme inhibitor|Heart Failure
+ARB|Angiotensin receptor blocker|Heart Failure
+ARNI|Angiotensin receptor-neprilysin inhibitor|Heart Failure
+BB|Beta blocker|Heart Failure
+MRA|Mineralocorticoid receptor antagonist|Heart Failure
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Heart Failure
+SGLT2|Sodium-glucose cotransporter 2|Heart Failure
+HCTZ|Hydrochlorothiazide|Heart Failure
+ISDN|Isosorbide dinitrate|Heart Failure
+ISMN|Isosorbide mononitrate|Heart Failure
+NTG|Nitroglycerin|Heart Failure
+NTP|Nitroprusside|Heart Failure
+SNP|Sodium nitroprusside|Heart Failure
+ASA|Acetylsalicylic acid (aspirin)|Heart Failure
+DOAC|Direct oral anticoagulant|Heart Failure
+NOAC|Novel oral anticoagulant|Heart Failure
+OAC|Oral anticoagulant|Heart Failure
+LMWH|Low molecular weight heparin|Heart Failure
+UFH|Unfractionated heparin|Heart Failure
+VKA|Vitamin K antagonist|Heart Failure
+CCB|Calcium channel blocker|Heart Failure
+DHP|Dihydropyridine|Heart Failure
+non-DHP CCB|Non-dihydropyridine calcium channel blocker|Heart Failure
+NSAID|Nonsteroidal anti-inflammatory drug|Heart Failure
+TZD|Thiazolidinedione|Heart Failure
+DPP-4i|Dipeptidyl peptidase-4 inhibitor|Heart Failure
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Heart Failure
+sGC|Soluble guanylate cyclase|Heart Failure
+HCN|Hyperpolarization-activated cyclic nucleotide-gated channel|Heart Failure
+IV|Intravenous|Heart Failure
+PO|By mouth (oral)|Heart Failure
+SQ|Subcutaneous|Heart Failure
+SC|Subcutaneous|Heart Failure
+IVP|Intravenous push|Heart Failure
+gtt|Drip (continuous infusion)|Heart Failure
+BID|Twice daily|Heart Failure
+TID|Three times daily|Heart Failure
+QD|Once daily|Heart Failure
+QHS|Every night at bedtime|Heart Failure
+PRN|As needed|Heart Failure
+ED|Emergency department|Heart Failure
+LOS|Length of stay|Heart Failure
+ICU|Intensive care unit|Heart Failure
+CCU|Cardiac care unit|Heart Failure
+CICU|Cardiac intensive care unit|Heart Failure
+CVICU|Cardiovascular intensive care unit|Heart Failure
+SICU|Surgical intensive care unit|Heart Failure
+MICU|Medical intensive care unit|Heart Failure
+HFU|Heart failure unit|Heart Failure
+RRT|Rapid response team|Heart Failure
+DNR|Do not resuscitate|Heart Failure
+DNI|Do not intubate|Heart Failure
+POLST|Physician orders for life-sustaining treatment|Heart Failure
+GOC|Goals of care|Heart Failure
+LVEF|Left ventricular ejection fraction|Heart Failure
+EF|Ejection fraction|Heart Failure
+RVEF|Right ventricular ejection fraction|Heart Failure
+LVESV|Left ventricular end-systolic volume|Heart Failure
+LVEDV|Left ventricular end-diastolic volume|Heart Failure
+LVESVI|Left ventricular end-systolic volume index|Heart Failure
+LVEDVI|Left ventricular end-diastolic volume index|Heart Failure
+LVIDd|Left ventricular internal diameter in diastole|Heart Failure
+LVIDs|Left ventricular internal diameter in systole|Heart Failure
+LVEDD|Left ventricular end-diastolic diameter|Heart Failure
+LVESD|Left ventricular end-systolic diameter|Heart Failure
+LVH|Left ventricular hypertrophy|Heart Failure
+LVM|Left ventricular mass|Heart Failure
+LVMI|Left ventricular mass index|Heart Failure
+RWT|Relative wall thickness|Heart Failure
+IVS|Interventricular septum|Heart Failure
+IVSd|Interventricular septal thickness in diastole|Heart Failure
+PWd|Posterior wall thickness in diastole|Heart Failure
+LAVI|Left atrial volume index|Heart Failure
+LAE|Left atrial enlargement|Heart Failure
+RA|Right atrium|Heart Failure
+RAE|Right atrial enlargement|Heart Failure
+RVH|Right ventricular hypertrophy|Heart Failure
+RVD|Right ventricular dysfunction|Heart Failure
+RVSP|Right ventricular systolic pressure|Heart Failure
+TAPSE|Tricuspid annular plane systolic excursion|Heart Failure
+FAC|Fractional area change|Heart Failure
+RV S'|Right ventricular tricuspid annular systolic velocity|Heart Failure
+GLS|Global longitudinal strain|Heart Failure
+LV GLS|Left ventricular global longitudinal strain|Heart Failure
+GCS|Global circumferential strain|Heart Failure
+RVFWS|Right ventricular free wall strain|Heart Failure
+TTE|Transthoracic echocardiogram|Heart Failure
+TEE|Transesophageal echocardiogram|Heart Failure
+DSE|Dobutamine stress echocardiogram|Heart Failure
+TDI|Tissue Doppler imaging|Heart Failure
+E/A|Ratio of early to late mitral inflow velocity|Heart Failure
+E/e'|Ratio of mitral inflow velocity to early diastolic annular velocity|Heart Failure
+DT|Deceleration time|Heart Failure
+IVRT|Isovolumic relaxation time|Heart Failure
+IVCT|Isovolumic contraction time|Heart Failure
+MPI|Myocardial performance index|Heart Failure
+LVOT|Left ventricular outflow tract|Heart Failure
+RVOT|Right ventricular outflow tract|Heart Failure
+LVOT VTI|Left ventricular outflow tract velocity time integral|Heart Failure
+VTI|Velocity time integral|Heart Failure
+SVI|Stroke volume index|Heart Failure
+CO|Cardiac output|Heart Failure
+CI|Cardiac index|Heart Failure
+CPO|Cardiac power output|Heart Failure
+CPI|Cardiac power index|Heart Failure
+PAPi|Pulmonary artery pulsatility index|Heart Failure
+RAP|Right atrial pressure|Heart Failure
+CVP|Central venous pressure|Heart Failure
+PAP|Pulmonary artery pressure|Heart Failure
+PASP|Pulmonary artery systolic pressure|Heart Failure
+PADP|Pulmonary artery diastolic pressure|Heart Failure
+mPAP|Mean pulmonary artery pressure|Heart Failure
+PCWP|Pulmonary capillary wedge pressure|Heart Failure
+PAWP|Pulmonary artery wedge pressure|Heart Failure
+LVEDP|Left ventricular end-diastolic pressure|Heart Failure
+LAP|Left atrial pressure|Heart Failure
+PVR|Pulmonary vascular resistance|Heart Failure
+SVR|Systemic vascular resistance|Heart Failure
+SVRI|Systemic vascular resistance index|Heart Failure
+TPG|Transpulmonary gradient|Heart Failure
+DPG|Diastolic pulmonary gradient|Heart Failure
+WU|Wood units|Heart Failure
+SvO2|Mixed venous oxygen saturation|Heart Failure
+ScvO2|Central venous oxygen saturation|Heart Failure
+PA sat|Pulmonary artery oxygen saturation|Heart Failure
+VO2|Oxygen consumption|Heart Failure
+peak VO2|Peak oxygen consumption|Heart Failure
+VCO2|Carbon dioxide production|Heart Failure
+VE/VCO2|Minute ventilation to carbon dioxide production ratio|Heart Failure
+RER|Respiratory exchange ratio|Heart Failure
+AT|Anaerobic threshold|Heart Failure
+VT|Ventilatory threshold|Heart Failure
+CPET|Cardiopulmonary exercise test|Heart Failure
+6MWT|Six-minute walk test|Heart Failure
+6MWD|Six-minute walk distance|Heart Failure
+METs|Metabolic equivalents|Heart Failure
+MET|Metabolic equivalent|Heart Failure
+RHC|Right heart catheterization|Heart Failure
+LHC|Left heart catheterization|Heart Failure
+PAC|Pulmonary artery catheter|Heart Failure
+PA cath|Pulmonary artery catheter|Heart Failure
+CCO|Continuous cardiac output|Heart Failure
+TDCO|Thermodilution cardiac output|Heart Failure
+EMB|Endomyocardial biopsy|Heart Failure
+RVEMB|Right ventricular endomyocardial biopsy|Heart Failure
+PAH|Pulmonary arterial hypertension|Heart Failure
+PHT|Pulmonary hypertension|Heart Failure
+CpcPH|Combined post- and pre-capillary pulmonary hypertension|Heart Failure
+IpcPH|Isolated post-capillary pulmonary hypertension|Heart Failure
+CTEPH|Chronic thromboembolic pulmonary hypertension|Heart Failure
+FC|Functional class|Heart Failure
+SOB|Shortness of breath|Heart Failure
+DOE|Dyspnea on exertion|Heart Failure
+PND|Paroxysmal nocturnal dyspnea|Heart Failure
+JVD|Jugular venous distension|Heart Failure
+JVP|Jugular venous pressure|Heart Failure
+HJR|Hepatojugular reflux|Heart Failure
+AJR|Abdominojugular reflux|Heart Failure
+S3|Third heart sound|Heart Failure
+S4|Fourth heart sound|Heart Failure
+BLE|Bilateral lower extremities|Heart Failure
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Heart Failure
+BNP|B-type natriuretic peptide|Heart Failure
+ANP|Atrial natriuretic peptide|Heart Failure
+CNP|C-type natriuretic peptide|Heart Failure
+cTn|Cardiac troponin|Heart Failure
+hs-cTn|High-sensitivity cardiac troponin|Heart Failure
+hsTnT|High-sensitivity troponin T|Heart Failure
+hsTnI|High-sensitivity troponin I|Heart Failure
+cTnI|Cardiac troponin I|Heart Failure
+cTnT|Cardiac troponin T|Heart Failure
+CK-MB|Creatine kinase myocardial band|Heart Failure
+CK|Creatine kinase|Heart Failure
+LDH|Lactate dehydrogenase|Heart Failure
+ST2|Soluble suppression of tumorigenicity 2|Heart Failure
+sST2|Soluble suppression of tumorigenicity 2|Heart Failure
+CRP|C-reactive protein|Heart Failure
+hsCRP|High-sensitivity C-reactive protein|Heart Failure
+ESR|Erythrocyte sedimentation rate|Heart Failure
+BMP|Basic metabolic panel|Heart Failure
+CMP|Comprehensive metabolic panel|Heart Failure
+CBC|Complete blood count|Heart Failure
+LFTs|Liver function tests|Heart Failure
+TSH|Thyroid-stimulating hormone|Heart Failure
+fT4|Free thyroxine|Heart Failure
+Cr|Creatinine|Heart Failure
+BUN|Blood urea nitrogen|Heart Failure
+BUN/Cr|Ratio of blood urea nitrogen to creatinine|Heart Failure
+eGFR|Estimated glomerular filtration rate|Heart Failure
+GFR|Glomerular filtration rate|Heart Failure
+CrCl|Creatinine clearance|Heart Failure
+AKI|Acute kidney injury|Heart Failure
+CKD|Chronic kidney disease|Heart Failure
+ESRD|End-stage renal disease|Heart Failure
+CRS|Cardiorenal syndrome|Heart Failure
+WRF|Worsening renal function|Heart Failure
+CRRT|Continuous renal replacement therapy|Heart Failure
+UF|Ultrafiltration|Heart Failure
+PD|Peritoneal dialysis|Heart Failure
+CVVH|Continuous venovenous hemofiltration|Heart Failure
+CVVHD|Continuous venovenous hemodialysis|Heart Failure
+CVVHDF|Continuous venovenous hemodiafiltration|Heart Failure
+K|Potassium|Heart Failure
+Na|Sodium|Heart Failure
+Mg|Magnesium|Heart Failure
+HypoNa|Hyponatremia|Heart Failure
+HyperK|Hyperkalemia|Heart Failure
+HypoK|Hypokalemia|Heart Failure
+Hgb|Hemoglobin|Heart Failure
+Hct|Hematocrit|Heart Failure
+TSAT|Transferrin saturation|Heart Failure
+IDA|Iron deficiency anemia|Heart Failure
+ID|Iron deficiency|Heart Failure
+FCM|Ferric carboxymaltose|Heart Failure
+FDI|Ferric derisomaltose|Heart Failure
+ESA|Erythropoiesis-stimulating agent|Heart Failure
+I/O|Intake and output|Heart Failure
+UOP|Urine output|Heart Failure
+BMI|Body mass index|Heart Failure
+BSA|Body surface area|Heart Failure
+IVC|Inferior vena cava|Heart Failure
+SVC|Superior vena cava|Heart Failure
+RIJ|Right internal jugular vein|Heart Failure
+LIJ|Left internal jugular vein|Heart Failure
+POCUS|Point-of-care ultrasound|Heart Failure
+VExUS|Venous excess ultrasound score|Heart Failure
+LUS|Lung ultrasound|Heart Failure
+CXR|Chest X-ray|Heart Failure
+CTR|Cardiothoracic ratio|Heart Failure
+CPA|Costophrenic angle|Heart Failure
+PVC|Pulmonary venous congestion|Heart Failure
+CT|Computed tomography|Heart Failure
+CCTA|Coronary computed tomography angiography|Heart Failure
+CTA|Computed tomography angiography|Heart Failure
+CAC|Coronary artery calcium|Heart Failure
+CMR|Cardiac magnetic resonance|Heart Failure
+CMRI|Cardiac magnetic resonance imaging|Heart Failure
+MRI|Magnetic resonance imaging|Heart Failure
+LGE|Late gadolinium enhancement|Heart Failure
+ECV|Extracellular volume|Heart Failure
+T1|Longitudinal relaxation time in magnetic resonance|Heart Failure
+T2|Transverse relaxation time in magnetic resonance|Heart Failure
+SPECT|Single-photon emission computed tomography|Heart Failure
+PET|Positron emission tomography|Heart Failure
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Heart Failure
+MUGA|Multigated acquisition scan|Heart Failure
+RNV|Radionuclide ventriculography|Heart Failure
+PYP|Technetium pyrophosphate|Heart Failure
+DPD|Technetium-99m 3,3-diphosphono-1,2-propanodicarboxylic acid scan|Heart Failure
+HMDP|Technetium-99m hydroxymethylene diphosphonate|Heart Failure
+MIBG|Metaiodobenzylguanidine|Heart Failure
+H/M ratio|Heart-to-mediastinum ratio|Heart Failure
+SPEP|Serum protein electrophoresis|Heart Failure
+UPEP|Urine protein electrophoresis|Heart Failure
+SIFE|Serum immunofixation electrophoresis|Heart Failure
+UIFE|Urine immunofixation electrophoresis|Heart Failure
+sFLC|Serum free light chains|Heart Failure
+FLC|Free light chain|Heart Failure
+AL|Light chain (primary) amyloidosis|Heart Failure
+AL-CA|Light chain cardiac amyloidosis|Heart Failure
+ATTR|Transthyretin amyloidosis|Heart Failure
+ATTRwt|Wild-type transthyretin amyloidosis|Heart Failure
+ATTRv|Variant (hereditary) transthyretin amyloidosis|Heart Failure
+ATTR-CM|Transthyretin amyloid cardiomyopathy|Heart Failure
+TTR|Transthyretin|Heart Failure
+CA|Cardiac amyloidosis|Heart Failure
+MGUS|Monoclonal gammopathy of undetermined significance|Heart Failure
+MM|Multiple myeloma|Heart Failure
+CM|Cardiomyopathy|Heart Failure
+DCM|Dilated cardiomyopathy|Heart Failure
+NICM|Nonischemic cardiomyopathy|Heart Failure
+ICM|Ischemic cardiomyopathy|Heart Failure
+HCM|Hypertrophic cardiomyopathy|Heart Failure
+HOCM|Hypertrophic obstructive cardiomyopathy|Heart Failure
+RCM|Restrictive cardiomyopathy|Heart Failure
+ACM|Arrhythmogenic cardiomyopathy|Heart Failure
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Heart Failure
+LVNC|Left ventricular noncompaction|Heart Failure
+PPCM|Peripartum cardiomyopathy|Heart Failure
+TCM|Takotsubo cardiomyopathy|Heart Failure
+SCM|Septic cardiomyopathy|Heart Failure
+CCM|Chagas cardiomyopathy|Heart Failure
+CTRCD|Cancer therapeutics-related cardiac dysfunction|Heart Failure
+TIC|Tachycardia-induced cardiomyopathy|Heart Failure
+HHD|Hypertensive heart disease|Heart Failure
+HTN|Hypertension|Heart Failure
+CAD|Coronary artery disease|Heart Failure
+IHD|Ischemic heart disease|Heart Failure
+MI|Myocardial infarction|Heart Failure
+STEMI|ST-elevation myocardial infarction|Heart Failure
+NSTEMI|Non-ST-elevation myocardial infarction|Heart Failure
+ACS|Acute coronary syndrome|Heart Failure
+PCI|Percutaneous coronary intervention|Heart Failure
+CABG|Coronary artery bypass grafting|Heart Failure
+DM|Diabetes mellitus|Heart Failure
+T2DM|Type 2 diabetes mellitus|Heart Failure
+OSA|Obstructive sleep apnea|Heart Failure
+CSA|Central sleep apnea|Heart Failure
+SDB|Sleep-disordered breathing|Heart Failure
+AHI|Apnea-hypopnea index|Heart Failure
+CPAP|Continuous positive airway pressure|Heart Failure
+BiPAP|Bilevel positive airway pressure|Heart Failure
+NIPPV|Noninvasive positive pressure ventilation|Heart Failure
+NIV|Noninvasive ventilation|Heart Failure
+HFNC|High-flow nasal cannula|Heart Failure
+NC|Nasal cannula|Heart Failure
+NRB|Non-rebreather mask|Heart Failure
+ASV|Adaptive servo-ventilation|Heart Failure
+COPD|Chronic obstructive pulmonary disease|Heart Failure
+PFTs|Pulmonary function tests|Heart Failure
+DLCO|Diffusing capacity of the lung for carbon monoxide|Heart Failure
+ILD|Interstitial lung disease|Heart Failure
+AF|Atrial fibrillation|Heart Failure
+Afib|Atrial fibrillation|Heart Failure
+AFL|Atrial flutter|Heart Failure
+SVT|Supraventricular tachycardia|Heart Failure
+NSVT|Nonsustained ventricular tachycardia|Heart Failure
+VF|Ventricular fibrillation|Heart Failure
+PVCs|Premature ventricular contractions|Heart Failure
+PACs|Premature atrial contractions|Heart Failure
+SCD|Sudden cardiac death|Heart Failure
+SCA|Sudden cardiac arrest|Heart Failure
+CPR|Cardiopulmonary resuscitation|Heart Failure
+ROSC|Return of spontaneous circulation|Heart Failure
+RVR|Rapid ventricular response|Heart Failure
+HR|Heart rate|Heart Failure
+BP|Blood pressure|Heart Failure
+DBP|Diastolic blood pressure|Heart Failure
+MAP|Mean arterial pressure|Heart Failure
+PP|Pulse pressure|Heart Failure
+PPP|Proportional pulse pressure|Heart Failure
+CPP|Coronary perfusion pressure|Heart Failure
+TCP|Transcutaneous pacing|Heart Failure
+BBB|Bundle branch block|Heart Failure
+LBBB|Left bundle branch block|Heart Failure
+RBBB|Right bundle branch block|Heart Failure
+LAFB|Left anterior fascicular block|Heart Failure
+LPFB|Left posterior fascicular block|Heart Failure
+IVCD|Intraventricular conduction delay|Heart Failure
+AVB|Atrioventricular block|Heart Failure
+CHB|Complete heart block|Heart Failure
+QTc|Corrected QT interval|Heart Failure
+QTcF|QT interval corrected by Fridericia formula|Heart Failure
+ECG|Electrocardiogram|Heart Failure
+EKG|Electrocardiogram|Heart Failure
+NSR|Normal sinus rhythm|Heart Failure
+SR|Sinus rhythm|Heart Failure
+ST|Sinus tachycardia|Heart Failure
+SB|Sinus bradycardia|Heart Failure
+CRT|Cardiac resynchronization therapy|Heart Failure
+CRT-D|Cardiac resynchronization therapy with defibrillator|Heart Failure
+CRT-P|Cardiac resynchronization therapy with pacemaker|Heart Failure
+BiV|Biventricular|Heart Failure
+BiV pacing|Biventricular pacing|Heart Failure
+LBBAP|Left bundle branch area pacing|Heart Failure
+HBP|His bundle pacing|Heart Failure
+CSP|Conduction system pacing|Heart Failure
+ICD|Implantable cardioverter-defibrillator|Heart Failure
+S-ICD|Subcutaneous implantable cardioverter-defibrillator|Heart Failure
+ATP|Antitachycardia pacing|Heart Failure
+PPM|Permanent pacemaker|Heart Failure
+PM|Pacemaker|Heart Failure
+WCD|Wearable cardioverter-defibrillator|Heart Failure
+AED|Automated external defibrillator|Heart Failure
+DFT|Defibrillation threshold|Heart Failure
+PICM|Pacing-induced cardiomyopathy|Heart Failure
+PVI|Pulmonary vein isolation|Heart Failure
+EP|Electrophysiology|Heart Failure
+EPS|Electrophysiology study|Heart Failure
+CIED|Cardiac implantable electronic device|Heart Failure
+RPM|Remote patient monitoring|Heart Failure
+LVAD|Left ventricular assist device|Heart Failure
+RVAD|Right ventricular assist device|Heart Failure
+BiVAD|Biventricular assist device|Heart Failure
+VAD|Ventricular assist device|Heart Failure
+MCS|Mechanical circulatory support|Heart Failure
+tMCS|Temporary mechanical circulatory support|Heart Failure
+BTT|Bridge to transplant|Heart Failure
+BTC|Bridge to candidacy|Heart Failure
+BTD|Bridge to decision|Heart Failure
+BTR|Bridge to recovery|Heart Failure
+IABP|Intra-aortic balloon pump|Heart Failure
+IAB|Intra-aortic balloon|Heart Failure
+ECMO|Extracorporeal membrane oxygenation|Heart Failure
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Heart Failure
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Heart Failure
+ECLS|Extracorporeal life support|Heart Failure
+ECPR|Extracorporeal cardiopulmonary resuscitation|Heart Failure
+TAH|Total artificial heart|Heart Failure
+CF-LVAD|Continuous-flow left ventricular assist device|Heart Failure
+pVAD|Percutaneous ventricular assist device|Heart Failure
+PVAD|Percutaneous ventricular assist device|Heart Failure
+PI|Pulsatility index|Heart Failure
+RPMs|Revolutions per minute|Heart Failure
+AI|Aortic insufficiency|Heart Failure
+AR|Aortic regurgitation|Heart Failure
+AS|Aortic stenosis|Heart Failure
+MR|Mitral regurgitation|Heart Failure
+FMR|Functional mitral regurgitation|Heart Failure
+SMR|Secondary mitral regurgitation|Heart Failure
+PMR|Primary mitral regurgitation|Heart Failure
+MS|Mitral stenosis|Heart Failure
+TR|Tricuspid regurgitation|Heart Failure
+FTR|Functional tricuspid regurgitation|Heart Failure
+EROA|Effective regurgitant orifice area|Heart Failure
+RVol|Regurgitant volume|Heart Failure
+RF|Regurgitant fraction|Heart Failure
+VC|Vena contracta|Heart Failure
+PISA|Proximal isovelocity surface area|Heart Failure
+MVA|Mitral valve area|Heart Failure
+AVA|Aortic valve area|Heart Failure
+TAVR|Transcatheter aortic valve replacement|Heart Failure
+TAVI|Transcatheter aortic valve implantation|Heart Failure
+SAVR|Surgical aortic valve replacement|Heart Failure
+TEER|Transcatheter edge-to-edge repair|Heart Failure
+M-TEER|Mitral transcatheter edge-to-edge repair|Heart Failure
+T-TEER|Tricuspid transcatheter edge-to-edge repair|Heart Failure
+TMVR|Transcatheter mitral valve replacement|Heart Failure
+TTVR|Transcatheter tricuspid valve replacement|Heart Failure
+MVR|Mitral valve replacement|Heart Failure
+MVr|Mitral valve repair|Heart Failure
+TVR|Tricuspid valve replacement|Heart Failure
+SAM|Systolic anterior motion of the mitral valve|Heart Failure
+LVOTO|Left ventricular outflow tract obstruction|Heart Failure
+SRT|Septal reduction therapy|Heart Failure
+PFO|Patent foramen ovale|Heart Failure
+ASD|Atrial septal defect|Heart Failure
+VSD|Ventricular septal defect|Heart Failure
+ACHD|Adult congenital heart disease|Heart Failure
+CHD|Congenital heart disease|Heart Failure
+SRV|Systemic right ventricle|Heart Failure
+TGA|Transposition of the great arteries|Heart Failure
+ccTGA|Congenitally corrected transposition of the great arteries|Heart Failure
+HLHS|Hypoplastic left heart syndrome|Heart Failure
+PLE|Protein-losing enteropathy|Heart Failure
+FALD|Fontan-associated liver disease|Heart Failure
+HTx|Heart transplant|Heart Failure
+OHT|Orthotopic heart transplant|Heart Failure
+HLT|Heart-lung transplant|Heart Failure
+SLK|Simultaneous liver-kidney transplant|Heart Failure
+DCD|Donation after circulatory death|Heart Failure
+DBD|Donation after brain death|Heart Failure
+NRP|Normothermic regional perfusion|Heart Failure
+CAV|Cardiac allograft vasculopathy|Heart Failure
+ACR|Acute cellular rejection|Heart Failure
+AMR|Antibody-mediated rejection|Heart Failure
+PGD|Primary graft dysfunction|Heart Failure
+HLA|Human leukocyte antigen|Heart Failure
+PRA|Panel reactive antibody|Heart Failure
+cPRA|Calculated panel reactive antibody|Heart Failure
+DSA|Donor-specific antibody|Heart Failure
+dd-cfDNA|Donor-derived cell-free DNA|Heart Failure
+GEP|Gene expression profiling|Heart Failure
+CNI|Calcineurin inhibitor|Heart Failure
+MMF|Mycophenolate mofetil|Heart Failure
+mTORi|Mammalian target of rapamycin inhibitor|Heart Failure
+PTLD|Post-transplant lymphoproliferative disorder|Heart Failure
+CMV|Cytomegalovirus|Heart Failure
+EBV|Epstein-Barr virus|Heart Failure
+PJP|Pneumocystis jirovecii pneumonia|Heart Failure
+TMP-SMX|Trimethoprim-sulfamethoxazole|Heart Failure
+IVIG|Intravenous immunoglobulin|Heart Failure
+ATG|Antithymocyte globulin|Heart Failure
+PLEX|Plasma exchange|Heart Failure
+ECP|Extracorporeal photopheresis|Heart Failure
+CS|Cardiogenic shock|Heart Failure
+SCAI|Shock severity staging classification|Heart Failure
+SCAI stage|Stage of cardiogenic shock severity A to E|Heart Failure
+SIRS|Systemic inflammatory response syndrome|Heart Failure
+MODS|Multiple organ dysfunction syndrome|Heart Failure
+MOF|Multiorgan failure|Heart Failure
+SOFA|Sequential organ failure assessment|Heart Failure
+VIS|Vasoactive-inotropic score|Heart Failure
+NE|Norepinephrine|Heart Failure
+EPI|Epinephrine|Heart Failure
+AVP|Arginine vasopressin|Heart Failure
+DA|Dopamine|Heart Failure
+DOBU|Dobutamine|Heart Failure
+PDE3i|Phosphodiesterase 3 inhibitor|Heart Failure
+PDEi|Phosphodiesterase inhibitor|Heart Failure
+CIIT|Continuous intravenous inotrope therapy|Heart Failure
+ACZ|Acetazolamide|Heart Failure
+V2RA|Vasopressin V2 receptor antagonist|Heart Failure
+D5W|Dextrose 5 percent in water|Heart Failure
+NS|Normal saline|Heart Failure
+HTS|Hypertonic saline|Heart Failure
+LR|Lactated Ringer solution|Heart Failure
+KCl|Potassium chloride|Heart Failure
+NaHCO3|Sodium bicarbonate|Heart Failure
+Mg sulfate|Magnesium sulfate|Heart Failure
+DAPT|Dual antiplatelet therapy|Heart Failure
+SAPT|Single antiplatelet therapy|Heart Failure
+INR|International normalized ratio|Heart Failure
+PT|Prothrombin time|Heart Failure
+PTT|Partial thromboplastin time|Heart Failure
+aPTT|Activated partial thromboplastin time|Heart Failure
+ACT|Activated clotting time|Heart Failure
+PLT|Platelet count|Heart Failure
+DVT|Deep vein thrombosis|Heart Failure
+VTE|Venous thromboembolism|Heart Failure
+GI bleed|Gastrointestinal bleeding|Heart Failure
+GIB|Gastrointestinal bleeding|Heart Failure
+AVM|Arteriovenous malformation|Heart Failure
+AVWS|Acquired von Willebrand syndrome|Heart Failure
+CVA|Cerebrovascular accident|Heart Failure
+TIA|Transient ischemic attack|Heart Failure
+TE|Thromboembolism|Heart Failure
+SE|Systemic embolism|Heart Failure
+LAA|Left atrial appendage|Heart Failure
+LAAO|Left atrial appendage occlusion|Heart Failure
+LVT|Left ventricular thrombus|Heart Failure
+SEC|Spontaneous echo contrast|Heart Failure
+KCCQ|Kansas City Cardiomyopathy Questionnaire|Heart Failure
+KCCQ-12|Twelve-item Kansas City Cardiomyopathy Questionnaire|Heart Failure
+KCCQ-OS|Kansas City Cardiomyopathy Questionnaire overall summary score|Heart Failure
+MLHFQ|Minnesota Living with Heart Failure Questionnaire|Heart Failure
+PROs|Patient-reported outcomes|Heart Failure
+PROM|Patient-reported outcome measure|Heart Failure
+QOL|Quality of life|Heart Failure
+QoL|Quality of life|Heart Failure
+HRQOL|Health-related quality of life|Heart Failure
+SHFM|Seattle Heart Failure Model|Heart Failure
+PHQ-9|Patient Health Questionnaire nine-item depression scale|Heart Failure
+PHQ-2|Patient Health Questionnaire two-item depression screen|Heart Failure
+GAD-7|Generalized Anxiety Disorder seven-item scale|Heart Failure
+ESS|Epworth Sleepiness Scale|Heart Failure
+SPPB|Short physical performance battery|Heart Failure
+CFS|Clinical frailty scale|Heart Failure
+ADL|Activities of daily living|Heart Failure
+ADLs|Activities of daily living|Heart Failure
+IADL|Instrumental activities of daily living|Heart Failure
+PT/OT|Physical therapy and occupational therapy|Heart Failure
+CR|Cardiac rehabilitation|Heart Failure
+SNF|Skilled nursing facility|Heart Failure
+HH|Home health|Heart Failure
+APP|Advanced practice provider|Heart Failure
+RN|Registered nurse|Heart Failure
+RD|Registered dietitian|Heart Failure
+SW|Social work|Heart Failure
+PC|Palliative care|Heart Failure
+ACP|Advance care planning|Heart Failure
+HCP|Health care proxy|Heart Failure
+POA|Power of attorney|Heart Failure
+MOLST|Medical orders for life-sustaining treatment|Heart Failure
+CMO|Comfort measures only|Heart Failure
+DNAR|Do not attempt resuscitation|Heart Failure
+GIP|General inpatient hospice level of care|Heart Failure
+DC|Discharge|Heart Failure
+TOC|Transition of care|Heart Failure
+WHF|Worsening heart failure|Heart Failure
+WHFE|Worsening heart failure event|Heart Failure
+CV death|Cardiovascular death|Heart Failure
+CVD|Cardiovascular disease|Heart Failure
+ASCVD|Atherosclerotic cardiovascular disease|Heart Failure
+MACE|Major adverse cardiovascular events|Heart Failure
+MAKE|Major adverse kidney events|Heart Failure
+ARR|Absolute risk reduction|Heart Failure
+NNT|Number needed to treat|Heart Failure
+RCT|Randomized controlled trial|Heart Failure
+ITT|Intention to treat|Heart Failure
+A&P|Assessment and plan|Heart Failure
+SpO2|Peripheral oxygen saturation|Heart Failure
+O2 sat|Oxygen saturation|Heart Failure
+FR|Fluid restriction|Heart Failure
+DASH|Dietary approaches to stop hypertension|Heart Failure
+CHA2DS2-VASc|Stroke risk score in atrial fibrillation|Heart Failure
+HAS-BLED|Bleeding risk score in atrial fibrillation|Heart Failure
+MELD|Model for end-stage liver disease|Heart Failure
+MELD-XI|Model for end-stage liver disease excluding INR|Heart Failure
+MELD-Na|Model for end-stage liver disease with sodium|Heart Failure
+CTP|Child-Turcotte-Pugh score|Heart Failure
+CH|Congestive hepatopathy|Heart Failure
+ALT|Alanine aminotransferase|Heart Failure
+AST|Aspartate aminotransferase|Heart Failure
+ALP|Alkaline phosphatase|Heart Failure
+T bili|Total bilirubin|Heart Failure
+GGT|Gamma-glutamyl transferase|Heart Failure
+Alb|Albumin|Heart Failure
+PreAlb|Prealbumin|Heart Failure
+Lac|Lactate|Heart Failure
+ABG|Arterial blood gas|Heart Failure
+VBG|Venous blood gas|Heart Failure
+pH|Potential of hydrogen (acidity)|Heart Failure
+pCO2|Partial pressure of carbon dioxide|Heart Failure
+pO2|Partial pressure of oxygen|Heart Failure
+HCO3|Bicarbonate|Heart Failure
+AG|Anion gap|Heart Failure
+FiO2|Fraction of inspired oxygen|Heart Failure
+PEEP|Positive end-expiratory pressure|Heart Failure
+MV|Mechanical ventilation|Heart Failure
+ETT|Endotracheal tube|Heart Failure
+ARDS|Acute respiratory distress syndrome|Heart Failure
+LVDD|Left ventricular diastolic dysfunction|Heart Failure
+LVSD|Left ventricular systolic dysfunction|Heart Failure
+RAASi|Renin-angiotensin-aldosterone system inhibitor|Heart Failure
+RAAS|Renin-angiotensin-aldosterone system|Heart Failure
+RAS|Renin-angiotensin system|Heart Failure
+SNS|Sympathetic nervous system|Heart Failure
+ANS|Autonomic nervous system|Heart Failure
+HRV|Heart rate variability|Heart Failure
+HRR|Heart rate recovery|Heart Failure
+ROM|Range of motion|Heart Failure
+ET|Exercise testing|Heart Failure
+BAT|Baroreflex activation therapy|Heart Failure
+IAS|Interatrial shunt|Heart Failure
+IASD|Interatrial shunt device|Heart Failure
+RDN|Renal denervation|Heart Failure
+VNS|Vagus nerve stimulation|Heart Failure
+SCS|Spinal cord stimulation|Heart Failure
+HbA1c|Hemoglobin A1c|Heart Failure
+A1c|Hemoglobin A1c|Heart Failure
+LDL-C|Low-density lipoprotein cholesterol|Heart Failure
+HDL-C|High-density lipoprotein cholesterol|Heart Failure
+TG|Triglycerides|Heart Failure
+Lp(a)|Lipoprotein(a)|Heart Failure
+low voltage|Low QRS voltage on electrocardiogram|Heart Failure
+PRWP|Poor R-wave progression|Heart Failure
+RAD|Right axis deviation|Heart Failure
+LCx|Left circumflex artery|Heart Failure
+RCA|Right coronary artery|Heart Failure
+LM|Left main coronary artery|Heart Failure
+FFR|Fractional flow reserve|Heart Failure
+iFR|Instantaneous wave-free ratio|Heart Failure
+CTO|Chronic total occlusion|Heart Failure
+SIHD|Stable ischemic heart disease|Heart Failure
+CCS|Chronic coronary syndrome|Heart Failure
+GCM|Giant cell myocarditis|Heart Failure
+EM|Eosinophilic myocarditis|Heart Failure
+ICI myocarditis|Immune checkpoint inhibitor myocarditis|Heart Failure
+ICI|Immune checkpoint inhibitor|Heart Failure
+irAE|Immune-related adverse event|Heart Failure
+HER2|Human epidermal growth factor receptor 2|Heart Failure
+VEGFi|Vascular endothelial growth factor inhibitor|Heart Failure
+TKI|Tyrosine kinase inhibitor|Heart Failure
+AIC|Anthracycline-induced cardiotoxicity|Heart Failure
+MIS-C|Multisystem inflammatory syndrome in children|Heart Failure
+COVID|Coronavirus disease|Heart Failure
+HIV|Human immunodeficiency virus|Heart Failure
+HCV|Hepatitis C virus|Heart Failure
+SLE|Systemic lupus erythematosus|Heart Failure
+SSc|Systemic sclerosis|Heart Failure
+EMD|Electromechanical dissociation|Heart Failure
+PEA|Pulseless electrical activity|Heart Failure
+TAA|Thoracic aortic aneurysm|Heart Failure
+PDA|Patent ductus arteriosus|Heart Failure
+AV fistula|Arteriovenous fistula|Heart Failure
+CP|Constrictive pericarditis|Heart Failure
+TAMP|Cardiac tamponade|Heart Failure
+PCE|Pericardial effusion|Heart Failure
+PCD|Pericardial drain|Heart Failure
+VVI|Ventricular demand pacing mode|Heart Failure
+DDD|Dual-chamber pacing mode|Heart Failure
+DDDR|Dual-chamber rate-responsive pacing mode|Heart Failure
+AAI|Atrial demand pacing mode|Heart Failure
+AV delay|Atrioventricular delay|Heart Failure
+VV delay|Interventricular delay|Heart Failure
+LRL|Lower rate limit|Heart Failure
+MTR|Maximum tracking rate|Heart Failure
+MSR|Maximum sensor rate|Heart Failure
+AMS|Automatic mode switch|Heart Failure
+VTach|Ventricular tachycardia|Heart Failure
+VFib|Ventricular fibrillation|Heart Failure
+VF zone|Ventricular fibrillation detection zone|Heart Failure
+LA|Left atrium|Heart Failure
+RV|Right ventricle|Heart Failure
+LV|Left ventricle|Heart Failure
+SV|Stroke volume|Heart Failure
+HD|Hemodialysis|Heart Failure
+PH|Pulmonary hypertension|Heart Failure
+VA|Ventricular arrhythmia|Heart Failure
+NP|Natriuretic peptide|Heart Failure
+HT|Heart transplant|Heart Failure

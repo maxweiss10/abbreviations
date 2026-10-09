@@ -1,0 +1,700 @@
+BOP|Bleeding on probing|Dentistry
+PD|Probing depth|Dentistry
+CAL|Clinical attachment level|Dentistry
+GR|Gingival recession|Dentistry
+GI|Gingival index|Dentistry
+CEJ|Cementoenamel junction|Dentistry
+DEJ|Dentinoenamel junction|Dentistry
+MGJ|Mucogingival junction|Dentistry
+SRP|Scaling and root planing|Dentistry
+RSD|Root surface debridement|Dentistry
+OHI|Oral hygiene instruction|Dentistry
+OHI-S|Simplified oral hygiene index|Dentistry
+CPI|Community periodontal index|Dentistry
+CPITN|Community periodontal index of treatment needs|Dentistry
+PSR|Periodontal screening and recording|Dentistry
+SPT|Supportive periodontal therapy|Dentistry
+PMT|Periodontal maintenance therapy|Dentistry
+NSPT|Non-surgical periodontal therapy|Dentistry
+GTR|Guided tissue regeneration|Dentistry
+GBR|Guided bone regeneration|Dentistry
+CTG|Connective tissue graft|Dentistry
+FGG|Free gingival graft|Dentistry
+CAF|Coronally advanced flap|Dentistry
+OFD|Open flap debridement|Dentistry
+ANUG|Acute necrotizing ulcerative gingivitis|Dentistry
+NUG|Necrotizing ulcerative gingivitis|Dentistry
+NUP|Necrotizing ulcerative periodontitis|Dentistry
+NPD|Necrotizing periodontal diseases|Dentistry
+LAP|Localized aggressive periodontitis|Dentistry
+GAP|Generalized aggressive periodontitis|Dentistry
+AgP|Aggressive periodontitis|Dentistry
+PIH|Plaque-induced gingivitis|Dentistry
+DIGO|Drug-induced gingival overgrowth|Dentistry
+GCF|Gingival crevicular fluid|Dentistry
+PDL|Periodontal ligament|Dentistry
+PDLI|Periodontal ligament injection|Dentistry
+KT|Keratinized tissue|Dentistry
+PPD|Periodontal probing depth|Dentistry
+PAL|Probing attachment level|Dentistry
+PBL|Periodontal bone loss|Dentistry
+APF|Apically positioned flap|Dentistry
+LPF|Laterally positioned flap|Dentistry
+EMD|Enamel matrix derivative|Dentistry
+PRF|Platelet-rich fibrin|Dentistry
+PRP|Platelet-rich plasma|Dentistry
+CGF|Concentrated growth factor|Dentistry
+FDBA|Freeze-dried bone allograft|Dentistry
+DFDBA|Demineralized freeze-dried bone allograft|Dentistry
+DBBM|Deproteinized bovine bone mineral|Dentistry
+ABG|Autogenous bone graft|Dentistry
+rhBMP-2|Recombinant human bone morphogenetic protein-2|Dentistry
+BMP|Bone morphogenetic protein|Dentistry
+PTFE|Polytetrafluoroethylene membrane|Dentistry
+ePTFE|Expanded polytetrafluoroethylene membrane|Dentistry
+d-PTFE|Dense polytetrafluoroethylene membrane|Dentistry
+SAL|Sinus augmentation lift|Dentistry
+SFE|Sinus floor elevation|Dentistry
+RBH|Residual bone height|Dentistry
+RBW|Residual bone width|Dentistry
+CBCT|Cone beam computed tomography|Dentistry
+CT|Computed tomography|Dentistry
+PA|Periapical radiograph|Dentistry
+PAX|Periapical radiograph|Dentistry
+BW|Bitewing radiograph|Dentistry
+BWX|Bitewing radiographs|Dentistry
+FMX|Full mouth series of radiographs|Dentistry
+FMS|Full mouth series|Dentistry
+PANO|Panoramic radiograph|Dentistry
+OPG|Orthopantomogram|Dentistry
+OPT|Orthopantomogram|Dentistry
+CEPH|Cephalometric radiograph|Dentistry
+LCR|Lateral cephalometric radiograph|Dentistry
+TMJ|Temporomandibular joint|Dentistry
+TMD|Temporomandibular disorder|Dentistry
+TMJD|Temporomandibular joint disorder|Dentistry
+TMJ-D|Temporomandibular joint dysfunction|Dentistry
+MPDS|Myofascial pain dysfunction syndrome|Dentistry
+MFP|Myofascial pain|Dentistry
+DDwR|Disc displacement with reduction|Dentistry
+DDwoR|Disc displacement without reduction|Dentistry
+ROM|Range of motion|Dentistry
+MIO|Maximum interincisal opening|Dentistry
+MMO|Maximum mouth opening|Dentistry
+MAO|Maximum assisted opening|Dentistry
+MUO|Maximum unassisted opening|Dentistry
+CR|Centric relation|Dentistry
+ICP|Intercuspal position|Dentistry
+RCP|Retruded contact position|Dentistry
+OVD|Occlusal vertical dimension|Dentistry
+VDO|Vertical dimension of occlusion|Dentistry
+VDR|Vertical dimension of rest|Dentistry
+FWS|Freeway space|Dentistry
+IOS|Intraoral scanner|Dentistry
+OB|Overbite|Dentistry
+OJ|Overjet|Dentistry
+CB|Crossbite|Dentistry
+AOB|Anterior open bite|Dentistry
+POB|Posterior open bite|Dentistry
+BDS|Bimaxillary dentoalveolar protrusion|Dentistry
+SNA|Sella-nasion-A point angle|Dentistry
+SNB|Sella-nasion-B point angle|Dentistry
+ANB|A point-nasion-B point angle|Dentistry
+FMA|Frankfort mandibular plane angle|Dentistry
+MP|Mandibular plane|Dentistry
+IMPA|Incisor mandibular plane angle|Dentistry
+RME|Rapid maxillary expansion|Dentistry
+SME|Slow maxillary expansion|Dentistry
+MARPE|Miniscrew-assisted rapid palatal expansion|Dentistry
+SARPE|Surgically assisted rapid palatal expansion|Dentistry
+TAD|Temporary anchorage device|Dentistry
+TADs|Temporary anchorage devices|Dentistry
+HG|Headgear|Dentistry
+FFM|Facemask|Dentistry
+NiTi|Nickel-titanium archwire|Dentistry
+SS|Stainless steel|Dentistry
+TMA|Titanium-molybdenum alloy archwire|Dentistry
+CuNiTi|Copper nickel-titanium archwire|Dentistry
+SW|Straight wire appliance|Dentistry
+TPA|Transpalatal arch|Dentistry
+VFR|Vacuum-formed retainer|Dentistry
+FPR|Fixed permanent retainer|Dentistry
+ERR|External root resorption|Dentistry
+EARR|External apical root resorption|Dentistry
+IRR|Internal root resorption|Dentistry
+CRR|Cervical root resorption|Dentistry
+ECR|External cervical resorption|Dentistry
+OTM|Orthodontic tooth movement|Dentistry
+IPR|Interproximal reduction|Dentistry
+AOO|Accelerated osteogenic orthodontics|Dentistry
+CAT|Clear aligner therapy|Dentistry
+RPD|Removable partial denture|Dentistry
+FPD|Fixed partial denture|Dentistry
+CD|Complete denture|Dentistry
+IOD|Implant overdenture|Dentistry
+CDs|Complete dentures|Dentistry
+U/L|Upper and lower|Dentistry
+PMMA|Polymethyl methacrylate|Dentistry
+PFM|Porcelain-fused-to-metal crown|Dentistry
+PFG|Porcelain fused to gold crown|Dentistry
+FGC|Full gold crown|Dentistry
+FMC|Full metal crown|Dentistry
+SSC|Stainless steel crown|Dentistry
+PMC|Preformed metal crown|Dentistry
+PJC|Porcelain jacket crown|Dentistry
+ZC|Zirconia crown|Dentistry
+FCZ|Full contour zirconia|Dentistry
+LD|Lithium disilicate|Dentistry
+ALL-C|All-ceramic crown|Dentistry
+CAD/CAM|Computer-aided design and computer-aided manufacturing|Dentistry
+CAD|Computer-aided design|Dentistry
+CAM|Computer-aided manufacturing|Dentistry
+DSD|Digital smile design|Dentistry
+PVS|Polyvinyl siloxane impression material|Dentistry
+VPS|Vinyl polysiloxane impression material|Dentistry
+ZOE|Zinc oxide eugenol|Dentistry
+ZnPO4|Zinc phosphate cement|Dentistry
+GIC|Glass ionomer cement|Dentistry
+RMGI|Resin-modified glass ionomer|Dentistry
+RMGIC|Resin-modified glass ionomer cement|Dentistry
+SDF|Silver diamine fluoride|Dentistry
+NaF|Sodium fluoride|Dentistry
+SnF2|Stannous fluoride|Dentistry
+FV|Fluoride varnish|Dentistry
+FVA|Fluoride varnish application|Dentistry
+ppm|Parts per million|Dentistry
+CPP-ACP|Casein phosphopeptide-amorphous calcium phosphate|Dentistry
+CHX|Chlorhexidine|Dentistry
+CHG|Chlorhexidine gluconate|Dentistry
+CPC|Cetylpyridinium chloride|Dentistry
+NaOCl|Sodium hypochlorite|Dentistry
+EDTA|Ethylenediaminetetraacetic acid|Dentistry
+CaOH|Calcium hydroxide|Dentistry
+Ca(OH)2|Calcium hydroxide|Dentistry
+MTA|Mineral trioxide aggregate|Dentistry
+TAP|Triple antibiotic paste|Dentistry
+DAP|Double antibiotic paste|Dentistry
+RCT|Root canal treatment|Dentistry
+RCF|Root canal filling|Dentistry
+RCS|Root canal system|Dentistry
+RCTx|Root canal therapy|Dentistry
+NSRCT|Non-surgical root canal treatment|Dentistry
+ReTx|Retreatment of root canal|Dentistry
+NSRT|Non-surgical retreatment|Dentistry
+RE-RCT|Root canal retreatment|Dentistry
+PT|Pulp therapy|Dentistry
+VPT|Vital pulp therapy|Dentistry
+IPC|Indirect pulp capping|Dentistry
+DPC|Direct pulp capping|Dentistry
+PPX|Prophylaxis|Dentistry
+WL|Working length|Dentistry
+EAL|Electronic apex locator|Dentistry
+MAF|Master apical file|Dentistry
+MAC|Master apical cone|Dentistry
+CWL|Corrected working length|Dentistry
+EWL|Estimated working length|Dentistry
+RWL|Radiographic working length|Dentistry
+AP|Apical periodontitis|Dentistry
+AAP|Acute apical periodontitis|Dentistry
+CAP|Chronic apical periodontitis|Dentistry
+SAP|Symptomatic apical periodontitis|Dentistry
+AAbs|Acute apical abscess|Dentistry
+PARL|Periapical radiolucency|Dentistry
+PAI|Periapical index|Dentistry
+SIP|Symptomatic irreversible pulpitis|Dentistry
+AIP|Asymptomatic irreversible pulpitis|Dentistry
+PCO|Pulp canal obliteration|Dentistry
+PCS|Pulp chamber stenosis|Dentistry
+EPT|Electric pulp test|Dentistry
+TTP|Tender to percussion|Dentistry
+NTTP|Not tender to percussion|Dentistry
+WNL|Within normal limits|Dentistry
+NAD|No abnormality detected|Dentistry
+NSF|No significant findings|Dentistry
+HNC|Head and neck cancer|Dentistry
+HNE|Head and neck examination|Dentistry
+EOE|Extraoral examination|Dentistry
+IOE|Intraoral examination|Dentistry
+OCE|Oral cancer examination|Dentistry
+OCS|Oral cancer screening|Dentistry
+OSCC|Oral squamous cell carcinoma|Dentistry
+SCC|Squamous cell carcinoma|Dentistry
+OPMD|Oral potentially malignant disorder|Dentistry
+OLP|Oral lichen planus|Dentistry
+OL|Oral leukoplakia|Dentistry
+OEL|Oral erythroleukoplakia|Dentistry
+OSF|Oral submucous fibrosis|Dentistry
+OED|Oral epithelial dysplasia|Dentistry
+CIS|Carcinoma in situ|Dentistry
+RAS|Recurrent aphthous stomatitis|Dentistry
+RAU|Recurrent aphthous ulcer|Dentistry
+RHL|Recurrent herpes labialis|Dentistry
+HSV|Herpes simplex virus|Dentistry
+HHV|Human herpesvirus|Dentistry
+HPV|Human papillomavirus|Dentistry
+BMS|Burning mouth syndrome|Dentistry
+OC|Oral candidiasis|Dentistry
+DS|Denture stomatitis|Dentistry
+MRONJ|Medication-related osteonecrosis of the jaw|Dentistry
+ONJ|Osteonecrosis of the jaw|Dentistry
+BRONJ|Bisphosphonate-related osteonecrosis of the jaw|Dentistry
+ORN|Osteoradionecrosis|Dentistry
+BP|Bisphosphonate|Dentistry
+IV BP|Intravenous bisphosphonate|Dentistry
+AFF|Atypical femoral fracture|Dentistry
+XRT|Radiation therapy|Dentistry
+RT|Radiation therapy|Dentistry
+HBO|Hyperbaric oxygen|Dentistry
+HBOT|Hyperbaric oxygen therapy|Dentistry
+PENTOCLO|Pentoxifylline and tocopherol with clodronate|Dentistry
+CLO|Clodronate|Dentistry
+CBC|Complete blood count|Dentistry
+PT/INR|Prothrombin time and international normalized ratio|Dentistry
+INR|International normalized ratio|Dentistry
+PLT|Platelets|Dentistry
+BG|Blood glucose|Dentistry
+HR|Heart rate|Dentistry
+SpO2|Peripheral oxygen saturation|Dentistry
+RR|Respiratory rate|Dentistry
+ASA|American Society of Anesthesiologists physical status classification|Dentistry
+ASA I|Normal healthy patient|Dentistry
+ASA II|Patient with mild systemic disease|Dentistry
+ASA III|Patient with severe systemic disease|Dentistry
+ASA IV|Patient with severe systemic disease that is a constant threat to life|Dentistry
+ASA V|Moribund patient not expected to survive without surgery|Dentistry
+IE|Infective endocarditis|Dentistry
+SBE|Subacute bacterial endocarditis|Dentistry
+ABX|Antibiotics|Dentistry
+ABP|Antibiotic prophylaxis|Dentistry
+PCN|Penicillin|Dentistry
+AMOX|Amoxicillin|Dentistry
+CLINDA|Clindamycin|Dentistry
+AZITHRO|Azithromycin|Dentistry
+PEN VK|Penicillin V potassium|Dentistry
+NKDA|No known drug allergies|Dentistry
+NKA|No known allergies|Dentistry
+PMH|Past medical history|Dentistry
+PDH|Past dental history|Dentistry
+MH|Medical history|Dentistry
+DH|Dental history|Dentistry
+CC|Chief complaint|Dentistry
+HPI|History of present illness|Dentistry
+HOPI|History of presenting illness|Dentistry
+TX|Treatment|Dentistry
+TP|Treatment plan|Dentistry
+Tx Plan|Treatment plan|Dentistry
+Dx|Diagnosis|Dentistry
+DDx|Differential diagnosis|Dentistry
+Hx|History|Dentistry
+Sx|Symptoms|Dentistry
+Fx|Fracture|Dentistry
+Bx|Biopsy|Dentistry
+Cx|Culture|Dentistry
+Px|Prognosis|Dentistry
+RTC|Return to clinic|Dentistry
+RTO|Return to office|Dentistry
+F/U|Follow-up|Dentistry
+FU|Follow-up|Dentistry
+PRN|As needed|Dentistry
+STAT|Immediately|Dentistry
+BID|Twice daily|Dentistry
+TID|Three times daily|Dentistry
+QID|Four times daily|Dentistry
+QD|Once daily|Dentistry
+QHS|Every night at bedtime|Dentistry
+PO|By mouth|Dentistry
+IM|Intramuscular|Dentistry
+IV|Intravenous|Dentistry
+SL|Sublingual|Dentistry
+NSAID|Nonsteroidal anti-inflammatory drug|Dentistry
+APAP|Acetaminophen|Dentistry
+IBU|Ibuprofen|Dentistry
+PPI|Proton pump inhibitor|Dentistry
+SSRI|Selective serotonin reuptake inhibitor|Dentistry
+OTC|Over the counter|Dentistry
+GA|General anesthesia|Dentistry
+IVS|Intravenous sedation|Dentistry
+N2O|Nitrous oxide|Dentistry
+N2O-O2|Nitrous oxide and oxygen|Dentistry
+O2|Oxygen|Dentistry
+MAC-sed|Monitored anesthesia care|Dentistry
+EPI|Epinephrine|Dentistry
+LIDO|Lidocaine|Dentistry
+MEPI|Mepivacaine|Dentistry
+ARTI|Articaine|Dentistry
+BUPI|Bupivacaine|Dentistry
+PRILO|Prilocaine|Dentistry
+IANB|Inferior alveolar nerve block|Dentistry
+IAN|Inferior alveolar nerve|Dentistry
+LN|Lingual nerve|Dentistry
+BN|Buccal nerve|Dentistry
+LB|Long buccal nerve|Dentistry
+LBN|Long buccal nerve|Dentistry
+MNB|Mental nerve block|Dentistry
+INB|Incisive nerve block|Dentistry
+PSA|Posterior superior alveolar nerve|Dentistry
+PSAB|Posterior superior alveolar block|Dentistry
+MSA|Middle superior alveolar nerve|Dentistry
+MSAB|Middle superior alveolar block|Dentistry
+AMSA|Anterior middle superior alveolar block|Dentistry
+GPB|Greater palatine block|Dentistry
+NPB|Nasopalatine block|Dentistry
+IOB|Infraorbital block|Dentistry
+ION|Infraorbital nerve|Dentistry
+V2|Maxillary division of trigeminal nerve|Dentistry
+V3|Mandibular division of trigeminal nerve|Dentistry
+CN V|Trigeminal nerve|Dentistry
+CN VII|Facial nerve|Dentistry
+TN|Trigeminal neuralgia|Dentistry
+PHN|Postherpetic neuralgia|Dentistry
+IOA|Intraosseous anesthesia|Dentistry
+STA|Single tooth anesthesia|Dentistry
+CCLAD|Computer-controlled local anesthetic delivery|Dentistry
+PNS|Paresthesia of nerve|Dentistry
+NSI|Nerve sensory impairment|Dentistry
+INI|Inferior alveolar nerve injury|Dentistry
+LNI|Lingual nerve injury|Dentistry
+TNI|Trigeminal nerve injury|Dentistry
+OAC|Oroantral communication|Dentistry
+OAF|Oroantral fistula|Dentistry
+EXT|Extraction|Dentistry
+XLA|Extraction|Dentistry
+M3|Third molar|Dentistry
+M3s|Third molars|Dentistry
+WT|Wisdom tooth|Dentistry
+AO|Alveolar osteitis|Dentistry
+ALVO|Alveolar osteitis|Dentistry
+ARP|Alveolar ridge preservation|Dentistry
+IIP|Immediate implant placement|Dentistry
+EIP|Early implant placement|Dentistry
+DIP|Delayed implant placement|Dentistry
+ISQ|Implant stability quotient|Dentistry
+RFA|Resonance frequency analysis|Dentistry
+BIC|Bone-to-implant contact|Dentistry
+MBL|Marginal bone loss|Dentistry
+PIM|Peri-implant mucositis|Dentistry
+ISFD|Implant-supported fixed denture|Dentistry
+ISOD|Implant-supported overdenture|Dentistry
+ISC|Implant-supported crown|Dentistry
+IRP|Implant-retained prosthesis|Dentistry
+IFDP|Implant fixed dental prosthesis|Dentistry
+MDI|Mini dental implant|Dentistry
+CL/P|Cleft lip with or without cleft palate|Dentistry
+VPI|Velopharyngeal insufficiency|Dentistry
+NAM|Nasoalveolar molding|Dentistry
+SABG|Secondary alveolar bone graft|Dentistry
+OSA|Obstructive sleep apnea|Dentistry
+MAD|Mandibular advancement device|Dentistry
+OAT|Oral appliance therapy|Dentistry
+CPAP|Continuous positive airway pressure|Dentistry
+AHI|Apnea-hypopnea index|Dentistry
+SB|Sleep bruxism|Dentistry
+AB|Awake bruxism|Dentistry
+BRUX|Bruxism|Dentistry
+NTG|Night guard|Dentistry
+OG|Occlusal guard|Dentistry
+OS|Occlusal splint|Dentistry
+TFO|Trauma from occlusion|Dentistry
+CTS|Cracked tooth syndrome|Dentistry
+VRF|Vertical root fracture|Dentistry
+CF|Crown fracture|Dentistry
+CRF|Crown-root fracture|Dentistry
+UCF|Uncomplicated crown fracture|Dentistry
+CCF|Complicated crown fracture|Dentistry
+UCRF|Uncomplicated crown-root fracture|Dentistry
+CCRF|Complicated crown-root fracture|Dentistry
+EXTR LUX|Extrusive luxation|Dentistry
+INTR LUX|Intrusive luxation|Dentistry
+LAT LUX|Lateral luxation|Dentistry
+AVUL|Avulsion|Dentistry
+CONC|Concussion|Dentistry
+SUBL|Subluxation|Dentistry
+DTI|Dental traumatic injury|Dentistry
+TDI|Traumatic dental injury|Dentistry
+ANK|Ankylosis|Dentistry
+SI|Separated instrument|Dentistry
+APIC|Apicoectomy|Dentistry
+EMS|Endodontic microsurgery|Dentistry
+REF|Root-end filling|Dentistry
+IR|Intentional replantation|Dentistry
+APX|Apexification|Dentistry
+DOM|Dental operating microscope|Dentistry
+SOM|Surgical operating microscope|Dentistry
+LOUPES|Magnifying loupes|Dentistry
+CBCT-E|Endodontic cone beam computed tomography|Dentistry
+SMV|Submentovertex radiograph|Dentistry
+MRI|Magnetic resonance imaging|Dentistry
+PET|Positron emission tomography|Dentistry
+US|Ultrasound|Dentistry
+FNA|Fine needle aspiration|Dentistry
+FNAB|Fine needle aspiration biopsy|Dentistry
+H&E|Hematoxylin and eosin stain|Dentistry
+IHC|Immunohistochemistry|Dentistry
+DIF|Direct immunofluorescence|Dentistry
+IIF|Indirect immunofluorescence|Dentistry
+PAS|Periodic acid-Schiff stain|Dentistry
+KOH|Potassium hydroxide preparation|Dentistry
+PV|Pemphigus vulgaris|Dentistry
+EM|Erythema multiforme|Dentistry
+TEN|Toxic epidermal necrolysis|Dentistry
+SLE|Systemic lupus erythematosus|Dentistry
+GVHD|Graft-versus-host disease|Dentistry
+HIV|Human immunodeficiency virus|Dentistry
+AIDS|Acquired immunodeficiency syndrome|Dentistry
+OHL|Oral hairy leukoplakia|Dentistry
+HFMD|Hand, foot and mouth disease|Dentistry
+CMV|Cytomegalovirus|Dentistry
+VZV|Varicella zoster virus|Dentistry
+HBV|Hepatitis B virus|Dentistry
+HCV|Hepatitis C virus|Dentistry
+TB|Tuberculosis|Dentistry
+PPE|Personal protective equipment|Dentistry
+HVE|High-volume evacuation|Dentistry
+HVS|High-volume suction|Dentistry
+DUWL|Dental unit waterlines|Dentistry
+CFU|Colony-forming units|Dentistry
+AGP|Aerosol-generating procedure|Dentistry
+DMFT|Decayed, missing and filled teeth index|Dentistry
+dmft|Decayed, missing and filled primary teeth index|Dentistry
+DMFS|Decayed, missing and filled surfaces index|Dentistry
+dmfs|Decayed, missing and filled primary tooth surfaces index|Dentistry
+DFT|Decayed and filled teeth|Dentistry
+deft|Decayed, extracted and filled primary teeth index|Dentistry
+SiC|Significant caries index|Dentistry
+ICDAS|International caries detection and assessment system|Dentistry
+CAMBRA|Caries management by risk assessment|Dentistry
+CRA|Caries risk assessment|Dentistry
+ECC|Early childhood caries|Dentistry
+S-ECC|Severe early childhood caries|Dentistry
+RC|Root caries|Dentistry
+RCI|Root caries index|Dentistry
+WSL|White spot lesion|Dentistry
+CIT|Caries infiltration treatment|Dentistry
+ART|Atraumatic restorative treatment|Dentistry
+SMART|Silver modified atraumatic restorative technique|Dentistry
+PRR|Preventive resin restoration|Dentistry
+PFS|Pit and fissure sealant|Dentistry
+RBC|Resin-based composite|Dentistry
+AM|Amalgam|Dentistry
+MOD|Mesio-occlusal-distal|Dentistry
+MO|Mesio-occlusal|Dentistry
+DO|Disto-occlusal|Dentistry
+DOB|Disto-occluso-buccal|Dentistry
+FL|Facio-lingual|Dentistry
+BL-surf|Bucco-lingual|Dentistry
+BO|Bucco-occlusal|Dentistry
+LO|Linguo-occlusal|Dentistry
+OCC|Occlusal surface|Dentistry
+INCL|Incisal surface|Dentistry
+FAC|Facial surface|Dentistry
+BUC|Buccal surface|Dentistry
+LING|Lingual surface|Dentistry
+PAL-surf|Palatal surface|Dentistry
+MES|Mesial surface|Dentistry
+DIST|Distal surface|Dentistry
+CERV|Cervical region|Dentistry
+NCCL|Non-carious cervical lesion|Dentistry
+TSL|Tooth surface loss|Dentistry
+TW|Tooth wear|Dentistry
+BEWE|Basic erosive wear examination|Dentistry
+MIH|Molar incisor hypomineralization|Dentistry
+HSPM|Hypomineralized second primary molars|Dentistry
+AI|Amelogenesis imperfecta|Dentistry
+DI-gen|Dentinogenesis imperfecta|Dentistry
+OI|Osteogenesis imperfecta|Dentistry
+ED|Ectodermal dysplasia|Dentistry
+CCD|Cleidocranial dysplasia|Dentistry
+HED|Hypohidrotic ectodermal dysplasia|Dentistry
+DF-fluor|Dental fluorosis|Dentistry
+EDI|Enamel defects index|Dentistry
+EH|Enamel hypoplasia|Dentistry
+FD|Fibrous dysplasia|Dentistry
+OKC|Odontogenic keratocyst|Dentistry
+KCOT|Keratocystic odontogenic tumor|Dentistry
+AOT|Adenomatoid odontogenic tumor|Dentistry
+COC|Calcifying odontogenic cyst|Dentistry
+GOC|Glandular odontogenic cyst|Dentistry
+DC|Dentigerous cyst|Dentistry
+LPC|Lateral periodontal cyst|Dentistry
+NPDC|Nasopalatine duct cyst|Dentistry
+SBC|Simple bone cyst|Dentistry
+ABC|Aneurysmal bone cyst|Dentistry
+CGCG|Central giant cell granuloma|Dentistry
+PGCG|Peripheral giant cell granuloma|Dentistry
+POF|Peripheral ossifying fibroma|Dentistry
+COF|Central ossifying fibroma|Dentistry
+CEOT|Calcifying epithelial odontogenic tumor|Dentistry
+FCOD|Florid cemento-osseous dysplasia|Dentistry
+COD|Cemento-osseous dysplasia|Dentistry
+MEC|Mucoepidermoid carcinoma|Dentistry
+ACC|Adenoid cystic carcinoma|Dentistry
+SGT|Salivary gland tumor|Dentistry
+SMG|Submandibular gland|Dentistry
+SLG|Sublingual gland|Dentistry
+MSG|Minor salivary gland|Dentistry
+SF|Salivary flow|Dentistry
+USF|Unstimulated salivary flow|Dentistry
+SSF-flow|Stimulated salivary flow|Dentistry
+XER|Xerostomia|Dentistry
+HGSG|Hypofunction of the salivary glands|Dentistry
+SGH|Salivary gland hypofunction|Dentistry
+SMS|Submandibular space|Dentistry
+SLS|Sublingual space|Dentistry
+PPS|Parapharyngeal space|Dentistry
+RPS|Retropharyngeal space|Dentistry
+I&D|Incision and drainage|Dentistry
+ORIF|Open reduction and internal fixation|Dentistry
+CRIF|Closed reduction and internal fixation|Dentistry
+MMF|Maxillomandibular fixation|Dentistry
+IMF|Intermaxillary fixation|Dentistry
+SSRO|Sagittal split ramus osteotomy|Dentistry
+BSSO|Bilateral sagittal split osteotomy|Dentistry
+IVRO|Intraoral vertical ramus osteotomy|Dentistry
+OGS|Orthognathic surgery|Dentistry
+GEN|Genioplasty|Dentistry
+ZMC|Zygomaticomaticomaxillary complex|Dentistry
+NOE|Naso-orbito-ethmoid|Dentistry
+ZMCF|Zygomaticomaxillary complex fracture|Dentistry
+MFx|Mandibular fracture|Dentistry
+CFx|Condylar fracture|Dentistry
+SFx|Symphyseal fracture|Dentistry
+PFx|Parasymphyseal fracture|Dentistry
+AFx|Angle fracture|Dentistry
+ORIF-m|Open reduction internal fixation of mandible|Dentistry
+ATLS|Advanced trauma life support|Dentistry
+BLS|Basic life support|Dentistry
+ACLS|Advanced cardiac life support|Dentistry
+AED|Automated external defibrillator|Dentistry
+CPR|Cardiopulmonary resuscitation|Dentistry
+CHF|Congestive heart failure|Dentistry
+HTN|Hypertension|Dentistry
+DM|Diabetes mellitus|Dentistry
+T2DM|Type 2 diabetes mellitus|Dentistry
+T1DM|Type 1 diabetes mellitus|Dentistry
+COPD|Chronic obstructive pulmonary disease|Dentistry
+CKD|Chronic kidney disease|Dentistry
+ESRD|End-stage renal disease|Dentistry
+CVA|Cerebrovascular accident|Dentistry
+TIA|Transient ischemic attack|Dentistry
+DVT|Deep vein thrombosis|Dentistry
+AF|Atrial fibrillation|Dentistry
+DOAC|Direct oral anticoagulant|Dentistry
+VKA|Vitamin K antagonist|Dentistry
+LMWH|Low-molecular-weight heparin|Dentistry
+HIPAA|Health insurance portability and accountability act|Dentistry
+BMI|Body mass index|Dentistry
+ADHD|Attention-deficit hyperactivity disorder|Dentistry
+ASD|Autism spectrum disorder|Dentistry
+SHCN|Special health care needs|Dentistry
+SCN|Special care needs|Dentistry
+SPD|Special patient dentistry|Dentistry
+BM|Behavior management|Dentistry
+TSD|Tell-show-do|Dentistry
+HOM|Hand over mouth|Dentistry
+VC|Voice control|Dentistry
+PPR|Positive pressure reinforcement|Dentistry
+MCDAS|Modified child dental anxiety scale|Dentistry
+DAS|Dental anxiety scale|Dentistry
+MDAS|Modified dental anxiety scale|Dentistry
+DFS|Dental fear survey|Dentistry
+VAS|Visual analog scale|Dentistry
+NRS|Numeric rating scale|Dentistry
+OHIP|Oral health impact profile|Dentistry
+OHRQoL|Oral health-related quality of life|Dentistry
+GOHAI|Geriatric oral health assessment index|Dentistry
+OHAT|Oral health assessment tool|Dentistry
+OHA|Oral health assessment|Dentistry
+SDOH|Social determinants of health|Dentistry
+CDT|Current dental terminology|Dentistry
+CPT|Current procedural terminology|Dentistry
+ICD|International classification of diseases|Dentistry
+SNODENT|Systematized nomenclature of dentistry|Dentistry
+EDR|Electronic dental record|Dentistry
+EHR|Electronic health record|Dentistry
+EDH|Electronic dental health record|Dentistry
+DDS|Doctor of dental surgery|Dentistry
+DMD|Doctor of dental medicine|Dentistry
+RDH|Registered dental hygienist|Dentistry
+RDA|Registered dental assistant|Dentistry
+CDA|Certified dental assistant|Dentistry
+OMFS|Oral and maxillofacial surgery|Dentistry
+OMS|Oral and maxillofacial surgeon|Dentistry
+OMFR|Oral and maxillofacial radiology|Dentistry
+OMFP|Oral and maxillofacial pathology|Dentistry
+OM|Oral medicine|Dentistry
+OFP|Orofacial pain|Dentistry
+GPR|General practice residency|Dentistry
+AEGD|Advanced education in general dentistry|Dentistry
+FP|Fixed prosthodontics|Dentistry
+MxP|Maxillofacial prosthetics|Dentistry
+OBT|Obturator|Dentistry
+RBB|Resin-bonded bridge|Dentistry
+RBFPD|Resin-bonded fixed partial denture|Dentistry
+CFPD|Cantilever fixed partial denture|Dentistry
+P&C|Post and core|Dentistry
+FRC|Fiber-reinforced composite|Dentistry
+FRCP|Fiber-reinforced composite post|Dentistry
+CGO|Canine-guided occlusion|Dentistry
+GFO|Group function occlusion|Dentistry
+BO-occ|Balanced occlusion|Dentistry
+LBO|Lingualized balanced occlusion|Dentistry
+ALARA|As low as reasonably achievable|Dentistry
+mSv|Millisievert|Dentistry
+kVp|Kilovoltage peak|Dentistry
+mA|Milliamperage|Dentistry
+SID|Source-to-image distance|Dentistry
+FOV|Field of view|Dentistry
+PSP|Photostimulable phosphor plate|Dentistry
+CCD-sensor|Charge-coupled device sensor|Dentistry
+CMOS|Complementary metal-oxide semiconductor sensor|Dentistry
+RVG|Radiovisiography|Dentistry
+SLOB|Same lingual, opposite buccal rule|Dentistry
+BAMBL|Buccal object moves with the same direction as the cone|Dentistry
+DEXA|Dual-energy x-ray absorptiometry|Dentistry
+LLLT|Low-level laser therapy|Dentistry
+PBM|Photobiomodulation|Dentistry
+PDT|Photodynamic therapy|Dentistry
+aPDT|Antimicrobial photodynamic therapy|Dentistry
+Er:YAG|Erbium-doped yttrium aluminum garnet laser|Dentistry
+Nd:YAG|Neodymium-doped yttrium aluminum garnet laser|Dentistry
+CO2 laser|Carbon dioxide laser|Dentistry
+LANAP|Laser-assisted new attachment procedure|Dentistry
+ERL|Erbium laser|Dentistry
+LED|Light-emitting diode curing light|Dentistry
+QTH|Quartz-tungsten-halogen curing light|Dentistry
+DOC|Degree of conversion|Dentistry
+SBS|Shear bond strength|Dentistry
+TBS|Tensile bond strength|Dentistry
+mTBS|Microtensile bond strength|Dentistry
+MDP|Methacryloyloxydecyl dihydrogen phosphate|Dentistry
+HEMA|Hydroxyethyl methacrylate|Dentistry
+BisGMA|Bisphenol A glycidyl methacrylate|Dentistry
+TEGDMA|Triethylene glycol dimethacrylate|Dentistry
+UDMA|Urethane dimethacrylate|Dentistry
+CQ|Camphorquinone|Dentistry
+BPA|Bisphenol A|Dentistry
+ZrO2|Zirconium dioxide or zirconia|Dentistry
+Y-TZP|Yttria-stabilized tetragonal zirconia polycrystal|Dentistry
+PEEK|Polyetheretherketone|Dentistry
+CoCr|Cobalt-chromium alloy|Dentistry
+NiCr|Nickel-chromium alloy|Dentistry
+Ti|Titanium|Dentistry
+CP Ti|Commercially pure titanium|Dentistry
+SLA|Sandblasted large-grit acid-etched implant surface|Dentistry
+HA-coat|Hydroxyapatite coating|Dentistry
+TPS|Titanium plasma spray|Dentistry
+HAp|Hydroxyapatite|Dentistry
+TCP|Tricalcium phosphate|Dentistry
+BCP|Biphasic calcium phosphate|Dentistry
+ß-TCP|Beta-tricalcium phosphate|Dentistry
+PLGA|Poly lactic-co-glycolic acid|Dentistry
+PRGF|Plasma rich in growth factors|Dentistry
+A-PRF|Advanced platelet-rich fibrin|Dentistry
+L-PRF|Leukocyte and platelet-rich fibrin|Dentistry
+i-PRF|Injectable platelet-rich fibrin|Dentistry
+PDGF|Platelet-derived growth factor|Dentistry
+rhPDGF|Recombinant human platelet-derived growth factor|Dentistry
+FGF-2|Fibroblast growth factor 2|Dentistry
+VISTA|Vestibular incision subperiosteal tunnel access|Dentistry
+STT|Single tunnel technique|Dentistry
+MCAT|Modified coronally advanced tunnel|Dentistry

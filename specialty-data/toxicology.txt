@@ -1,0 +1,593 @@
+APAP|Acetaminophen (paracetamol)|Toxicology
+NAC|N-acetylcysteine|Toxicology
+NAPQI|N-acetyl-p-benzoquinone imine (toxic acetaminophen metabolite)|Toxicology
+ASA|Acetylsalicylic acid (aspirin)|Toxicology
+TCA|Tricyclic antidepressant|Toxicology
+SSRI|Selective serotonin reuptake inhibitor|Toxicology
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Toxicology
+MAOI|Monoamine oxidase inhibitor|Toxicology
+SS|Serotonin syndrome|Toxicology
+NMS|Neuroleptic malignant syndrome|Toxicology
+CO|Carbon monoxide|Toxicology
+COHb|Carboxyhemoglobin|Toxicology
+MetHb|Methemoglobin|Toxicology
+MetHgb|Methemoglobin|Toxicology
+SulfHb|Sulfhemoglobin|Toxicology
+HBO|Hyperbaric oxygen|Toxicology
+HBOT|Hyperbaric oxygen therapy|Toxicology
+CN|Cyanide|Toxicology
+HCN|Hydrogen cyanide|Toxicology
+H2S|Hydrogen sulfide|Toxicology
+OP|Organophosphate|Toxicology
+OPP|Organophosphate poisoning|Toxicology
+OPIDN|Organophosphate-induced delayed neuropathy|Toxicology
+AChE|Acetylcholinesterase|Toxicology
+BChE|Butyrylcholinesterase (plasma cholinesterase)|Toxicology
+RBC AChE|Red blood cell acetylcholinesterase|Toxicology
+2-PAM|Pralidoxime (2-pyridine aldoxime methyl chloride)|Toxicology
+DUMBELS|Mnemonic for cholinergic toxidrome: diarrhea, urination, miosis, bradycardia, bronchorrhea, emesis, lacrimation, salivation|Toxicology
+SLUDGE|Mnemonic for cholinergic toxidrome: salivation, lacrimation, urination, defecation, GI upset, emesis|Toxicology
+SLUDGE/BBB|SLUDGE plus bradycardia, bronchospasm, bronchorrhea|Toxicology
+DMPS|Dimercaptopropane sulfonate (chelator)|Toxicology
+DMSA|Dimercaptosuccinic acid (succimer, chelator)|Toxicology
+BAL|British anti-Lewisite (dimercaprol)|Toxicology
+EDTA|Ethylenediaminetetraacetic acid|Toxicology
+CaNa2EDTA|Calcium disodium edetate (chelator)|Toxicology
+BLL|Blood lead level|Toxicology
+EP|Erythrocyte protoporphyrin|Toxicology
+ZPP|Zinc protoporphyrin|Toxicology
+ALAD|Aminolevulinic acid dehydratase|Toxicology
+ALA|Aminolevulinic acid|Toxicology
+UHg|Urine mercury|Toxicology
+As|Arsenic|Toxicology
+Pb|Lead|Toxicology
+Hg|Mercury|Toxicology
+Cd|Cadmium|Toxicology
+Tl|Thallium|Toxicology
+Fe|Iron|Toxicology
+TIBC|Total iron-binding capacity|Toxicology
+DFO|Deferoxamine|Toxicology
+Li|Lithium|Toxicology
+SILENT|Syndrome of irreversible lithium-effectuated neurotoxicity|Toxicology
+NDI|Nephrogenic diabetes insipidus|Toxicology
+EtOH|Ethanol (alcohol)|Toxicology
+BAC|Blood alcohol concentration|Toxicology
+AWS|Alcohol withdrawal syndrome|Toxicology
+CIWA|Clinical Institute Withdrawal Assessment|Toxicology
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised|Toxicology
+DT|Delirium tremens|Toxicology
+DTs|Delirium tremens|Toxicology
+AUD|Alcohol use disorder|Toxicology
+AKA|Alcoholic ketoacidosis|Toxicology
+MeOH|Methanol|Toxicology
+EG|Ethylene glycol|Toxicology
+DEG|Diethylene glycol|Toxicology
+IPA|Isopropyl alcohol|Toxicology
+4-MP|4-methylpyrazole (fomepizole)|Toxicology
+ADH|Alcohol dehydrogenase|Toxicology
+ALDH|Aldehyde dehydrogenase|Toxicology
+OG|Osmolar gap|Toxicology
+OSM gap|Osmolal gap|Toxicology
+AG|Anion gap|Toxicology
+AGMA|Anion gap metabolic acidosis|Toxicology
+NAGMA|Non-anion gap metabolic acidosis|Toxicology
+HAGMA|High anion gap metabolic acidosis|Toxicology
+MUDPILES|Mnemonic for anion gap acidosis causes: methanol, uremia, DKA, propylene glycol, isoniazid or iron, lactic acidosis, ethylene glycol, salicylates|Toxicology
+GOLDMARK|Mnemonic for anion gap acidosis causes: glycols, oxoproline, L-lactate, D-lactate, methanol, aspirin, renal failure, ketoacidosis|Toxicology
+DKA|Diabetic ketoacidosis|Toxicology
+ABG|Arterial blood gas|Toxicology
+VBG|Venous blood gas|Toxicology
+BMP|Basic metabolic panel|Toxicology
+CBC|Complete blood count|Toxicology
+LFT|Liver function tests|Toxicology
+LFTs|Liver function tests|Toxicology
+AST|Aspartate aminotransferase|Toxicology
+ALT|Alanine aminotransferase|Toxicology
+INR|International normalized ratio|Toxicology
+PT|Prothrombin time|Toxicology
+PTT|Partial thromboplastin time|Toxicology
+aPTT|Activated partial thromboplastin time|Toxicology
+CK|Creatine kinase|Toxicology
+CPK|Creatine phosphokinase|Toxicology
+CK-MB|Creatine kinase MB isoenzyme|Toxicology
+TnI|Troponin I|Toxicology
+TnT|Troponin T|Toxicology
+BUN|Blood urea nitrogen|Toxicology
+Cr|Creatinine|Toxicology
+SCr|Serum creatinine|Toxicology
+AKI|Acute kidney injury|Toxicology
+ATN|Acute tubular necrosis|Toxicology
+ALF|Acute liver failure|Toxicology
+ARDS|Acute respiratory distress syndrome|Toxicology
+ECG|Electrocardiogram|Toxicology
+EKG|Electrocardiogram|Toxicology
+QTc|Corrected QT interval|Toxicology
+QRS|QRS complex duration|Toxicology
+LQTS|Long QT syndrome|Toxicology
+TdP|Torsades de pointes|Toxicology
+VT|Ventricular tachycardia|Toxicology
+VF|Ventricular fibrillation|Toxicology
+SVT|Supraventricular tachycardia|Toxicology
+RBBB|Right bundle branch block|Toxicology
+LBBB|Left bundle branch block|Toxicology
+AVB|Atrioventricular block|Toxicology
+CHB|Complete heart block|Toxicology
+PEA|Pulseless electrical activity|Toxicology
+ACLS|Advanced cardiac life support|Toxicology
+BLS|Basic life support|Toxicology
+CPR|Cardiopulmonary resuscitation|Toxicology
+ECPR|Extracorporeal cardiopulmonary resuscitation|Toxicology
+ROSC|Return of spontaneous circulation|Toxicology
+ECMO|Extracorporeal membrane oxygenation|Toxicology
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Toxicology
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Toxicology
+IABP|Intra-aortic balloon pump|Toxicology
+ILE|Intravenous lipid emulsion|Toxicology
+IVLE|Intravenous lipid emulsion|Toxicology
+HIET|High-dose insulin euglycemia therapy|Toxicology
+HDI|High-dose insulin|Toxicology
+HDIT|High-dose insulin therapy|Toxicology
+BBOD|Beta blocker overdose|Toxicology
+CCB|Calcium channel blocker|Toxicology
+CCBOD|Calcium channel blocker overdose|Toxicology
+DHP|Dihydropyridine|Toxicology
+ACEi|Angiotensin-converting enzyme inhibitor|Toxicology
+ARB|Angiotensin receptor blocker|Toxicology
+DigiFab|Digoxin immune fab|Toxicology
+DIF|Digoxin immune fab|Toxicology
+DFab|Digoxin-specific antibody fragments|Toxicology
+NaHCO3|Sodium bicarbonate|Toxicology
+HCO3|Bicarbonate|Toxicology
+Na channel|Sodium channel|Toxicology
+SCB|Sodium channel blocker|Toxicology
+CaCl|Calcium chloride|Toxicology
+CaGluc|Calcium gluconate|Toxicology
+D50|50 percent dextrose|Toxicology
+D10|10 percent dextrose|Toxicology
+IV|Intravenous|Toxicology
+IVF|Intravenous fluids|Toxicology
+IM|Intramuscular|Toxicology
+IO|Intraosseous|Toxicology
+PO|By mouth|Toxicology
+PR|Per rectum|Toxicology
+NG|Nasogastric|Toxicology
+NGT|Nasogastric tube|Toxicology
+OGT|Orogastric tube|Toxicology
+PRN|As needed|Toxicology
+AC|Activated charcoal|Toxicology
+MDAC|Multiple-dose activated charcoal|Toxicology
+SDAC|Single-dose activated charcoal|Toxicology
+GI decon|Gastrointestinal decontamination|Toxicology
+GL|Gastric lavage|Toxicology
+WBI|Whole bowel irrigation|Toxicology
+PEG|Polyethylene glycol|Toxicology
+PEG-ELS|Polyethylene glycol electrolyte lavage solution|Toxicology
+SR|Sustained release|Toxicology
+ER|Extended release|Toxicology
+XR|Extended release|Toxicology
+IR|Immediate release|Toxicology
+ED|Emergency department|Toxicology
+ICU|Intensive care unit|Toxicology
+MICU|Medical intensive care unit|Toxicology
+EMS|Emergency medical services|Toxicology
+MT|Medical toxicologist|Toxicology
+HD|Hemodialysis|Toxicology
+IHD|Intermittent hemodialysis|Toxicology
+CRRT|Continuous renal replacement therapy|Toxicology
+CVVH|Continuous venovenous hemofiltration|Toxicology
+CVVHD|Continuous venovenous hemodialysis|Toxicology
+CVVHDF|Continuous venovenous hemodiafiltration|Toxicology
+HP|Hemoperfusion|Toxicology
+PLEX|Plasma exchange|Toxicology
+TPE|Therapeutic plasma exchange|Toxicology
+ECTR|Extracorporeal treatment|Toxicology
+RRT|Renal replacement therapy|Toxicology
+ETT|Endotracheal tube|Toxicology
+RSI|Rapid sequence intubation|Toxicology
+BVM|Bag-valve-mask|Toxicology
+NIV|Noninvasive ventilation|Toxicology
+BiPAP|Bilevel positive airway pressure|Toxicology
+CPAP|Continuous positive airway pressure|Toxicology
+HFNC|High-flow nasal cannula|Toxicology
+FiO2|Fraction of inspired oxygen|Toxicology
+SpO2|Peripheral oxygen saturation|Toxicology
+SaO2|Arterial oxygen saturation|Toxicology
+PaO2|Partial pressure of arterial oxygen|Toxicology
+PaCO2|Partial pressure of arterial carbon dioxide|Toxicology
+ETCO2|End-tidal carbon dioxide|Toxicology
+RR|Respiratory rate|Toxicology
+HR|Heart rate|Toxicology
+BP|Blood pressure|Toxicology
+MAP|Mean arterial pressure|Toxicology
+GCS|Glasgow Coma Scale|Toxicology
+AMS|Altered mental status|Toxicology
+LOC|Loss of consciousness|Toxicology
+CNS|Central nervous system|Toxicology
+PNS|Peripheral nervous system|Toxicology
+CVA|Cerebrovascular accident|Toxicology
+SE|Status epilepticus|Toxicology
+BZD|Benzodiazepine|Toxicology
+BZDs|Benzodiazepines|Toxicology
+GABA|Gamma-aminobutyric acid|Toxicology
+GHB|Gamma-hydroxybutyrate|Toxicology
+GBL|Gamma-butyrolactone|Toxicology
+BD|1,4-butanediol|Toxicology
+SGA|Second-generation antipsychotic|Toxicology
+FGA|First-generation antipsychotic|Toxicology
+EPS|Extrapyramidal symptoms|Toxicology
+TD|Tardive dyskinesia|Toxicology
+NSAID|Nonsteroidal anti-inflammatory drug|Toxicology
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Toxicology
+COX|Cyclooxygenase|Toxicology
+OD|Overdose|Toxicology
+ODs|Overdoses|Toxicology
+SI|Suicidal ideation|Toxicology
+SA|Suicide attempt|Toxicology
+DSH|Deliberate self-harm|Toxicology
+NSSI|Nonsuicidal self-injury|Toxicology
+SUD|Substance use disorder|Toxicology
+OUD|Opioid use disorder|Toxicology
+MOUD|Medication for opioid use disorder|Toxicology
+MAT|Medication-assisted treatment|Toxicology
+OST|Opioid substitution therapy|Toxicology
+IVDU|Intravenous drug use|Toxicology
+PWID|People who inject drugs|Toxicology
+COWS|Clinical Opiate Withdrawal Scale|Toxicology
+SOWS|Subjective Opiate Withdrawal Scale|Toxicology
+OIRD|Opioid-induced respiratory depression|Toxicology
+OIC|Opioid-induced constipation|Toxicology
+OIH|Opioid-induced hyperalgesia|Toxicology
+NOWS|Neonatal opioid withdrawal syndrome|Toxicology
+NAS|Neonatal abstinence syndrome|Toxicology
+PAWS|Post-acute withdrawal syndrome|Toxicology
+BUP/NLX|Buprenorphine-naloxone combination|Toxicology
+MSO4|Morphine sulfate|Toxicology
+IMF|Illicitly manufactured fentanyl|Toxicology
+PCP|Phencyclidine|Toxicology
+LSD|Lysergic acid diethylamide|Toxicology
+MDMA|3,4-methylenedioxymethamphetamine|Toxicology
+MDA|3,4-methylenedioxyamphetamine|Toxicology
+AMPH|Amphetamine|Toxicology
+METH|Methamphetamine|Toxicology
+ATS|Amphetamine-type stimulant|Toxicology
+THC|Tetrahydrocannabinol|Toxicology
+CBD|Cannabidiol|Toxicology
+CHS|Cannabinoid hyperemesis syndrome|Toxicology
+SC|Synthetic cannabinoid|Toxicology
+SCRA|Synthetic cannabinoid receptor agonist|Toxicology
+NPS|Novel psychoactive substance|Toxicology
+DXM|Dextromethorphan|Toxicology
+PSE|Pseudoephedrine|Toxicology
+DPH|Diphenhydramine|Toxicology
+CYP|Cytochrome P450|Toxicology
+CYP2D6|Cytochrome P450 2D6|Toxicology
+CYP3A4|Cytochrome P450 3A4|Toxicology
+CYP2E1|Cytochrome P450 2E1|Toxicology
+UGT|Uridine diphosphate glucuronosyltransferase|Toxicology
+GSH|Glutathione|Toxicology
+G6PD|Glucose-6-phosphate dehydrogenase|Toxicology
+NADH|Nicotinamide adenine dinucleotide, reduced|Toxicology
+ATP|Adenosine triphosphate|Toxicology
+SOD|Superoxide dismutase|Toxicology
+ROS|Reactive oxygen species|Toxicology
+hrs|Hours|Toxicology
+t1/2|Half-life|Toxicology
+Vd|Volume of distribution|Toxicology
+CL|Clearance|Toxicology
+PK|Pharmacokinetics|Toxicology
+PD|Pharmacodynamics|Toxicology
+TDM|Therapeutic drug monitoring|Toxicology
+LD50|Median lethal dose|Toxicology
+LC50|Median lethal concentration|Toxicology
+ED50|Median effective dose|Toxicology
+TD50|Median toxic dose|Toxicology
+NOAEL|No observed adverse effect level|Toxicology
+LOAEL|Lowest observed adverse effect level|Toxicology
+PEL|Permissible exposure limit|Toxicology
+TLV|Threshold limit value|Toxicology
+TWA|Time-weighted average|Toxicology
+STEL|Short-term exposure limit|Toxicology
+IDLH|Immediately dangerous to life or health|Toxicology
+ppm|Parts per million|Toxicology
+ppb|Parts per billion|Toxicology
+SDS|Safety data sheet|Toxicology
+MSDS|Material safety data sheet|Toxicology
+PPE|Personal protective equipment|Toxicology
+SCBA|Self-contained breathing apparatus|Toxicology
+HAZMAT|Hazardous materials|Toxicology
+CBRN|Chemical, biological, radiological, nuclear|Toxicology
+CWA|Chemical warfare agent|Toxicology
+HF|Hydrofluoric acid|Toxicology
+HCl|Hydrochloric acid|Toxicology
+NaOH|Sodium hydroxide|Toxicology
+Cl2|Chlorine gas|Toxicology
+NH3|Ammonia|Toxicology
+NO2|Nitrogen dioxide|Toxicology
+SO2|Sulfur dioxide|Toxicology
+CO2|Carbon dioxide|Toxicology
+PAH|Polycyclic aromatic hydrocarbon|Toxicology
+VOC|Volatile organic compound|Toxicology
+PCB|Polychlorinated biphenyl|Toxicology
+DDT|Dichlorodiphenyltrichloroethane|Toxicology
+PFAS|Per- and polyfluoroalkyl substances|Toxicology
+BPA|Bisphenol A|Toxicology
+CCl4|Carbon tetrachloride|Toxicology
+TCE|Trichloroethylene|Toxicology
+BTX|Benzene, toluene, xylene|Toxicology
+CS|Chlorobenzylidene malononitrile (tear gas)|Toxicology
+RADS|Reactive airways dysfunction syndrome|Toxicology
+MFF|Metal fume fever|Toxicology
+NCPE|Noncardiogenic pulmonary edema|Toxicology
+DAD|Diffuse alveolar damage|Toxicology
+ACh|Acetylcholine|Toxicology
+NMJ|Neuromuscular junction|Toxicology
+nAChR|Nicotinic acetylcholine receptor|Toxicology
+mAChR|Muscarinic acetylcholine receptor|Toxicology
+IMS|Intermediate syndrome|Toxicology
+IMS-OP|Intermediate syndrome after organophosphate poisoning|Toxicology
+OPs|Organophosphates|Toxicology
+CMs|Carbamates|Toxicology
+Atrop|Atropine|Toxicology
+GLY|Glycopyrrolate|Toxicology
+PHYSO|Physostigmine|Toxicology
+FLU|Flumazenil|Toxicology
+NMBA|Neuromuscular blocking agent|Toxicology
+NMB|Neuromuscular blockade|Toxicology
+SCh|Succinylcholine|Toxicology
+MH|Malignant hyperthermia|Toxicology
+DAN|Dantrolene|Toxicology
+Cypro|Cyproheptadine|Toxicology
+HTN|Hypertension|Toxicology
+HoTN|Hypotension|Toxicology
+HypoK|Hypokalemia|Toxicology
+HyperK|Hyperkalemia|Toxicology
+HypoNa|Hyponatremia|Toxicology
+HyperNa|Hypernatremia|Toxicology
+HypoCa|Hypocalcemia|Toxicology
+HyperCa|Hypercalcemia|Toxicology
+HypoMg|Hypomagnesemia|Toxicology
+HypoPhos|Hypophosphatemia|Toxicology
+K|Potassium|Toxicology
+Na|Sodium|Toxicology
+Ca|Calcium|Toxicology
+Mg|Magnesium|Toxicology
+Cl|Chloride|Toxicology
+iCa|Ionized calcium|Toxicology
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Toxicology
+DI|Diabetes insipidus|Toxicology
+RIPP|Rhabdomyolysis-induced pigment nephropathy|Toxicology
+Rhabdo|Rhabdomyolysis|Toxicology
+DIC|Disseminated intravascular coagulation|Toxicology
+HIT|Heparin-induced thrombocytopenia|Toxicology
+TTP|Thrombotic thrombocytopenic purpura|Toxicology
+HUS|Hemolytic uremic syndrome|Toxicology
+LDH|Lactate dehydrogenase|Toxicology
+RBC|Red blood cell|Toxicology
+WBC|White blood cell|Toxicology
+Hb|Hemoglobin|Toxicology
+Hgb|Hemoglobin|Toxicology
+Hct|Hematocrit|Toxicology
+Plt|Platelet|Toxicology
+PRBC|Packed red blood cells|Toxicology
+FFP|Fresh frozen plasma|Toxicology
+PCC-4F|Four-factor prothrombin complex concentrate|Toxicology
+4F-PCC|Four-factor prothrombin complex concentrate|Toxicology
+VitK|Vitamin K|Toxicology
+VKA|Vitamin K antagonist|Toxicology
+DOAC|Direct oral anticoagulant|Toxicology
+DOACs|Direct oral anticoagulants|Toxicology
+LMWH|Low molecular weight heparin|Toxicology
+UFH|Unfractionated heparin|Toxicology
+TXA|Tranexamic acid|Toxicology
+SRA|Superwarfarin rodenticide anticoagulant|Toxicology
+LAAR|Long-acting anticoagulant rodenticide|Toxicology
+CroFab|Crotalidae polyvalent immune fab|Toxicology
+CPIF|Crotalidae polyvalent immune fab|Toxicology
+VIC|Venom-induced consumptive coagulopathy|Toxicology
+VICC|Venom-induced consumptive coagulopathy|Toxicology
+WBCT|Whole blood clotting time|Toxicology
+20WBCT|20-minute whole blood clotting test|Toxicology
+PIV|Peripheral intravenous line|Toxicology
+CVC|Central venous catheter|Toxicology
+A-line|Arterial line|Toxicology
+UDS|Urine drug screen|Toxicology
+UDT|Urine drug test|Toxicology
+DOA|Drugs of abuse|Toxicology
+IA|Immunoassay|Toxicology
+EMIT|Enzyme multiplied immunoassay technique|Toxicology
+ELISA|Enzyme-linked immunosorbent assay|Toxicology
+FPIA|Fluorescence polarization immunoassay|Toxicology
+CEDIA|Cloned enzyme donor immunoassay|Toxicology
+GC-MS|Gas chromatography-mass spectrometry|Toxicology
+LC-MS|Liquid chromatography-mass spectrometry|Toxicology
+LC-MS/MS|Liquid chromatography-tandem mass spectrometry|Toxicology
+HPLC|High-performance liquid chromatography|Toxicology
+TLC|Thin-layer chromatography|Toxicology
+GC|Gas chromatography|Toxicology
+MS|Mass spectrometry|Toxicology
+HRMS|High-resolution mass spectrometry|Toxicology
+ICP-MS|Inductively coupled plasma mass spectrometry|Toxicology
+AAS|Atomic absorption spectrometry|Toxicology
+XRF|X-ray fluorescence|Toxicology
+POC|Point of care|Toxicology
+POCT|Point-of-care testing|Toxicology
+LOD|Limit of detection|Toxicology
+LOQ|Limit of quantitation|Toxicology
+Cmax|Peak concentration|Toxicology
+Tmax|Time to peak concentration|Toxicology
+AUC|Area under the curve|Toxicology
+MIC|Minimum inhibitory concentration|Toxicology
+BID|Twice daily|Toxicology
+TID|Three times daily|Toxicology
+QID|Four times daily|Toxicology
+QD|Once daily|Toxicology
+QHS|Every night at bedtime|Toxicology
+q4h|Every 4 hours|Toxicology
+q6h|Every 6 hours|Toxicology
+q8h|Every 8 hours|Toxicology
+q12h|Every 12 hours|Toxicology
+STAT|Immediately|Toxicology
+NPO|Nothing by mouth|Toxicology
+mEq|Milliequivalent|Toxicology
+mOsm|Milliosmole|Toxicology
+mOsm/kg|Milliosmoles per kilogram|Toxicology
+mcg|Microgram|Toxicology
+ug|Microgram|Toxicology
+mg/dL|Milligrams per deciliter|Toxicology
+ng/mL|Nanograms per milliliter|Toxicology
+mcg/mL|Micrograms per milliliter|Toxicology
+mmol/L|Millimoles per liter|Toxicology
+AMA|Against medical advice|Toxicology
+SIRS|Systemic inflammatory response syndrome|Toxicology
+MODS|Multiple organ dysfunction syndrome|Toxicology
+SOFA|Sequential Organ Failure Assessment|Toxicology
+APACHE|Acute Physiology and Chronic Health Evaluation|Toxicology
+MELD|Model for End-Stage Liver Disease|Toxicology
+HE|Hepatic encephalopathy|Toxicology
+OLT|Orthotopic liver transplant|Toxicology
+LT|Liver transplant|Toxicology
+FHF|Fulminant hepatic failure|Toxicology
+DILI|Drug-induced liver injury|Toxicology
+ADR|Adverse drug reaction|Toxicology
+ADE|Adverse drug event|Toxicology
+SJS|Stevens-Johnson syndrome|Toxicology
+TEN|Toxic epidermal necrolysis|Toxicology
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Toxicology
+AGEP|Acute generalized exanthematous pustulosis|Toxicology
+FDE|Fixed drug eruption|Toxicology
+TCAs|Tricyclic antidepressants|Toxicology
+CPZ|Chlorpromazine|Toxicology
+HAL|Haloperidol|Toxicology
+CLZ|Clozapine|Toxicology
+AED|Antiepileptic drug|Toxicology
+AEDs|Antiepileptic drugs|Toxicology
+VPA|Valproic acid|Toxicology
+CBZ|Carbamazepine|Toxicology
+PHT|Phenytoin|Toxicology
+PB|Phenobarbital|Toxicology
+LEV|Levetiracetam|Toxicology
+LTG|Lamotrigine|Toxicology
+INH|Isoniazid|Toxicology
+OHCbl|Hydroxocobalamin|Toxicology
+NaNO2|Sodium nitrite|Toxicology
+NaTS|Sodium thiosulfate|Toxicology
+STS|Sodium thiosulfate|Toxicology
+MB|Methylene blue|Toxicology
+Hydroxo|Hydroxocobalamin|Toxicology
+SNP|Sodium nitroprusside|Toxicology
+NTG|Nitroglycerin|Toxicology
+Epi|Epinephrine|Toxicology
+NE|Norepinephrine|Toxicology
+Neo|Phenylephrine|Toxicology
+VP|Vasopressin|Toxicology
+DA|Dopamine|Toxicology
+DBT|Dobutamine|Toxicology
+ISO|Isoproterenol|Toxicology
+SSKI|Saturated solution of potassium iodide|Toxicology
+KI|Potassium iodide|Toxicology
+DTPA|Diethylenetriaminepentaacetic acid|Toxicology
+ARS|Acute radiation syndrome|Toxicology
+CRS|Cutaneous radiation syndrome|Toxicology
+GI|Gastrointestinal|Toxicology
+GIB|Gastrointestinal bleed|Toxicology
+UGIB|Upper gastrointestinal bleed|Toxicology
+PPI|Proton pump inhibitor|Toxicology
+H2RA|Histamine-2 receptor antagonist|Toxicology
+ABX|Antibiotics|Toxicology
+FFA|Free fatty acids|Toxicology
+CHF|Congestive heart failure|Toxicology
+CAD|Coronary artery disease|Toxicology
+MI|Myocardial infarction|Toxicology
+ACS|Acute coronary syndrome|Toxicology
+TTC|Takotsubo cardiomyopathy|Toxicology
+PE|Pulmonary embolism|Toxicology
+COPD|Chronic obstructive pulmonary disease|Toxicology
+ILD|Interstitial lung disease|Toxicology
+CKD|Chronic kidney disease|Toxicology
+ESRD|End-stage renal disease|Toxicology
+GFR|Glomerular filtration rate|Toxicology
+eGFR|Estimated glomerular filtration rate|Toxicology
+UOP|Urine output|Toxicology
+UA|Urinalysis|Toxicology
+Ucr|Urine creatinine|Toxicology
+FeNa|Fractional excretion of sodium|Toxicology
+SI/HI|Suicidal and homicidal ideation|Toxicology
+HI|Homicidal ideation|Toxicology
+C-SSRS|Columbia Suicide Severity Rating Scale|Toxicology
+RASS|Richmond Agitation-Sedation Scale|Toxicology
+CAM-ICU|Confusion Assessment Method for the ICU|Toxicology
+CAM|Confusion Assessment Method|Toxicology
+CIWA-B|Clinical Institute Withdrawal Assessment for Benzodiazepines|Toxicology
+SAWS|Short Alcohol Withdrawal Scale|Toxicology
+PAWSS|Prediction of Alcohol Withdrawal Severity Scale|Toxicology
+AUDIT|Alcohol Use Disorders Identification Test|Toxicology
+AUDIT-C|Alcohol Use Disorders Identification Test, consumption items|Toxicology
+CAGE|Cut down, Annoyed, Guilty, Eye-opener alcohol screening questionnaire|Toxicology
+SBIRT|Screening, brief intervention, and referral to treatment|Toxicology
+DAST|Drug Abuse Screening Test|Toxicology
+WE|Wernicke encephalopathy|Toxicology
+WKS|Wernicke-Korsakoff syndrome|Toxicology
+HHS|Hyperosmolar hyperglycemic state|Toxicology
+LA|Lactic acidosis|Toxicology
+MALA|Metformin-associated lactic acidosis|Toxicology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Toxicology
+SU|Sulfonylurea|Toxicology
+SUs|Sulfonylureas|Toxicology
+OHA|Oral hypoglycemic agent|Toxicology
+OHAs|Oral hypoglycemic agents|Toxicology
+DM|Diabetes mellitus|Toxicology
+T1DM|Type 1 diabetes mellitus|Toxicology
+T2DM|Type 2 diabetes mellitus|Toxicology
+POCG|Point-of-care glucose|Toxicology
+FSBG|Fingerstick blood glucose|Toxicology
+BG|Blood glucose|Toxicology
+BS|Blood sugar|Toxicology
+CO-ox|Co-oximetry|Toxicology
+Co-ox|Co-oximetry|Toxicology
+SpCO|Pulse-oximetry carboxyhemoglobin|Toxicology
+SpMet|Pulse-oximetry methemoglobin|Toxicology
+DNS|Delayed neurologic sequelae|Toxicology
+DNS-CO|Delayed neurologic sequelae after carbon monoxide poisoning|Toxicology
+FAST|Focused assessment with sonography in trauma|Toxicology
+POCUS|Point-of-care ultrasound|Toxicology
+CT|Computed tomography|Toxicology
+CXR|Chest x-ray|Toxicology
+KUB|Kidneys, ureters, bladder abdominal x-ray|Toxicology
+AXR|Abdominal x-ray|Toxicology
+MRI|Magnetic resonance imaging|Toxicology
+EEG|Electroencephalogram|Toxicology
+cEEG|Continuous electroencephalogram|Toxicology
+EMG|Electromyography|Toxicology
+NCS|Nerve conduction studies|Toxicology
+LP|Lumbar puncture|Toxicology
+CSF|Cerebrospinal fluid|Toxicology
+ICP|Intracranial pressure|Toxicology
+PRES|Posterior reversible encephalopathy syndrome|Toxicology
+RCVS|Reversible cerebral vasoconstriction syndrome|Toxicology
+ODS|Osmotic demyelination syndrome|Toxicology
+CPM|Central pontine myelinolysis|Toxicology
+TBI|Traumatic brain injury|Toxicology
+EOL|End of life|Toxicology
+DNR|Do not resuscitate|Toxicology
+DNI|Do not intubate|Toxicology
+PMH|Past medical history|Toxicology
+PSH|Past surgical history|Toxicology
+FH|Family history|Toxicology
+SH|Social history|Toxicology
+HPI|History of present illness|Toxicology
+A&P|Assessment and plan|Toxicology
+CC|Chief complaint|Toxicology
+Dx|Diagnosis|Toxicology
+Tx|Treatment|Toxicology
+Rx|Prescription or treatment|Toxicology
+Hx|History|Toxicology
+Sx|Symptoms|Toxicology
+Fx|Fracture|Toxicology
+c/w|Consistent with|Toxicology
+s/p|Status post|Toxicology
+w/u|Workup|Toxicology
+CMP|Comprehensive metabolic panel|Toxicology
+BB|Beta blocker|Toxicology
+OC|Oleoresin capsicum (pepper spray)|Toxicology
+SSRIs|Selective serotonin reuptake inhibitors|Toxicology
+Dig|Digoxin|Toxicology

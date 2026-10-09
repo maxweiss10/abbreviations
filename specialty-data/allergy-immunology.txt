@@ -1,0 +1,660 @@
+IgE|Immunoglobulin E|Allergy & Immunology
+IgG|Immunoglobulin G|Allergy & Immunology
+IgA|Immunoglobulin A|Allergy & Immunology
+IgM|Immunoglobulin M|Allergy & Immunology
+IgD|Immunoglobulin D|Allergy & Immunology
+sIgE|Allergen-specific immunoglobulin E|Allergy & Immunology
+tIgE|Total immunoglobulin E|Allergy & Immunology
+IVIG|Intravenous immunoglobulin|Allergy & Immunology
+SCIG|Subcutaneous immunoglobulin|Allergy & Immunology
+SCIg|Subcutaneous immunoglobulin|Allergy & Immunology
+IVIg|Intravenous immunoglobulin|Allergy & Immunology
+fSCIG|Facilitated subcutaneous immunoglobulin|Allergy & Immunology
+IgRT|Immunoglobulin replacement therapy|Allergy & Immunology
+HBIG|Hepatitis B immune globulin|Allergy & Immunology
+RhIG|Rh immune globulin|Allergy & Immunology
+VZIG|Varicella zoster immune globulin|Allergy & Immunology
+CMV-IG|Cytomegalovirus immune globulin|Allergy & Immunology
+SPT|Skin prick test|Allergy & Immunology
+IDT|Intradermal test|Allergy & Immunology
+PTP|Prick-to-prick test|Allergy & Immunology
+APT|Atopy patch test|Allergy & Immunology
+OFC|Oral food challenge|Allergy & Immunology
+DBPCFC|Double-blind placebo-controlled food challenge|Allergy & Immunology
+DBPC|Double-blind placebo-controlled|Allergy & Immunology
+OIT|Oral immunotherapy|Allergy & Immunology
+SLIT|Sublingual immunotherapy|Allergy & Immunology
+SCIT|Subcutaneous immunotherapy|Allergy & Immunology
+EPIT|Epicutaneous immunotherapy|Allergy & Immunology
+AIT|Allergen immunotherapy|Allergy & Immunology
+AIT|Allergen-specific immunotherapy|Allergy & Immunology
+VIT|Venom immunotherapy|Allergy & Immunology
+FIT|Food immunotherapy|Allergy & Immunology
+SLIT-T|Sublingual immunotherapy tablet|Allergy & Immunology
+CRD|Component-resolved diagnostics|Allergy & Immunology
+RAST|Radioallergosorbent test|Allergy & Immunology
+EAI|Epinephrine auto-injector|Allergy & Immunology
+AR|Allergic rhinitis|Allergy & Immunology
+SAR|Seasonal allergic rhinitis|Allergy & Immunology
+PAR|Perennial allergic rhinitis|Allergy & Immunology
+NAR|Non-allergic rhinitis|Allergy & Immunology
+LAR|Local allergic rhinitis|Allergy & Immunology
+SAC|Seasonal allergic conjunctivitis|Allergy & Immunology
+PAC|Perennial allergic conjunctivitis|Allergy & Immunology
+VKC|Vernal keratoconjunctivitis|Allergy & Immunology
+AKC|Atopic keratoconjunctivitis|Allergy & Immunology
+GPC|Giant papillary conjunctivitis|Allergy & Immunology
+ARC|Allergic rhinoconjunctivitis|Allergy & Immunology
+AFRS|Allergic fungal rhinosinusitis|Allergy & Immunology
+AFS|Allergic fungal sinusitis|Allergy & Immunology
+CRS|Chronic rhinosinusitis|Allergy & Immunology
+CRSwNP|Chronic rhinosinusitis with nasal polyps|Allergy & Immunology
+CRSsNP|Chronic rhinosinusitis without nasal polyps|Allergy & Immunology
+ARS|Acute rhinosinusitis|Allergy & Immunology
+RARS|Recurrent acute rhinosinusitis|Allergy & Immunology
+NP|Nasal polyps|Allergy & Immunology
+INCS|Intranasal corticosteroid|Allergy & Immunology
+INS|Intranasal steroid|Allergy & Immunology
+AH|Antihistamine|Allergy & Immunology
+H1RA|H1 receptor antagonist|Allergy & Immunology
+H2RA|H2 receptor antagonist|Allergy & Immunology
+H1|Histamine type 1 receptor|Allergy & Immunology
+H2|Histamine type 2 receptor|Allergy & Immunology
+H4|Histamine type 4 receptor|Allergy & Immunology
+sgAH|Second-generation antihistamine|Allergy & Immunology
+fgAH|First-generation antihistamine|Allergy & Immunology
+LTRA|Leukotriene receptor antagonist|Allergy & Immunology
+CysLT|Cysteinyl leukotriene|Allergy & Immunology
+LTC4|Leukotriene C4|Allergy & Immunology
+LTD4|Leukotriene D4|Allergy & Immunology
+LTE4|Leukotriene E4|Allergy & Immunology
+uLTE4|Urinary leukotriene E4|Allergy & Immunology
+PGD2|Prostaglandin D2|Allergy & Immunology
+PGE2|Prostaglandin E2|Allergy & Immunology
+COX|Cyclooxygenase|Allergy & Immunology
+COX-1|Cyclooxygenase-1|Allergy & Immunology
+COX-2|Cyclooxygenase-2|Allergy & Immunology
+NSAID|Nonsteroidal anti-inflammatory drug|Allergy & Immunology
+ASA|Aspirin|Allergy & Immunology
+AERD|Aspirin-exacerbated respiratory disease|Allergy & Immunology
+NERD|NSAID-exacerbated respiratory disease|Allergy & Immunology
+N-ERD|NSAID-exacerbated respiratory disease|Allergy & Immunology
+AIA|Aspirin-induced asthma|Allergy & Immunology
+SNIUAA|Single NSAID-induced urticaria, angioedema or anaphylaxis|Allergy & Immunology
+MNIUAA|Multiple NSAID-induced urticaria, angioedema or anaphylaxis|Allergy & Immunology
+SNIDHR|Single NSAID-induced delayed hypersensitivity reaction|Allergy & Immunology
+CSU|Chronic spontaneous urticaria|Allergy & Immunology
+CIU|Chronic idiopathic urticaria|Allergy & Immunology
+CINDU|Chronic inducible urticaria|Allergy & Immunology
+CIndU|Chronic inducible urticaria|Allergy & Immunology
+ASST|Autologous serum skin test|Allergy & Immunology
+UAS7|Urticaria activity score over 7 days|Allergy & Immunology
+UCT|Urticaria control test|Allergy & Immunology
+AAE|Acquired angioedema|Allergy & Immunology
+HAE|Hereditary angioedema|Allergy & Immunology
+HAE-C1INH|Hereditary angioedema due to C1 inhibitor deficiency|Allergy & Immunology
+HAE-nC1INH|Hereditary angioedema with normal C1 inhibitor|Allergy & Immunology
+ACEi-AE|ACE inhibitor-induced angioedema|Allergy & Immunology
+ACEi|Angiotensin-converting enzyme inhibitor|Allergy & Immunology
+ARB|Angiotensin receptor blocker|Allergy & Immunology
+C1-INH|C1 esterase inhibitor|Allergy & Immunology
+C1INH|C1 esterase inhibitor|Allergy & Immunology
+pdC1INH|Plasma-derived C1 inhibitor|Allergy & Immunology
+rhC1INH|Recombinant human C1 inhibitor|Allergy & Immunology
+C1q|Complement component 1q|Allergy & Immunology
+C1s|Complement component 1s|Allergy & Immunology
+C1r|Complement component 1r|Allergy & Immunology
+C3|Complement component 3|Allergy & Immunology
+C4|Complement component 4|Allergy & Immunology
+C5|Complement component 5|Allergy & Immunology
+C5a|Complement component 5a, an anaphylatoxin|Allergy & Immunology
+C3a|Complement component 3a, an anaphylatoxin|Allergy & Immunology
+MAC|Membrane attack complex|Allergy & Immunology
+CH50|Total hemolytic complement|Allergy & Immunology
+AH50|Alternative pathway hemolytic complement|Allergy & Immunology
+MBL|Mannose-binding lectin|Allergy & Immunology
+MASP|Mannose-binding lectin-associated serine protease|Allergy & Immunology
+CFH|Complement factor H|Allergy & Immunology
+CFB|Complement factor B|Allergy & Immunology
+HMWK|High-molecular-weight kininogen|Allergy & Immunology
+BK|Bradykinin|Allergy & Immunology
+B2R|Bradykinin B2 receptor|Allergy & Immunology
+FXII|Factor XII|Allergy & Immunology
+AD|Atopic dermatitis|Allergy & Immunology
+EASI|Eczema area and severity index|Allergy & Immunology
+SCORAD|Scoring atopic dermatitis|Allergy & Immunology
+IGA|Investigator global assessment|Allergy & Immunology
+vIGA|Validated investigator global assessment|Allergy & Immunology
+POEM|Patient-oriented eczema measure|Allergy & Immunology
+DLQI|Dermatology life quality index|Allergy & Immunology
+TCS|Topical corticosteroid|Allergy & Immunology
+TCI|Topical calcineurin inhibitor|Allergy & Immunology
+JAKi|Janus kinase inhibitor|Allergy & Immunology
+JAK|Janus kinase|Allergy & Immunology
+STAT|Signal transducer and activator of transcription|Allergy & Immunology
+ACD|Allergic contact dermatitis|Allergy & Immunology
+ICD|Irritant contact dermatitis|Allergy & Immunology
+TRUE|Thin-layer rapid use epicutaneous patch test|Allergy & Immunology
+ROAT|Repeated open application test|Allergy & Immunology
+NACDG|North American contact dermatitis group series|Allergy & Immunology
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Allergy & Immunology
+DIHS|Drug-induced hypersensitivity syndrome|Allergy & Immunology
+AGEP|Acute generalized exanthematous pustulosis|Allergy & Immunology
+TEN|Toxic epidermal necrolysis|Allergy & Immunology
+SCAR|Severe cutaneous adverse reaction|Allergy & Immunology
+SCARs|Severe cutaneous adverse reactions|Allergy & Immunology
+MPE|Maculopapular exanthem|Allergy & Immunology
+MPE|Maculopapular eruption|Allergy & Immunology
+FDE|Fixed drug eruption|Allergy & Immunology
+EM|Erythema multiforme|Allergy & Immunology
+EMM|Erythema multiforme major|Allergy & Immunology
+SDRIFE|Symmetrical drug-related intertriginous and flexural exanthema|Allergy & Immunology
+BDR|Benign drug rash|Allergy & Immunology
+ADR|Adverse drug reaction|Allergy & Immunology
+DHRs|Drug hypersensitivity reactions|Allergy & Immunology
+IDHR|Immediate drug hypersensitivity reaction|Allergy & Immunology
+NIDHR|Non-immediate drug hypersensitivity reaction|Allergy & Immunology
+LTT|Lymphocyte transformation test|Allergy & Immunology
+ELISpot|Enzyme-linked immunospot assay|Allergy & Immunology
+ALDEN|Algorithm of drug causality for epidermal necrolysis|Allergy & Immunology
+SCORTEN|Severity-of-illness score for toxic epidermal necrolysis|Allergy & Immunology
+RegiSCAR|Registry of severe cutaneous adverse reactions score|Allergy & Immunology
+PEN|Penicillin|Allergy & Immunology
+PCN|Penicillin|Allergy & Immunology
+PEN-FAST|Penicillin allergy decision rule: five years, anaphylaxis or angioedema, severe cutaneous reaction, treatment required|Allergy & Immunology
+PAD|Penicillin allergy delabeling|Allergy & Immunology
+PPL|Penicilloyl polylysine|Allergy & Immunology
+MDM|Minor determinant mixture|Allergy & Immunology
+BPO|Benzylpenicilloyl|Allergy & Immunology
+AMX|Amoxicillin|Allergy & Immunology
+AMX-CLV|Amoxicillin-clavulanate|Allergy & Immunology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Allergy & Immunology
+SMX|Sulfamethoxazole|Allergy & Immunology
+TMP|Trimethoprim|Allergy & Immunology
+SJS/TEN|Spectrum of severe blistering skin reactions with mucosal involvement|Allergy & Immunology
+MCAS|Mast cell activation syndrome|Allergy & Immunology
+MCAD|Mast cell activation disorder|Allergy & Immunology
+MMAS|Monoclonal mast cell activation syndrome|Allergy & Immunology
+ISM|Indolent systemic mastocytosis|Allergy & Immunology
+SSM|Smoldering systemic mastocytosis|Allergy & Immunology
+ASM|Aggressive systemic mastocytosis|Allergy & Immunology
+SM-AHN|Systemic mastocytosis with an associated hematologic neoplasm|Allergy & Immunology
+SM-AHNMD|Systemic mastocytosis with associated clonal hematologic non-mast cell disease|Allergy & Immunology
+MCL|Mast cell leukemia|Allergy & Immunology
+MCS|Mast cell sarcoma|Allergy & Immunology
+MPCM|Maculopapular cutaneous mastocytosis|Allergy & Immunology
+DCM|Diffuse cutaneous mastocytosis|Allergy & Immunology
+bT|Baseline tryptase|Allergy & Immunology
+BST|Baseline serum tryptase|Allergy & Immunology
+HaT|Hereditary alpha tryptasemia|Allergy & Immunology
+HAT|Hereditary alpha tryptasemia|Allergy & Immunology
+TKI|Tyrosine kinase inhibitor|Allergy & Immunology
+FcεRI|High-affinity IgE receptor|Allergy & Immunology
+FcεRII|Low-affinity IgE receptor|Allergy & Immunology
+CD23|Low-affinity IgE receptor|Allergy & Immunology
+BPE|Biphasic anaphylaxis|Allergy & Immunology
+FDEIA|Food-dependent exercise-induced anaphylaxis|Allergy & Immunology
+WDEIA|Wheat-dependent exercise-induced anaphylaxis|Allergy & Immunology
+alpha-gal|Galactose-alpha-1,3-galactose|Allergy & Immunology
+IA|Idiopathic anaphylaxis|Allergy & Immunology
+FPIES|Food protein-induced enterocolitis syndrome|Allergy & Immunology
+FPIAP|Food protein-induced allergic proctocolitis|Allergy & Immunology
+FPE|Food protein-induced enteropathy|Allergy & Immunology
+FPIP|Food protein-induced proctitis|Allergy & Immunology
+FPIE|Food protein-induced enteropathy|Allergy & Immunology
+OAS|Oral allergy syndrome|Allergy & Immunology
+PFAS|Pollen-food allergy syndrome|Allergy & Immunology
+CMA|Cow's milk allergy|Allergy & Immunology
+CMPA|Cow's milk protein allergy|Allergy & Immunology
+CMPI|Cow's milk protein intolerance|Allergy & Immunology
+eHF|Extensively hydrolyzed formula|Allergy & Immunology
+pHF|Partially hydrolyzed formula|Allergy & Immunology
+AAF|Amino acid-based formula|Allergy & Immunology
+PNA|Peanut allergy|Allergy & Immunology
+TNA|Tree nut allergy|Allergy & Immunology
+FAQLQ|Food allergy quality of life questionnaire|Allergy & Immunology
+FAIM|Food allergy independent measure|Allergy & Immunology
+FAQL|Food allergy quality of life|Allergy & Immunology
+FALCPQ|Food allergy and anaphylaxis quality of life|Allergy & Immunology
+rAra h 2|Recombinant peanut component Ara h 2|Allergy & Immunology
+Ara h|Peanut allergen component|Allergy & Immunology
+Ara h 2|Peanut storage protein component 2|Allergy & Immunology
+Ara h 8|Peanut component homologous to birch pollen protein|Allergy & Immunology
+Bet v 1|Major birch pollen allergen|Allergy & Immunology
+Der p|House dust mite allergen from Dermatophagoides pteronyssinus|Allergy & Immunology
+Der f|House dust mite allergen from Dermatophagoides farinae|Allergy & Immunology
+Fel d 1|Major cat allergen|Allergy & Immunology
+Phl p|Timothy grass allergen component|Allergy & Immunology
+Amb a 1|Major short ragweed allergen|Allergy & Immunology
+Api m|Honeybee venom allergen component|Allergy & Immunology
+Ves v|Yellow jacket venom allergen component|Allergy & Immunology
+Gal d|Hen's egg allergen component|Allergy & Immunology
+Tri a 19|Omega-5 gliadin wheat component|Allergy & Immunology
+Cor a|Hazelnut allergen component|Allergy & Immunology
+Jug r|Walnut allergen component|Allergy & Immunology
+Ana o|Cashew allergen component|Allergy & Immunology
+HDM|House dust mite|Allergy & Immunology
+BAU|Bioequivalent allergy unit|Allergy & Immunology
+LLR|Large local reaction|Allergy & Immunology
+LLRs|Large local reactions|Allergy & Immunology
+VHR|Venom hypersensitivity reaction|Allergy & Immunology
+HVA|Honeybee venom allergy|Allergy & Immunology
+HBV|Honeybee venom|Allergy & Immunology
+HBV|Hepatitis B virus|Allergy & Immunology
+WBEC|Whole body extract of fire ant|Allergy & Immunology
+RIFA|Red imported fire ant|Allergy & Immunology
+ASA-D|Aspirin desensitization|Allergy & Immunology
+RDD|Rapid drug desensitization|Allergy & Immunology
+RDDs|Rapid drug desensitizations|Allergy & Immunology
+RCM|Radiocontrast media|Allergy & Immunology
+ICM|Iodinated contrast media|Allergy & Immunology
+GBCA|Gadolinium-based contrast agent|Allergy & Immunology
+CM-HSR|Contrast media hypersensitivity reaction|Allergy & Immunology
+IRR|Infusion-related reaction|Allergy & Immunology
+CRS|Cytokine release syndrome|Allergy & Immunology
+HSR|Hypersensitivity reaction|Allergy & Immunology
+HSRs|Hypersensitivity reactions|Allergy & Immunology
+EAA|Extrinsic allergic alveolitis|Allergy & Immunology
+ABPA|Allergic bronchopulmonary aspergillosis|Allergy & Immunology
+ABPM|Allergic bronchopulmonary mycosis|Allergy & Immunology
+SAFS|Severe asthma with fungal sensitization|Allergy & Immunology
+CPA|Chronic pulmonary aspergillosis|Allergy & Immunology
+IPA|Invasive pulmonary aspergillosis|Allergy & Immunology
+EGPA|Eosinophilic granulomatosis with polyangiitis|Allergy & Immunology
+GPA|Granulomatosis with polyangiitis|Allergy & Immunology
+MPA|Microscopic polyangiitis|Allergy & Immunology
+ANCA|Antineutrophil cytoplasmic antibody|Allergy & Immunology
+c-ANCA|Cytoplasmic antineutrophil cytoplasmic antibody|Allergy & Immunology
+p-ANCA|Perinuclear antineutrophil cytoplasmic antibody|Allergy & Immunology
+PR3|Proteinase 3|Allergy & Immunology
+MPO|Myeloperoxidase|Allergy & Immunology
+AAV|Antineutrophil cytoplasmic antibody-associated vasculitis|Allergy & Immunology
+HES|Hypereosinophilic syndrome|Allergy & Immunology
+HE|Hypereosinophilia|Allergy & Immunology
+HEus|Hypereosinophilia of undetermined significance|Allergy & Immunology
+L-HES|Lymphocytic variant hypereosinophilic syndrome|Allergy & Immunology
+M-HES|Myeloproliferative variant hypereosinophilic syndrome|Allergy & Immunology
+CEL|Chronic eosinophilic leukemia|Allergy & Immunology
+AEC|Absolute eosinophil count|Allergy & Immunology
+EOS|Eosinophils|Allergy & Immunology
+Eos|Eosinophils|Allergy & Immunology
+BEC|Blood eosinophil count|Allergy & Immunology
+ECP|Eosinophil cationic protein|Allergy & Immunology
+EDN|Eosinophil-derived neurotoxin|Allergy & Immunology
+EET|Eosinophil extracellular traps|Allergy & Immunology
+EoE|Eosinophilic esophagitis|Allergy & Immunology
+EGID|Eosinophilic gastrointestinal disorder|Allergy & Immunology
+EGIDs|Eosinophilic gastrointestinal diseases|Allergy & Immunology
+EG|Eosinophilic gastritis|Allergy & Immunology
+EGE|Eosinophilic gastroenteritis|Allergy & Immunology
+EC|Eosinophilic colitis|Allergy & Immunology
+EoG|Eosinophilic gastritis|Allergy & Immunology
+EoC|Eosinophilic colitis|Allergy & Immunology
+EoD|Eosinophilic duodenitis|Allergy & Immunology
+EREFS|Eosinophilic esophagitis endoscopic reference score|Allergy & Immunology
+EEsAI|Eosinophilic esophagitis activity index|Allergy & Immunology
+DSQ|Dysphagia symptom questionnaire|Allergy & Immunology
+PEESS|Pediatric eosinophilic esophagitis symptom score|Allergy & Immunology
+EoE-HSS|Eosinophilic esophagitis histologic scoring system|Allergy & Immunology
+HPF|High-power field|Allergy & Immunology
+eos/hpf|Eosinophils per high-power field|Allergy & Immunology
+PPI|Proton pump inhibitor|Allergy & Immunology
+PPI-REE|Proton pump inhibitor-responsive esophageal eosinophilia|Allergy & Immunology
+PPI-REE|Proton pump inhibitor responsive esophageal eosinophilia|Allergy & Immunology
+SFED|Six-food elimination diet|Allergy & Immunology
+TFED|Two-food elimination diet|Allergy & Immunology
+FFED|Four-food elimination diet|Allergy & Immunology
+EED|Empiric elimination diet|Allergy & Immunology
+EGD|Esophagogastroduodenoscopy|Allergy & Immunology
+GERD|Gastroesophageal reflux disease|Allergy & Immunology
+TSLP|Thymic stromal lymphopoietin|Allergy & Immunology
+IL-4|Interleukin-4|Allergy & Immunology
+IL-5|Interleukin-5|Allergy & Immunology
+IL-13|Interleukin-13|Allergy & Immunology
+IL-17|Interleukin-17|Allergy & Immunology
+IL-23|Interleukin-23|Allergy & Immunology
+IL-31|Interleukin-31|Allergy & Immunology
+IL-33|Interleukin-33|Allergy & Immunology
+IL-25|Interleukin-25|Allergy & Immunology
+IL-1|Interleukin-1|Allergy & Immunology
+IL-1RA|Interleukin-1 receptor antagonist|Allergy & Immunology
+IL-2|Interleukin-2|Allergy & Immunology
+IL-6|Interleukin-6|Allergy & Immunology
+IL-10|Interleukin-10|Allergy & Immunology
+IL-12|Interleukin-12|Allergy & Immunology
+IL-18|Interleukin-18|Allergy & Immunology
+IL-2R|Interleukin-2 receptor|Allergy & Immunology
+sIL-2R|Soluble interleukin-2 receptor|Allergy & Immunology
+IL-5R|Interleukin-5 receptor|Allergy & Immunology
+IFN|Interferon|Allergy & Immunology
+IFN-γ|Interferon gamma|Allergy & Immunology
+IFN-g|Interferon gamma|Allergy & Immunology
+IFNγ|Interferon gamma|Allergy & Immunology
+IFN-α|Interferon alpha|Allergy & Immunology
+TNF|Tumor necrosis factor|Allergy & Immunology
+TNF-α|Tumor necrosis factor alpha|Allergy & Immunology
+TNFi|Tumor necrosis factor inhibitor|Allergy & Immunology
+TGF-β|Transforming growth factor beta|Allergy & Immunology
+GM-CSF|Granulocyte-macrophage colony-stimulating factor|Allergy & Immunology
+G-CSF|Granulocyte colony-stimulating factor|Allergy & Immunology
+M-CSF|Macrophage colony-stimulating factor|Allergy & Immunology
+Th1|T helper type 1 cell|Allergy & Immunology
+Th2|T helper type 2 cell|Allergy & Immunology
+Th17|T helper type 17 cell|Allergy & Immunology
+Th9|T helper type 9 cell|Allergy & Immunology
+Tfh|T follicular helper cell|Allergy & Immunology
+Treg|Regulatory T cell|Allergy & Immunology
+Tregs|Regulatory T cells|Allergy & Immunology
+TCR|T-cell receptor|Allergy & Immunology
+BCR|B-cell receptor|Allergy & Immunology
+TREC|T-cell receptor excision circle|Allergy & Immunology
+TRECs|T-cell receptor excision circles|Allergy & Immunology
+KREC|Kappa-deleting recombination excision circle|Allergy & Immunology
+MHC|Major histocompatibility complex|Allergy & Immunology
+HLA|Human leukocyte antigen|Allergy & Immunology
+APC|Antigen-presenting cell|Allergy & Immunology
+pDC|Plasmacytoid dendritic cell|Allergy & Immunology
+NK|Natural killer|Allergy & Immunology
+NKT|Natural killer T cell|Allergy & Immunology
+ILC|Innate lymphoid cell|Allergy & Immunology
+ILC2|Group 2 innate lymphoid cell|Allergy & Immunology
+CTL|Cytotoxic T lymphocyte|Allergy & Immunology
+CTLA-4|Cytotoxic T-lymphocyte-associated protein 4|Allergy & Immunology
+PD-1|Programmed cell death protein 1|Allergy & Immunology
+PD-L1|Programmed death-ligand 1|Allergy & Immunology
+ICI|Immune checkpoint inhibitor|Allergy & Immunology
+irAE|Immune-related adverse event|Allergy & Immunology
+irAEs|Immune-related adverse events|Allergy & Immunology
+CAR-T|Chimeric antigen receptor T cell|Allergy & Immunology
+ICANS|Immune effector cell-associated neurotoxicity syndrome|Allergy & Immunology
+MAS|Macrophage activation syndrome|Allergy & Immunology
+HLH|Hemophagocytic lymphohistiocytosis|Allergy & Immunology
+FHL|Familial hemophagocytic lymphohistiocytosis|Allergy & Immunology
+PRCA|Pure red cell aplasia|Allergy & Immunology
+PID|Primary immunodeficiency|Allergy & Immunology
+PIDD|Primary immunodeficiency disease|Allergy & Immunology
+PIDs|Primary immunodeficiencies|Allergy & Immunology
+PIDD|Primary immunodeficiency disorder|Allergy & Immunology
+IEI|Inborn error of immunity|Allergy & Immunology
+IEIs|Inborn errors of immunity|Allergy & Immunology
+SID|Secondary immunodeficiency|Allergy & Immunology
+SCID|Severe combined immunodeficiency|Allergy & Immunology
+T-B+ SCID|Severe combined immunodeficiency with absent T cells and present B cells|Allergy & Immunology
+T-B- SCID|Severe combined immunodeficiency with absent T and B cells|Allergy & Immunology
+ADA-SCID|Adenosine deaminase deficiency severe combined immunodeficiency|Allergy & Immunology
+PNP|Purine nucleoside phosphorylase|Allergy & Immunology
+X-SCID|X-linked severe combined immunodeficiency|Allergy & Immunology
+XLA|X-linked agammaglobulinemia|Allergy & Immunology
+CID|Combined immunodeficiency|Allergy & Immunology
+CVID|Common variable immunodeficiency|Allergy & Immunology
+CVID|Common variable immune deficiency|Allergy & Immunology
+CVIDs|Common variable immunodeficiency disorders|Allergy & Immunology
+CVID-LI|Common variable immunodeficiency with lymphoid interstitial disease|Allergy & Immunology
+GLILD|Granulomatous-lymphocytic interstitial lung disease|Allergy & Immunology
+LIP|Lymphocytic interstitial pneumonia|Allergy & Immunology
+NRH|Nodular regenerative hyperplasia|Allergy & Immunology
+IgAD|Immunoglobulin A deficiency|Allergy & Immunology
+SIgAD|Selective immunoglobulin A deficiency|Allergy & Immunology
+sIgAD|Selective immunoglobulin A deficiency|Allergy & Immunology
+SPAD|Specific polysaccharide antibody deficiency|Allergy & Immunology
+THI|Transient hypogammaglobulinemia of infancy|Allergy & Immunology
+HIGM|Hyper-IgM syndrome|Allergy & Immunology
+HIES|Hyper-IgE syndrome|Allergy & Immunology
+CGD|Chronic granulomatous disease|Allergy & Immunology
+LAD|Leukocyte adhesion deficiency|Allergy & Immunology
+LAD1|Leukocyte adhesion deficiency type 1|Allergy & Immunology
+NADPH|Nicotinamide adenine dinucleotide phosphate (reduced form)|Allergy & Immunology
+DHR flow|Dihydrorhodamine flow cytometry test for oxidative burst|Allergy & Immunology
+NBT|Nitroblue tetrazolium|Allergy & Immunology
+MSMD|Mendelian susceptibility to mycobacterial disease|Allergy & Immunology
+CMC|Chronic mucocutaneous candidiasis|Allergy & Immunology
+APECED|Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy|Allergy & Immunology
+APS-1|Autoimmune polyglandular syndrome type 1|Allergy & Immunology
+IPEX|Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome|Allergy & Immunology
+ALPS|Autoimmune lymphoproliferative syndrome|Allergy & Immunology
+APDS|Activated phosphoinositide 3-kinase delta syndrome|Allergy & Immunology
+AT|Ataxia-telangiectasia|Allergy & Immunology
+22q11DS|22q11.2 deletion syndrome|Allergy & Immunology
+NBS|Newborn screening|Allergy & Immunology
+HSCT|Hematopoietic stem cell transplant|Allergy & Immunology
+HSCT|Hematopoietic stem cell transplantation|Allergy & Immunology
+HCT|Hematopoietic cell transplant|Allergy & Immunology
+BMT|Bone marrow transplant|Allergy & Immunology
+GVHD|Graft-versus-host disease|Allergy & Immunology
+aGVHD|Acute graft-versus-host disease|Allergy & Immunology
+cGVHD|Chronic graft-versus-host disease|Allergy & Immunology
+GvL|Graft-versus-leukemia|Allergy & Immunology
+SOT|Solid organ transplant|Allergy & Immunology
+MUD|Matched unrelated donor|Allergy & Immunology
+MSD|Matched sibling donor|Allergy & Immunology
+MRD|Matched related donor|Allergy & Immunology
+haplo|Haploidentical|Allergy & Immunology
+RIC|Reduced-intensity conditioning|Allergy & Immunology
+MAC|Myeloablative conditioning|Allergy & Immunology
+ERT|Enzyme replacement therapy|Allergy & Immunology
+PEG-ADA|Polyethylene glycol-modified adenosine deaminase|Allergy & Immunology
+PCP|Pneumocystis pneumonia|Allergy & Immunology
+MAC|Mycobacterium avium complex|Allergy & Immunology
+IGRA|Interferon-gamma release assay|Allergy & Immunology
+TST|Tuberculin skin test|Allergy & Immunology
+PrEP|Pre-exposure prophylaxis|Allergy & Immunology
+PEP|Post-exposure prophylaxis|Allergy & Immunology
+IRIS|Immune reconstitution inflammatory syndrome|Allergy & Immunology
+SPEP|Serum protein electrophoresis|Allergy & Immunology
+UPEP|Urine protein electrophoresis|Allergy & Immunology
+IFE|Immunofixation electrophoresis|Allergy & Immunology
+SIFE|Serum immunofixation electrophoresis|Allergy & Immunology
+FLC|Free light chain|Allergy & Immunology
+sFLC|Serum free light chain|Allergy & Immunology
+MGUS|Monoclonal gammopathy of undetermined significance|Allergy & Immunology
+M-protein|Monoclonal protein|Allergy & Immunology
+QIG|Quantitative immunoglobulins|Allergy & Immunology
+IgG1|Immunoglobulin G subclass 1|Allergy & Immunology
+IgG2|Immunoglobulin G subclass 2|Allergy & Immunology
+IgG3|Immunoglobulin G subclass 3|Allergy & Immunology
+IgG4|Immunoglobulin G subclass 4|Allergy & Immunology
+IgG4-RD|Immunoglobulin G4-related disease|Allergy & Immunology
+IgA1|Immunoglobulin A subclass 1|Allergy & Immunology
+IgA2|Immunoglobulin A subclass 2|Allergy & Immunology
+sIgA|Secretory immunoglobulin A|Allergy & Immunology
+PPV23|23-valent pneumococcal polysaccharide vaccine|Allergy & Immunology
+PCV13|13-valent pneumococcal conjugate vaccine|Allergy & Immunology
+PCV15|15-valent pneumococcal conjugate vaccine|Allergy & Immunology
+PCV20|20-valent pneumococcal conjugate vaccine|Allergy & Immunology
+PCV21|21-valent pneumococcal conjugate vaccine|Allergy & Immunology
+PCV|Pneumococcal conjugate vaccine|Allergy & Immunology
+PPSV|Pneumococcal polysaccharide vaccine|Allergy & Immunology
+PPSV23|23-valent pneumococcal polysaccharide vaccine|Allergy & Immunology
+Tdap|Tetanus, diphtheria and acellular pertussis vaccine|Allergy & Immunology
+DTaP|Diphtheria, tetanus and acellular pertussis vaccine|Allergy & Immunology
+MMR|Measles, mumps and rubella vaccine|Allergy & Immunology
+RV|Rotavirus vaccine|Allergy & Immunology
+mRNA|Messenger RNA|Allergy & Immunology
+IR|Immediate reaction|Allergy & Immunology
+DTH|Delayed-type hypersensitivity|Allergy & Immunology
+PHA|Phytohemagglutinin|Allergy & Immunology
+PWM|Pokeweed mitogen|Allergy & Immunology
+ConA|Concanavalin A|Allergy & Immunology
+CD3|Cluster of differentiation 3, a T-cell marker|Allergy & Immunology
+CD4|Cluster of differentiation 4, helper T-cell marker|Allergy & Immunology
+CD8|Cluster of differentiation 8, cytotoxic T-cell marker|Allergy & Immunology
+CD19|Cluster of differentiation 19, a B-cell marker|Allergy & Immunology
+CD20|Cluster of differentiation 20, a B-cell marker|Allergy & Immunology
+CD16|Cluster of differentiation 16, a natural killer cell marker|Allergy & Immunology
+CD56|Cluster of differentiation 56, a natural killer cell marker|Allergy & Immunology
+CD45RA|Cluster of differentiation 45RA, a naive T-cell marker|Allergy & Immunology
+CD45RO|Cluster of differentiation 45RO, a memory T-cell marker|Allergy & Immunology
+CD40L|CD40 ligand|Allergy & Immunology
+CD40|Cluster of differentiation 40|Allergy & Immunology
+CD63|Cluster of differentiation 63, a basophil activation marker|Allergy & Immunology
+CD203c|Cluster of differentiation 203c, a basophil activation marker|Allergy & Immunology
+CD117|Cluster of differentiation 117, mast cell growth factor receptor|Allergy & Immunology
+LSP|Lymphocyte subset panel|Allergy & Immunology
+TBNK|T, B and natural killer cell panel|Allergy & Immunology
+BTK|Bruton tyrosine kinase|Allergy & Immunology
+CTLA4|Cytotoxic T-lymphocyte-associated protein 4|Allergy & Immunology
+NF-κB|Nuclear factor kappa B|Allergy & Immunology
+NFκB|Nuclear factor kappa B|Allergy & Immunology
+NLRP3|NLR family pyrin domain containing 3 inflammasome|Allergy & Immunology
+CAPS|Cryopyrin-associated periodic syndromes|Allergy & Immunology
+FCAS|Familial cold autoinflammatory syndrome|Allergy & Immunology
+NOMID|Neonatal-onset multisystem inflammatory disease|Allergy & Immunology
+CINCA|Chronic infantile neurologic cutaneous articular syndrome|Allergy & Immunology
+FMF|Familial Mediterranean fever|Allergy & Immunology
+TRAPS|Tumor necrosis factor receptor-associated periodic syndrome|Allergy & Immunology
+HIDS|Hyper-IgD syndrome|Allergy & Immunology
+MKD|Mevalonate kinase deficiency|Allergy & Immunology
+PFAPA|Periodic fever, aphthous stomatitis, pharyngitis and adenitis|Allergy & Immunology
+SJIA|Systemic juvenile idiopathic arthritis|Allergy & Immunology
+AOSD|Adult-onset Still disease|Allergy & Immunology
+DIRA|Deficiency of interleukin-1 receptor antagonist|Allergy & Immunology
+DITRA|Deficiency of interleukin-36 receptor antagonist|Allergy & Immunology
+SAID|Systemic autoinflammatory disease|Allergy & Immunology
+PAPA|Pyogenic arthritis, pyoderma gangrenosum and acne syndrome|Allergy & Immunology
+SAVI|STING-associated vasculopathy with onset in infancy|Allergy & Immunology
+SLE|Systemic lupus erythematosus|Allergy & Immunology
+RA|Rheumatoid arthritis|Allergy & Immunology
+JIA|Juvenile idiopathic arthritis|Allergy & Immunology
+SSc|Systemic sclerosis|Allergy & Immunology
+MCTD|Mixed connective tissue disease|Allergy & Immunology
+APS|Antiphospholipid syndrome|Allergy & Immunology
+aPL|Antiphospholipid antibodies|Allergy & Immunology
+dsDNA|Double-stranded deoxyribonucleic acid|Allergy & Immunology
+anti-dsDNA|Anti-double-stranded DNA antibody|Allergy & Immunology
+ENA|Extractable nuclear antigen|Allergy & Immunology
+CCP|Cyclic citrullinated peptide|Allergy & Immunology
+anti-CCP|Anti-cyclic citrullinated peptide antibody|Allergy & Immunology
+TRALI|Transfusion-related acute lung injury|Allergy & Immunology
+FNHTR|Febrile non-hemolytic transfusion reaction|Allergy & Immunology
+HTR|Hemolytic transfusion reaction|Allergy & Immunology
+IgAV|Immunoglobulin A vasculitis|Allergy & Immunology
+NKDA|No known drug allergies|Allergy & Immunology
+NKA|No known allergies|Allergy & Immunology
+Rx|Prescription or treatment|Allergy & Immunology
+Dx|Diagnosis|Allergy & Immunology
+Tx|Treatment|Allergy & Immunology
+Sx|Symptoms|Allergy & Immunology
+Px|Prognosis|Allergy & Immunology
+FH|Family history|Allergy & Immunology
+RA|Room air|Allergy & Immunology
+SpO2|Peripheral oxygen saturation|Allergy & Immunology
+NPO|Nothing by mouth|Allergy & Immunology
+BID|Twice daily|Allergy & Immunology
+TID|Three times daily|Allergy & Immunology
+QID|Four times daily|Allergy & Immunology
+QHS|Every night at bedtime|Allergy & Immunology
+Q4W|Every 4 weeks|Allergy & Immunology
+Q2W|Every 2 weeks|Allergy & Immunology
+Q8W|Every 8 weeks|Allergy & Immunology
+Q12W|Every 12 weeks|Allergy & Immunology
+Q6M|Every 6 months|Allergy & Immunology
+kU/L|Kilounits per liter|Allergy & Immunology
+kUA/L|Kilounits of allergen-specific antibody per liter|Allergy & Immunology
+IU/mL|International units per milliliter|Allergy & Immunology
+PNU/mL|Protein nitrogen units per milliliter|Allergy & Immunology
+BAU/mL|Bioequivalent allergy units per milliliter|Allergy & Immunology
+TNSS|Total nasal symptom score|Allergy & Immunology
+TOSS|Total ocular symptom score|Allergy & Immunology
+RQLQ|Rhinoconjunctivitis quality of life questionnaire|Allergy & Immunology
+RCAT|Rhinitis control assessment test|Allergy & Immunology
+SNOT-22|Sino-nasal outcome test 22 items|Allergy & Immunology
+NPS|Nasal polyp score|Allergy & Immunology
+UPSIT|University of Pennsylvania smell identification test|Allergy & Immunology
+ACT|Asthma control test|Allergy & Immunology
+ACQ|Asthma control questionnaire|Allergy & Immunology
+AQLQ|Asthma quality of life questionnaire|Allergy & Immunology
+ACQ-5|Asthma control questionnaire with five items|Allergy & Immunology
+ACQ-7|Asthma control questionnaire with seven items|Allergy & Immunology
+C-ACT|Childhood asthma control test|Allergy & Immunology
+TRACK|Test for respiratory and asthma control in kids|Allergy & Immunology
+API|Asthma predictive index|Allergy & Immunology
+mAPI|Modified asthma predictive index|Allergy & Immunology
+FEV1|Forced expiratory volume in one second|Allergy & Immunology
+FVC|Forced vital capacity|Allergy & Immunology
+FEV1/FVC|Ratio of forced expiratory volume in one second to forced vital capacity|Allergy & Immunology
+FEF25-75|Forced expiratory flow between 25 and 75 percent of vital capacity|Allergy & Immunology
+PEF|Peak expiratory flow|Allergy & Immunology
+PEFR|Peak expiratory flow rate|Allergy & Immunology
+PFT|Pulmonary function test|Allergy & Immunology
+PFTs|Pulmonary function tests|Allergy & Immunology
+DLCO|Diffusing capacity of the lung for carbon monoxide|Allergy & Immunology
+TLC|Total lung capacity|Allergy & Immunology
+RV|Residual volume|Allergy & Immunology
+FRC|Functional residual capacity|Allergy & Immunology
+BDR|Bronchodilator response|Allergy & Immunology
+BDT|Bronchodilator testing|Allergy & Immunology
+BHR|Bronchial hyperresponsiveness|Allergy & Immunology
+AHR|Airway hyperresponsiveness|Allergy & Immunology
+BPT|Bronchoprovocation test|Allergy & Immunology
+PC20|Provocative concentration causing a 20 percent fall in forced expiratory volume in one second|Allergy & Immunology
+PD20|Provocative dose causing a 20 percent fall in forced expiratory volume in one second|Allergy & Immunology
+EIB|Exercise-induced bronchoconstriction|Allergy & Immunology
+EVH|Eucapnic voluntary hyperventilation|Allergy & Immunology
+FeNO|Fractional exhaled nitric oxide|Allergy & Immunology
+eNO|Exhaled nitric oxide|Allergy & Immunology
+BAL|Bronchoalveolar lavage|Allergy & Immunology
+BALF|Bronchoalveolar lavage fluid|Allergy & Immunology
+MDI|Metered-dose inhaler|Allergy & Immunology
+DPI|Dry powder inhaler|Allergy & Immunology
+SMI|Soft mist inhaler|Allergy & Immunology
+VHC|Valved holding chamber|Allergy & Immunology
+HFA|Hydrofluoroalkane|Allergy & Immunology
+SABA|Short-acting beta agonist|Allergy & Immunology
+LABA|Long-acting beta agonist|Allergy & Immunology
+SAMA|Short-acting muscarinic antagonist|Allergy & Immunology
+LAMA|Long-acting muscarinic antagonist|Allergy & Immunology
+ICS|Inhaled corticosteroid|Allergy & Immunology
+ICS-LABA|Inhaled corticosteroid and long-acting beta agonist combination|Allergy & Immunology
+ICS-formoterol|Inhaled corticosteroid and formoterol combination|Allergy & Immunology
+MART|Maintenance and reliever therapy|Allergy & Immunology
+SMART|Single maintenance and reliever therapy|Allergy & Immunology
+OCS|Oral corticosteroid|Allergy & Immunology
+OCSs|Oral corticosteroids|Allergy & Immunology
+SCS|Systemic corticosteroid|Allergy & Immunology
+5-LO|5-lipoxygenase|Allergy & Immunology
+5-LOX|5-lipoxygenase|Allergy & Immunology
+mAb|Monoclonal antibody|Allergy & Immunology
+mAbs|Monoclonal antibodies|Allergy & Immunology
+GALT|Gut-associated lymphoid tissue|Allergy & Immunology
+MALT|Mucosa-associated lymphoid tissue|Allergy & Immunology
+NALT|Nasopharynx-associated lymphoid tissue|Allergy & Immunology
+BALT|Bronchus-associated lymphoid tissue|Allergy & Immunology
+SALT|Skin-associated lymphoid tissue|Allergy & Immunology
+LN|Lymph node|Allergy & Immunology
+LAD|Lymphadenopathy|Allergy & Immunology
+HSM|Hepatosplenomegaly|Allergy & Immunology
+PUVA|Psoralen plus ultraviolet A phototherapy|Allergy & Immunology
+NB-UVB|Narrowband ultraviolet B phototherapy|Allergy & Immunology
+UVB|Ultraviolet B|Allergy & Immunology
+UVA|Ultraviolet A|Allergy & Immunology
+MED|Minimal erythema dose|Allergy & Immunology
+PLE|Polymorphous light eruption|Allergy & Immunology
+CholU|Cholinergic urticaria|Allergy & Immunology
+CCU|Cold contact urticaria|Allergy & Immunology
+CoolU|Cold urticaria|Allergy & Immunology
+DPU|Delayed pressure urticaria|Allergy & Immunology
+AqU|Aquagenic urticaria|Allergy & Immunology
+VibAE|Vibratory angioedema|Allergy & Immunology
+HUV|Hypocomplementemic urticarial vasculitis|Allergy & Immunology
+HCQ|Hydroxychloroquine|Allergy & Immunology
+CsA|Cyclosporine|Allergy & Immunology
+MMF|Mycophenolate mofetil|Allergy & Immunology
+MTX|Methotrexate|Allergy & Immunology
+AZA|Azathioprine|Allergy & Immunology
+CYC|Cyclophosphamide|Allergy & Immunology
+TAC|Tacrolimus|Allergy & Immunology
+FK506|Tacrolimus|Allergy & Immunology
+RTX|Rituximab|Allergy & Immunology
+DMARD|Disease-modifying antirheumatic drug|Allergy & Immunology
+CS|Corticosteroid|Allergy & Immunology
+HPA|Hypothalamic-pituitary-adrenal|Allergy & Immunology
+DEXA|Dual-energy X-ray absorptiometry|Allergy & Immunology
+DXA|Dual-energy X-ray absorptiometry|Allergy & Immunology
+BMD|Bone mineral density|Allergy & Immunology
+GIOP|Glucocorticoid-induced osteoporosis|Allergy & Immunology
+LAMA/LABA|Long-acting muscarinic antagonist and long-acting beta agonist combination|Allergy & Immunology
+PAF|Platelet-activating factor|Allergy & Immunology
+PAF-AH|Platelet-activating factor acetylhydrolase|Allergy & Immunology
+ACE|Angiotensin-converting enzyme|Allergy & Immunology
+TCA|Tricyclic antidepressant|Allergy & Immunology
+MAOI|Monoamine oxidase inhibitor|Allergy & Immunology

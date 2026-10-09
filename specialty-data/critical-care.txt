@@ -1,0 +1,687 @@
+ICU|Intensive care unit|Critical Care
+MICU|Medical intensive care unit|Critical Care
+SICU|Surgical intensive care unit|Critical Care
+CCU|Coronary care unit|Critical Care
+CVICU|Cardiovascular intensive care unit|Critical Care
+CTICU|Cardiothoracic intensive care unit|Critical Care
+NICU|Neonatal intensive care unit|Critical Care
+PICU|Pediatric intensive care unit|Critical Care
+NSICU|Neurosurgical intensive care unit|Critical Care
+TICU|Trauma intensive care unit|Critical Care
+BICU|Burn intensive care unit|Critical Care
+SDU|Step-down unit|Critical Care
+PACU|Post-anesthesia care unit|Critical Care
+RRT|Rapid response team|Critical Care
+RRT|Renal replacement therapy|Critical Care
+CRRT|Continuous renal replacement therapy|Critical Care
+CVVH|Continuous venovenous hemofiltration|Critical Care
+CVVHD|Continuous venovenous hemodialysis|Critical Care
+CVVHDF|Continuous venovenous hemodiafiltration|Critical Care
+SCUF|Slow continuous ultrafiltration|Critical Care
+SLED|Sustained low-efficiency dialysis|Critical Care
+IHD|Intermittent hemodialysis|Critical Care
+HD|Hemodialysis|Critical Care
+PD|Peritoneal dialysis|Critical Care
+UF|Ultrafiltration|Critical Care
+AKI|Acute kidney injury|Critical Care
+ATN|Acute tubular necrosis|Critical Care
+AIN|Acute interstitial nephritis|Critical Care
+HRS|Hepatorenal syndrome|Critical Care
+AEIOU|Acidosis, electrolytes, intoxication, overload, uremia: indications for urgent dialysis|Critical Care
+ARDS|Acute respiratory distress syndrome|Critical Care
+ALI|Acute lung injury|Critical Care
+ARF|Acute respiratory failure|Critical Care
+AHRF|Acute hypoxemic respiratory failure|Critical Care
+AHCRF|Acute hypercapnic respiratory failure|Critical Care
+AECOPD|Acute exacerbation of chronic obstructive pulmonary disease|Critical Care
+COPD|Chronic obstructive pulmonary disease|Critical Care
+ILD|Interstitial lung disease|Critical Care
+DAH|Diffuse alveolar hemorrhage|Critical Care
+TRALI|Transfusion-related acute lung injury|Critical Care
+TACO|Transfusion-associated circulatory overload|Critical Care
+VILI|Ventilator-induced lung injury|Critical Care
+VAP|Ventilator-associated pneumonia|Critical Care
+VAE|Ventilator-associated event|Critical Care
+VAC|Ventilator-associated condition|Critical Care
+IVAC|Infection-related ventilator-associated complication|Critical Care
+HAP|Hospital-acquired pneumonia|Critical Care
+CAP|Community-acquired pneumonia|Critical Care
+HCAP|Healthcare-associated pneumonia|Critical Care
+PNA|Pneumonia|Critical Care
+PTX|Pneumothorax|Critical Care
+HTX|Hemothorax|Critical Care
+PH|Pulmonary hypertension|Critical Care
+PAH|Pulmonary arterial hypertension|Critical Care
+RV|Right ventricle|Critical Care
+RVF|Right ventricular failure|Critical Care
+LV|Left ventricle|Critical Care
+LVF|Left ventricular failure|Critical Care
+MV|Mechanical ventilation|Critical Care
+IMV|Invasive mechanical ventilation|Critical Care
+NIV|Noninvasive ventilation|Critical Care
+NPPV|Noninvasive positive pressure ventilation|Critical Care
+PPV|Positive pressure ventilation|Critical Care
+PPV|Pulse pressure variation|Critical Care
+SVV|Stroke volume variation|Critical Care
+BiPAP|Bilevel positive airway pressure|Critical Care
+CPAP|Continuous positive airway pressure|Critical Care
+HFNC|High-flow nasal cannula|Critical Care
+HFNO|High-flow nasal oxygen|Critical Care
+NC|Nasal cannula|Critical Care
+NRB|Non-rebreather mask|Critical Care
+FM|Face mask|Critical Care
+BVM|Bag-valve-mask|Critical Care
+ETT|Endotracheal tube|Critical Care
+ET|Endotracheal|Critical Care
+NGT|Nasogastric tube|Critical Care
+OGT|Orogastric tube|Critical Care
+NJ|Nasojejunal|Critical Care
+PEG|Percutaneous endoscopic gastrostomy|Critical Care
+PEJ|Percutaneous endoscopic jejunostomy|Critical Care
+TT|Tracheostomy tube|Critical Care
+TTM|Targeted temperature management|Critical Care
+ECMO|Extracorporeal membrane oxygenation|Critical Care
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Critical Care
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Critical Care
+ECPR|Extracorporeal cardiopulmonary resuscitation|Critical Care
+ECCO2R|Extracorporeal carbon dioxide removal|Critical Care
+ECLS|Extracorporeal life support|Critical Care
+LVAD|Left ventricular assist device|Critical Care
+RVAD|Right ventricular assist device|Critical Care
+BiVAD|Biventricular assist device|Critical Care
+VAD|Ventricular assist device|Critical Care
+IABP|Intra-aortic balloon pump|Critical Care
+MCS|Mechanical circulatory support|Critical Care
+PCI|Percutaneous coronary intervention|Critical Care
+CABG|Coronary artery bypass grafting|Critical Care
+CPB|Cardiopulmonary bypass|Critical Care
+AVR|Aortic valve replacement|Critical Care
+MVR|Mitral valve replacement|Critical Care
+TAVR|Transcatheter aortic valve replacement|Critical Care
+CRT|Cardiac resynchronization therapy|Critical Care
+ICD|Implantable cardioverter-defibrillator|Critical Care
+PPM|Permanent pacemaker|Critical Care
+TVP|Transvenous pacemaker|Critical Care
+TCP|Transcutaneous pacing|Critical Care
+AED|Automated external defibrillator|Critical Care
+CPR|Cardiopulmonary resuscitation|Critical Care
+ACLS|Advanced cardiac life support|Critical Care
+BLS|Basic life support|Critical Care
+ATLS|Advanced trauma life support|Critical Care
+PALS|Pediatric advanced life support|Critical Care
+ROSC|Return of spontaneous circulation|Critical Care
+OHCA|Out-of-hospital cardiac arrest|Critical Care
+IHCA|In-hospital cardiac arrest|Critical Care
+SCA|Sudden cardiac arrest|Critical Care
+PEA|Pulseless electrical activity|Critical Care
+VF|Ventricular fibrillation|Critical Care
+VT|Ventricular tachycardia|Critical Care
+pVT|Pulseless ventricular tachycardia|Critical Care
+SVT|Supraventricular tachycardia|Critical Care
+AF|Atrial fibrillation|Critical Care
+AFib|Atrial fibrillation|Critical Care
+RVR|Rapid ventricular response|Critical Care
+AFL|Atrial flutter|Critical Care
+TdP|Torsades de pointes|Critical Care
+NSVT|Non-sustained ventricular tachycardia|Critical Care
+PVC|Premature ventricular contraction|Critical Care
+PAC|Premature atrial contraction|Critical Care
+AV|Atrioventricular|Critical Care
+CHB|Complete heart block|Critical Care
+ECG|Electrocardiogram|Critical Care
+STEMI|ST-elevation myocardial infarction|Critical Care
+NSTEMI|Non-ST-elevation myocardial infarction|Critical Care
+ACS|Acute coronary syndrome|Critical Care
+MI|Myocardial infarction|Critical Care
+CAD|Coronary artery disease|Critical Care
+CHF|Congestive heart failure|Critical Care
+ADHF|Acute decompensated heart failure|Critical Care
+HFrEF|Heart failure with reduced ejection fraction|Critical Care
+HFpEF|Heart failure with preserved ejection fraction|Critical Care
+EF|Ejection fraction|Critical Care
+LVEF|Left ventricular ejection fraction|Critical Care
+RVEF|Right ventricular ejection fraction|Critical Care
+CS|Cardiogenic shock|Critical Care
+SCAI|Shock severity staging system for cardiogenic shock|Critical Care
+TTE|Transthoracic echocardiogram|Critical Care
+TEE|Transesophageal echocardiogram|Critical Care
+POCUS|Point-of-care ultrasound|Critical Care
+FAST|Focused assessment with sonography for trauma|Critical Care
+eFAST|Extended focused assessment with sonography for trauma|Critical Care
+FoCUS|Focused cardiac ultrasound|Critical Care
+RUSH|Rapid ultrasound for shock and hypotension|Critical Care
+BLUE|Bedside lung ultrasound in emergency protocol|Critical Care
+IVC|Inferior vena cava|Critical Care
+SVC|Superior vena cava|Critical Care
+TAPSE|Tricuspid annular plane systolic excursion|Critical Care
+VTI|Velocity time integral|Critical Care
+LVOT|Left ventricular outflow tract|Critical Care
+SAM|Systolic anterior motion of the mitral valve|Critical Care
+RWMA|Regional wall motion abnormality|Critical Care
+PASP|Pulmonary artery systolic pressure|Critical Care
+RVSP|Right ventricular systolic pressure|Critical Care
+PAP|Pulmonary artery pressure|Critical Care
+mPAP|Mean pulmonary artery pressure|Critical Care
+PAC|Pulmonary artery catheter|Critical Care
+PCWP|Pulmonary capillary wedge pressure|Critical Care
+PAOP|Pulmonary artery occlusion pressure|Critical Care
+CVP|Central venous pressure|Critical Care
+RAP|Right atrial pressure|Critical Care
+LAP|Left atrial pressure|Critical Care
+CO|Cardiac output|Critical Care
+CI|Cardiac index|Critical Care
+SV|Stroke volume|Critical Care
+SVI|Stroke volume index|Critical Care
+SVR|Systemic vascular resistance|Critical Care
+SVRI|Systemic vascular resistance index|Critical Care
+PVR|Pulmonary vascular resistance|Critical Care
+PVRI|Pulmonary vascular resistance index|Critical Care
+MAP|Mean arterial pressure|Critical Care
+SBP|Systolic blood pressure|Critical Care
+DBP|Diastolic blood pressure|Critical Care
+BP|Blood pressure|Critical Care
+HR|Heart rate|Critical Care
+RR|Respiratory rate|Critical Care
+SpO2|Peripheral oxygen saturation by pulse oximetry|Critical Care
+SaO2|Arterial oxygen saturation|Critical Care
+ScvO2|Central venous oxygen saturation|Critical Care
+SvO2|Mixed venous oxygen saturation|Critical Care
+DO2|Oxygen delivery|Critical Care
+VO2|Oxygen consumption|Critical Care
+O2ER|Oxygen extraction ratio|Critical Care
+CaO2|Arterial oxygen content|Critical Care
+CvO2|Venous oxygen content|Critical Care
+PaO2|Partial pressure of oxygen in arterial blood|Critical Care
+PaCO2|Partial pressure of carbon dioxide in arterial blood|Critical Care
+PvCO2|Partial pressure of carbon dioxide in venous blood|Critical Care
+EtCO2|End-tidal carbon dioxide|Critical Care
+ETCO2|End-tidal carbon dioxide|Critical Care
+FiO2|Fraction of inspired oxygen|Critical Care
+P/F|PaO2 to FiO2 ratio|Critical Care
+PF ratio|PaO2 to FiO2 ratio|Critical Care
+S/F|SpO2 to FiO2 ratio|Critical Care
+OI|Oxygenation index|Critical Care
+OSI|Oxygen saturation index|Critical Care
+A-a gradient|Alveolar-arterial oxygen gradient|Critical Care
+AaDO2|Alveolar-arterial oxygen difference|Critical Care
+ABG|Arterial blood gas|Critical Care
+VBG|Venous blood gas|Critical Care
+BE|Base excess|Critical Care
+BD|Base deficit|Critical Care
+AG|Anion gap|Critical Care
+DKA|Diabetic ketoacidosis|Critical Care
+HHS|Hyperosmolar hyperglycemic state|Critical Care
+NAGMA|Non-anion gap metabolic acidosis|Critical Care
+HAGMA|High anion gap metabolic acidosis|Critical Care
+RTA|Renal tubular acidosis|Critical Care
+MUDPILES|Mnemonic for causes of high anion gap acidosis: methanol, uremia, DKA, propylene glycol, isoniazid, lactate, ethylene glycol, salicylates|Critical Care
+SID|Strong ion difference|Critical Care
+PEEP|Positive end-expiratory pressure|Critical Care
+iPEEP|Intrinsic positive end-expiratory pressure|Critical Care
+auto-PEEP|Intrinsic positive end-expiratory pressure|Critical Care
+EPAP|Expiratory positive airway pressure|Critical Care
+IPAP|Inspiratory positive airway pressure|Critical Care
+PS|Pressure support|Critical Care
+PSV|Pressure support ventilation|Critical Care
+CMV|Controlled mandatory ventilation|Critical Care
+A/C|Assist control|Critical Care
+AC|Assist control|Critical Care
+VC|Volume control|Critical Care
+VCV|Volume-controlled ventilation|Critical Care
+PC|Pressure control|Critical Care
+PCV|Pressure-controlled ventilation|Critical Care
+PRVC|Pressure-regulated volume control|Critical Care
+APRV|Airway pressure release ventilation|Critical Care
+SIMV|Synchronized intermittent mandatory ventilation|Critical Care
+HFOV|High-frequency oscillatory ventilation|Critical Care
+HFJV|High-frequency jet ventilation|Critical Care
+NAVA|Neurally adjusted ventilatory assist|Critical Care
+PAV|Proportional assist ventilation|Critical Care
+ASV|Adaptive support ventilation|Critical Care
+AVAPS|Average volume-assured pressure support|Critical Care
+VT|Tidal volume|Critical Care
+Vt|Tidal volume|Critical Care
+TV|Tidal volume|Critical Care
+PBW|Predicted body weight|Critical Care
+IBW|Ideal body weight|Critical Care
+MV|Minute ventilation|Critical Care
+VE|Minute ventilation|Critical Care
+Ve|Minute ventilation|Critical Care
+RSBI|Rapid shallow breathing index|Critical Care
+SBT|Spontaneous breathing trial|Critical Care
+SAT|Spontaneous awakening trial|Critical Care
+NIF|Negative inspiratory force|Critical Care
+MIP|Maximal inspiratory pressure|Critical Care
+MEP|Maximal expiratory pressure|Critical Care
+FVC|Forced vital capacity|Critical Care
+FEV1|Forced expiratory volume in one second|Critical Care
+VC|Vital capacity|Critical Care
+TLC|Total lung capacity|Critical Care
+FRC|Functional residual capacity|Critical Care
+RV|Residual volume|Critical Care
+DLCO|Diffusing capacity of the lung for carbon monoxide|Critical Care
+Pplat|Plateau pressure|Critical Care
+Ppeak|Peak inspiratory pressure|Critical Care
+PIP|Peak inspiratory pressure|Critical Care
+Pplat|Plateau airway pressure|Critical Care
+DP|Driving pressure|Critical Care
+Cstat|Static compliance|Critical Care
+Cdyn|Dynamic compliance|Critical Care
+Crs|Compliance of the respiratory system|Critical Care
+I:E|Inspiratory to expiratory ratio|Critical Care
+Ti|Inspiratory time|Critical Care
+Te|Expiratory time|Critical Care
+EIT|Electrical impedance tomography|Critical Care
+RM|Recruitment maneuver|Critical Care
+Vd/Vt|Dead space to tidal volume ratio|Critical Care
+VD/VT|Dead space to tidal volume ratio|Critical Care
+V/Q|Ventilation-perfusion|Critical Care
+HPV|Hypoxic pulmonary vasoconstriction|Critical Care
+iNO|Inhaled nitric oxide|Critical Care
+NO|Nitric oxide|Critical Care
+iEpo|Inhaled epoprostenol|Critical Care
+RSI|Rapid sequence intubation|Critical Care
+RSII|Rapid sequence induction and intubation|Critical Care
+DSI|Delayed sequence intubation|Critical Care
+DL|Direct laryngoscopy|Critical Care
+VL|Video laryngoscopy|Critical Care
+FOB|Fiberoptic bronchoscopy|Critical Care
+FOI|Fiberoptic intubation|Critical Care
+LMA|Laryngeal mask airway|Critical Care
+SGA|Supraglottic airway|Critical Care
+OPA|Oropharyngeal airway|Critical Care
+NPA|Nasopharyngeal airway|Critical Care
+LEMON|Look, evaluate, Mallampati, obstruction, neck mobility: difficult airway assessment|Critical Care
+STOP-BANG|Snoring, tired, observed apnea, pressure, BMI, age, neck, gender: sleep apnea screening tool|Critical Care
+OSA|Obstructive sleep apnea|Critical Care
+OHS|Obesity hypoventilation syndrome|Critical Care
+GCS|Glasgow Coma Scale|Critical Care
+GCS-M|Glasgow Coma Scale motor score|Critical Care
+RASS|Richmond Agitation-Sedation Scale|Critical Care
+CAM-ICU|Confusion Assessment Method for the ICU|Critical Care
+ICDSC|Intensive Care Delirium Screening Checklist|Critical Care
+CPOT|Critical-Care Pain Observation Tool|Critical Care
+BPS|Behavioral Pain Scale|Critical Care
+NRS|Numeric rating scale|Critical Care
+VAS|Visual analog scale|Critical Care
+PADIS|Pain, agitation, delirium, immobility and sleep disruption guideline|Critical Care
+PAD|Pain, agitation and delirium|Critical Care
+ABCDEF|Assess pain, breathing trials, choice of sedation, delirium, early mobility, family: ICU liberation bundle|Critical Care
+ICU-AW|Intensive care unit-acquired weakness|Critical Care
+CIP|Critical illness polyneuropathy|Critical Care
+CIM|Critical illness myopathy|Critical Care
+CIPNM|Critical illness polyneuromyopathy|Critical Care
+PICS|Post-intensive care syndrome|Critical Care
+PTSD|Post-traumatic stress disorder|Critical Care
+BIS|Bispectral index|Critical Care
+EEG|Electroencephalogram|Critical Care
+cEEG|Continuous electroencephalogram|Critical Care
+TOF|Train-of-four|Critical Care
+NMB|Neuromuscular blockade|Critical Care
+NMBA|Neuromuscular blocking agent|Critical Care
+DSI|Daily sedation interruption|Critical Care
+ICP|Intracranial pressure|Critical Care
+CPP|Cerebral perfusion pressure|Critical Care
+EVD|External ventricular drain|Critical Care
+ICH|Intracerebral hemorrhage|Critical Care
+IPH|Intraparenchymal hemorrhage|Critical Care
+IVH|Intraventricular hemorrhage|Critical Care
+SAH|Subarachnoid hemorrhage|Critical Care
+SDH|Subdural hematoma|Critical Care
+EDH|Epidural hematoma|Critical Care
+TBI|Traumatic brain injury|Critical Care
+DAI|Diffuse axonal injury|Critical Care
+SCI|Spinal cord injury|Critical Care
+CVA|Cerebrovascular accident|Critical Care
+TIA|Transient ischemic attack|Critical Care
+LVO|Large vessel occlusion|Critical Care
+tPA|Tissue plasminogen activator|Critical Care
+TNK|Tenecteplase|Critical Care
+rtPA|Recombinant tissue plasminogen activator|Critical Care
+NIHSS|National Institutes of Health Stroke Scale|Critical Care
+HOB|Head of bed|Critical Care
+DCI|Delayed cerebral ischemia|Critical Care
+CVS|Cerebral vasospasm|Critical Care
+TCD|Transcranial Doppler|Critical Care
+ONSD|Optic nerve sheath diameter|Critical Care
+CT|Computed tomography|Critical Care
+CTA|Computed tomography angiography|Critical Care
+CTPA|Computed tomography pulmonary angiography|Critical Care
+MRI|Magnetic resonance imaging|Critical Care
+MRA|Magnetic resonance angiography|Critical Care
+CXR|Chest x-ray|Critical Care
+KUB|Kidneys, ureters, bladder abdominal x-ray|Critical Care
+US|Ultrasound|Critical Care
+LUS|Lung ultrasound|Critical Care
+DVT|Deep vein thrombosis|Critical Care
+VTE|Venous thromboembolism|Critical Care
+SCDs|Sequential compression devices|Critical Care
+UFH|Unfractionated heparin|Critical Care
+LMWH|Low-molecular-weight heparin|Critical Care
+DOAC|Direct oral anticoagulant|Critical Care
+DTI|Direct thrombin inhibitor|Critical Care
+HIT|Heparin-induced thrombocytopenia|Critical Care
+HITT|Heparin-induced thrombocytopenia with thrombosis|Critical Care
+TTP|Thrombotic thrombocytopenic purpura|Critical Care
+HUS|Hemolytic uremic syndrome|Critical Care
+TMA|Thrombotic microangiopathy|Critical Care
+ITP|Immune thrombocytopenia|Critical Care
+DIC|Disseminated intravascular coagulation|Critical Care
+INR|International normalized ratio|Critical Care
+PTT|Partial thromboplastin time|Critical Care
+aPTT|Activated partial thromboplastin time|Critical Care
+ACT|Activated clotting time|Critical Care
+TEG|Thromboelastography|Critical Care
+ROTEM|Rotational thromboelastometry|Critical Care
+FFP|Fresh frozen plasma|Critical Care
+PRBC|Packed red blood cells|Critical Care
+pRBC|Packed red blood cells|Critical Care
+RBC|Red blood cell|Critical Care
+PLT|Platelets|Critical Care
+Cryo|Cryoprecipitate|Critical Care
+PCC|Prothrombin complex concentrate|Critical Care
+4F-PCC|Four-factor prothrombin complex concentrate|Critical Care
+rFVIIa|Recombinant activated factor VII|Critical Care
+TXA|Tranexamic acid|Critical Care
+EACA|Epsilon-aminocaproic acid|Critical Care
+DDAVP|Desmopressin|Critical Care
+MTP|Massive transfusion protocol|Critical Care
+MT|Massive transfusion|Critical Care
+TIC|Trauma-induced coagulopathy|Critical Care
+ATC|Acute traumatic coagulopathy|Critical Care
+REBOA|Resuscitative endovascular balloon occlusion of the aorta|Critical Care
+DCR|Damage control resuscitation|Critical Care
+DCS|Damage control surgery|Critical Care
+ACS|Abdominal compartment syndrome|Critical Care
+IAH|Intra-abdominal hypertension|Critical Care
+IAP|Intra-abdominal pressure|Critical Care
+LTOWB|Low-titer group O whole blood|Critical Care
+WB|Whole blood|Critical Care
+GI|Gastrointestinal|Critical Care
+GIB|Gastrointestinal bleeding|Critical Care
+UGIB|Upper gastrointestinal bleeding|Critical Care
+LGIB|Lower gastrointestinal bleeding|Critical Care
+PUD|Peptic ulcer disease|Critical Care
+EGD|Esophagogastroduodenoscopy|Critical Care
+TIPS|Transjugular intrahepatic portosystemic shunt|Critical Care
+SBP|Spontaneous bacterial peritonitis|Critical Care
+HE|Hepatic encephalopathy|Critical Care
+ALF|Acute liver failure|Critical Care
+ACLF|Acute-on-chronic liver failure|Critical Care
+MELD|Model for end-stage liver disease|Critical Care
+MELD-Na|Model for end-stage liver disease with sodium|Critical Care
+LFTs|Liver function tests|Critical Care
+AST|Aspartate aminotransferase|Critical Care
+ALT|Alanine aminotransferase|Critical Care
+ALP|Alkaline phosphatase|Critical Care
+GGT|Gamma-glutamyl transferase|Critical Care
+TBili|Total bilirubin|Critical Care
+NAC|N-acetylcysteine|Critical Care
+APAP|Acetaminophen|Critical Care
+SAAG|Serum-ascites albumin gradient|Critical Care
+PMN|Polymorphonuclear leukocyte|Critical Care
+OLT|Orthotopic liver transplant|Critical Care
+HRS-AKI|Hepatorenal syndrome acute kidney injury|Critical Care
+SIRS|Systemic inflammatory response syndrome|Critical Care
+qSOFA|Quick sequential organ failure assessment|Critical Care
+SOFA|Sequential organ failure assessment|Critical Care
+APACHE|Acute physiology and chronic health evaluation|Critical Care
+SAPS|Simplified acute physiology score|Critical Care
+MODS|Multiple organ dysfunction syndrome|Critical Care
+MOF|Multiple organ failure|Critical Care
+NEWS|National early warning score|Critical Care
+MEWS|Modified early warning score|Critical Care
+PEWS|Pediatric early warning score|Critical Care
+SI|Shock index|Critical Care
+CURB-65|Confusion, urea, respiratory rate, blood pressure, age 65 pneumonia severity score|Critical Care
+PERC|Pulmonary embolism rule-out criteria|Critical Care
+sPESI|Simplified pulmonary embolism severity index|Critical Care
+PESI|Pulmonary embolism severity index|Critical Care
+HEART|History, ECG, age, risk factors, troponin score|Critical Care
+TIMI|Thrombolysis in myocardial infarction risk score|Critical Care
+GBS|Glasgow-Blatchford score|Critical Care
+AIMS65|Albumin, INR, mental status, systolic blood pressure, age 65 GI bleeding score|Critical Care
+CRBSI|Catheter-related bloodstream infection|Critical Care
+CLABSI|Central line-associated bloodstream infection|Critical Care
+CAUTI|Catheter-associated urinary tract infection|Critical Care
+SSI|Surgical site infection|Critical Care
+HAI|Healthcare-associated infection|Critical Care
+BSI|Bloodstream infection|Critical Care
+UTI|Urinary tract infection|Critical Care
+cUTI|Complicated urinary tract infection|Critical Care
+SSTI|Skin and soft tissue infection|Critical Care
+NSTI|Necrotizing soft tissue infection|Critical Care
+cIAI|Complicated intra-abdominal infection|Critical Care
+CNS|Central nervous system|Critical Care
+LP|Lumbar puncture|Critical Care
+CSF|Cerebrospinal fluid|Critical Care
+EVD|External ventricular drainage|Critical Care
+CMV|Cytomegalovirus|Critical Care
+HIV|Human immunodeficiency virus|Critical Care
+PJP|Pneumocystis jirovecii pneumonia|Critical Care
+PCP|Pneumocystis pneumonia|Critical Care
+MRSA|Methicillin-resistant Staphylococcus aureus|Critical Care
+MSSA|Methicillin-susceptible Staphylococcus aureus|Critical Care
+VRE|Vancomycin-resistant Enterococcus|Critical Care
+ESBL|Extended-spectrum beta-lactamase|Critical Care
+CRE|Carbapenem-resistant Enterobacterales|Critical Care
+CRAB|Carbapenem-resistant Acinetobacter baumannii|Critical Care
+MDR|Multidrug resistant|Critical Care
+XDR|Extensively drug resistant|Critical Care
+MDRO|Multidrug-resistant organism|Critical Care
+CDI|Clostridioides difficile infection|Critical Care
+C diff|Clostridioides difficile|Critical Care
+GNR|Gram-negative rods|Critical Care
+GPC|Gram-positive cocci|Critical Care
+GPR|Gram-positive rods|Critical Care
+GNDC|Gram-negative diplococci|Critical Care
+BAL|Bronchoalveolar lavage|Critical Care
+mini-BAL|Non-bronchoscopic bronchoalveolar lavage|Critical Care
+PSB|Protected specimen brush|Critical Care
+ETA|Endotracheal aspirate|Critical Care
+CPIS|Clinical pulmonary infection score|Critical Care
+PCT|Procalcitonin|Critical Care
+CRP|C-reactive protein|Critical Care
+ANC|Absolute neutrophil count|Critical Care
+FN|Febrile neutropenia|Critical Care
+HLH|Hemophagocytic lymphohistiocytosis|Critical Care
+MAS|Macrophage activation syndrome|Critical Care
+CRS|Cytokine release syndrome|Critical Care
+TLS|Tumor lysis syndrome|Critical Care
+SVCS|Superior vena cava syndrome|Critical Care
+MSCC|Malignant spinal cord compression|Critical Care
+ICANS|Immune effector cell-associated neurotoxicity syndrome|Critical Care
+CAR-T|Chimeric antigen receptor T-cell therapy|Critical Care
+GVHD|Graft-versus-host disease|Critical Care
+HSCT|Hematopoietic stem cell transplant|Critical Care
+NMS|Neuroleptic malignant syndrome|Critical Care
+MH|Malignant hyperthermia|Critical Care
+PRIS|Propofol infusion syndrome|Critical Care
+AWS|Alcohol withdrawal syndrome|Critical Care
+DTs|Delirium tremens|Critical Care
+CIWA|Clinical Institute Withdrawal Assessment for alcohol|Critical Care
+CIWA-Ar|Clinical Institute Withdrawal Assessment for alcohol, revised|Critical Care
+COWS|Clinical opiate withdrawal scale|Critical Care
+CO|Carbon monoxide|Critical Care
+COHb|Carboxyhemoglobin|Critical Care
+MetHb|Methemoglobin|Critical Care
+SulfHb|Sulfhemoglobin|Critical Care
+HBO|Hyperbaric oxygen|Critical Care
+HBOT|Hyperbaric oxygen therapy|Critical Care
+ILE|Intravenous lipid emulsion|Critical Care
+AC|Activated charcoal|Critical Care
+BAL|British anti-Lewisite (dimercaprol)|Critical Care
+Osm gap|Osmolar gap|Critical Care
+UOP|Urine output|Critical Care
+UO|Urine output|Critical Care
+I/O|Intake and output|Critical Care
+I&O|Intake and output|Critical Care
+IVF|Intravenous fluids|Critical Care
+IVFs|Intravenous fluids|Critical Care
+NS|Normal saline|Critical Care
+LR|Lactated Ringer's solution|Critical Care
+RL|Ringer's lactate|Critical Care
+D5W|5 percent dextrose in water|Critical Care
+D10|10 percent dextrose|Critical Care
+D50|50 percent dextrose|Critical Care
+HTS|Hypertonic saline|Critical Care
+3% NaCl|Three percent hypertonic saline|Critical Care
+Hgb|Hemoglobin|Critical Care
+Plt|Platelet count|Critical Care
+Scr|Serum creatinine|Critical Care
+GFR|Glomerular filtration rate|Critical Care
+eGFR|Estimated glomerular filtration rate|Critical Care
+CrCl|Creatinine clearance|Critical Care
+FeNa|Fractional excretion of sodium|Critical Care
+FeUrea|Fractional excretion of urea|Critical Care
+UNa|Urine sodium|Critical Care
+iCa|Ionized calcium|Critical Care
+POC|Point of care|Critical Care
+POCT|Point-of-care testing|Critical Care
+FSBG|Fingerstick blood glucose|Critical Care
+A1c|Hemoglobin A1c|Critical Care
+HbA1c|Glycated hemoglobin|Critical Care
+LA|Lactic acid|Critical Care
+LDH|Lactate dehydrogenase|Critical Care
+CK|Creatine kinase|Critical Care
+CPK|Creatine phosphokinase|Critical Care
+CK-MB|Creatine kinase MB isoenzyme|Critical Care
+TnI|Troponin I|Critical Care
+TnT|Troponin T|Critical Care
+hs-cTn|High-sensitivity cardiac troponin|Critical Care
+BNP|B-type natriuretic peptide|Critical Care
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Critical Care
+TSH|Thyroid-stimulating hormone|Critical Care
+fT4|Free thyroxine|Critical Care
+ACTH|Adrenocorticotropic hormone|Critical Care
+AI|Adrenal insufficiency|Critical Care
+CIRCI|Critical illness-related corticosteroid insufficiency|Critical Care
+HPA|Hypothalamic-pituitary-adrenal axis|Critical Care
+DI|Diabetes insipidus|Critical Care
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Critical Care
+CSW|Cerebral salt wasting|Critical Care
+ADH|Antidiuretic hormone|Critical Care
+AVP|Arginine vasopressin|Critical Care
+ODS|Osmotic demyelination syndrome|Critical Care
+CPM|Central pontine myelinolysis|Critical Care
+HypoNa|Hyponatremia|Critical Care
+HyperK|Hyperkalemia|Critical Care
+HypoK|Hypokalemia|Critical Care
+HyperCa|Hypercalcemia|Critical Care
+HypoCa|Hypocalcemia|Critical Care
+HypoMg|Hypomagnesemia|Critical Care
+HypoPhos|Hypophosphatemia|Critical Care
+Rhabdo|Rhabdomyolysis|Critical Care
+PCC|Pheochromocytoma crisis|Critical Care
+HTN|Hypertension|Critical Care
+HTN emergency|Hypertensive emergency|Critical Care
+PRES|Posterior reversible encephalopathy syndrome|Critical Care
+HELLP|Hemolysis, elevated liver enzymes, low platelets syndrome|Critical Care
+AFE|Amniotic fluid embolism|Critical Care
+PPH|Postpartum hemorrhage|Critical Care
+SE|Status epilepticus|Critical Care
+RSE|Refractory status epilepticus|Critical Care
+SRSE|Super-refractory status epilepticus|Critical Care
+NCSE|Nonconvulsive status epilepticus|Critical Care
+AED|Antiepileptic drug|Critical Care
+ASM|Antiseizure medication|Critical Care
+GTC|Generalized tonic-clonic|Critical Care
+GBS|Guillain-Barre syndrome|Critical Care
+MG|Myasthenia gravis|Critical Care
+IVIG|Intravenous immunoglobulin|Critical Care
+PLEX|Plasma exchange|Critical Care
+TPE|Therapeutic plasma exchange|Critical Care
+ALS|Amyotrophic lateral sclerosis|Critical Care
+DNR|Do not resuscitate|Critical Care
+DNI|Do not intubate|Critical Care
+DNR/DNI|Do not resuscitate, do not intubate|Critical Care
+CMO|Comfort measures only|Critical Care
+POLST|Physician orders for life-sustaining treatment|Critical Care
+GOC|Goals of care|Critical Care
+LOS|Length of stay|Critical Care
+BD|Brain death|Critical Care
+CVC|Central venous catheter|Critical Care
+CVL|Central venous line|Critical Care
+PICC|Peripherally inserted central catheter|Critical Care
+IJ|Internal jugular|Critical Care
+RIJ|Right internal jugular|Critical Care
+LIJ|Left internal jugular|Critical Care
+FV|Femoral vein|Critical Care
+CFV|Common femoral vein|Critical Care
+CFA|Common femoral artery|Critical Care
+A-line|Arterial line|Critical Care
+IO|Intraosseous|Critical Care
+PIV|Peripheral intravenous line|Critical Care
+PICCs|Peripherally inserted central catheters|Critical Care
+HD cath|Hemodialysis catheter|Critical Care
+TLC|Triple-lumen catheter|Critical Care
+PA catheter|Pulmonary artery catheter|Critical Care
+RHC|Right heart catheterization|Critical Care
+LHC|Left heart catheterization|Critical Care
+PiCCO|Pulse contour cardiac output monitoring|Critical Care
+LiDCO|Lithium dilution cardiac output monitoring|Critical Care
+TPTD|Transpulmonary thermodilution|Critical Care
+GEDV|Global end-diastolic volume|Critical Care
+EVLW|Extravascular lung water|Critical Care
+EVLWI|Extravascular lung water index|Critical Care
+PLR|Passive leg raise|Critical Care
+dIVC|Distensibility index of the inferior vena cava|Critical Care
+VExUS|Venous excess ultrasound score|Critical Care
+CRT|Capillary refill time|Critical Care
+Pv-aCO2|Venous-to-arterial carbon dioxide gap|Critical Care
+NIRS|Near-infrared spectroscopy|Critical Care
+StO2|Tissue oxygen saturation|Critical Care
+PbtO2|Brain tissue oxygen tension|Critical Care
+SjvO2|Jugular venous oxygen saturation|Critical Care
+DC|Decompressive craniectomy|Critical Care
+pH|Potential of hydrogen (acidity)|Critical Care
+pCO2|Partial pressure of carbon dioxide|Critical Care
+pO2|Partial pressure of oxygen|Critical Care
+O2|Oxygen|Critical Care
+O2 sat|Oxygen saturation|Critical Care
+HME|Heat and moisture exchanger|Critical Care
+TPN|Total parenteral nutrition|Critical Care
+PN|Parenteral nutrition|Critical Care
+EN|Enteral nutrition|Critical Care
+TF|Tube feeds|Critical Care
+GRV|Gastric residual volume|Critical Care
+RQ|Respiratory quotient|Critical Care
+REE|Resting energy expenditure|Critical Care
+IC|Indirect calorimetry|Critical Care
+SUP|Stress ulcer prophylaxis|Critical Care
+SUP|Stress-related mucosal disease prophylaxis|Critical Care
+SRMD|Stress-related mucosal disease|Critical Care
+SDD|Selective digestive decontamination|Critical Care
+HOB|Head-of-bed elevation|Critical Care
+QTc|Corrected QT interval|Critical Care
+LBBB|Left bundle branch block|Critical Care
+RBBB|Right bundle branch block|Critical Care
+LAD|Left anterior descending artery|Critical Care
+LCx|Left circumflex artery|Critical Care
+RCA|Right coronary artery|Critical Care
+LMCA|Left main coronary artery|Critical Care
+TIMI flow|Thrombolysis in myocardial infarction flow grade|Critical Care
+NOAC|Novel oral anticoagulant|Critical Care
+VKA|Vitamin K antagonist|Critical Care
+Anti-Xa|Anti-factor Xa level|Critical Care
+mRS|Modified Rankin scale|Critical Care
+GOS|Glasgow outcome scale|Critical Care
+GOSE|Glasgow outcome scale extended|Critical Care
+PCAS|Post-cardiac arrest syndrome|Critical Care
+HIE|Hypoxic-ischemic encephalopathy|Critical Care
+SIC|Sepsis-induced coagulopathy|Critical Care
+SICM|Sepsis-induced cardiomyopathy|Critical Care
+SAE|Sepsis-associated encephalopathy|Critical Care
+SA-AKI|Sepsis-associated acute kidney injury|Critical Care
+GBS|Group B Streptococcus|Critical Care
+MSOF|Multisystem organ failure|Critical Care
+COVID-19|Coronavirus disease 2019|Critical Care
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2|Critical Care
+CI|Continuous infusion|Critical Care
+c-collar|Cervical collar|Critical Care
+C-spine|Cervical spine|Critical Care
+CSI|Cervical spine injury|Critical Care
+SMR|Spinal motion restriction|Critical Care
+TBSA|Total body surface area|Critical Care
+BSA|Body surface area|Critical Care
+AMS|Altered mental status|Critical Care

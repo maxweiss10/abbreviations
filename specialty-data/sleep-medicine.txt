@@ -1,0 +1,438 @@
+OSA|Obstructive sleep apnea|Sleep Medicine
+OSAS|Obstructive sleep apnea syndrome|Sleep Medicine
+OSAHS|Obstructive sleep apnea-hypopnea syndrome|Sleep Medicine
+CSA|Central sleep apnea|Sleep Medicine
+CSR|Cheyne-Stokes respiration (waxing and waning breathing pattern)|Sleep Medicine
+TECSA|Treatment-emergent central sleep apnea|Sleep Medicine
+CompSA|Complex sleep apnea|Sleep Medicine
+SDB|Sleep-disordered breathing|Sleep Medicine
+SRBD|Sleep-related breathing disorder|Sleep Medicine
+AHI|Apnea-hypopnea index (events per hour of sleep)|Sleep Medicine
+REI|Respiratory event index (events per hour of recording time)|Sleep Medicine
+RDI|Respiratory disturbance index|Sleep Medicine
+ODI|Oxygen desaturation index|Sleep Medicine
+RERA|Respiratory effort-related arousal|Sleep Medicine
+UARS|Upper airway resistance syndrome|Sleep Medicine
+OHS|Obesity hypoventilation syndrome|Sleep Medicine
+SHVS|Sleep hypoventilation syndrome|Sleep Medicine
+CCHS|Congenital central hypoventilation syndrome|Sleep Medicine
+PSG|Polysomnography|Sleep Medicine
+HSAT|Home sleep apnea test|Sleep Medicine
+HST|Home sleep test|Sleep Medicine
+PAT|Peripheral arterial tonometry|Sleep Medicine
+MSLT|Multiple sleep latency test|Sleep Medicine
+MWT|Maintenance of wakefulness test|Sleep Medicine
+SOL|Sleep onset latency|Sleep Medicine
+RL|REM latency|Sleep Medicine
+TST|Total sleep time|Sleep Medicine
+TIB|Time in bed|Sleep Medicine
+TRT|Total recording time|Sleep Medicine
+SE|Sleep efficiency|Sleep Medicine
+WASO|Wake after sleep onset|Sleep Medicine
+PLM|Periodic limb movement|Sleep Medicine
+PLMS|Periodic limb movements of sleep|Sleep Medicine
+PLMD|Periodic limb movement disorder|Sleep Medicine
+PLMI|Periodic limb movement index|Sleep Medicine
+RLS|Restless legs syndrome|Sleep Medicine
+WED|Willis-Ekbom disease (restless legs syndrome)|Sleep Medicine
+RBD|REM sleep behavior disorder|Sleep Medicine
+RSWA|REM sleep without atonia|Sleep Medicine
+NREM|Non-rapid eye movement sleep|Sleep Medicine
+REM|Rapid eye movement sleep|Sleep Medicine
+N1|Non-REM sleep stage 1|Sleep Medicine
+N2|Non-REM sleep stage 2|Sleep Medicine
+N3|Non-REM sleep stage 3 (slow-wave sleep)|Sleep Medicine
+SWS|Slow-wave sleep|Sleep Medicine
+SWA|Slow-wave activity|Sleep Medicine
+EEG|Electroencephalogram|Sleep Medicine
+EOG|Electrooculogram|Sleep Medicine
+EMG|Electromyogram|Sleep Medicine
+ECG|Electrocardiogram|Sleep Medicine
+EKG|Electrocardiogram|Sleep Medicine
+SpO2|Peripheral oxygen saturation by pulse oximetry|Sleep Medicine
+SaO2|Arterial oxygen saturation|Sleep Medicine
+T90|Percent of recording time with oxygen saturation below 90%|Sleep Medicine
+TcCO2|Transcutaneous carbon dioxide|Sleep Medicine
+PtcCO2|Transcutaneous partial pressure of carbon dioxide|Sleep Medicine
+EtCO2|End-tidal carbon dioxide|Sleep Medicine
+PaCO2|Arterial partial pressure of carbon dioxide|Sleep Medicine
+PaO2|Arterial partial pressure of oxygen|Sleep Medicine
+ABG|Arterial blood gas|Sleep Medicine
+VBG|Venous blood gas|Sleep Medicine
+HCO3|Bicarbonate|Sleep Medicine
+CPAP|Continuous positive airway pressure|Sleep Medicine
+APAP|Auto-adjusting positive airway pressure|Sleep Medicine
+BPAP|Bilevel positive airway pressure|Sleep Medicine
+BiPAP|Bilevel positive airway pressure|Sleep Medicine
+IPAP|Inspiratory positive airway pressure|Sleep Medicine
+EPAP|Expiratory positive airway pressure|Sleep Medicine
+PAP|Positive airway pressure|Sleep Medicine
+EPR|Expiratory pressure relief|Sleep Medicine
+NIV|Noninvasive ventilation|Sleep Medicine
+NIPPV|Noninvasive positive pressure ventilation|Sleep Medicine
+PPV|Positive pressure ventilation|Sleep Medicine
+ASV|Adaptive servo-ventilation|Sleep Medicine
+AVAPS|Average volume-assured pressure support|Sleep Medicine
+VAPS|Volume-assured pressure support|Sleep Medicine
+BUR|Backup rate|Sleep Medicine
+PEEP|Positive end-expiratory pressure|Sleep Medicine
+Ti|Inspiratory time|Sleep Medicine
+Te|Expiratory time|Sleep Medicine
+Vt|Tidal volume|Sleep Medicine
+VT|Tidal volume|Sleep Medicine
+MV|Minute ventilation|Sleep Medicine
+RR|Respiratory rate|Sleep Medicine
+FiO2|Fraction of inspired oxygen|Sleep Medicine
+LPM O2|Liters per minute of oxygen|Sleep Medicine
+HFNC|High-flow nasal cannula|Sleep Medicine
+HFNO|High-flow nasal oxygen|Sleep Medicine
+FFM|Full face mask|Sleep Medicine
+NPM|Nasal pillow mask|Sleep Medicine
+NM|Nasal mask|Sleep Medicine
+OTC|Over the counter|Sleep Medicine
+DME|Durable medical equipment|Sleep Medicine
+HGNS|Hypoglossal nerve stimulation|Sleep Medicine
+UAS|Upper airway stimulation|Sleep Medicine
+MAD|Mandibular advancement device|Sleep Medicine
+MAS|Mandibular advancement splint|Sleep Medicine
+OAT|Oral appliance therapy|Sleep Medicine
+TRD|Tongue-retaining device|Sleep Medicine
+PTT|Pulse transit time|Sleep Medicine
+UPPP|Uvulopalatopharyngoplasty|Sleep Medicine
+UP3|Uvulopalatopharyngoplasty|Sleep Medicine
+LAUP|Laser-assisted uvulopalatoplasty|Sleep Medicine
+MMA|Maxillomandibular advancement|Sleep Medicine
+MMO|Maxillomandibular osteotomy|Sleep Medicine
+GAHM|Genioglossus advancement with hyoid myotomy|Sleep Medicine
+RFA|Radiofrequency ablation|Sleep Medicine
+RFTBR|Radiofrequency tongue base reduction|Sleep Medicine
+DISE|Drug-induced sleep endoscopy|Sleep Medicine
+SARPE|Surgically assisted rapid palatal expansion|Sleep Medicine
+RME|Rapid maxillary expansion|Sleep Medicine
+T&A|Tonsillectomy and adenoidectomy|Sleep Medicine
+AT|Adenotonsillectomy|Sleep Medicine
+TORS|Transoral robotic surgery|Sleep Medicine
+SMILE|Submucosal minimally invasive lingual excision|Sleep Medicine
+VPI|Velopharyngeal insufficiency|Sleep Medicine
+BMI|Body mass index|Sleep Medicine
+MP|Mallampati score|Sleep Medicine
+FTP|Friedman tongue position|Sleep Medicine
+FTP|Friedman tonsil position|Sleep Medicine
+CT|Computed tomography|Sleep Medicine
+MRI|Magnetic resonance imaging|Sleep Medicine
+ESS|Epworth Sleepiness Scale|Sleep Medicine
+ISI|Insomnia Severity Index|Sleep Medicine
+PSQI|Pittsburgh Sleep Quality Index|Sleep Medicine
+FOSQ|Functional Outcomes of Sleep Questionnaire|Sleep Medicine
+SF-36|36-item short form health survey|Sleep Medicine
+SSS|Stanford Sleepiness Scale|Sleep Medicine
+KSS|Karolinska Sleepiness Scale|Sleep Medicine
+SACS|Sleep Apnea Clinical Score|Sleep Medicine
+STOP-BANG|Snoring, tired, observed apnea, pressure, BMI, age, neck, gender questionnaire|Sleep Medicine
+STOP|Snoring, tired, observed apnea, pressure questionnaire|Sleep Medicine
+BQ|Berlin Questionnaire|Sleep Medicine
+PVT|Psychomotor vigilance task|Sleep Medicine
+SOREMP|Sleep-onset REM period|Sleep Medicine
+SOREM|Sleep-onset REM|Sleep Medicine
+IH|Idiopathic hypersomnia|Sleep Medicine
+NT1|Narcolepsy type 1|Sleep Medicine
+NT2|Narcolepsy type 2|Sleep Medicine
+EDS|Excessive daytime sleepiness|Sleep Medicine
+EDS|Excessive daytime somnolence|Sleep Medicine
+CNS|Central nervous system|Sleep Medicine
+CSF|Cerebrospinal fluid|Sleep Medicine
+KLS|Kleine-Levin syndrome (recurrent hypersomnia)|Sleep Medicine
+RH|Recurrent hypersomnia|Sleep Medicine
+GHB|Gamma-hydroxybutyrate|Sleep Medicine
+GABA|Gamma-aminobutyric acid|Sleep Medicine
+TCA|Tricyclic antidepressant|Sleep Medicine
+SSRI|Selective serotonin reuptake inhibitor|Sleep Medicine
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Sleep Medicine
+MAOI|Monoamine oxidase inhibitor|Sleep Medicine
+DORA|Dual orexin receptor antagonist|Sleep Medicine
+HCRT|Hypocretin (orexin)|Sleep Medicine
+HLA|Human leukocyte antigen|Sleep Medicine
+BZD|Benzodiazepine|Sleep Medicine
+BZRA|Benzodiazepine receptor agonist|Sleep Medicine
+BDZ|Benzodiazepine|Sleep Medicine
+DA|Dopamine agonist|Sleep Medicine
+A2D|Alpha-2-delta ligand (gabapentin or pregabalin)|Sleep Medicine
+IV iron|Intravenous iron|Sleep Medicine
+FCM|Ferric carboxymaltose|Sleep Medicine
+TSAT|Transferrin saturation|Sleep Medicine
+TIBC|Total iron-binding capacity|Sleep Medicine
+IRLSSG|International restless legs syndrome study group rating|Sleep Medicine
+IRLS|International Restless Legs Scale|Sleep Medicine
+RLS-6|Restless legs syndrome 6-item rating scale|Sleep Medicine
+OSA-18|Obstructive sleep apnea 18-item pediatric quality of life survey|Sleep Medicine
+PSQ|Pediatric Sleep Questionnaire|Sleep Medicine
+PDSS|Pediatric Daytime Sleepiness Scale|Sleep Medicine
+CSHQ|Children's Sleep Habits Questionnaire|Sleep Medicine
+BEARS|Bedtime issues, excessive daytime sleepiness, awakenings, regularity and duration of sleep, snoring screening tool|Sleep Medicine
+SN|Split-night study|Sleep Medicine
+BP|Blood pressure|Sleep Medicine
+HTN|Hypertension|Sleep Medicine
+RHTN|Resistant hypertension|Sleep Medicine
+AF|Atrial fibrillation|Sleep Medicine
+AFib|Atrial fibrillation|Sleep Medicine
+HF|Heart failure|Sleep Medicine
+HFrEF|Heart failure with reduced ejection fraction|Sleep Medicine
+HFpEF|Heart failure with preserved ejection fraction|Sleep Medicine
+CHF|Congestive heart failure|Sleep Medicine
+LVEF|Left ventricular ejection fraction|Sleep Medicine
+EF|Ejection fraction|Sleep Medicine
+CAD|Coronary artery disease|Sleep Medicine
+MI|Myocardial infarction|Sleep Medicine
+CVA|Cerebrovascular accident|Sleep Medicine
+TIA|Transient ischemic attack|Sleep Medicine
+PH|Pulmonary hypertension|Sleep Medicine
+PAH|Pulmonary arterial hypertension|Sleep Medicine
+COPD|Chronic obstructive pulmonary disease|Sleep Medicine
+OVS|Overlap syndrome of COPD and obstructive sleep apnea|Sleep Medicine
+ILD|Interstitial lung disease|Sleep Medicine
+NMD|Neuromuscular disease|Sleep Medicine
+ALS|Amyotrophic lateral sclerosis|Sleep Medicine
+DMD|Duchenne muscular dystrophy|Sleep Medicine
+SMA|Spinal muscular atrophy|Sleep Medicine
+MG|Myasthenia gravis|Sleep Medicine
+PD|Parkinson disease|Sleep Medicine
+DLB|Dementia with Lewy bodies|Sleep Medicine
+MSA|Multiple system atrophy|Sleep Medicine
+AD|Alzheimer disease|Sleep Medicine
+TBI|Traumatic brain injury|Sleep Medicine
+MS|Multiple sclerosis|Sleep Medicine
+PCOS|Polycystic ovary syndrome|Sleep Medicine
+GERD|Gastroesophageal reflux disease|Sleep Medicine
+T2DM|Type 2 diabetes mellitus|Sleep Medicine
+DM2|Type 2 diabetes mellitus|Sleep Medicine
+MetS|Metabolic syndrome|Sleep Medicine
+NAFLD|Nonalcoholic fatty liver disease|Sleep Medicine
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Sleep Medicine
+ESRD|End-stage renal disease|Sleep Medicine
+CKD|Chronic kidney disease|Sleep Medicine
+VTE|Venous thromboembolism|Sleep Medicine
+OIRD|Opioid-induced respiratory depression|Sleep Medicine
+PONV|Postoperative nausea and vomiting|Sleep Medicine
+PACU|Post-anesthesia care unit|Sleep Medicine
+ASA|American Society of Anesthesiologists physical status class|Sleep Medicine
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Sleep Medicine
+HR|Heart rate|Sleep Medicine
+HRV|Heart rate variability|Sleep Medicine
+HPA|Hypothalamic-pituitary-adrenal axis|Sleep Medicine
+SCN|Suprachiasmatic nucleus|Sleep Medicine
+CRD|Circadian rhythm disorder|Sleep Medicine
+CRSWD|Circadian rhythm sleep-wake disorder|Sleep Medicine
+DSPD|Delayed sleep phase disorder|Sleep Medicine
+DSWPD|Delayed sleep-wake phase disorder|Sleep Medicine
+ASPD|Advanced sleep phase disorder|Sleep Medicine
+ASWPD|Advanced sleep-wake phase disorder|Sleep Medicine
+ISWRD|Irregular sleep-wake rhythm disorder|Sleep Medicine
+N24SWD|Non-24-hour sleep-wake rhythm disorder|Sleep Medicine
+N24|Non-24-hour sleep-wake disorder|Sleep Medicine
+SWD|Shift work disorder|Sleep Medicine
+SWSD|Shift work sleep disorder|Sleep Medicine
+JLD|Jet lag disorder|Sleep Medicine
+DLMO|Dim light melatonin onset|Sleep Medicine
+CBTmin|Core body temperature minimum|Sleep Medicine
+CBT|Core body temperature|Sleep Medicine
+MEQ|Morningness-Eveningness Questionnaire|Sleep Medicine
+MCTQ|Munich Chronotype Questionnaire|Sleep Medicine
+MSFsc|Mid-sleep on free days corrected for sleep debt|Sleep Medicine
+BLT|Bright light therapy|Sleep Medicine
+LT|Light therapy|Sleep Medicine
+SAD|Seasonal affective disorder|Sleep Medicine
+MDD|Major depressive disorder|Sleep Medicine
+GAD|Generalized anxiety disorder|Sleep Medicine
+PTSD|Posttraumatic stress disorder|Sleep Medicine
+ADHD|Attention-deficit/hyperactivity disorder|Sleep Medicine
+OCD|Obsessive-compulsive disorder|Sleep Medicine
+BPD|Bipolar disorder|Sleep Medicine
+ASD|Autism spectrum disorder|Sleep Medicine
+FM|Fibromyalgia|Sleep Medicine
+CFS|Chronic fatigue syndrome|Sleep Medicine
+ME/CFS|Myalgic encephalomyelitis/chronic fatigue syndrome|Sleep Medicine
+CBT-I|Cognitive behavioral therapy for insomnia|Sleep Medicine
+CBTi|Cognitive behavioral therapy for insomnia|Sleep Medicine
+dCBT-I|Digital cognitive behavioral therapy for insomnia|Sleep Medicine
+SRT|Sleep restriction therapy|Sleep Medicine
+SCT|Stimulus control therapy|Sleep Medicine
+SH|Sleep hygiene|Sleep Medicine
+IRT|Imagery rehearsal therapy|Sleep Medicine
+CBT|Cognitive behavioral therapy|Sleep Medicine
+ACT|Acceptance and commitment therapy|Sleep Medicine
+MBSR|Mindfulness-based stress reduction|Sleep Medicine
+MBTI|Mindfulness-based therapy for insomnia|Sleep Medicine
+PMR|Progressive muscle relaxation|Sleep Medicine
+BBTI|Brief behavioral treatment for insomnia|Sleep Medicine
+DBAS|Dysfunctional Beliefs and Attitudes about Sleep scale|Sleep Medicine
+CSD|Consensus Sleep Diary|Sleep Medicine
+ID|Insomnia disorder|Sleep Medicine
+PI|Primary insomnia|Sleep Medicine
+CPI|Chronic psychophysiological insomnia|Sleep Medicine
+SMI|Sleep maintenance insomnia|Sleep Medicine
+SOI|Sleep onset insomnia|Sleep Medicine
+EMA|Early morning awakening|Sleep Medicine
+MOA|Mechanism of action|Sleep Medicine
+ODT|Orally disintegrating tablet|Sleep Medicine
+MT1|Melatonin receptor 1|Sleep Medicine
+MT2|Melatonin receptor 2|Sleep Medicine
+H1|Histamine-1 receptor|Sleep Medicine
+H3|Histamine-3 receptor|Sleep Medicine
+5-HT|Serotonin|Sleep Medicine
+5-HT2A|Serotonin 2A receptor|Sleep Medicine
+DAT|Dopamine transporter|Sleep Medicine
+NET|Norepinephrine transporter|Sleep Medicine
+NDRI|Norepinephrine-dopamine reuptake inhibitor|Sleep Medicine
+DNRI|Dopamine-norepinephrine reuptake inhibitor|Sleep Medicine
+TAAR1|Trace amine-associated receptor 1|Sleep Medicine
+AHI3|Apnea-hypopnea index with 3% desaturation or arousal criteria|Sleep Medicine
+AHI4|Apnea-hypopnea index with 4% desaturation criteria|Sleep Medicine
+pAHI|Positional apnea-hypopnea index|Sleep Medicine
+sAHI|Supine apnea-hypopnea index|Sleep Medicine
+nsAHI|Non-supine apnea-hypopnea index|Sleep Medicine
+REM-AHI|Apnea-hypopnea index during REM sleep|Sleep Medicine
+NREM-AHI|Apnea-hypopnea index during non-REM sleep|Sleep Medicine
+EELV|End-expiratory lung volume|Sleep Medicine
+TLC|Total lung capacity|Sleep Medicine
+FRC|Functional residual capacity|Sleep Medicine
+FVC|Forced vital capacity|Sleep Medicine
+FEV1|Forced expiratory volume in 1 second|Sleep Medicine
+VC|Vital capacity|Sleep Medicine
+MIP|Maximal inspiratory pressure|Sleep Medicine
+MEP|Maximal expiratory pressure|Sleep Medicine
+SNIP|Sniff nasal inspiratory pressure|Sleep Medicine
+PCF|Peak cough flow|Sleep Medicine
+PFT|Pulmonary function test|Sleep Medicine
+DLCO|Diffusing capacity of the lung for carbon monoxide|Sleep Medicine
+PEF|Peak expiratory flow|Sleep Medicine
+FOT|Forced oscillation technique|Sleep Medicine
+NIF|Negative inspiratory force|Sleep Medicine
+CXR|Chest x-ray|Sleep Medicine
+ECHO|Echocardiogram|Sleep Medicine
+TTE|Transthoracic echocardiogram|Sleep Medicine
+RVSP|Right ventricular systolic pressure|Sleep Medicine
+BNP|B-type natriuretic peptide|Sleep Medicine
+TSH|Thyroid-stimulating hormone|Sleep Medicine
+CBC|Complete blood count|Sleep Medicine
+BMP|Basic metabolic panel|Sleep Medicine
+CMP|Comprehensive metabolic panel|Sleep Medicine
+A1c|Hemoglobin A1c|Sleep Medicine
+HbA1c|Hemoglobin A1c|Sleep Medicine
+Hgb|Hemoglobin|Sleep Medicine
+Hct|Hematocrit|Sleep Medicine
+RBC|Red blood cell|Sleep Medicine
+WBC|White blood cell|Sleep Medicine
+MCV|Mean corpuscular volume|Sleep Medicine
+TG|Triglycerides|Sleep Medicine
+LDL|Low-density lipoprotein|Sleep Medicine
+HDL|High-density lipoprotein|Sleep Medicine
+CRP|C-reactive protein|Sleep Medicine
+hsCRP|High-sensitivity C-reactive protein|Sleep Medicine
+ANA|Antinuclear antibody|Sleep Medicine
+OGTT|Oral glucose tolerance test|Sleep Medicine
+FBG|Fasting blood glucose|Sleep Medicine
+IGF-1|Insulin-like growth factor 1|Sleep Medicine
+GH|Growth hormone|Sleep Medicine
+CPK|Creatine phosphokinase|Sleep Medicine
+CK|Creatine kinase|Sleep Medicine
+EEG-SWD|Spike-wave discharge on electroencephalogram|Sleep Medicine
+IED|Interictal epileptiform discharge|Sleep Medicine
+NFLE|Nocturnal frontal lobe epilepsy|Sleep Medicine
+SHE|Sleep-related hypermotor epilepsy|Sleep Medicine
+BECTS|Benign epilepsy with centrotemporal spikes|Sleep Medicine
+ESES|Electrical status epilepticus in sleep|Sleep Medicine
+CSWS|Continuous spike-waves during slow-wave sleep|Sleep Medicine
+SUDEP|Sudden unexpected death in epilepsy|Sleep Medicine
+SIDS|Sudden infant death syndrome|Sleep Medicine
+SUID|Sudden unexpected infant death|Sleep Medicine
+BRUE|Brief resolved unexplained event|Sleep Medicine
+ALTE|Apparent life-threatening event|Sleep Medicine
+AOP|Apnea of prematurity|Sleep Medicine
+SBD|Sleep-disordered breathing|Sleep Medicine
+NPA|Nasopharyngeal airway|Sleep Medicine
+OPA|Oropharyngeal airway|Sleep Medicine
+ETT|Endotracheal tube|Sleep Medicine
+ENT|Ear, nose and throat|Sleep Medicine
+OMT|Orofacial myofunctional therapy|Sleep Medicine
+OMFT|Orofacial myofunctional therapy|Sleep Medicine
+P95|95th percentile pressure|Sleep Medicine
+P90|90th percentile pressure|Sleep Medicine
+Pmax|Maximum pressure|Sleep Medicine
+Pmin|Minimum pressure|Sleep Medicine
+Pmed|Median pressure|Sleep Medicine
+SD card|Secure digital memory card for PAP device data|Sleep Medicine
+NCD|National coverage determination|Sleep Medicine
+LCD|Local coverage determination|Sleep Medicine
+PA|Prior authorization|Sleep Medicine
+CPT|Current procedural terminology|Sleep Medicine
+ICD|International classification of diseases|Sleep Medicine
+ICSD|International Classification of Sleep Disorders|Sleep Medicine
+DSM|Diagnostic and Statistical Manual of Mental Disorders|Sleep Medicine
+HCPCS|Healthcare common procedure coding system|Sleep Medicine
+E&M|Evaluation and management|Sleep Medicine
+RPSGT|Registered polysomnographic technologist|Sleep Medicine
+RST|Registered sleep technologist|Sleep Medicine
+CRT|Certified respiratory therapist|Sleep Medicine
+RRT|Registered respiratory therapist|Sleep Medicine
+RT|Respiratory therapist|Sleep Medicine
+RN|Registered nurse|Sleep Medicine
+NP|Nurse practitioner|Sleep Medicine
+PA-C|Physician assistant, certified|Sleep Medicine
+PCP|Primary care physician|Sleep Medicine
+FU|Follow-up|Sleep Medicine
+F/U|Follow-up|Sleep Medicine
+RTC|Return to clinic|Sleep Medicine
+NPO|Nothing by mouth|Sleep Medicine
+OOB|Out of bed|Sleep Medicine
+HOB|Head of bed|Sleep Medicine
+HOBE|Head of bed elevation|Sleep Medicine
+NAWK|Number of awakenings|Sleep Medicine
+SQ|Sleep quality|Sleep Medicine
+ISS|Insufficient sleep syndrome|Sleep Medicine
+BISS|Behaviorally induced insufficient sleep syndrome|Sleep Medicine
+NOS|Not otherwise specified|Sleep Medicine
+DOA|Disorders of arousal|Sleep Medicine
+SRED|Sleep-related eating disorder|Sleep Medicine
+NSRED|Nocturnal sleep-related eating disorder|Sleep Medicine
+SRSD|Sleep-related sexual behavior disorder|Sleep Medicine
+SRDD|Sleep-related dissociative disorder|Sleep Medicine
+SRBD-P|Sleep-related breathing disorder in children|Sleep Medicine
+SRMD|Sleep-related movement disorder|Sleep Medicine
+SRRMD|Sleep-related rhythmic movement disorder|Sleep Medicine
+RMD|Rhythmic movement disorder|Sleep Medicine
+SRLC|Sleep-related leg cramps|Sleep Medicine
+TMD|Temporomandibular disorder|Sleep Medicine
+TMJ|Temporomandibular joint|Sleep Medicine
+EHS|Exploding head syndrome|Sleep Medicine
+SP|Sleep paralysis|Sleep Medicine
+RSP|Recurrent isolated sleep paralysis|Sleep Medicine
+ND|Nightmare disorder|Sleep Medicine
+SRE|Sleep-related enuresis|Sleep Medicine
+CP|Cataplexy|Sleep Medicine
+MSLT-MSL|Mean sleep latency on multiple sleep latency testing|Sleep Medicine
+QOL|Quality of life|Sleep Medicine
+PRO|Patient-reported outcome|Sleep Medicine
+PROMIS|Patient-reported outcomes measurement information system|Sleep Medicine
+PHQ-9|Patient Health Questionnaire 9-item depression scale|Sleep Medicine
+GAD-7|Generalized anxiety disorder 7-item scale|Sleep Medicine
+MoCA|Montreal Cognitive Assessment|Sleep Medicine
+MMSE|Mini-Mental State Examination|Sleep Medicine
+CGI|Clinical Global Impression|Sleep Medicine
+CGI-S|Clinical Global Impression of severity|Sleep Medicine
+CGI-I|Clinical Global Impression of improvement|Sleep Medicine
+PGI-C|Patient Global Impression of change|Sleep Medicine
+VAS|Visual analog scale|Sleep Medicine
+NRS|Numeric rating scale|Sleep Medicine
+MCID|Minimal clinically important difference|Sleep Medicine
+SDS|Sheehan Disability Scale|Sleep Medicine
+NSS|Narcolepsy Severity Scale|Sleep Medicine
+UNS|Ullanlinna Narcolepsy Scale|Sleep Medicine
+SCOPA-SLEEP|Scales for Outcomes in Parkinson Disease sleep scale|Sleep Medicine
+PDSS-2|Parkinson Disease Sleep Scale version 2|Sleep Medicine
+RBDSQ|REM Sleep Behavior Disorder Screening Questionnaire|Sleep Medicine
+RBD1Q|REM sleep behavior disorder single-question screen|Sleep Medicine
+iRBD|Isolated REM sleep behavior disorder|Sleep Medicine
+SINBAR|Sleep Innsbruck Barcelona scoring method for REM sleep without atonia|Sleep Medicine
+SPECT|Single-photon emission computed tomography|Sleep Medicine
+PET|Positron emission tomography|Sleep Medicine
+MIBG|Metaiodobenzylguanidine cardiac scintigraphy|Sleep Medicine

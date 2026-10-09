@@ -1,0 +1,700 @@
+ED|Emergency department|Emergency Medicine
+ER|Emergency room|Emergency Medicine
+EM|Emergency medicine|Emergency Medicine
+EMS|Emergency medical services|Emergency Medicine
+EMT|Emergency medical technician|Emergency Medicine
+EMT-B|Emergency medical technician, basic|Emergency Medicine
+EMT-P|Emergency medical technician, paramedic|Emergency Medicine
+ALS|Advanced life support|Emergency Medicine
+BLS|Basic life support|Emergency Medicine
+ACLS|Advanced cardiac life support|Emergency Medicine
+PALS|Pediatric advanced life support|Emergency Medicine
+ATLS|Advanced trauma life support|Emergency Medicine
+NRP|Neonatal resuscitation program|Emergency Medicine
+CPR|Cardiopulmonary resuscitation|Emergency Medicine
+ROSC|Return of spontaneous circulation|Emergency Medicine
+OHCA|Out-of-hospital cardiac arrest|Emergency Medicine
+IHCA|In-hospital cardiac arrest|Emergency Medicine
+VF|Ventricular fibrillation|Emergency Medicine
+VT|Ventricular tachycardia|Emergency Medicine
+pVT|Pulseless ventricular tachycardia|Emergency Medicine
+PEA|Pulseless electrical activity|Emergency Medicine
+SVT|Supraventricular tachycardia|Emergency Medicine
+AF|Atrial fibrillation|Emergency Medicine
+AFib|Atrial fibrillation|Emergency Medicine
+RVR|Rapid ventricular response|Emergency Medicine
+AED|Automated external defibrillator|Emergency Medicine
+ECPR|Extracorporeal cardiopulmonary resuscitation|Emergency Medicine
+ECMO|Extracorporeal membrane oxygenation|Emergency Medicine
+TTM|Targeted temperature management|Emergency Medicine
+ETCO2|End-tidal carbon dioxide|Emergency Medicine
+EtCO2|End-tidal carbon dioxide|Emergency Medicine
+IO|Intraosseous|Emergency Medicine
+IV|Intravenous|Emergency Medicine
+IM|Intramuscular|Emergency Medicine
+SQ|Subcutaneous|Emergency Medicine
+SC|Subcutaneous|Emergency Medicine
+PO|By mouth|Emergency Medicine
+PR|Per rectum|Emergency Medicine
+SL|Sublingual|Emergency Medicine
+IN|Intranasal|Emergency Medicine
+ET|Endotracheal|Emergency Medicine
+ETT|Endotracheal tube|Emergency Medicine
+NG|Nasogastric|Emergency Medicine
+NGT|Nasogastric tube|Emergency Medicine
+OGT|Orogastric tube|Emergency Medicine
+NPA|Nasopharyngeal airway|Emergency Medicine
+OPA|Oropharyngeal airway|Emergency Medicine
+LMA|Laryngeal mask airway|Emergency Medicine
+SGA|Supraglottic airway|Emergency Medicine
+BVM|Bag-valve-mask|Emergency Medicine
+RSI|Rapid sequence intubation|Emergency Medicine
+DSI|Delayed sequence intubation|Emergency Medicine
+DL|Direct laryngoscopy|Emergency Medicine
+VL|Video laryngoscopy|Emergency Medicine
+CICO|Cannot intubate, cannot oxygenate|Emergency Medicine
+CICV|Cannot intubate, cannot ventilate|Emergency Medicine
+FONA|Front of neck access|Emergency Medicine
+BURP|Backward, upward, rightward pressure on the larynx|Emergency Medicine
+NIV|Noninvasive ventilation|Emergency Medicine
+NIPPV|Noninvasive positive pressure ventilation|Emergency Medicine
+BiPAP|Bilevel positive airway pressure|Emergency Medicine
+CPAP|Continuous positive airway pressure|Emergency Medicine
+HFNC|High-flow nasal cannula|Emergency Medicine
+NC|Nasal cannula|Emergency Medicine
+NRB|Non-rebreather mask|Emergency Medicine
+FiO2|Fraction of inspired oxygen|Emergency Medicine
+PEEP|Positive end-expiratory pressure|Emergency Medicine
+MV|Mechanical ventilation|Emergency Medicine
+TV|Tidal volume|Emergency Medicine
+RR|Respiratory rate|Emergency Medicine
+HR|Heart rate|Emergency Medicine
+BP|Blood pressure|Emergency Medicine
+SBP|Systolic blood pressure|Emergency Medicine
+DBP|Diastolic blood pressure|Emergency Medicine
+MAP|Mean arterial pressure|Emergency Medicine
+SpO2|Peripheral oxygen saturation|Emergency Medicine
+SaO2|Arterial oxygen saturation|Emergency Medicine
+PaO2|Partial pressure of oxygen in arterial blood|Emergency Medicine
+PaCO2|Partial pressure of carbon dioxide in arterial blood|Emergency Medicine
+ABG|Arterial blood gas|Emergency Medicine
+VBG|Venous blood gas|Emergency Medicine
+POC|Point of care|Emergency Medicine
+POCUS|Point-of-care ultrasound|Emergency Medicine
+FAST|Focused assessment with sonography for trauma|Emergency Medicine
+eFAST|Extended focused assessment with sonography for trauma|Emergency Medicine
+RUSH|Rapid ultrasound for shock and hypotension|Emergency Medicine
+BLUE|Bedside lung ultrasound in emergency|Emergency Medicine
+IVC|Inferior vena cava|Emergency Medicine
+RUQ|Right upper quadrant|Emergency Medicine
+LUQ|Left upper quadrant|Emergency Medicine
+RLQ|Right lower quadrant|Emergency Medicine
+LLQ|Left lower quadrant|Emergency Medicine
+CT|Computed tomography|Emergency Medicine
+CTA|Computed tomography angiography|Emergency Medicine
+CTPA|Computed tomography pulmonary angiography|Emergency Medicine
+CTH|Computed tomography of the head|Emergency Medicine
+NCHCT|Non-contrast head computed tomography|Emergency Medicine
+MRI|Magnetic resonance imaging|Emergency Medicine
+MRA|Magnetic resonance angiography|Emergency Medicine
+CXR|Chest x-ray|Emergency Medicine
+KUB|Kidneys, ureters, bladder x-ray|Emergency Medicine
+XR|X-ray|Emergency Medicine
+US|Ultrasound|Emergency Medicine
+ECG|Electrocardiogram|Emergency Medicine
+EKG|Electrocardiogram|Emergency Medicine
+STEMI|ST-elevation myocardial infarction|Emergency Medicine
+NSTEMI|Non-ST-elevation myocardial infarction|Emergency Medicine
+ACS|Acute coronary syndrome|Emergency Medicine
+UA|Unstable angina|Emergency Medicine
+UA|Urinalysis|Emergency Medicine
+AMI|Acute myocardial infarction|Emergency Medicine
+MI|Myocardial infarction|Emergency Medicine
+CAD|Coronary artery disease|Emergency Medicine
+CHF|Congestive heart failure|Emergency Medicine
+HF|Heart failure|Emergency Medicine
+ADHF|Acute decompensated heart failure|Emergency Medicine
+CHD|Coronary heart disease|Emergency Medicine
+PCI|Percutaneous coronary intervention|Emergency Medicine
+CABG|Coronary artery bypass grafting|Emergency Medicine
+LBBB|Left bundle branch block|Emergency Medicine
+RBBB|Right bundle branch block|Emergency Medicine
+LVH|Left ventricular hypertrophy|Emergency Medicine
+NSR|Normal sinus rhythm|Emergency Medicine
+ST|Sinus tachycardia|Emergency Medicine
+SB|Sinus bradycardia|Emergency Medicine
+AV|Atrioventricular|Emergency Medicine
+PVC|Premature ventricular contraction|Emergency Medicine
+PAC|Premature atrial contraction|Emergency Medicine
+WPW|Wolff-Parkinson-White syndrome|Emergency Medicine
+QTc|Corrected QT interval|Emergency Medicine
+TdP|Torsades de pointes|Emergency Medicine
+HEART|History, ECG, age, risk factors, troponin score|Emergency Medicine
+cTn|Cardiac troponin|Emergency Medicine
+hs-cTn|High-sensitivity cardiac troponin|Emergency Medicine
+CK-MB|Creatine kinase myocardial band|Emergency Medicine
+BNP|B-type natriuretic peptide|Emergency Medicine
+NT-proBNP|N-terminal pro B-type natriuretic peptide|Emergency Medicine
+PE|Pulmonary embolism|Emergency Medicine
+PE|Physical examination|Emergency Medicine
+DVT|Deep vein thrombosis|Emergency Medicine
+VTE|Venous thromboembolism|Emergency Medicine
+PERC|Pulmonary embolism rule-out criteria|Emergency Medicine
+PESI|Pulmonary embolism severity index|Emergency Medicine
+sPESI|Simplified pulmonary embolism severity index|Emergency Medicine
+V/Q|Ventilation-perfusion scan|Emergency Medicine
+RV|Right ventricle|Emergency Medicine
+LV|Left ventricle|Emergency Medicine
+EF|Ejection fraction|Emergency Medicine
+LVEF|Left ventricular ejection fraction|Emergency Medicine
+TTE|Transthoracic echocardiogram|Emergency Medicine
+TEE|Transesophageal echocardiogram|Emergency Medicine
+AAA|Abdominal aortic aneurysm|Emergency Medicine
+TAA|Thoracic aortic aneurysm|Emergency Medicine
+AD|Aortic dissection|Emergency Medicine
+ADD-RS|Aortic dissection detection risk score|Emergency Medicine
+HTN|Hypertension|Emergency Medicine
+HTNE|Hypertensive emergency|Emergency Medicine
+HTNU|Hypertensive urgency|Emergency Medicine
+PRES|Posterior reversible encephalopathy syndrome|Emergency Medicine
+CVA|Cerebrovascular accident|Emergency Medicine
+TIA|Transient ischemic attack|Emergency Medicine
+ICH|Intracranial hemorrhage|Emergency Medicine
+IPH|Intraparenchymal hemorrhage|Emergency Medicine
+SAH|Subarachnoid hemorrhage|Emergency Medicine
+SDH|Subdural hematoma|Emergency Medicine
+EDH|Epidural hematoma|Emergency Medicine
+IVH|Intraventricular hemorrhage|Emergency Medicine
+TBI|Traumatic brain injury|Emergency Medicine
+mTBI|Mild traumatic brain injury|Emergency Medicine
+CPP|Cerebral perfusion pressure|Emergency Medicine
+GCS|Glasgow Coma Scale|Emergency Medicine
+NIHSS|National Institutes of Health Stroke Scale|Emergency Medicine
+LVO|Large vessel occlusion|Emergency Medicine
+tPA|Tissue plasminogen activator|Emergency Medicine
+rtPA|Recombinant tissue plasminogen activator|Emergency Medicine
+TNK|Tenecteplase|Emergency Medicine
+LKW|Last known well|Emergency Medicine
+LOC|Loss of consciousness|Emergency Medicine
+AMS|Altered mental status|Emergency Medicine
+LOC|Level of consciousness|Emergency Medicine
+AOx3|Alert and oriented to person, place and time|Emergency Medicine
+A&Ox3|Alert and oriented to person, place and time|Emergency Medicine
+AVPU|Alert, responds to voice, responds to pain, unresponsive|Emergency Medicine
+PERRL|Pupils equal, round, reactive to light|Emergency Medicine
+PERRLA|Pupils equal, round, reactive to light and accommodation|Emergency Medicine
+EOMI|Extraocular movements intact|Emergency Medicine
+HEENT|Head, eyes, ears, nose, throat|Emergency Medicine
+CN|Cranial nerve|Emergency Medicine
+CNS|Central nervous system|Emergency Medicine
+PNS|Peripheral nervous system|Emergency Medicine
+CSF|Cerebrospinal fluid|Emergency Medicine
+LP|Lumbar puncture|Emergency Medicine
+SE|Status epilepticus|Emergency Medicine
+GTC|Generalized tonic-clonic|Emergency Medicine
+PNES|Psychogenic nonepileptic seizure|Emergency Medicine
+EEG|Electroencephalogram|Emergency Medicine
+GBS|Guillain-Barre syndrome|Emergency Medicine
+CRAO|Central retinal artery occlusion|Emergency Medicine
+CRVO|Central retinal vein occlusion|Emergency Medicine
+ACG|Acute angle-closure glaucoma|Emergency Medicine
+IOP|Intraocular pressure|Emergency Medicine
+VA|Visual acuity|Emergency Medicine
+TM|Tympanic membrane|Emergency Medicine
+OM|Otitis media|Emergency Medicine
+OE|Otitis externa|Emergency Medicine
+URI|Upper respiratory infection|Emergency Medicine
+LRTI|Lower respiratory tract infection|Emergency Medicine
+CAP|Community-acquired pneumonia|Emergency Medicine
+HAP|Hospital-acquired pneumonia|Emergency Medicine
+VAP|Ventilator-associated pneumonia|Emergency Medicine
+CURB-65|Confusion, urea, respiratory rate, blood pressure, age 65 score|Emergency Medicine
+PSI|Pneumonia severity index|Emergency Medicine
+COPD|Chronic obstructive pulmonary disease|Emergency Medicine
+AECOPD|Acute exacerbation of chronic obstructive pulmonary disease|Emergency Medicine
+SOB|Shortness of breath|Emergency Medicine
+DOE|Dyspnea on exertion|Emergency Medicine
+PND|Paroxysmal nocturnal dyspnea|Emergency Medicine
+ARDS|Acute respiratory distress syndrome|Emergency Medicine
+ARF|Acute respiratory failure|Emergency Medicine
+ARF|Acute renal failure|Emergency Medicine
+PTX|Pneumothorax|Emergency Medicine
+HTX|Hemothorax|Emergency Medicine
+HPTX|Hemopneumothorax|Emergency Medicine
+CT|Chest tube|Emergency Medicine
+RLL|Right lower lobe|Emergency Medicine
+RML|Right middle lobe|Emergency Medicine
+RUL|Right upper lobe|Emergency Medicine
+LLL|Left lower lobe|Emergency Medicine
+LUL|Left upper lobe|Emergency Medicine
+GI|Gastrointestinal|Emergency Medicine
+GU|Genitourinary|Emergency Medicine
+GYN|Gynecologic|Emergency Medicine
+OB|Obstetrics|Emergency Medicine
+UGIB|Upper gastrointestinal bleed|Emergency Medicine
+LGIB|Lower gastrointestinal bleed|Emergency Medicine
+GIB|Gastrointestinal bleed|Emergency Medicine
+BRBPR|Bright red blood per rectum|Emergency Medicine
+PUD|Peptic ulcer disease|Emergency Medicine
+GERD|Gastroesophageal reflux disease|Emergency Medicine
+GBS|Glasgow-Blatchford bleeding score|Emergency Medicine
+EGD|Esophagogastroduodenoscopy|Emergency Medicine
+ERCP|Endoscopic retrograde cholangiopancreatography|Emergency Medicine
+MRCP|Magnetic resonance cholangiopancreatography|Emergency Medicine
+HIDA|Hepatobiliary iminodiacetic acid scan|Emergency Medicine
+SBO|Small bowel obstruction|Emergency Medicine
+LBO|Large bowel obstruction|Emergency Medicine
+IBD|Inflammatory bowel disease|Emergency Medicine
+IBS|Irritable bowel syndrome|Emergency Medicine
+N/V|Nausea and vomiting|Emergency Medicine
+N/V/D|Nausea, vomiting and diarrhea|Emergency Medicine
+BM|Bowel movement|Emergency Medicine
+BS|Bowel sounds|Emergency Medicine
+RUQ|Right upper quadrant pain|Emergency Medicine
+SBP|Spontaneous bacterial peritonitis|Emergency Medicine
+HE|Hepatic encephalopathy|Emergency Medicine
+DKA|Diabetic ketoacidosis|Emergency Medicine
+HHS|Hyperosmolar hyperglycemic state|Emergency Medicine
+DM|Diabetes mellitus|Emergency Medicine
+T1DM|Type 1 diabetes mellitus|Emergency Medicine
+T2DM|Type 2 diabetes mellitus|Emergency Medicine
+FSBG|Fingerstick blood glucose|Emergency Medicine
+POCG|Point-of-care glucose|Emergency Medicine
+BG|Blood glucose|Emergency Medicine
+AG|Anion gap|Emergency Medicine
+AGMA|Anion gap metabolic acidosis|Emergency Medicine
+NAGMA|Non-anion gap metabolic acidosis|Emergency Medicine
+HAGMA|High anion gap metabolic acidosis|Emergency Medicine
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Emergency Medicine
+DI|Diabetes insipidus|Emergency Medicine
+AKI|Acute kidney injury|Emergency Medicine
+CKD|Chronic kidney disease|Emergency Medicine
+ESRD|End-stage renal disease|Emergency Medicine
+HD|Hemodialysis|Emergency Medicine
+CRRT|Continuous renal replacement therapy|Emergency Medicine
+BUN|Blood urea nitrogen|Emergency Medicine
+Cr|Creatinine|Emergency Medicine
+GFR|Glomerular filtration rate|Emergency Medicine
+eGFR|Estimated glomerular filtration rate|Emergency Medicine
+CMP|Comprehensive metabolic panel|Emergency Medicine
+BMP|Basic metabolic panel|Emergency Medicine
+CBC|Complete blood count|Emergency Medicine
+CBC/diff|Complete blood count with differential|Emergency Medicine
+WBC|White blood cell count|Emergency Medicine
+RBC|Red blood cell|Emergency Medicine
+Hgb|Hemoglobin|Emergency Medicine
+Hb|Hemoglobin|Emergency Medicine
+Hct|Hematocrit|Emergency Medicine
+Plt|Platelet count|Emergency Medicine
+PT|Prothrombin time|Emergency Medicine
+INR|International normalized ratio|Emergency Medicine
+PTT|Partial thromboplastin time|Emergency Medicine
+aPTT|Activated partial thromboplastin time|Emergency Medicine
+ACT|Activated clotting time|Emergency Medicine
+LFTs|Liver function tests|Emergency Medicine
+AST|Aspartate aminotransferase|Emergency Medicine
+ALT|Alanine aminotransferase|Emergency Medicine
+ALP|Alkaline phosphatase|Emergency Medicine
+LDH|Lactate dehydrogenase|Emergency Medicine
+CK|Creatine kinase|Emergency Medicine
+CPK|Creatine phosphokinase|Emergency Medicine
+TSH|Thyroid-stimulating hormone|Emergency Medicine
+T4|Thyroxine|Emergency Medicine
+CRP|C-reactive protein|Emergency Medicine
+ESR|Erythrocyte sedimentation rate|Emergency Medicine
+PCT|Procalcitonin|Emergency Medicine
+BCx|Blood culture|Emergency Medicine
+UCx|Urine culture|Emergency Medicine
+UDS|Urine drug screen|Emergency Medicine
+Utox|Urine toxicology screen|Emergency Medicine
+BAC|Blood alcohol concentration|Emergency Medicine
+EtOH|Ethyl alcohol|Emergency Medicine
+hCG|Human chorionic gonadotropin|Emergency Medicine
+UPT|Urine pregnancy test|Emergency Medicine
+Na|Sodium|Emergency Medicine
+K|Potassium|Emergency Medicine
+Cl|Chloride|Emergency Medicine
+HCO3|Bicarbonate|Emergency Medicine
+Ca|Calcium|Emergency Medicine
+iCa|Ionized calcium|Emergency Medicine
+Mg|Magnesium|Emergency Medicine
+Phos|Phosphate|Emergency Medicine
+O2|Oxygen|Emergency Medicine
+CO2|Carbon dioxide|Emergency Medicine
+CO|Carbon monoxide|Emergency Medicine
+COHb|Carboxyhemoglobin|Emergency Medicine
+MetHb|Methemoglobin|Emergency Medicine
+NS|Normal saline|Emergency Medicine
+LR|Lactated Ringer's solution|Emergency Medicine
+D5W|Dextrose 5% in water|Emergency Medicine
+D10|Dextrose 10% in water|Emergency Medicine
+D50|Dextrose 50% in water|Emergency Medicine
+D5NS|Dextrose 5% in normal saline|Emergency Medicine
+HTS|Hypertonic saline|Emergency Medicine
+NaHCO3|Sodium bicarbonate|Emergency Medicine
+KCl|Potassium chloride|Emergency Medicine
+CaCl|Calcium chloride|Emergency Medicine
+PRBC|Packed red blood cells|Emergency Medicine
+FFP|Fresh frozen plasma|Emergency Medicine
+PCC|Prothrombin complex concentrate|Emergency Medicine
+TXA|Tranexamic acid|Emergency Medicine
+MTP|Massive transfusion protocol|Emergency Medicine
+LTOWB|Low-titer group O whole blood|Emergency Medicine
+TEG|Thromboelastography|Emergency Medicine
+ROTEM|Rotational thromboelastometry|Emergency Medicine
+DIC|Disseminated intravascular coagulation|Emergency Medicine
+HIT|Heparin-induced thrombocytopenia|Emergency Medicine
+ITP|Immune thrombocytopenic purpura|Emergency Medicine
+TTP|Thrombotic thrombocytopenic purpura|Emergency Medicine
+HUS|Hemolytic uremic syndrome|Emergency Medicine
+SCD|Sickle cell disease|Emergency Medicine
+VOC|Vaso-occlusive crisis|Emergency Medicine
+ACS|Acute chest syndrome|Emergency Medicine
+UFH|Unfractionated heparin|Emergency Medicine
+LMWH|Low molecular weight heparin|Emergency Medicine
+DOAC|Direct oral anticoagulant|Emergency Medicine
+NOAC|Novel oral anticoagulant|Emergency Medicine
+ASA|Aspirin|Emergency Medicine
+NTG|Nitroglycerin|Emergency Medicine
+NSAID|Nonsteroidal anti-inflammatory drug|Emergency Medicine
+APAP|Acetaminophen|Emergency Medicine
+NAC|N-acetylcysteine|Emergency Medicine
+PPI|Proton pump inhibitor|Emergency Medicine
+ACEi|Angiotensin-converting enzyme inhibitor|Emergency Medicine
+ARB|Angiotensin receptor blocker|Emergency Medicine
+BB|Beta blocker|Emergency Medicine
+CCB|Calcium channel blocker|Emergency Medicine
+SSRI|Selective serotonin reuptake inhibitor|Emergency Medicine
+TCA|Tricyclic antidepressant|Emergency Medicine
+MAOI|Monoamine oxidase inhibitor|Emergency Medicine
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Emergency Medicine
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Emergency Medicine
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Emergency Medicine
+BZD|Benzodiazepine|Emergency Medicine
+NMB|Neuromuscular blocker|Emergency Medicine
+NMBA|Neuromuscular blocking agent|Emergency Medicine
+SCh|Succinylcholine|Emergency Medicine
+OD|Overdose|Emergency Medicine
+OD|Right eye|Emergency Medicine
+OS|Left eye|Emergency Medicine
+OU|Both eyes|Emergency Medicine
+HI|Homicidal ideation|Emergency Medicine
+SIRS|Systemic inflammatory response syndrome|Emergency Medicine
+qSOFA|Quick sequential organ failure assessment|Emergency Medicine
+SOFA|Sequential organ failure assessment|Emergency Medicine
+MODS|Multiple organ dysfunction syndrome|Emergency Medicine
+EGDT|Early goal-directed therapy|Emergency Medicine
+CVP|Central venous pressure|Emergency Medicine
+ScvO2|Central venous oxygen saturation|Emergency Medicine
+CVC|Central venous catheter|Emergency Medicine
+PICC|Peripherally inserted central catheter|Emergency Medicine
+PIV|Peripheral intravenous catheter|Emergency Medicine
+EJ|External jugular|Emergency Medicine
+IJ|Internal jugular|Emergency Medicine
+SCV|Subclavian vein|Emergency Medicine
+UTI|Urinary tract infection|Emergency Medicine
+CAUTI|Catheter-associated urinary tract infection|Emergency Medicine
+STI|Sexually transmitted infection|Emergency Medicine
+PID|Pelvic inflammatory disease|Emergency Medicine
+HIV|Human immunodeficiency virus|Emergency Medicine
+PEP|Post-exposure prophylaxis|Emergency Medicine
+PrEP|Pre-exposure prophylaxis|Emergency Medicine
+nPEP|Non-occupational post-exposure prophylaxis|Emergency Medicine
+SSTI|Skin and soft tissue infection|Emergency Medicine
+I&D|Incision and drainage|Emergency Medicine
+MRSA|Methicillin-resistant Staphylococcus aureus|Emergency Medicine
+MSSA|Methicillin-sensitive Staphylococcus aureus|Emergency Medicine
+VRE|Vancomycin-resistant enterococcus|Emergency Medicine
+ESBL|Extended-spectrum beta-lactamase|Emergency Medicine
+C diff|Clostridioides difficile|Emergency Medicine
+GAS|Group A streptococcus|Emergency Medicine
+GBS|Group B streptococcus|Emergency Medicine
+RSV|Respiratory syncytial virus|Emergency Medicine
+COVID-19|Coronavirus disease 2019|Emergency Medicine
+PCR|Polymerase chain reaction|Emergency Medicine
+PRN|As needed|Emergency Medicine
+STAT|Immediately|Emergency Medicine
+NPO|Nothing by mouth|Emergency Medicine
+QD|Daily|Emergency Medicine
+BID|Twice daily|Emergency Medicine
+TID|Three times daily|Emergency Medicine
+QID|Four times daily|Emergency Medicine
+QHS|Every night at bedtime|Emergency Medicine
+HS|At bedtime|Emergency Medicine
+AC|Before meals|Emergency Medicine
+PC|After meals|Emergency Medicine
+Rx|Prescription or treatment|Emergency Medicine
+Dx|Diagnosis|Emergency Medicine
+Tx|Treatment|Emergency Medicine
+Hx|History|Emergency Medicine
+Sx|Symptoms|Emergency Medicine
+Fx|Fracture|Emergency Medicine
+Fx|Family history|Emergency Medicine
+Px|Prognosis|Emergency Medicine
+DDx|Differential diagnosis|Emergency Medicine
+Bx|Biopsy|Emergency Medicine
+Cx|Culture|Emergency Medicine
+Abx|Antibiotics|Emergency Medicine
+CC|Chief complaint|Emergency Medicine
+HPI|History of present illness|Emergency Medicine
+ROS|Review of systems|Emergency Medicine
+PMH|Past medical history|Emergency Medicine
+PSH|Past surgical history|Emergency Medicine
+FH|Family history|Emergency Medicine
+SH|Social history|Emergency Medicine
+PMHx|Past medical history|Emergency Medicine
+PSHx|Past surgical history|Emergency Medicine
+FHx|Family history|Emergency Medicine
+SHx|Social history|Emergency Medicine
+NKDA|No known drug allergies|Emergency Medicine
+NKA|No known allergies|Emergency Medicine
+MDM|Medical decision making|Emergency Medicine
+A&P|Assessment and plan|Emergency Medicine
+DNR|Do not resuscitate|Emergency Medicine
+DNI|Do not intubate|Emergency Medicine
+POLST|Physician orders for life-sustaining treatment|Emergency Medicine
+AMA|Against medical advice|Emergency Medicine
+LWBS|Left without being seen|Emergency Medicine
+s/p|Status post|Emergency Medicine
+c/o|Complains of|Emergency Medicine
+d/c|Discharge or discontinue|Emergency Medicine
+f/u|Follow-up|Emergency Medicine
+h/o|History of|Emergency Medicine
+r/o|Rule out|Emergency Medicine
+y/o|Years old|Emergency Medicine
+YOM|Year-old male|Emergency Medicine
+YOF|Year-old female|Emergency Medicine
+WNL|Within normal limits|Emergency Medicine
+NAD|No acute distress|Emergency Medicine
+RRR|Regular rate and rhythm|Emergency Medicine
+CTAB|Clear to auscultation bilaterally|Emergency Medicine
+CTA|Clear to auscultation|Emergency Medicine
+NCAT|Normocephalic, atraumatic|Emergency Medicine
+AT|Atraumatic|Emergency Medicine
+ROM|Range of motion|Emergency Medicine
+NVI|Neurovascularly intact|Emergency Medicine
+CRT|Capillary refill time|Emergency Medicine
+JVD|Jugular venous distension|Emergency Medicine
+JVP|Jugular venous pressure|Emergency Medicine
+LE|Lower extremity|Emergency Medicine
+UE|Upper extremity|Emergency Medicine
+BLE|Bilateral lower extremities|Emergency Medicine
+BUE|Bilateral upper extremities|Emergency Medicine
+RLE|Right lower extremity|Emergency Medicine
+LLE|Left lower extremity|Emergency Medicine
+RUE|Right upper extremity|Emergency Medicine
+LUE|Left upper extremity|Emergency Medicine
+TTP|Tender to palpation|Emergency Medicine
+TTP|Tenderness to palpation|Emergency Medicine
+LLQ|Left lower quadrant pain|Emergency Medicine
+MVC|Motor vehicle collision|Emergency Medicine
+MVA|Motor vehicle accident|Emergency Medicine
+MCC|Motorcycle collision|Emergency Medicine
+GSW|Gunshot wound|Emergency Medicine
+SW|Stab wound|Emergency Medicine
+GSWH|Gunshot wound to the head|Emergency Medicine
+GSWA|Gunshot wound to the abdomen|Emergency Medicine
+GLF|Ground-level fall|Emergency Medicine
+ATV|All-terrain vehicle|Emergency Medicine
+PVA|Pedestrian versus auto|Emergency Medicine
+HBC|Hit by car|Emergency Medicine
+EtOH|Alcohol intoxication|Emergency Medicine
+LOC|Loss of consciousness after injury|Emergency Medicine
+C-spine|Cervical spine|Emergency Medicine
+T-spine|Thoracic spine|Emergency Medicine
+L-spine|Lumbar spine|Emergency Medicine
+SCI|Spinal cord injury|Emergency Medicine
+SCIWORA|Spinal cord injury without radiographic abnormality|Emergency Medicine
+TLICS|Thoracolumbar injury classification and severity score|Emergency Medicine
+ISS|Injury severity score|Emergency Medicine
+RTS|Revised trauma score|Emergency Medicine
+ABC|Airway, breathing, circulation|Emergency Medicine
+ABCDE|Airway, breathing, circulation, disability, exposure|Emergency Medicine
+XABCDE|Exsanguinating hemorrhage, airway, breathing, circulation, disability, exposure|Emergency Medicine
+MARCH|Massive hemorrhage, airway, respiratory, circulation, hypothermia or head injury|Emergency Medicine
+AMPLE|Allergies, medications, past history, last meal, events|Emergency Medicine
+SAMPLE|Signs and symptoms, allergies, medications, past history, last meal, events|Emergency Medicine
+OPQRST|Onset, provocation, quality, radiation, severity, time|Emergency Medicine
+PQRST|Provocation, quality, radiation, severity, time|Emergency Medicine
+DCAP-BTLS|Deformities, contusions, abrasions, punctures or penetrations, burns, tenderness, lacerations, swelling|Emergency Medicine
+PAT|Pediatric assessment triangle|Emergency Medicine
+ESI|Emergency severity index|Emergency Medicine
+CTAS|Canadian triage and acuity scale|Emergency Medicine
+START|Simple triage and rapid treatment|Emergency Medicine
+MCI|Mass casualty incident|Emergency Medicine
+REBOA|Resuscitative endovascular balloon occlusion of the aorta|Emergency Medicine
+RT|Resuscitative thoracotomy|Emergency Medicine
+EDT|Emergency department thoracotomy|Emergency Medicine
+DPL|Diagnostic peritoneal lavage|Emergency Medicine
+OR|Operating room|Emergency Medicine
+ICU|Intensive care unit|Emergency Medicine
+MICU|Medical intensive care unit|Emergency Medicine
+SICU|Surgical intensive care unit|Emergency Medicine
+CCU|Cardiac care unit|Emergency Medicine
+NICU|Neonatal intensive care unit|Emergency Medicine
+PICU|Pediatric intensive care unit|Emergency Medicine
+PACU|Post-anesthesia care unit|Emergency Medicine
+OBS|Observation unit|Emergency Medicine
+CDU|Clinical decision unit|Emergency Medicine
+EDOU|Emergency department observation unit|Emergency Medicine
+L&D|Labor and delivery|Emergency Medicine
+PCP|Primary care provider|Emergency Medicine
+PCP|Phencyclidine|Emergency Medicine
+APP|Advanced practice provider|Emergency Medicine
+PA|Physician assistant|Emergency Medicine
+NP|Nurse practitioner|Emergency Medicine
+RN|Registered nurse|Emergency Medicine
+CNA|Certified nursing assistant|Emergency Medicine
+RT|Respiratory therapist|Emergency Medicine
+SNF|Skilled nursing facility|Emergency Medicine
+LTC|Long-term care|Emergency Medicine
+LTACH|Long-term acute care hospital|Emergency Medicine
+ALF|Assisted living facility|Emergency Medicine
+EHR|Electronic health record|Emergency Medicine
+CPOE|Computerized provider order entry|Emergency Medicine
+EMTALA|Federal law requiring emergency screening and stabilization|Emergency Medicine
+CIWA|Clinical institute withdrawal assessment for alcohol|Emergency Medicine
+CIWA-Ar|Clinical institute withdrawal assessment for alcohol, revised|Emergency Medicine
+COWS|Clinical opiate withdrawal scale|Emergency Medicine
+DTs|Delirium tremens|Emergency Medicine
+AWS|Alcohol withdrawal syndrome|Emergency Medicine
+OUD|Opioid use disorder|Emergency Medicine
+AUD|Alcohol use disorder|Emergency Medicine
+MOUD|Medications for opioid use disorder|Emergency Medicine
+IVDU|Intravenous drug use|Emergency Medicine
+PWID|People who inject drugs|Emergency Medicine
+NMS|Neuroleptic malignant syndrome|Emergency Medicine
+SS|Serotonin syndrome|Emergency Medicine
+MH|Malignant hyperthermia|Emergency Medicine
+LAST|Local anesthetic systemic toxicity|Emergency Medicine
+ILE|Intravenous lipid emulsion|Emergency Medicine
+AC|Activated charcoal|Emergency Medicine
+MDAC|Multiple-dose activated charcoal|Emergency Medicine
+EDTA|Ethylenediaminetetraacetic acid|Emergency Medicine
+OP|Organophosphate|Emergency Medicine
+HBO|Hyperbaric oxygen|Emergency Medicine
+HBOT|Hyperbaric oxygen therapy|Emergency Medicine
+CN|Cyanide|Emergency Medicine
+TBSA|Total body surface area|Emergency Medicine
+BSA|Body surface area|Emergency Medicine
+PSVT|Paroxysmal supraventricular tachycardia|Emergency Medicine
+AVNRT|Atrioventricular nodal reentrant tachycardia|Emergency Medicine
+AVRT|Atrioventricular reentrant tachycardia|Emergency Medicine
+CHB|Complete heart block|Emergency Medicine
+AVB|Atrioventricular block|Emergency Medicine
+TVP|Transvenous pacing|Emergency Medicine
+PPM|Permanent pacemaker|Emergency Medicine
+ICD|Implantable cardioverter-defibrillator|Emergency Medicine
+LVAD|Left ventricular assist device|Emergency Medicine
+IABP|Intra-aortic balloon pump|Emergency Medicine
+AS|Aortic stenosis|Emergency Medicine
+AR|Aortic regurgitation|Emergency Medicine
+MR|Mitral regurgitation|Emergency Medicine
+MS|Mitral stenosis|Emergency Medicine
+MVP|Mitral valve prolapse|Emergency Medicine
+HOCM|Hypertrophic obstructive cardiomyopathy|Emergency Medicine
+TTS|Takotsubo syndrome|Emergency Medicine
+SCAD|Spontaneous coronary artery dissection|Emergency Medicine
+PAD|Peripheral arterial disease|Emergency Medicine
+ALI|Acute limb ischemia|Emergency Medicine
+PH|Pulmonary hypertension|Emergency Medicine
+CTEPH|Chronic thromboembolic pulmonary hypertension|Emergency Medicine
+NPPV|Noninvasive positive pressure ventilation|Emergency Medicine
+OSA|Obstructive sleep apnea|Emergency Medicine
+HAPE|High-altitude pulmonary edema|Emergency Medicine
+HACE|High-altitude cerebral edema|Emergency Medicine
+AMS|Acute mountain sickness|Emergency Medicine
+DCS|Decompression sickness|Emergency Medicine
+AGE|Arterial gas embolism|Emergency Medicine
+NPE|Negative pressure pulmonary edema|Emergency Medicine
+SABA|Short-acting beta agonist|Emergency Medicine
+LABA|Long-acting beta agonist|Emergency Medicine
+ICS|Inhaled corticosteroid|Emergency Medicine
+SAMA|Short-acting muscarinic antagonist|Emergency Medicine
+MDI|Metered-dose inhaler|Emergency Medicine
+PEF|Peak expiratory flow|Emergency Medicine
+FEV1|Forced expiratory volume in one second|Emergency Medicine
+FVC|Forced vital capacity|Emergency Medicine
+PFT|Pulmonary function test|Emergency Medicine
+HAE|Hereditary angioedema|Emergency Medicine
+SJS|Stevens-Johnson syndrome|Emergency Medicine
+TEN|Toxic epidermal necrolysis|Emergency Medicine
+NF|Necrotizing fasciitis|Emergency Medicine
+NSTI|Necrotizing soft tissue infection|Emergency Medicine
+TSS|Toxic shock syndrome|Emergency Medicine
+RMSF|Rocky Mountain spotted fever|Emergency Medicine
+HSV|Herpes simplex virus|Emergency Medicine
+VZV|Varicella zoster virus|Emergency Medicine
+EBV|Epstein-Barr virus|Emergency Medicine
+CMV|Cytomegalovirus|Emergency Medicine
+TB|Tuberculosis|Emergency Medicine
+PCP|Pneumocystis pneumonia|Emergency Medicine
+OI|Opportunistic infection|Emergency Medicine
+FUO|Fever of unknown origin|Emergency Medicine
+FWS|Fever without source|Emergency Medicine
+SBI|Serious bacterial infection|Emergency Medicine
+IBI|Invasive bacterial infection|Emergency Medicine
+BRUE|Brief resolved unexplained event|Emergency Medicine
+SIDS|Sudden infant death syndrome|Emergency Medicine
+SUID|Sudden unexpected infant death|Emergency Medicine
+NAT|Non-accidental trauma|Emergency Medicine
+AHT|Abusive head trauma|Emergency Medicine
+IPV|Intimate partner violence|Emergency Medicine
+SANE|Sexual assault nurse examiner|Emergency Medicine
+SAFE|Sexual assault forensic examination|Emergency Medicine
+CPS|Child protective services|Emergency Medicine
+APS|Adult protective services|Emergency Medicine
+EC|Emergency contraception|Emergency Medicine
+LMP|Last menstrual period|Emergency Medicine
+EGA|Estimated gestational age|Emergency Medicine
+IUP|Intrauterine pregnancy|Emergency Medicine
+EP|Ectopic pregnancy|Emergency Medicine
+PUL|Pregnancy of unknown location|Emergency Medicine
+SAB|Spontaneous abortion|Emergency Medicine
+TAB|Therapeutic abortion|Emergency Medicine
+VB|Vaginal bleeding|Emergency Medicine
+PPH|Postpartum hemorrhage|Emergency Medicine
+PROM|Premature rupture of membranes|Emergency Medicine
+PPROM|Preterm premature rupture of membranes|Emergency Medicine
+SROM|Spontaneous rupture of membranes|Emergency Medicine
+PTL|Preterm labor|Emergency Medicine
+PIH|Pregnancy-induced hypertension|Emergency Medicine
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Emergency Medicine
+FHT|Fetal heart tones|Emergency Medicine
+FHR|Fetal heart rate|Emergency Medicine
+BPH|Benign prostatic hyperplasia|Emergency Medicine
+AUR|Acute urinary retention|Emergency Medicine
+PVR|Post-void residual|Emergency Medicine
+UOP|Urine output|Emergency Medicine
+SPC|Suprapubic catheter|Emergency Medicine
+CBI|Continuous bladder irrigation|Emergency Medicine
+STONE|Sex, timing, origin, nausea, erythrocytes score for kidney stones|Emergency Medicine
+UTI|Urinary infection|Emergency Medicine
+GN|Glomerulonephritis|Emergency Medicine
+RPGN|Rapidly progressive glomerulonephritis|Emergency Medicine
+ATN|Acute tubular necrosis|Emergency Medicine
+AIN|Acute interstitial nephritis|Emergency Medicine
+RTA|Renal tubular acidosis|Emergency Medicine
+FENa|Fractional excretion of sodium|Emergency Medicine
+FEUrea|Fractional excretion of urea|Emergency Medicine
+RRT|Renal replacement therapy|Emergency Medicine
+RRT|Rapid response team|Emergency Medicine
+CAPD|Continuous ambulatory peritoneal dialysis|Emergency Medicine
+PD|Peritoneal dialysis|Emergency Medicine
+AVF|Arteriovenous fistula|Emergency Medicine
+AVG|Arteriovenous graft|Emergency Medicine
+RSBI|Rapid shallow breathing index|Emergency Medicine
+SBT|Spontaneous breathing trial|Emergency Medicine
+VC|Volume control|Emergency Medicine
+PC|Pressure control|Emergency Medicine
+AC|Assist control|Emergency Medicine
+SIMV|Synchronized intermittent mandatory ventilation|Emergency Medicine
+PS|Pressure support|Emergency Medicine
+PSV|Pressure support ventilation|Emergency Medicine
+APRV|Airway pressure release ventilation|Emergency Medicine
+IBW|Ideal body weight|Emergency Medicine
+PBW|Predicted body weight|Emergency Medicine
+I:E|Inspiratory to expiratory ratio|Emergency Medicine
+Pplat|Plateau pressure|Emergency Medicine
+PIP|Peak inspiratory pressure|Emergency Medicine
+Auto-PEEP|Intrinsic positive end-expiratory pressure|Emergency Medicine

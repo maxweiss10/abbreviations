@@ -1,0 +1,627 @@
+DIEP|Deep inferior epigastric perforator (flap)|Plastic Surgery
+SIEA|Superficial inferior epigastric artery (flap)|Plastic Surgery
+TRAM|Transverse rectus abdominis myocutaneous (flap)|Plastic Surgery
+pTRAM|Pedicled transverse rectus abdominis myocutaneous flap|Plastic Surgery
+fTRAM|Free transverse rectus abdominis myocutaneous flap|Plastic Surgery
+TDAP|Thoracodorsal artery perforator (flap)|Plastic Surgery
+SGAP|Superior gluteal artery perforator (flap)|Plastic Surgery
+IGAP|Inferior gluteal artery perforator (flap)|Plastic Surgery
+PAP|Profunda artery perforator (flap)|Plastic Surgery
+TUG|Transverse upper gracilis (flap)|Plastic Surgery
+ALT|Anterolateral thigh (flap)|Plastic Surgery
+ALT|Alanine aminotransferase|Plastic Surgery
+SCIP|Superficial circumflex iliac artery perforator (flap)|Plastic Surgery
+DCIA|Deep circumflex iliac artery (flap)|Plastic Surgery
+ICAP|Intercostal artery perforator (flap)|Plastic Surgery
+SAP|Serratus anterior artery perforator (flap)|Plastic Surgery
+RFF|Radial forearm free (flap)|Plastic Surgery
+RFFF|Radial forearm free flap|Plastic Surgery
+FFF|Free fibula flap|Plastic Surgery
+FFFF|Free fibula flap|Plastic Surgery
+VCA|Vascularized composite allotransplantation|Plastic Surgery
+PMMF|Pectoralis major myocutaneous flap|Plastic Surgery
+SCM|Sternocleidomastoid|Plastic Surgery
+TFL|Tensor fasciae latae|Plastic Surgery
+GCM|Gastrocnemius muscle|Plastic Surgery
+VRAM|Vertical rectus abdominis myocutaneous (flap)|Plastic Surgery
+VRAM|Vertical rectus abdominis muscle (flap)|Plastic Surgery
+TAP|Transversus abdominis plane (block)|Plastic Surgery
+RSL|Reverse sural (flap)|Plastic Surgery
+STSG|Split-thickness skin graft|Plastic Surgery
+FTSG|Full-thickness skin graft|Plastic Surgery
+SSG|Split-skin graft|Plastic Surgery
+SSG|Split-thickness skin graft|Plastic Surgery
+CEA|Cultured epithelial autograft|Plastic Surgery
+ADM|Acellular dermal matrix|Plastic Surgery
+NPWT|Negative pressure wound therapy|Plastic Surgery
+VAC|Vacuum-assisted closure|Plastic Surgery
+TNP|Topical negative pressure therapy|Plastic Surgery
+NPWTi|Negative pressure wound therapy with instillation|Plastic Surgery
+TBSA|Total body surface area|Plastic Surgery
+%TBSA|Percent of total body surface area burned|Plastic Surgery
+SPT|Superficial partial thickness (burn)|Plastic Surgery
+DPT|Deep partial thickness (burn)|Plastic Surgery
+FT|Full thickness (burn or graft)|Plastic Surgery
+SPTB|Superficial partial thickness burn|Plastic Surgery
+DPTB|Deep partial thickness burn|Plastic Surgery
+FTB|Full thickness burn|Plastic Surgery
+BSA|Body surface area|Plastic Surgery
+BCU|Burn care unit|Plastic Surgery
+BICU|Burn intensive care unit|Plastic Surgery
+SJS|Stevens-Johnson syndrome|Plastic Surgery
+TEN|Toxic epidermal necrolysis|Plastic Surgery
+SSSS|Staphylococcal scalded skin syndrome|Plastic Surgery
+CO|Carbon monoxide|Plastic Surgery
+COHb|Carboxyhemoglobin|Plastic Surgery
+HBO|Hyperbaric oxygen|Plastic Surgery
+HBOT|Hyperbaric oxygen therapy|Plastic Surgery
+ATA|Atmospheres absolute|Plastic Surgery
+NSTI|Necrotizing soft tissue infection|Plastic Surgery
+LRINEC|Laboratory risk indicator for necrotizing fasciitis|Plastic Surgery
+SSI|Surgical site infection|Plastic Surgery
+SSTI|Skin and soft tissue infection|Plastic Surgery
+I&D|Incision and drainage|Plastic Surgery
+MRSA|Methicillin-resistant Staphylococcus aureus|Plastic Surgery
+MSSA|Methicillin-sensitive Staphylococcus aureus|Plastic Surgery
+VRE|Vancomycin-resistant enterococcus|Plastic Surgery
+ESBL|Extended-spectrum beta-lactamase|Plastic Surgery
+DFU|Diabetic foot ulcer|Plastic Surgery
+DFI|Diabetic foot infection|Plastic Surgery
+PU|Pressure ulcer|Plastic Surgery
+PI|Pressure injury|Plastic Surgery
+VLU|Venous leg ulcer|Plastic Surgery
+CVI|Chronic venous insufficiency|Plastic Surgery
+PAD|Peripheral arterial disease|Plastic Surgery
+ABI|Ankle-brachial index|Plastic Surgery
+TBI|Toe-brachial index|Plastic Surgery
+TcPO2|Transcutaneous oxygen pressure|Plastic Surgery
+CLI|Critical limb ischemia|Plastic Surgery
+CLTI|Chronic limb-threatening ischemia|Plastic Surgery
+SPY|Indocyanine green fluorescence angiography (perfusion imaging)|Plastic Surgery
+ICG|Indocyanine green|Plastic Surgery
+ICGA|Indocyanine green angiography|Plastic Surgery
+CTA|Computed tomography angiography|Plastic Surgery
+MRA|Magnetic resonance angiography|Plastic Surgery
+CT|Computed tomography|Plastic Surgery
+MRI|Magnetic resonance imaging|Plastic Surgery
+US|Ultrasound|Plastic Surgery
+BMI|Body mass index|Plastic Surgery
+SAL|Suction-assisted lipectomy|Plastic Surgery
+SAL|Suction-assisted lipoplasty|Plastic Surgery
+UAL|Ultrasound-assisted liposuction|Plastic Surgery
+PAL|Power-assisted liposuction|Plastic Surgery
+LAL|Laser-assisted liposuction|Plastic Surgery
+BBL|Brazilian butt lift|Plastic Surgery
+SVF|Stromal vascular fraction|Plastic Surgery
+PRP|Platelet-rich plasma|Plastic Surgery
+PRF|Platelet-rich fibrin|Plastic Surgery
+ASC|Adipose-derived stem cell|Plastic Surgery
+ADSC|Adipose-derived stem cell|Plastic Surgery
+CAL|Cell-assisted lipotransfer|Plastic Surgery
+AFG|Autologous fat grafting|Plastic Surgery
+LD flap|Latissimus dorsi flap|Plastic Surgery
+BIA-ALCL|Breast implant-associated anaplastic large cell lymphoma|Plastic Surgery
+ALCL|Anaplastic large cell lymphoma|Plastic Surgery
+BII|Breast implant illness|Plastic Surgery
+CC|Capsular contracture|Plastic Surgery
+BR|Breast reconstruction|Plastic Surgery
+IBR|Immediate breast reconstruction|Plastic Surgery
+DBR|Delayed breast reconstruction|Plastic Surgery
+DTI|Direct-to-implant (breast reconstruction)|Plastic Surgery
+DTI|Deep tissue injury|Plastic Surgery
+TE|Tissue expander|Plastic Surgery
+TE/I|Tissue expander to implant (reconstruction)|Plastic Surgery
+PMRT|Postmastectomy radiation therapy|Plastic Surgery
+SSM|Skin-sparing mastectomy|Plastic Surgery
+NSM|Nipple-sparing mastectomy|Plastic Surgery
+TM|Total mastectomy|Plastic Surgery
+MRM|Modified radical mastectomy|Plastic Surgery
+BCT|Breast-conserving therapy|Plastic Surgery
+BCS|Breast-conserving surgery|Plastic Surgery
+RRM|Risk-reducing mastectomy|Plastic Surgery
+CPM|Contralateral prophylactic mastectomy|Plastic Surgery
+NAC|Nipple-areola complex|Plastic Surgery
+NAC|Neoadjuvant chemotherapy|Plastic Surgery
+NAR|Nipple-areola reconstruction|Plastic Surgery
+SLNB|Sentinel lymph node biopsy|Plastic Surgery
+SLN|Sentinel lymph node|Plastic Surgery
+ALND|Axillary lymph node dissection|Plastic Surgery
+LVA|Lymphaticovenous anastomosis|Plastic Surgery
+LVB|Lymphaticovenous bypass|Plastic Surgery
+VLNT|Vascularized lymph node transfer|Plastic Surgery
+BRCA|Breast cancer susceptibility (hereditary breast cancer testing)|Plastic Surgery
+BCRL|Breast cancer-related lymphedema|Plastic Surgery
+CDT|Complex decongestive therapy|Plastic Surgery
+BIS|Bioimpedance spectroscopy|Plastic Surgery
+IMF|Inframammary fold|Plastic Surgery
+SN|Sternal notch|Plastic Surgery
+BW|Base width|Plastic Surgery
+BH|Breast height|Plastic Surgery
+BD|Breast diameter|Plastic Surgery
+BIA|Breast implant-associated|Plastic Surgery
+BR|Breast reduction|Plastic Surgery
+RM|Reduction mammaplasty|Plastic Surgery
+MP|Mastopexy|Plastic Surgery
+SPAIR|Short scar periareolar inferior pedicle reduction|Plastic Surgery
+FFDM|Full-field digital mammography|Plastic Surgery
+DBT|Digital breast tomosynthesis|Plastic Surgery
+BI-RADS|Breast Imaging Reporting and Data System|Plastic Surgery
+DCIS|Ductal carcinoma in situ|Plastic Surgery
+LCIS|Lobular carcinoma in situ|Plastic Surgery
+IDC|Invasive ductal carcinoma|Plastic Surgery
+ILC|Invasive lobular carcinoma|Plastic Surgery
+ER|Estrogen receptor|Plastic Surgery
+PR|Progesterone receptor|Plastic Surgery
+HER2|Human epidermal growth factor receptor 2|Plastic Surgery
+TNBC|Triple-negative breast cancer|Plastic Surgery
+XRT|Radiation therapy|Plastic Surgery
+RT|Radiation therapy|Plastic Surgery
+CTX|Chemotherapy|Plastic Surgery
+NACT|Neoadjuvant chemotherapy|Plastic Surgery
+MWL|Massive weight loss|Plastic Surgery
+BC|Body contouring|Plastic Surgery
+LBL|Lower body lift|Plastic Surgery
+UBL|Upper body lift|Plastic Surgery
+CBL|Circumferential body lift|Plastic Surgery
+MTL|Medial thigh lift|Plastic Surgery
+RYGB|Roux-en-Y gastric bypass|Plastic Surgery
+SG|Sleeve gastrectomy|Plastic Surgery
+VTE|Venous thromboembolism|Plastic Surgery
+DVT|Deep vein thrombosis|Plastic Surgery
+PE|Pulmonary embolism|Plastic Surgery
+SCD|Sequential compression device|Plastic Surgery
+LMWH|Low-molecular-weight heparin|Plastic Surgery
+UFH|Unfractionated heparin|Plastic Surgery
+ASA|Aspirin|Plastic Surgery
+ASA|American Society of Anesthesiologists physical status class|Plastic Surgery
+SC|Subcutaneous|Plastic Surgery
+IV|Intravenous|Plastic Surgery
+PO|By mouth|Plastic Surgery
+IM|Intramuscular|Plastic Surgery
+PRN|As needed|Plastic Surgery
+BID|Twice daily|Plastic Surgery
+TID|Three times daily|Plastic Surgery
+QID|Four times daily|Plastic Surgery
+QD|Daily|Plastic Surgery
+QHS|At bedtime|Plastic Surgery
+NPO|Nothing by mouth|Plastic Surgery
+NKDA|No known drug allergies|Plastic Surgery
+PMH|Past medical history|Plastic Surgery
+PSH|Past surgical history|Plastic Surgery
+HPI|History of present illness|Plastic Surgery
+ROS|Review of systems|Plastic Surgery
+POD|Postoperative day|Plastic Surgery
+HD|Hospital day|Plastic Surgery
+OR|Operating room|Plastic Surgery
+PACU|Postanesthesia care unit|Plastic Surgery
+PONV|Postoperative nausea and vomiting|Plastic Surgery
+ERAS|Enhanced recovery after surgery|Plastic Surgery
+PCA|Patient-controlled analgesia|Plastic Surgery
+TXA|Tranexamic acid|Plastic Surgery
+EBL|Estimated blood loss|Plastic Surgery
+JP|Jackson-Pratt drain|Plastic Surgery
+WALANT|Wide awake local anesthesia no tourniquet|Plastic Surgery
+MAC|Monitored anesthesia care|Plastic Surgery
+GA|General anesthesia|Plastic Surgery
+LA|Local anesthesia|Plastic Surgery
+LAST|Local anesthetic systemic toxicity|Plastic Surgery
+BAB|Brachial plexus block|Plastic Surgery
+IVRA|Intravenous regional anesthesia|Plastic Surgery
+EMLA|Eutectic mixture of local anesthetics (lidocaine and prilocaine)|Plastic Surgery
+LET|Lidocaine, epinephrine, tetracaine (topical anesthetic)|Plastic Surgery
+PRBC|Packed red blood cells|Plastic Surgery
+FFP|Fresh frozen plasma|Plastic Surgery
+CBC|Complete blood count|Plastic Surgery
+BMP|Basic metabolic panel|Plastic Surgery
+CMP|Comprehensive metabolic panel|Plastic Surgery
+CRP|C-reactive protein|Plastic Surgery
+ESR|Erythrocyte sedimentation rate|Plastic Surgery
+WBC|White blood cell count|Plastic Surgery
+Hgb|Hemoglobin|Plastic Surgery
+Hct|Hematocrit|Plastic Surgery
+INR|International normalized ratio|Plastic Surgery
+PT|Prothrombin time|Plastic Surgery
+PTT|Partial thromboplastin time|Plastic Surgery
+HbA1c|Glycated hemoglobin|Plastic Surgery
+CK|Creatine kinase|Plastic Surgery
+CPK|Creatine phosphokinase|Plastic Surgery
+SIRS|Systemic inflammatory response syndrome|Plastic Surgery
+AKI|Acute kidney injury|Plastic Surgery
+ARDS|Acute respiratory distress syndrome|Plastic Surgery
+DIC|Disseminated intravascular coagulation|Plastic Surgery
+MOF|Multiple organ failure|Plastic Surgery
+CS|Compartment syndrome|Plastic Surgery
+ACS|Abdominal compartment syndrome|Plastic Surgery
+ACS|Acute coronary syndrome|Plastic Surgery
+IAP|Intra-abdominal pressure|Plastic Surgery
+EMS|Emergency medical services|Plastic Surgery
+ED|Emergency department|Plastic Surgery
+ATLS|Advanced trauma life support|Plastic Surgery
+GCS|Glasgow Coma Scale|Plastic Surgery
+ISS|Injury severity score|Plastic Surgery
+MESS|Mangled extremity severity score|Plastic Surgery
+ORIF|Open reduction and internal fixation|Plastic Surgery
+CRPP|Closed reduction and percutaneous pinning|Plastic Surgery
+CRIF|Closed reduction and internal fixation|Plastic Surgery
+ROM|Range of motion|Plastic Surgery
+AROM|Active range of motion|Plastic Surgery
+PROM|Passive range of motion|Plastic Surgery
+TAM|Total active motion|Plastic Surgery
+TPM|Total passive motion|Plastic Surgery
+MCP|Metacarpophalangeal (joint)|Plastic Surgery
+PIP|Proximal interphalangeal (joint)|Plastic Surgery
+DIP|Distal interphalangeal (joint)|Plastic Surgery
+IP|Interphalangeal (joint)|Plastic Surgery
+CMC|Carpometacarpal (joint)|Plastic Surgery
+MP|Metacarpophalangeal (joint)|Plastic Surgery
+PIPJ|Proximal interphalangeal joint|Plastic Surgery
+DIPJ|Distal interphalangeal joint|Plastic Surgery
+MCPJ|Metacarpophalangeal joint|Plastic Surgery
+TMC|Trapeziometacarpal (joint)|Plastic Surgery
+STT|Scaphotrapeziotrapezoid (joint)|Plastic Surgery
+DRUJ|Distal radioulnar joint|Plastic Surgery
+TFCC|Triangular fibrocartilage complex|Plastic Surgery
+SL|Scapholunate|Plastic Surgery
+SLAC|Scapholunate advanced collapse|Plastic Surgery
+SNAC|Scaphoid nonunion advanced collapse|Plastic Surgery
+LT|Lunotriquetral|Plastic Surgery
+CTS|Carpal tunnel syndrome|Plastic Surgery
+CTR|Carpal tunnel release|Plastic Surgery
+CuTS|Cubital tunnel syndrome|Plastic Surgery
+CuTR|Cubital tunnel release|Plastic Surgery
+TOS|Thoracic outlet syndrome|Plastic Surgery
+NCS|Nerve conduction study|Plastic Surgery
+EMG|Electromyography|Plastic Surgery
+NCV|Nerve conduction velocity|Plastic Surgery
+SNAP|Sensory nerve action potential|Plastic Surgery
+CMAP|Compound muscle action potential|Plastic Surgery
+2PD|Two-point discrimination|Plastic Surgery
+S2PD|Static two-point discrimination|Plastic Surgery
+M2PD|Moving two-point discrimination|Plastic Surgery
+SWMT|Semmes-Weinstein monofilament test|Plastic Surgery
+DASH|Disabilities of the arm, shoulder and hand (score)|Plastic Surgery
+QuickDASH|Short form of the disabilities of the arm, shoulder and hand score|Plastic Surgery
+PRWE|Patient-rated wrist evaluation|Plastic Surgery
+MHQ|Michigan hand outcomes questionnaire|Plastic Surgery
+BCTQ|Boston carpal tunnel questionnaire|Plastic Surgery
+PROMIS|Patient-reported outcomes measurement information system|Plastic Surgery
+PROM|Patient-reported outcome measure|Plastic Surgery
+PREM|Patient-reported experience measure|Plastic Surgery
+BREAST-Q|Breast-specific patient-reported outcome questionnaire|Plastic Surgery
+FACE-Q|Face-specific patient-reported outcome questionnaire|Plastic Surgery
+BODY-Q|Body contouring patient-reported outcome questionnaire|Plastic Surgery
+VAS|Visual analog scale|Plastic Surgery
+NRS|Numeric rating scale|Plastic Surgery
+POSAS|Patient and observer scar assessment scale|Plastic Surgery
+VSS|Vancouver scar scale|Plastic Surgery
+DD|Dupuytren disease|Plastic Surgery
+DC|Dupuytren contracture|Plastic Surgery
+CCH|Collagenase clostridium histolyticum|Plastic Surgery
+PNF|Percutaneous needle fasciotomy|Plastic Surgery
+FDS|Flexor digitorum superficialis|Plastic Surgery
+FDP|Flexor digitorum profundus|Plastic Surgery
+FPL|Flexor pollicis longus|Plastic Surgery
+FPB|Flexor pollicis brevis|Plastic Surgery
+FCR|Flexor carpi radialis|Plastic Surgery
+FCU|Flexor carpi ulnaris|Plastic Surgery
+EDC|Extensor digitorum communis|Plastic Surgery
+EIP|Extensor indicis proprius|Plastic Surgery
+EPL|Extensor pollicis longus|Plastic Surgery
+EPB|Extensor pollicis brevis|Plastic Surgery
+APL|Abductor pollicis longus|Plastic Surgery
+APB|Abductor pollicis brevis|Plastic Surgery
+ECRL|Extensor carpi radialis longus|Plastic Surgery
+ECRB|Extensor carpi radialis brevis|Plastic Surgery
+ECU|Extensor carpi ulnaris|Plastic Surgery
+ADM|Abductor digiti minimi|Plastic Surgery
+FDI|First dorsal interosseous|Plastic Surgery
+BR|Brachioradialis|Plastic Surgery
+PT|Pronator teres|Plastic Surgery
+A1|First annular pulley|Plastic Surgery
+A2|Second annular pulley|Plastic Surgery
+A4|Fourth annular pulley|Plastic Surgery
+CMCJ|Carpometacarpal joint|Plastic Surgery
+OA|Osteoarthritis|Plastic Surgery
+RA|Rheumatoid arthritis|Plastic Surgery
+CRPS|Complex regional pain syndrome|Plastic Surgery
+PIN|Posterior interosseous nerve|Plastic Surgery
+AIN|Anterior interosseous nerve|Plastic Surgery
+BPI|Brachial plexus injury|Plastic Surgery
+OBPI|Obstetric brachial plexus injury|Plastic Surgery
+TMR|Targeted muscle reinnervation|Plastic Surgery
+RPNI|Regenerative peripheral nerve interface|Plastic Surgery
+NT|Nerve transfer|Plastic Surgery
+NG|Nerve graft|Plastic Surgery
+FN|Facial nerve|Plastic Surgery
+CN|Cranial nerve|Plastic Surgery
+CN VII|Seventh cranial nerve (facial nerve)|Plastic Surgery
+HB|House-Brackmann grade (facial nerve function)|Plastic Surgery
+SFA|Sunnybrook facial grading|Plastic Surgery
+FNP|Facial nerve palsy|Plastic Surgery
+FMT|Free muscle transfer|Plastic Surgery
+FTT|Free tissue transfer|Plastic Surgery
+FF|Free flap|Plastic Surgery
+PF|Pedicled flap|Plastic Surgery
+RF|Regional flap|Plastic Surgery
+PAF|Perforator flap|Plastic Surgery
+KF|Keystone flap|Plastic Surgery
+V-Y|V-Y advancement flap|Plastic Surgery
+Z-plasty|Z-shaped incision flap transposition|Plastic Surgery
+DS|Donor site|Plastic Surgery
+RS|Recipient site|Plastic Surgery
+AV|Arteriovenous|Plastic Surgery
+AVM|Arteriovenous malformation|Plastic Surgery
+AVF|Arteriovenous fistula|Plastic Surgery
+VM|Venous malformation|Plastic Surgery
+LM|Lymphatic malformation|Plastic Surgery
+CM|Capillary malformation|Plastic Surgery
+PWS|Port-wine stain|Plastic Surgery
+IH|Infantile hemangioma|Plastic Surgery
+KHE|Kaposiform hemangioendothelioma|Plastic Surgery
+KMP|Kasabach-Merritt phenomenon|Plastic Surgery
+PHACE|Posterior fossa, hemangioma, arterial, cardiac, eye abnormalities syndrome|Plastic Surgery
+RICH|Rapidly involuting congenital hemangioma|Plastic Surgery
+NICH|Non-involuting congenital hemangioma|Plastic Surgery
+CLOVES|Congenital lipomatous overgrowth, vascular malformations, epidermal nevi, skeletal anomalies|Plastic Surgery
+PROS|PIK3CA-related overgrowth spectrum|Plastic Surgery
+CL|Cleft lip|Plastic Surgery
+CP|Cleft palate|Plastic Surgery
+CLP|Cleft lip and palate|Plastic Surgery
+UCL|Unilateral cleft lip|Plastic Surgery
+BCL|Bilateral cleft lip|Plastic Surgery
+UCLP|Unilateral cleft lip and palate|Plastic Surgery
+BCLP|Bilateral cleft lip and palate|Plastic Surgery
+SMCP|Submucous cleft palate|Plastic Surgery
+VPI|Velopharyngeal insufficiency|Plastic Surgery
+VPD|Velopharyngeal dysfunction|Plastic Surgery
+NAM|Nasoalveolar molding|Plastic Surgery
+ABG|Alveolar bone graft|Plastic Surgery
+PRS|Pierre Robin sequence|Plastic Surgery
+MDO|Mandibular distraction osteogenesis|Plastic Surgery
+DO|Distraction osteogenesis|Plastic Surgery
+HFM|Hemifacial microsomia|Plastic Surgery
+OAVS|Oculo-auriculo-vertebral spectrum|Plastic Surgery
+CS|Craniosynostosis|Plastic Surgery
+CVR|Cranial vault remodeling|Plastic Surgery
+FOA|Fronto-orbital advancement|Plastic Surgery
+PVDO|Posterior vault distraction osteogenesis|Plastic Surgery
+ICP|Intracranial pressure|Plastic Surgery
+OSA|Obstructive sleep apnea|Plastic Surgery
+CSF|Cerebrospinal fluid|Plastic Surgery
+CBCT|Cone-beam computed tomography|Plastic Surgery
+VSP|Virtual surgical planning|Plastic Surgery
+CAD/CAM|Computer-aided design and computer-aided manufacturing|Plastic Surgery
+PEEK|Polyetheretherketone|Plastic Surgery
+PMMA|Polymethyl methacrylate|Plastic Surgery
+HA|Hydroxyapatite|Plastic Surgery
+HA|Hyaluronic acid|Plastic Surgery
+CaHA|Calcium hydroxylapatite|Plastic Surgery
+PLLA|Poly-L-lactic acid|Plastic Surgery
+PMMA filler|Polymethyl methacrylate microsphere filler|Plastic Surgery
+BoNT|Botulinum toxin|Plastic Surgery
+BoNT-A|Botulinum toxin type A|Plastic Surgery
+SMAS|Superficial musculoaponeurotic system|Plastic Surgery
+MACS|Minimal access cranial suspension (lift)|Plastic Surgery
+SOOF|Suborbicularis oculi fat|Plastic Surgery
+OOM|Orbicularis oculi muscle|Plastic Surgery
+MRD|Margin reflex distance|Plastic Surgery
+MRD1|Margin to reflex distance 1 (upper eyelid)|Plastic Surgery
+MRD2|Margin to reflex distance 2 (lower eyelid)|Plastic Surgery
+PFH|Palpebral fissure height|Plastic Surgery
+LCT|Lateral canthal tendon|Plastic Surgery
+MCT|Medial canthal tendon|Plastic Surgery
+DCR|Dacryocystorhinostomy|Plastic Surgery
+SSRO|Sagittal split ramus osteotomy|Plastic Surgery
+BSSO|Bilateral sagittal split osteotomy|Plastic Surgery
+IVRO|Intraoral vertical ramus osteotomy|Plastic Surgery
+LF I|Le Fort I|Plastic Surgery
+LF II|Le Fort II|Plastic Surgery
+LF III|Le Fort III|Plastic Surgery
+MMF|Maxillomandibular fixation|Plastic Surgery
+IMF|Intermaxillary fixation|Plastic Surgery
+TMJ|Temporomandibular joint|Plastic Surgery
+TMD|Temporomandibular disorder|Plastic Surgery
+ZMC|Zygomaticomaxillary complex|Plastic Surgery
+ZMC|Zygomaticomaxillary complex (fracture)|Plastic Surgery
+NOE|Naso-orbito-ethmoid (fracture)|Plastic Surgery
+ZF|Zygomatic fracture|Plastic Surgery
+OF|Orbital fracture|Plastic Surgery
+BOF|Blowout fracture|Plastic Surgery
+MF|Mandible fracture|Plastic Surgery
+FSF|Frontal sinus fracture|Plastic Surgery
+EOM|Extraocular movements|Plastic Surgery
+EOMI|Extraocular movements intact|Plastic Surgery
+PERRL|Pupils equal, round, reactive to light|Plastic Surgery
+RAPD|Relative afferent pupillary defect|Plastic Surgery
+IOP|Intraocular pressure|Plastic Surgery
+CSF leak|Cerebrospinal fluid leak|Plastic Surgery
+TBI|Traumatic brain injury|Plastic Surgery
+MVC|Motor vehicle collision|Plastic Surgery
+MVA|Motor vehicle accident|Plastic Surgery
+GSW|Gunshot wound|Plastic Surgery
+SW|Stab wound|Plastic Surgery
+LOC|Loss of consciousness|Plastic Surgery
+C-spine|Cervical spine|Plastic Surgery
+TDaP|Tetanus, diphtheria, acellular pertussis (vaccine)|Plastic Surgery
+Td|Tetanus and diphtheria toxoids|Plastic Surgery
+TIG|Tetanus immune globulin|Plastic Surgery
+RIG|Rabies immune globulin|Plastic Surgery
+CST|Component separation technique|Plastic Surgery
+ACS|Anterior component separation|Plastic Surgery
+PCS|Posterior component separation|Plastic Surgery
+TAR|Transversus abdominis release|Plastic Surgery
+VHR|Ventral hernia repair|Plastic Surgery
+AWR|Abdominal wall reconstruction|Plastic Surgery
+AWR|Abdominal wall repair|Plastic Surgery
+IH|Incisional hernia|Plastic Surgery
+LOD|Loss of domain|Plastic Surgery
+UBM|Urinary bladder matrix|Plastic Surgery
+SIS|Small intestinal submucosa|Plastic Surgery
+PGA|Polyglycolic acid|Plastic Surgery
+PDS|Polydioxanone|Plastic Surgery
+PLGA|Poly(lactic-co-glycolic acid)|Plastic Surgery
+PTFE|Polytetrafluoroethylene|Plastic Surgery
+ePTFE|Expanded polytetrafluoroethylene|Plastic Surgery
+PP|Polypropylene|Plastic Surgery
+PE|Polyethylene|Plastic Surgery
+MEDPOR|Porous polyethylene implant|Plastic Surgery
+ABx|Antibiotics|Plastic Surgery
+TMP-SMX|Trimethoprim-sulfamethoxazole|Plastic Surgery
+PCN|Penicillin|Plastic Surgery
+NSAID|Nonsteroidal anti-inflammatory drug|Plastic Surgery
+APAP|Acetaminophen|Plastic Surgery
+LMWH ppx|Low-molecular-weight heparin prophylaxis|Plastic Surgery
+HTN|Hypertension|Plastic Surgery
+DM|Diabetes mellitus|Plastic Surgery
+CAD|Coronary artery disease|Plastic Surgery
+COPD|Chronic obstructive pulmonary disease|Plastic Surgery
+CKD|Chronic kidney disease|Plastic Surgery
+HLD|Hyperlipidemia|Plastic Surgery
+HIV|Human immunodeficiency virus|Plastic Surgery
+AIDS|Acquired immunodeficiency syndrome|Plastic Surgery
+SLE|Systemic lupus erythematosus|Plastic Surgery
+PVD|Peripheral vascular disease|Plastic Surgery
+LE|Lower extremity|Plastic Surgery
+UE|Upper extremity|Plastic Surgery
+BKA|Below-knee amputation|Plastic Surgery
+AKA|Above-knee amputation|Plastic Surgery
+TMA|Transmetatarsal amputation|Plastic Surgery
+TFA|Transfemoral amputation|Plastic Surgery
+TTA|Transtibial amputation|Plastic Surgery
+LS|Limb salvage|Plastic Surgery
+LSS|Limb-sparing surgery|Plastic Surgery
+STS|Soft tissue sarcoma|Plastic Surgery
+BCC|Basal cell carcinoma|Plastic Surgery
+SCC|Squamous cell carcinoma|Plastic Surgery
+SCCIS|Squamous cell carcinoma in situ|Plastic Surgery
+NMSC|Nonmelanoma skin cancer|Plastic Surgery
+MCC|Merkel cell carcinoma|Plastic Surgery
+DFSP|Dermatofibrosarcoma protuberans|Plastic Surgery
+AK|Actinic keratosis|Plastic Surgery
+MIS|Melanoma in situ|Plastic Surgery
+LMM|Lentigo maligna melanoma|Plastic Surgery
+LM|Lentigo maligna|Plastic Surgery
+SSM|Superficial spreading melanoma|Plastic Surgery
+NM|Nodular melanoma|Plastic Surgery
+ALM|Acral lentiginous melanoma|Plastic Surgery
+MMS|Mohs micrographic surgery|Plastic Surgery
+WLE|Wide local excision|Plastic Surgery
+TNM|Tumor, node, metastasis (staging)|Plastic Surgery
+LDH|Lactate dehydrogenase|Plastic Surgery
+PET|Positron emission tomography|Plastic Surgery
+PET/CT|Positron emission tomography with computed tomography|Plastic Surgery
+MDT|Multidisciplinary team|Plastic Surgery
+HNC|Head and neck cancer|Plastic Surgery
+HNSCC|Head and neck squamous cell carcinoma|Plastic Surgery
+ORN|Osteoradionecrosis|Plastic Surgery
+MRONJ|Medication-related osteonecrosis of the jaw|Plastic Surgery
+BRONJ|Bisphosphonate-related osteonecrosis of the jaw|Plastic Surgery
+TORS|Transoral robotic surgery|Plastic Surgery
+PEG|Percutaneous endoscopic gastrostomy|Plastic Surgery
+NG tube|Nasogastric tube|Plastic Surgery
+NGT|Nasogastric tube|Plastic Surgery
+TT|Tracheostomy tube|Plastic Surgery
+TRACH|Tracheostomy|Plastic Surgery
+ETT|Endotracheal tube|Plastic Surgery
+LIMA|Left internal mammary artery|Plastic Surgery
+IMA|Internal mammary artery|Plastic Surgery
+IMV|Internal mammary vein|Plastic Surgery
+IMAP|Internal mammary artery perforator|Plastic Surgery
+TDA|Thoracodorsal artery|Plastic Surgery
+TDV|Thoracodorsal vein|Plastic Surgery
+DIEA|Deep inferior epigastric artery|Plastic Surgery
+DIEV|Deep inferior epigastric vein|Plastic Surgery
+SIEV|Superficial inferior epigastric vein|Plastic Surgery
+CIA|Circumflex iliac artery|Plastic Surgery
+LCFA|Lateral circumflex femoral artery|Plastic Surgery
+MCFA|Medial circumflex femoral artery|Plastic Surgery
+SFA|Superficial femoral artery|Plastic Surgery
+PFA|Profunda femoris artery|Plastic Surgery
+GSV|Great saphenous vein|Plastic Surgery
+SSV|Small saphenous vein|Plastic Surgery
+PTA|Posterior tibial artery|Plastic Surgery
+ATA|Anterior tibial artery|Plastic Surgery
+PA|Peroneal artery|Plastic Surgery
+FA|Facial artery|Plastic Surgery
+FV|Facial vein|Plastic Surgery
+STA|Superficial temporal artery|Plastic Surgery
+STV|Superficial temporal vein|Plastic Surgery
+EJ|External jugular (vein)|Plastic Surgery
+IJV|Internal jugular vein|Plastic Surgery
+ECA|External carotid artery|Plastic Surgery
+TCA|Transverse cervical artery|Plastic Surgery
+UA|Ulnar artery|Plastic Surgery
+DPA arch|Deep palmar arch|Plastic Surgery
+SPA arch|Superficial palmar arch|Plastic Surgery
+CDA|Common digital artery|Plastic Surgery
+PDA|Proper digital artery|Plastic Surgery
+CRT|Capillary refill time|Plastic Surgery
+SpO2|Peripheral oxygen saturation|Plastic Surgery
+PPG|Photoplethysmography|Plastic Surgery
+NIRS|Near-infrared spectroscopy|Plastic Surgery
+ODP|Implantable Doppler probe|Plastic Surgery
+IRI|Ischemia-reperfusion injury|Plastic Surgery
+tPA|Tissue plasminogen activator|Plastic Surgery
+PGE1|Prostaglandin E1|Plastic Surgery
+NTG|Nitroglycerin|Plastic Surgery
+GTN|Glyceryl trinitrate|Plastic Surgery
+DMSO|Dimethyl sulfoxide|Plastic Surgery
+NAC|N-acetylcysteine|Plastic Surgery
+HS|Hypertrophic scar|Plastic Surgery
+TAC|Triamcinolone acetonide|Plastic Surgery
+5-FU|5-fluorouracil|Plastic Surgery
+PDL|Pulsed dye laser|Plastic Surgery
+IPL|Intense pulsed light|Plastic Surgery
+LLLT|Low-level laser therapy|Plastic Surgery
+Nd:YAG|Neodymium-doped yttrium aluminum garnet (laser)|Plastic Surgery
+Er:YAG|Erbium-doped yttrium aluminum garnet (laser)|Plastic Surgery
+HIFU|High-intensity focused ultrasound|Plastic Surgery
+CO2 laser|Carbon dioxide laser|Plastic Surgery
+PIH|Post-inflammatory hyperpigmentation|Plastic Surgery
+UV|Ultraviolet|Plastic Surgery
+SPF|Sun protection factor|Plastic Surgery
+FST|Fitzpatrick skin type|Plastic Surgery
+TCA peel|Trichloroacetic acid peel|Plastic Surgery
+TCA|Trichloroacetic acid|Plastic Surgery
+GAS|Gender-affirming surgery|Plastic Surgery
+GAHT|Gender-affirming hormone therapy|Plastic Surgery
+FFS|Facial feminization surgery|Plastic Surgery
+MtF|Male-to-female|Plastic Surgery
+FtM|Female-to-male|Plastic Surgery
+TGNC|Transgender and gender nonconforming|Plastic Surgery
+SRS|Sex reassignment surgery|Plastic Surgery
+GCS|Gender-confirming surgery|Plastic Surgery
+TAH|Total abdominal hysterectomy|Plastic Surgery
+BSO|Bilateral salpingo-oophorectomy|Plastic Surgery
+UTI|Urinary tract infection|Plastic Surgery
+HS|Hidradenitis suppurativa|Plastic Surgery
+PD|Pilonidal disease|Plastic Surgery
+EB|Epidermolysis bullosa|Plastic Surgery
+PG|Pyoderma gangrenosum|Plastic Surgery
+CTA|Composite tissue allotransplantation|Plastic Surgery
+HLA|Human leukocyte antigen|Plastic Surgery
+PRA|Panel reactive antibody|Plastic Surgery
+MMF|Mycophenolate mofetil|Plastic Surgery
+CNI|Calcineurin inhibitor|Plastic Surgery
+CMV|Cytomegalovirus|Plastic Surgery
+EBV|Epstein-Barr virus|Plastic Surgery
+PTLD|Post-transplant lymphoproliferative disorder|Plastic Surgery
+LOS|Length of stay|Plastic Surgery
+ICU|Intensive care unit|Plastic Surgery
+SICU|Surgical intensive care unit|Plastic Surgery
+WBAT|Weight bearing as tolerated|Plastic Surgery
+NWB|Non-weight bearing|Plastic Surgery
+PWB|Partial weight bearing|Plastic Surgery
+FWB|Full weight bearing|Plastic Surgery
+TTWB|Toe-touch weight bearing|Plastic Surgery
+OT|Occupational therapy|Plastic Surgery
+HT|Hand therapy|Plastic Surgery
+CHT|Certified hand therapist|Plastic Surgery
+SLP|Speech-language pathologist|Plastic Surgery
+ENT|Ear, nose, and throat|Plastic Surgery
+OMFS|Oral and maxillofacial surgery|Plastic Surgery
+LD|Lymphedema|Plastic Surgery
+LE|Lymphedema|Plastic Surgery
+LLE|Lower limb lymphedema|Plastic Surgery
+ULL|Upper limb lymphedema|Plastic Surgery
+LSG|Lymphoscintigraphy|Plastic Surgery

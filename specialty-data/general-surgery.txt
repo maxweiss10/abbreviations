@@ -1,0 +1,638 @@
+AAA|Abdominal aortic aneurysm|General Surgery
+EVAR|Endovascular aneurysm repair|General Surgery
+TEVAR|Thoracic endovascular aortic repair|General Surgery
+ABI|Ankle-brachial index|General Surgery
+TBI|Toe-brachial index|General Surgery
+PAD|Peripheral arterial disease|General Surgery
+PVD|Peripheral vascular disease|General Surgery
+CLI|Critical limb ischemia|General Surgery
+CLTI|Chronic limb-threatening ischemia|General Surgery
+ALI|Acute limb ischemia|General Surgery
+DVT|Deep vein thrombosis|General Surgery
+PE|Pulmonary embolism|General Surgery
+VTE|Venous thromboembolism|General Surgery
+IVC|Inferior vena cava|General Surgery
+SVC|Superior vena cava|General Surgery
+CEA|Carotid endarterectomy|General Surgery
+CAS|Carotid artery stenting|General Surgery
+TIA|Transient ischemic attack|General Surgery
+CVA|Cerebrovascular accident|General Surgery
+AVF|Arteriovenous fistula|General Surgery
+AVG|Arteriovenous graft|General Surgery
+PICC|Peripherally inserted central catheter|General Surgery
+CVC|Central venous catheter|General Surgery
+CVL|Central venous line|General Surgery
+TLC|Triple-lumen catheter|General Surgery
+IJ|Internal jugular|General Surgery
+SCV|Subclavian vein|General Surgery
+CFA|Common femoral artery|General Surgery
+SFA|Superficial femoral artery|General Surgery
+PTA|Percutaneous transluminal angioplasty|General Surgery
+PTCA|Percutaneous transluminal coronary angioplasty|General Surgery
+CABG|Coronary artery bypass grafting|General Surgery
+CTA|Computed tomography angiography|General Surgery
+MRA|Magnetic resonance angiography|General Surgery
+DSA|Digital subtraction angiography|General Surgery
+APPY|Appendectomy|General Surgery
+LAPPY|Laparoscopic appendectomy|General Surgery
+CBD|Common bile duct|General Surgery
+IOC|Intraoperative cholangiogram|General Surgery
+ERCP|Endoscopic retrograde cholangiopancreatography|General Surgery
+MRCP|Magnetic resonance cholangiopancreatography|General Surgery
+PTC|Percutaneous transhepatic cholangiography|General Surgery
+PTBD|Percutaneous transhepatic biliary drainage|General Surgery
+HIDA|Hepatobiliary iminodiacetic acid scan|General Surgery
+EUS|Endoscopic ultrasound|General Surgery
+FNA|Fine-needle aspiration|General Surgery
+FNAB|Fine-needle aspiration biopsy|General Surgery
+CNB|Core needle biopsy|General Surgery
+EGD|Esophagogastroduodenoscopy|General Surgery
+PEG|Percutaneous endoscopic gastrostomy|General Surgery
+PEJ|Percutaneous endoscopic jejunostomy|General Surgery
+PRG|Percutaneous radiologic gastrostomy|General Surgery
+NGT|Nasogastric tube|General Surgery
+OGT|Orogastric tube|General Surgery
+NJ|Nasojejunal|General Surgery
+NDT|Nasoduodenal tube|General Surgery
+GT|Gastrostomy tube|General Surgery
+JT|Jejunostomy tube|General Surgery
+GJ|Gastrojejunostomy|General Surgery
+NG|Nasogastric|General Surgery
+SBO|Small bowel obstruction|General Surgery
+LBO|Large bowel obstruction|General Surgery
+SBFT|Small bowel follow-through|General Surgery
+UGI|Upper gastrointestinal|General Surgery
+LGI|Lower gastrointestinal|General Surgery
+UGIB|Upper gastrointestinal bleed|General Surgery
+LGIB|Lower gastrointestinal bleed|General Surgery
+GIB|Gastrointestinal bleed|General Surgery
+GI|Gastrointestinal|General Surgery
+GERD|Gastroesophageal reflux disease|General Surgery
+PUD|Peptic ulcer disease|General Surgery
+H pylori|Helicobacter pylori|General Surgery
+PPI|Proton pump inhibitor|General Surgery
+H2RA|Histamine-2 receptor antagonist|General Surgery
+GOO|Gastric outlet obstruction|General Surgery
+LES|Lower esophageal sphincter|General Surgery
+UES|Upper esophageal sphincter|General Surgery
+EGJ|Esophagogastric junction|General Surgery
+GEJ|Gastroesophageal junction|General Surgery
+HGD|High-grade dysplasia|General Surgery
+LGD|Low-grade dysplasia|General Surgery
+EMR|Endoscopic mucosal resection|General Surgery
+ESD|Endoscopic submucosal dissection|General Surgery
+POEM|Peroral endoscopic myotomy|General Surgery
+LHM|Laparoscopic Heller myotomy|General Surgery
+LNF|Laparoscopic fundoplication|General Surgery
+LSG|Laparoscopic sleeve gastrectomy|General Surgery
+SG|Sleeve gastrectomy|General Surgery
+LAGB|Laparoscopic adjustable gastric band|General Surgery
+BPD|Biliopancreatic diversion|General Surgery
+BMI|Body mass index|General Surgery
+EWL|Excess weight loss|General Surgery
+TWL|Total weight loss|General Surgery
+OSA|Obstructive sleep apnea|General Surgery
+HH|Hiatal hernia|General Surgery
+PEH|Paraesophageal hernia|General Surgery
+IHR|Inguinal hernia repair|General Surgery
+VHR|Ventral hernia repair|General Surgery
+LIHR|Laparoscopic inguinal hernia repair|General Surgery
+TEP|Totally extraperitoneal repair|General Surgery
+TAPP|Transabdominal preperitoneal repair|General Surgery
+IPOM|Intraperitoneal onlay mesh|General Surgery
+TAR|Transversus abdominis release|General Surgery
+CST|Component separation technique|General Surgery
+AWR|Abdominal wall reconstruction|General Surgery
+RIH|Right inguinal hernia|General Surgery
+LIH|Left inguinal hernia|General Surgery
+BIH|Bilateral inguinal hernia|General Surgery
+RLQ|Right lower quadrant|General Surgery
+LLQ|Left lower quadrant|General Surgery
+RUQ|Right upper quadrant|General Surgery
+LUQ|Left upper quadrant|General Surgery
+NABS|Normal active bowel sounds|General Surgery
+NT|Non-tender|General Surgery
+ND|Non-distended|General Surgery
+NTND|Non-tender, non-distended|General Surgery
+SNTND|Soft, non-tender, non-distended|General Surgery
+BSx4|Bowel sounds in all four quadrants|General Surgery
+DRE|Digital rectal examination|General Surgery
+FOBT|Fecal occult blood test|General Surgery
+FIT|Fecal immunochemical test|General Surgery
+CRC|Colorectal cancer|General Surgery
+CRA|Colorectal adenoma|General Surgery
+CRS|Colorectal surgery|General Surgery
+FAP|Familial adenomatous polyposis|General Surgery
+HNPCC|Hereditary nonpolyposis colorectal cancer|General Surgery
+MSI|Microsatellite instability|General Surgery
+MSI-H|Microsatellite instability-high|General Surgery
+MSS|Microsatellite stable|General Surgery
+dMMR|Deficient mismatch repair|General Surgery
+pMMR|Proficient mismatch repair|General Surgery
+IBD|Inflammatory bowel disease|General Surgery
+IPAA|Ileal pouch-anal anastomosis|General Surgery
+IRA|Ileorectal anastomosis|General Surgery
+TPC|Total proctocolectomy|General Surgery
+TAC|Total abdominal colectomy|General Surgery
+LAR|Low anterior resection|General Surgery
+AR|Anterior resection|General Surgery
+APR|Abdominoperineal resection|General Surgery
+ISR|Intersphincteric resection|General Surgery
+TME|Total mesorectal excision|General Surgery
+TaTME|Transanal total mesorectal excision|General Surgery
+TEM|Transanal endoscopic microsurgery|General Surgery
+TAMIS|Transanal minimally invasive surgery|General Surgery
+RHC|Right hemicolectomy|General Surgery
+LHC|Left hemicolectomy|General Surgery
+SBR|Small bowel resection|General Surgery
+ICV|Ileocecal valve|General Surgery
+HAL|Hand-assisted laparoscopic|General Surgery
+HALS|Hand-assisted laparoscopic surgery|General Surgery
+SILS|Single-incision laparoscopic surgery|General Surgery
+MIS|Minimally invasive surgery|General Surgery
+VATS|Video-assisted thoracoscopic surgery|General Surgery
+RATS|Robotic-assisted thoracoscopic surgery|General Surgery
+RAS|Robotic-assisted surgery|General Surgery
+Ex-lap|Exploratory laparotomy|General Surgery
+DL|Diagnostic laparoscopy|General Surgery
+DPL|Diagnostic peritoneal lavage|General Surgery
+FAST|Focused assessment with sonography for trauma|General Surgery
+eFAST|Extended focused assessment with sonography for trauma|General Surgery
+ATLS|Advanced trauma life support|General Surgery
+ABC|Airway, breathing, circulation|General Surgery
+ABCDE|Airway, breathing, circulation, disability, exposure|General Surgery
+GCS|Glasgow Coma Scale|General Surgery
+ISS|Injury Severity Score|General Surgery
+AIS|Abbreviated Injury Scale|General Surgery
+RTS|Revised Trauma Score|General Surgery
+MVC|Motor vehicle collision|General Surgery
+MVA|Motor vehicle accident|General Surgery
+MCC|Motorcycle collision|General Surgery
+GSW|Gunshot wound|General Surgery
+SW|Stab wound|General Surgery
+GSWA|Gunshot wound to the abdomen|General Surgery
+GSWC|Gunshot wound to the chest|General Surgery
+PVA|Pedestrian versus auto|General Surgery
+LOC|Loss of consciousness|General Surgery
+TBI|Traumatic brain injury|General Surgery
+SDH|Subdural hematoma|General Surgery
+EDH|Epidural hematoma|General Surgery
+SAH|Subarachnoid hemorrhage|General Surgery
+ICH|Intracranial hemorrhage|General Surgery
+IPH|Intraparenchymal hemorrhage|General Surgery
+C-spine|Cervical spine|General Surgery
+T-spine|Thoracic spine|General Surgery
+L-spine|Lumbar spine|General Surgery
+TLSO|Thoracolumbosacral orthosis|General Surgery
+SCI|Spinal cord injury|General Surgery
+MTP|Massive transfusion protocol|General Surgery
+PRBC|Packed red blood cells|General Surgery
+FFP|Fresh frozen plasma|General Surgery
+PLT|Platelets|General Surgery
+Cryo|Cryoprecipitate|General Surgery
+TXA|Tranexamic acid|General Surgery
+TEG|Thromboelastography|General Surgery
+ROTEM|Rotational thromboelastometry|General Surgery
+INR|International normalized ratio|General Surgery
+PT|Prothrombin time|General Surgery
+PTT|Partial thromboplastin time|General Surgery
+aPTT|Activated partial thromboplastin time|General Surgery
+ACT|Activated clotting time|General Surgery
+PCC|Prothrombin complex concentrate|General Surgery
+rFVIIa|Recombinant activated factor VII|General Surgery
+DIC|Disseminated intravascular coagulation|General Surgery
+HIT|Heparin-induced thrombocytopenia|General Surgery
+UFH|Unfractionated heparin|General Surgery
+LMWH|Low-molecular-weight heparin|General Surgery
+DOAC|Direct oral anticoagulant|General Surgery
+VKA|Vitamin K antagonist|General Surgery
+ASA|Aspirin|General Surgery
+NSAID|Nonsteroidal anti-inflammatory drug|General Surgery
+SCD|Sequential compression device|General Surgery
+TED|Thromboembolic deterrent stockings|General Surgery
+DVT ppx|Deep vein thrombosis prophylaxis|General Surgery
+SQH|Subcutaneous heparin|General Surgery
+SQ|Subcutaneous|General Surgery
+IV|Intravenous|General Surgery
+IM|Intramuscular|General Surgery
+PO|By mouth|General Surgery
+PRN|As needed|General Surgery
+QD|Once daily|General Surgery
+BID|Twice daily|General Surgery
+TID|Three times daily|General Surgery
+QID|Four times daily|General Surgery
+QHS|Every night at bedtime|General Surgery
+Q4H|Every four hours|General Surgery
+Q6H|Every six hours|General Surgery
+Q8H|Every eight hours|General Surgery
+Q12H|Every twelve hours|General Surgery
+STAT|Immediately|General Surgery
+NPO|Nothing by mouth|General Surgery
+MIVF|Maintenance intravenous fluids|General Surgery
+IVF|Intravenous fluids|General Surgery
+LR|Lactated Ringer solution|General Surgery
+NS|Normal saline|General Surgery
+D5W|Dextrose 5 percent in water|General Surgery
+D5NS|Dextrose 5 percent in normal saline|General Surgery
+1/2NS|Half-normal saline|General Surgery
+NaHCO3|Sodium bicarbonate|General Surgery
+KCl|Potassium chloride|General Surgery
+TPN|Total parenteral nutrition|General Surgery
+PPN|Peripheral parenteral nutrition|General Surgery
+BEE|Basal energy expenditure|General Surgery
+REE|Resting energy expenditure|General Surgery
+RQ|Respiratory quotient|General Surgery
+NRS|Nutritional risk screening|General Surgery
+SGA|Subjective global assessment|General Surgery
+ERAS|Enhanced recovery after surgery|General Surgery
+POD|Postoperative day|General Surgery
+HD|Hospital day|General Surgery
+POD#|Postoperative day number|General Surgery
+PACU|Post-anesthesia care unit|General Surgery
+ICU|Intensive care unit|General Surgery
+SICU|Surgical intensive care unit|General Surgery
+OR|Operating room|General Surgery
+ED|Emergency department|General Surgery
+ER|Emergency room|General Surgery
+EMS|Emergency medical services|General Surgery
+SDU|Step-down unit|General Surgery
+LOS|Length of stay|General Surgery
+DC|Discharge|General Surgery
+SNF|Skilled nursing facility|General Surgery
+HHC|Home health care|General Surgery
+IPR|Inpatient rehabilitation|General Surgery
+PT/OT|Physical therapy and occupational therapy|General Surgery
+DNR|Do not resuscitate|General Surgery
+DNI|Do not intubate|General Surgery
+CMO|Comfort measures only|General Surgery
+POLST|Physician orders for life-sustaining treatment|General Surgery
+HCP|Health care proxy|General Surgery
+H&P|History and physical|General Surgery
+HPI|History of present illness|General Surgery
+PMH|Past medical history|General Surgery
+PSH|Past surgical history|General Surgery
+ROS|Review of systems|General Surgery
+A&P|Assessment and plan|General Surgery
+VS|Vital signs|General Surgery
+HR|Heart rate|General Surgery
+BP|Blood pressure|General Surgery
+RR|Respiratory rate|General Surgery
+SpO2|Peripheral oxygen saturation|General Surgery
+I&O|Intake and output|General Surgery
+UOP|Urine output|General Surgery
+EBL|Estimated blood loss|General Surgery
+BRP|Bathroom privileges|General Surgery
+A&Ox3|Alert and oriented times three|General Surgery
+NAD|No acute distress|General Surgery
+WDWN|Well-developed, well-nourished|General Surgery
+HEENT|Head, eyes, ears, nose, and throat|General Surgery
+CTAB|Clear to auscultation bilaterally|General Surgery
+RRR|Regular rate and rhythm|General Surgery
+NSR|Normal sinus rhythm|General Surgery
+AF|Atrial fibrillation|General Surgery
+AFib|Atrial fibrillation|General Surgery
+RVR|Rapid ventricular response|General Surgery
+SVT|Supraventricular tachycardia|General Surgery
+MI|Myocardial infarction|General Surgery
+CAD|Coronary artery disease|General Surgery
+CHF|Congestive heart failure|General Surgery
+EF|Ejection fraction|General Surgery
+LVEF|Left ventricular ejection fraction|General Surgery
+HTN|Hypertension|General Surgery
+HLD|Hyperlipidemia|General Surgery
+DM|Diabetes mellitus|General Surgery
+T2DM|Type 2 diabetes mellitus|General Surgery
+T1DM|Type 1 diabetes mellitus|General Surgery
+DKA|Diabetic ketoacidosis|General Surgery
+HHS|Hyperosmolar hyperglycemic state|General Surgery
+CKD|Chronic kidney disease|General Surgery
+AKI|Acute kidney injury|General Surgery
+ESRD|End-stage renal disease|General Surgery
+CRRT|Continuous renal replacement therapy|General Surgery
+CVVH|Continuous venovenous hemofiltration|General Surgery
+CVVHD|Continuous venovenous hemodialysis|General Surgery
+CVVHDF|Continuous venovenous hemodiafiltration|General Surgery
+ATN|Acute tubular necrosis|General Surgery
+BUN|Blood urea nitrogen|General Surgery
+Cr|Creatinine|General Surgery
+GFR|Glomerular filtration rate|General Surgery
+eGFR|Estimated glomerular filtration rate|General Surgery
+CrCl|Creatinine clearance|General Surgery
+UA|Urinalysis|General Surgery
+UCx|Urine culture|General Surgery
+BCx|Blood culture|General Surgery
+CBC|Complete blood count|General Surgery
+BMP|Basic metabolic panel|General Surgery
+CMP|Comprehensive metabolic panel|General Surgery
+LFTs|Liver function tests|General Surgery
+AST|Aspartate aminotransferase|General Surgery
+ALT|Alanine aminotransferase|General Surgery
+ALP|Alkaline phosphatase|General Surgery
+GGT|Gamma-glutamyl transferase|General Surgery
+T bili|Total bilirubin|General Surgery
+WBC|White blood cell count|General Surgery
+Hgb|Hemoglobin|General Surgery
+Hct|Hematocrit|General Surgery
+Plt|Platelet count|General Surgery
+MCV|Mean corpuscular volume|General Surgery
+ANC|Absolute neutrophil count|General Surgery
+PMN|Polymorphonuclear neutrophil|General Surgery
+ABG|Arterial blood gas|General Surgery
+VBG|Venous blood gas|General Surgery
+HCO3|Bicarbonate|General Surgery
+PaO2|Partial pressure of arterial oxygen|General Surgery
+PaCO2|Partial pressure of arterial carbon dioxide|General Surgery
+FiO2|Fraction of inspired oxygen|General Surgery
+P/F ratio|Ratio of arterial oxygen to inspired oxygen fraction|General Surgery
+A-a gradient|Alveolar-arterial oxygen gradient|General Surgery
+ScvO2|Central venous oxygen saturation|General Surgery
+SvO2|Mixed venous oxygen saturation|General Surgery
+CVP|Central venous pressure|General Surgery
+PAC|Pulmonary artery catheter|General Surgery
+PCWP|Pulmonary capillary wedge pressure|General Surgery
+MAP|Mean arterial pressure|General Surgery
+SVR|Systemic vascular resistance|General Surgery
+SVV|Stroke volume variation|General Surgery
+PPV|Pulse pressure variation|General Surgery
+IAP|Intra-abdominal pressure|General Surgery
+IAH|Intra-abdominal hypertension|General Surgery
+ACS|Abdominal compartment syndrome|General Surgery
+APP|Abdominal perfusion pressure|General Surgery
+NPWT|Negative pressure wound therapy|General Surgery
+VAC|Vacuum-assisted closure|General Surgery
+STSG|Split-thickness skin graft|General Surgery
+FTSG|Full-thickness skin graft|General Surgery
+SSI|Surgical site infection|General Surgery
+SSTI|Skin and soft tissue infection|General Surgery
+NSTI|Necrotizing soft tissue infection|General Surgery
+I&D|Incision and drainage|General Surgery
+MRSA|Methicillin-resistant Staphylococcus aureus|General Surgery
+MSSA|Methicillin-sensitive Staphylococcus aureus|General Surgery
+VRE|Vancomycin-resistant Enterococcus|General Surgery
+ESBL|Extended-spectrum beta-lactamase|General Surgery
+CRE|Carbapenem-resistant Enterobacteriaceae|General Surgery
+CDI|Clostridioides difficile infection|General Surgery
+C diff|Clostridioides difficile|General Surgery
+CLABSI|Central line-associated bloodstream infection|General Surgery
+CAUTI|Catheter-associated urinary tract infection|General Surgery
+VAP|Ventilator-associated pneumonia|General Surgery
+HAP|Hospital-acquired pneumonia|General Surgery
+UTI|Urinary tract infection|General Surgery
+PNA|Pneumonia|General Surgery
+SIRS|Systemic inflammatory response syndrome|General Surgery
+qSOFA|Quick sequential organ failure assessment|General Surgery
+SOFA|Sequential organ failure assessment|General Surgery
+APACHE|Acute physiology and chronic health evaluation|General Surgery
+MODS|Multiple organ dysfunction syndrome|General Surgery
+ARDS|Acute respiratory distress syndrome|General Surgery
+PEEP|Positive end-expiratory pressure|General Surgery
+CPAP|Continuous positive airway pressure|General Surgery
+BiPAP|Bilevel positive airway pressure|General Surgery
+NIPPV|Noninvasive positive pressure ventilation|General Surgery
+HFNC|High-flow nasal cannula|General Surgery
+NRB|Non-rebreather mask|General Surgery
+ETT|Endotracheal tube|General Surgery
+ETI|Endotracheal intubation|General Surgery
+RSI|Rapid sequence intubation|General Surgery
+SBT|Spontaneous breathing trial|General Surgery
+RSBI|Rapid shallow breathing index|General Surgery
+SIMV|Synchronized intermittent mandatory ventilation|General Surgery
+PRVC|Pressure-regulated volume control|General Surgery
+Trach|Tracheostomy|General Surgery
+PDT|Percutaneous dilational tracheostomy|General Surgery
+CT|Computed tomography|General Surgery
+CXR|Chest X-ray|General Surgery
+KUB|Kidneys, ureters, and bladder radiograph|General Surgery
+AXR|Abdominal X-ray|General Surgery
+US|Ultrasound|General Surgery
+RUQ US|Right upper quadrant ultrasound|General Surgery
+MRI|Magnetic resonance imaging|General Surgery
+PET|Positron emission tomography|General Surgery
+PET-CT|Positron emission tomography with computed tomography|General Surgery
+CT A/P|Computed tomography of the abdomen and pelvis|General Surgery
+CT C/A/P|Computed tomography of the chest, abdomen, and pelvis|General Surgery
+PO contrast|Oral contrast|General Surgery
+IV contrast|Intravenous contrast|General Surgery
+IR|Interventional radiology|General Surgery
+GGE|Gastrografin enema|General Surgery
+FDG|Fluorodeoxyglucose|General Surgery
+SUV|Standardized uptake value|General Surgery
+CEA|Carcinoembryonic antigen|General Surgery
+CA 19-9|Carbohydrate antigen 19-9|General Surgery
+AFP|Alpha-fetoprotein|General Surgery
+PSA|Prostate-specific antigen|General Surgery
+hCG|Human chorionic gonadotropin|General Surgery
+LDH|Lactate dehydrogenase|General Surgery
+CRP|C-reactive protein|General Surgery
+ESR|Erythrocyte sedimentation rate|General Surgery
+PCT|Procalcitonin|General Surgery
+TSH|Thyroid-stimulating hormone|General Surgery
+PTH|Parathyroid hormone|General Surgery
+iPTH|Intact parathyroid hormone|General Surgery
+Ca|Calcium|General Surgery
+iCa|Ionized calcium|General Surgery
+Mg|Magnesium|General Surgery
+Phos|Phosphate|General Surgery
+K|Potassium|General Surgery
+Na|Sodium|General Surgery
+Cl|Chloride|General Surgery
+AG|Anion gap|General Surgery
+Lac|Lactate|General Surgery
+HbA1c|Glycosylated hemoglobin|General Surgery
+A1c|Glycosylated hemoglobin|General Surgery
+POC glucose|Point-of-care glucose|General Surgery
+FSBG|Fingerstick blood glucose|General Surgery
+FS|Fingerstick|General Surgery
+SSI|Sliding scale insulin|General Surgery
+HCC|Hepatocellular carcinoma|General Surgery
+NASH|Nonalcoholic steatohepatitis|General Surgery
+NAFLD|Nonalcoholic fatty liver disease|General Surgery
+MASLD|Metabolic dysfunction-associated steatotic liver disease|General Surgery
+ICC|Intrahepatic cholangiocarcinoma|General Surgery
+GBCA|Gallbladder carcinoma|General Surgery
+MELD|Model for end-stage liver disease|General Surgery
+TIPS|Transjugular intrahepatic portosystemic shunt|General Surgery
+SBP|Spontaneous bacterial peritonitis|General Surgery
+HRS|Hepatorenal syndrome|General Surgery
+HE|Hepatic encephalopathy|General Surgery
+PVT|Portal vein thrombosis|General Surgery
+HA|Hepatic artery|General Surgery
+SMA|Superior mesenteric artery|General Surgery
+SMV|Superior mesenteric vein|General Surgery
+IMA|Inferior mesenteric artery|General Surgery
+IMV|Inferior mesenteric vein|General Surgery
+CHA|Common hepatic artery|General Surgery
+GDA|Gastroduodenal artery|General Surgery
+NOMI|Nonocclusive mesenteric ischemia|General Surgery
+GIST|Gastrointestinal stromal tumor|General Surgery
+NET|Neuroendocrine tumor|General Surgery
+PNET|Pancreatic neuroendocrine tumor|General Surgery
+PDAC|Pancreatic ductal adenocarcinoma|General Surgery
+IPMN|Intraductal papillary mucinous neoplasm|General Surgery
+PPPD|Pylorus-preserving pancreaticoduodenectomy|General Surgery
+DPS|Distal pancreatectomy with splenectomy|General Surgery
+TPIAT|Total pancreatectomy with islet autotransplantation|General Surgery
+POPF|Postoperative pancreatic fistula|General Surgery
+DGE|Delayed gastric emptying|General Surgery
+PPH|Post-pancreatectomy hemorrhage|General Surgery
+LAPC|Locally advanced pancreatic cancer|General Surgery
+CRT|Chemoradiotherapy|General Surgery
+CTX|Chemotherapy|General Surgery
+XRT|Radiation therapy|General Surgery
+HIPEC|Hyperthermic intraperitoneal chemotherapy|General Surgery
+CRS-HIPEC|Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy|General Surgery
+PCI|Peritoneal cancer index|General Surgery
+PMP|Pseudomyxoma peritonei|General Surgery
+FOLFOX|Folinic acid, fluorouracil, and oxaliplatin regimen|General Surgery
+FOLFIRI|Folinic acid, fluorouracil, and irinotecan regimen|General Surgery
+5-FU|Fluorouracil|General Surgery
+cCR|Clinical complete response|General Surgery
+pCR|Pathologic complete response|General Surgery
+cT|Clinical tumor stage|General Surgery
+pT|Pathologic tumor stage|General Surgery
+cN|Clinical nodal stage|General Surgery
+pN|Pathologic nodal stage|General Surgery
+cM|Clinical metastasis stage|General Surgery
+TNM|Tumor, node, metastasis|General Surgery
+LN|Lymph node|General Surgery
+LND|Lymph node dissection|General Surgery
+SLN|Sentinel lymph node|General Surgery
+SLNB|Sentinel lymph node biopsy|General Surgery
+ALND|Axillary lymph node dissection|General Surgery
+MLND|Modified lymph node dissection|General Surgery
+R0|Resection with negative microscopic margins|General Surgery
+R1|Resection with positive microscopic margins|General Surgery
+R2|Resection with gross residual tumor|General Surgery
+CRM|Circumferential resection margin|General Surgery
+DCIS|Ductal carcinoma in situ|General Surgery
+ER|Estrogen receptor|General Surgery
+HER2|Human epidermal growth factor receptor 2|General Surgery
+BCS|Breast-conserving surgery|General Surgery
+MRM|Modified radical mastectomy|General Surgery
+PTC|Papillary thyroid carcinoma|General Surgery
+RLN|Recurrent laryngeal nerve|General Surgery
+PHPT|Primary hyperparathyroidism|General Surgery
+MEN|Multiple endocrine neoplasia|General Surgery
+PHEO|Pheochromocytoma|General Surgery
+ACC|Adrenocortical carcinoma|General Surgery
+RFA|Radiofrequency ablation|General Surgery
+MWA|Microwave ablation|General Surgery
+TACE|Transarterial chemoembolization|General Surgery
+TARE|Transarterial radioembolization|General Surgery
+PVE|Portal vein embolization|General Surgery
+ALPPS|Associating liver partition and portal vein ligation for staged hepatectomy|General Surgery
+FLR|Future liver remnant|General Surgery
+OLT|Orthotopic liver transplant|General Surgery
+LDLT|Living donor liver transplant|General Surgery
+DCD|Donation after circulatory death|General Surgery
+DBD|Donation after brain death|General Surgery
+BPH|Benign prostatic hyperplasia|General Surgery
+TURP|Transurethral resection of the prostate|General Surgery
+Foley|Indwelling urinary catheter|General Surgery
+SCC|Squamous cell carcinoma|General Surgery
+MMS|Mohs micrographic surgery|General Surgery
+ILND|Inguinal lymph node dissection|General Surgery
+TBSA|Total body surface area|General Surgery
+DFU|Diabetic foot ulcer|General Surgery
+VLU|Venous leg ulcer|General Surgery
+NEC|Necrotizing enterocolitis|General Surgery
+CDH|Congenital diaphragmatic hernia|General Surgery
+TEF|Tracheoesophageal fistula|General Surgery
+EA|Esophageal atresia|General Surgery
+IHPS|Infantile hypertrophic pyloric stenosis|General Surgery
+HSCR|Hirschsprung disease|General Surgery
+ARM|Anorectal malformation|General Surgery
+PCD|Percutaneous drain|General Surgery
+PCA|Patient-controlled analgesia|General Surgery
+ESP|Erector spinae plane block|General Surgery
+TAP|Transversus abdominis plane block|General Surgery
+TAP block|Transversus abdominis plane block|General Surgery
+PNB|Peripheral nerve block|General Surgery
+MAC|Monitored anesthesia care|General Surgery
+NMB|Neuromuscular blockade|General Surgery
+PONV|Postoperative nausea and vomiting|General Surgery
+POI|Postoperative ileus|General Surgery
+POAF|Postoperative atrial fibrillation|General Surgery
+CAM|Confusion assessment method|General Surgery
+CAM-ICU|Confusion assessment method for the intensive care unit|General Surgery
+RASS|Richmond Agitation-Sedation Scale|General Surgery
+VAS|Visual analog scale|General Surgery
+OME|Oral morphine equivalents|General Surgery
+MME|Morphine milligram equivalents|General Surgery
+APAP|Acetaminophen|General Surgery
+IV APAP|Intravenous acetaminophen|General Surgery
+MMA|Multimodal analgesia|General Surgery
+OUD|Opioid use disorder|General Surgery
+CIWA|Clinical Institute Withdrawal Assessment for Alcohol|General Surgery
+AWS|Alcohol withdrawal syndrome|General Surgery
+G-CSF|Granulocyte colony-stimulating factor|General Surgery
+FN|Febrile neutropenia|General Surgery
+MBO|Malignant bowel obstruction|General Surgery
+ECF|Enterocutaneous fistula|General Surgery
+EAF|Enteroatmospheric fistula|General Surgery
+RVF|Rectovaginal fistula|General Surgery
+FIA|Fistula in ano|General Surgery
+LIFT|Ligation of intersphincteric fistula tract|General Surgery
+RBL|Rubber band ligation|General Surgery
+LIS|Lateral internal sphincterotomy|General Surgery
+PAA|Perianal abscess|General Surgery
+PND|Pilonidal disease|General Surgery
+HPV|Human papillomavirus|General Surgery
+HIV|Human immunodeficiency virus|General Surgery
+STI|Sexually transmitted infection|General Surgery
+RP|Rectal prolapse|General Surgery
+ODS|Obstructed defecation syndrome|General Surgery
+FI|Fecal incontinence|General Surgery
+IBS|Irritable bowel syndrome|General Surgery
+STC|Slow transit constipation|General Surgery
+OIC|Opioid-induced constipation|General Surgery
+CIPO|Chronic intestinal pseudo-obstruction|General Surgery
+ACPO|Acute colonic pseudo-obstruction|General Surgery
+FMT|Fecal microbiota transplant|General Surgery
+WOCN|Wound, ostomy, and continence nurse|General Surgery
+SSO|Surgical site occurrence|General Surgery
+AAST|Organ injury grading scale for trauma|General Surgery
+OIS|Organ injury scale|General Surgery
+NOM|Nonoperative management|General Surgery
+DCS|Damage control surgery|General Surgery
+DCR|Damage control resuscitation|General Surgery
+REBOA|Resuscitative endovascular balloon occlusion of the aorta|General Surgery
+PLR|Passive leg raise|General Surgery
+HOB|Head of bed|General Surgery
+RTC|Return to clinic|General Surgery
+RTO|Return to operating room|General Surgery
+ADL|Activities of daily living|General Surgery
+IADL|Instrumental activities of daily living|General Surgery
+WBAT|Weight bearing as tolerated|General Surgery
+NWB|Non-weight bearing|General Surgery
+ROM|Range of motion|General Surgery
+TCAR|Transcarotid artery revascularization|General Surgery
+ICA|Internal carotid artery|General Surgery
+ECA|External carotid artery|General Surgery
+VA|Vertebral artery|General Surgery
+SCA|Subclavian artery|General Surgery
+rAAA|Ruptured abdominal aortic aneurysm|General Surgery
+TAA|Thoracic aortic aneurysm|General Surgery
+TAAA|Thoracoabdominal aortic aneurysm|General Surgery
+IMH|Intramural hematoma|General Surgery
+PAU|Penetrating aortic ulcer|General Surgery
+ECG|Electrocardiogram|General Surgery
+RCRI|Revised cardiac risk index|General Surgery
+METs|Metabolic equivalents|General Surgery
+PPC|Postoperative pulmonary complications|General Surgery
+IS spirometry|Incentive spirometry|General Surgery
+CPT|Chest physiotherapy|General Surgery
+DB&C|Deep breathing and coughing|General Surgery
+AVM|Arteriovenous malformation|General Surgery
+HM|Hematemesis|General Surgery
+HC|Hematochezia|General Surgery
+MEL|Melena|General Surgery
+PC|Palliative care|General Surgery
+BAI|Blunt aortic injury|General Surgery
+BCI|Blunt cardiac injury|General Surgery
+BTI|Blunt thoracic injury|General Surgery
+PTI|Penetrating thoracic injury|General Surgery
+PAT|Penetrating abdominal trauma|General Surgery
+BAT|Blunt abdominal trauma|General Surgery
+ACS|Acute coronary syndrome|General Surgery
+CEA|Carotid endarterectomy|General Surgery

@@ -1,0 +1,694 @@
+AAA|Abdominal aortic aneurysm|Cardiology
+AAD|Acute aortic dissection|Cardiology
+AAD|Antiarrhythmic drug|Cardiology
+AAI|Atrial-paced, atrial-sensed, inhibited pacing mode|Cardiology
+AAS|Acute aortic syndrome|Cardiology
+AAOCA|Anomalous aortic origin of a coronary artery|Cardiology
+ABI|Ankle-brachial index|Cardiology
+ABG|Arterial blood gas|Cardiology
+ABPM|Ambulatory blood pressure monitoring|Cardiology
+ACE|Angiotensin-converting enzyme|Cardiology
+ACEI|Angiotensin-converting enzyme inhibitor|Cardiology
+ACS|Acute coronary syndrome|Cardiology
+ACT|Activated clotting time|Cardiology
+ACHD|Adult congenital heart disease|Cardiology
+AD|Aortic dissection|Cardiology
+ADHF|Acute decompensated heart failure|Cardiology
+AF|Atrial fibrillation|Cardiology
+AFib|Atrial fibrillation|Cardiology
+AFL|Atrial flutter|Cardiology
+AFlutter|Atrial flutter|Cardiology
+AI|Aortic insufficiency|Cardiology
+AICD|Automatic implantable cardioverter-defibrillator|Cardiology
+AIVR|Accelerated idioventricular rhythm|Cardiology
+AMI|Acute myocardial infarction|Cardiology
+AML|Anterior mitral leaflet|Cardiology
+ANP|Atrial natriuretic peptide|Cardiology
+AO|Aorta|Cardiology
+AoV|Aortic valve|Cardiology
+AP|Angina pectoris|Cardiology
+APB|Atrial premature beat|Cardiology
+APC|Atrial premature complex|Cardiology
+APD|Action potential duration|Cardiology
+AR|Aortic regurgitation|Cardiology
+ARB|Angiotensin receptor blocker|Cardiology
+ARNI|Angiotensin receptor-neprilysin inhibitor|Cardiology
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Cardiology
+ARVD|Arrhythmogenic right ventricular dysplasia|Cardiology
+AS|Aortic stenosis|Cardiology
+ASA|Aspirin|Cardiology
+ASA|Atrial septal aneurysm|Cardiology
+ASCVD|Atherosclerotic cardiovascular disease|Cardiology
+ASD|Atrial septal defect|Cardiology
+ASH|Asymmetric septal hypertrophy|Cardiology
+AT|Atrial tachycardia|Cardiology
+AT|Acceleration time|Cardiology
+ATP|Antitachycardia pacing|Cardiology
+AV|Atrioventricular|Cardiology
+AV|Aortic valve|Cardiology
+AVA|Aortic valve area|Cardiology
+AVB|Atrioventricular block|Cardiology
+AVM|Arteriovenous malformation|Cardiology
+AVN|Atrioventricular node|Cardiology
+AVNRT|Atrioventricular nodal reentrant tachycardia|Cardiology
+AVR|Aortic valve replacement|Cardiology
+AVR|Augmented vector right lead|Cardiology
+aVF|Augmented vector foot lead|Cardiology
+aVL|Augmented vector left lead|Cardiology
+AVRT|Atrioventricular reentrant tachycardia|Cardiology
+AVSD|Atrioventricular septal defect|Cardiology
+AWMI|Anterior wall myocardial infarction|Cardiology
+BAV|Bicuspid aortic valve|Cardiology
+BAV|Balloon aortic valvuloplasty|Cardiology
+BBB|Bundle branch block|Cardiology
+BiV|Biventricular|Cardiology
+BMS|Bare-metal stent|Cardiology
+BNP|B-type natriuretic peptide|Cardiology
+BP|Blood pressure|Cardiology
+BPM|Beats per minute|Cardiology
+BRS|Bioresorbable scaffold|Cardiology
+BSA|Body surface area|Cardiology
+BTC|Bridge to candidacy|Cardiology
+BTD|Bridge to decision|Cardiology
+BTR|Bridge to recovery|Cardiology
+BTT|Bridge to transplant|Cardiology
+BVAD|Biventricular assist device|Cardiology
+BVP|Biventricular pacing|Cardiology
+CA|Cardiac arrest|Cardiology
+CA|Cardiac amyloidosis|Cardiology
+CABG|Coronary artery bypass graft|Cardiology
+CAC|Coronary artery calcium|Cardiology
+CACS|Coronary artery calcium score|Cardiology
+CAD|Coronary artery disease|Cardiology
+CAF|Coronary artery fistula|Cardiology
+CAG|Coronary angiography|Cardiology
+CAS|Carotid artery stenting|Cardiology
+CAVB|Complete atrioventricular block|Cardiology
+CAVD|Calcific aortic valve disease|Cardiology
+CBF|Coronary blood flow|Cardiology
+CCB|Calcium channel blocker|Cardiology
+CCM|Cardiac contractility modulation|Cardiology
+CCS|Chronic coronary syndrome|Cardiology
+CCS|Canadian Cardiovascular Society angina class|Cardiology
+CCTA|Coronary computed tomography angiography|Cardiology
+CCU|Cardiac care unit|Cardiology
+CEA|Carotid endarterectomy|Cardiology
+CF|Continuous flow|Cardiology
+CFR|Coronary flow reserve|Cardiology
+CFVR|Coronary flow velocity reserve|Cardiology
+CHB|Complete heart block|Cardiology
+CHD|Congenital heart disease|Cardiology
+CHD|Coronary heart disease|Cardiology
+CHF|Congestive heart failure|Cardiology
+CI|Cardiac index|Cardiology
+CIED|Cardiac implantable electronic device|Cardiology
+CK|Creatine kinase|Cardiology
+CK-MB|Creatine kinase myocardial band|Cardiology
+CKD|Chronic kidney disease|Cardiology
+CLI|Critical limb ischemia|Cardiology
+CMR|Cardiac magnetic resonance|Cardiology
+CMP|Cardiomyopathy|Cardiology
+CO|Cardiac output|Cardiology
+COPD|Chronic obstructive pulmonary disease|Cardiology
+COR|Class of recommendation|Cardiology
+CP|Chest pain|Cardiology
+CPAP|Continuous positive airway pressure|Cardiology
+CPB|Cardiopulmonary bypass|Cardiology
+CPET|Cardiopulmonary exercise test|Cardiology
+CPO|Cardiac power output|Cardiology
+CPR|Cardiopulmonary resuscitation|Cardiology
+CPVT|Catecholaminergic polymorphic ventricular tachycardia|Cardiology
+CRP|C-reactive protein|Cardiology
+CRT|Cardiac resynchronization therapy|Cardiology
+CRT-D|Cardiac resynchronization therapy defibrillator|Cardiology
+CRT-P|Cardiac resynchronization therapy pacemaker|Cardiology
+CS|Coronary sinus|Cardiology
+CS|Cardiogenic shock|Cardiology
+CSA|Central sleep apnea|Cardiology
+CSM|Carotid sinus massage|Cardiology
+CSS|Carotid sinus syndrome|Cardiology
+CT|Computed tomography|Cardiology
+CTA|Computed tomography angiography|Cardiology
+CTEPH|Chronic thromboembolic pulmonary hypertension|Cardiology
+CTO|Chronic total occlusion|Cardiology
+CTPA|Computed tomography pulmonary angiogram|Cardiology
+CTI|Cavotricuspid isthmus|Cardiology
+cTn|Cardiac troponin|Cardiology
+cTnI|Cardiac troponin I|Cardiology
+cTnT|Cardiac troponin T|Cardiology
+CVA|Cerebrovascular accident|Cardiology
+CVD|Cardiovascular disease|Cardiology
+CVICU|Cardiovascular intensive care unit|Cardiology
+CVP|Central venous pressure|Cardiology
+CVVH|Continuous venovenous hemofiltration|Cardiology
+CW|Continuous-wave Doppler|Cardiology
+CXR|Chest x-ray|Cardiology
+DAPT|Dual antiplatelet therapy|Cardiology
+DBP|Diastolic blood pressure|Cardiology
+DC|Direct current|Cardiology
+DCCV|Direct current cardioversion|Cardiology
+DCM|Dilated cardiomyopathy|Cardiology
+DCB|Drug-coated balloon|Cardiology
+DDD|Dual-paced, dual-sensed, dual-response pacing mode|Cardiology
+DDDR|Dual-chamber rate-responsive pacing mode|Cardiology
+DDI|Dual-paced, dual-sensed, inhibited pacing mode|Cardiology
+DES|Drug-eluting stent|Cardiology
+DFT|Defibrillation threshold|Cardiology
+DHP|Dihydropyridine|Cardiology
+DIC|Disseminated intravascular coagulation|Cardiology
+DM|Diabetes mellitus|Cardiology
+DOAC|Direct oral anticoagulant|Cardiology
+DOE|Dyspnea on exertion|Cardiology
+DSE|Dobutamine stress echocardiography|Cardiology
+DT|Deceleration time|Cardiology
+DT|Destination therapy|Cardiology
+DTI|Direct thrombin inhibitor|Cardiology
+DTI|Doppler tissue imaging|Cardiology
+DVI|Dual-paced, ventricular-sensed, inhibited pacing mode|Cardiology
+DVT|Deep vein thrombosis|Cardiology
+EAT|Ectopic atrial tachycardia|Cardiology
+ECG|Electrocardiogram|Cardiology
+ECHO|Echocardiogram|Cardiology
+ECMO|Extracorporeal membrane oxygenation|Cardiology
+ECPR|Extracorporeal cardiopulmonary resuscitation|Cardiology
+ED|Emergency department|Cardiology
+EDV|End-diastolic volume|Cardiology
+EDP|End-diastolic pressure|Cardiology
+EDD|End-diastolic dimension|Cardiology
+EF|Ejection fraction|Cardiology
+EGD|Esophagogastroduodenoscopy|Cardiology
+EKG|Electrocardiogram|Cardiology
+EMB|Endomyocardial biopsy|Cardiology
+EMD|Electromechanical dissociation|Cardiology
+EP|Electrophysiology|Cardiology
+EPS|Electrophysiology study|Cardiology
+EROA|Effective regurgitant orifice area|Cardiology
+ERP|Effective refractory period|Cardiology
+ESR|Erythrocyte sedimentation rate|Cardiology
+ESRD|End-stage renal disease|Cardiology
+ESV|End-systolic volume|Cardiology
+ESD|End-systolic dimension|Cardiology
+ET|Ejection time|Cardiology
+ETT|Exercise treadmill test|Cardiology
+EVAR|Endovascular aneurysm repair|Cardiology
+EVH|Endoscopic vein harvest|Cardiology
+EVT|Endovascular therapy|Cardiology
+FAC|Fractional area change|Cardiology
+FBS|Fasting blood sugar|Cardiology
+FFR|Fractional flow reserve|Cardiology
+FFRCT|Fractional flow reserve by computed tomography|Cardiology
+FH|Familial hypercholesterolemia|Cardiology
+FMD|Fibromuscular dysplasia|Cardiology
+FMD|Flow-mediated dilation|Cardiology
+FS|Fractional shortening|Cardiology
+FVC|Forced vital capacity|Cardiology
+GCA|Giant cell arteritis|Cardiology
+GDMT|Guideline-directed medical therapy|Cardiology
+GFR|Glomerular filtration rate|Cardiology
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Cardiology
+GLS|Global longitudinal strain|Cardiology
+GPI|Glycoprotein IIb/IIIa inhibitor|Cardiology
+GTN|Glyceryl trinitrate|Cardiology
+HAS-BLED|Hypertension, abnormal renal or liver function, stroke, bleeding, labile INR, elderly, drugs or alcohol bleeding score|Cardiology
+HB|Heart block|Cardiology
+HCM|Hypertrophic cardiomyopathy|Cardiology
+HCTZ|Hydrochlorothiazide|Cardiology
+HDL|High-density lipoprotein|Cardiology
+HDL-C|High-density lipoprotein cholesterol|Cardiology
+HF|Heart failure|Cardiology
+HFmrEF|Heart failure with mildly reduced ejection fraction|Cardiology
+HFpEF|Heart failure with preserved ejection fraction|Cardiology
+HFrEF|Heart failure with reduced ejection fraction|Cardiology
+HFimpEF|Heart failure with improved ejection fraction|Cardiology
+HIT|Heparin-induced thrombocytopenia|Cardiology
+HLD|Hyperlipidemia|Cardiology
+HLHS|Hypoplastic left heart syndrome|Cardiology
+HOCM|Hypertrophic obstructive cardiomyopathy|Cardiology
+HR|Heart rate|Cardiology
+HRV|Heart rate variability|Cardiology
+HS-cTn|High-sensitivity cardiac troponin|Cardiology
+hsCRP|High-sensitivity C-reactive protein|Cardiology
+hs-cTnI|High-sensitivity cardiac troponin I|Cardiology
+hs-cTnT|High-sensitivity cardiac troponin T|Cardiology
+HTN|Hypertension|Cardiology
+HTX|Heart transplant|Cardiology
+HV|His-ventricular interval|Cardiology
+IABP|Intra-aortic balloon pump|Cardiology
+IART|Intra-atrial reentrant tachycardia|Cardiology
+IC|Intracoronary|Cardiology
+ICA|Internal carotid artery|Cardiology
+ICA|Invasive coronary angiography|Cardiology
+ICD|Implantable cardioverter-defibrillator|Cardiology
+ICM|Ischemic cardiomyopathy|Cardiology
+ICM|Implantable cardiac monitor|Cardiology
+ICU|Intensive care unit|Cardiology
+IE|Infective endocarditis|Cardiology
+IHD|Ischemic heart disease|Cardiology
+IHSS|Idiopathic hypertrophic subaortic stenosis|Cardiology
+IJ|Internal jugular|Cardiology
+ILR|Implantable loop recorder|Cardiology
+IMA|Internal mammary artery|Cardiology
+IMT|Intima-media thickness|Cardiology
+INR|International normalized ratio|Cardiology
+IPAH|Idiopathic pulmonary arterial hypertension|Cardiology
+IRBBB|Incomplete right bundle branch block|Cardiology
+ISA|Intrinsic sympathomimetic activity|Cardiology
+ISDN|Isosorbide dinitrate|Cardiology
+ISMN|Isosorbide mononitrate|Cardiology
+ISR|In-stent restenosis|Cardiology
+IV|Intravenous|Cardiology
+IVC|Inferior vena cava|Cardiology
+IVCD|Intraventricular conduction delay|Cardiology
+IVCT|Isovolumic contraction time|Cardiology
+IVD|Intraventricular delay|Cardiology
+IVRT|Isovolumic relaxation time|Cardiology
+IVS|Interventricular septum|Cardiology
+IVSd|Interventricular septal thickness in diastole|Cardiology
+IVUS|Intravascular ultrasound|Cardiology
+JET|Junctional ectopic tachycardia|Cardiology
+JVD|Jugular venous distension|Cardiology
+JVP|Jugular venous pressure|Cardiology
+LA|Left atrium|Cardiology
+LAA|Left atrial appendage|Cardiology
+LAAC|Left atrial appendage closure|Cardiology
+LAAO|Left atrial appendage occlusion|Cardiology
+LAD|Left anterior descending artery|Cardiology
+LAD|Left axis deviation|Cardiology
+LAE|Left atrial enlargement|Cardiology
+LAFB|Left anterior fascicular block|Cardiology
+LAH|Left atrial hypertrophy|Cardiology
+LAO|Left anterior oblique|Cardiology
+LAP|Left atrial pressure|Cardiology
+LAVI|Left atrial volume index|Cardiology
+LBBB|Left bundle branch block|Cardiology
+LBBAP|Left bundle branch area pacing|Cardiology
+LBP|Left bundle pacing|Cardiology
+LCA|Left coronary artery|Cardiology
+LCC|Left coronary cusp|Cardiology
+LCx|Left circumflex artery|Cardiology
+LCX|Left circumflex artery|Cardiology
+LDH|Lactate dehydrogenase|Cardiology
+LDL|Low-density lipoprotein|Cardiology
+LDL-C|Low-density lipoprotein cholesterol|Cardiology
+LE|Lower extremity|Cardiology
+LFT|Liver function test|Cardiology
+LGE|Late gadolinium enhancement|Cardiology
+LIMA|Left internal mammary artery|Cardiology
+LIPV|Left inferior pulmonary vein|Cardiology
+LLSB|Left lower sternal border|Cardiology
+LM|Left main|Cardiology
+LMCA|Left main coronary artery|Cardiology
+LMWH|Low-molecular-weight heparin|Cardiology
+Lp(a)|Lipoprotein(a)|Cardiology
+LPFB|Left posterior fascicular block|Cardiology
+LPH|Left posterior hemiblock|Cardiology
+LPV|Left pulmonary vein|Cardiology
+LSB|Left sternal border|Cardiology
+LSPV|Left superior pulmonary vein|Cardiology
+LSVC|Left superior vena cava|Cardiology
+LUPV|Left upper pulmonary vein|Cardiology
+LV|Left ventricle|Cardiology
+LVAD|Left ventricular assist device|Cardiology
+LVDd|Left ventricular diastolic dimension|Cardiology
+LVEDD|Left ventricular end-diastolic dimension|Cardiology
+LVEDP|Left ventricular end-diastolic pressure|Cardiology
+LVEDV|Left ventricular end-diastolic volume|Cardiology
+LVEF|Left ventricular ejection fraction|Cardiology
+LVESD|Left ventricular end-systolic dimension|Cardiology
+LVESV|Left ventricular end-systolic volume|Cardiology
+LVH|Left ventricular hypertrophy|Cardiology
+LVID|Left ventricular internal dimension|Cardiology
+LVIDd|Left ventricular internal dimension in diastole|Cardiology
+LVIDs|Left ventricular internal dimension in systole|Cardiology
+LVM|Left ventricular mass|Cardiology
+LVMI|Left ventricular mass index|Cardiology
+LVNC|Left ventricular noncompaction|Cardiology
+LVOT|Left ventricular outflow tract|Cardiology
+LVOTO|Left ventricular outflow tract obstruction|Cardiology
+LVOT VTI|Left ventricular outflow tract velocity time integral|Cardiology
+LVPW|Left ventricular posterior wall|Cardiology
+LVPWd|Left ventricular posterior wall thickness in diastole|Cardiology
+LVSD|Left ventricular systolic dysfunction|Cardiology
+LVSP|Left ventricular systolic pressure|Cardiology
+LVT|Left ventricular thrombus|Cardiology
+LUSB|Left upper sternal border|Cardiology
+MA|Mitral annulus|Cardiology
+MAC|Mitral annular calcification|Cardiology
+MACE|Major adverse cardiovascular events|Cardiology
+MAP|Mean arterial pressure|Cardiology
+MAT|Multifocal atrial tachycardia|Cardiology
+MBF|Myocardial blood flow|Cardiology
+MCS|Mechanical circulatory support|Cardiology
+MET|Metabolic equivalent of task|Cardiology
+METs|Metabolic equivalents|Cardiology
+MI|Myocardial infarction|Cardiology
+MI|Mitral insufficiency|Cardiology
+MINOCA|Myocardial infarction with nonobstructive coronary arteries|Cardiology
+MIDCAB|Minimally invasive direct coronary artery bypass|Cardiology
+MLA|Minimal lumen area|Cardiology
+MLD|Minimal lumen diameter|Cardiology
+MPA|Main pulmonary artery|Cardiology
+MPI|Myocardial perfusion imaging|Cardiology
+MPI|Myocardial performance index|Cardiology
+MR|Mitral regurgitation|Cardiology
+MRA|Mineralocorticoid receptor antagonist|Cardiology
+MRA|Magnetic resonance angiography|Cardiology
+MRI|Magnetic resonance imaging|Cardiology
+MS|Mitral stenosis|Cardiology
+MSCT|Multislice computed tomography|Cardiology
+MV|Mitral valve|Cardiology
+MVA|Mitral valve area|Cardiology
+MVO2|Myocardial oxygen consumption|Cardiology
+MVP|Mitral valve prolapse|Cardiology
+MVR|Mitral valve replacement|Cardiology
+MVR|Mitral valve repair|Cardiology
+NCS|Noncardiac surgery|Cardiology
+NIBP|Noninvasive blood pressure|Cardiology
+NICM|Nonischemic cardiomyopathy|Cardiology
+NIPPV|Noninvasive positive pressure ventilation|Cardiology
+NIV|Noninvasive ventilation|Cardiology
+NOAC|Novel oral anticoagulant|Cardiology
+NSAID|Nonsteroidal anti-inflammatory drug|Cardiology
+NSR|Normal sinus rhythm|Cardiology
+NSTE-ACS|Non-ST-elevation acute coronary syndrome|Cardiology
+NSTEMI|Non-ST-elevation myocardial infarction|Cardiology
+NSVT|Nonsustained ventricular tachycardia|Cardiology
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Cardiology
+NTG|Nitroglycerin|Cardiology
+NYHA|New York Heart Association functional class|Cardiology
+OCT|Optical coherence tomography|Cardiology
+OHCA|Out-of-hospital cardiac arrest|Cardiology
+OMT|Optimal medical therapy|Cardiology
+OPCAB|Off-pump coronary artery bypass|Cardiology
+OR|Operating room|Cardiology
+OSA|Obstructive sleep apnea|Cardiology
+OTW|Over-the-wire|Cardiology
+PA|Pulmonary artery|Cardiology
+PAC|Premature atrial contraction|Cardiology
+PAC|Pulmonary artery catheter|Cardiology
+PAD|Peripheral artery disease|Cardiology
+PADP|Pulmonary artery diastolic pressure|Cardiology
+PAF|Paroxysmal atrial fibrillation|Cardiology
+PAH|Pulmonary arterial hypertension|Cardiology
+PAP|Pulmonary artery pressure|Cardiology
+PASP|Pulmonary artery systolic pressure|Cardiology
+PAT|Paroxysmal atrial tachycardia|Cardiology
+PAWP|Pulmonary artery wedge pressure|Cardiology
+PBMV|Percutaneous balloon mitral valvuloplasty|Cardiology
+PBV|Percutaneous balloon valvuloplasty|Cardiology
+PCC|Prothrombin complex concentrate|Cardiology
+PCI|Percutaneous coronary intervention|Cardiology
+PCWP|Pulmonary capillary wedge pressure|Cardiology
+PDA|Patent ductus arteriosus|Cardiology
+PDA|Posterior descending artery|Cardiology
+PE|Pulmonary embolism|Cardiology
+PE|Pericardial effusion|Cardiology
+PE|Physical examination|Cardiology
+PEA|Pulseless electrical activity|Cardiology
+PET|Positron emission tomography|Cardiology
+PEEP|Positive end-expiratory pressure|Cardiology
+PFO|Patent foramen ovale|Cardiology
+PH|Pulmonary hypertension|Cardiology
+PHT|Pressure half-time|Cardiology
+PI|Pulmonary insufficiency|Cardiology
+PICC|Peripherally inserted central catheter|Cardiology
+PJC|Premature junctional contraction|Cardiology
+PLAX|Parasternal long axis|Cardiology
+PLSVC|Persistent left superior vena cava|Cardiology
+PMI|Point of maximal impulse|Cardiology
+PML|Posterior mitral leaflet|Cardiology
+PMT|Pacemaker-mediated tachycardia|Cardiology
+PND|Paroxysmal nocturnal dyspnea|Cardiology
+PPCM|Peripartum cardiomyopathy|Cardiology
+PPI|Proton pump inhibitor|Cardiology
+PPM|Permanent pacemaker|Cardiology
+PPM|Patient-prosthesis mismatch|Cardiology
+PR|Pulmonary regurgitation|Cardiology
+PRU|P2Y12 reaction units|Cardiology
+PS|Pulmonary stenosis|Cardiology
+PSAX|Parasternal short axis|Cardiology
+PSVT|Paroxysmal supraventricular tachycardia|Cardiology
+PT|Prothrombin time|Cardiology
+PTCA|Percutaneous transluminal coronary angioplasty|Cardiology
+PTT|Partial thromboplastin time|Cardiology
+PV|Pulmonary vein|Cardiology
+PV|Pulmonic valve|Cardiology
+PVC|Premature ventricular contraction|Cardiology
+PVD|Peripheral vascular disease|Cardiology
+PVI|Pulmonary vein isolation|Cardiology
+PVR|Pulmonary vascular resistance|Cardiology
+PVRI|Pulmonary vascular resistance index|Cardiology
+PW|Pulsed-wave Doppler|Cardiology
+PW|Posterior wall|Cardiology
+PWd|Posterior wall thickness in diastole|Cardiology
+PWT|Posterior wall thickness|Cardiology
+QCA|Quantitative coronary angiography|Cardiology
+QTc|Corrected QT interval|Cardiology
+QTcB|QT interval corrected by Bazett formula|Cardiology
+QTcF|QT interval corrected by Fridericia formula|Cardiology
+QRS|QRS complex|Cardiology
+RA|Right atrium|Cardiology
+RAA|Right atrial appendage|Cardiology
+RAD|Right axis deviation|Cardiology
+RAE|Right atrial enlargement|Cardiology
+RAO|Right anterior oblique|Cardiology
+RAP|Right atrial pressure|Cardiology
+RAAS|Renin-angiotensin-aldosterone system|Cardiology
+RAS|Renal artery stenosis|Cardiology
+RBBB|Right bundle branch block|Cardiology
+RCA|Right coronary artery|Cardiology
+RCC|Right coronary cusp|Cardiology
+RCM|Restrictive cardiomyopathy|Cardiology
+RDN|Renal denervation|Cardiology
+RF|Radiofrequency|Cardiology
+RF|Regurgitant fraction|Cardiology
+RFA|Radiofrequency ablation|Cardiology
+RHC|Right heart catheterization|Cardiology
+RIMA|Right internal mammary artery|Cardiology
+RIPV|Right inferior pulmonary vein|Cardiology
+RLSB|Right lower sternal border|Cardiology
+ROSC|Return of spontaneous circulation|Cardiology
+RPA|Right pulmonary artery|Cardiology
+RPV|Right pulmonary vein|Cardiology
+RRR|Regular rate and rhythm|Cardiology
+RRR|Relative risk reduction|Cardiology
+RSB|Right sternal border|Cardiology
+RSPV|Right superior pulmonary vein|Cardiology
+RSR|Regular sinus rhythm|Cardiology
+RV|Right ventricle|Cardiology
+RVAD|Right ventricular assist device|Cardiology
+RVEDP|Right ventricular end-diastolic pressure|Cardiology
+RVEF|Right ventricular ejection fraction|Cardiology
+RVH|Right ventricular hypertrophy|Cardiology
+RVOT|Right ventricular outflow tract|Cardiology
+RVOTO|Right ventricular outflow tract obstruction|Cardiology
+RVOT-VT|Right ventricular outflow tract ventricular tachycardia|Cardiology
+RVP|Right ventricular pressure|Cardiology
+RVP|Right ventricular pacing|Cardiology
+RVSP|Right ventricular systolic pressure|Cardiology
+RVSWI|Right ventricular stroke work index|Cardiology
+RUPV|Right upper pulmonary vein|Cardiology
+RUSB|Right upper sternal border|Cardiology
+RVol|Regurgitant volume|Cardiology
+RWMA|Regional wall motion abnormality|Cardiology
+SA|Sinoatrial|Cardiology
+SAM|Systolic anterior motion|Cardiology
+SAN|Sinoatrial node|Cardiology
+SAVR|Surgical aortic valve replacement|Cardiology
+SBE|Subacute bacterial endocarditis|Cardiology
+SBP|Systolic blood pressure|Cardiology
+SCA|Sudden cardiac arrest|Cardiology
+SCAD|Spontaneous coronary artery dissection|Cardiology
+SCD|Sudden cardiac death|Cardiology
+SDS|Summed difference score|Cardiology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Cardiology
+SHD|Structural heart disease|Cardiology
+SIHD|Stable ischemic heart disease|Cardiology
+SL|Sublingual|Cardiology
+SLE|Systemic lupus erythematosus|Cardiology
+SM|Systolic murmur|Cardiology
+SND|Sinus node dysfunction|Cardiology
+SNRT|Sinus node recovery time|Cardiology
+SOB|Shortness of breath|Cardiology
+SOBOE|Shortness of breath on exertion|Cardiology
+SPECT|Single-photon emission computed tomography|Cardiology
+SQTS|Short QT syndrome|Cardiology
+SR|Sinus rhythm|Cardiology
+SRS|Summed rest score|Cardiology
+SSS|Sick sinus syndrome|Cardiology
+SSS|Summed stress score|Cardiology
+ST|Sinus tachycardia|Cardiology
+ST|Stent thrombosis|Cardiology
+STE|ST elevation|Cardiology
+STEMI|ST-elevation myocardial infarction|Cardiology
+STE-ACS|ST-elevation acute coronary syndrome|Cardiology
+STJ|Sinotubular junction|Cardiology
+SV|Stroke volume|Cardiology
+SVC|Superior vena cava|Cardiology
+SVG|Saphenous vein graft|Cardiology
+SVI|Stroke volume index|Cardiology
+SVR|Systemic vascular resistance|Cardiology
+SVRI|Systemic vascular resistance index|Cardiology
+SVT|Supraventricular tachycardia|Cardiology
+SWMA|Segmental wall motion abnormality|Cardiology
+TAA|Thoracic aortic aneurysm|Cardiology
+TAD|Thoracic aortic dissection|Cardiology
+TAPSE|Tricuspid annular plane systolic excursion|Cardiology
+TAVI|Transcatheter aortic valve implantation|Cardiology
+TAVR|Transcatheter aortic valve replacement|Cardiology
+TBI|Toe-brachial index|Cardiology
+TCA|Tricyclic antidepressant|Cardiology
+TCM|Takotsubo cardiomyopathy|Cardiology
+TdP|Torsades de pointes|Cardiology
+TEE|Transesophageal echocardiogram|Cardiology
+TEER|Transcatheter edge-to-edge repair|Cardiology
+TEVAR|Thoracic endovascular aortic repair|Cardiology
+TGA|Transposition of the great arteries|Cardiology
+TIA|Transient ischemic attack|Cardiology
+TLR|Target lesion revascularization|Cardiology
+TMVR|Transcatheter mitral valve replacement|Cardiology
+TNK|Tenecteplase|Cardiology
+TPA|Tissue plasminogen activator|Cardiology
+TPG|Transpulmonary gradient|Cardiology
+TR|Tricuspid regurgitation|Cardiology
+TRVP|Tricuspid regurgitant velocity peak|Cardiology
+TRV|Tricuspid regurgitant velocity|Cardiology
+TS|Tricuspid stenosis|Cardiology
+TSH|Thyroid-stimulating hormone|Cardiology
+TTE|Transthoracic echocardiogram|Cardiology
+TTR|Transthyretin|Cardiology
+TTR|Time in therapeutic range|Cardiology
+TV|Tricuspid valve|Cardiology
+TVR|Target vessel revascularization|Cardiology
+TVR|Tricuspid valve replacement|Cardiology
+TVI|Time velocity integral|Cardiology
+TWA|T-wave alternans|Cardiology
+TWI|T-wave inversion|Cardiology
+UA|Unstable angina|Cardiology
+UFH|Unfractionated heparin|Cardiology
+UE|Upper extremity|Cardiology
+UTI|Urinary tract infection|Cardiology
+VA|Ventriculoatrial|Cardiology
+VA|Veno-arterial|Cardiology
+VAD|Ventricular assist device|Cardiology
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Cardiology
+VDD|Ventricular-paced, dual-sensed, dual-response pacing mode|Cardiology
+VF|Ventricular fibrillation|Cardiology
+VFib|Ventricular fibrillation|Cardiology
+VHD|Valvular heart disease|Cardiology
+VLDL|Very-low-density lipoprotein|Cardiology
+VO2|Oxygen consumption|Cardiology
+VO2max|Maximal oxygen consumption|Cardiology
+VPB|Ventricular premature beat|Cardiology
+VPC|Ventricular premature complex|Cardiology
+VR|Ventricular rate|Cardiology
+VSD|Ventricular septal defect|Cardiology
+VT|Ventricular tachycardia|Cardiology
+VTE|Venous thromboembolism|Cardiology
+VTI|Velocity time integral|Cardiology
+VV|Veno-venous|Cardiology
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Cardiology
+VVI|Ventricular-paced, ventricular-sensed, inhibited pacing mode|Cardiology
+VVIR|Ventricular rate-responsive pacing mode|Cardiology
+WBC|White blood cell|Cardiology
+WCD|Wearable cardioverter-defibrillator|Cardiology
+WCT|Wide-complex tachycardia|Cardiology
+WMA|Wall motion abnormality|Cardiology
+WMSI|Wall motion score index|Cardiology
+WNL|Within normal limits|Cardiology
+WU|Wood units|Cardiology
+ADP|Adenosine diphosphate|Cardiology
+AHF|Acute heart failure|Cardiology
+AHI|Apnea-hypopnea index|Cardiology
+ANS|Autonomic nervous system|Cardiology
+APLAX|Apical long axis|Cardiology
+A2C|Apical two-chamber view|Cardiology
+A3C|Apical three-chamber view|Cardiology
+A4C|Apical four-chamber view|Cardiology
+A5C|Apical five-chamber view|Cardiology
+AVJ|Atrioventricular junction|Cardiology
+BB|Beta blocker|Cardiology
+BiPAP|Bilevel positive airway pressure|Cardiology
+BMI|Body mass index|Cardiology
+BRASH|Bradycardia, renal failure, atrioventricular nodal blockade, shock, hyperkalemia syndrome|Cardiology
+BUN|Blood urea nitrogen|Cardiology
+CAA|Coronary artery anomaly|Cardiology
+CAVI|Cardio-ankle vascular index|Cardiology
+CCO|Continuous cardiac output|Cardiology
+CCT|Cardiac computed tomography|Cardiology
+CDT|Catheter-directed thrombolysis|Cardiology
+CEUS|Contrast-enhanced ultrasound|Cardiology
+CFA|Common femoral artery|Cardiology
+CIN|Contrast-induced nephropathy|Cardiology
+CLTI|Chronic limb-threatening ischemia|Cardiology
+CMD|Coronary microvascular dysfunction|Cardiology
+CoA|Coarctation of the aorta|Cardiology
+CPP|Coronary perfusion pressure|Cardiology
+CRBBB|Complete right bundle branch block|Cardiology
+CLBBB|Complete left bundle branch block|Cardiology
+CSP|Conduction system pacing|Cardiology
+CTR|Cardiothoracic ratio|Cardiology
+CVC|Central venous catheter|Cardiology
+DD|Diastolic dysfunction|Cardiology
+D-dimer|Fibrin degradation product test|Cardiology
+DORV|Double outlet right ventricle|Cardiology
+DSA|Digital subtraction angiography|Cardiology
+EAD|Early afterdepolarization|Cardiology
+EECP|Enhanced external counterpulsation|Cardiology
+EFE|Endocardial fibroelastosis|Cardiology
+EGM|Electrogram|Cardiology
+EPSS|E-point septal separation|Cardiology
+ERS|Early repolarization syndrome|Cardiology
+FiO2|Fraction of inspired oxygen|Cardiology
+GDM|Gestational diabetes mellitus|Cardiology
+GERD|Gastroesophageal reflux disease|Cardiology
+HbA1c|Glycated hemoglobin|Cardiology
+HD|Hemodialysis|Cardiology
+HDP|Hypertensive disorders of pregnancy|Cardiology
+HFNC|High-flow nasal cannula|Cardiology
+HIV|Human immunodeficiency virus|Cardiology
+HRA|High right atrium|Cardiology
+HTx|Heart transplantation|Cardiology
+IABC|Intra-aortic balloon counterpulsation|Cardiology
+ICE|Intracardiac echocardiography|Cardiology
+ICH|Intracranial hemorrhage|Cardiology
+IHCA|In-hospital cardiac arrest|Cardiology
+IMH|Intramural hematoma|Cardiology
+IRA|Infarct-related artery|Cardiology
+ISH|Isolated systolic hypertension|Cardiology
+IST|Inappropriate sinus tachycardia|Cardiology
+IVIG|Intravenous immunoglobulin|Cardiology
+LCOS|Low cardiac output syndrome|Cardiology
+LFA|Left femoral artery|Cardiology
+LFV|Left femoral vein|Cardiology
+LIJ|Left internal jugular|Cardiology
+LPA|Left pulmonary artery|Cardiology
+LQTS|Long QT syndrome|Cardiology
+LVAS|Left ventricular assist system|Cardiology
+LVFP|Left ventricular filling pressure|Cardiology
+LVG|Left ventriculography|Cardiology
+MAPSE|Mitral annular plane systolic excursion|Cardiology
+MDCT|Multidetector computed tomography|Cardiology
+MetS|Metabolic syndrome|Cardiology
+MSSA|Methicillin-susceptible Staphylococcus aureus|Cardiology
+MUGA|Multigated acquisition scan|Cardiology
+MVD|Multivessel disease|Cardiology
+NBTE|Nonbacterial thrombotic endocarditis|Cardiology
+NCC|Noncoronary cusp|Cardiology
+NIRS|Near-infrared spectroscopy|Cardiology
+NO|Nitric oxide|Cardiology
+NPO|Nothing by mouth|Cardiology
+NRB|Nonrebreather mask|Cardiology
+NVE|Native valve endocarditis|Cardiology
+OH|Orthostatic hypotension|Cardiology
+OMI|Occlusion myocardial infarction|Cardiology
+PAC|Premature atrial complex|Cardiology
+PAI-1|Plasminogen activator inhibitor-1|Cardiology
+PALS|Pediatric advanced life support|Cardiology
+PAPVR|Partial anomalous pulmonary venous return|Cardiology
+PCSK9|Proprotein convertase subtilisin/kexin type 9|Cardiology
+PCSK9i|Proprotein convertase subtilisin/kexin type 9 inhibitor|Cardiology
+PDE5i|Phosphodiesterase type 5 inhibitor|Cardiology
+PICU|Pediatric intensive care unit|Cardiology
+PJRT|Permanent junctional reciprocating tachycardia|Cardiology
+PLE|Protein-losing enteropathy|Cardiology

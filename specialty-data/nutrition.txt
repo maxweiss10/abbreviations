@@ -1,0 +1,659 @@
+%EWL|Percent excess weight loss|Nutrition
+%TWL|Percent total weight loss|Nutrition
+1,25(OH)2D|1,25-dihydroxyvitamin D (calcitriol)|Nutrition
+2-in-1|Parenteral admixture containing dextrose and amino acids with lipid given separately|Nutrition
+24HR|24-hour dietary recall|Nutrition
+25(OH)D|25-hydroxyvitamin D|Nutrition
+25-OH D|25-hydroxyvitamin D|Nutrition
+2gNa|Two gram sodium diet|Nutrition
+3-in-1|Parenteral admixture containing dextrose, amino acids and lipid in one bag|Nutrition
+A1c|Glycated hemoglobin|Nutrition
+AAF|Amino acid-based formula|Nutrition
+AA|Amino acids|Nutrition
+ABW|Actual body weight|Nutrition
+ABW|Adjusted body weight|Nutrition
+ACLF|Acute-on-chronic liver failure|Nutrition
+AC|Before meals|Nutrition
+ADAT|Advance diet as tolerated|Nutrition
+ADF|Alternate-day fasting|Nutrition
+ADI|Acceptable daily intake|Nutrition
+ADL|Activities of daily living|Nutrition
+ADMA|Asymmetric dimethylarginine|Nutrition
+ADMF|Alternate-day modified fasting|Nutrition
+AEB|As evidenced by|Nutrition
+AGA|Appropriate for gestational age|Nutrition
+AGB|Adjustable gastric band|Nutrition
+AGEs|Advanced glycation end products|Nutrition
+AGE|Advanced glycation end product|Nutrition
+AHEI|Alternative healthy eating index|Nutrition
+AH|Alcohol-associated hepatitis|Nutrition
+AI|Adequate intake|Nutrition
+ALA|Alpha-linolenic acid|Nutrition
+ALC|Absolute lymphocyte count|Nutrition
+ALD|Alcohol-associated liver disease|Nutrition
+ALP|Alkaline phosphatase|Nutrition
+AMDR|Acceptable macronutrient distribution range|Nutrition
+ARA|Arachidonic acid|Nutrition
+ARR|Absolute risk reduction|Nutrition
+ASCVD|Atherosclerotic cardiovascular disease|Nutrition
+ASM|Appendicular skeletal muscle mass|Nutrition
+AS|Artificial sweetener|Nutrition
+AT|Adipose tissue|Nutrition
+AdjBW|Adjusted body weight|Nutrition
+Alb|Albumin|Nutrition
+Arg|Arginine|Nutrition
+B12|Cobalamin|Nutrition
+B1|Thiamine|Nutrition
+B2|Riboflavin|Nutrition
+B3|Niacin|Nutrition
+B5|Pantothenic acid|Nutrition
+B6|Pyridoxine|Nutrition
+B7|Biotin|Nutrition
+B9|Folate|Nutrition
+BAT|Brown adipose tissue|Nutrition
+BAZ|BMI-for-age z-score|Nutrition
+BCAA|Branched-chain amino acids|Nutrition
+BCKA|Branched-chain keto acids|Nutrition
+BCM|Body cell mass|Nutrition
+BEE|Basal energy expenditure|Nutrition
+BF|Breastfeeding|Nutrition
+BG|Blood glucose|Nutrition
+BIA|Bioelectrical impedance analysis|Nutrition
+BID|Twice daily|Nutrition
+BIVA|Bioelectrical impedance vector analysis|Nutrition
+BLW|Baby-led weaning|Nutrition
+BMC|Bone mineral content|Nutrition
+BMD|Bone mineral density|Nutrition
+BMI|Body mass index|Nutrition
+BMR|Basal metabolic rate|Nutrition
+BM|Bowel movement|Nutrition
+BM|Breast milk|Nutrition
+BPD-DS|Biliopancreatic diversion with duodenal switch|Nutrition
+BPD|Biliopancreatic diversion|Nutrition
+BP|Blood pressure|Nutrition
+BRAT|Bananas, rice, applesauce, toast diet|Nutrition
+BSA|Body surface area|Nutrition
+BSE|Bedside swallow evaluation|Nutrition
+BS|Bariatric surgery|Nutrition
+BUN|Blood urea nitrogen|Nutrition
+BV|Biological value|Nutrition
+BW|Body weight|Nutrition
+CAD|Coronary artery disease|Nutrition
+CBW|Current body weight|Nutrition
+CCD|Consistent carbohydrate diet|Nutrition
+CCHO|Consistent carbohydrate diet|Nutrition
+CC|Calf circumference|Nutrition
+CC|Carbohydrate counting|Nutrition
+CDCES|Certified diabetes care and education specialist|Nutrition
+CDED|Crohn's disease exclusion diet|Nutrition
+CD|Celiac disease|Nutrition
+CFRD|Cystic fibrosis-related diabetes|Nutrition
+CFU|Colony-forming units|Nutrition
+CF|Complementary feeding|Nutrition
+CF|Correction factor|Nutrition
+CF|Cystic fibrosis|Nutrition
+CGM|Continuous glucose monitoring|Nutrition
+CHD|Coronary heart disease|Nutrition
+CHF|Congestive heart failure|Nutrition
+CHI|Congenital hyperinsulinism|Nutrition
+CHO|Carbohydrate|Nutrition
+CHr|Reticulocyte hemoglobin content|Nutrition
+CIM|Critical illness myopathy|Nutrition
+CI|Calorie intake|Nutrition
+CI|Confidence interval|Nutrition
+CKD-MBD|Chronic kidney disease-mineral and bone disorder|Nutrition
+CKD|Chronic kidney disease|Nutrition
+CLABSI|Central line-associated bloodstream infection|Nutrition
+CLA|Conjugated linoleic acid|Nutrition
+CLD|Clear liquid diet|Nutrition
+CMA|Cow's milk allergy|Nutrition
+CMPA|Cow's milk protein allergy|Nutrition
+CNSC|Certified nutrition support clinician|Nutrition
+CONUT|Controlling nutritional status score|Nutrition
+CPN|Central parenteral nutrition|Nutrition
+CRP|C-reactive protein|Nutrition
+CRRT|Continuous renal replacement therapy|Nutrition
+CSE|Clinical swallow evaluation|Nutrition
+CT|Computed tomography|Nutrition
+CVC|Central venous catheter|Nutrition
+CVD|Cardiovascular disease|Nutrition
+Ca|Calcium|Nutrition
+Cl|Chloride|Nutrition
+CoQ10|Coenzyme Q10|Nutrition
+Cr|Chromium|Nutrition
+Cu|Copper|Nutrition
+D10|Dextrose 10 percent solution|Nutrition
+D2|Ergocalciferol (vitamin D2)|Nutrition
+D3|Cholecalciferol (vitamin D3)|Nutrition
+D50|Dextrose 50 percent solution|Nutrition
+D5W|Dextrose 5 percent in water|Nutrition
+D70|Dextrose 70 percent solution|Nutrition
+DASH|Dietary approaches to stop hypertension|Nutrition
+DBM|Donor breast milk|Nutrition
+DBPCFC|Double-blind placebo-controlled food challenge|Nutrition
+DBP|Diastolic blood pressure|Nutrition
+DBW|Dry body weight|Nutrition
+DEXA|Dual-energy x-ray absorptiometry|Nutrition
+DFE|Dietary folate equivalents|Nutrition
+DGP|Deamidated gliadin peptide|Nutrition
+DHA|Docosahexaenoic acid|Nutrition
+DIAAS|Digestible indispensable amino acid score|Nutrition
+DII|Dietary inflammatory index|Nutrition
+DKA|Diabetic ketoacidosis|Nutrition
+DM|Diabetes mellitus|Nutrition
+DM|Dry matter|Nutrition
+DPA|Docosapentaenoic acid|Nutrition
+DQI|Diet quality index|Nutrition
+DRI|Dietary reference intake|Nutrition
+DV|Daily value|Nutrition
+DXA|Dual-energy x-ray absorptiometry|Nutrition
+Dx|Diagnosis|Nutrition
+EAA|Essential amino acids|Nutrition
+EAR|Estimated average requirement|Nutrition
+EBF|Exclusive breastfeeding|Nutrition
+EBM|Expressed breast milk|Nutrition
+ECW|Extracellular water|Nutrition
+EEN|Exclusive enteral nutrition|Nutrition
+EER|Estimated energy requirement|Nutrition
+EFAD|Essential fatty acid deficiency|Nutrition
+EFA|Essential fatty acid|Nutrition
+EHF|Extensively hydrolyzed formula|Nutrition
+ELBW|Extremely low birth weight|Nutrition
+EMA|Endomysial antibody|Nutrition
+EN|Enteral nutrition|Nutrition
+EPI|Exocrine pancreatic insufficiency|Nutrition
+ESG|Endoscopic sleeve gastroplasty|Nutrition
+ESLD|End-stage liver disease|Nutrition
+ESRD|End-stage renal disease|Nutrition
+EoE|Eosinophilic esophagitis|Nutrition
+F-100|Therapeutic milk formula 100 kcal per 100 mL for catch-up growth|Nutrition
+F-75|Therapeutic milk formula 75 kcal per 100 mL for stabilization|Nutrition
+FAOD|Fatty acid oxidation disorder|Nutrition
+FA|Fatty acid|Nutrition
+FA|Food allergy|Nutrition
+FBG|Fasting blood glucose|Nutrition
+FCS|Familial chylomicronemia syndrome|Nutrition
+FD|Food diary|Nutrition
+FEES|Fiberoptic endoscopic evaluation of swallowing|Nutrition
+FEP|Free erythrocyte protoporphyrin|Nutrition
+FE|Iron|Nutrition
+FFA|Free fatty acid|Nutrition
+FFMI|Fat-free mass index|Nutrition
+FFM|Fat-free mass|Nutrition
+FFQ|Food frequency questionnaire|Nutrition
+FH|Familial hypercholesterolemia|Nutrition
+FH|Family history|Nutrition
+FI|Food insecurity|Nutrition
+FJ|Feeding jejunostomy|Nutrition
+FLD|Full liquid diet|Nutrition
+FMT|Fecal microbiota transplantation|Nutrition
+FM|Fat mass|Nutrition
+FODMAP|Fermentable oligosaccharides, disaccharides, monosaccharides and polyols|Nutrition
+FOP|Front-of-package labeling|Nutrition
+FOS|Fructooligosaccharide|Nutrition
+FO|Fish oil|Nutrition
+FPG|Fasting plasma glucose|Nutrition
+FPIAP|Food protein-induced allergic proctocolitis|Nutrition
+FPIES|Food protein-induced enterocolitis syndrome|Nutrition
+FTT|Failure to thrive|Nutrition
+FWF|Free water flush|Nutrition
+FW|Free water|Nutrition
+Fe|Iron|Nutrition
+F|Fluoride|Nutrition
+G-tube|Gastrostomy tube|Nutrition
+GAM|Global acute malnutrition|Nutrition
+GDM|Gestational diabetes mellitus|Nutrition
+GERD|Gastroesophageal reflux disease|Nutrition
+GFD|Gluten-free diet|Nutrition
+GIR|Glucose infusion rate|Nutrition
+GIT|Gastrointestinal tract|Nutrition
+GI|Gastrointestinal|Nutrition
+GI|Glycemic index|Nutrition
+GJT|Gastrojejunostomy tube|Nutrition
+GJ|Gastrojejunostomy|Nutrition
+GLIM|Global leadership initiative on malnutrition criteria|Nutrition
+GLP-1 RA|Glucagon-like peptide 1 receptor agonist|Nutrition
+GLP-1|Glucagon-like peptide 1|Nutrition
+GLP-2|Glucagon-like peptide 2|Nutrition
+GL|Glycemic load|Nutrition
+GM|Gut microbiota|Nutrition
+GNRI|Geriatric nutritional risk index|Nutrition
+GOS|Galactooligosaccharide|Nutrition
+GPx|Glutathione peroxidase|Nutrition
+GRVs|Gastric residual volumes|Nutrition
+GRV|Gastric residual volume|Nutrition
+GSD|Glycogen storage disease|Nutrition
+GSH|Glutathione|Nutrition
+GT|Gastrostomy tube|Nutrition
+GWG|Gestational weight gain|Nutrition
+Gln|Glutamine|Nutrition
+Glu|Glutamate|Nutrition
+H2O|Water|Nutrition
+HAZ|Height-for-age z-score|Nutrition
+HBV|High biological value|Nutrition
+HC|Head circumference|Nutrition
+HDL-C|High-density lipoprotein cholesterol|Nutrition
+HDL|High-density lipoprotein|Nutrition
+HD|Hemodialysis|Nutrition
+HEI|Healthy eating index|Nutrition
+HEN|Home enteral nutrition|Nutrition
+HE|Hepatic encephalopathy|Nutrition
+HFA|Height for age|Nutrition
+HFCS|High-fructose corn syrup|Nutrition
+HFD|High fiber diet|Nutrition
+HGS|Handgrip strength|Nutrition
+HG|Hyperemesis gravidarum|Nutrition
+HHD|Heart healthy diet|Nutrition
+HHS|Hyperosmolar hyperglycemic state|Nutrition
+HH|Heart healthy|Nutrition
+HLD|Hyperlipidemia|Nutrition
+HMB|Beta-hydroxy-beta-methylbutyrate|Nutrition
+HMF|Human milk fortifier|Nutrition
+HMO|Human milk oligosaccharide|Nutrition
+HOB|Head of bed|Nutrition
+HOMA-IR|Homeostatic model assessment of insulin resistance|Nutrition
+HPN|Home parenteral nutrition|Nutrition
+HP|High protein|Nutrition
+HR|Hazard ratio|Nutrition
+HS|At bedtime|Nutrition
+HTN|Hypertension|Nutrition
+HbA1c|Glycated hemoglobin|Nutrition
+Hb|Hemoglobin|Nutrition
+Hct|Hematocrit|Nutrition
+Hcy|Homocysteine|Nutrition
+Hgb|Hemoglobin|Nutrition
+HoloTC|Holotranscobalamin|Nutrition
+Hx|History|Nutrition
+I&O|Intake and output|Nutrition
+I/O|Intake and output|Nutrition
+I:C|Insulin-to-carbohydrate ratio|Nutrition
+IADL|Instrumental activities of daily living|Nutrition
+IBD|Inflammatory bowel disease|Nutrition
+IBS|Irritable bowel syndrome|Nutrition
+IBW|Ideal body weight|Nutrition
+ICR|Insulin-to-carbohydrate ratio|Nutrition
+ICU-AW|Intensive care unit-acquired weakness|Nutrition
+ICU|Intensive care unit|Nutrition
+ICV|Ileocecal valve|Nutrition
+ICW|Intracellular water|Nutrition
+IC|Indirect calorimetry|Nutrition
+IDA|Iron deficiency anemia|Nutrition
+IDDSI|International dysphagia diet standardisation initiative levels|Nutrition
+IDD|Iodine deficiency disorder|Nutrition
+IDF|Insoluble dietary fiber|Nutrition
+IDPN|Intradialytic parenteral nutrition|Nutrition
+ID|Iron deficiency|Nutrition
+IEM|Inborn error of metabolism|Nutrition
+IFALD|Intestinal failure-associated liver disease|Nutrition
+IFG|Impaired fasting glucose|Nutrition
+IF|Intermittent fasting|Nutrition
+IF|Intestinal failure|Nutrition
+IF|Intrinsic factor|Nutrition
+IGB|Intragastric balloon|Nutrition
+IGT|Impaired glucose tolerance|Nutrition
+IL-6|Interleukin 6|Nutrition
+ILE|Intravenous lipid emulsion|Nutrition
+IMAT|Intermuscular adipose tissue|Nutrition
+IQR|Interquartile range|Nutrition
+IR|Insulin resistance|Nutrition
+ISF|Insulin sensitivity factor|Nutrition
+IUGR|Intrauterine growth restriction|Nutrition
+IU|International unit|Nutrition
+IV iron|Intravenous iron|Nutrition
+IVFE|Intravenous fat emulsion|Nutrition
+I|Iodine|Nutrition
+J-tube|Jejunostomy tube|Nutrition
+JT|Jejunostomy tube|Nutrition
+KA|Ketoanalogues|Nutrition
+KD|Ketogenic diet|Nutrition
+K|Potassium|Nutrition
+LAGB|Laparoscopic adjustable gastric banding|Nutrition
+LAZ|Length-for-age z-score|Nutrition
+LA|Linoleic acid|Nutrition
+LBM|Last bowel movement|Nutrition
+LBM|Lean body mass|Nutrition
+LBW|Low birth weight|Nutrition
+LC-FAOD|Long-chain fatty acid oxidation disorder|Nutrition
+LCD|Low-calorie diet|Nutrition
+LCFA|Long-chain fatty acid|Nutrition
+LCHF|Low-carbohydrate, high-fat|Nutrition
+LCT|Lactase gene|Nutrition
+LCT|Long-chain triglyceride|Nutrition
+LC|Low carbohydrate|Nutrition
+LDL-C|Low-density lipoprotein cholesterol|Nutrition
+LDL|Low-density lipoprotein|Nutrition
+LES|Late evening snack|Nutrition
+LFD|Low fiber diet|Nutrition
+LFD|Low-FODMAP diet|Nutrition
+LF|Low fat|Nutrition
+LGA|Large for gestational age|Nutrition
+LGG|Lactobacillus rhamnosus GG|Nutrition
+LGIT|Low glycemic index treatment|Nutrition
+LI|Lactose intolerance|Nutrition
+LPD|Low protein diet|Nutrition
+LP|Low phosphorus|Nutrition
+LRD|Low residue diet|Nutrition
+LSG|Laparoscopic sleeve gastrectomy|Nutrition
+LS|Low sodium|Nutrition
+Leu|Leucine|Nutrition
+Lp(a)|Lipoprotein(a)|Nutrition
+MAC|Mid-arm circumference|Nutrition
+MAD|Modified Atkins diet|Nutrition
+MAMC|Mid-arm muscle circumference|Nutrition
+MAM|Moderate acute malnutrition|Nutrition
+MASH|Metabolic dysfunction-associated steatohepatitis|Nutrition
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Nutrition
+MBSS|Modified barium swallow study|Nutrition
+MBS|Metabolic and bariatric surgery|Nutrition
+MBS|Modified barium swallow|Nutrition
+MCAD|Medium-chain acyl-CoA dehydrogenase deficiency|Nutrition
+MCFA|Medium-chain fatty acid|Nutrition
+MCT|Medium-chain triglyceride|Nutrition
+MCV|Mean corpuscular volume|Nutrition
+MD|Mediterranean diet|Nutrition
+MET|Metabolic equivalent of task|Nutrition
+MGB|Mini gastric bypass|Nutrition
+MJ|Megajoule|Nutrition
+MMA|Methylmalonic acid|Nutrition
+MNA-SF|Mini nutritional assessment short form|Nutrition
+MNA|Mini nutritional assessment|Nutrition
+MNT|Medical nutrition therapy|Nutrition
+MST|Malnutrition screening tool|Nutrition
+MSUD|Maple syrup urine disease|Nutrition
+MS|Mechanical soft|Nutrition
+MTE|Multi-trace element|Nutrition
+MUAC|Mid-upper arm circumference|Nutrition
+MUFA|Monounsaturated fatty acid|Nutrition
+MUST|Malnutrition universal screening tool|Nutrition
+MVI|Multivitamin infusion|Nutrition
+MVI|Multivitamin|Nutrition
+MVM|Multivitamin and mineral|Nutrition
+MV|Mechanical ventilation|Nutrition
+MV|Multivitamin|Nutrition
+MedDiet|Mediterranean diet|Nutrition
+MetSyn|Metabolic syndrome|Nutrition
+MetS|Metabolic syndrome|Nutrition
+Mg|Magnesium|Nutrition
+Mn|Manganese|Nutrition
+Mo|Molybdenum|Nutrition
+N/V/D|Nausea, vomiting and diarrhea|Nutrition
+N/V|Nausea and vomiting|Nutrition
+NAC|N-acetylcysteine|Nutrition
+NAD|Nicotinamide adenine dinucleotide|Nutrition
+NAFLD|Nonalcoholic fatty liver disease|Nutrition
+NASH|Nonalcoholic steatohepatitis|Nutrition
+NAS|No added salt|Nutrition
+NB|Nitrogen balance|Nutrition
+NCD|Noncommunicable disease|Nutrition
+NCGS|Non-celiac gluten sensitivity|Nutrition
+NCPT|Nutrition care process and terminology|Nutrition
+NCP|Nutrition care process|Nutrition
+NCS|No concentrated sweets|Nutrition
+NDT|Nasoduodenal tube|Nutrition
+ND|Nasoduodenal|Nutrition
+NEAA|Non-essential amino acids|Nutrition
+NEAT|Non-exercise activity thermogenesis|Nutrition
+NEC|Necrotizing enterocolitis|Nutrition
+NE|Niacin equivalents|Nutrition
+NFPE|Nutrition-focused physical exam|Nutrition
+NFP|Nutrition facts panel|Nutrition
+NGT|Nasogastric tube|Nutrition
+NG|Nasogastric|Nutrition
+NJT|Nasojejunal tube|Nutrition
+NJ|Nasojejunal|Nutrition
+NKDA|No known drug allergies|Nutrition
+NKFA|No known food allergies|Nutrition
+NNS|Non-nutritive sweetener|Nutrition
+NNT|Number needed to treat|Nutrition
+NPO p MN|Nothing by mouth after midnight|Nutrition
+NPO|Nil per os|Nutrition
+NPO|Nothing by mouth|Nutrition
+NPU|Net protein utilization|Nutrition
+NRI|Nutritional risk index|Nutrition
+NRS-2002|Nutritional risk screening 2002|Nutrition
+NRS|Nutritional risk screening|Nutrition
+NSP|Non-starch polysaccharide|Nutrition
+NST|Nutrition support team|Nutrition
+NTD|Neural tube defect|Nutrition
+NUTRIC|Nutrition risk in the critically ill score|Nutrition
+NVP|Nausea and vomiting of pregnancy|Nutrition
+Na|Sodium|Nutrition
+OAGB|One-anastomosis gastric bypass|Nutrition
+OFC|Oral food challenge|Nutrition
+OGTT|Oral glucose tolerance test|Nutrition
+OGT|Orogastric tube|Nutrition
+OG|Orogastric|Nutrition
+ONSs|Oral nutritional supplements|Nutrition
+ONS|Oral nutritional supplement|Nutrition
+OO|Olive oil|Nutrition
+OP|Osteoporosis|Nutrition
+ORS|Oral rehydration solution|Nutrition
+ORT|Oral rehydration therapy|Nutrition
+OR|Odds ratio|Nutrition
+OSAS|Obstructive sleep apnea syndrome|Nutrition
+OSA|Obstructive sleep apnea|Nutrition
+OT|Occupational therapy|Nutrition
+PAB|Prealbumin|Nutrition
+PAL|Physical activity level|Nutrition
+PA|Pernicious anemia|Nutrition
+PBW|Predicted body weight|Nutrition
+PB|Peanut butter|Nutrition
+PCM|Protein-calorie malnutrition|Nutrition
+PCOS|Polycystic ovary syndrome|Nutrition
+PCT|Procalcitonin|Nutrition
+PC|After meals|Nutrition
+PDCAAS|Protein digestibility-corrected amino acid score|Nutrition
+PDI|Plant-based diet index|Nutrition
+PD|Peritoneal dialysis|Nutrition
+PEG-J|Percutaneous endoscopic gastrostomy with jejunal extension|Nutrition
+PEG|Percutaneous endoscopic gastrostomy|Nutrition
+PEI|Pancreatic exocrine insufficiency|Nutrition
+PEJ|Percutaneous endoscopic jejunostomy|Nutrition
+PEM|Protein-energy malnutrition|Nutrition
+PEN|Partial enteral nutrition|Nutrition
+PERT|Pancreatic enzyme replacement therapy|Nutrition
+PER|Protein efficiency ratio|Nutrition
+PES|Problem, etiology, signs and symptoms statement|Nutrition
+PEW|Protein-energy wasting|Nutrition
+PG-SGA|Patient-generated subjective global assessment|Nutrition
+PHF|Partially hydrolyzed formula|Nutrition
+PICC|Peripherally inserted central catheter|Nutrition
+PICS|Post-intensive care syndrome|Nutrition
+PKU|Phenylketonuria|Nutrition
+PLP|Pyridoxal 5'-phosphate|Nutrition
+PMH|Past medical history|Nutrition
+PNAC|Parenteral nutrition-associated cholestasis|Nutrition
+PNALD|Parenteral nutrition-associated liver disease|Nutrition
+PNI|Prognostic nutritional index|Nutrition
+PN|Parenteral nutrition|Nutrition
+PO4|Phosphate|Nutrition
+PO|By mouth|Nutrition
+PPBMI|Pre-pregnancy body mass index|Nutrition
+PPN|Peripheral parenteral nutrition|Nutrition
+PPW|Pre-pregnancy weight|Nutrition
+PRG|Percutaneous radiologic gastrostomy|Nutrition
+PRJ|Percutaneous radiologic jejunostomy|Nutrition
+PRN|As needed|Nutrition
+PRO|Protein|Nutrition
+PSMF|Protein-sparing modified fast|Nutrition
+PTA|Prior to admission|Nutrition
+PTF|Preterm formula|Nutrition
+PTH|Parathyroid hormone|Nutrition
+PT|Physical therapy|Nutrition
+PUFAs|Polyunsaturated fatty acids|Nutrition
+PUFA|Polyunsaturated fatty acid|Nutrition
+PhA|Phase angle|Nutrition
+Phos|Phosphorus|Nutrition
+QD|Once daily|Nutrition
+QID|Four times daily|Nutrition
+RAE|Retinol activity equivalents|Nutrition
+RBC|Red blood cell|Nutrition
+RBP|Retinol-binding protein|Nutrition
+RCT|Randomized controlled trial|Nutrition
+RDA|Recommended dietary allowance|Nutrition
+RDI|Reference daily intake|Nutrition
+RDN|Registered dietitian nutritionist|Nutrition
+RD|Registered dietitian|Nutrition
+REE|Resting energy expenditure|Nutrition
+RFS|Refeeding syndrome|Nutrition
+RMR|Resting metabolic rate|Nutrition
+ROS|Reactive oxygen species|Nutrition
+RQ|Respiratory quotient|Nutrition
+RR|Relative risk|Nutrition
+RS|Resistant starch|Nutrition
+RTF|Ready-to-feed|Nutrition
+RTH|Ready-to-hang|Nutrition
+RUSF|Ready-to-use supplementary food|Nutrition
+RUTF|Ready-to-use therapeutic food|Nutrition
+RYGB|Roux-en-Y gastric bypass|Nutrition
+ReSoMal|Rehydration solution for malnutrition|Nutrition
+Rx|Prescription or treatment|Nutrition
+SADI-S|Single-anastomosis duodenal-ileal bypass with sleeve gastrectomy|Nutrition
+SAD|Standard American diet|Nutrition
+SAM|Severe acute malnutrition|Nutrition
+SAT|Subcutaneous adipose tissue|Nutrition
+SBP|Systolic blood pressure|Nutrition
+SBS|Short bowel syndrome|Nutrition
+SBW|Starting body weight|Nutrition
+SB|Small bowel|Nutrition
+SCD|Specific carbohydrate diet|Nutrition
+SCFAs|Short-chain fatty acids|Nutrition
+SCFA|Short-chain fatty acid|Nutrition
+SDF|Soluble dietary fiber|Nutrition
+SDOH|Social determinants of health|Nutrition
+SD|Standard deviation|Nutrition
+SE|Standard error|Nutrition
+SFA|Saturated fatty acid|Nutrition
+SGA|Small for gestational age|Nutrition
+SGA|Subjective global assessment|Nutrition
+SG|Sleeve gastrectomy|Nutrition
+SH|Social history|Nutrition
+SIBO|Small intestinal bacterial overgrowth|Nutrition
+SLP|Speech-language pathologist|Nutrition
+SMBG|Self-monitoring of blood glucose|Nutrition
+SMI|Skeletal muscle index|Nutrition
+SMM|Skeletal muscle mass|Nutrition
+SMOF|Soybean oil, medium-chain triglycerides, olive oil and fish oil lipid emulsion|Nutrition
+SNAP|Supplemental nutrition assistance program|Nutrition
+SNAQ|Short nutritional assessment questionnaire|Nutrition
+SOD|Superoxide dismutase|Nutrition
+SO|Soybean oil|Nutrition
+SR|Systematic review|Nutrition
+SSB|Sugar-sweetened beverage|Nutrition
+SSF|Standard starter formula|Nutrition
+Se|Selenium|Nutrition
+Sx|Symptoms|Nutrition
+T1DM|Type 1 diabetes mellitus|Nutrition
+T2DM|Type 2 diabetes mellitus|Nutrition
+TAG|Triacylglycerol|Nutrition
+TBW|Total body water|Nutrition
+TC|Total cholesterol|Nutrition
+TDEE|Total daily energy expenditure|Nutrition
+TDF|Total dietary fiber|Nutrition
+TEE|Total energy expenditure|Nutrition
+TEF|Thermic effect of food|Nutrition
+TEN|Total enteral nutrition|Nutrition
+TE|Tocopherol equivalents|Nutrition
+TE|Trace elements|Nutrition
+TFA|Trans fatty acid|Nutrition
+TFs|Tube feeds|Nutrition
+TF|Tube feeding|Nutrition
+TG|Triglyceride|Nutrition
+TIBC|Total iron-binding capacity|Nutrition
+TID|Three times daily|Nutrition
+TLC|Therapeutic lifestyle changes|Nutrition
+TLC|Total lymphocyte count|Nutrition
+TL|Thin liquids|Nutrition
+TMAO|Trimethylamine N-oxide|Nutrition
+TNA|Total nutrient admixture|Nutrition
+TNF|Tumor necrosis factor|Nutrition
+TPN|Total parenteral nutrition|Nutrition
+TPP|Thiamine pyrophosphate|Nutrition
+TP|Total protein|Nutrition
+TRE|Time-restricted eating|Nutrition
+TRF|Time-restricted feeding|Nutrition
+TRL|Triglyceride-rich lipoprotein|Nutrition
+TSAT|Transferrin saturation|Nutrition
+TSF|Triceps skinfold thickness|Nutrition
+TSH|Thyroid-stimulating hormone|Nutrition
+TTR|Transthyretin|Nutrition
+TWL|Total weight loss|Nutrition
+Tx|Treatment|Nutrition
+UBW|Usual body weight|Nutrition
+UCD|Urea cycle disorder|Nutrition
+UC|Ulcerative colitis|Nutrition
+UL|Tolerable upper intake level|Nutrition
+UOP|Urine output|Nutrition
+UO|Urine output|Nutrition
+UPF|Ultra-processed food|Nutrition
+UUN|24-hour urinary urea nitrogen|Nutrition
+UUN|Urine urea nitrogen|Nutrition
+VAD|Vitamin A deficiency|Nutrition
+VAP|Ventilator-associated pneumonia|Nutrition
+VAT|Visceral adipose tissue|Nutrition
+VDD|Vitamin D deficiency|Nutrition
+VFSS|Videofluoroscopic swallow study|Nutrition
+VLBW|Very low birth weight|Nutrition
+VLCD|Very low-calorie diet|Nutrition
+VLCKD|Very low-calorie ketogenic diet|Nutrition
+VLC|Very low carbohydrate|Nutrition
+VLDL|Very low-density lipoprotein|Nutrition
+VLPD|Very low protein diet|Nutrition
+VSG|Vertical sleeve gastrectomy|Nutrition
+Vit A|Vitamin A (retinol)|Nutrition
+Vit C|Vitamin C (ascorbic acid)|Nutrition
+Vit D|Vitamin D|Nutrition
+Vit E|Vitamin E (tocopherol)|Nutrition
+Vit K|Vitamin K|Nutrition
+Vit|Vitamin|Nutrition
+WAT|White adipose tissue|Nutrition
+WAZ|Weight-for-age z-score|Nutrition
+WC|Waist circumference|Nutrition
+WDL|Within defined limits|Nutrition
+WFA|Weight for age|Nutrition
+WFH|Weight for height|Nutrition
+WFL|Weight for length|Nutrition
+WFPB|Whole-food plant-based|Nutrition
+WHR|Waist-to-hip ratio|Nutrition
+WHZ|Weight-for-height z-score|Nutrition
+WHtR|Waist-to-height ratio|Nutrition
+WIC|Women, Infants and Children nutrition program|Nutrition
+WNL|Within normal limits|Nutrition
+ZPP|Zinc protoporphyrin|Nutrition
+Zn|Zinc|Nutrition
+c/o|Complains of|Nutrition
+c/w|Consistent with|Nutrition
+cal/mL|Calories per milliliter|Nutrition
+cal|Calorie|Nutrition
+cc|Cubic centimeter|Nutrition
+d/c|Discharge or discontinue|Nutrition
+eHF|Extensively hydrolyzed formula|Nutrition
+f/u|Follow-up|Nutrition
+g/kg|Grams per kilogram|Nutrition
+g|Gram|Nutrition
+iPTH|Intact parathyroid hormone|Nutrition
+kJ|Kilojoule|Nutrition
+kcal/kg|Kilocalories per kilogram|Nutrition
+kcal/mL|Kilocalories per milliliter|Nutrition
+kcal|Kilocalorie|Nutrition
+mEq|Milliequivalent|Nutrition
+mL/kcal|Milliliters per kilocalorie|Nutrition
+mL/kg|Milliliters per kilogram|Nutrition
+mNUTRIC|Modified nutrition risk in the critically ill score|Nutrition
+mOsm/kg|Milliosmoles per kilogram|Nutrition
+mOsm|Milliosmole|Nutrition
+mcg|Microgram|Nutrition
+mg|Milligram|Nutrition
+mmol|Millimole|Nutrition
+n-3|Omega-3 fatty acids|Nutrition
+n-6|Omega-6 fatty acids|Nutrition
+non-HDL-C|Non-high-density lipoprotein cholesterol|Nutrition
+q4h|Every 4 hours|Nutrition
+r/t|Related to|Nutrition
+s/p|Status post|Nutrition
+sTfR|Soluble transferrin receptor|Nutrition
+tHcy|Total homocysteine|Nutrition
+tTG-IgA|Tissue transglutaminase immunoglobulin A antibody|Nutrition
+tTG|Tissue transglutaminase|Nutrition
+w/u|Workup|Nutrition
+µg|Microgram|Nutrition

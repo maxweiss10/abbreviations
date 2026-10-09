@@ -1,0 +1,263 @@
+AABR|Automated auditory brainstem response (newborn hearing screen)|Pediatrics
+ABG|Arterial blood gas|Pediatrics
+ABR|Auditory brainstem response|Pediatrics
+ADHD|Attention-deficit/hyperactivity disorder|Pediatrics
+AGA|Appropriate for gestational age|Pediatrics
+AGE|Acute gastroenteritis|Pediatrics
+AFOF|Anterior fontanelle open and flat|Pediatrics
+AFOSF|Anterior fontanelle open, soft, flat|Pediatrics
+AFF|Anterior fontanelle flat|Pediatrics
+AFS|Anterior fontanelle soft|Pediatrics
+AFFS|Anterior fontanelle full and soft|Pediatrics
+AL|Arterial line|Pediatrics
+ALL|Acute lymphoblastic leukemia|Pediatrics
+ALTE|Apparent life-threatening event|Pediatrics
+AML|Acute myeloid leukemia|Pediatrics
+AOM|Acute otitis media|Pediatrics
+AP|Anteroposterior|Pediatrics
+APGAR|Appearance, pulse, grimace, activity, respiration (newborn score)|Pediatrics
+ARDS|Acute respiratory distress syndrome|Pediatrics
+ARF|Acute rheumatic fever|Pediatrics
+ASD|Atrial septal defect|Pediatrics
+ASD|Autism spectrum disorder|Pediatrics
+ASQ|Ages and Stages Questionnaire (developmental screen)|Pediatrics
+ATN|Acute tubular necrosis|Pediatrics
+AV|Atrioventricular|Pediatrics
+AVSD|Atrioventricular septal defect|Pediatrics
+BAER|Brainstem auditory evoked response|Pediatrics
+BCG|Bacillus Calmette-Guerin vaccine|Pediatrics
+BMI|Body mass index|Pediatrics
+BMT|Bone marrow transplant|Pediatrics
+BPD|Bronchopulmonary dysplasia|Pediatrics
+BRAT|Bananas, rice, applesauce, toast (diet)|Pediatrics
+BRUE|Brief resolved unexplained event|Pediatrics
+BSA|Body surface area|Pediatrics
+BUN|Blood urea nitrogen|Pediatrics
+BVM|Bag-valve-mask|Pediatrics
+CAH|Congenital adrenal hyperplasia|Pediatrics
+CAP|Community-acquired pneumonia|Pediatrics
+CBC|Complete blood count|Pediatrics
+CCAM|Congenital cystic adenomatoid malformation|Pediatrics
+CCHD|Critical congenital heart disease|Pediatrics
+CDH|Congenital diaphragmatic hernia|Pediatrics
+CDH|Congenital dislocation of the hip|Pediatrics
+CF|Cystic fibrosis|Pediatrics
+CGA|Corrected gestational age|Pediatrics
+CHD|Congenital heart disease|Pediatrics
+CHARGE|Coloboma, heart defects, atresia choanae, growth retardation, genital anomalies, ear anomalies|Pediatrics
+CHF|Congestive heart failure|Pediatrics
+CIC|Clean intermittent catheterization|Pediatrics
+CLD|Chronic lung disease|Pediatrics
+CMPA|Cow's milk protein allergy|Pediatrics
+CMV|Cytomegalovirus|Pediatrics
+CNS|Central nervous system|Pediatrics
+CoA|Coarctation of the aorta|Pediatrics
+CP|Cerebral palsy|Pediatrics
+CPAP|Continuous positive airway pressure|Pediatrics
+CPR|Cardiopulmonary resuscitation|Pediatrics
+CRP|C-reactive protein|Pediatrics
+CRT|Capillary refill time|Pediatrics
+CSF|Cerebrospinal fluid|Pediatrics
+CT|Computed tomography|Pediatrics
+CVC|Central venous catheter|Pediatrics
+CVL|Central venous line|Pediatrics
+CXR|Chest x-ray|Pediatrics
+D5NS|Dextrose 5% in normal saline|Pediatrics
+D5W|Dextrose 5% in water|Pediatrics
+D10W|Dextrose 10% in water|Pediatrics
+DAT|Direct antiglobulin test|Pediatrics
+DDH|Developmental dysplasia of the hip|Pediatrics
+DI|Diabetes insipidus|Pediatrics
+DIC|Disseminated intravascular coagulation|Pediatrics
+DKA|Diabetic ketoacidosis|Pediatrics
+DM1|Type 1 diabetes mellitus|Pediatrics
+DM2|Type 2 diabetes mellitus|Pediatrics
+DOL|Day of life|Pediatrics
+DORV|Double outlet right ventricle|Pediatrics
+DR|Delivery room|Pediatrics
+DTaP|Diphtheria, tetanus and acellular pertussis vaccine|Pediatrics
+DTR|Deep tendon reflexes|Pediatrics
+DVT|Deep vein thrombosis|Pediatrics
+EBM|Expressed breast milk|Pediatrics
+EBV|Epstein-Barr virus|Pediatrics
+ECMO|Extracorporeal membrane oxygenation|Pediatrics
+ED|Emergency department|Pediatrics
+EDD|Estimated date of delivery|Pediatrics
+EEG|Electroencephalogram|Pediatrics
+EFW|Estimated fetal weight|Pediatrics
+EGA|Estimated gestational age|Pediatrics
+ELBW|Extremely low birth weight|Pediatrics
+EN|Enteral nutrition|Pediatrics
+ENT|Ear, nose and throat|Pediatrics
+EOS|Early-onset sepsis|Pediatrics
+ER|Emergency room|Pediatrics
+ESR|Erythrocyte sedimentation rate|Pediatrics
+ETT|Endotracheal tube|Pediatrics
+EUA|Exam under anesthesia|Pediatrics
+FAS|Fetal alcohol syndrome|Pediatrics
+FASD|Fetal alcohol spectrum disorder|Pediatrics
+FBS|Fasting blood sugar|Pediatrics
+FEN|Fluids, electrolytes and nutrition|Pediatrics
+FFP|Fresh frozen plasma|Pediatrics
+FiO2|Fraction of inspired oxygen|Pediatrics
+FOB|Father of baby|Pediatrics
+FSGS|Focal segmental glomerulosclerosis|Pediatrics
+FT|Full term|Pediatrics
+FTT|Failure to thrive|Pediatrics
+FUO|Fever of unknown origin|Pediatrics
+G6PD|Glucose-6-phosphate dehydrogenase|Pediatrics
+GA|Gestational age|Pediatrics
+GBS|Group B streptococcus|Pediatrics
+GER|Gastroesophageal reflux|Pediatrics
+GERD|Gastroesophageal reflux disease|Pediatrics
+GFR|Glomerular filtration rate|Pediatrics
+GI|Gastrointestinal|Pediatrics
+GIR|Glucose infusion rate|Pediatrics
+GJ|Gastrojejunal|Pediatrics
+GT|Gastrostomy tube|Pediatrics
+GU|Genitourinary|Pediatrics
+HA|Headache|Pediatrics
+HBV|Hepatitis B virus|Pediatrics
+HCV|Hepatitis C virus|Pediatrics
+HC|Head circumference|Pediatrics
+HDN|Hemolytic disease of the newborn|Pediatrics
+HFNC|High-flow nasal cannula|Pediatrics
+HFOV|High-frequency oscillatory ventilation|Pediatrics
+Hib|Haemophilus influenzae type b|Pediatrics
+HIE|Hypoxic-ischemic encephalopathy|Pediatrics
+HLHS|Hypoplastic left heart syndrome|Pediatrics
+HMD|Hyaline membrane disease|Pediatrics
+HPV|Human papillomavirus|Pediatrics
+HSP|Henoch-Schonlein purpura|Pediatrics
+HSV|Herpes simplex virus|Pediatrics
+HUS|Hemolytic uremic syndrome|Pediatrics
+IBW|Ideal body weight|Pediatrics
+ICP|Intracranial pressure|Pediatrics
+ICU|Intensive care unit|Pediatrics
+IDM|Infant of a diabetic mother|Pediatrics
+IEM|Inborn error of metabolism|Pediatrics
+IgA|Immunoglobulin A|Pediatrics
+IgE|Immunoglobulin E|Pediatrics
+IgG|Immunoglobulin G|Pediatrics
+IgM|Immunoglobulin M|Pediatrics
+IM|Intramuscular|Pediatrics
+IO|Intraosseous|Pediatrics
+IPV|Inactivated poliovirus vaccine|Pediatrics
+ITP|Immune thrombocytopenia|Pediatrics
+IUGR|Intrauterine growth restriction|Pediatrics
+IV|Intravenous|Pediatrics
+IVC|Inferior vena cava|Pediatrics
+IVF|Intravenous fluids|Pediatrics
+IVH|Intraventricular hemorrhage|Pediatrics
+IVIG|Intravenous immunoglobulin|Pediatrics
+JIA|Juvenile idiopathic arthritis|Pediatrics
+KD|Kawasaki disease|Pediatrics
+LBW|Low birth weight|Pediatrics
+LGA|Large for gestational age|Pediatrics
+LMP|Last menstrual period|Pediatrics
+LOS|Late-onset sepsis|Pediatrics
+LOS|Length of stay|Pediatrics
+LP|Lumbar puncture|Pediatrics
+LPR|Laryngopharyngeal reflux|Pediatrics
+LTB|Laryngotracheobronchitis|Pediatrics
+LUQ|Left upper quadrant|Pediatrics
+LVH|Left ventricular hypertrophy|Pediatrics
+MAP|Mean arterial pressure|Pediatrics
+MAS|Meconium aspiration syndrome|Pediatrics
+MCDK|Multicystic dysplastic kidney|Pediatrics
+MCV|Mean corpuscular volume|Pediatrics
+MDI|Metered dose inhaler|Pediatrics
+MIS-C|Multisystem inflammatory syndrome in children|Pediatrics
+MMR|Measles, mumps and rubella vaccine|Pediatrics
+MMRV|Measles, mumps, rubella and varicella vaccine|Pediatrics
+MRI|Magnetic resonance imaging|Pediatrics
+MRSA|Methicillin-resistant Staphylococcus aureus|Pediatrics
+MSSA|Methicillin-susceptible Staphylococcus aureus|Pediatrics
+MVI|Multivitamin infusion|Pediatrics
+NAT|Nonaccidental trauma|Pediatrics
+NAS|Neonatal abstinence syndrome|Pediatrics
+NB|Newborn|Pediatrics
+NBS|Newborn screen|Pediatrics
+NC|Nasal cannula|Pediatrics
+NEC|Necrotizing enterocolitis|Pediatrics
+NG|Nasogastric|Pediatrics
+NGT|Nasogastric tube|Pediatrics
+NICU|Neonatal intensive care unit|Pediatrics
+NIPPV|Nasal intermittent positive pressure ventilation|Pediatrics
+NJ|Nasojejunal|Pediatrics
+NNS|Nonnutritive sucking|Pediatrics
+NOWS|Neonatal opioid withdrawal syndrome|Pediatrics
+NPO|Nothing by mouth|Pediatrics
+NRP|Neonatal resuscitation program|Pediatrics
+NS|Normal saline|Pediatrics
+NSVD|Normal spontaneous vaginal delivery|Pediatrics
+NT|Nasotracheal|Pediatrics
+OFC|Occipitofrontal circumference|Pediatrics
+OG|Orogastric|Pediatrics
+OGT|Orogastric tube|Pediatrics
+OM|Otitis media|Pediatrics
+OME|Otitis media with effusion|Pediatrics
+OSA|Obstructive sleep apnea|Pediatrics
+PALS|Pediatric advanced life support|Pediatrics
+PCV|Pneumococcal conjugate vaccine|Pediatrics
+PDA|Patent ductus arteriosus|Pediatrics
+PE|Physical examination|Pediatrics
+PE|Pulmonary embolism|Pediatrics
+PEEP|Positive end-expiratory pressure|Pediatrics
+PEG|Percutaneous endoscopic gastrostomy|Pediatrics
+PFO|Patent foramen ovale|Pediatrics
+PH|Pulmonary hypertension|Pediatrics
+PICC|Peripherally inserted central catheter|Pediatrics
+PICU|Pediatric intensive care unit|Pediatrics
+PIP|Peak inspiratory pressure|Pediatrics
+PKU|Phenylketonuria|Pediatrics
+PN|Parenteral nutrition|Pediatrics
+PO|By mouth|Pediatrics
+PPHN|Persistent pulmonary hypertension of the newborn|Pediatrics
+PRBC|Packed red blood cells|Pediatrics
+PROM|Premature rupture of membranes|Pediatrics
+PPROM|Preterm premature rupture of membranes|Pediatrics
+PS|Pulmonary stenosis|Pediatrics
+PT|Preterm|Pediatrics
+PUV|Posterior urethral valves|Pediatrics
+PVL|Periventricular leukomalacia|Pediatrics
+PWS|Prader-Willi syndrome|Pediatrics
+RDS|Respiratory distress syndrome|Pediatrics
+ROP|Retinopathy of prematurity|Pediatrics
+RR|Respiratory rate|Pediatrics
+RSV|Respiratory syncytial virus|Pediatrics
+RTA|Renal tubular acidosis|Pediatrics
+RVH|Right ventricular hypertrophy|Pediatrics
+SaO2|Arterial oxygen saturation|Pediatrics
+SBI|Serious bacterial infection|Pediatrics
+SCD|Sickle cell disease|Pediatrics
+SGA|Small for gestational age|Pediatrics
+SIDS|Sudden infant death syndrome|Pediatrics
+SNHL|Sensorineural hearing loss|Pediatrics
+SpO2|Peripheral oxygen saturation|Pediatrics
+SSPE|Subacute sclerosing panencephalitis|Pediatrics
+SUDC|Sudden unexplained death in childhood|Pediatrics
+SUID|Sudden unexpected infant death|Pediatrics
+SVT|Supraventricular tachycardia|Pediatrics
+TAPVR|Total anomalous pulmonary venous return|Pediatrics
+TBW|Total body water|Pediatrics
+TcB|Transcutaneous bilirubin|Pediatrics
+TEF|Tracheoesophageal fistula|Pediatrics
+TGA|Transposition of the great arteries|Pediatrics
+TOF|Tetralogy of Fallot|Pediatrics
+TORCH|Toxoplasmosis, other infections, rubella, cytomegalovirus, herpes|Pediatrics
+TPN|Total parenteral nutrition|Pediatrics
+TSB|Total serum bilirubin|Pediatrics
+TTN|Transient tachypnea of the newborn|Pediatrics
+UAC|Umbilical arterial catheter|Pediatrics
+UTI|Urinary tract infection|Pediatrics
+UVC|Umbilical venous catheter|Pediatrics
+VCUG|Voiding cystourethrogram|Pediatrics
+VLBW|Very low birth weight|Pediatrics
+VP|Ventriculoperitoneal|Pediatrics
+VSD|Ventricular septal defect|Pediatrics
+VUR|Vesicoureteral reflux|Pediatrics
+WBC|White blood cell count|Pediatrics
+WCC|Well-child check|Pediatrics
+WNL|Within normal limits|Pediatrics
+XLA|X-linked agammaglobulinemia|Pediatrics

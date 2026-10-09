@@ -1,0 +1,700 @@
+AML|Acute myeloid leukemia|Oncology
+ALL|Acute lymphoblastic leukemia|Oncology
+CML|Chronic myeloid leukemia|Oncology
+CLL|Chronic lymphocytic leukemia|Oncology
+APL|Acute promyelocytic leukemia|Oncology
+MDS|Myelodysplastic syndrome|Oncology
+MPN|Myeloproliferative neoplasm|Oncology
+CMML|Chronic myelomonocytic leukemia|Oncology
+JMML|Juvenile myelomonocytic leukemia|Oncology
+PV|Polycythemia vera|Oncology
+ET|Essential thrombocythemia|Oncology
+PMF|Primary myelofibrosis|Oncology
+MF|Myelofibrosis|Oncology
+MM|Multiple myeloma|Oncology
+SMM|Smoldering multiple myeloma|Oncology
+MGUS|Monoclonal gammopathy of undetermined significance|Oncology
+AL|Light-chain amyloidosis|Oncology
+NHL|Non-Hodgkin lymphoma|Oncology
+DLBCL|Diffuse large B-cell lymphoma|Oncology
+FL|Follicular lymphoma|Oncology
+MCL|Mantle cell lymphoma|Oncology
+MZL|Marginal zone lymphoma|Oncology
+SLL|Small lymphocytic lymphoma|Oncology
+PTCL|Peripheral T-cell lymphoma|Oncology
+CTCL|Cutaneous T-cell lymphoma|Oncology
+ALCL|Anaplastic large cell lymphoma|Oncology
+PCNSL|Primary central nervous system lymphoma|Oncology
+PMBCL|Primary mediastinal B-cell lymphoma|Oncology
+HGBL|High-grade B-cell lymphoma|Oncology
+MALT|Mucosa-associated lymphoid tissue|Oncology
+PTLD|Post-transplant lymphoproliferative disorder|Oncology
+LPL|Lymphoplasmacytic lymphoma|Oncology
+LBL|Lymphoblastic lymphoma|Oncology
+ATLL|Adult T-cell leukemia/lymphoma|Oncology
+HCL|Hairy cell leukemia|Oncology
+LGL|Large granular lymphocytic leukemia|Oncology
+BPDCN|Blastic plasmacytoid dendritic cell neoplasm|Oncology
+HLH|Hemophagocytic lymphohistiocytosis|Oncology
+NSCLC|Non-small cell lung cancer|Oncology
+SCLC|Small cell lung cancer|Oncology
+ES-SCLC|Extensive-stage small cell lung cancer|Oncology
+LS-SCLC|Limited-stage small cell lung cancer|Oncology
+LUAD|Lung adenocarcinoma|Oncology
+LUSC|Lung squamous cell carcinoma|Oncology
+SCC|Squamous cell carcinoma|Oncology
+BCC|Basal cell carcinoma|Oncology
+CRC|Colorectal cancer|Oncology
+mCRC|Metastatic colorectal cancer|Oncology
+HCC|Hepatocellular carcinoma|Oncology
+CCA|Cholangiocarcinoma|Oncology
+iCCA|Intrahepatic cholangiocarcinoma|Oncology
+eCCA|Extrahepatic cholangiocarcinoma|Oncology
+PDAC|Pancreatic ductal adenocarcinoma|Oncology
+pNET|Pancreatic neuroendocrine tumor|Oncology
+NET|Neuroendocrine tumor|Oncology
+NEC|Neuroendocrine carcinoma|Oncology
+GEP-NET|Gastroenteropancreatic neuroendocrine tumor|Oncology
+GIST|Gastrointestinal stromal tumor|Oncology
+GEJ|Gastroesophageal junction|Oncology
+EAC|Esophageal adenocarcinoma|Oncology
+ESCC|Esophageal squamous cell carcinoma|Oncology
+RCC|Renal cell carcinoma|Oncology
+ccRCC|Clear cell renal cell carcinoma|Oncology
+UC|Urothelial carcinoma|Oncology
+NMIBC|Non-muscle-invasive bladder cancer|Oncology
+MIBC|Muscle-invasive bladder cancer|Oncology
+CIS|Carcinoma in situ|Oncology
+TCC|Transitional cell carcinoma|Oncology
+UTUC|Upper tract urothelial carcinoma|Oncology
+CRPC|Castration-resistant prostate cancer|Oncology
+mCRPC|Metastatic castration-resistant prostate cancer|Oncology
+mHSPC|Metastatic hormone-sensitive prostate cancer|Oncology
+nmCRPC|Non-metastatic castration-resistant prostate cancer|Oncology
+HSPC|Hormone-sensitive prostate cancer|Oncology
+BPH|Benign prostatic hyperplasia|Oncology
+PSA|Prostate-specific antigen|Oncology
+PSAV|PSA velocity|Oncology
+PSADT|PSA doubling time|Oncology
+PSMA|Prostate-specific membrane antigen|Oncology
+DRE|Digital rectal exam|Oncology
+NPC|Nasopharyngeal carcinoma|Oncology
+HNSCC|Head and neck squamous cell carcinoma|Oncology
+OPSCC|Oropharyngeal squamous cell carcinoma|Oncology
+HPV|Human papillomavirus|Oncology
+EBV|Epstein-Barr virus|Oncology
+TNBC|Triple-negative breast cancer|Oncology
+DCIS|Ductal carcinoma in situ|Oncology
+LCIS|Lobular carcinoma in situ|Oncology
+IDC|Invasive ductal carcinoma|Oncology
+ILC|Invasive lobular carcinoma|Oncology
+IBC|Inflammatory breast cancer|Oncology
+MBC|Metastatic breast cancer|Oncology
+ER|Estrogen receptor|Oncology
+PR|Progesterone receptor|Oncology
+PgR|Progesterone receptor|Oncology
+HR+|Hormone receptor positive|Oncology
+ER+|Estrogen receptor positive|Oncology
+AR|Androgen receptor|Oncology
+BSE|Breast self-exam|Oncology
+CBE|Clinical breast exam|Oncology
+HBOC|Hereditary breast and ovarian cancer|Oncology
+HNPCC|Hereditary nonpolyposis colorectal cancer|Oncology
+FAP|Familial adenomatous polyposis|Oncology
+MMR|Mismatch repair|Oncology
+dMMR|Mismatch repair deficient|Oncology
+pMMR|Mismatch repair proficient|Oncology
+MSI|Microsatellite instability|Oncology
+MSI-H|Microsatellite instability high|Oncology
+MSS|Microsatellite stable|Oncology
+HRD|Homologous recombination deficiency|Oncology
+TMB|Tumor mutational burden|Oncology
+TMB-H|Tumor mutational burden high|Oncology
+NGS|Next-generation sequencing|Oncology
+FISH|Fluorescence in situ hybridization|Oncology
+IHC|Immunohistochemistry|Oncology
+ISH|In situ hybridization|Oncology
+PCR|Polymerase chain reaction|Oncology
+RT-PCR|Reverse transcription polymerase chain reaction|Oncology
+ctDNA|Circulating tumor DNA|Oncology
+CTC|Circulating tumor cell|Oncology
+cfDNA|Cell-free DNA|Oncology
+MRD|Minimal residual disease|Oncology
+VAF|Variant allele frequency|Oncology
+CHIP|Clonal hematopoiesis of indeterminate potential|Oncology
+VUS|Variant of uncertain significance|Oncology
+LOH|Loss of heterozygosity|Oncology
+TKI|Tyrosine kinase inhibitor|Oncology
+EGFR-TKI|Epidermal growth factor receptor tyrosine kinase inhibitor|Oncology
+BTKi|Bruton tyrosine kinase inhibitor|Oncology
+CDK4/6i|Cyclin-dependent kinase 4/6 inhibitor|Oncology
+PARPi|Poly (ADP-ribose) polymerase inhibitor|Oncology
+PARP|Poly (ADP-ribose) polymerase|Oncology
+mTORi|Mammalian target of rapamycin inhibitor|Oncology
+VEGF|Vascular endothelial growth factor|Oncology
+VEGFR|Vascular endothelial growth factor receptor|Oncology
+PD-1|Programmed cell death protein 1|Oncology
+PD-L1|Programmed death-ligand 1|Oncology
+CTLA-4|Cytotoxic T-lymphocyte-associated protein 4|Oncology
+ICI|Immune checkpoint inhibitor|Oncology
+CPS|Combined positive score|Oncology
+TPS|Tumor proportion score|Oncology
+TIL|Tumor-infiltrating lymphocyte|Oncology
+irAE|Immune-related adverse event|Oncology
+CAR-T|Chimeric antigen receptor T-cell therapy|Oncology
+CAR|Chimeric antigen receptor|Oncology
+CRS|Cytokine release syndrome|Oncology
+ICANS|Immune effector cell-associated neurotoxicity syndrome|Oncology
+IEC-HS|Immune effector cell-associated hemophagocytic syndrome|Oncology
+BiTE|Bispecific T-cell engager|Oncology
+ADC|Antibody-drug conjugate|Oncology
+mAb|Monoclonal antibody|Oncology
+DC|Dendritic cell|Oncology
+ACT|Adoptive cell therapy|Oncology
+HSCT|Hematopoietic stem cell transplant|Oncology
+HCT|Hematopoietic cell transplant|Oncology
+BMT|Bone marrow transplant|Oncology
+allo-HSCT|Allogeneic hematopoietic stem cell transplant|Oncology
+ASCT|Autologous stem cell transplant|Oncology
+auto-SCT|Autologous stem cell transplant|Oncology
+allo-SCT|Allogeneic stem cell transplant|Oncology
+SCT|Stem cell transplant|Oncology
+GVHD|Graft-versus-host disease|Oncology
+aGVHD|Acute graft-versus-host disease|Oncology
+cGVHD|Chronic graft-versus-host disease|Oncology
+GVL|Graft-versus-leukemia|Oncology
+GVT|Graft-versus-tumor|Oncology
+HLA|Human leukocyte antigen|Oncology
+MUD|Matched unrelated donor|Oncology
+MSD|Matched sibling donor|Oncology
+RIC|Reduced-intensity conditioning|Oncology
+MAC|Myeloablative conditioning|Oncology
+TBI|Total body irradiation|Oncology
+PBSC|Peripheral blood stem cell|Oncology
+G-CSF|Granulocyte colony-stimulating factor|Oncology
+GM-CSF|Granulocyte-macrophage colony-stimulating factor|Oncology
+ESA|Erythropoiesis-stimulating agent|Oncology
+TPO|Thrombopoietin|Oncology
+VOD|Veno-occlusive disease|Oncology
+SOS|Sinusoidal obstruction syndrome|Oncology
+TMA|Thrombotic microangiopathy|Oncology
+TA-TMA|Transplant-associated thrombotic microangiopathy|Oncology
+CMV|Cytomegalovirus|Oncology
+CR|Complete response|Oncology
+PR-resp|Partial response|Oncology
+SD|Stable disease|Oncology
+PD|Progressive disease|Oncology
+CRi|Complete remission with incomplete count recovery|Oncology
+CRh|Complete remission with partial hematologic recovery|Oncology
+MLFS|Morphologic leukemia-free state|Oncology
+sCR|Stringent complete response|Oncology
+VGPR|Very good partial response|Oncology
+pCR|Pathologic complete response|Oncology
+cCR|Clinical complete response|Oncology
+CMR|Complete metabolic response|Oncology
+PMR|Partial metabolic response|Oncology
+ORR|Objective response rate|Oncology
+DCR|Disease control rate|Oncology
+CBR|Clinical benefit rate|Oncology
+PFS|Progression-free survival|Oncology
+OS|Overall survival|Oncology
+DFS|Disease-free survival|Oncology
+EFS|Event-free survival|Oncology
+RFS|Relapse-free survival|Oncology
+DMFS|Distant metastasis-free survival|Oncology
+MFS|Metastasis-free survival|Oncology
+TTP|Time to progression|Oncology
+TTF|Time to treatment failure|Oncology
+DoR|Duration of response|Oncology
+DOR|Duration of response|Oncology
+LRC|Locoregional control|Oncology
+CI|Confidence interval|Oncology
+RECIST|Response Evaluation Criteria in Solid Tumors|Oncology
+iRECIST|Immune-modified RECIST|Oncology
+irRC|Immune-related response criteria|Oncology
+PERCIST|PET Response Criteria in Solid Tumors|Oncology
+TNM|Tumor, node, metastasis staging|Oncology
+cTNM|Clinical TNM stage|Oncology
+pTNM|Pathologic TNM stage|Oncology
+ypTNM|Post-neoadjuvant pathologic TNM stage|Oncology
+cT|Clinical tumor stage|Oncology
+cN|Clinical nodal stage|Oncology
+cM|Clinical metastasis stage|Oncology
+pT|Pathologic tumor stage|Oncology
+pN|Pathologic nodal stage|Oncology
+pM|Pathologic metastasis stage|Oncology
+Tis|Tumor in situ|Oncology
+LN|Lymph node|Oncology
+SLN|Sentinel lymph node|Oncology
+SLNB|Sentinel lymph node biopsy|Oncology
+ALND|Axillary lymph node dissection|Oncology
+RPLND|Retroperitoneal lymph node dissection|Oncology
+LVI|Lymphovascular invasion|Oncology
+PNI|Perineural invasion|Oncology
+ENE|Extranodal extension|Oncology
+ECE|Extracapsular extension|Oncology
+EPE|Extraprostatic extension|Oncology
+SVI|Seminal vesicle invasion|Oncology
+R0|No residual tumor after resection|Oncology
+R1|Microscopic residual tumor after resection|Oncology
+R2|Macroscopic residual tumor after resection|Oncology
+LCR|Lymphocyte count recovery|Oncology
+PS|Performance status|Oncology
+CGA|Comprehensive geriatric assessment|Oncology
+G8|Geriatric 8 screening tool|Oncology
+IPI|International Prognostic Index|Oncology
+R-IPI|Revised International Prognostic Index|Oncology
+NCCN-IPI|National Comprehensive Cancer Network International Prognostic Index|Oncology
+FLIPI|Follicular Lymphoma International Prognostic Index|Oncology
+MIPI|Mantle Cell Lymphoma International Prognostic Index|Oncology
+IPSS|International Prognostic Scoring System|Oncology
+IPSS-R|Revised International Prognostic Scoring System|Oncology
+IPSS-M|Molecular International Prognostic Scoring System|Oncology
+R-ISS|Revised International Staging System|Oncology
+ISS|International Staging System|Oncology
+DIPSS|Dynamic International Prognostic Scoring System|Oncology
+GPS|Glasgow Prognostic Score|Oncology
+CTCAE|Common Terminology Criteria for Adverse Events|Oncology
+AE|Adverse event|Oncology
+SAE|Serious adverse event|Oncology
+DLT|Dose-limiting toxicity|Oncology
+MTD|Maximum tolerated dose|Oncology
+RP2D|Recommended phase 2 dose|Oncology
+BSA|Body surface area|Oncology
+AUC|Area under the curve|Oncology
+PK|Pharmacokinetics|Oncology
+TDM|Therapeutic drug monitoring|Oncology
+5-FU|Fluorouracil|Oncology
+MTX|Methotrexate|Oncology
+HD-MTX|High-dose methotrexate|Oncology
+HDAC|High-dose cytarabine|Oncology
+Ara-C|Cytarabine|Oncology
+6-MP|Mercaptopurine|Oncology
+6-TG|Thioguanine|Oncology
+CTX|Cyclophosphamide|Oncology
+CYC|Cyclophosphamide|Oncology
+DOX|Doxorubicin|Oncology
+DNR|Daunorubicin|Oncology
+VCR|Vincristine|Oncology
+VBL|Vinblastine|Oncology
+VRL|Vinorelbine|Oncology
+PTX|Paclitaxel|Oncology
+DTX|Docetaxel|Oncology
+CBDCA|Carboplatin|Oncology
+DDP|Cisplatin|Oncology
+OXA|Oxaliplatin|Oncology
+GEM|Gemcitabine|Oncology
+CAPE|Capecitabine|Oncology
+IRI|Irinotecan|Oncology
+ETO|Etoposide|Oncology
+BLM|Bleomycin|Oncology
+MMC|Mitomycin C|Oncology
+DTIC|Dacarbazine|Oncology
+TMZ|Temozolomide|Oncology
+HU|Hydroxyurea|Oncology
+ATRA|All-trans retinoic acid|Oncology
+ATO|Arsenic trioxide|Oncology
+IMiD|Immunomodulatory drug|Oncology
+PI|Proteasome inhibitor|Oncology
+HMA|Hypomethylating agent|Oncology
+SERD|Selective estrogen receptor degrader|Oncology
+SERM|Selective estrogen receptor modulator|Oncology
+AI|Aromatase inhibitor|Oncology
+ADT|Androgen deprivation therapy|Oncology
+ARPI|Androgen receptor pathway inhibitor|Oncology
+LHRH|Luteinizing hormone-releasing hormone|Oncology
+GnRH|Gonadotropin-releasing hormone|Oncology
+OFS|Ovarian function suppression|Oncology
+SSA|Somatostatin analog|Oncology
+PRRT|Peptide receptor radionuclide therapy|Oncology
+RAI|Radioactive iodine|Oncology
+TSH|Thyroid-stimulating hormone|Oncology
+Tg|Thyroglobulin|Oncology
+FOLFOX|Folinic acid, fluorouracil and oxaliplatin regimen|Oncology
+FOLFIRI|Folinic acid, fluorouracil and irinotecan regimen|Oncology
+FOLFIRINOX|Folinic acid, fluorouracil, irinotecan and oxaliplatin regimen|Oncology
+CAPOX|Capecitabine and oxaliplatin regimen|Oncology
+XELOX|Capecitabine and oxaliplatin regimen|Oncology
+FLOT|Fluorouracil, leucovorin, oxaliplatin and docetaxel regimen|Oncology
+CHOP|Cyclophosphamide, doxorubicin, vincristine and prednisone regimen|Oncology
+R-CHOP|Rituximab plus CHOP regimen|Oncology
+EPOCH|Etoposide, prednisone, vincristine, cyclophosphamide and doxorubicin regimen|Oncology
+DA-EPOCH-R|Dose-adjusted EPOCH with rituximab|Oncology
+ABVD|Doxorubicin, bleomycin, vinblastine and dacarbazine regimen|Oncology
+BEACOPP|Bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine, procarbazine and prednisone regimen|Oncology
+BEP|Bleomycin, etoposide and cisplatin regimen|Oncology
+EP|Etoposide and cisplatin regimen|Oncology
+TCH|Docetaxel, carboplatin and trastuzumab regimen|Oncology
+AC-T|Doxorubicin and cyclophosphamide followed by a taxane|Oncology
+ddAC|Dose-dense doxorubicin and cyclophosphamide|Oncology
+CMF|Cyclophosphamide, methotrexate and fluorouracil regimen|Oncology
+GemCis|Gemcitabine and cisplatin regimen|Oncology
+GC|Gemcitabine and cisplatin regimen|Oncology
+MVAC|Methotrexate, vinblastine, doxorubicin and cisplatin regimen|Oncology
+ddMVAC|Dose-dense MVAC regimen|Oncology
+R-CVP|Rituximab, cyclophosphamide, vincristine and prednisone regimen|Oncology
+BR|Bendamustine and rituximab regimen|Oncology
+RICE|Rituximab, ifosfamide, carboplatin and etoposide regimen|Oncology
+R-ICE|Rituximab, ifosfamide, carboplatin and etoposide regimen|Oncology
+DHAP|Dexamethasone, high-dose cytarabine and cisplatin regimen|Oncology
+ESHAP|Etoposide, methylprednisolone, cytarabine and cisplatin regimen|Oncology
+GDP|Gemcitabine, dexamethasone and cisplatin regimen|Oncology
+VRd|Bortezomib, lenalidomide and dexamethasone regimen|Oncology
+RVd|Lenalidomide, bortezomib and dexamethasone regimen|Oncology
+KRd|Carfilzomib, lenalidomide and dexamethasone regimen|Oncology
+VCd|Bortezomib, cyclophosphamide and dexamethasone regimen|Oncology
+CyBorD|Cyclophosphamide, bortezomib and dexamethasone regimen|Oncology
+DRd|Daratumumab, lenalidomide and dexamethasone regimen|Oncology
+D-VRd|Daratumumab plus bortezomib, lenalidomide and dexamethasone|Oncology
+Rd|Lenalidomide and dexamethasone regimen|Oncology
+VMP|Bortezomib, melphalan and prednisone regimen|Oncology
+MPT|Melphalan, prednisone and thalidomide regimen|Oncology
+7+3|Cytarabine for 7 days with an anthracycline for 3 days|Oncology
+FLAG-IDA|Fludarabine, cytarabine, G-CSF and idarubicin regimen|Oncology
+CLAG|Cladribine, cytarabine and G-CSF regimen|Oncology
+FCR|Fludarabine, cyclophosphamide and rituximab regimen|Oncology
+FC|Fludarabine and cyclophosphamide regimen|Oncology
+BV|Brentuximab vedotin|Oncology
+Flu/Bu|Fludarabine and busulfan conditioning|Oncology
+Flu/Mel|Fludarabine and melphalan conditioning|Oncology
+Bu/Cy|Busulfan and cyclophosphamide conditioning|Oncology
+BEAM|Carmustine, etoposide, cytarabine and melphalan conditioning|Oncology
+PTCy|Post-transplant cyclophosphamide|Oncology
+ATG|Antithymocyte globulin|Oncology
+TACE|Transarterial chemoembolization|Oncology
+TARE|Transarterial radioembolization|Oncology
+Y-90|Yttrium-90 radioembolization|Oncology
+RFA|Radiofrequency ablation|Oncology
+MWA|Microwave ablation|Oncology
+HIPEC|Hyperthermic intraperitoneal chemotherapy|Oncology
+PIPAC|Pressurized intraperitoneal aerosol chemotherapy|Oncology
+IP|Intraperitoneal|Oncology
+HAI|Hepatic arterial infusion|Oncology
+HIFU|High-intensity focused ultrasound|Oncology
+PDT|Photodynamic therapy|Oncology
+TURBT|Transurethral resection of bladder tumor|Oncology
+TURP|Transurethral resection of the prostate|Oncology
+RP|Radical prostatectomy|Oncology
+RALP|Robot-assisted laparoscopic prostatectomy|Oncology
+RC|Radical cystectomy|Oncology
+RN|Radical nephrectomy|Oncology
+PN|Partial nephrectomy|Oncology
+NSM|Nipple-sparing mastectomy|Oncology
+BCS|Breast-conserving surgery|Oncology
+BCT|Breast-conserving therapy|Oncology
+SSM|Skin-sparing mastectomy|Oncology
+WLE|Wide local excision|Oncology
+MRM|Modified radical mastectomy|Oncology
+TME|Total mesorectal excision|Oncology
+LAR|Low anterior resection|Oncology
+APR|Abdominoperineal resection|Oncology
+EMR|Endoscopic mucosal resection|Oncology
+ESD|Endoscopic submucosal dissection|Oncology
+EUS|Endoscopic ultrasound|Oncology
+FNA|Fine-needle aspiration|Oncology
+FNAB|Fine-needle aspiration biopsy|Oncology
+CNB|Core needle biopsy|Oncology
+EBUS|Endobronchial ultrasound|Oncology
+EBUS-TBNA|Endobronchial ultrasound-guided transbronchial needle aspiration|Oncology
+EUS-FNA|Endoscopic ultrasound-guided fine-needle aspiration|Oncology
+ERCP|Endoscopic retrograde cholangiopancreatography|Oncology
+PTC|Percutaneous transhepatic cholangiography|Oncology
+VATS|Video-assisted thoracoscopic surgery|Oncology
+CRS-HIPEC|Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy|Oncology
+PCI|Prophylactic cranial irradiation|Oncology
+PAN|Para-aortic lymph node|Oncology
+BM|Bone marrow|Oncology
+BMBx|Bone marrow biopsy|Oncology
+BMAB|Bone marrow aspirate and biopsy|Oncology
+CBC|Complete blood count|Oncology
+ANC|Absolute neutrophil count|Oncology
+ALC|Absolute lymphocyte count|Oncology
+AMC|Absolute monocyte count|Oncology
+WBC|White blood cell|Oncology
+Hgb|Hemoglobin|Oncology
+Plt|Platelet|Oncology
+FN|Febrile neutropenia|Oncology
+TLS|Tumor lysis syndrome|Oncology
+DIC|Disseminated intravascular coagulation|Oncology
+SVC|Superior vena cava|Oncology
+SVCS|Superior vena cava syndrome|Oncology
+MSCC|Metastatic spinal cord compression|Oncology
+MESCC|Metastatic epidural spinal cord compression|Oncology
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Oncology
+HHM|Humoral hypercalcemia of malignancy|Oncology
+PTHrP|Parathyroid hormone-related protein|Oncology
+SRE|Skeletal-related event|Oncology
+CUP|Cancer of unknown primary|Oncology
+CUPS|Cancer of unknown primary site|Oncology
+MEN|Multiple endocrine neoplasia|Oncology
+JPS|Juvenile polyposis syndrome|Oncology
+MAP|MUTYH-associated polyposis|Oncology
+BCNS|Basal cell nevus syndrome|Oncology
+HDGC|Hereditary diffuse gastric cancer|Oncology
+HLRCC|Hereditary leiomyomatosis and renal cell cancer|Oncology
+RT|Radiation therapy|Oncology
+XRT|External radiation therapy|Oncology
+EBRT|External beam radiation therapy|Oncology
+IMRT|Intensity-modulated radiation therapy|Oncology
+VMAT|Volumetric modulated arc therapy|Oncology
+3D-CRT|Three-dimensional conformal radiation therapy|Oncology
+IGRT|Image-guided radiation therapy|Oncology
+SBRT|Stereotactic body radiation therapy|Oncology
+SABR|Stereotactic ablative radiotherapy|Oncology
+SRS|Stereotactic radiosurgery|Oncology
+SRT|Stereotactic radiotherapy|Oncology
+FSRT|Fractionated stereotactic radiotherapy|Oncology
+WBRT|Whole brain radiation therapy|Oncology
+HA-WBRT|Hippocampal-avoidant whole brain radiation therapy|Oncology
+PBT|Proton beam therapy|Oncology
+IORT|Intraoperative radiation therapy|Oncology
+APBI|Accelerated partial breast irradiation|Oncology
+WBI|Whole breast irradiation|Oncology
+PMRT|Post-mastectomy radiation therapy|Oncology
+LDR|Low dose rate (brachytherapy)|Oncology
+HDR|High dose rate (brachytherapy)|Oncology
+CRT|Chemoradiotherapy|Oncology
+CCRT|Concurrent chemoradiotherapy|Oncology
+nCRT|Neoadjuvant chemoradiotherapy|Oncology
+TNT|Total neoadjuvant therapy|Oncology
+ISRT|Involved-site radiation therapy|Oncology
+IFRT|Involved-field radiation therapy|Oncology
+GTV|Gross tumor volume|Oncology
+CTV|Clinical target volume|Oncology
+PTV|Planning target volume|Oncology
+ITV|Internal target volume|Oncology
+OAR|Organ at risk|Oncology
+DVH|Dose-volume histogram|Oncology
+Gy|Gray (unit of absorbed radiation dose)|Oncology
+cGy|Centigray|Oncology
+BED|Biologically effective dose|Oncology
+LET|Linear energy transfer|Oncology
+RBE|Relative biological effectiveness|Oncology
+MLC|Multileaf collimator|Oncology
+CBCT|Cone-beam computed tomography|Oncology
+RIP|Radiation-induced pneumonitis|Oncology
+CT|Computed tomography|Oncology
+CECT|Contrast-enhanced computed tomography|Oncology
+MRI|Magnetic resonance imaging|Oncology
+PET|Positron emission tomography|Oncology
+PET/CT|Positron emission tomography with computed tomography|Oncology
+FDG|Fluorodeoxyglucose|Oncology
+SUV|Standardized uptake value|Oncology
+SUVmax|Maximum standardized uptake value|Oncology
+MTV|Metabolic tumor volume|Oncology
+TLG|Total lesion glycolysis|Oncology
+MIBG|Metaiodobenzylguanidine|Oncology
+DOTATATE|DOTA-octreotate (somatostatin receptor imaging agent)|Oncology
+SPECT|Single-photon emission computed tomography|Oncology
+DWI|Diffusion-weighted imaging|Oncology
+ADC-map|Apparent diffusion coefficient|Oncology
+mpMRI|Multiparametric MRI|Oncology
+PI-RADS|Prostate Imaging Reporting and Data System|Oncology
+BI-RADS|Breast Imaging Reporting and Data System|Oncology
+LI-RADS|Liver Imaging Reporting and Data System|Oncology
+TI-RADS|Thyroid Imaging Reporting and Data System|Oncology
+Lung-RADS|Lung CT Screening Reporting and Data System|Oncology
+O-RADS|Ovarian-Adnexal Reporting and Data System|Oncology
+LDCT|Low-dose computed tomography|Oncology
+DBT|Digital breast tomosynthesis|Oncology
+FFDM|Full-field digital mammography|Oncology
+CXR|Chest X-ray|Oncology
+GGO|Ground-glass opacity|Oncology
+SPN|Solitary pulmonary nodule|Oncology
+AIS|Adenocarcinoma in situ|Oncology
+MIA|Minimally invasive adenocarcinoma|Oncology
+FOBT|Fecal occult blood test|Oncology
+FIT|Fecal immunochemical test|Oncology
+sDNA|Stool DNA test|Oncology
+CEA|Carcinoembryonic antigen|Oncology
+AFP|Alpha-fetoprotein|Oncology
+hCG|Human chorionic gonadotropin|Oncology
+beta-hCG|Beta human chorionic gonadotropin|Oncology
+LDH|Lactate dehydrogenase|Oncology
+CA-125|Cancer antigen 125|Oncology
+CA 19-9|Carbohydrate antigen 19-9|Oncology
+CA 15-3|Cancer antigen 15-3|Oncology
+CgA|Chromogranin A|Oncology
+NSE|Neuron-specific enolase|Oncology
+SPEP|Serum protein electrophoresis|Oncology
+UPEP|Urine protein electrophoresis|Oncology
+SIFE|Serum immunofixation electrophoresis|Oncology
+UIFE|Urine immunofixation electrophoresis|Oncology
+sFLC|Serum free light chains|Oncology
+FLC|Free light chain|Oncology
+M-spike|Monoclonal protein spike|Oncology
+M-protein|Monoclonal protein|Oncology
+B2M|Beta-2 microglobulin|Oncology
+LDH-elev|Elevated lactate dehydrogenase|Oncology
+sIL-2R|Soluble interleukin-2 receptor|Oncology
+ESR|Erythrocyte sedimentation rate|Oncology
+CRP|C-reactive protein|Oncology
+TSH-supp|TSH suppression therapy|Oncology
+CCyR|Complete cytogenetic response|Oncology
+CHR|Complete hematologic response|Oncology
+TFR|Treatment-free remission|Oncology
+AML-MRC|Acute myeloid leukemia with myelodysplasia-related changes|Oncology
+t-AML|Therapy-related acute myeloid leukemia|Oncology
+t-MN|Therapy-related myeloid neoplasm|Oncology
+t-MDS|Therapy-related myelodysplastic syndrome|Oncology
+RAEB|Refractory anemia with excess blasts|Oncology
+RARS|Refractory anemia with ring sideroblasts|Oncology
+LR-MDS|Lower-risk myelodysplastic syndrome|Oncology
+HR-MDS|Higher-risk myelodysplastic syndrome|Oncology
+MDS/MPN|Myelodysplastic/myeloproliferative neoplasm|Oncology
+SM|Systemic mastocytosis|Oncology
+CM|Cutaneous mastocytosis|Oncology
+HES|Hypereosinophilic syndrome|Oncology
+CEL|Chronic eosinophilic leukemia|Oncology
+CNL|Chronic neutrophilic leukemia|Oncology
+aCML|Atypical chronic myeloid leukemia|Oncology
+del(17p)|Deletion of the short arm of chromosome 17|Oncology
+t(11;14)|Translocation between chromosomes 11 and 14|Oncology
+t(9;22)|Translocation between chromosomes 9 and 22|Oncology
+t(15;17)|Translocation between chromosomes 15 and 17|Oncology
+NK-AML|Normal karyotype acute myeloid leukemia|Oncology
+MRD-neg|Minimal residual disease negative|Oncology
+MRD-pos|Minimal residual disease positive|Oncology
+MFC|Multiparametric flow cytometry|Oncology
+FCM|Flow cytometry|Oncology
+BM-bx|Bone marrow biopsy|Oncology
+EMD|Extramedullary disease|Oncology
+EMP|Extramedullary plasmacytoma|Oncology
+SBP|Solitary bone plasmacytoma|Oncology
+PCL|Plasma cell leukemia|Oncology
+POEMS|Polyneuropathy, organomegaly, endocrinopathy, monoclonal protein and skin changes syndrome|Oncology
+CRAB|Hypercalcemia, renal failure, anemia and bone lesions|Oncology
+SLiM-CRAB|Myeloma-defining criteria (60% plasma cells, light chain ratio, MRI lesions, CRAB features)|Oncology
+RRMM|Relapsed or refractory multiple myeloma|Oncology
+NDMM|Newly diagnosed multiple myeloma|Oncology
+R/R|Relapsed or refractory|Oncology
+RR|Relapsed or refractory|Oncology
+NED|No evidence of disease|Oncology
+NEAD|No evidence of active disease|Oncology
+AWD|Alive with disease|Oncology
+DOD|Died of disease|Oncology
+EOC|Epithelial ovarian cancer|Oncology
+HGSOC|High-grade serous ovarian carcinoma|Oncology
+LGSOC|Low-grade serous ovarian carcinoma|Oncology
+OC|Ovarian cancer|Oncology
+UPSC|Uterine papillary serous carcinoma|Oncology
+CCOC|Clear cell ovarian carcinoma|Oncology
+GTN|Gestational trophoblastic neoplasia|Oncology
+GTD|Gestational trophoblastic disease|Oncology
+CIN|Cervical intraepithelial neoplasia|Oncology
+VIN|Vulvar intraepithelial neoplasia|Oncology
+VaIN|Vaginal intraepithelial neoplasia|Oncology
+AIN|Anal intraepithelial neoplasia|Oncology
+HSIL|High-grade squamous intraepithelial lesion|Oncology
+LSIL|Low-grade squamous intraepithelial lesion|Oncology
+ASC-US|Atypical squamous cells of undetermined significance|Oncology
+ASC-H|Atypical squamous cells, cannot exclude high-grade lesion|Oncology
+AGC|Atypical glandular cells|Oncology
+LEEP|Loop electrosurgical excision procedure|Oncology
+TAH|Total abdominal hysterectomy|Oncology
+BSO|Bilateral salpingo-oophorectomy|Oncology
+RRSO|Risk-reducing salpingo-oophorectomy|Oncology
+TAH-BSO|Total abdominal hysterectomy with bilateral salpingo-oophorectomy|Oncology
+MPM|Malignant pleural mesothelioma|Oncology
+EPP|Extrapleural pneumonectomy|Oncology
+MPE|Malignant pleural effusion|Oncology
+IPC|Indwelling pleural catheter|Oncology
+MA|Malignant ascites|Oncology
+LMD|Leptomeningeal disease|Oncology
+LM|Leptomeningeal metastases|Oncology
+GBM|Glioblastoma|Oncology
+CNS|Central nervous system|Oncology
+DIPG|Diffuse intrinsic pontine glioma|Oncology
+DMG|Diffuse midline glioma|Oncology
+LGG|Low-grade glioma|Oncology
+HGG|High-grade glioma|Oncology
+PCNSL-MTX|Primary CNS lymphoma treated with methotrexate|Oncology
+CSF|Cerebrospinal fluid|Oncology
+ICP|Intracranial pressure|Oncology
+TTFields|Tumor treating fields|Oncology
+STS|Soft tissue sarcoma|Oncology
+RMS|Rhabdomyosarcoma|Oncology
+LMS|Leiomyosarcoma|Oncology
+LPS|Liposarcoma|Oncology
+DDLPS|Dedifferentiated liposarcoma|Oncology
+WDLPS|Well-differentiated liposarcoma|Oncology
+UPS|Undifferentiated pleomorphic sarcoma|Oncology
+MPNST|Malignant peripheral nerve sheath tumor|Oncology
+DFSP|Dermatofibrosarcoma protuberans|Oncology
+cSCC|Cutaneous squamous cell carcinoma|Oncology
+AK|Actinic keratosis|Oncology
+LMM|Lentigo maligna melanoma|Oncology
+ALM|Acral lentiginous melanoma|Oncology
+NM|Nodular melanoma|Oncology
+UM|Uveal melanoma|Oncology
+ABCDE|Asymmetry, border, color, diameter, evolution (melanoma warning signs)|Oncology
+GCT|Germ cell tumor|Oncology
+NSGCT|Non-seminomatous germ cell tumor|Oncology
+IGCCCG|International germ cell cancer risk classification|Oncology
+TIN|Testicular intraepithelial neoplasia|Oncology
+RB|Retinoblastoma|Oncology
+NB|Neuroblastoma|Oncology
+HB|Hepatoblastoma|Oncology
+ATC|Anaplastic thyroid carcinoma|Oncology
+DTC|Differentiated thyroid cancer|Oncology
+FTC|Follicular thyroid carcinoma|Oncology
+MTC|Medullary thyroid carcinoma|Oncology
+ACC|Adrenocortical carcinoma|Oncology
+PPGL|Pheochromocytoma and paraganglioma|Oncology
+IVP|Intravenous pyelogram|Oncology
+PICC|Peripherally inserted central catheter|Oncology
+CVC|Central venous catheter|Oncology
+IVAD|Implanted venous access device|Oncology
+TPN|Total parenteral nutrition|Oncology
+PEG|Percutaneous endoscopic gastrostomy|Oncology
+NG|Nasogastric|Oncology
+CINV|Chemotherapy-induced nausea and vomiting|Oncology
+CIPN|Chemotherapy-induced peripheral neuropathy|Oncology
+CIA|Chemotherapy-induced anemia|Oncology
+CIT|Chemotherapy-induced thrombocytopenia|Oncology
+CRF|Cancer-related fatigue|Oncology
+PPE|Palmar-plantar erythrodysesthesia|Oncology
+HFS|Hand-foot syndrome|Oncology
+HFSR|Hand-foot skin reaction|Oncology
+OM|Oral mucositis|Oncology
+CV|Cardiovascular|Oncology
+CTRCD|Cancer therapeutics-related cardiac dysfunction|Oncology
+LVEF|Left ventricular ejection fraction|Oncology
+GLS|Global longitudinal strain|Oncology
+MUGA|Multigated acquisition scan|Oncology
+ILD|Interstitial lung disease|Oncology
+ONJ|Osteonecrosis of the jaw|Oncology
+MRONJ|Medication-related osteonecrosis of the jaw|Oncology
+RANKL|Receptor activator of nuclear factor kappa-B ligand|Oncology
+BTA|Bone-targeted agent|Oncology
+VTE|Venous thromboembolism|Oncology
+CAT|Cancer-associated thrombosis|Oncology
+DVT|Deep vein thrombosis|Oncology
+PE|Pulmonary embolism|Oncology
+LMWH|Low-molecular-weight heparin|Oncology
+DOAC|Direct oral anticoagulant|Oncology
+HIT|Heparin-induced thrombocytopenia|Oncology
+ITP|Immune thrombocytopenia|Oncology
+AIHA|Autoimmune hemolytic anemia|Oncology
+TTP-thromb|Thrombotic thrombocytopenic purpura|Oncology
+HUS|Hemolytic uremic syndrome|Oncology
+PRBC|Packed red blood cells|Oncology
+FFP|Fresh frozen plasma|Oncology
+IVIG|Intravenous immunoglobulin|Oncology
+SCIG|Subcutaneous immunoglobulin|Oncology
+HBV|Hepatitis B virus|Oncology
+HCV|Hepatitis C virus|Oncology
+HIV|Human immunodeficiency virus|Oncology
+PJP|Pneumocystis jirovecii pneumonia|Oncology
+PCP|Pneumocystis pneumonia|Oncology
+IFI|Invasive fungal infection|Oncology
+IA|Invasive aspergillosis|Oncology
+HSV|Herpes simplex virus|Oncology
+VZV|Varicella-zoster virus|Oncology
+PML|Progressive multifocal leukoencephalopathy|Oncology
+PRES|Posterior reversible encephalopathy syndrome|Oncology
+DNR-code|Do not resuscitate|Oncology
+DNI|Do not intubate|Oncology
+POLST|Physician Orders for Life-Sustaining Treatment|Oncology
+GOC|Goals of care|Oncology
+ACP|Advance care planning|Oncology

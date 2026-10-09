@@ -1,0 +1,620 @@
+SAH|Subarachnoid hemorrhage|Neurosurgery
+SDH|Subdural hematoma|Neurosurgery
+EDH|Epidural hematoma|Neurosurgery
+ICH|Intracerebral hemorrhage|Neurosurgery
+IPH|Intraparenchymal hemorrhage|Neurosurgery
+IVH|Intraventricular hemorrhage|Neurosurgery
+cSDH|Chronic subdural hematoma|Neurosurgery
+aSDH|Acute subdural hematoma|Neurosurgery
+aSAH|Aneurysmal subarachnoid hemorrhage|Neurosurgery
+TBI|Traumatic brain injury|Neurosurgery
+mTBI|Mild traumatic brain injury|Neurosurgery
+sTBI|Severe traumatic brain injury|Neurosurgery
+DAI|Diffuse axonal injury|Neurosurgery
+SCI|Spinal cord injury|Neurosurgery
+SCIWORA|Spinal cord injury without radiographic abnormality|Neurosurgery
+ICP|Intracranial pressure|Neurosurgery
+CPP|Cerebral perfusion pressure|Neurosurgery
+MAP|Mean arterial pressure|Neurosurgery
+CBF|Cerebral blood flow|Neurosurgery
+CBV|Cerebral blood volume|Neurosurgery
+CMRO2|Cerebral metabolic rate of oxygen|Neurosurgery
+CSF|Cerebrospinal fluid|Neurosurgery
+EVD|External ventricular drain|Neurosurgery
+LD|Lumbar drain|Neurosurgery
+LP|Lumbar puncture|Neurosurgery
+VP|Ventriculoperitoneal|Neurosurgery
+VPS|Ventriculoperitoneal shunt|Neurosurgery
+VA|Ventriculoatrial|Neurosurgery
+VAS|Ventriculoatrial shunt|Neurosurgery
+VPL|Ventriculopleural|Neurosurgery
+LPS|Lumboperitoneal shunt|Neurosurgery
+ETV|Endoscopic third ventriculostomy|Neurosurgery
+CPC|Choroid plexus coagulation|Neurosurgery
+NPH|Normal pressure hydrocephalus|Neurosurgery
+IIH|Idiopathic intracranial hypertension|Neurosurgery
+HCP|Hydrocephalus|Neurosurgery
+CH|Communicating hydrocephalus|Neurosurgery
+OH|Obstructive hydrocephalus|Neurosurgery
+PbtO2|Brain tissue oxygen partial pressure|Neurosurgery
+SjvO2|Jugular venous oxygen saturation|Neurosurgery
+TCD|Transcranial Doppler|Neurosurgery
+CT|Computed tomography|Neurosurgery
+NCCT|Non-contrast computed tomography|Neurosurgery
+CTH|Computed tomography of the head|Neurosurgery
+CTA|Computed tomography angiography|Neurosurgery
+CTP|Computed tomography perfusion|Neurosurgery
+CTV|Computed tomography venography|Neurosurgery
+MRI|Magnetic resonance imaging|Neurosurgery
+MRA|Magnetic resonance angiography|Neurosurgery
+MRV|Magnetic resonance venography|Neurosurgery
+MRS|Magnetic resonance spectroscopy|Neurosurgery
+fMRI|Functional magnetic resonance imaging|Neurosurgery
+DWI|Diffusion-weighted imaging|Neurosurgery
+ADC|Apparent diffusion coefficient|Neurosurgery
+DTI|Diffusion tensor imaging|Neurosurgery
+FLAIR|Fluid-attenuated inversion recovery|Neurosurgery
+T1WI|T1-weighted imaging|Neurosurgery
+T2WI|T2-weighted imaging|Neurosurgery
+SWI|Susceptibility-weighted imaging|Neurosurgery
+GRE|Gradient recalled echo|Neurosurgery
+PWI|Perfusion-weighted imaging|Neurosurgery
+STIR|Short tau inversion recovery|Neurosurgery
+PET|Positron emission tomography|Neurosurgery
+SPECT|Single-photon emission computed tomography|Neurosurgery
+DSA|Digital subtraction angiography|Neurosurgery
+3DRA|Three-dimensional rotational angiography|Neurosurgery
+ICG|Indocyanine green|Neurosurgery
+5-ALA|5-aminolevulinic acid|Neurosurgery
+MEG|Magnetoencephalography|Neurosurgery
+EEG|Electroencephalography|Neurosurgery
+cEEG|Continuous electroencephalography|Neurosurgery
+EMG|Electromyography|Neurosurgery
+NCS|Nerve conduction studies|Neurosurgery
+SSEP|Somatosensory evoked potentials|Neurosurgery
+MEP|Motor evoked potentials|Neurosurgery
+BAER|Brainstem auditory evoked response|Neurosurgery
+BAEP|Brainstem auditory evoked potentials|Neurosurgery
+VEP|Visual evoked potentials|Neurosurgery
+IONM|Intraoperative neurophysiological monitoring|Neurosurgery
+EcoG|Electrocorticography|Neurosurgery
+SEEG|Stereoelectroencephalography|Neurosurgery
+DBS|Deep brain stimulation|Neurosurgery
+VNS|Vagus nerve stimulation|Neurosurgery
+RNS|Responsive neurostimulation|Neurosurgery
+SCS|Spinal cord stimulation|Neurosurgery
+PNS|Peripheral nerve stimulation|Neurosurgery
+DRG|Dorsal root ganglion|Neurosurgery
+DREZ|Dorsal root entry zone|Neurosurgery
+ITB|Intrathecal baclofen|Neurosurgery
+SDR|Selective dorsal rhizotomy|Neurosurgery
+GKRS|Gamma Knife radiosurgery|Neurosurgery
+SRS|Stereotactic radiosurgery|Neurosurgery
+SRT|Stereotactic radiotherapy|Neurosurgery
+SBRT|Stereotactic body radiotherapy|Neurosurgery
+WBRT|Whole-brain radiation therapy|Neurosurgery
+IMRT|Intensity-modulated radiation therapy|Neurosurgery
+XRT|External beam radiation therapy|Neurosurgery
+RT|Radiation therapy|Neurosurgery
+LITT|Laser interstitial thermal therapy|Neurosurgery
+MRgFUS|Magnetic resonance-guided focused ultrasound|Neurosurgery
+FUS|Focused ultrasound|Neurosurgery
+RFA|Radiofrequency ablation|Neurosurgery
+GBM|Glioblastoma|Neurosurgery
+LGG|Low-grade glioma|Neurosurgery
+HGG|High-grade glioma|Neurosurgery
+AA|Anaplastic astrocytoma|Neurosurgery
+DIPG|Diffuse intrinsic pontine glioma|Neurosurgery
+PCNSL|Primary central nervous system lymphoma|Neurosurgery
+CNS|Central nervous system|Neurosurgery
+PNS|Peripheral nervous system|Neurosurgery
+ANS|Autonomic nervous system|Neurosurgery
+MB|Medulloblastoma|Neurosurgery
+PNET|Primitive neuroectodermal tumor|Neurosurgery
+ATRT|Atypical teratoid rhabdoid tumor|Neurosurgery
+DNET|Dysembryoplastic neuroepithelial tumor|Neurosurgery
+PXA|Pleomorphic xanthoastrocytoma|Neurosurgery
+SEGA|Subependymal giant cell astrocytoma|Neurosurgery
+PA|Pilocytic astrocytoma|Neurosurgery
+JPA|Juvenile pilocytic astrocytoma|Neurosurgery
+IDH|Isocitrate dehydrogenase|Neurosurgery
+MGMT|O6-methylguanine-DNA methyltransferase|Neurosurgery
+TMZ|Temozolomide|Neurosurgery
+CCNU|Lomustine|Neurosurgery
+PCV|Procarbazine, lomustine and vincristine|Neurosurgery
+GTR|Gross total resection|Neurosurgery
+STR|Subtotal resection|Neurosurgery
+NTR|Near total resection|Neurosurgery
+EOR|Extent of resection|Neurosurgery
+RANO|Response assessment in neuro-oncology|Neurosurgery
+PFS|Progression-free survival|Neurosurgery
+OS|Overall survival|Neurosurgery
+KPS|Karnofsky performance status|Neurosurgery
+CPA|Cerebellopontine angle|Neurosurgery
+VS|Vestibular schwannoma|Neurosurgery
+NF1|Neurofibromatosis type 1|Neurosurgery
+NF2|Neurofibromatosis type 2|Neurosurgery
+MPNST|Malignant peripheral nerve sheath tumor|Neurosurgery
+TS|Tuberous sclerosis|Neurosurgery
+VHL|Von Hippel-Lindau disease|Neurosurgery
+HFS|Hemifacial spasm|Neurosurgery
+TN|Trigeminal neuralgia|Neurosurgery
+GPN|Glossopharyngeal neuralgia|Neurosurgery
+MVD|Microvascular decompression|Neurosurgery
+PBC|Percutaneous balloon compression|Neurosurgery
+PRGR|Percutaneous retrogasserian glycerol rhizotomy|Neurosurgery
+PSR|Percutaneous stereotactic rhizotomy|Neurosurgery
+ATN|Atypical trigeminal neuralgia|Neurosurgery
+V1|Ophthalmic division of the trigeminal nerve|Neurosurgery
+V2|Maxillary division of the trigeminal nerve|Neurosurgery
+V3|Mandibular division of the trigeminal nerve|Neurosurgery
+CN|Cranial nerve|Neurosurgery
+CN II|Optic nerve|Neurosurgery
+CN III|Oculomotor nerve|Neurosurgery
+CN IV|Trochlear nerve|Neurosurgery
+CN V|Trigeminal nerve|Neurosurgery
+CN VI|Abducens nerve|Neurosurgery
+CN VII|Facial nerve|Neurosurgery
+CN VIII|Vestibulocochlear nerve|Neurosurgery
+CN IX|Glossopharyngeal nerve|Neurosurgery
+CN X|Vagus nerve|Neurosurgery
+CN XI|Spinal accessory nerve|Neurosurgery
+CN XII|Hypoglossal nerve|Neurosurgery
+PERRL|Pupils equal, round and reactive to light|Neurosurgery
+EOMI|Extraocular movements intact|Neurosurgery
+RAPD|Relative afferent pupillary defect|Neurosurgery
+APD|Afferent pupillary defect|Neurosurgery
+VA|Visual acuity|Neurosurgery
+OFC|Occipitofrontal circumference|Neurosurgery
+AF|Anterior fontanelle|Neurosurgery
+GCS|Glasgow Coma Scale|Neurosurgery
+GOS|Glasgow Outcome Scale|Neurosurgery
+GOSE|Glasgow Outcome Scale extended|Neurosurgery
+mRS|Modified Rankin Scale|Neurosurgery
+NIHSS|National Institutes of Health Stroke Scale|Neurosurgery
+ICH score|Intracerebral hemorrhage score|Neurosurgery
+mFS|Modified Fisher scale|Neurosurgery
+ASPECTS|Alberta stroke program early CT score|Neurosurgery
+TICI|Thrombolysis in cerebral infarction|Neurosurgery
+mTICI|Modified thrombolysis in cerebral infarction|Neurosurgery
+LOC|Loss of consciousness|Neurosurgery
+AMS|Altered mental status|Neurosurgery
+A&O|Alert and oriented|Neurosurgery
+AOx3|Alert and oriented to person, place and time|Neurosurgery
+AOx4|Alert and oriented to person, place, time and situation|Neurosurgery
+PTA|Post-traumatic amnesia|Neurosurgery
+PCS|Post-concussion syndrome|Neurosurgery
+CTE|Chronic traumatic encephalopathy|Neurosurgery
+PTS|Post-traumatic seizure|Neurosurgery
+PTH|Post-traumatic hydrocephalus|Neurosurgery
+CVST|Cerebral venous sinus thrombosis|Neurosurgery
+CVT|Cerebral venous thrombosis|Neurosurgery
+SSS|Superior sagittal sinus|Neurosurgery
+ICA|Internal carotid artery|Neurosurgery
+ECA|External carotid artery|Neurosurgery
+MCA|Middle cerebral artery|Neurosurgery
+ACA|Anterior cerebral artery|Neurosurgery
+PCA|Posterior cerebral artery|Neurosurgery
+ACoA|Anterior communicating artery|Neurosurgery
+AComm|Anterior communicating artery|Neurosurgery
+PCoA|Posterior communicating artery|Neurosurgery
+PComm|Posterior communicating artery|Neurosurgery
+BA|Basilar artery|Neurosurgery
+VA|Vertebral artery|Neurosurgery
+PICA|Posterior inferior cerebellar artery|Neurosurgery
+AICA|Anterior inferior cerebellar artery|Neurosurgery
+SCA|Superior cerebellar artery|Neurosurgery
+ACHA|Anterior choroidal artery|Neurosurgery
+A1|First segment of the anterior cerebral artery|Neurosurgery
+M1|First segment of the middle cerebral artery|Neurosurgery
+P1|First segment of the posterior cerebral artery|Neurosurgery
+V4|Fourth segment of the vertebral artery|Neurosurgery
+CoW|Circle of Willis|Neurosurgery
+STA|Superficial temporal artery|Neurosurgery
+STA-MCA|Superficial temporal artery to middle cerebral artery bypass|Neurosurgery
+EC-IC|Extracranial to intracranial bypass|Neurosurgery
+EDAS|Encephaloduroarteriosynangiosis|Neurosurgery
+EMS|Encephalomyosynangiosis|Neurosurgery
+MMA|Middle meningeal artery|Neurosurgery
+MMAE|Middle meningeal artery embolization|Neurosurgery
+CAS|Carotid artery stenting|Neurosurgery
+CEA|Carotid endarterectomy|Neurosurgery
+AVM|Arteriovenous malformation|Neurosurgery
+AVF|Arteriovenous fistula|Neurosurgery
+dAVF|Dural arteriovenous fistula|Neurosurgery
+CCM|Cerebral cavernous malformation|Neurosurgery
+DVA|Developmental venous anomaly|Neurosurgery
+CCF|Carotid-cavernous fistula|Neurosurgery
+VOGM|Vein of Galen malformation|Neurosurgery
+HHT|Hereditary hemorrhagic telangiectasia|Neurosurgery
+MMD|Moyamoya disease|Neurosurgery
+RCVS|Reversible cerebral vasoconstriction syndrome|Neurosurgery
+DCI|Delayed cerebral ischemia|Neurosurgery
+DIND|Delayed ischemic neurologic deficit|Neurosurgery
+CVS|Cerebral vasospasm|Neurosurgery
+PRES|Posterior reversible encephalopathy syndrome|Neurosurgery
+IA|Intra-arterial|Neurosurgery
+IV|Intravenous|Neurosurgery
+IT|Intrathecal|Neurosurgery
+ICA|Intracranial aneurysm|Neurosurgery
+UIA|Unruptured intracranial aneurysm|Neurosurgery
+FD|Flow diverter|Neurosurgery
+BAC|Balloon-assisted coiling|Neurosurgery
+EVT|Endovascular thrombectomy|Neurosurgery
+MT|Mechanical thrombectomy|Neurosurgery
+LVO|Large vessel occlusion|Neurosurgery
+tPA|Tissue plasminogen activator|Neurosurgery
+IV tPA|Intravenous tissue plasminogen activator|Neurosurgery
+TNK|Tenecteplase|Neurosurgery
+LKW|Last known well|Neurosurgery
+CVA|Cerebrovascular accident|Neurosurgery
+TIA|Transient ischemic attack|Neurosurgery
+DHC|Decompressive hemicraniectomy|Neurosurgery
+DC|Decompressive craniectomy|Neurosurgery
+SOC|Suboccipital craniectomy|Neurosurgery
+CP|Cranioplasty|Neurosurgery
+CSF leak|Cerebrospinal fluid leak|Neurosurgery
+PCF|Posterior cranial fossa|Neurosurgery
+MCF|Middle cranial fossa|Neurosurgery
+TSS|Transsphenoidal surgery|Neurosurgery
+TNTS|Transnasal transsphenoidal surgery|Neurosurgery
+ESBS|Endoscopic skull base surgery|Neurosurgery
+RMCEC|Retromastoid craniectomy|Neurosurgery
+TC|Transcortical|Neurosurgery
+TT|Transtemporal|Neurosurgery
+BM|Brain metastasis|Neurosurgery
+LM|Leptomeningeal metastasis|Neurosurgery
+LMD|Leptomeningeal disease|Neurosurgery
+CED|Convection-enhanced delivery|Neurosurgery
+GH|Growth hormone|Neurosurgery
+ACTH|Adrenocorticotropic hormone|Neurosurgery
+TSH|Thyroid-stimulating hormone|Neurosurgery
+FSH|Follicle-stimulating hormone|Neurosurgery
+LH|Luteinizing hormone|Neurosurgery
+ADH|Antidiuretic hormone|Neurosurgery
+IGF-1|Insulin-like growth factor 1|Neurosurgery
+DI|Diabetes insipidus|Neurosurgery
+CDI|Central diabetes insipidus|Neurosurgery
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Neurosurgery
+CSW|Cerebral salt wasting|Neurosurgery
+NFPA|Non-functioning pituitary adenoma|Neurosurgery
+CD|Cushing disease|Neurosurgery
+MPA|Macroadenoma of the pituitary|Neurosurgery
+HPA|Hypothalamic-pituitary-adrenal axis|Neurosurgery
+BIPSS|Bilateral inferior petrosal sinus sampling|Neurosurgery
+IPSS|Inferior petrosal sinus sampling|Neurosurgery
+CPH|Craniopharyngioma|Neurosurgery
+RCC|Rathke cleft cyst|Neurosurgery
+ONSF|Optic nerve sheath fenestration|Neurosurgery
+ONSD|Optic nerve sheath diameter|Neurosurgery
+CSDH|Chronic subdural hematoma|Neurosurgery
+BH|Burr hole|Neurosurgery
+BHs|Burr holes|Neurosurgery
+JP|Jackson-Pratt drain|Neurosurgery
+HV|Hemovac drain|Neurosurgery
+EVD|External ventricular drainage|Neurosurgery
+ORIF|Open reduction and internal fixation|Neurosurgery
+ACDF|Anterior cervical discectomy and fusion|Neurosurgery
+ACCF|Anterior cervical corpectomy and fusion|Neurosurgery
+ACD|Anterior cervical discectomy|Neurosurgery
+CDA|Cervical disc arthroplasty|Neurosurgery
+TDR|Total disc replacement|Neurosurgery
+PCF|Posterior cervical fusion|Neurosurgery
+PCLF|Posterior cervical laminectomy and fusion|Neurosurgery
+LF|Laminectomy and fusion|Neurosurgery
+LAM|Laminectomy|Neurosurgery
+PLIF|Posterior lumbar interbody fusion|Neurosurgery
+TLIF|Transforaminal lumbar interbody fusion|Neurosurgery
+MIS-TLIF|Minimally invasive transforaminal lumbar interbody fusion|Neurosurgery
+ALIF|Anterior lumbar interbody fusion|Neurosurgery
+LLIF|Lateral lumbar interbody fusion|Neurosurgery
+XLIF|Extreme lateral interbody fusion|Neurosurgery
+DLIF|Direct lateral interbody fusion|Neurosurgery
+OLIF|Oblique lateral interbody fusion|Neurosurgery
+ATP|Anterior to psoas approach|Neurosurgery
+PLF|Posterolateral fusion|Neurosurgery
+PSF|Posterior spinal fusion|Neurosurgery
+PSIF|Posterior spinal instrumented fusion|Neurosurgery
+PLD|Posterior lumbar decompression|Neurosurgery
+MD|Microdiscectomy|Neurosurgery
+MED|Microendoscopic discectomy|Neurosurgery
+LMD|Lumbar microdiscectomy|Neurosurgery
+IDET|Intradiscal electrothermal therapy|Neurosurgery
+VP|Vertebroplasty|Neurosurgery
+KP|Kyphoplasty|Neurosurgery
+VCF|Vertebral compression fracture|Neurosurgery
+OVCF|Osteoporotic vertebral compression fracture|Neurosurgery
+PMMA|Polymethylmethacrylate|Neurosurgery
+SIJ|Sacroiliac joint|Neurosurgery
+SIJF|Sacroiliac joint fusion|Neurosurgery
+SI|Sacroiliac|Neurosurgery
+ESI|Epidural steroid injection|Neurosurgery
+TFESI|Transforaminal epidural steroid injection|Neurosurgery
+ILESI|Interlaminar epidural steroid injection|Neurosurgery
+CESI|Cervical epidural steroid injection|Neurosurgery
+LESI|Lumbar epidural steroid injection|Neurosurgery
+MBB|Medial branch block|Neurosurgery
+RFN|Radiofrequency neurotomy|Neurosurgery
+FJ|Facet joint|Neurosurgery
+FJI|Facet joint injection|Neurosurgery
+SNRB|Selective nerve root block|Neurosurgery
+NRB|Nerve root block|Neurosurgery
+SNR|Selective nerve root|Neurosurgery
+DDD|Degenerative disc disease|Neurosurgery
+HNP|Herniated nucleus pulposus|Neurosurgery
+HCD|Herniated cervical disc|Neurosurgery
+LDH|Lumbar disc herniation|Neurosurgery
+CDH|Cervical disc herniation|Neurosurgery
+TDH|Thoracic disc herniation|Neurosurgery
+CSM|Cervical spondylotic myelopathy|Neurosurgery
+DCM|Degenerative cervical myelopathy|Neurosurgery
+OPLL|Ossification of the posterior longitudinal ligament|Neurosurgery
+OLF|Ossification of the ligamentum flavum|Neurosurgery
+PLL|Posterior longitudinal ligament|Neurosurgery
+ALL|Anterior longitudinal ligament|Neurosurgery
+LF|Ligamentum flavum|Neurosurgery
+ISL|Interspinous ligament|Neurosurgery
+SSL|Supraspinous ligament|Neurosurgery
+LSS|Lumbar spinal stenosis|Neurosurgery
+CSS|Cervical spinal stenosis|Neurosurgery
+SS|Spinal stenosis|Neurosurgery
+NC|Neurogenic claudication|Neurosurgery
+CES|Cauda equina syndrome|Neurosurgery
+CE|Cauda equina|Neurosurgery
+DSS|Degenerative spondylolisthesis|Neurosurgery
+IIS|Isthmic spondylolisthesis|Neurosurgery
+AS|Adjacent segment|Neurosurgery
+ASD|Adult spinal deformity|Neurosurgery
+AIS|Adolescent idiopathic scoliosis|Neurosurgery
+EOS|Early-onset scoliosis|Neurosurgery
+PJK|Proximal junctional kyphosis|Neurosurgery
+PJF|Proximal junctional failure|Neurosurgery
+DJK|Distal junctional kyphosis|Neurosurgery
+SVA|Sagittal vertical axis|Neurosurgery
+PI|Pelvic incidence|Neurosurgery
+LL|Lumbar lordosis|Neurosurgery
+PI-LL|Pelvic incidence minus lumbar lordosis mismatch|Neurosurgery
+SPO|Smith-Petersen osteotomy|Neurosurgery
+PSO|Pedicle subtraction osteotomy|Neurosurgery
+VCR|Vertebral column resection|Neurosurgery
+CCJ|Craniocervical junction|Neurosurgery
+OCF|Occipitocervical fusion|Neurosurgery
+AAI|Atlantoaxial instability|Neurosurgery
+ADI|Atlantodens interval|Neurosurgery
+BDI|Basion-dens interval|Neurosurgery
+BAI|Basion-axial interval|Neurosurgery
+C1|First cervical vertebra|Neurosurgery
+C2|Second cervical vertebra|Neurosurgery
+CM|Chiari malformation|Neurosurgery
+CM-I|Chiari malformation type I|Neurosurgery
+CM-II|Chiari malformation type II|Neurosurgery
+PFD|Posterior fossa decompression|Neurosurgery
+PFDD|Posterior fossa decompression with duraplasty|Neurosurgery
+SM|Syringomyelia|Neurosurgery
+SCS|Syringo-subarachnoid shunt|Neurosurgery
+SPS|Syringopleural shunt|Neurosurgery
+TCS|Tethered cord syndrome|Neurosurgery
+TCR|Tethered cord release|Neurosurgery
+MMC|Myelomeningocele|Neurosurgery
+NTD|Neural tube defect|Neurosurgery
+SB|Spina bifida|Neurosurgery
+SBO|Spina bifida occulta|Neurosurgery
+SBA|Spina bifida aperta|Neurosurgery
+LMM|Lipomyelomeningocele|Neurosurgery
+DSM|Diastematomyelia|Neurosurgery
+DST|Dermal sinus tract|Neurosurgery
+FT|Filum terminale|Neurosurgery
+CP|Cerebral palsy|Neurosurgery
+FOA|Fronto-orbital advancement|Neurosurgery
+SSC|Sagittal strip craniectomy|Neurosurgery
+EAS|Endoscopic-assisted strip craniectomy|Neurosurgery
+SCM|Sternocleidomastoid|Neurosurgery
+AHT|Abusive head trauma|Neurosurgery
+NAT|Non-accidental trauma|Neurosurgery
+SBS|Shaken baby syndrome|Neurosurgery
+RH|Retinal hemorrhage|Neurosurgery
+PHH|Post-hemorrhagic hydrocephalus|Neurosurgery
+ROP|Retinopathy of prematurity|Neurosurgery
+GMH|Germinal matrix hemorrhage|Neurosurgery
+PVL|Periventricular leukomalacia|Neurosurgery
+HIE|Hypoxic-ischemic encephalopathy|Neurosurgery
+CTS|Carpal tunnel syndrome|Neurosurgery
+CuTS|Cubital tunnel syndrome|Neurosurgery
+TOS|Thoracic outlet syndrome|Neurosurgery
+NTOS|Neurogenic thoracic outlet syndrome|Neurosurgery
+PIN|Posterior interosseous nerve|Neurosurgery
+AIN|Anterior interosseous nerve|Neurosurgery
+UN|Ulnar nerve|Neurosurgery
+MN|Median nerve|Neurosurgery
+RN|Radial nerve|Neurosurgery
+LFCN|Lateral femoral cutaneous nerve|Neurosurgery
+CPN|Common peroneal nerve|Neurosurgery
+BPI|Brachial plexus injury|Neurosurgery
+OBPP|Obstetric brachial plexus palsy|Neurosurgery
+CRPS|Complex regional pain syndrome|Neurosurgery
+PHN|Postherpetic neuralgia|Neurosurgery
+FBSS|Failed back surgery syndrome|Neurosurgery
+PSPS|Persistent spinal pain syndrome|Neurosurgery
+LBP|Low back pain|Neurosurgery
+NP|Neck pain|Neurosurgery
+SLR|Straight leg raise|Neurosurgery
+CSLR|Crossed straight leg raise|Neurosurgery
+DTR|Deep tendon reflexes|Neurosurgery
+DTRs|Deep tendon reflexes|Neurosurgery
+UMN|Upper motor neuron|Neurosurgery
+LMN|Lower motor neuron|Neurosurgery
+NVI|Neurovascularly intact|Neurosurgery
+NVID|Neurovascularly intact distally|Neurosurgery
+HOB 30|Head of bed elevated 30 degrees|Neurosurgery
+NICU|Neurologic intensive care unit|Neurosurgery
+BBB|Blood-brain barrier|Neurosurgery
+BSF|Basilar skull fracture|Neurosurgery
+DSF|Depressed skull fracture|Neurosurgery
+LSF|Linear skull fracture|Neurosurgery
+CSF otorrhea|Cerebrospinal fluid leaking from the ear|Neurosurgery
+CSF rhinorrhea|Cerebrospinal fluid leaking from the nose|Neurosurgery
+PTC|Pseudotumor cerebri|Neurosurgery
+HTS|Hypertonic saline|Neurosurgery
+TEG|Thromboelastography|Neurosurgery
+ROTEM|Rotational thromboelastometry|Neurosurgery
+PCC|Prothrombin complex concentrate|Neurosurgery
+4F-PCC|Four-factor prothrombin complex concentrate|Neurosurgery
+rFVIIa|Recombinant activated factor VII|Neurosurgery
+DOAC|Direct oral anticoagulant|Neurosurgery
+NOAC|Novel oral anticoagulant|Neurosurgery
+LMWH|Low-molecular-weight heparin|Neurosurgery
+UFH|Unfractionated heparin|Neurosurgery
+VTE|Venous thromboembolism|Neurosurgery
+DVT|Deep vein thrombosis|Neurosurgery
+SCDs|Sequential compression devices|Neurosurgery
+IVC|Inferior vena cava|Neurosurgery
+IVCF|Inferior vena cava filter|Neurosurgery
+AED|Antiepileptic drug|Neurosurgery
+ASM|Antiseizure medication|Neurosurgery
+LEV|Levetiracetam|Neurosurgery
+VPA|Valproic acid|Neurosurgery
+LCM|Lacosamide|Neurosurgery
+CBZ|Carbamazepine|Neurosurgery
+OXC|Oxcarbazepine|Neurosurgery
+LTG|Lamotrigine|Neurosurgery
+SE|Status epilepticus|Neurosurgery
+NCSE|Nonconvulsive status epilepticus|Neurosurgery
+GTC|Generalized tonic-clonic|Neurosurgery
+GTCS|Generalized tonic-clonic seizure|Neurosurgery
+CPS|Complex partial seizure|Neurosurgery
+FAS|Focal aware seizure|Neurosurgery
+FIAS|Focal impaired awareness seizure|Neurosurgery
+DRE|Drug-resistant epilepsy|Neurosurgery
+TLE|Temporal lobe epilepsy|Neurosurgery
+MTS|Mesial temporal sclerosis|Neurosurgery
+FCD|Focal cortical dysplasia|Neurosurgery
+ATL|Anterior temporal lobectomy|Neurosurgery
+HS|Hemispherectomy|Neurosurgery
+MST|Multiple subpial transection|Neurosurgery
+SOZ|Seizure onset zone|Neurosurgery
+EZ|Epileptogenic zone|Neurosurgery
+PD|Parkinson disease|Neurosurgery
+ET|Essential tremor|Neurosurgery
+STN|Subthalamic nucleus|Neurosurgery
+GPi|Globus pallidus internus|Neurosurgery
+GPe|Globus pallidus externus|Neurosurgery
+VIM|Ventral intermediate nucleus of the thalamus|Neurosurgery
+ANT|Anterior nucleus of the thalamus|Neurosurgery
+PPN|Pedunculopontine nucleus|Neurosurgery
+NAc|Nucleus accumbens|Neurosurgery
+IPG|Implantable pulse generator|Neurosurgery
+MER|Microelectrode recording|Neurosurgery
+LFP|Local field potential|Neurosurgery
+AC-PC|Anterior commissure to posterior commissure|Neurosurgery
+UPDRS|Unified Parkinson disease rating scale|Neurosurgery
+CSTC|Cortico-striato-thalamo-cortical|Neurosurgery
+OFC|Orbitofrontal cortex|Neurosurgery
+M1|Primary motor cortex|Neurosurgery
+V1|Primary visual cortex|Neurosurgery
+CS|Central sulcus|Neurosurgery
+SFS|Superior frontal sulcus|Neurosurgery
+IPS|Intraparietal sulcus|Neurosurgery
+SLF|Superior longitudinal fasciculus|Neurosurgery
+IFOF|Inferior fronto-occipital fasciculus|Neurosurgery
+AF|Arcuate fasciculus|Neurosurgery
+CST|Corticospinal tract|Neurosurgery
+WMH|White matter hyperintensity|Neurosurgery
+BOLD|Blood oxygen level dependent|Neurosurgery
+DCE|Dynamic contrast enhanced|Neurosurgery
+DSC|Dynamic susceptibility contrast|Neurosurgery
+rCBV|Relative cerebral blood volume|Neurosurgery
+TTP|Time to peak|Neurosurgery
+MTT|Mean transit time|Neurosurgery
+Tmax|Time to maximum of the residue function|Neurosurgery
+GTV|Gross tumor volume|Neurosurgery
+CTV|Clinical target volume|Neurosurgery
+PTV|Planning target volume|Neurosurgery
+Gy|Gray|Neurosurgery
+cGy|Centigray|Neurosurgery
+CRT|Chemoradiotherapy|Neurosurgery
+CT-MRI|Computed tomography fused with magnetic resonance imaging|Neurosurgery
+BED|Biologically effective dose|Neurosurgery
+ARE|Adverse radiation effect|Neurosurgery
+RN|Radiation necrosis|Neurosurgery
+PsP|Pseudoprogression|Neurosurgery
+TP|True progression|Neurosurgery
+LC|Local control|Neurosurgery
+CIC|Clean intermittent catheterization|Neurosurgery
+UDS|Urodynamic studies|Neurosurgery
+PVR|Post-void residual|Neurosurgery
+NGB|Neurogenic bladder|Neurosurgery
+NBD|Neurogenic bowel dysfunction|Neurosurgery
+SCI-AD|Autonomic dysreflexia after spinal cord injury|Neurosurgery
+AIS-A|Complete spinal cord injury on the impairment scale|Neurosurgery
+TLICS|Thoracolumbar injury classification and severity score|Neurosurgery
+SLIC|Subaxial injury classification|Neurosurgery
+SLICS|Subaxial cervical spine injury classification system|Neurosurgery
+TLSO|Thoracolumbosacral orthosis|Neurosurgery
+CTO|Cervicothoracic orthosis|Neurosurgery
+CO|Cervical orthosis|Neurosurgery
+LSO|Lumbosacral orthosis|Neurosurgery
+HALO|Halo vest immobilization|Neurosurgery
+C-collar|Cervical collar|Neurosurgery
+CSI|Cervical spine injury|Neurosurgery
+SESA|Spinal epidural abscess|Neurosurgery
+SEH|Spinal epidural hematoma|Neurosurgery
+VO|Vertebral osteomyelitis|Neurosurgery
+DO|Discitis-osteomyelitis|Neurosurgery
+BA|Brain abscess|Neurosurgery
+SE|Subdural empyema|Neurosurgery
+SSI|Surgical site infection|Neurosurgery
+VAI|Ventriculostomy-associated infection|Neurosurgery
+HAV|Healthcare-associated ventriculitis|Neurosurgery
+CLABSI|Central line-associated bloodstream infection|Neurosurgery
+CAUTI|Catheter-associated urinary tract infection|Neurosurgery
+VAP|Ventilator-associated pneumonia|Neurosurgery
+CSF WBC|Cerebrospinal fluid white blood cell count|Neurosurgery
+PRx|Pressure reactivity index|Neurosurgery
+CPPopt|Optimal cerebral perfusion pressure|Neurosurgery
+ABP|Arterial blood pressure|Neurosurgery
+SpO2|Peripheral oxygen saturation|Neurosurgery
+EtCO2|End-tidal carbon dioxide|Neurosurgery
+PaCO2|Arterial partial pressure of carbon dioxide|Neurosurgery
+PaO2|Arterial partial pressure of oxygen|Neurosurgery
+FiO2|Fraction of inspired oxygen|Neurosurgery
+PEEP|Positive end-expiratory pressure|Neurosurgery
+ABG|Arterial blood gas|Neurosurgery
+ETT|Endotracheal tube|Neurosurgery
+RSI|Rapid sequence intubation|Neurosurgery
+BD|Brain death|Neurosurgery
+DNC|Death by neurologic criteria|Neurosurgery
+CTA head|Computed tomography angiography of the head|Neurosurgery
+MRI brain|Magnetic resonance imaging of the brain|Neurosurgery
+MRI C-spine|Magnetic resonance imaging of the cervical spine|Neurosurgery
+MRI L-spine|Magnetic resonance imaging of the lumbar spine|Neurosurgery
+BMP-2|Bone morphogenetic protein 2|Neurosurgery
+rhBMP-2|Recombinant human bone morphogenetic protein 2|Neurosurgery
+LMS|Lateral mass screw|Neurosurgery
+TLS|Translaminar screw|Neurosurgery
+CBT|Cortical bone trajectory|Neurosurgery
+MIS|Minimally invasive surgery|Neurosurgery
+MISS|Minimally invasive spine surgery|Neurosurgery
+NAV|Navigation|Neurosurgery
+IGS|Image-guided surgery|Neurosurgery
+O-arm|Intraoperative cone-beam computed tomography imaging system|Neurosurgery
+iCT|Intraoperative computed tomography|Neurosurgery
+iMRI|Intraoperative magnetic resonance imaging|Neurosurgery
+iUS|Intraoperative ultrasound|Neurosurgery
+ICG-VA|Indocyanine green videoangiography|Neurosurgery
+NBCA|N-butyl cyanoacrylate|Neurosurgery
+ICAD|Intracranial atherosclerotic disease|Neurosurgery
+ICS|Intracranial stenosis|Neurosurgery
+CAS|Carotid artery stenosis|Neurosurgery
+AF|Atrial fibrillation|Neurosurgery
+PFO|Patent foramen ovale|Neurosurgery
+TTE|Transthoracic echocardiogram|Neurosurgery
+TEE|Transesophageal echocardiogram|Neurosurgery
+DAPT|Dual antiplatelet therapy|Neurosurgery
+SAPT|Single antiplatelet therapy|Neurosurgery
+P2Y12|Platelet adenosine diphosphate receptor P2Y12|Neurosurgery
+PRU|P2Y12 reaction units|Neurosurgery
+ASA class|American Society of Anesthesiologists physical status class|Neurosurgery
+PBT|Proton beam therapy|Neurosurgery
+CSI|Craniospinal irradiation|Neurosurgery
+HFSRT|Hypofractionated stereotactic radiotherapy|Neurosurgery
+SIB|Simultaneous integrated boost|Neurosurgery

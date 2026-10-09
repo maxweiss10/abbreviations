@@ -1,0 +1,603 @@
+NICU|Neonatal intensive care unit|Neonatology
+SCN|Special care nursery|Neonatology
+NBN|Newborn nursery|Neonatology
+L&D|Labor and delivery|Neonatology
+DR|Delivery room|Neonatology
+GA|Gestational age|Neonatology
+PMA|Postmenstrual age|Neonatology
+PCA|Postconceptional age|Neonatology
+CGA|Corrected gestational age|Neonatology
+DOL|Day of life|Neonatology
+HOL|Hour of life|Neonatology
+PNA|Postnatal age|Neonatology
+EGA|Estimated gestational age|Neonatology
+EDD|Estimated date of delivery|Neonatology
+EDC|Estimated date of confinement|Neonatology
+LMP|Last menstrual period|Neonatology
+BW|Birth weight|Neonatology
+BL|Birth length|Neonatology
+OFC|Occipitofrontal circumference|Neonatology
+AGA|Appropriate for gestational age|Neonatology
+SGA|Small for gestational age|Neonatology
+LGA|Large for gestational age|Neonatology
+IUGR|Intrauterine growth restriction|Neonatology
+FGR|Fetal growth restriction|Neonatology
+LBW|Low birth weight (under 2500 g)|Neonatology
+VLBW|Very low birth weight (under 1500 g)|Neonatology
+ELBW|Extremely low birth weight (under 1000 g)|Neonatology
+ELGAN|Extremely low gestational age newborn|Neonatology
+PT|Preterm|Neonatology
+PTL|Preterm labor|Neonatology
+PTB|Preterm birth|Neonatology
+PPROM|Preterm premature rupture of membranes|Neonatology
+PROM|Premature rupture of membranes|Neonatology
+ROM|Rupture of membranes|Neonatology
+SROM|Spontaneous rupture of membranes|Neonatology
+AROM|Artificial rupture of membranes|Neonatology
+SVD|Spontaneous vaginal delivery|Neonatology
+NSVD|Normal spontaneous vaginal delivery|Neonatology
+C/S|Cesarean section|Neonatology
+LTCS|Low transverse cesarean section|Neonatology
+VBAC|Vaginal birth after cesarean|Neonatology
+TOLAC|Trial of labor after cesarean|Neonatology
+AVD|Assisted vaginal delivery|Neonatology
+VE|Vacuum extraction|Neonatology
+IOL|Induction of labor|Neonatology
+GBS|Group B streptococcus|Neonatology
+GBS+|Group B streptococcus positive|Neonatology
+IAP|Intrapartum antibiotic prophylaxis|Neonatology
+EOS|Early-onset sepsis|Neonatology
+LOS|Late-onset sepsis|Neonatology
+CAH|Congenital adrenal hyperplasia|Neonatology
+CMV|Cytomegalovirus|Neonatology
+cCMV|Congenital cytomegalovirus|Neonatology
+HSV|Herpes simplex virus|Neonatology
+HBV|Hepatitis B virus|Neonatology
+HBsAg|Hepatitis B surface antigen|Neonatology
+HBIG|Hepatitis B immune globulin|Neonatology
+HCV|Hepatitis C virus|Neonatology
+HIV|Human immunodeficiency virus|Neonatology
+RSV|Respiratory syncytial virus|Neonatology
+TORCH|Toxoplasmosis, other infections, rubella, cytomegalovirus, herpes|Neonatology
+RPR|Rapid plasma reagin (syphilis screening test)|Neonatology
+VDRL|Venereal disease research laboratory test for syphilis|Neonatology
+FTA-ABS|Fluorescent treponemal antibody absorption test|Neonatology
+CSF|Cerebrospinal fluid|Neonatology
+LP|Lumbar puncture|Neonatology
+ANC|Absolute neutrophil count|Neonatology
+I:T|Immature to total neutrophil ratio|Neonatology
+BCx|Blood culture|Neonatology
+UCx|Urine culture|Neonatology
+CSFCx|Cerebrospinal fluid culture|Neonatology
+SBI|Serious bacterial infection|Neonatology
+NEC|Necrotizing enterocolitis|Neonatology
+SIP|Spontaneous intestinal perforation|Neonatology
+FIP|Focal intestinal perforation|Neonatology
+RDS|Respiratory distress syndrome|Neonatology
+HMD|Hyaline membrane disease|Neonatology
+BPD|Bronchopulmonary dysplasia|Neonatology
+CLD|Chronic lung disease|Neonatology
+TTN|Transient tachypnea of the newborn|Neonatology
+MAS|Meconium aspiration syndrome|Neonatology
+PPHN|Persistent pulmonary hypertension of the newborn|Neonatology
+PH|Pulmonary hypertension|Neonatology
+CDH|Congenital diaphragmatic hernia|Neonatology
+CPAM|Congenital pulmonary airway malformation|Neonatology
+CCAM|Congenital cystic adenomatoid malformation|Neonatology
+TEF|Tracheoesophageal fistula|Neonatology
+EA|Esophageal atresia|Neonatology
+PTX|Pneumothorax|Neonatology
+PIE|Pulmonary interstitial emphysema|Neonatology
+AOP|Apnea of prematurity|Neonatology
+ABD|Apnea, bradycardia, desaturation|Neonatology
+A/B/D|Apnea, bradycardia, desaturation|Neonatology
+A&B|Apnea and bradycardia|Neonatology
+ALTE|Apparent life-threatening event|Neonatology
+BRUE|Brief resolved unexplained event|Neonatology
+SIDS|Sudden infant death syndrome|Neonatology
+SUID|Sudden unexpected infant death|Neonatology
+MAP|Mean arterial pressure or mean airway pressure|Neonatology
+SpO2|Peripheral oxygen saturation by pulse oximetry|Neonatology
+SaO2|Arterial oxygen saturation|Neonatology
+FiO2|Fraction of inspired oxygen|Neonatology
+PaO2|Partial pressure of oxygen in arterial blood|Neonatology
+PaCO2|Partial pressure of carbon dioxide in arterial blood|Neonatology
+PCO2|Partial pressure of carbon dioxide|Neonatology
+PO2|Partial pressure of oxygen|Neonatology
+EtCO2|End-tidal carbon dioxide|Neonatology
+TcPCO2|Transcutaneous carbon dioxide|Neonatology
+TcPO2|Transcutaneous oxygen|Neonatology
+TcB|Transcutaneous bilirubin|Neonatology
+ABG|Arterial blood gas|Neonatology
+CBG|Capillary blood gas|Neonatology
+VBG|Venous blood gas|Neonatology
+BE|Base excess|Neonatology
+HCO3|Bicarbonate|Neonatology
+A-a|Alveolar-arterial oxygen gradient|Neonatology
+OI|Oxygenation index|Neonatology
+OSI|Oxygen saturation index|Neonatology
+P/F|PaO2 to FiO2 ratio|Neonatology
+RA|Room air|Neonatology
+O2|Oxygen|Neonatology
+NC|Nasal cannula|Neonatology
+LFNC|Low-flow nasal cannula|Neonatology
+HFNC|High-flow nasal cannula|Neonatology
+NP|Nasopharyngeal|Neonatology
+NPA|Nasopharyngeal airway|Neonatology
+CPAP|Continuous positive airway pressure|Neonatology
+NCPAP|Nasal continuous positive airway pressure|Neonatology
+bCPAP|Bubble continuous positive airway pressure|Neonatology
+NIPPV|Nasal intermittent positive pressure ventilation|Neonatology
+NIV|Noninvasive ventilation|Neonatology
+NIV-NAVA|Noninvasive neurally adjusted ventilatory assist|Neonatology
+NAVA|Neurally adjusted ventilatory assist|Neonatology
+BiPAP|Bilevel positive airway pressure|Neonatology
+PPV|Positive pressure ventilation|Neonatology
+BMV|Bag-mask ventilation|Neonatology
+PEEP|Positive end-expiratory pressure|Neonatology
+PIP|Peak inspiratory pressure|Neonatology
+PAP|Peak airway pressure|Neonatology
+Paw|Mean airway pressure|Neonatology
+Ti|Inspiratory time|Neonatology
+Te|Expiratory time|Neonatology
+I:E|Inspiratory to expiratory time ratio|Neonatology
+TV|Tidal volume|Neonatology
+Vt|Tidal volume|Neonatology
+MV|Minute ventilation|Neonatology
+VG|Volume guarantee|Neonatology
+TTV|Targeted tidal volume|Neonatology
+PRVC|Pressure-regulated volume control|Neonatology
+PC|Pressure control|Neonatology
+PS|Pressure support|Neonatology
+AC|Assist control|Neonatology
+SIMV|Synchronized intermittent mandatory ventilation|Neonatology
+IMV|Intermittent mandatory ventilation|Neonatology
+SIPPV|Synchronized intermittent positive pressure ventilation|Neonatology
+PTV|Patient-triggered ventilation|Neonatology
+CV|Conventional ventilation|Neonatology
+HFV|High-frequency ventilation|Neonatology
+HFOV|High-frequency oscillatory ventilation|Neonatology
+HFJV|High-frequency jet ventilation|Neonatology
+HFPV|High-frequency percussive ventilation|Neonatology
+HFFI|High-frequency flow interruption|Neonatology
+Hz|Hertz (cycles per second)|Neonatology
+VTV|Volume-targeted ventilation|Neonatology
+ETT|Endotracheal tube|Neonatology
+ET|Endotracheal|Neonatology
+OGT|Orogastric tube|Neonatology
+NGT|Nasogastric tube|Neonatology
+OETT|Oral endotracheal tube|Neonatology
+NETT|Nasal endotracheal tube|Neonatology
+LMA|Laryngeal mask airway|Neonatology
+RSI|Rapid sequence intubation|Neonatology
+LISA|Less invasive surfactant administration|Neonatology
+MIST|Minimally invasive surfactant therapy|Neonatology
+INSURE|Intubate, surfactant, extubate|Neonatology
+SLI|Sustained lung inflation|Neonatology
+CXR|Chest x-ray|Neonatology
+KUB|Kidneys, ureters, bladder (abdominal radiograph)|Neonatology
+AXR|Abdominal x-ray|Neonatology
+UVC|Umbilical venous catheter|Neonatology
+UAC|Umbilical arterial catheter|Neonatology
+PICC|Peripherally inserted central catheter|Neonatology
+PIV|Peripheral intravenous line|Neonatology
+PAL|Peripheral arterial line|Neonatology
+CVL|Central venous line|Neonatology
+CLABSI|Central line-associated bloodstream infection|Neonatology
+CAUTI|Catheter-associated urinary tract infection|Neonatology
+VAP|Ventilator-associated pneumonia|Neonatology
+HAI|Hospital-acquired infection|Neonatology
+MRSA|Methicillin-resistant Staphylococcus aureus|Neonatology
+MSSA|Methicillin-susceptible Staphylococcus aureus|Neonatology
+CoNS|Coagulase-negative staphylococci|Neonatology
+VRE|Vancomycin-resistant enterococcus|Neonatology
+ESBL|Extended-spectrum beta-lactamase|Neonatology
+UTI|Urinary tract infection|Neonatology
+PDA|Patent ductus arteriosus|Neonatology
+hsPDA|Hemodynamically significant patent ductus arteriosus|Neonatology
+PFO|Patent foramen ovale|Neonatology
+ASD|Atrial septal defect|Neonatology
+VSD|Ventricular septal defect|Neonatology
+AVSD|Atrioventricular septal defect|Neonatology
+TOF|Tetralogy (cyanotic heart defect with four features)|Neonatology
+TGA|Transposition of the great arteries|Neonatology
+d-TGA|Dextro-transposition of the great arteries|Neonatology
+TAPVR|Total anomalous pulmonary venous return|Neonatology
+TAPVC|Total anomalous pulmonary venous connection|Neonatology
+HLHS|Hypoplastic left heart syndrome|Neonatology
+CoA|Coarctation of the aorta|Neonatology
+IAA|Interrupted aortic arch|Neonatology
+PA|Pulmonary atresia|Neonatology
+AS|Aortic stenosis|Neonatology
+TA|Tricuspid atresia|Neonatology
+DORV|Double outlet right ventricle|Neonatology
+CHD|Congenital heart disease|Neonatology
+CCHD|Critical congenital heart disease|Neonatology
+PGE|Prostaglandin E1|Neonatology
+PGE1|Prostaglandin E1 (alprostadil)|Neonatology
+ECHO|Echocardiogram|Neonatology
+TTE|Transthoracic echocardiogram|Neonatology
+TNE|Targeted neonatal echocardiography|Neonatology
+ECG|Electrocardiogram|Neonatology
+EKG|Electrocardiogram|Neonatology
+SVT|Supraventricular tachycardia|Neonatology
+CHB|Complete heart block|Neonatology
+LA:Ao|Left atrium to aortic root ratio|Neonatology
+RVSP|Right ventricular systolic pressure|Neonatology
+TR|Tricuspid regurgitation|Neonatology
+iNO|Inhaled nitric oxide|Neonatology
+ECMO|Extracorporeal membrane oxygenation|Neonatology
+VA|Venoarterial|Neonatology
+VV|Venovenous|Neonatology
+ECLS|Extracorporeal life support|Neonatology
+ACT|Activated clotting time|Neonatology
+HIE|Hypoxic-ischemic encephalopathy|Neonatology
+HI|Hypoxic-ischemic|Neonatology
+TH|Therapeutic hypothermia|Neonatology
+TTM|Targeted temperature management|Neonatology
+NE|Neonatal encephalopathy|Neonatology
+EEG|Electroencephalogram|Neonatology
+aEEG|Amplitude-integrated electroencephalogram|Neonatology
+cEEG|Continuous electroencephalogram|Neonatology
+NIRS|Near-infrared spectroscopy|Neonatology
+rSO2|Regional cerebral oxygen saturation|Neonatology
+CFM|Cerebral function monitor|Neonatology
+MRS|Magnetic resonance spectroscopy|Neonatology
+DWI|Diffusion-weighted imaging|Neonatology
+HUS|Head ultrasound|Neonatology
+cUS|Cranial ultrasound|Neonatology
+IVH|Intraventricular hemorrhage|Neonatology
+GMH|Germinal matrix hemorrhage|Neonatology
+GMH-IVH|Germinal matrix-intraventricular hemorrhage|Neonatology
+PVL|Periventricular leukomalacia|Neonatology
+PVHI|Periventricular hemorrhagic infarction|Neonatology
+PHH|Posthemorrhagic hydrocephalus|Neonatology
+PHVD|Posthemorrhagic ventricular dilatation|Neonatology
+VP|Ventriculoperitoneal|Neonatology
+VPS|Ventriculoperitoneal shunt|Neonatology
+EVD|External ventricular drain|Neonatology
+VAD|Ventricular access device|Neonatology
+VSGS|Ventriculosubgaleal shunt|Neonatology
+ICH|Intracranial hemorrhage|Neonatology
+SAH|Subarachnoid hemorrhage|Neonatology
+SDH|Subdural hemorrhage|Neonatology
+CP|Cerebral palsy|Neonatology
+NDI|Neurodevelopmental impairment|Neonatology
+NDD|Neurodevelopmental disability|Neonatology
+ND|Neurodevelopmental|Neonatology
+DD|Developmental delay|Neonatology
+GDD|Global developmental delay|Neonatology
+GMA|General movements assessment|Neonatology
+HINE|Hammersmith infant neurological examination|Neonatology
+NAS|Neonatal abstinence syndrome|Neonatology
+NOWS|Neonatal opioid withdrawal syndrome|Neonatology
+ESC|Eat, sleep, console (care approach for withdrawal)|Neonatology
+MAT|Medication-assisted treatment|Neonatology
+OUD|Opioid use disorder|Neonatology
+FAS|Fetal alcohol syndrome|Neonatology
+FASD|Fetal alcohol spectrum disorder|Neonatology
+IDM|Infant of a diabetic mother|Neonatology
+GDM|Gestational diabetes mellitus|Neonatology
+PIH|Pregnancy-induced hypertension|Neonatology
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Neonatology
+HTN|Hypertension|Neonatology
+CHTN|Chronic hypertension|Neonatology
+PEC|Preeclampsia|Neonatology
+MgSO4|Magnesium sulfate|Neonatology
+ACS|Antenatal corticosteroids|Neonatology
+ANS|Antenatal steroids|Neonatology
+BMZ|Betamethasone|Neonatology
+TTTS|Twin-twin transfusion syndrome|Neonatology
+TAPS|Twin anemia polycythemia sequence|Neonatology
+TRAP|Twin reversed arterial perfusion|Neonatology
+MCDA|Monochorionic diamniotic|Neonatology
+DCDA|Dichorionic diamniotic|Neonatology
+MCMA|Monochorionic monoamniotic|Neonatology
+FFTS|Fetofetal transfusion syndrome|Neonatology
+FMH|Fetomaternal hemorrhage|Neonatology
+HDFN|Hemolytic disease of the fetus and newborn|Neonatology
+HDN|Hemolytic disease of the newborn|Neonatology
+ABO|ABO blood group incompatibility|Neonatology
+Rh|Rhesus factor|Neonatology
+DAT|Direct antiglobulin test|Neonatology
+DCT|Direct Coombs test|Neonatology
+IAT|Indirect antiglobulin test|Neonatology
+G6PD|Glucose-6-phosphate dehydrogenase (deficiency)|Neonatology
+TSB|Total serum bilirubin|Neonatology
+TB|Total bilirubin|Neonatology
+DB|Direct bilirubin|Neonatology
+IDB|Indirect bilirubin|Neonatology
+UCB|Unconjugated bilirubin|Neonatology
+CB|Conjugated bilirubin|Neonatology
+DBili|Direct bilirubin|Neonatology
+TcBili|Transcutaneous bilirubin|Neonatology
+BIND|Bilirubin-induced neurologic dysfunction|Neonatology
+ABE|Acute bilirubin encephalopathy|Neonatology
+BAER|Brainstem auditory evoked response|Neonatology
+ABR|Auditory brainstem response|Neonatology
+OAE|Otoacoustic emissions|Neonatology
+AABR|Automated auditory brainstem response|Neonatology
+UNHS|Universal newborn hearing screening|Neonatology
+NBS|Newborn screen|Neonatology
+ROP|Retinopathy of prematurity|Neonatology
+AP-ROP|Aggressive posterior retinopathy of prematurity|Neonatology
+IVB|Intravitreal bevacizumab|Neonatology
+EOM|Extraocular movements|Neonatology
+RBC|Red blood cell|Neonatology
+pRBC|Packed red blood cells|Neonatology
+PRBC|Packed red blood cells|Neonatology
+FFP|Fresh frozen plasma|Neonatology
+Plt|Platelets|Neonatology
+Hgb|Hemoglobin|Neonatology
+Hct|Hematocrit|Neonatology
+HbF|Fetal hemoglobin|Neonatology
+Retic|Reticulocyte count|Neonatology
+MCV|Mean corpuscular volume|Neonatology
+EPO|Erythropoietin|Neonatology
+ESA|Erythropoiesis-stimulating agent|Neonatology
+DCC|Delayed cord clamping|Neonatology
+UCM|Umbilical cord milking|Neonatology
+ICC|Immediate cord clamping|Neonatology
+PET|Partial exchange transfusion|Neonatology
+DVET|Double volume exchange transfusion|Neonatology
+IVIG|Intravenous immune globulin|Neonatology
+NAIT|Neonatal alloimmune thrombocytopenia|Neonatology
+FNAIT|Fetal and neonatal alloimmune thrombocytopenia|Neonatology
+ITP|Immune thrombocytopenic purpura|Neonatology
+DIC|Disseminated intravascular coagulation|Neonatology
+VKDB|Vitamin K deficiency bleeding|Neonatology
+HDNB|Hemorrhagic disease of the newborn|Neonatology
+INR|International normalized ratio|Neonatology
+aPTT|Activated partial thromboplastin time|Neonatology
+PTT|Partial thromboplastin time|Neonatology
+DVT|Deep vein thrombosis|Neonatology
+LMWH|Low-molecular-weight heparin|Neonatology
+UFH|Unfractionated heparin|Neonatology
+BS|Blood sugar|Neonatology
+BG|Blood glucose|Neonatology
+POC|Point of care|Neonatology
+POCT|Point-of-care testing|Neonatology
+GIR|Glucose infusion rate|Neonatology
+D10W|Dextrose 10 percent in water|Neonatology
+D5W|Dextrose 5 percent in water|Neonatology
+D10|Dextrose 10 percent|Neonatology
+D50|Dextrose 50 percent|Neonatology
+iCa|Ionized calcium|Neonatology
+BUN|Blood urea nitrogen|Neonatology
+Cr|Creatinine|Neonatology
+AKI|Acute kidney injury|Neonatology
+UOP|Urine output|Neonatology
+I&O|Intake and output|Neonatology
+I/O|Intake and output|Neonatology
+IWL|Insensible water loss|Neonatology
+TFI|Total fluid intake|Neonatology
+TF|Total fluids|Neonatology
+TFV|Total fluid volume|Neonatology
+SG|Specific gravity|Neonatology
+SIADH|Syndrome of inappropriate antidiuretic hormone|Neonatology
+DI|Diabetes insipidus|Neonatology
+CHI|Congenital hyperinsulinism|Neonatology
+NH|Neonatal hypoglycemia|Neonatology
+PNH|Persistent neonatal hypoglycemia|Neonatology
+IEM|Inborn error of metabolism|Neonatology
+MSUD|Maple syrup urine disease|Neonatology
+PKU|Phenylketonuria|Neonatology
+MCAD|Medium-chain acyl-CoA dehydrogenase (deficiency)|Neonatology
+IRT|Immunoreactive trypsinogen|Neonatology
+SCID|Severe combined immunodeficiency|Neonatology
+SMA|Spinal muscular atrophy|Neonatology
+CH|Congenital hypothyroidism|Neonatology
+17-OHP|17-hydroxyprogesterone|Neonatology
+DSD|Differences of sex development|Neonatology
+GT|Gastrostomy tube|Neonatology
+G-tube|Gastrostomy tube|Neonatology
+NJ|Nasojejunal|Neonatology
+PEG|Percutaneous endoscopic gastrostomy|Neonatology
+TPN|Total parenteral nutrition|Neonatology
+PNAC|Parenteral nutrition-associated cholestasis|Neonatology
+PNALD|Parenteral nutrition-associated liver disease|Neonatology
+IFALD|Intestinal failure-associated liver disease|Neonatology
+ILE|Intravenous lipid emulsion|Neonatology
+EBM|Expressed breast milk|Neonatology
+MOM|Mother's own milk|Neonatology
+DBM|Donor breast milk|Neonatology
+DHM|Donor human milk|Neonatology
+PDHM|Pasteurized donor human milk|Neonatology
+HMF|Human milk fortifier|Neonatology
+SSC|Skin-to-skin contact|Neonatology
+KC|Kangaroo care|Neonatology
+KMC|Kangaroo mother care|Neonatology
+NPO|Nothing by mouth|Neonatology
+GER|Gastroesophageal reflux|Neonatology
+GERD|Gastroesophageal reflux disease|Neonatology
+FI|Feeding intolerance|Neonatology
+FTT|Failure to thrive|Neonatology
+SBS|Short bowel syndrome|Neonatology
+IF|Intestinal failure|Neonatology
+GRV|Gastric residual volume|Neonatology
+MEC|Meconium|Neonatology
+MSAF|Meconium-stained amniotic fluid|Neonatology
+HD|Hirschsprung disease|Neonatology
+ARM|Anorectal malformation|Neonatology
+IA|Imperforate anus|Neonatology
+VACTERL|Vertebral, anal, cardiac, tracheoesophageal, renal, limb anomalies|Neonatology
+CHARGE|Coloboma, heart defects, atresia choanae, growth retardation, genital and ear anomalies|Neonatology
+PRS|Pierre Robin sequence|Neonatology
+CLP|Cleft lip and palate|Neonatology
+CP-cleft|Cleft palate|Neonatology
+GER-N|Gastroesophageal reflux in the newborn|Neonatology
+AFI|Amniotic fluid index|Neonatology
+OHS|Oligohydramnios sequence|Neonatology
+PUV|Posterior urethral valves|Neonatology
+UPJ|Ureteropelvic junction|Neonatology
+UPJO|Ureteropelvic junction obstruction|Neonatology
+VUR|Vesicoureteral reflux|Neonatology
+VCUG|Voiding cystourethrogram|Neonatology
+RUS|Renal ultrasound|Neonatology
+MCDK|Multicystic dysplastic kidney|Neonatology
+CAKUT|Congenital anomalies of the kidney and urinary tract|Neonatology
+ARPKD|Autosomal recessive polycystic kidney disease|Neonatology
+ADPKD|Autosomal dominant polycystic kidney disease|Neonatology
+NTD|Neural tube defect|Neonatology
+MMC|Myelomeningocele|Neonatology
+VM|Ventriculomegaly|Neonatology
+ACC|Agenesis of the corpus callosum|Neonatology
+CCAS|Congenital central alveolar hypoventilation syndrome|Neonatology
+T21|Trisomy 21|Neonatology
+T18|Trisomy 18|Neonatology
+T13|Trisomy 13|Neonatology
+PWS|Prader-Willi syndrome|Neonatology
+BWS|Beckwith-Wiedemann syndrome|Neonatology
+NIPT|Noninvasive prenatal testing|Neonatology
+cfDNA|Cell-free DNA|Neonatology
+CMA|Chromosomal microarray|Neonatology
+FISH|Fluorescence in situ hybridization|Neonatology
+WES|Whole exome sequencing|Neonatology
+WGS|Whole genome sequencing|Neonatology
+rWGS|Rapid whole genome sequencing|Neonatology
+MFM|Maternal-fetal medicine|Neonatology
+CVS|Chorionic villus sampling|Neonatology
+NST|Nonstress test|Neonatology
+BPP|Biophysical profile|Neonatology
+FHR|Fetal heart rate|Neonatology
+FHT|Fetal heart tones|Neonatology
+FHRT|Fetal heart rate tracing|Neonatology
+EFM|Electronic fetal monitoring|Neonatology
+CTG|Cardiotocography|Neonatology
+EFW|Estimated fetal weight|Neonatology
+FL|Femur length|Neonatology
+CRL|Crown-rump length|Neonatology
+NT|Nuchal translucency|Neonatology
+AFP|Alpha-fetoprotein|Neonatology
+MCA|Middle cerebral artery|Neonatology
+EDF|End-diastolic flow|Neonatology
+AEDF|Absent end-diastolic flow|Neonatology
+REDF|Reversed end-diastolic flow|Neonatology
+FETO|Fetoscopic endoluminal tracheal occlusion|Neonatology
+EXIT|Ex utero intrapartum treatment|Neonatology
+LHR|Lung-to-head ratio|Neonatology
+O/E LHR|Observed to expected lung-to-head ratio|Neonatology
+FLV|Fetal lung volume|Neonatology
+CAM|Chorioamnionitis|Neonatology
+IAI|Intraamniotic infection|Neonatology
+PPH|Postpartum hemorrhage|Neonatology
+APH|Antepartum hemorrhage|Neonatology
+AFE|Amniotic fluid embolism|Neonatology
+SD|Shoulder dystocia|Neonatology
+BPI|Brachial plexus injury|Neonatology
+EBP|Erb palsy of the brachial plexus|Neonatology
+CPR|Cardiopulmonary resuscitation|Neonatology
+CC|Chest compressions|Neonatology
+ROSC|Return of spontaneous circulation|Neonatology
+PALS|Pediatric advanced life support|Neonatology
+BLS|Basic life support|Neonatology
+ACLS|Advanced cardiac life support|Neonatology
+CRM|Crisis resource management|Neonatology
+NaHCO3|Sodium bicarbonate|Neonatology
+CaGluc|Calcium gluconate|Neonatology
+CaCl|Calcium chloride|Neonatology
+NMB|Neuromuscular blockade|Neonatology
+APAP|Acetaminophen|Neonatology
+IBU|Ibuprofen|Neonatology
+LEV|Levetiracetam|Neonatology
+PHT|Phenytoin|Neonatology
+FOS|Fosphenytoin|Neonatology
+MDZ|Midazolam|Neonatology
+LZP|Lorazepam|Neonatology
+AED|Antiepileptic drug|Neonatology
+ASM|Antiseizure medication|Neonatology
+PRES|Posterior reversible encephalopathy syndrome|Neonatology
+EIEE|Early infantile epileptic encephalopathy|Neonatology
+BNS|Benign neonatal seizures|Neonatology
+SE|Status epilepticus|Neonatology
+ES|Electrographic seizure|Neonatology
+Szs|Seizures|Neonatology
+HOB|Head of bed|Neonatology
+Tmax|Maximum temperature|Neonatology
+Tc|Core temperature|Neonatology
+Taxil|Axillary temperature|Neonatology
+PPE|Personal protective equipment|Neonatology
+CHG|Chlorhexidine gluconate|Neonatology
+ID|Infectious disease|Neonatology
+Abx|Antibiotics|Neonatology
+VGCV|Valganciclovir|Neonatology
+AZT|Zidovudine|Neonatology
+ZDV|Zidovudine|Neonatology
+PMTCT|Prevention of mother-to-child transmission|Neonatology
+PEP|Postexposure prophylaxis|Neonatology
+MIC|Minimum inhibitory concentration|Neonatology
+TDM|Therapeutic drug monitoring|Neonatology
+AUC|Area under the curve|Neonatology
+AMS|Antimicrobial stewardship|Neonatology
+BA|Biliary atresia|Neonatology
+25-OH D|25-hydroxyvitamin D|Neonatology
+MBD|Metabolic bone disease|Neonatology
+MBDP|Metabolic bone disease of prematurity|Neonatology
+OOP|Osteopenia of prematurity|Neonatology
+RTA|Renal tubular acidosis|Neonatology
+LA|Lactic acid|Neonatology
+Lac|Lactate|Neonatology
+BNP|B-type natriuretic peptide|Neonatology
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Neonatology
+TnI|Troponin I|Neonatology
+CVP|Central venous pressure|Neonatology
+CRT|Capillary refill time|Neonatology
+Caff|Caffeine citrate|Neonatology
+MDI|Metered-dose inhaler|Neonatology
+SpO2/FiO2|Pulse oximetry saturation to inspired oxygen ratio|Neonatology
+HV|Home ventilator|Neonatology
+SGS|Subglottic stenosis|Neonatology
+LM|Laryngomalacia|Neonatology
+TM|Tracheomalacia|Neonatology
+VCP|Vocal cord paralysis|Neonatology
+PCP|Primary care provider|Neonatology
+EI|Early intervention|Neonatology
+HRIF|High-risk infant follow-up|Neonatology
+AFOSF|Anterior fontanelle open, soft, and flat|Neonatology
+AFOF|Anterior fontanelle open and flat|Neonatology
+AFSF|Anterior fontanelle soft and flat|Neonatology
+AF|Anterior fontanelle|Neonatology
+SCR|Subcostal retractions|Neonatology
+ICR|Intercostal retractions|Neonatology
+WOB|Work of breathing|Neonatology
+NF|Nasal flaring|Neonatology
+RD|Respiratory distress|Neonatology
+RF|Respiratory failure|Neonatology
+SMR|Sexual maturity rating|Neonatology
+NBE|Newborn examination|Neonatology
+FT|Full term|Neonatology
+ET-term|Early term|Neonatology
+LPT|Late preterm|Neonatology
+MPT|Moderate preterm|Neonatology
+EPT|Extremely preterm|Neonatology
+VPT|Very preterm|Neonatology
+PostT|Post-term|Neonatology
+BPS|Bronchopulmonary sequestration|Neonatology
+CLE|Congenital lobar emphysema|Neonatology
+PLH|Pulmonary lymphangiectasia|Neonatology
+PIG|Pulmonary interstitial glycogenosis|Neonatology
+SP-B|Surfactant protein B|Neonatology
+SP-C|Surfactant protein C|Neonatology
+PCD|Primary ciliary dyskinesia|Neonatology
+L/S|Lecithin to sphingomyelin ratio|Neonatology
+LBC|Lamellar body count|Neonatology
+FLM|Fetal lung maturity|Neonatology
+SRT|Surfactant replacement therapy|Neonatology
+Surf|Surfactant|Neonatology
+DDH|Developmental dysplasia of the hip|Neonatology
+CTEV|Congenital talipes equinovarus (clubfoot)|Neonatology
+AMC|Arthrogryposis multiplex congenita|Neonatology
+HEU|HIV-exposed uninfected|Neonatology
+IUFD|Intrauterine fetal demise|Neonatology
+DNR|Do not resuscitate|Neonatology
+DNI|Do not intubate|Neonatology
+CMO|Comfort measures only|Neonatology
+POLST|Physician orders for life-sustaining treatment|Neonatology
+IO|Intraosseous|Neonatology
+IOA|Intraosseous access|Neonatology
+EUGR|Extrauterine growth restriction|Neonatology
+CUG|Catch-up growth|Neonatology
+WFA|Weight for age|Neonatology
+HFA|Height for age|Neonatology
+WFL|Weight for length|Neonatology
+HCFA|Head circumference for age|Neonatology

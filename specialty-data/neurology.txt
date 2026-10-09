@@ -1,0 +1,489 @@
+ACA|Anterior cerebral artery|Neurology
+AChR|Acetylcholine receptor|Neurology
+AChE|Acetylcholinesterase|Neurology
+AChEI|Acetylcholinesterase inhibitor|Neurology
+AComm|Anterior communicating artery|Neurology
+AD|Alzheimer disease|Neurology
+ADEM|Acute disseminated encephalomyelitis|Neurology
+ADHD|Attention-deficit/hyperactivity disorder|Neurology
+ADL|Activities of daily living|Neurology
+AED|Antiepileptic drug|Neurology
+AFO|Ankle-foot orthosis|Neurology
+AICA|Anterior inferior cerebellar artery|Neurology
+AIDP|Acute inflammatory demyelinating polyneuropathy|Neurology
+AIS|Acute ischemic stroke|Neurology
+ALS|Amyotrophic lateral sclerosis|Neurology
+AMAN|Acute motor axonal neuropathy|Neurology
+AMSAN|Acute motor and sensory axonal neuropathy|Neurology
+ANA|Antinuclear antibody|Neurology
+ANCA|Antineutrophil cytoplasmic antibody|Neurology
+AQP4|Aquaporin-4|Neurology
+ASD|Autism spectrum disorder|Neurology
+ASL|Arterial spin labeling|Neurology
+ASM|Antiseizure medication|Neurology
+ASPECTS|Alberta Stroke Program Early CT Score|Neurology
+AVM|Arteriovenous malformation|Neurology
+BA|Basilar artery|Neurology
+BAEP|Brainstem auditory evoked potential|Neurology
+BBB|Blood-brain barrier|Neurology
+BPPV|Benign paroxysmal positional vertigo|Neurology
+BPSD|Behavioral and psychological symptoms of dementia|Neurology
+bvFTD|Behavioral variant frontotemporal dementia|Neurology
+BZD|Benzodiazepine|Neurology
+CAA|Cerebral amyloid angiopathy|Neurology
+CADASIL|Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy|Neurology
+CBD|Corticobasal degeneration|Neurology
+CBF|Cerebral blood flow|Neurology
+CBS|Corticobasal syndrome|Neurology
+CCA|Common carotid artery|Neurology
+CEA|Carotid endarterectomy|Neurology
+CGRP|Calcitonin gene-related peptide|Neurology
+CIDP|Chronic inflammatory demyelinating polyneuropathy|Neurology
+CIM|Critical illness myopathy|Neurology
+CIP|Critical illness polyneuropathy|Neurology
+CIS|Clinically isolated syndrome|Neurology
+CMAP|Compound muscle action potential|Neurology
+CNS|Central nervous system|Neurology
+COMT|Catechol-O-methyltransferase|Neurology
+CPAP|Continuous positive airway pressure|Neurology
+CPP|Cerebral perfusion pressure|Neurology
+CRPS|Complex regional pain syndrome|Neurology
+CSF|Cerebrospinal fluid|Neurology
+CSVD|Cerebral small vessel disease|Neurology
+CT|Computed tomography|Neurology
+CTA|Computed tomography angiography|Neurology
+CTP|Computed tomography perfusion|Neurology
+CTS|Carpal tunnel syndrome|Neurology
+CTV|Computed tomography venography|Neurology
+CVA|Cerebrovascular accident|Neurology
+CVST|Cerebral venous sinus thrombosis|Neurology
+CVT|Cerebral venous thrombosis|Neurology
+DAT|Dopamine transporter|Neurology
+DBS|Deep brain stimulation|Neurology
+DCI|Delayed cerebral ischemia|Neurology
+DI|Diabetes insipidus|Neurology
+DLB|Dementia with Lewy bodies|Neurology
+DM1|Myotonic dystrophy type 1|Neurology
+DM2|Myotonic dystrophy type 2|Neurology
+DMD|Duchenne muscular dystrophy|Neurology
+DNET|Dysembryoplastic neuroepithelial tumor|Neurology
+DOAC|Direct oral anticoagulant|Neurology
+DPN|Diabetic peripheral neuropathy|Neurology
+DRG|Dorsal root ganglion|Neurology
+DSA|Digital subtraction angiography|Neurology
+DTI|Diffusion tensor imaging|Neurology
+DTR|Deep tendon reflex|Neurology
+DWI|Diffusion-weighted imaging|Neurology
+ECoG|Electrocorticography|Neurology
+ECT|Electroconvulsive therapy|Neurology
+EDH|Epidural hematoma|Neurology
+EDSS|Expanded Disability Status Scale|Neurology
+EEG|Electroencephalogram|Neurology
+EMG|Electromyography|Neurology
+EMU|Epilepsy monitoring unit|Neurology
+ENG|Electronystagmography|Neurology
+EOM|Extraocular movements|Neurology
+EOMI|Extraocular movements intact|Neurology
+EPC|Epilepsia partialis continua|Neurology
+EPS|Extrapyramidal symptoms|Neurology
+ET|Essential tremor|Neurology
+EVD|External ventricular drain|Neurology
+EVT|Endovascular thrombectomy|Neurology
+FBTCS|Focal to bilateral tonic-clonic seizure|Neurology
+FCD|Focal cortical dysplasia|Neurology
+FHM|Familial hemiplegic migraine|Neurology
+FIRDA|Frontal intermittent rhythmic delta activity|Neurology
+FLAIR|Fluid-attenuated inversion recovery|Neurology
+fMRI|Functional magnetic resonance imaging|Neurology
+FND|Functional neurological disorder|Neurology
+FTD|Frontotemporal dementia|Neurology
+FTLD|Frontotemporal lobar degeneration|Neurology
+GABA|Gamma-aminobutyric acid|Neurology
+GAD65|Glutamic acid decarboxylase 65|Neurology
+GBM|Glioblastoma multiforme|Neurology
+GCA|Giant cell arteritis|Neurology
+GCS|Glasgow Coma Scale|Neurology
+GGE|Genetic generalized epilepsy|Neurology
+GPe|Globus pallidus externa|Neurology
+GPi|Globus pallidus interna|Neurology
+GRE|Gradient recalled echo|Neurology
+GTC|Generalized tonic-clonic|Neurology
+GTCS|Generalized tonic-clonic seizure|Neurology
+HA|Headache|Neurology
+HIE|Hypoxic-ischemic encephalopathy|Neurology
+HINTS|Head impulse, nystagmus, test of skew|Neurology
+HSE|Herpes simplex encephalitis|Neurology
+HSP|Hereditary spastic paraplegia|Neurology
+HTLV-1|Human T-lymphotropic virus type 1|Neurology
+IBM|Inclusion body myositis|Neurology
+ICA|Internal carotid artery|Neurology
+ICAD|Intracranial atherosclerotic disease|Neurology
+ICH|Intracerebral hemorrhage|Neurology
+ICP|Intracranial pressure|Neurology
+IED|Interictal epileptiform discharge|Neurology
+IGE|Idiopathic generalized epilepsy|Neurology
+IIH|Idiopathic intracranial hypertension|Neurology
+IMNM|Immune-mediated necrotizing myopathy|Neurology
+INO|Internuclear ophthalmoplegia|Neurology
+IVH|Intraventricular hemorrhage|Neurology
+IVIG|Intravenous immunoglobulin|Neurology
+IVT|Intravenous thrombolysis|Neurology
+JME|Juvenile myoclonic epilepsy|Neurology
+LACI|Lacunar infarct|Neurology
+LBD|Lewy body dementia|Neurology
+LEMS|Lambert-Eaton myasthenic syndrome|Neurology
+LETM|Longitudinally extensive transverse myelitis|Neurology
+LGI1|Leucine-rich glioma-inactivated 1|Neurology
+LGS|Lennox-Gastaut syndrome|Neurology
+LKW|Last known well|Neurology
+LMN|Lower motor neuron|Neurology
+LOC|Loss of consciousness|Neurology
+LP|Lumbar puncture|Neurology
+LTM|Long-term monitoring|Neurology
+LVO|Large vessel occlusion|Neurology
+MAO-B|Monoamine oxidase type B|Neurology
+MAOI|Monoamine oxidase inhibitor|Neurology
+MCA|Middle cerebral artery|Neurology
+MCI|Mild cognitive impairment|Neurology
+MCP|Middle cerebellar peduncle|Neurology
+MELAS|Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes|Neurology
+MERRF|Myoclonic epilepsy with ragged-red fibers|Neurology
+MEP|Motor evoked potential|Neurology
+MEG|Magnetoencephalography|Neurology
+MG|Myasthenia gravis|Neurology
+MGUS|Monoclonal gammopathy of undetermined significance|Neurology
+MIDAS|Migraine Disability Assessment|Neurology
+MLF|Medial longitudinal fasciculus|Neurology
+MMN|Multifocal motor neuropathy|Neurology
+MMSE|Mini-Mental State Examination|Neurology
+MoCA|Montreal Cognitive Assessment|Neurology
+MND|Motor neuron disease|Neurology
+MOG|Myelin oligodendrocyte glycoprotein|Neurology
+MOGAD|Myelin oligodendrocyte glycoprotein antibody disease|Neurology
+MRA|Magnetic resonance angiography|Neurology
+MRI|Magnetic resonance imaging|Neurology
+MRS|Magnetic resonance spectroscopy|Neurology
+MRV|Magnetic resonance venography|Neurology
+MS|Multiple sclerosis|Neurology
+MSA|Multiple system atrophy|Neurology
+MSA-C|Multiple system atrophy, cerebellar type|Neurology
+MSA-P|Multiple system atrophy, parkinsonian type|Neurology
+MSLT|Multiple sleep latency test|Neurology
+MTLE|Mesial temporal lobe epilepsy|Neurology
+MTS|Mesial temporal sclerosis|Neurology
+MuSK|Muscle-specific kinase|Neurology
+MWT|Maintenance of wakefulness test|Neurology
+NAA|N-acetylaspartate|Neurology
+NCS|Nerve conduction studies|Neurology
+NCSE|Nonconvulsive status epilepticus|Neurology
+NCV|Nerve conduction velocity|Neurology
+NF1|Neurofibromatosis type 1|Neurology
+NF2|Neurofibromatosis type 2|Neurology
+NfL|Neurofilament light chain|Neurology
+NIHSS|National Institutes of Health Stroke Scale|Neurology
+NMDA|N-methyl-D-aspartate|Neurology
+NMDAR|N-methyl-D-aspartate receptor|Neurology
+NMJ|Neuromuscular junction|Neurology
+NMO|Neuromyelitis optica|Neurology
+NMOSD|Neuromyelitis optica spectrum disorder|Neurology
+NMS|Neuroleptic malignant syndrome|Neurology
+NPH|Normal pressure hydrocephalus|Neurology
+NREM|Non-rapid eye movement|Neurology
+NSE|Neuron-specific enolase|Neurology
+OCB|Oligoclonal bands|Neurology
+OCT|Optical coherence tomography|Neurology
+OH|Orthostatic hypotension|Neurology
+ON|Optic neuritis|Neurology
+OSA|Obstructive sleep apnea|Neurology
+PACI|Partial anterior circulation infarct|Neurology
+PCA|Posterior cerebral artery|Neurology
+PCNSL|Primary central nervous system lymphoma|Neurology
+PCom|Posterior communicating artery|Neurology
+PD|Parkinson disease|Neurology
+PDD|Parkinson disease dementia|Neurology
+PEG|Percutaneous endoscopic gastrostomy|Neurology
+PERRLA|Pupils equal, round, reactive to light and accommodation|Neurology
+PET|Positron emission tomography|Neurology
+PFO|Patent foramen ovale|Neurology
+PICA|Posterior inferior cerebellar artery|Neurology
+PLEDs|Periodic lateralized epileptiform discharges|Neurology
+PLMD|Periodic limb movement disorder|Neurology
+PLMS|Periodic limb movements of sleep|Neurology
+PML|Progressive multifocal leukoencephalopathy|Neurology
+PNES|Psychogenic nonepileptic seizures|Neurology
+PNS|Peripheral nervous system|Neurology
+POTS|Postural orthostatic tachycardia syndrome|Neurology
+PPA|Primary progressive aphasia|Neurology
+PPMS|Primary progressive multiple sclerosis|Neurology
+PPRF|Paramedian pontine reticular formation|Neurology
+PRES|Posterior reversible encephalopathy syndrome|Neurology
+PSG|Polysomnography|Neurology
+PSP|Progressive supranuclear palsy|Neurology
+PTA|Post-traumatic amnesia|Neurology
+PTSD|Post-traumatic stress disorder|Neurology
+PVL|Periventricular leukomalacia|Neurology
+PWI|Perfusion-weighted imaging|Neurology
+QST|Quantitative sensory testing|Neurology
+QSART|Quantitative sudomotor axon reflex test|Neurology
+RAPD|Relative afferent pupillary defect|Neurology
+RBD|REM sleep behavior disorder|Neurology
+RCVS|Reversible cerebral vasoconstriction syndrome|Neurology
+REM|Rapid eye movement|Neurology
+RIS|Radiologically isolated syndrome|Neurology
+RLS|Restless legs syndrome|Neurology
+RNS|Repetitive nerve stimulation|Neurology
+ROM|Range of motion|Neurology
+RRMS|Relapsing-remitting multiple sclerosis|Neurology
+rtPA|Recombinant tissue plasminogen activator|Neurology
+SAH|Subarachnoid hemorrhage|Neurology
+SCA|Spinocerebellar ataxia|Neurology
+SCD|Subacute combined degeneration|Neurology
+SCI|Spinal cord injury|Neurology
+SDH|Subdural hematoma|Neurology
+SE|Status epilepticus|Neurology
+SEEG|Stereoelectroencephalography|Neurology
+SEP|Somatosensory evoked potential|Neurology
+SFEMG|Single-fiber electromyography|Neurology
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Neurology
+SMA|Spinal muscular atrophy|Neurology
+SNAP|Sensory nerve action potential|Neurology
+SNc|Substantia nigra pars compacta|Neurology
+SNr|Substantia nigra pars reticulata|Neurology
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Neurology
+SNHL|Sensorineural hearing loss|Neurology
+SOREMP|Sleep-onset REM period|Neurology
+SPECT|Single-photon emission computed tomography|Neurology
+SPMS|Secondary progressive multiple sclerosis|Neurology
+SPS|Stiff person syndrome|Neurology
+SRS|Stereotactic radiosurgery|Neurology
+SSEP|Somatosensory evoked potential|Neurology
+SSPE|Subacute sclerosing panencephalitis|Neurology
+SSRI|Selective serotonin reuptake inhibitor|Neurology
+STN|Subthalamic nucleus|Neurology
+SUDEP|Sudden unexpected death in epilepsy|Neurology
+SVD|Small vessel disease|Neurology
+SWI|Susceptibility-weighted imaging|Neurology
+TACI|Total anterior circulation infarct|Neurology
+TBI|Traumatic brain injury|Neurology
+TCA|Tricyclic antidepressant|Neurology
+TCD|Transcranial Doppler|Neurology
+TD|Tardive dyskinesia|Neurology
+TEA|Transient epileptic amnesia|Neurology
+TEE|Transesophageal echocardiogram|Neurology
+TGA|Transient global amnesia|Neurology
+TIA|Transient ischemic attack|Neurology
+TIRDA|Temporal intermittent rhythmic delta activity|Neurology
+TLE|Temporal lobe epilepsy|Neurology
+TMS|Transcranial magnetic stimulation|Neurology
+TN|Trigeminal neuralgia|Neurology
+TNK|Tenecteplase|Neurology
+TOS|Thoracic outlet syndrome|Neurology
+tPA|Tissue plasminogen activator|Neurology
+TSC|Tuberous sclerosis complex|Neurology
+TTE|Transthoracic echocardiogram|Neurology
+TTR|Transthyretin|Neurology
+TTH|Tension-type headache|Neurology
+UE|Upper extremity|Neurology
+LE|Lower extremity|Neurology
+UMN|Upper motor neuron|Neurology
+UPDRS|Unified Parkinson Disease Rating Scale|Neurology
+VaD|Vascular dementia|Neurology
+VBI|Vertebrobasilar insufficiency|Neurology
+VCI|Vascular cognitive impairment|Neurology
+VEEG|Video electroencephalogram|Neurology
+VEP|Visual evoked potential|Neurology
+VGKC|Voltage-gated potassium channel|Neurology
+VGCC|Voltage-gated calcium channel|Neurology
+VIM|Ventral intermediate nucleus of thalamus|Neurology
+VNG|Videonystagmography|Neurology
+VNS|Vagus nerve stimulation|Neurology
+VOR|Vestibulo-ocular reflex|Neurology
+VPS|Ventriculoperitoneal shunt|Neurology
+VZV|Varicella-zoster virus|Neurology
+WMH|White matter hyperintensity|Neurology
+WNV|West Nile virus|Neurology
+ADC|Apparent diffusion coefficient|Neurology
+AHI|Apnea-hypopnea index|Neurology
+AMPA|Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid|Neurology
+APP|Amyloid precursor protein|Neurology
+ARIA|Amyloid-related imaging abnormalities|Neurology
+ARIA-E|Amyloid-related imaging abnormalities with edema or effusion|Neurology
+ARIA-H|Amyloid-related imaging abnormalities with hemosiderin deposition|Neurology
+ASA|Aspirin|Neurology
+BiPAP|Bilevel positive airway pressure|Neurology
+BTX|Botulinum toxin|Neurology
+CAM|Confusion Assessment Method|Neurology
+CAM-ICU|Confusion Assessment Method for the ICU|Neurology
+CBT-I|Cognitive behavioral therapy for insomnia|Neurology
+cEEG|Continuous electroencephalogram|Neurology
+CCM|Cerebral cavernous malformation|Neurology
+CeAD|Cervical artery dissection|Neurology
+CDR|Clinical Dementia Rating|Neurology
+CDR-SB|Clinical Dementia Rating Sum of Boxes|Neurology
+CES|Cauda equina syndrome|Neurology
+CH|Cluster headache|Neurology
+CMBs|Cerebral microbleeds|Neurology
+CMB|Cerebral microbleed|Neurology
+CPSP|Central post-stroke pain|Neurology
+CSM|Cervical spondylotic myelopathy|Neurology
+CTE|Chronic traumatic encephalopathy|Neurology
+cSDH|Chronic subdural hematoma|Neurology
+cSS|Cortical superficial siderosis|Neurology
+DAI|Diffuse axonal injury|Neurology
+DAPT|Dual antiplatelet therapy|Neurology
+DBN|Downbeat nystagmus|Neurology
+DEE|Developmental and epileptic encephalopathy|Neurology
+DMT|Disease-modifying therapy|Neurology
+DRE|Drug-resistant epilepsy|Neurology
+DSWPD|Delayed sleep-wake phase disorder|Neurology
+DVA|Developmental venous anomaly|Neurology
+DWI-FLAIR|Diffusion-weighted imaging and FLAIR mismatch|Neurology
+EAE|Experimental autoimmune encephalomyelitis|Neurology
+EM|Episodic migraine|Neurology
+ESES|Electrical status epilepticus in sleep|Neurology
+ESS|Epworth Sleepiness Scale|Neurology
+ESUS|Embolic stroke of undetermined source|Neurology
+EVS|Episodic vestibular syndrome|Neurology
+FBDS|Faciobrachial dystonic seizures|Neurology
+FIAS|Focal impaired awareness seizure|Neurology
+FAS|Focal aware seizure|Neurology
+FIRES|Febrile infection-related epilepsy syndrome|Neurology
+FoG|Freezing of gait|Neurology
+FSHD|Facioscapulohumeral muscular dystrophy|Neurology
+GFAP|Glial fibrillary acidic protein|Neurology
+GPFA|Generalized paroxysmal fast activity|Neurology
+GPD|Generalized periodic discharges|Neurology
+GRDA|Generalized rhythmic delta activity|Neurology
+GSW|Generalized spike-wave|Neurology
+HAND|HIV-associated neurocognitive disorder|Neurology
+HAD|HIV-associated dementia|Neurology
+HFS|Hemifacial spasm|Neurology
+HNPP|Hereditary neuropathy with liability to pressure palsies|Neurology
+HOB|Head of bed|Neurology
+HSAN|Hereditary sensory and autonomic neuropathy|Neurology
+HUT|Head-up tilt|Neurology
+IAP|Intracarotid amobarbital procedure|Neurology
+ICAS|Intracranial atherosclerotic stenosis|Neurology
+ICANS|Immune effector cell-associated neurotoxicity syndrome|Neurology
+ICI|Immune checkpoint inhibitor|Neurology
+IENFD|Intraepidermal nerve fiber density|Neurology
+IIC|Ictal-interictal continuum|Neurology
+IPS|Intermittent photic stimulation|Neurology
+IRIS|Immune reconstitution inflammatory syndrome|Neurology
+ITB|Intrathecal baclofen|Neurology
+IVMP|Intravenous methylprednisolone|Neurology
+LAAO|Left atrial appendage occlusion|Neurology
+LDOPA|Levodopa|Neurology
+L-dopa|Levodopa|Neurology
+LEDD|Levodopa equivalent daily dose|Neurology
+LID|Levodopa-induced dyskinesia|Neurology
+LITT|Laser interstitial thermal therapy|Neurology
+LPD|Lateralized periodic discharges|Neurology
+LRDA|Lateralized rhythmic delta activity|Neurology
+LSR|Lumbosacral radiculopathy|Neurology
+MMD|Moyamoya disease|Neurology
+MOH|Medication overuse headache|Neurology
+NCCT|Non-contrast computed tomography|Neurology
+NT1|Narcolepsy type 1|Neurology
+NT2|Narcolepsy type 2|Neurology
+PAG|Periaqueductal gray|Neurology
+PBA|Pseudobulbar affect|Neurology
+PCS|Post-concussion syndrome|Neurology
+PDR|Posterior dominant rhythm|Neurology
+PLS|Primary lateral sclerosis|Neurology
+PMA|Progressive muscular atrophy|Neurology
+PME|Progressive myoclonic epilepsy|Neurology
+PPPD|Persistent postural-perceptual dizziness|Neurology
+SCS|Spinal cord stimulator|Neurology
+TUG|Timed Up and Go|Neurology
+UARS|Upper airway resistance syndrome|Neurology
+UIA|Unruptured intracranial aneurysm|Neurology
+UNE|Ulnar neuropathy at the elbow|Neurology
+VA-shunt|Ventriculoatrial shunt|Neurology
+VM|Vestibular migraine|Neurology
+VN|Vestibular neuritis|Neurology
+5-HT|Serotonin|Neurology
+CP|Cerebral palsy|Neurology
+HCP|Hydrocephalus|Neurology
+PACNS|Primary angiitis of the central nervous system|Neurology
+CN|Cranial nerve|Neurology
+INR|International normalized ratio|Neurology
+TICI|Thrombolysis in cerebral infarction score|Neurology
+mTICI|Modified thrombolysis in cerebral infarction score|Neurology
+T1WI|T1-weighted imaging|Neurology
+T2WI|T2-weighted imaging|Neurology
+STIR|Short tau inversion recovery|Neurology
+MPRAGE|Magnetization-prepared rapid gradient echo|Neurology
+IFN|Interferon|Neurology
+DMF|Dimethyl fumarate|Neurology
+SCIG|Subcutaneous immunoglobulin|Neurology
+CRION|Chronic relapsing inflammatory optic neuropathy|Neurology
+NAION|Nonarteritic anterior ischemic optic neuropathy|Neurology
+AAION|Arteritic anterior ischemic optic neuropathy|Neurology
+AION|Anterior ischemic optic neuropathy|Neurology
+LHON|Leber hereditary optic neuropathy|Neurology
+RNFL|Retinal nerve fiber layer|Neurology
+ABR|Auditory brainstem response|Neurology
+3,4-DAP|3,4-diaminopyridine|Neurology
+FALS|Familial amyotrophic lateral sclerosis|Neurology
+SALS|Sporadic amyotrophic lateral sclerosis|Neurology
+ALSFRS-R|Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised|Neurology
+TDP-43|Transactive response DNA-binding protein 43|Neurology
+IIM|Idiopathic inflammatory myopathy|Neurology
+LGMD|Limb-girdle muscular dystrophy|Neurology
+CPEO|Chronic progressive external ophthalmoplegia|Neurology
+POEMS|Polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, skin changes|Neurology
+CANOMAD|Chronic ataxic neuropathy with ophthalmoplegia, IgM paraprotein, cold agglutinins, and disialosyl antibodies|Neurology
+BTX-A|Botulinum toxin type A|Neurology
+BSP|Blepharospasm|Neurology
+ASWPD|Advanced sleep-wake phase disorder|Neurology
+NFLE|Nocturnal frontal lobe epilepsy|Neurology
+SIRPIDs|Stimulus-induced rhythmic, periodic, or ictal discharges|Neurology
+BECTS|Benign epilepsy with centrotemporal spikes|Neurology
+SeLECTS|Self-limited epilepsy with centrotemporal spikes|Neurology
+CAE|Childhood absence epilepsy|Neurology
+JAE|Juvenile absence epilepsy|Neurology
+FS|Febrile seizure|Neurology
+GEFS+|Genetic epilepsy with febrile seizures plus|Neurology
+UOS|Unknown onset seizure|Neurology
+FOS|Focal onset seizure|Neurology
+ASMs|Antiseizure medications|Neurology
+AEDs|Antiepileptic drugs|Neurology
+PHQ-9|Patient Health Questionnaire-9|Neurology
+GAD-7|Generalized Anxiety Disorder 7-item scale|Neurology
+MDS-UPDRS|Movement Disorder Society Unified Parkinson Disease Rating Scale|Neurology
+UHDRS|Unified Huntington Disease Rating Scale|Neurology
+UMSARS|Unified Multiple System Atrophy Rating Scale|Neurology
+PSPRS|Progressive Supranuclear Palsy Rating Scale|Neurology
+SARA|Scale for the Assessment and Rating of Ataxia|Neurology
+CST|Corticospinal tract|Neurology
+STT|Spinothalamic tract|Neurology
+DCML|Dorsal column-medial lemniscus|Neurology
+RT-QuIC|Real-time quaking-induced conversion|Neurology
+p-tau|Phosphorylated tau|Neurology
+t-tau|Total tau|Neurology
+Aβ42|Amyloid beta 42|Neurology
+αSyn|Alpha-synuclein|Neurology
+SAA|Seed amplification assay|Neurology
+sCJD|Sporadic prion disease|Neurology
+vCJD|Variant prion disease|Neurology
+FFI|Fatal familial insomnia|Neurology
+TSE|Transmissible spongiform encephalopathy|Neurology
+EOAD|Early-onset Alzheimer disease|Neurology
+LOAD|Late-onset Alzheimer disease|Neurology
+FAD|Familial Alzheimer disease|Neurology
+lvPPA|Logopenic variant primary progressive aphasia|Neurology
+nfvPPA|Nonfluent variant primary progressive aphasia|Neurology
+svPPA|Semantic variant primary progressive aphasia|Neurology
+PNFA|Progressive nonfluent aphasia|Neurology
+LATE|Limbic-predominant age-related TDP-43 encephalopathy|Neurology
+NFT|Neurofibrillary tangle|Neurology
+ADAS-Cog|Alzheimer Disease Assessment Scale-Cognitive subscale|Neurology
+ACE-III|Addenbrooke Cognitive Examination III|Neurology
+RASS|Richmond Agitation-Sedation Scale|Neurology
+STA-MCA|Superficial temporal artery to middle cerebral artery bypass|Neurology
+EC-IC|Extracranial-intracranial bypass|Neurology
+anti-MAG|Anti-myelin-associated glycoprotein neuropathy|Neurology
+anti-CGRP|Anti-calcitonin gene-related peptide|Neurology
+X-ALD|X-linked adrenoleukodystrophy|Neurology
+AMN|Adrenomyeloneuropathy|Neurology

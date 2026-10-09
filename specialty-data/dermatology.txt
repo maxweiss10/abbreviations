@@ -1,0 +1,663 @@
+BCC|Basal cell carcinoma|Dermatology
+SCC|Squamous cell carcinoma|Dermatology
+SCCIS|Squamous cell carcinoma in situ|Dermatology
+cSCC|Cutaneous squamous cell carcinoma|Dermatology
+NMSC|Nonmelanoma skin cancer|Dermatology
+MIS|Melanoma in situ|Dermatology
+LM|Lentigo maligna|Dermatology
+LMM|Lentigo maligna melanoma|Dermatology
+SSM|Superficial spreading melanoma|Dermatology
+ALM|Acral lentiginous melanoma|Dermatology
+SLNB|Sentinel lymph node biopsy|Dermatology
+SLN|Sentinel lymph node|Dermatology
+WLE|Wide local excision|Dermatology
+MMS|Mohs micrographic surgery|Dermatology
+AK|Actinic keratosis|Dermatology
+SK|Seborrheic keratosis|Dermatology
+ISK|Inflamed seborrheic keratosis|Dermatology
+ISKs|Irritated seborrheic keratoses|Dermatology
+KA|Keratoacanthoma|Dermatology
+DN|Dysplastic nevus|Dermatology
+CMN|Congenital melanocytic nevus|Dermatology
+IDN|Intradermal nevus|Dermatology
+ABCDE|Asymmetry, border, color, diameter, evolution (melanoma warning signs)|Dermatology
+BWS|Blue-white structures (dermoscopy)|Dermatology
+PRM|Pigment network, regression, multicomponent (dermoscopy pattern)|Dermatology
+DLE|Discoid lupus erythematosus|Dermatology
+CCLE|Chronic cutaneous lupus erythematosus|Dermatology
+ACLE|Acute cutaneous lupus erythematosus|Dermatology
+SCLE|Subacute cutaneous lupus erythematosus|Dermatology
+CLE|Cutaneous lupus erythematosus|Dermatology
+SLE|Systemic lupus erythematosus|Dermatology
+CADM|Clinically amyopathic dermatomyositis|Dermatology
+PM|Polymyositis|Dermatology
+SSc|Systemic sclerosis|Dermatology
+lcSSc|Limited cutaneous systemic sclerosis|Dermatology
+dcSSc|Diffuse cutaneous systemic sclerosis|Dermatology
+CREST|Calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, telangiectasia|Dermatology
+MCTD|Mixed connective tissue disease|Dermatology
+NSF|Nephrogenic systemic fibrosis|Dermatology
+PV|Pemphigus vulgaris|Dermatology
+PF|Pemphigus foliaceus|Dermatology
+BP|Bullous pemphigoid|Dermatology
+MMP|Mucous membrane pemphigoid|Dermatology
+DH|Dermatitis herpetiformis|Dermatology
+LABD|Linear IgA bullous dermatosis|Dermatology
+EBA|Epidermolysis bullosa acquisita|Dermatology
+EB|Epidermolysis bullosa|Dermatology
+EBS|Epidermolysis bullosa simplex|Dermatology
+JEB|Junctional epidermolysis bullosa|Dermatology
+DEB|Dystrophic epidermolysis bullosa|Dermatology
+RDEB|Recessive dystrophic epidermolysis bullosa|Dermatology
+DIF|Direct immunofluorescence|Dermatology
+IIF|Indirect immunofluorescence|Dermatology
+BMZ|Basement membrane zone|Dermatology
+DEJ|Dermal-epidermal junction|Dermatology
+ELISA|Enzyme-linked immunosorbent assay|Dermatology
+Dsg1|Desmoglein 1|Dermatology
+Dsg3|Desmoglein 3|Dermatology
+TEN|Toxic epidermal necrolysis|Dermatology
+BSA|Body surface area|Dermatology
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Dermatology
+AGEP|Acute generalized exanthematous pustulosis|Dermatology
+EM|Erythema multiforme|Dermatology
+EMM|Erythema multiforme major|Dermatology
+FDE|Fixed drug eruption|Dermatology
+MPE|Morbilliform (maculopapular) drug eruption|Dermatology
+SDRIFE|Symmetrical drug-related intertriginous and flexural exanthema|Dermatology
+AD|Atopic dermatitis|Dermatology
+ACD|Allergic contact dermatitis|Dermatology
+ICD|Irritant contact dermatitis|Dermatology
+CD|Contact dermatitis|Dermatology
+SD|Seborrheic dermatitis|Dermatology
+PD|Perioral dermatitis|Dermatology
+NMD|Nummular dermatitis|Dermatology
+SDE|Stasis dermatitis|Dermatology
+HE|Hand eczema|Dermatology
+DE|Dyshidrotic eczema|Dermatology
+LSC|Lichen simplex chronicus|Dermatology
+LP|Lichen planus|Dermatology
+OLP|Oral lichen planus|Dermatology
+LPP|Lichen planopilaris|Dermatology
+FFA|Frontal fibrosing alopecia|Dermatology
+LS|Lichen sclerosus|Dermatology
+LSA|Lichen sclerosus et atrophicus|Dermatology
+PRP|Pityriasis rubra pilaris|Dermatology
+PR|Pityriasis rosea|Dermatology
+PLC|Pityriasis lichenoides chronica|Dermatology
+PLEVA|Pityriasis lichenoides et varioliformis acuta|Dermatology
+GA|Granuloma annulare|Dermatology
+NLD|Necrobiosis lipoidica diabeticorum|Dermatology
+PG|Pyoderma gangrenosum|Dermatology
+EN|Erythema nodosum|Dermatology
+HS|Hidradenitis suppurativa|Dermatology
+HiSCR|Hidradenitis suppurativa clinical response|Dermatology
+IHS4|International Hidradenitis Suppurativa Severity Score System|Dermatology
+PASH|Pyoderma gangrenosum, acne, and suppurative hidradenitis|Dermatology
+PAPASH|Pyogenic arthritis, pyoderma gangrenosum, acne, and suppurative hidradenitis|Dermatology
+SAPHO|Synovitis, acne, pustulosis, hyperostosis, osteitis|Dermatology
+PsO|Psoriasis|Dermatology
+PsA|Psoriatic arthritis|Dermatology
+GPP|Generalized pustular psoriasis|Dermatology
+PPP|Palmoplantar pustulosis|Dermatology
+PPPP|Palmoplantar pustular psoriasis|Dermatology
+PASI|Psoriasis Area and Severity Index|Dermatology
+PASI75|75 percent improvement in Psoriasis Area and Severity Index|Dermatology
+PASI90|90 percent improvement in Psoriasis Area and Severity Index|Dermatology
+PASI100|100 percent improvement in Psoriasis Area and Severity Index|Dermatology
+PGA|Physician global assessment|Dermatology
+IGA|Investigator global assessment|Dermatology
+sPGA|Static physician global assessment|Dermatology
+NAPSI|Nail Psoriasis Severity Index|Dermatology
+PSSI|Psoriasis Scalp Severity Index|Dermatology
+PEST|Psoriasis Epidemiology Screening Tool|Dermatology
+DLQI|Dermatology Life Quality Index|Dermatology
+CDLQI|Children's Dermatology Life Quality Index|Dermatology
+EASI|Eczema Area and Severity Index|Dermatology
+EASI75|75 percent improvement in Eczema Area and Severity Index|Dermatology
+SCORAD|Scoring Atopic Dermatitis index|Dermatology
+POEM|Patient-Oriented Eczema Measure|Dermatology
+NRS|Numeric rating scale|Dermatology
+VAS|Visual analog scale|Dermatology
+PP-NRS|Peak pruritus numeric rating scale|Dermatology
+SALT|Severity of Alopecia Tool|Dermatology
+UAS7|Urticaria Activity Score over 7 days|Dermatology
+UCT|Urticaria Control Test|Dermatology
+CSU|Chronic spontaneous urticaria|Dermatology
+CIU|Chronic idiopathic urticaria|Dermatology
+CINDU|Chronic inducible urticaria|Dermatology
+HAE|Hereditary angioedema|Dermatology
+ACE-I|Angiotensin-converting enzyme inhibitor|Dermatology
+VASI|Vitiligo Area Scoring Index|Dermatology
+VETF|Vitiligo European Task Force assessment|Dermatology
+NB-UVB|Narrowband ultraviolet B phototherapy|Dermatology
+BB-UVB|Broadband ultraviolet B phototherapy|Dermatology
+UVB|Ultraviolet B|Dermatology
+UVA|Ultraviolet A|Dermatology
+UVA1|Ultraviolet A1 phototherapy|Dermatology
+UVR|Ultraviolet radiation|Dermatology
+PUVA|Psoralen plus ultraviolet A|Dermatology
+ECP|Extracorporeal photopheresis|Dermatology
+PDT|Photodynamic therapy|Dermatology
+ALA|Aminolevulinic acid|Dermatology
+MAL|Methyl aminolevulinate|Dermatology
+SPF|Sun protection factor|Dermatology
+PLE|Polymorphous light eruption|Dermatology
+EPP|Erythropoietic protoporphyria|Dermatology
+PCT|Porphyria cutanea tarda|Dermatology
+CEP|Congenital erythropoietic porphyria|Dermatology
+VP|Variegate porphyria|Dermatology
+XP|Xeroderma pigmentosum|Dermatology
+AIP|Acute intermittent porphyria|Dermatology
+CTCL|Cutaneous T-cell lymphoma|Dermatology
+CBCL|Cutaneous B-cell lymphoma|Dermatology
+MF|Mycosis fungoides|Dermatology
+FMF|Folliculotropic mycosis fungoides|Dermatology
+LyP|Lymphomatoid papulosis|Dermatology
+pcALCL|Primary cutaneous anaplastic large cell lymphoma|Dermatology
+PCFCL|Primary cutaneous follicle center lymphoma|Dermatology
+PCMZL|Primary cutaneous marginal zone lymphoma|Dermatology
+mSWAT|Modified Severity-Weighted Assessment Tool|Dermatology
+HDAC|Histone deacetylase|Dermatology
+MCC|Merkel cell carcinoma|Dermatology
+MCPyV|Merkel cell polyomavirus|Dermatology
+DFSP|Dermatofibrosarcoma protuberans|Dermatology
+AFX|Atypical fibroxanthoma|Dermatology
+PDS|Pleomorphic dermal sarcoma|Dermatology
+KS|Kaposi sarcoma|Dermatology
+HHV-8|Human herpesvirus 8|Dermatology
+EMPD|Extramammary Paget disease|Dermatology
+SGC|Sebaceous gland carcinoma|Dermatology
+BCNS|Basal cell nevus syndrome|Dermatology
+HHI|Hedgehog inhibitor|Dermatology
+HH|Hedgehog (pathway)|Dermatology
+5-FU|Fluorouracil|Dermatology
+5FU|Fluorouracil|Dermatology
+ED&C|Electrodesiccation and curettage|Dermatology
+EDC|Electrodesiccation and curettage|Dermatology
+CT|Cryotherapy|Dermatology
+LN2|Liquid nitrogen|Dermatology
+I&D|Incision and drainage|Dermatology
+TAC|Triamcinolone acetonide|Dermatology
+IL|Intralesional|Dermatology
+IM|Intramuscular|Dermatology
+IV|Intravenous|Dermatology
+PO|By mouth|Dermatology
+BID|Twice daily|Dermatology
+QD|Once daily|Dermatology
+QHS|Every night at bedtime|Dermatology
+QAM|Every morning|Dermatology
+QOD|Every other day|Dermatology
+PRN|As needed|Dermatology
+TID|Three times daily|Dermatology
+QID|Four times daily|Dermatology
+BIW|Twice weekly|Dermatology
+TIW|Three times weekly|Dermatology
+TCS|Topical corticosteroid|Dermatology
+TCI|Topical calcineurin inhibitor|Dermatology
+PIM|Pimecrolimus|Dermatology
+CsA|Cyclosporine|Dermatology
+MTX|Methotrexate|Dermatology
+MMF|Mycophenolate mofetil|Dermatology
+AZA|Azathioprine|Dermatology
+HCQ|Hydroxychloroquine|Dermatology
+CQ|Chloroquine|Dermatology
+QC|Quinacrine|Dermatology
+DDS|Dapsone|Dermatology
+IVIG|Intravenous immunoglobulin|Dermatology
+RTX|Rituximab|Dermatology
+CYC|Cyclophosphamide|Dermatology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Dermatology
+SMX-TMP|Sulfamethoxazole-trimethoprim|Dermatology
+PCN|Penicillin|Dermatology
+MIN|Minocycline|Dermatology
+DOX|Doxycycline|Dermatology
+ISO|Isotretinoin|Dermatology
+SPL|Spironolactone|Dermatology
+OCP|Oral contraceptive pill|Dermatology
+COC|Combined oral contraceptive|Dermatology
+BPO|Benzoyl peroxide|Dermatology
+SA|Salicylic acid|Dermatology
+AHA|Alpha hydroxy acid|Dermatology
+BHA|Beta hydroxy acid|Dermatology
+AZ|Azelaic acid|Dermatology
+TRE|Tretinoin|Dermatology
+ATRA|All-trans retinoic acid|Dermatology
+HQ|Hydroquinone|Dermatology
+TCA|Trichloroacetic acid|Dermatology
+TCA|Tricyclic antidepressant|Dermatology
+TNF|Tumor necrosis factor|Dermatology
+TNFi|Tumor necrosis factor inhibitor|Dermatology
+IL-17|Interleukin-17|Dermatology
+IL-23|Interleukin-23|Dermatology
+IL-4|Interleukin-4|Dermatology
+IL-13|Interleukin-13|Dermatology
+IL-31|Interleukin-31|Dermatology
+IL-36|Interleukin-36|Dermatology
+IL-12/23|Interleukin-12 and interleukin-23|Dermatology
+JAK|Janus kinase|Dermatology
+JAKi|Janus kinase inhibitor|Dermatology
+PDE4|Phosphodiesterase 4|Dermatology
+PDE4i|Phosphodiesterase 4 inhibitor|Dermatology
+TYK2|Tyrosine kinase 2|Dermatology
+AhR|Aryl hydrocarbon receptor|Dermatology
+mAb|Monoclonal antibody|Dermatology
+BTK|Bruton tyrosine kinase|Dermatology
+PD-1|Programmed cell death protein 1|Dermatology
+PD-L1|Programmed death-ligand 1|Dermatology
+CTLA-4|Cytotoxic T-lymphocyte-associated protein 4|Dermatology
+ICI|Immune checkpoint inhibitor|Dermatology
+irAE|Immune-related adverse event|Dermatology
+EGFRi|Epidermal growth factor receptor inhibitor|Dermatology
+EGFR|Epidermal growth factor receptor|Dermatology
+BRAFi|BRAF inhibitor|Dermatology
+MEKi|MEK inhibitor|Dermatology
+HFSR|Hand-foot skin reaction|Dermatology
+HFS|Hand-foot syndrome|Dermatology
+PPE|Palmar-plantar erythrodysesthesia|Dermatology
+TB|Tuberculosis|Dermatology
+PPD|Purified protein derivative|Dermatology
+IGRA|Interferon-gamma release assay|Dermatology
+QFT|Quantiferon test for tuberculosis|Dermatology
+LTBI|Latent tuberculosis infection|Dermatology
+HBV|Hepatitis B virus|Dermatology
+HCV|Hepatitis C virus|Dermatology
+HBsAg|Hepatitis B surface antigen|Dermatology
+HBcAb|Hepatitis B core antibody|Dermatology
+CBC|Complete blood count|Dermatology
+CMP|Comprehensive metabolic panel|Dermatology
+LFTs|Liver function tests|Dermatology
+LFT|Liver function test|Dermatology
+BMP|Basic metabolic panel|Dermatology
+TSH|Thyroid-stimulating hormone|Dermatology
+ANA|Antinuclear antibody|Dermatology
+ENA|Extractable nuclear antigen|Dermatology
+dsDNA|Double-stranded DNA|Dermatology
+SSA|Anti-Ro antibody (Sjogren-syndrome-related antigen A)|Dermatology
+SSB|Anti-La antibody (Sjogren-syndrome-related antigen B)|Dermatology
+RF|Rheumatoid factor|Dermatology
+CCP|Cyclic citrullinated peptide|Dermatology
+ANCA|Antineutrophil cytoplasmic antibody|Dermatology
+c-ANCA|Cytoplasmic antineutrophil cytoplasmic antibody|Dermatology
+p-ANCA|Perinuclear antineutrophil cytoplasmic antibody|Dermatology
+MPO|Myeloperoxidase|Dermatology
+PR3|Proteinase 3|Dermatology
+ESR|Erythrocyte sedimentation rate|Dermatology
+CRP|C-reactive protein|Dermatology
+CK|Creatine kinase|Dermatology
+LDH|Lactate dehydrogenase|Dermatology
+G6PD|Glucose-6-phosphate dehydrogenase|Dermatology
+TPMT|Thiopurine methyltransferase|Dermatology
+HLA|Human leukocyte antigen|Dermatology
+IgE|Immunoglobulin E|Dermatology
+IgA|Immunoglobulin A|Dermatology
+IgG|Immunoglobulin G|Dermatology
+IgM|Immunoglobulin M|Dermatology
+C3|Complement component 3|Dermatology
+C4|Complement component 4|Dermatology
+CH50|Total hemolytic complement|Dermatology
+C1-INH|C1 esterase inhibitor|Dermatology
+RPR|Rapid plasma reagin|Dermatology
+VDRL|Venereal Disease Research Laboratory test for syphilis|Dermatology
+FTA-ABS|Fluorescent treponemal antibody absorption test|Dermatology
+TPPA|Treponema pallidum particle agglutination test|Dermatology
+HIV|Human immunodeficiency virus|Dermatology
+HSV|Herpes simplex virus|Dermatology
+HSV-1|Herpes simplex virus type 1|Dermatology
+HSV-2|Herpes simplex virus type 2|Dermatology
+VZV|Varicella zoster virus|Dermatology
+HZ|Herpes zoster|Dermatology
+HZO|Herpes zoster ophthalmicus|Dermatology
+PHN|Postherpetic neuralgia|Dermatology
+EH|Eczema herpeticum|Dermatology
+HPV|Human papillomavirus|Dermatology
+MCV|Molluscum contagiosum virus|Dermatology
+HFM|Hand, foot, and mouth disease|Dermatology
+VV|Verruca vulgaris|Dermatology
+EV|Epidermodysplasia verruciformis|Dermatology
+PCR|Polymerase chain reaction|Dermatology
+KOH|Potassium hydroxide preparation|Dermatology
+PAS|Periodic acid-Schiff stain|Dermatology
+GMS|Grocott methenamine silver stain|Dermatology
+H&E|Hematoxylin and eosin stain|Dermatology
+IHC|Immunohistochemistry|Dermatology
+GS|Gram stain|Dermatology
+AFB|Acid-fast bacilli|Dermatology
+MRSA|Methicillin-resistant Staphylococcus aureus|Dermatology
+MSSA|Methicillin-susceptible Staphylococcus aureus|Dermatology
+CA-MRSA|Community-acquired methicillin-resistant Staphylococcus aureus|Dermatology
+SSSS|Staphylococcal scalded skin syndrome|Dermatology
+TSS|Toxic shock syndrome|Dermatology
+GAS|Group A streptococcus|Dermatology
+NF|Necrotizing fasciitis|Dermatology
+SSTI|Skin and soft tissue infection|Dermatology
+ABSSSI|Acute bacterial skin and skin structure infection|Dermatology
+LRINEC|Laboratory Risk Indicator for Necrotizing Fasciitis|Dermatology
+BSI|Bloodstream infection|Dermatology
+UTI|Urinary tract infection|Dermatology
+STI|Sexually transmitted infection|Dermatology
+GC|Gonorrhea|Dermatology
+NTM|Nontuberculous mycobacteria|Dermatology
+MAC|Mycobacterium avium complex|Dermatology
+BCG|Bacillus Calmette-Guerin|Dermatology
+OM|Onychomycosis|Dermatology
+DLSO|Distal lateral subungual onychomycosis|Dermatology
+WSO|White superficial onychomycosis|Dermatology
+PSO|Proximal subungual onychomycosis|Dermatology
+CC|Cutaneous candidiasis|Dermatology
+CMCC|Chronic mucocutaneous candidiasis|Dermatology
+SIL|Squamous intraepithelial lesion|Dermatology
+VIN|Vulvar intraepithelial neoplasia|Dermatology
+AIN|Anal intraepithelial neoplasia|Dermatology
+PIN|Penile intraepithelial neoplasia|Dermatology
+CIN|Cervical intraepithelial neoplasia|Dermatology
+AV|Acne vulgaris|Dermatology
+AR|Acne rosacea|Dermatology
+ETR|Erythematotelangiectatic rosacea|Dermatology
+PPR|Papulopustular rosacea|Dermatology
+GAGS|Global Acne Grading System|Dermatology
+PIH|Postinflammatory hyperpigmentation|Dermatology
+PIE|Postinflammatory erythema|Dermatology
+PCOS|Polycystic ovary syndrome|Dermatology
+DHEAS|Dehydroepiandrosterone sulfate|Dermatology
+DHT|Dihydrotestosterone|Dermatology
+AGA|Androgenetic alopecia|Dermatology
+FPHL|Female pattern hair loss|Dermatology
+MPHL|Male pattern hair loss|Dermatology
+AA|Alopecia areata|Dermatology
+AT|Alopecia totalis|Dermatology
+AU|Alopecia universalis|Dermatology
+TE|Telogen effluvium|Dermatology
+AE|Anagen effluvium|Dermatology
+CCCA|Central centrifugal cicatricial alopecia|Dermatology
+DC|Dissecting cellulitis of the scalp|Dermatology
+FD|Folliculitis decalvans|Dermatology
+AKN|Acne keloidalis nuchae|Dermatology
+PFB|Pseudofolliculitis barbae|Dermatology
+FUE|Follicular unit extraction|Dermatology
+FUT|Follicular unit transplantation|Dermatology
+MNX|Minoxidil|Dermatology
+FIN|Finasteride|Dermatology
+DUT|Dutasteride|Dermatology
+OTC|Over the counter|Dermatology
+HG|Hyperhidrosis|Dermatology
+BTX|Botulinum toxin|Dermatology
+BoNT-A|Botulinum toxin type A|Dermatology
+HA|Hyaluronic acid|Dermatology
+CaHA|Calcium hydroxylapatite|Dermatology
+PLLA|Poly-L-lactic acid|Dermatology
+PMMA|Polymethylmethacrylate|Dermatology
+IPL|Intense pulsed light|Dermatology
+PDL|Pulsed dye laser|Dermatology
+Nd:YAG|Neodymium-doped yttrium aluminum garnet laser|Dermatology
+CO2|Carbon dioxide laser|Dermatology
+Er:YAG|Erbium-doped yttrium aluminum garnet laser|Dermatology
+QS|Q-switched laser|Dermatology
+FLP|Fractional laser photothermolysis|Dermatology
+PWS|Port-wine stain|Dermatology
+IH|Infantile hemangioma|Dermatology
+RICH|Rapidly involuting congenital hemangioma|Dermatology
+NICH|Noninvoluting congenital hemangioma|Dermatology
+KHE|Kaposiform hemangioendothelioma|Dermatology
+CM|Capillary malformation|Dermatology
+VM|Venous malformation|Dermatology
+AVM|Arteriovenous malformation|Dermatology
+HHT|Hereditary hemorrhagic telangiectasia|Dermatology
+PHACE|Posterior fossa malformations, hemangioma, arterial anomalies, cardiac defects, eye anomalies|Dermatology
+NF1|Neurofibromatosis type 1|Dermatology
+NF2|Neurofibromatosis type 2|Dermatology
+TSC|Tuberous sclerosis complex|Dermatology
+CALM|Cafe-au-lait macule|Dermatology
+CALMs|Cafe-au-lait macules|Dermatology
+LCH|Langerhans cell histiocytosis|Dermatology
+JXG|Juvenile xanthogranuloma|Dermatology
+CS|Cutaneous sarcoidosis|Dermatology
+GPA|Granulomatosis with polyangiitis|Dermatology
+EGPA|Eosinophilic granulomatosis with polyangiitis|Dermatology
+MPA|Microscopic polyangiitis|Dermatology
+PAN|Polyarteritis nodosa|Dermatology
+cPAN|Cutaneous polyarteritis nodosa|Dermatology
+LCV|Leukocytoclastic vasculitis|Dermatology
+CSVV|Cutaneous small vessel vasculitis|Dermatology
+IgAV|Immunoglobulin A vasculitis|Dermatology
+HUV|Hypocomplementemic urticarial vasculitis|Dermatology
+UV|Urticarial vasculitis|Dermatology
+GCA|Giant cell arteritis|Dermatology
+APS|Antiphospholipid syndrome|Dermatology
+aPL|Antiphospholipid antibodies|Dermatology
+LA|Lupus anticoagulant|Dermatology
+aCL|Anticardiolipin antibody|Dermatology
+B2GP1|Beta-2 glycoprotein 1|Dermatology
+CAPS|Catastrophic antiphospholipid syndrome|Dermatology
+CAD|Cold agglutinin disease|Dermatology
+PNH|Paroxysmal nocturnal hemoglobinuria|Dermatology
+TTP|Thrombotic thrombocytopenic purpura|Dermatology
+DIC|Disseminated intravascular coagulation|Dermatology
+HIT|Heparin-induced thrombocytopenia|Dermatology
+ITP|Immune thrombocytopenia|Dermatology
+PT|Prothrombin time|Dermatology
+INR|International normalized ratio|Dermatology
+PTT|Partial thromboplastin time|Dermatology
+CVI|Chronic venous insufficiency|Dermatology
+DVT|Deep vein thrombosis|Dermatology
+PAD|Peripheral artery disease|Dermatology
+ABI|Ankle-brachial index|Dermatology
+VLU|Venous leg ulcer|Dermatology
+DFU|Diabetic foot ulcer|Dermatology
+PU|Pressure ulcer|Dermatology
+PI|Pressure injury|Dermatology
+NPWT|Negative pressure wound therapy|Dermatology
+STSG|Split-thickness skin graft|Dermatology
+FTSG|Full-thickness skin graft|Dermatology
+SIS|Secondary intention healing|Dermatology
+SOC|Standard of care|Dermatology
+WBC|White blood cell count|Dermatology
+HTN|Hypertension|Dermatology
+DM2|Type 2 diabetes mellitus|Dermatology
+T2DM|Type 2 diabetes mellitus|Dermatology
+BMI|Body mass index|Dermatology
+CKD|Chronic kidney disease|Dermatology
+ESRD|End-stage renal disease|Dermatology
+GVHD|Graft-versus-host disease|Dermatology
+aGVHD|Acute graft-versus-host disease|Dermatology
+cGVHD|Chronic graft-versus-host disease|Dermatology
+HSCT|Hematopoietic stem cell transplant|Dermatology
+SOTR|Solid organ transplant recipient|Dermatology
+OTR|Organ transplant recipient|Dermatology
+HCT|Hematopoietic cell transplantation|Dermatology
+GIST|Gastrointestinal stromal tumor|Dermatology
+IBD|Inflammatory bowel disease|Dermatology
+UC|Ulcerative colitis|Dermatology
+CD|Crohn disease|Dermatology
+SPA|Spondyloarthritis|Dermatology
+AS|Ankylosing spondylitis|Dermatology
+RA|Rheumatoid arthritis|Dermatology
+JIA|Juvenile idiopathic arthritis|Dermatology
+RAS|Recurrent aphthous stomatitis|Dermatology
+PFAPA|Periodic fever, aphthous stomatitis, pharyngitis, adenitis|Dermatology
+DIRA|Deficiency of interleukin-1 receptor antagonist|Dermatology
+CAPS|Cryopyrin-associated periodic syndromes|Dermatology
+FCAS|Familial cold autoinflammatory syndrome|Dermatology
+HIDS|Hyperimmunoglobulin D syndrome|Dermatology
+TRAPS|Tumor necrosis factor receptor-associated periodic syndrome|Dermatology
+SCC-HN|Squamous cell carcinoma of the head and neck|Dermatology
+ESCC|Esophageal squamous cell carcinoma|Dermatology
+BSC|Best supportive care|Dermatology
+TNM|Tumor, node, metastasis staging|Dermatology
+LVI|Lymphovascular invasion|Dermatology
+PNI|Perineural invasion|Dermatology
+BT|Breslow thickness|Dermatology
+CL|Clark level|Dermatology
+TIL|Tumor-infiltrating lymphocytes|Dermatology
+TILs|Tumor-infiltrating lymphocytes|Dermatology
+MSI|Microsatellite instability|Dermatology
+TMB|Tumor mutational burden|Dermatology
+RCM|Reflectance confocal microscopy|Dermatology
+OCT|Optical coherence tomography|Dermatology
+HFUS|High-frequency ultrasound|Dermatology
+TBP|Total body photography|Dermatology
+TBSE|Total body skin examination|Dermatology
+FBSE|Full body skin examination|Dermatology
+SDDI|Sequential digital dermoscopy imaging|Dermatology
+DDx|Differential diagnosis|Dermatology
+Dx|Diagnosis|Dermatology
+Tx|Treatment|Dermatology
+Rx|Prescription|Dermatology
+Hx|History|Dermatology
+PMH|Past medical history|Dermatology
+FH|Family history|Dermatology
+FHx|Family history|Dermatology
+SH|Social history|Dermatology
+ROS|Review of systems|Dermatology
+HPI|History of present illness|Dermatology
+PE|Physical examination|Dermatology
+RTC|Return to clinic|Dermatology
+F/U|Follow-up|Dermatology
+FU|Follow-up|Dermatology
+Bx|Biopsy|Dermatology
+SB|Shave biopsy|Dermatology
+PB|Punch biopsy|Dermatology
+IB|Incisional biopsy|Dermatology
+Cx|Culture|Dermatology
+ID|Infectious disease|Dermatology
+LAD|Lymphadenopathy|Dermatology
+LN|Lymph node|Dermatology
+NAD|No acute distress|Dermatology
+WNL|Within normal limits|Dermatology
+NKDA|No known drug allergies|Dermatology
+NSAID|Nonsteroidal anti-inflammatory drug|Dermatology
+PPI|Proton pump inhibitor|Dermatology
+SSRI|Selective serotonin reuptake inhibitor|Dermatology
+GABA|Gamma-aminobutyric acid|Dermatology
+CBT|Cognitive behavioral therapy|Dermatology
+BDD|Body dysmorphic disorder|Dermatology
+OCD|Obsessive-compulsive disorder|Dermatology
+PN|Prurigo nodularis|Dermatology
+NP|Notalgia paresthetica|Dermatology
+BRP|Brachioradial pruritus|Dermatology
+PBC|Primary biliary cholangitis|Dermatology
+PSC|Primary sclerosing cholangitis|Dermatology
+MOR|Mu-opioid receptor|Dermatology
+KOR|Kappa-opioid receptor|Dermatology
+SSD|Silver sulfadiazine|Dermatology
+HC|Hydrocortisone|Dermatology
+BMV|Betamethasone valerate|Dermatology
+BDP|Betamethasone dipropionate|Dermatology
+Calcip|Calcipotriene|Dermatology
+TZ|Tazarotene|Dermatology
+CLM|Clindamycin|Dermatology
+ERY|Erythromycin|Dermatology
+MTZ|Metronidazole|Dermatology
+TER|Terbinafine|Dermatology
+ITZ|Itraconazole|Dermatology
+FLC|Fluconazole|Dermatology
+KTZ|Ketoconazole|Dermatology
+GSF|Griseofulvin|Dermatology
+VAL|Valacyclovir|Dermatology
+ACV|Acyclovir|Dermatology
+FAM|Famciclovir|Dermatology
+CEPH|Cephalexin|Dermatology
+DCX|Dicloxacillin|Dermatology
+AMX|Amoxicillin|Dermatology
+AMX-CLV|Amoxicillin-clavulanate|Dermatology
+TCN|Tetracycline|Dermatology
+PHQ|Patient health questionnaire|Dermatology
+HADS|Hospital Anxiety and Depression Scale|Dermatology
+QOL|Quality of life|Dermatology
+QoL|Quality of life|Dermatology
+PRO|Patient-reported outcome|Dermatology
+PROM|Patient-reported outcome measure|Dermatology
+MCID|Minimal clinically important difference|Dermatology
+ADL|Activities of daily living|Dermatology
+SLE-DAI|Systemic Lupus Erythematosus Disease Activity Index|Dermatology
+CLASI|Cutaneous Lupus Erythematosus Disease Area and Severity Index|Dermatology
+CLASI-A|Cutaneous Lupus Erythematosus Disease Area and Severity Index, activity score|Dermatology
+CLASI-D|Cutaneous Lupus Erythematosus Disease Area and Severity Index, damage score|Dermatology
+CDASI|Cutaneous Dermatomyositis Disease Area and Severity Index|Dermatology
+mRSS|Modified Rodnan skin score|Dermatology
+PDAI|Pemphigus Disease Area Index|Dermatology
+BPDAI|Bullous Pemphigoid Disease Area Index|Dermatology
+ABSIS|Autoimmune Bullous Skin Disorder Intensity Score|Dermatology
+BVAS|Birmingham Vasculitis Activity Score|Dermatology
+ABC|Abacavir|Dermatology
+CBZ|Carbamazepine|Dermatology
+LTG|Lamotrigine|Dermatology
+PHT|Phenytoin|Dermatology
+ALLO|Allopurinol|Dermatology
+DHR|Delayed hypersensitivity reaction|Dermatology
+IHR|Immediate hypersensitivity reaction|Dermatology
+SPT|Skin prick test|Dermatology
+IDT|Intradermal test|Dermatology
+PT|Patch test|Dermatology
+ROAT|Repeated open application test|Dermatology
+PPD|Para-phenylenediamine|Dermatology
+MCI|Methylchloroisothiazolinone|Dermatology
+MDBGN|Methyldibromo glutaronitrile|Dermatology
+IPBC|Iodopropynyl butylcarbamate|Dermatology
+TBHQ|Tertiary butylhydroquinone|Dermatology
+DMDM|DMDM hydantoin (formaldehyde releaser)|Dermatology
+FR|Formaldehyde releaser|Dermatology
+HEMA|Hydroxyethyl methacrylate|Dermatology
+IPPD|Isopropylphenyl-phenylenediamine|Dermatology
+AEC|Absolute eosinophil count|Dermatology
+HES|Hypereosinophilic syndrome|Dermatology
+SM|Systemic mastocytosis|Dermatology
+UP|Urticaria pigmentosa|Dermatology
+TMEP|Telangiectasia macularis eruptiva perstans|Dermatology
+TSLP|Thymic stromal lymphopoietin|Dermatology
+OX40|OX40 receptor (T-cell costimulatory target)|Dermatology
+ILC2|Group 2 innate lymphoid cell|Dermatology
+Th1|T helper 1 cell|Dermatology
+Th2|T helper 2 cell|Dermatology
+Th17|T helper 17 cell|Dermatology
+Treg|Regulatory T cell|Dermatology
+NK|Natural killer cell|Dermatology
+APC|Antigen-presenting cell|Dermatology
+MHC|Major histocompatibility complex|Dermatology
+TCR|T-cell receptor|Dermatology
+FLG|Filaggrin (skin barrier protein)|Dermatology
+TEWL|Transepidermal water loss|Dermatology
+SC|Stratum corneum|Dermatology
+NMF|Natural moisturizing factor|Dermatology
+IV|Ichthyosis vulgaris|Dermatology
+XLI|X-linked ichthyosis|Dermatology
+LI|Lamellar ichthyosis|Dermatology
+CIE|Congenital ichthyosiform erythroderma|Dermatology
+EHK|Epidermolytic hyperkeratosis|Dermatology
+HI|Harlequin ichthyosis|Dermatology
+PPK|Palmoplantar keratoderma|Dermatology
+EKV|Erythrokeratoderma variabilis|Dermatology
+KP|Keratosis pilaris|Dermatology
+PXE|Pseudoxanthoma elasticum|Dermatology
+EDS|Ehlers-Danlos syndrome|Dermatology
+OI|Osteogenesis imperfecta|Dermatology
+CTD|Connective tissue disease|Dermatology
+MGUS|Monoclonal gammopathy of undetermined significance|Dermatology
+AL|Light chain amyloidosis|Dermatology
+SPEP|Serum protein electrophoresis|Dermatology
+UPEP|Urine protein electrophoresis|Dermatology
+SFLC|Serum free light chains|Dermatology
+NXG|Necrobiotic xanthogranuloma|Dermatology
+POEMS|Polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, skin changes|Dermatology
+BCCs|Basal cell carcinomas|Dermatology
+SCCs|Squamous cell carcinomas|Dermatology
+AKs|Actinic keratoses|Dermatology
+SKs|Seborrheic keratoses|Dermatology
+MM|Malignant melanoma|Dermatology
+NM|Nodular melanoma|Dermatology
+DM|Dermatomyositis|Dermatology
+DM|Desmoplastic melanoma|Dermatology
+PV|Pityriasis versicolor|Dermatology
+TC|Tinea corporis|Dermatology
+TP|Tinea pedis|Dermatology
+TV|Tinea versicolor|Dermatology
+TU|Tinea unguium|Dermatology
+MC|Molluscum contagiosum|Dermatology
+CA|Condyloma acuminata|Dermatology
+MED|Minimal erythema dose|Dermatology
+PH|Primary hyperhidrosis|Dermatology
+CM|Cutaneous mastocytosis|Dermatology
+RF|Radiofrequency|Dermatology
+LM|Lymphatic malformation|Dermatology
+EOS|Eosinophils|Dermatology
+SSE|Skin self-examination|Dermatology

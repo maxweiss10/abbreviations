@@ -1,0 +1,593 @@
+ADL|Activities of daily living|Nursing
+IADL|Instrumental activities of daily living|Nursing
+AMA|Against medical advice|Nursing
+BID|Twice a day|Nursing
+TID|Three times a day|Nursing
+QID|Four times a day|Nursing
+QD|Every day|Nursing
+QHS|Every night at bedtime|Nursing
+QAM|Every morning|Nursing
+QPM|Every evening|Nursing
+Q2H|Every 2 hours|Nursing
+Q4H|Every 4 hours|Nursing
+Q6H|Every 6 hours|Nursing
+Q8H|Every 8 hours|Nursing
+Q12H|Every 12 hours|Nursing
+QOD|Every other day|Nursing
+HS|At bedtime|Nursing
+PRN|As needed|Nursing
+STAT|Immediately|Nursing
+PO|By mouth|Nursing
+NPO|Nothing by mouth|Nursing
+IV|Intravenous|Nursing
+IVP|Intravenous push|Nursing
+IVPB|Intravenous piggyback|Nursing
+IM|Intramuscular|Nursing
+SQ|Subcutaneous|Nursing
+SC|Subcutaneous|Nursing
+SL|Sublingual|Nursing
+PR|By rectum|Nursing
+PV|By vagina|Nursing
+GT|Gastrostomy tube|Nursing
+NG|Nasogastric|Nursing
+NGT|Nasogastric tube|Nursing
+OG|Orogastric|Nursing
+OGT|Orogastric tube|Nursing
+NJ|Nasojejunal|Nursing
+PEG|Percutaneous endoscopic gastrostomy|Nursing
+PICC|Peripherally inserted central catheter|Nursing
+CVC|Central venous catheter|Nursing
+CVL|Central venous line|Nursing
+PIV|Peripheral intravenous line|Nursing
+TPN|Total parenteral nutrition|Nursing
+PPN|Peripheral parenteral nutrition|Nursing
+IVF|Intravenous fluids|Nursing
+KVO|Keep vein open|Nursing
+NS|Normal saline|Nursing
+LR|Lactated Ringer's solution|Nursing
+D5W|5 percent dextrose in water|Nursing
+D5NS|5 percent dextrose in normal saline|Nursing
+I&O|Intake and output|Nursing
+I/O|Intake and output|Nursing
+UOP|Urine output|Nursing
+VS|Vital signs|Nursing
+BP|Blood pressure|Nursing
+HR|Heart rate|Nursing
+RR|Respiratory rate|Nursing
+T|Temperature|Nursing
+SpO2|Peripheral oxygen saturation|Nursing
+O2|Oxygen|Nursing
+O2 sat|Oxygen saturation|Nursing
+RA|Room air|Nursing
+NC|Nasal cannula|Nursing
+NRB|Non-rebreather mask|Nursing
+BVM|Bag-valve-mask|Nursing
+BiPAP|Bilevel positive airway pressure|Nursing
+CPAP|Continuous positive airway pressure|Nursing
+ETT|Endotracheal tube|Nursing
+ET|Endotracheal|Nursing
+ETCO2|End-tidal carbon dioxide|Nursing
+HFNC|High-flow nasal cannula|Nursing
+NIPPV|Noninvasive positive pressure ventilation|Nursing
+MV|Mechanical ventilation|Nursing
+SOB|Shortness of breath|Nursing
+DOE|Dyspnea on exertion|Nursing
+PND|Paroxysmal nocturnal dyspnea|Nursing
+CP|Chest pain|Nursing
+N/V|Nausea and vomiting|Nursing
+N/V/D|Nausea, vomiting and diarrhea|Nursing
+C/O|Complains of|Nursing
+CC|Chief complaint|Nursing
+HPI|History of present illness|Nursing
+PMH|Past medical history|Nursing
+PSH|Past surgical history|Nursing
+FH|Family history|Nursing
+SH|Social history|Nursing
+ROS|Review of systems|Nursing
+PE|Physical exam|Nursing
+Hx|History|Nursing
+Dx|Diagnosis|Nursing
+Tx|Treatment|Nursing
+Rx|Prescription or treatment|Nursing
+Sx|Symptoms|Nursing
+Fx|Fracture|Nursing
+Sz|Seizure|Nursing
+NKA|No known allergies|Nursing
+NKDA|No known drug allergies|Nursing
+WNL|Within normal limits|Nursing
+NAD|No acute distress|Nursing
+A&O|Alert and oriented|Nursing
+A&Ox3|Alert and oriented to person, place and time|Nursing
+A&Ox4|Alert and oriented to person, place, time and situation|Nursing
+AOx3|Alert and oriented to person, place and time|Nursing
+AAO|Awake, alert and oriented|Nursing
+LOC|Level of consciousness|Nursing
+LOC|Loss of consciousness|Nursing
+GCS|Glasgow Coma Scale|Nursing
+AVPU|Alert, voice, pain, unresponsive|Nursing
+PERRLA|Pupils equal, round, reactive to light and accommodation|Nursing
+PERL|Pupils equal and reactive to light|Nursing
+EOMI|Extraocular movements intact|Nursing
+HEENT|Head, eyes, ears, nose and throat|Nursing
+CTA|Clear to auscultation|Nursing
+CTAB|Clear to auscultation bilaterally|Nursing
+RRR|Regular rate and rhythm|Nursing
+S1|First heart sound|Nursing
+S2|Second heart sound|Nursing
+S3|Third heart sound|Nursing
+S4|Fourth heart sound|Nursing
+JVD|Jugular venous distention|Nursing
+PMI|Point of maximal impulse|Nursing
+NSR|Normal sinus rhythm|Nursing
+SR|Sinus rhythm|Nursing
+ST|Sinus tachycardia|Nursing
+SB|Sinus bradycardia|Nursing
+AF|Atrial fibrillation|Nursing
+AFib|Atrial fibrillation|Nursing
+VT|Ventricular tachycardia|Nursing
+VF|Ventricular fibrillation|Nursing
+PEA|Pulseless electrical activity|Nursing
+PVC|Premature ventricular contraction|Nursing
+PAC|Premature atrial contraction|Nursing
+SVT|Supraventricular tachycardia|Nursing
+ECG|Electrocardiogram|Nursing
+EKG|Electrocardiogram|Nursing
+CPR|Cardiopulmonary resuscitation|Nursing
+ACLS|Advanced cardiac life support|Nursing
+BLS|Basic life support|Nursing
+PALS|Pediatric advanced life support|Nursing
+NRP|Neonatal resuscitation program|Nursing
+AED|Automated external defibrillator|Nursing
+ROSC|Return of spontaneous circulation|Nursing
+DNR|Do not resuscitate|Nursing
+DNI|Do not intubate|Nursing
+DNAR|Do not attempt resuscitation|Nursing
+CMO|Comfort measures only|Nursing
+POLST|Physician orders for life-sustaining treatment|Nursing
+AD|Advance directive|Nursing
+HCP|Health care proxy|Nursing
+POA|Power of attorney|Nursing
+MI|Myocardial infarction|Nursing
+CHF|Congestive heart failure|Nursing
+HF|Heart failure|Nursing
+CAD|Coronary artery disease|Nursing
+HTN|Hypertension|Nursing
+HLD|Hyperlipidemia|Nursing
+DM|Diabetes mellitus|Nursing
+T2DM|Type 2 diabetes mellitus|Nursing
+T1DM|Type 1 diabetes mellitus|Nursing
+DKA|Diabetic ketoacidosis|Nursing
+HHS|Hyperosmolar hyperglycemic state|Nursing
+CKD|Chronic kidney disease|Nursing
+AKI|Acute kidney injury|Nursing
+ESRD|End-stage renal disease|Nursing
+COPD|Chronic obstructive pulmonary disease|Nursing
+CVA|Cerebrovascular accident|Nursing
+TIA|Transient ischemic attack|Nursing
+DVT|Deep vein thrombosis|Nursing
+PE|Pulmonary embolism|Nursing
+PVD|Peripheral vascular disease|Nursing
+PAD|Peripheral artery disease|Nursing
+UTI|Urinary tract infection|Nursing
+URI|Upper respiratory infection|Nursing
+PNA|Pneumonia|Nursing
+CAP|Community-acquired pneumonia|Nursing
+HAP|Hospital-acquired pneumonia|Nursing
+VAP|Ventilator-associated pneumonia|Nursing
+ARDS|Acute respiratory distress syndrome|Nursing
+GERD|Gastroesophageal reflux disease|Nursing
+GI|Gastrointestinal|Nursing
+GU|Genitourinary|Nursing
+GIB|Gastrointestinal bleed|Nursing
+UGIB|Upper gastrointestinal bleed|Nursing
+LGIB|Lower gastrointestinal bleed|Nursing
+SBO|Small bowel obstruction|Nursing
+BPH|Benign prostatic hyperplasia|Nursing
+CA|Cancer|Nursing
+OA|Osteoarthritis|Nursing
+RA|Rheumatoid arthritis|Nursing
+PUD|Peptic ulcer disease|Nursing
+IBD|Inflammatory bowel disease|Nursing
+MRSA|Methicillin-resistant Staphylococcus aureus|Nursing
+VRE|Vancomycin-resistant Enterococcus|Nursing
+C diff|Clostridioides difficile|Nursing
+CDI|Clostridioides difficile infection|Nursing
+CLABSI|Central line-associated bloodstream infection|Nursing
+CAUTI|Catheter-associated urinary tract infection|Nursing
+SSI|Surgical site infection|Nursing
+HAI|Hospital-acquired infection|Nursing
+PPE|Personal protective equipment|Nursing
+ESBL|Extended-spectrum beta-lactamase|Nursing
+CRE|Carbapenem-resistant Enterobacterales|Nursing
+SIRS|Systemic inflammatory response syndrome|Nursing
+qSOFA|Quick sequential organ failure assessment|Nursing
+SOFA|Sequential organ failure assessment|Nursing
+MEWS|Modified early warning score|Nursing
+NEWS|Early warning score|Nursing
+PEWS|Pediatric early warning score|Nursing
+RRT|Rapid response team|Nursing
+ICU|Intensive care unit|Nursing
+MICU|Medical intensive care unit|Nursing
+SICU|Surgical intensive care unit|Nursing
+CCU|Cardiac care unit|Nursing
+CICU|Cardiac intensive care unit|Nursing
+NICU|Neonatal intensive care unit|Nursing
+PICU|Pediatric intensive care unit|Nursing
+ED|Emergency department|Nursing
+ER|Emergency room|Nursing
+OR|Operating room|Nursing
+PACU|Post-anesthesia care unit|Nursing
+PCU|Progressive care unit|Nursing
+SDU|Step-down unit|Nursing
+L&D|Labor and delivery|Nursing
+OB|Obstetrics|Nursing
+GYN|Gynecology|Nursing
+PEDS|Pediatrics|Nursing
+SNF|Skilled nursing facility|Nursing
+LTC|Long-term care|Nursing
+LTACH|Long-term acute care hospital|Nursing
+IRF|Inpatient rehabilitation facility|Nursing
+ALF|Assisted living facility|Nursing
+OT|Occupational therapy|Nursing
+PT|Physical therapy|Nursing
+SLP|Speech-language pathologist|Nursing
+RT|Respiratory therapy|Nursing
+RN|Registered nurse|Nursing
+LPN|Licensed practical nurse|Nursing
+LVN|Licensed vocational nurse|Nursing
+CNA|Certified nursing assistant|Nursing
+NP|Nurse practitioner|Nursing
+APRN|Advanced practice registered nurse|Nursing
+CNS|Clinical nurse specialist|Nursing
+CRNA|Certified registered nurse anesthetist|Nursing
+CNM|Certified nurse midwife|Nursing
+PCT|Patient care technician|Nursing
+NA|Nursing assistant|Nursing
+PA|Physician assistant|Nursing
+MD|Doctor of medicine|Nursing
+DON|Director of nursing|Nursing
+BSN|Bachelor of science in nursing|Nursing
+MSN|Master of science in nursing|Nursing
+DNP|Doctor of nursing practice|Nursing
+ADN|Associate degree in nursing|Nursing
+SBAR|Situation, background, assessment, recommendation|Nursing
+ISBAR|Identify, situation, background, assessment, recommendation|Nursing
+SOAP|Subjective, objective, assessment, plan|Nursing
+SOAPIE|Subjective, objective, assessment, plan, intervention, evaluation|Nursing
+PIE|Problem, intervention, evaluation|Nursing
+DAR|Data, action, response|Nursing
+ADPIE|Assessment, diagnosis, planning, implementation, evaluation|Nursing
+MAR|Medication administration record|Nursing
+eMAR|Electronic medication administration record|Nursing
+BCMA|Bar-code medication administration|Nursing
+EHR|Electronic health record|Nursing
+EMR|Electronic medical record|Nursing
+CPOE|Computerized provider order entry|Nursing
+H&P|History and physical|Nursing
+D/C|Discharge or discontinue|Nursing
+DC|Discharge or discontinue|Nursing
+ADT|Admission, discharge, transfer|Nursing
+LOS|Length of stay|Nursing
+EDD|Estimated date of discharge|Nursing
+POD|Postoperative day|Nursing
+HD|Hospital day|Nursing
+PTA|Prior to admission|Nursing
+s/p|Status post|Nursing
+r/o|Rule out|Nursing
+w/u|Workup|Nursing
+f/u|Follow-up|Nursing
+w/|With|Nursing
+w/o|Without|Nursing
+c/o|Complains of|Nursing
+b/c|Because|Nursing
+BRP|Bathroom privileges|Nursing
+OOB|Out of bed|Nursing
+HOB|Head of bed|Nursing
+BR|Bed rest|Nursing
+BSC|Bedside commode|Nursing
+WC|Wheelchair|Nursing
+w/c|Wheelchair|Nursing
+FWW|Front-wheeled walker|Nursing
+ROM|Range of motion|Nursing
+AROM|Active range of motion|Nursing
+PROM|Passive range of motion|Nursing
+WB|Weight bearing|Nursing
+NWB|Non-weight bearing|Nursing
+PWB|Partial weight bearing|Nursing
+WBAT|Weight bearing as tolerated|Nursing
+FWB|Full weight bearing|Nursing
+TWB|Touch-down weight bearing|Nursing
+SCDs|Sequential compression devices|Nursing
+TED|Thromboembolic deterrent stockings|Nursing
+DVT ppx|Deep vein thrombosis prophylaxis|Nursing
+IS|Incentive spirometry|Nursing
+TCDB|Turn, cough and deep breathe|Nursing
+HOH|Hard of hearing|Nursing
+VA|Visual acuity|Nursing
+LUE|Left upper extremity|Nursing
+RUE|Right upper extremity|Nursing
+LLE|Left lower extremity|Nursing
+RLE|Right lower extremity|Nursing
+BUE|Bilateral upper extremities|Nursing
+BLE|Bilateral lower extremities|Nursing
+UE|Upper extremity|Nursing
+LE|Lower extremity|Nursing
+LLQ|Left lower quadrant|Nursing
+LUQ|Left upper quadrant|Nursing
+RLQ|Right lower quadrant|Nursing
+RUQ|Right upper quadrant|Nursing
+BS|Bowel sounds|Nursing
+BS|Blood sugar|Nursing
+BM|Bowel movement|Nursing
+LBM|Last bowel movement|Nursing
+NBM|No bowel movement|Nursing
+BG|Blood glucose|Nursing
+FSBG|Fingerstick blood glucose|Nursing
+POC|Point of care|Nursing
+POCT|Point-of-care testing|Nursing
+CBG|Capillary blood glucose|Nursing
+SSI|Sliding scale insulin|Nursing
+NPH|Intermediate-acting insulin|Nursing
+IDDM|Insulin-dependent diabetes mellitus|Nursing
+HbA1c|Glycated hemoglobin|Nursing
+A1c|Glycated hemoglobin|Nursing
+CBC|Complete blood count|Nursing
+BMP|Basic metabolic panel|Nursing
+CMP|Comprehensive metabolic panel|Nursing
+LFTs|Liver function tests|Nursing
+PT/INR|Prothrombin time and international normalized ratio|Nursing
+INR|International normalized ratio|Nursing
+aPTT|Activated partial thromboplastin time|Nursing
+PTT|Partial thromboplastin time|Nursing
+ABG|Arterial blood gas|Nursing
+VBG|Venous blood gas|Nursing
+UA|Urinalysis|Nursing
+UCx|Urine culture|Nursing
+BCx|Blood culture|Nursing
+C&S|Culture and sensitivity|Nursing
+WBC|White blood cell|Nursing
+RBC|Red blood cell|Nursing
+Hgb|Hemoglobin|Nursing
+Hct|Hematocrit|Nursing
+Plt|Platelets|Nursing
+BUN|Blood urea nitrogen|Nursing
+Cr|Creatinine|Nursing
+GFR|Glomerular filtration rate|Nursing
+eGFR|Estimated glomerular filtration rate|Nursing
+Na|Sodium|Nursing
+K|Potassium|Nursing
+Cl|Chloride|Nursing
+Ca|Calcium|Nursing
+Mg|Magnesium|Nursing
+Phos|Phosphorus|Nursing
+HCO3|Bicarbonate|Nursing
+Trop|Troponin|Nursing
+BNP|B-type natriuretic peptide|Nursing
+CK|Creatine kinase|Nursing
+LDH|Lactate dehydrogenase|Nursing
+ESR|Erythrocyte sedimentation rate|Nursing
+CRP|C-reactive protein|Nursing
+TSH|Thyroid-stimulating hormone|Nursing
+TIBC|Total iron-binding capacity|Nursing
+ANC|Absolute neutrophil count|Nursing
+CXR|Chest x-ray|Nursing
+CT|Computed tomography|Nursing
+MRI|Magnetic resonance imaging|Nursing
+US|Ultrasound|Nursing
+KUB|Kidneys, ureters and bladder x-ray|Nursing
+EEG|Electroencephalogram|Nursing
+EMG|Electromyography|Nursing
+ECHO|Echocardiogram|Nursing
+TTE|Transthoracic echocardiogram|Nursing
+TEE|Transesophageal echocardiogram|Nursing
+EF|Ejection fraction|Nursing
+LVEF|Left ventricular ejection fraction|Nursing
+EGD|Esophagogastroduodenoscopy|Nursing
+ERCP|Endoscopic retrograde cholangiopancreatography|Nursing
+LP|Lumbar puncture|Nursing
+I&D|Incision and drainage|Nursing
+CABG|Coronary artery bypass graft|Nursing
+PCI|Percutaneous coronary intervention|Nursing
+TKA|Total knee arthroplasty|Nursing
+THA|Total hip arthroplasty|Nursing
+TURP|Transurethral resection of the prostate|Nursing
+C-section|Cesarean section|Nursing
+CS|Cesarean section|Nursing
+D&C|Dilation and curettage|Nursing
+T&A|Tonsillectomy and adenoidectomy|Nursing
+ORIF|Open reduction internal fixation|Nursing
+TAH|Total abdominal hysterectomy|Nursing
+AAA|Abdominal aortic aneurysm|Nursing
+BKA|Below-knee amputation|Nursing
+AKA|Above-knee amputation|Nursing
+NSAID|Nonsteroidal anti-inflammatory drug|Nursing
+ACEI|Angiotensin-converting enzyme inhibitor|Nursing
+ARB|Angiotensin receptor blocker|Nursing
+PPI|Proton pump inhibitor|Nursing
+SSRI|Selective serotonin reuptake inhibitor|Nursing
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Nursing
+TCA|Tricyclic antidepressant|Nursing
+MAOI|Monoamine oxidase inhibitor|Nursing
+DOAC|Direct oral anticoagulant|Nursing
+LMWH|Low-molecular-weight heparin|Nursing
+UFH|Unfractionated heparin|Nursing
+ASA|Aspirin|Nursing
+APAP|Acetaminophen|Nursing
+MSO4|Morphine sulfate|Nursing
+PCA|Patient-controlled analgesia|Nursing
+ER|Extended release|Nursing
+XR|Extended release|Nursing
+SR|Sustained release|Nursing
+DR|Delayed release|Nursing
+EC|Enteric coated|Nursing
+IR|Immediate release|Nursing
+MDI|Metered-dose inhaler|Nursing
+DPI|Dry powder inhaler|Nursing
+SVN|Small-volume nebulizer|Nursing
+HHN|Hand-held nebulizer|Nursing
+gtt|Drop or drip|Nursing
+gtts|Drops|Nursing
+mcg|Microgram|Nursing
+mg|Milligram|Nursing
+g|Gram|Nursing
+kg|Kilogram|Nursing
+mL|Milliliter|Nursing
+cc|Cubic centimeter|Nursing
+L|Liter|Nursing
+tsp|Teaspoon|Nursing
+tbsp|Tablespoon|Nursing
+oz|Ounce|Nursing
+lb|Pound|Nursing
+mEq|Milliequivalent|Nursing
+IU|International unit|Nursing
+gtt/min|Drops per minute|Nursing
+mL/hr|Milliliters per hour|Nursing
+AC|Before meals|Nursing
+PC|After meals|Nursing
+ac&hs|Before meals and at bedtime|Nursing
+OD|Right eye|Nursing
+OS|Left eye|Nursing
+OU|Both eyes|Nursing
+AD|Right ear|Nursing
+AS|Left ear|Nursing
+AU|Both ears|Nursing
+ADE|Adverse drug event|Nursing
+ADR|Adverse drug reaction|Nursing
+MAE|Moves all extremities|Nursing
+CMS|Circulation, motion and sensation|Nursing
+CSM|Circulation, sensation and motion|Nursing
+PMS|Pulse, motor and sensation|Nursing
+CRT|Capillary refill time|Nursing
+NVI|Neurovascularly intact|Nursing
+ADLs|Activities of daily living|Nursing
+PIV|Peripheral IV|Nursing
+HV|Hemovac drain|Nursing
+NPWT|Negative pressure wound therapy|Nursing
+DSD|Dry sterile dressing|Nursing
+DTI|Deep tissue injury|Nursing
+HAPI|Hospital-acquired pressure injury|Nursing
+PI|Pressure injury|Nursing
+PU|Pressure ulcer|Nursing
+BMI|Body mass index|Nursing
+IBW|Ideal body weight|Nursing
+BSA|Body surface area|Nursing
+NKFA|No known food allergies|Nursing
+FOBT|Fecal occult blood test|Nursing
+FUO|Fever of unknown origin|Nursing
+LOA|Leave of absence|Nursing
+ETOH|Ethanol or alcohol|Nursing
+EtOH|Ethanol or alcohol|Nursing
+IVDU|Intravenous drug use|Nursing
+CIWA|Clinical institute withdrawal assessment for alcohol|Nursing
+COWS|Clinical opiate withdrawal scale|Nursing
+RASS|Richmond agitation-sedation scale|Nursing
+CAM|Confusion assessment method|Nursing
+CAM-ICU|Confusion assessment method for the ICU|Nursing
+MMSE|Mini-mental state examination|Nursing
+MoCA|Montreal cognitive assessment|Nursing
+SI|Suicidal ideation|Nursing
+HI|Homicidal ideation|Nursing
+AVH|Auditory and visual hallucinations|Nursing
+SA|Suicide attempt|Nursing
+SIB|Self-injurious behavior|Nursing
+1:1|One-to-one observation|Nursing
+NIHSS|Stroke severity scale|Nursing
+FAST|Face, arm, speech, time|Nursing
+BE-FAST|Balance, eyes, face, arm, speech, time|Nursing
+tPA|Tissue plasminogen activator|Nursing
+ICP|Intracranial pressure|Nursing
+CPP|Cerebral perfusion pressure|Nursing
+MAP|Mean arterial pressure|Nursing
+CVP|Central venous pressure|Nursing
+CO|Cardiac output|Nursing
+CI|Cardiac index|Nursing
+PAP|Pulmonary artery pressure|Nursing
+PCWP|Pulmonary capillary wedge pressure|Nursing
+SVR|Systemic vascular resistance|Nursing
+IABP|Intra-aortic balloon pump|Nursing
+ECMO|Extracorporeal membrane oxygenation|Nursing
+CRRT|Continuous renal replacement therapy|Nursing
+HD|Hemodialysis|Nursing
+PD|Peritoneal dialysis|Nursing
+AVF|Arteriovenous fistula|Nursing
+AVG|Arteriovenous graft|Nursing
+FiO2|Fraction of inspired oxygen|Nursing
+PEEP|Positive end-expiratory pressure|Nursing
+TV|Tidal volume|Nursing
+VT|Tidal volume|Nursing
+SIMV|Synchronized intermittent mandatory ventilation|Nursing
+AC|Assist control|Nursing
+PSV|Pressure support ventilation|Nursing
+SBT|Spontaneous breathing trial|Nursing
+SAT|Spontaneous awakening trial|Nursing
+VAE|Ventilator-associated event|Nursing
+TTP|Tender to palpation|Nursing
+NT|Non-tender|Nursing
+ND|Non-distended|Nursing
+NABS|Normoactive bowel sounds|Nursing
+BLE edema|Bilateral lower extremity edema|Nursing
+PPD|Packs per day|Nursing
+PPD|Purified protein derivative skin test|Nursing
+TB|Tuberculosis|Nursing
+HIV|Human immunodeficiency virus|Nursing
+AIDS|Acquired immunodeficiency syndrome|Nursing
+STI|Sexually transmitted infection|Nursing
+HBV|Hepatitis B virus|Nursing
+HCV|Hepatitis C virus|Nursing
+CMV|Cytomegalovirus|Nursing
+RSV|Respiratory syncytial virus|Nursing
+LMP|Last menstrual period|Nursing
+EDD|Estimated due date|Nursing
+G|Gravida, number of pregnancies|Nursing
+P|Para, number of births|Nursing
+GA|Gestational age|Nursing
+FHR|Fetal heart rate|Nursing
+FHT|Fetal heart tones|Nursing
+NST|Nonstress test|Nursing
+SROM|Spontaneous rupture of membranes|Nursing
+PROM|Premature rupture of membranes|Nursing
+PPROM|Preterm premature rupture of membranes|Nursing
+SVD|Spontaneous vaginal delivery|Nursing
+NSVD|Normal spontaneous vaginal delivery|Nursing
+VBAC|Vaginal birth after cesarean|Nursing
+PIH|Pregnancy-induced hypertension|Nursing
+PPH|Postpartum hemorrhage|Nursing
+IUGR|Intrauterine growth restriction|Nursing
+AGA|Appropriate for gestational age|Nursing
+SGA|Small for gestational age|Nursing
+LGA|Large for gestational age|Nursing
+BPD|Bronchopulmonary dysplasia|Nursing
+RDS|Respiratory distress syndrome|Nursing
+NEC|Necrotizing enterocolitis|Nursing
+ROP|Retinopathy of prematurity|Nursing
+PDA|Patent ductus arteriosus|Nursing
+HIE|Hypoxic-ischemic encephalopathy|Nursing
+TTN|Transient tachypnea of the newborn|Nursing
+EBL|Estimated blood loss|Nursing
+BBB|Bundle branch block|Nursing
+FTT|Failure to thrive|Nursing
+URTI|Upper respiratory tract infection|Nursing
+AOM|Acute otitis media|Nursing
+MDRO|Multidrug-resistant organism|Nursing
+IPC|Infection prevention and control|Nursing
+PRBC|Packed red blood cells|Nursing
+FFP|Fresh frozen plasma|Nursing
+MTP|Massive transfusion protocol|Nursing
+T&S|Type and screen|Nursing
+T&C|Type and crossmatch|Nursing
+TRALI|Transfusion-related acute lung injury|Nursing
+TACO|Transfusion-associated circulatory overload|Nursing
+EOL|End of life|Nursing
+LWBS|Left without being seen|Nursing
+PCP|Primary care provider|Nursing
+HHA|Home health aide|Nursing
+VNA|Visiting nurse association|Nursing
+DME|Durable medical equipment|Nursing
+CM|Case manager|Nursing
+SW|Social worker|Nursing
+TOC|Transition of care|Nursing
+QI|Quality improvement|Nursing
+RCA|Root cause analysis|Nursing
+PDSA|Plan, do, study, act|Nursing
+EBP|Evidence-based practice|Nursing
+CEU|Continuing education unit|Nursing

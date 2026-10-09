@@ -1,0 +1,712 @@
+ACP|Advance care planning|Palliative Care
+AD|Advance directive|Palliative Care
+POLST|Physician orders for life-sustaining treatment|Palliative Care
+MOLST|Medical orders for life-sustaining treatment|Palliative Care
+DNR|Do not resuscitate|Palliative Care
+DNI|Do not intubate|Palliative Care
+DNAR|Do not attempt resuscitation|Palliative Care
+CPR|Cardiopulmonary resuscitation|Palliative Care
+CMO|Comfort measures only|Palliative Care
+DPOA|Durable power of attorney|Palliative Care
+DPOA-HC|Durable power of attorney for health care|Palliative Care
+HCP|Health care proxy|Palliative Care
+HCPOA|Health care power of attorney|Palliative Care
+LST|Life-sustaining treatment|Palliative Care
+LSMT|Life-sustaining medical treatment|Palliative Care
+GOC|Goals of care|Palliative Care
+GOCs|Goals of care (conversation)|Palliative Care
+TLC|Tender loving care|Palliative Care
+WLST|Withdrawal of life-sustaining therapy|Palliative Care
+TWT|Time-limited trial|Palliative Care
+SDM|Shared decision-making|Palliative Care
+SI|Serious illness|Palliative Care
+PC|Palliative care|Palliative Care
+PCT|Palliative care team|Palliative Care
+IPC|Inpatient palliative care|Palliative Care
+SPC|Specialist palliative care|Palliative Care
+EOL|End of life|Palliative Care
+EOLC|End-of-life care|Palliative Care
+HPC|Hospice and palliative care|Palliative Care
+HPM|Hospice and palliative medicine|Palliative Care
+BSC|Best supportive care|Palliative Care
+CTX|Chemotherapy|Palliative Care
+GIP|General inpatient (hospice level of care)|Palliative Care
+RHC|Routine home care|Palliative Care
+CHC|Continuous home care|Palliative Care
+IRC|Inpatient respite care|Palliative Care
+LOC|Level of care|Palliative Care
+LOS|Length of stay|Palliative Care
+SNF|Skilled nursing facility|Palliative Care
+LTC|Long-term care|Palliative Care
+LTACH|Long-term acute care hospital|Palliative Care
+ALF|Assisted living facility|Palliative Care
+IDT|Interdisciplinary team|Palliative Care
+IDG|Interdisciplinary group|Palliative Care
+RN|Registered nurse|Palliative Care
+LVN|Licensed vocational nurse|Palliative Care
+NP|Nurse practitioner|Palliative Care
+PA|Physician assistant|Palliative Care
+SW|Social worker|Palliative Care
+MSW|Master of social work|Palliative Care
+CNA|Certified nursing assistant|Palliative Care
+HHA|Home health aide|Palliative Care
+LCSW|Licensed clinical social worker|Palliative Care
+PCP|Primary care physician|Palliative Care
+PRN|As needed|Palliative Care
+ATC|Around the clock|Palliative Care
+SL|Sublingual|Palliative Care
+PO|By mouth|Palliative Care
+IV|Intravenous|Palliative Care
+SQ|Subcutaneous|Palliative Care
+IM|Intramuscular|Palliative Care
+PR|Per rectum|Palliative Care
+PV|Per vagina|Palliative Care
+PEG|Percutaneous endoscopic gastrostomy|Palliative Care
+PEJ|Percutaneous endoscopic jejunostomy|Palliative Care
+NG|Nasogastric|Palliative Care
+NGT|Nasogastric tube|Palliative Care
+NJ|Nasojejunal|Palliative Care
+OG|Orogastric|Palliative Care
+GT|Gastrostomy tube|Palliative Care
+JT|Jejunostomy tube|Palliative Care
+TPN|Total parenteral nutrition|Palliative Care
+PN|Parenteral nutrition|Palliative Care
+EN|Enteral nutrition|Palliative Care
+ANH|Artificial nutrition and hydration|Palliative Care
+IVF|Intravenous fluids|Palliative Care
+PCA|Patient-controlled analgesia|Palliative Care
+PCEA|Patient-controlled epidural analgesia|Palliative Care
+CADD|Continuous ambulatory drug delivery (pump)|Palliative Care
+CSCI|Continuous subcutaneous infusion|Palliative Care
+CSI|Continuous subcutaneous infusion|Palliative Care
+CII|Continuous intravenous infusion|Palliative Care
+TD|Transdermal|Palliative Care
+IT|Intrathecal|Palliative Care
+ITP|Intrathecal pump|Palliative Care
+SCS|Spinal cord stimulator|Palliative Care
+TENS|Transcutaneous electrical nerve stimulation|Palliative Care
+MME|Morphine milligram equivalents|Palliative Care
+OME|Oral morphine equivalent|Palliative Care
+MEDD|Morphine equivalent daily dose|Palliative Care
+OMEDD|Oral morphine equivalent daily dose|Palliative Care
+ER|Extended release|Palliative Care
+LA|Long-acting|Palliative Care
+SA|Short-acting|Palliative Care
+IR|Immediate release|Palliative Care
+SR|Sustained release|Palliative Care
+BTP|Breakthrough pain|Palliative Care
+BTcP|Breakthrough cancer pain|Palliative Care
+OTFC|Oral transmucosal fentanyl citrate|Palliative Care
+OUD|Opioid use disorder|Palliative Care
+OIC|Opioid-induced constipation|Palliative Care
+OINV|Opioid-induced nausea and vomiting|Palliative Care
+OIH|Opioid-induced hyperalgesia|Palliative Care
+OIN|Opioid-induced neurotoxicity|Palliative Care
+OIRD|Opioid-induced respiratory depression|Palliative Care
+NOWS|Neonatal opioid withdrawal syndrome|Palliative Care
+UDS|Urine drug screen|Palliative Care
+UDT|Urine drug testing|Palliative Care
+PDMP|Prescription drug monitoring program|Palliative Care
+ORT|Opioid risk tool|Palliative Care
+COMM|Current opioid misuse measure|Palliative Care
+SOAPP|Screener and opioid assessment for patients with pain|Palliative Care
+CAGE|Cut down, annoyed, guilty, eye-opener (alcohol screening questionnaire)|Palliative Care
+CINV|Chemotherapy-induced nausea and vomiting|Palliative Care
+PONV|Postoperative nausea and vomiting|Palliative Care
+RINV|Radiation-induced nausea and vomiting|Palliative Care
+N/V|Nausea and vomiting|Palliative Care
+NV|Nausea and vomiting|Palliative Care
+SBO|Small bowel obstruction|Palliative Care
+MBO|Malignant bowel obstruction|Palliative Care
+GOO|Gastric outlet obstruction|Palliative Care
+GI|Gastrointestinal|Palliative Care
+BM|Bowel movement|Palliative Care
+LBM|Last bowel movement|Palliative Care
+NSAID|Nonsteroidal anti-inflammatory drug|Palliative Care
+APAP|Acetaminophen|Palliative Care
+ASA|Aspirin|Palliative Care
+TCA|Tricyclic antidepressant|Palliative Care
+SSRI|Selective serotonin reuptake inhibitor|Palliative Care
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Palliative Care
+MAOI|Monoamine oxidase inhibitor|Palliative Care
+NMDA|N-methyl-D-aspartate|Palliative Care
+CBD|Cannabidiol|Palliative Care
+THC|Tetrahydrocannabinol|Palliative Care
+BZD|Benzodiazepine|Palliative Care
+PPI|Proton pump inhibitor|Palliative Care
+H2RA|Histamine-2 receptor antagonist|Palliative Care
+5-HT3|Serotonin type 3 (receptor)|Palliative Care
+NK1|Neurokinin-1|Palliative Care
+D2|Dopamine type 2 (receptor)|Palliative Care
+CTZ|Chemoreceptor trigger zone|Palliative Care
+GABA|Gamma-aminobutyric acid|Palliative Care
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Palliative Care
+PD|Parkinson disease|Palliative Care
+VTE|Venous thromboembolism|Palliative Care
+DVT|Deep vein thrombosis|Palliative Care
+PE|Pulmonary embolism|Palliative Care
+LMWH|Low-molecular-weight heparin|Palliative Care
+DOAC|Direct oral anticoagulant|Palliative Care
+CVC|Central venous catheter|Palliative Care
+PICC|Peripherally inserted central catheter|Palliative Care
+SVC|Superior vena cava|Palliative Care
+SVCS|Superior vena cava syndrome|Palliative Care
+MSCC|Malignant spinal cord compression|Palliative Care
+MCC|Metastatic cord compression|Palliative Care
+ICP|Intracranial pressure|Palliative Care
+BM|Brain metastases|Palliative Care
+WBRT|Whole-brain radiation therapy|Palliative Care
+SRS|Stereotactic radiosurgery|Palliative Care
+SBRT|Stereotactic body radiation therapy|Palliative Care
+RT|Radiation therapy|Palliative Care
+XRT|External beam radiation therapy|Palliative Care
+EBRT|External beam radiation therapy|Palliative Care
+PRRT|Peptide receptor radionuclide therapy|Palliative Care
+HIPEC|Hyperthermic intraperitoneal chemotherapy|Palliative Care
+TACE|Transarterial chemoembolization|Palliative Care
+RFA|Radiofrequency ablation|Palliative Care
+PCN|Percutaneous nephrostomy|Palliative Care
+PTC|Percutaneous transhepatic cholangiography|Palliative Care
+PTBD|Percutaneous transhepatic biliary drainage|Palliative Care
+ERCP|Endoscopic retrograde cholangiopancreatography|Palliative Care
+TIPS|Transjugular intrahepatic portosystemic shunt|Palliative Care
+PleurX|Tunneled pleural catheter (device)|Palliative Care
+IPC|Indwelling pleural catheter|Palliative Care
+VATS|Video-assisted thoracoscopic surgery|Palliative Care
+CPN|Celiac plexus neurolysis|Palliative Care
+CPB|Celiac plexus block|Palliative Care
+SHB|Superior hypogastric plexus block|Palliative Care
+EBUS|Endobronchial ultrasound|Palliative Care
+Ca|Cancer|Palliative Care
+CA|Cancer|Palliative Care
+Mets|Metastases|Palliative Care
+CUP|Cancer of unknown primary|Palliative Care
+NSCLC|Non-small cell lung cancer|Palliative Care
+SCLC|Small cell lung cancer|Palliative Care
+HCC|Hepatocellular carcinoma|Palliative Care
+RCC|Renal cell carcinoma|Palliative Care
+CRC|Colorectal cancer|Palliative Care
+GBM|Glioblastoma multiforme|Palliative Care
+AML|Acute myeloid leukemia|Palliative Care
+ALL|Acute lymphoblastic leukemia|Palliative Care
+CLL|Chronic lymphocytic leukemia|Palliative Care
+CML|Chronic myeloid leukemia|Palliative Care
+MM|Multiple myeloma|Palliative Care
+MDS|Myelodysplastic syndrome|Palliative Care
+NHL|Non-Hodgkin lymphoma|Palliative Care
+DLBCL|Diffuse large B-cell lymphoma|Palliative Care
+PDAC|Pancreatic ductal adenocarcinoma|Palliative Care
+HNC|Head and neck cancer|Palliative Care
+SCC|Squamous cell carcinoma|Palliative Care
+BCC|Basal cell carcinoma|Palliative Care
+GIST|Gastrointestinal stromal tumor|Palliative Care
+NET|Neuroendocrine tumor|Palliative Care
+CNS|Central nervous system|Palliative Care
+TNM|Tumor, node, metastasis (staging)|Palliative Care
+PFS|Progression-free survival|Palliative Care
+OS|Overall survival|Palliative Care
+DFS|Disease-free survival|Palliative Care
+ORR|Overall response rate|Palliative Care
+CR|Complete response|Palliative Care
+PR|Partial response|Palliative Care
+SD|Stable disease|Palliative Care
+PD|Progressive disease|Palliative Care
+NED|No evidence of disease|Palliative Care
+NEAD|No evidence of active disease|Palliative Care
+AWD|Alive with disease|Palliative Care
+DOD|Died of disease|Palliative Care
+IO|Immunotherapy|Palliative Care
+ICI|Immune checkpoint inhibitor|Palliative Care
+irAE|Immune-related adverse event|Palliative Care
+CAR-T|Chimeric antigen receptor T-cell therapy|Palliative Care
+HSCT|Hematopoietic stem cell transplant|Palliative Care
+BMT|Bone marrow transplant|Palliative Care
+GVHD|Graft-versus-host disease|Palliative Care
+TLS|Tumor lysis syndrome|Palliative Care
+FN|Febrile neutropenia|Palliative Care
+ANC|Absolute neutrophil count|Palliative Care
+G-CSF|Granulocyte colony-stimulating factor|Palliative Care
+ESA|Erythropoiesis-stimulating agent|Palliative Care
+PRBC|Packed red blood cells|Palliative Care
+RBC|Red blood cell|Palliative Care
+FFP|Fresh frozen plasma|Palliative Care
+HCT|Hematocrit|Palliative Care
+Hgb|Hemoglobin|Palliative Care
+Plt|Platelets|Palliative Care
+CBC|Complete blood count|Palliative Care
+BMP|Basic metabolic panel|Palliative Care
+CMP|Comprehensive metabolic panel|Palliative Care
+LFTs|Liver function tests|Palliative Care
+INR|International normalized ratio|Palliative Care
+Cr|Creatinine|Palliative Care
+BUN|Blood urea nitrogen|Palliative Care
+eGFR|Estimated glomerular filtration rate|Palliative Care
+GFR|Glomerular filtration rate|Palliative Care
+CrCl|Creatinine clearance|Palliative Care
+CKD|Chronic kidney disease|Palliative Care
+AKI|Acute kidney injury|Palliative Care
+ESRD|End-stage renal disease|Palliative Care
+ESKD|End-stage kidney disease|Palliative Care
+HD|Hemodialysis|Palliative Care
+CRRT|Continuous renal replacement therapy|Palliative Care
+RRT|Renal replacement therapy|Palliative Care
+CKM|Conservative kidney management|Palliative Care
+HF|Heart failure|Palliative Care
+CHF|Congestive heart failure|Palliative Care
+HFrEF|Heart failure with reduced ejection fraction|Palliative Care
+HFpEF|Heart failure with preserved ejection fraction|Palliative Care
+EF|Ejection fraction|Palliative Care
+LVEF|Left ventricular ejection fraction|Palliative Care
+LVAD|Left ventricular assist device|Palliative Care
+VAD|Ventricular assist device|Palliative Care
+ICD|Implantable cardioverter-defibrillator|Palliative Care
+CRT|Cardiac resynchronization therapy|Palliative Care
+PPM|Permanent pacemaker|Palliative Care
+AF|Atrial fibrillation|Palliative Care
+Afib|Atrial fibrillation|Palliative Care
+CAD|Coronary artery disease|Palliative Care
+MI|Myocardial infarction|Palliative Care
+CVA|Cerebrovascular accident (stroke)|Palliative Care
+TIA|Transient ischemic attack|Palliative Care
+ICH|Intracerebral hemorrhage|Palliative Care
+SAH|Subarachnoid hemorrhage|Palliative Care
+TBI|Traumatic brain injury|Palliative Care
+PAD|Peripheral arterial disease|Palliative Care
+NYHA|New York Heart Association functional class|Palliative Care
+COPD|Chronic obstructive pulmonary disease|Palliative Care
+ILD|Interstitial lung disease|Palliative Care
+IPF|Idiopathic pulmonary fibrosis|Palliative Care
+PH|Pulmonary hypertension|Palliative Care
+PAH|Pulmonary arterial hypertension|Palliative Care
+ARDS|Acute respiratory distress syndrome|Palliative Care
+CF|Cystic fibrosis|Palliative Care
+OSA|Obstructive sleep apnea|Palliative Care
+SOB|Shortness of breath|Palliative Care
+DOE|Dyspnea on exertion|Palliative Care
+SOBOE|Shortness of breath on exertion|Palliative Care
+PND|Paroxysmal nocturnal dyspnea|Palliative Care
+RR|Respiratory rate|Palliative Care
+SpO2|Peripheral oxygen saturation|Palliative Care
+O2|Oxygen|Palliative Care
+NC|Nasal cannula|Palliative Care
+NRB|Non-rebreather mask|Palliative Care
+HFNC|High-flow nasal cannula|Palliative Care
+NIV|Noninvasive ventilation|Palliative Care
+NIPPV|Noninvasive positive pressure ventilation|Palliative Care
+BiPAP|Bilevel positive airway pressure|Palliative Care
+CPAP|Continuous positive airway pressure|Palliative Care
+MV|Mechanical ventilation|Palliative Care
+IMV|Invasive mechanical ventilation|Palliative Care
+ETT|Endotracheal tube|Palliative Care
+ECMO|Extracorporeal membrane oxygenation|Palliative Care
+IABP|Intra-aortic balloon pump|Palliative Care
+ICU|Intensive care unit|Palliative Care
+MICU|Medical intensive care unit|Palliative Care
+SICU|Surgical intensive care unit|Palliative Care
+CCU|Cardiac care unit|Palliative Care
+NICU|Neonatal intensive care unit|Palliative Care
+PICU|Pediatric intensive care unit|Palliative Care
+ED|Emergency department|Palliative Care
+ER|Emergency room|Palliative Care
+OR|Operating room|Palliative Care
+ROSC|Return of spontaneous circulation|Palliative Care
+IHCA|In-hospital cardiac arrest|Palliative Care
+OHCA|Out-of-hospital cardiac arrest|Palliative Care
+ACLS|Advanced cardiac life support|Palliative Care
+BLS|Basic life support|Palliative Care
+AED|Automated external defibrillator|Palliative Care
+PEA|Pulseless electrical activity|Palliative Care
+VF|Ventricular fibrillation|Palliative Care
+VT|Ventricular tachycardia|Palliative Care
+RSI|Rapid sequence intubation|Palliative Care
+PEEP|Positive end-expiratory pressure|Palliative Care
+TV|Tidal volume|Palliative Care
+FiO2|Fraction of inspired oxygen|Palliative Care
+ABG|Arterial blood gas|Palliative Care
+VBG|Venous blood gas|Palliative Care
+ALS|Amyotrophic lateral sclerosis|Palliative Care
+MND|Motor neuron disease|Palliative Care
+MS|Multiple sclerosis|Palliative Care
+PSP|Progressive supranuclear palsy|Palliative Care
+MSA|Multiple system atrophy|Palliative Care
+LBD|Lewy body dementia|Palliative Care
+DLB|Dementia with Lewy bodies|Palliative Care
+FTD|Frontotemporal dementia|Palliative Care
+VaD|Vascular dementia|Palliative Care
+AD|Alzheimer disease|Palliative Care
+PDD|Parkinson disease dementia|Palliative Care
+NPH|Normal pressure hydrocephalus|Palliative Care
+HD|Huntington disease|Palliative Care
+SMA|Spinal muscular atrophy|Palliative Care
+DMD|Duchenne muscular dystrophy|Palliative Care
+CP|Cerebral palsy|Palliative Care
+PVS|Persistent vegetative state|Palliative Care
+VS|Vegetative state|Palliative Care
+UWS|Unresponsive wakefulness syndrome|Palliative Care
+MCS|Minimally conscious state|Palliative Care
+DOC|Disorders of consciousness|Palliative Care
+LIS|Locked-in syndrome|Palliative Care
+DNC|Death by neurologic criteria|Palliative Care
+DCD|Donation after circulatory death|Palliative Care
+DBD|Donation after brain death|Palliative Care
+OPO|Organ procurement organization|Palliative Care
+GCS|Glasgow Coma Scale|Palliative Care
+AVPU|Alert, voice, pain, unresponsive (consciousness scale)|Palliative Care
+LOC|Loss of consciousness|Palliative Care
+AMS|Altered mental status|Palliative Care
+MS|Mental status|Palliative Care
+A&O|Alert and oriented|Palliative Care
+AOx3|Alert and oriented to person, place and time|Palliative Care
+AOx4|Alert and oriented to person, place, time and situation|Palliative Care
+CAM|Confusion assessment method|Palliative Care
+CAM-ICU|Confusion assessment method for the intensive care unit|Palliative Care
+RASS|Richmond agitation-sedation scale|Palliative Care
+RDOS|Respiratory distress observation scale|Palliative Care
+MMSE|Mini-mental state examination|Palliative Care
+MoCA|Montreal cognitive assessment|Palliative Care
+SLUMS|Saint Louis University mental status exam|Palliative Care
+BIMS|Brief interview for mental status|Palliative Care
+FAST|Functional assessment staging tool|Palliative Care
+CDR|Clinical dementia rating|Palliative Care
+ADL|Activities of daily living|Palliative Care
+ADLs|Activities of daily living|Palliative Care
+IADL|Instrumental activities of daily living|Palliative Care
+IADLs|Instrumental activities of daily living|Palliative Care
+BADL|Basic activities of daily living|Palliative Care
+FTT|Failure to thrive|Palliative Care
+PPS|Palliative performance scale|Palliative Care
+PPI|Palliative prognostic index|Palliative Care
+PaP|Palliative prognostic score|Palliative Care
+ESAS|Edmonton symptom assessment system|Palliative Care
+ESAS-r|Edmonton symptom assessment system, revised|Palliative Care
+IPOS|Integrated palliative care outcome scale|Palliative Care
+POS|Palliative care outcome scale|Palliative Care
+POS-S|Palliative care outcome scale, symptoms|Palliative Care
+MSAS|Memorial symptom assessment scale|Palliative Care
+NRS|Numeric rating scale|Palliative Care
+VAS|Visual analog scale|Palliative Care
+VRS|Verbal rating scale|Palliative Care
+FPS-R|Faces pain scale, revised|Palliative Care
+BPI|Brief pain inventory|Palliative Care
+PAINAD|Pain assessment in advanced dementia|Palliative Care
+PACSLAC|Pain assessment checklist for seniors with limited ability to communicate|Palliative Care
+CPOT|Critical-care pain observation tool|Palliative Care
+BPS|Behavioral pain scale|Palliative Care
+FLACC|Face, legs, activity, cry, consolability (pain scale)|Palliative Care
+NIPS|Neonatal infant pain scale|Palliative Care
+PIPP|Premature infant pain profile|Palliative Care
+NCCPC|Non-communicating children's pain checklist|Palliative Care
+DN4|Douleur neuropathique 4 questions (neuropathic pain screening)|Palliative Care
+LANSS|Leeds assessment of neuropathic symptoms and signs|Palliative Care
+PHQ-2|Patient health questionnaire, 2 items|Palliative Care
+PHQ-9|Patient health questionnaire, 9 items|Palliative Care
+GDS|Geriatric depression scale|Palliative Care
+HADS|Hospital anxiety and depression scale|Palliative Care
+GAD-7|Generalized anxiety disorder 7-item scale|Palliative Care
+EPDS|Edinburgh postnatal depression scale|Palliative Care
+MDD|Major depressive disorder|Palliative Care
+GAD|Generalized anxiety disorder|Palliative Care
+PTSD|Post-traumatic stress disorder|Palliative Care
+PGD|Prolonged grief disorder|Palliative Care
+SI|Suicidal ideation|Palliative Care
+HI|Homicidal ideation|Palliative Care
+SI/HI|Suicidal ideation or homicidal ideation|Palliative Care
+PAS|Physician-assisted suicide|Palliative Care
+PAD|Physician-assisted death|Palliative Care
+MAID|Medical aid in dying|Palliative Care
+MAiD|Medical assistance in dying|Palliative Care
+VAD|Voluntary assisted dying|Palliative Care
+VSED|Voluntarily stopping eating and drinking|Palliative Care
+VSE|Voluntary stopping of eating|Palliative Care
+PSD|Palliative sedation therapy|Palliative Care
+PSD|Palliative sedation to unconsciousness|Palliative Care
+CDS|Continuous deep sedation|Palliative Care
+PST|Palliative sedation therapy|Palliative Care
+DDE|Doctrine of double effect|Palliative Care
+ZBS|Zarit burden scale|Palliative Care
+ZBI|Zarit burden interview|Palliative Care
+QOL|Quality of life|Palliative Care
+QoL|Quality of life|Palliative Care
+HRQoL|Health-related quality of life|Palliative Care
+QALY|Quality-adjusted life year|Palliative Care
+FACIT|Functional assessment of chronic illness therapy|Palliative Care
+FACIT-Pal|Functional assessment of chronic illness therapy, palliative care|Palliative Care
+FACT-G|Functional assessment of cancer therapy, general|Palliative Care
+FACT-Sp|Functional assessment of chronic illness therapy, spiritual well-being|Palliative Care
+EORTC-QLQ-C30|Quality of life questionnaire for cancer patients, 30 items|Palliative Care
+EQ-5D|Five-dimension quality of life measure|Palliative Care
+SF-36|36-item short form health survey|Palliative Care
+SF-12|12-item short form health survey|Palliative Care
+QUAL-E|Quality of communication, end of life|Palliative Care
+FICA|Faith, importance, community, address in care (spiritual history tool)|Palliative Care
+CC|Chaplain care, chief complaint|Palliative Care
+CC|Chief complaint|Palliative Care
+HPI|History of present illness|Palliative Care
+PMH|Past medical history|Palliative Care
+PSH|Past surgical history|Palliative Care
+FH|Family history|Palliative Care
+SH|Social history|Palliative Care
+ROS|Review of systems|Palliative Care
+PE|Physical exam|Palliative Care
+A&P|Assessment and plan|Palliative Care
+S/p|Status post|Palliative Care
+s/p|Status post|Palliative Care
+c/w|Consistent with|Palliative Care
+w/u|Workup|Palliative Care
+f/u|Follow-up|Palliative Care
+d/c|Discharge or discontinue|Palliative Care
+D/C|Discharge or discontinue|Palliative Care
+dx|Diagnosis|Palliative Care
+Dx|Diagnosis|Palliative Care
+tx|Treatment|Palliative Care
+Tx|Treatment|Palliative Care
+Rx|Prescription or treatment|Palliative Care
+Hx|History|Palliative Care
+Sx|Symptoms|Palliative Care
+Fx|Fracture|Palliative Care
+NPO|Nothing by mouth|Palliative Care
+BID|Twice daily|Palliative Care
+TID|Three times daily|Palliative Care
+QID|Four times daily|Palliative Care
+QD|Once daily|Palliative Care
+QHS|Every night at bedtime|Palliative Care
+HS|At bedtime|Palliative Care
+QAM|Every morning|Palliative Care
+Q4H|Every 4 hours|Palliative Care
+Q6H|Every 6 hours|Palliative Care
+Q8H|Every 8 hours|Palliative Care
+Q12H|Every 12 hours|Palliative Care
+QOD|Every other day|Palliative Care
+AC|Before meals|Palliative Care
+PC|After meals|Palliative Care
+TTP|Tenderness to palpation|Palliative Care
+WNL|Within normal limits|Palliative Care
+NAD|No acute distress|Palliative Care
+HEENT|Head, eyes, ears, nose, throat|Palliative Care
+CTAB|Clear to auscultation bilaterally|Palliative Care
+RRR|Regular rate and rhythm|Palliative Care
+BS|Bowel sounds|Palliative Care
+BS|Breath sounds|Palliative Care
+ND|Non-distended|Palliative Care
+NT|Non-tender|Palliative Care
+NABS|Normal active bowel sounds|Palliative Care
+LE|Lower extremity|Palliative Care
+UE|Upper extremity|Palliative Care
+BLE|Bilateral lower extremities|Palliative Care
+BUE|Bilateral upper extremities|Palliative Care
+LLE|Left lower extremity|Palliative Care
+RLE|Right lower extremity|Palliative Care
+ROM|Range of motion|Palliative Care
+LAD|Lymphadenopathy|Palliative Care
+JVD|Jugular venous distension|Palliative Care
+JVP|Jugular venous pressure|Palliative Care
+CVA|Costovertebral angle|Palliative Care
+CVA|Cerebrovascular accident|Palliative Care
+PEARL|Pupils equal and reactive to light|Palliative Care
+PERRLA|Pupils equal, round, reactive to light and accommodation|Palliative Care
+EOMI|Extraocular movements intact|Palliative Care
+TM|Tympanic membrane|Palliative Care
+OP|Oropharynx|Palliative Care
+BP|Blood pressure|Palliative Care
+HR|Heart rate|Palliative Care
+Wt|Weight|Palliative Care
+BMI|Body mass index|Palliative Care
+IBW|Ideal body weight|Palliative Care
+MUST|Malnutrition universal screening tool|Palliative Care
+MNA|Mini nutritional assessment|Palliative Care
+SGA|Subjective global assessment|Palliative Care
+PG-SGA|Patient-generated subjective global assessment|Palliative Care
+GLIM|Global leadership initiative on malnutrition (criteria)|Palliative Care
+CACS|Cancer anorexia-cachexia syndrome|Palliative Care
+CRF|Cancer-related fatigue|Palliative Care
+CIPN|Chemotherapy-induced peripheral neuropathy|Palliative Care
+PPE|Palmar-plantar erythrodysesthesia|Palliative Care
+PPE|Personal protective equipment|Palliative Care
+HFS|Hand-foot syndrome|Palliative Care
+ONJ|Osteonecrosis of the jaw|Palliative Care
+MRONJ|Medication-related osteonecrosis of the jaw|Palliative Care
+RANK-L|Receptor activator of nuclear factor kappa-B ligand|Palliative Care
+SRE|Skeletal-related event|Palliative Care
+HCM|Hypercalcemia of malignancy|Palliative Care
+PTH|Parathyroid hormone|Palliative Care
+PTHrP|Parathyroid hormone-related protein|Palliative Care
+NS|Normal saline|Palliative Care
+D5W|Dextrose 5% in water|Palliative Care
+LR|Lactated Ringer solution|Palliative Care
+KVO|Keep vein open|Palliative Care
+TKO|To keep open|Palliative Care
+MIVF|Maintenance intravenous fluids|Palliative Care
+BSA|Body surface area|Palliative Care
+CT|Computed tomography|Palliative Care
+MRI|Magnetic resonance imaging|Palliative Care
+PET|Positron emission tomography|Palliative Care
+CXR|Chest x-ray|Palliative Care
+KUB|Kidneys, ureters, bladder (abdominal x-ray)|Palliative Care
+US|Ultrasound|Palliative Care
+EKG|Electrocardiogram|Palliative Care
+ECG|Electrocardiogram|Palliative Care
+EEG|Electroencephalogram|Palliative Care
+EMG|Electromyography|Palliative Care
+NCS|Nerve conduction study|Palliative Care
+LP|Lumbar puncture|Palliative Care
+CSF|Cerebrospinal fluid|Palliative Care
+EGD|Esophagogastroduodenoscopy|Palliative Care
+PUD|Peptic ulcer disease|Palliative Care
+GERD|Gastroesophageal reflux disease|Palliative Care
+GIB|Gastrointestinal bleed|Palliative Care
+UGIB|Upper gastrointestinal bleed|Palliative Care
+LGIB|Lower gastrointestinal bleed|Palliative Care
+TTE|Transthoracic echocardiogram|Palliative Care
+UTI|Urinary tract infection|Palliative Care
+CAUTI|Catheter-associated urinary tract infection|Palliative Care
+CLABSI|Central line-associated bloodstream infection|Palliative Care
+HAP|Hospital-acquired pneumonia|Palliative Care
+CAP|Community-acquired pneumonia|Palliative Care
+VAP|Ventilator-associated pneumonia|Palliative Care
+C diff|Clostridioides difficile|Palliative Care
+MRSA|Methicillin-resistant Staphylococcus aureus|Palliative Care
+VRE|Vancomycin-resistant enterococcus|Palliative Care
+HIV|Human immunodeficiency virus|Palliative Care
+AIDS|Acquired immunodeficiency syndrome|Palliative Care
+PCP|Pneumocystis pneumonia|Palliative Care
+CMV|Cytomegalovirus|Palliative Care
+TB|Tuberculosis|Palliative Care
+HBV|Hepatitis B virus|Palliative Care
+HCV|Hepatitis C virus|Palliative Care
+ART|Antiretroviral therapy|Palliative Care
+ABX|Antibiotics|Palliative Care
+IVIG|Intravenous immunoglobulin|Palliative Care
+SCT|Stem cell transplant|Palliative Care
+ESLD|End-stage liver disease|Palliative Care
+ESOD|End-stage organ disease|Palliative Care
+MELD|Model for end-stage liver disease|Palliative Care
+HE|Hepatic encephalopathy|Palliative Care
+HRS|Hepatorenal syndrome|Palliative Care
+SBP|Spontaneous bacterial peritonitis|Palliative Care
+SBP|Systolic blood pressure|Palliative Care
+PVT|Portal vein thrombosis|Palliative Care
+EV|Esophageal varices|Palliative Care
+LVP|Large-volume paracentesis|Palliative Care
+OLT|Orthotopic liver transplant|Palliative Care
+NAFLD|Non-alcoholic fatty liver disease|Palliative Care
+ETOH|Ethyl alcohol|Palliative Care
+AUD|Alcohol use disorder|Palliative Care
+CIWA|Clinical institute withdrawal assessment (alcohol)|Palliative Care
+COWS|Clinical opiate withdrawal scale|Palliative Care
+SUD|Substance use disorder|Palliative Care
+MAT|Medication-assisted treatment|Palliative Care
+MOUD|Medications for opioid use disorder|Palliative Care
+NAS|Neonatal abstinence syndrome|Palliative Care
+IDC|Indwelling urinary catheter|Palliative Care
+SPC|Suprapubic catheter|Palliative Care
+UOP|Urine output|Palliative Care
+I&O|Intake and output|Palliative Care
+I/O|Intake and output|Palliative Care
+BRP|Bathroom privileges|Palliative Care
+OOB|Out of bed|Palliative Care
+HOB|Head of bed|Palliative Care
+WC|Wheelchair|Palliative Care
+DME|Durable medical equipment|Palliative Care
+PT|Physical therapy|Palliative Care
+OT|Occupational therapy|Palliative Care
+ST|Speech therapy|Palliative Care
+SLP|Speech-language pathologist|Palliative Care
+RT|Respiratory therapist|Palliative Care
+MT|Music therapy|Palliative Care
+AT|Art therapy|Palliative Care
+CBT|Cognitive behavioral therapy|Palliative Care
+ACT|Acceptance and commitment therapy|Palliative Care
+DT|Dignity therapy|Palliative Care
+MBSR|Mindfulness-based stress reduction|Palliative Care
+CALM|Managing cancer and living meaningfully (therapy)|Palliative Care
+MCP|Meaning-centered psychotherapy|Palliative Care
+TOD|Time of death|Palliative Care
+DOD|Date of death|Palliative Care
+DOA|Dead on arrival|Palliative Care
+COD|Cause of death|Palliative Care
+DC|Death certificate|Palliative Care
+DC|Discharge|Palliative Care
+ME|Medical examiner|Palliative Care
+NOK|Next of kin|Palliative Care
+LAR|Legally authorized representative|Palliative Care
+POA|Power of attorney|Palliative Care
+PoA|Power of attorney|Palliative Care
+HCD|Health care directive|Palliative Care
+LW|Living will|Palliative Care
+LTC-I|Long-term care insurance|Palliative Care
+MCR|Medicare|Palliative Care
+MCD|Medicaid|Palliative Care
+MHB|Medicare hospice benefit|Palliative Care
+CMS|Centers for Medicare and Medicaid Services|Palliative Care
+NHPCO|National hospice and palliative care organization|Palliative Care
+POC|Plan of care|Palliative Care
+CTI|Certification of terminal illness|Palliative Care
+FTF|Face-to-face (encounter)|Palliative Care
+NOE|Notice of election|Palliative Care
+NOTR|Notice of termination or revocation|Palliative Care
+CC|Comfort care|Palliative Care
+BPSD|Behavioral and psychological symptoms of dementia|Palliative Care
+NPI|Neuropsychiatric inventory|Palliative Care
+CMAI|Cohen-Mansfield agitation inventory|Palliative Care
+HMO|Health maintenance organization|Palliative Care
+PPO|Preferred provider organization|Palliative Care
+PACE|Program of all-inclusive care for the elderly|Palliative Care
+SNP|Special needs plan|Palliative Care
+MA|Medicare Advantage|Palliative Care
+CRPS|Complex regional pain syndrome|Palliative Care
+PHN|Postherpetic neuralgia|Palliative Care
+DPN|Diabetic peripheral neuropathy|Palliative Care
+TN|Trigeminal neuralgia|Palliative Care
+NP|Neuropathic pain|Palliative Care
+CWP|Chronic widespread pain|Palliative Care
+CNCP|Chronic non-cancer pain|Palliative Care
+CNMP|Chronic non-malignant pain|Palliative Care
+CLBP|Chronic low back pain|Palliative Care
+LBP|Low back pain|Palliative Care
+MSK|Musculoskeletal|Palliative Care
+MPS|Myofascial pain syndrome|Palliative Care
+PNS|Peripheral nerve stimulator|Palliative Care
+DRG|Dorsal root ganglion|Palliative Care
+ESI|Epidural steroid injection|Palliative Care
+RF|Radiofrequency|Palliative Care
+RF|Renal failure|Palliative Care
+PRF|Pulsed radiofrequency|Palliative Care
+LA|Local anesthetic|Palliative Care
+TPI|Trigger point injection|Palliative Care
+SSE|Soap suds enema|Palliative Care
+FE|Fleet enema|Palliative Care
+MNTX|Methylnaltrexone|Palliative Care
+PAMORA|Peripherally acting mu-opioid receptor antagonist|Palliative Care
+OTC|Over the counter|Palliative Care
+CYP|Cytochrome P450|Palliative Care
+CYP3A4|Cytochrome P450 3A4|Palliative Care
+CYP2D6|Cytochrome P450 2D6|Palliative Care
+QTc|Corrected QT interval|Palliative Care
+QT|QT interval|Palliative Care
+NMS|Neuroleptic malignant syndrome|Palliative Care
+EPS|Extrapyramidal symptoms|Palliative Care
+TD|Tardive dyskinesia|Palliative Care
+SS|Serotonin syndrome|Palliative Care
+DI|Diabetes insipidus|Palliative Care
+DM|Diabetes mellitus|Palliative Care
+T2DM|Type 2 diabetes mellitus|Palliative Care
+T1DM|Type 1 diabetes mellitus|Palliative Care
+HTN|Hypertension|Palliative Care
+HLD|Hyperlipidemia|Palliative Care
+HbA1c|Hemoglobin A1c|Palliative Care
+BG|Blood glucose|Palliative Care
+FSBG|Fingerstick blood glucose|Palliative Care
+SSI|Sliding-scale insulin|Palliative Care
+DKA|Diabetic ketoacidosis|Palliative Care
+HHS|Hyperosmolar hyperglycemic state|Palliative Care
+PNP|Peripheral neuropathy|Palliative Care
+ADR|Adverse drug reaction|Palliative Care
+ADE|Adverse drug event|Palliative Care
+NKDA|No known drug allergies|Palliative Care
+NKA|No known allergies|Palliative Care
+MAR|Medication administration record|Palliative Care
+MRP|Medication-related problem|Palliative Care
+PIM|Potentially inappropriate medication|Palliative Care
+RPA|Recursive partitioning analysis|Palliative Care
+PD|Peritoneal dialysis|Palliative Care
+PEG|Polyethylene glycol (laxative)|Palliative Care

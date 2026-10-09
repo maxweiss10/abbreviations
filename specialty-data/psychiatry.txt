@@ -1,0 +1,696 @@
+SSRI|Selective serotonin reuptake inhibitor|Psychiatry
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Psychiatry
+TCA|Tricyclic antidepressant|Psychiatry
+MAOI|Monoamine oxidase inhibitor|Psychiatry
+NDRI|Norepinephrine-dopamine reuptake inhibitor|Psychiatry
+SARI|Serotonin antagonist and reuptake inhibitor|Psychiatry
+NaSSA|Noradrenergic and specific serotonergic antidepressant|Psychiatry
+FGA|First-generation antipsychotic|Psychiatry
+SGA|Second-generation antipsychotic|Psychiatry
+TGA|Third-generation antipsychotic|Psychiatry
+LAI|Long-acting injectable antipsychotic|Psychiatry
+LAIA|Long-acting injectable antipsychotic|Psychiatry
+AED|Antiepileptic drug|Psychiatry
+BZD|Benzodiazepine|Psychiatry
+BZ|Benzodiazepine|Psychiatry
+BDZ|Benzodiazepine|Psychiatry
+MDD|Major depressive disorder|Psychiatry
+MDE|Major depressive episode|Psychiatry
+TRD|Treatment-resistant depression|Psychiatry
+PDD|Persistent depressive disorder|Psychiatry
+PMDD|Premenstrual dysphoric disorder|Psychiatry
+PPD|Postpartum depression|Psychiatry
+PPD|Paranoid personality disorder|Psychiatry
+SAD|Seasonal affective disorder|Psychiatry
+SAD|Social anxiety disorder|Psychiatry
+SAD|Separation anxiety disorder|Psychiatry
+DMDD|Disruptive mood dysregulation disorder|Psychiatry
+GAD|Generalized anxiety disorder|Psychiatry
+PD|Panic disorder|Psychiatry
+PD|Personality disorder|Psychiatry
+PTSD|Posttraumatic stress disorder|Psychiatry
+cPTSD|Complex posttraumatic stress disorder|Psychiatry
+ASD|Acute stress disorder|Psychiatry
+ASD|Autism spectrum disorder|Psychiatry
+OCD|Obsessive-compulsive disorder|Psychiatry
+OCPD|Obsessive-compulsive personality disorder|Psychiatry
+BDD|Body dysmorphic disorder|Psychiatry
+BPD|Borderline personality disorder|Psychiatry
+BPAD|Bipolar affective disorder|Psychiatry
+BAD|Bipolar affective disorder|Psychiatry
+BP1|Bipolar I disorder|Psychiatry
+BP2|Bipolar II disorder|Psychiatry
+BD|Bipolar disorder|Psychiatry
+BD-I|Bipolar I disorder|Psychiatry
+BD-II|Bipolar II disorder|Psychiatry
+NOS|Not otherwise specified|Psychiatry
+SZ|Schizophrenia|Psychiatry
+SCZ|Schizophrenia|Psychiatry
+SZA|Schizoaffective disorder|Psychiatry
+SPD|Schizoid personality disorder|Psychiatry
+STPD|Schizotypal personality disorder|Psychiatry
+ASPD|Antisocial personality disorder|Psychiatry
+NPD|Narcissistic personality disorder|Psychiatry
+HPD|Histrionic personality disorder|Psychiatry
+AvPD|Avoidant personality disorder|Psychiatry
+DPD|Dependent personality disorder|Psychiatry
+DID|Dissociative identity disorder|Psychiatry
+DPDR|Depersonalization-derealization disorder|Psychiatry
+ADHD|Attention-deficit/hyperactivity disorder|Psychiatry
+ODD|Oppositional defiant disorder|Psychiatry
+CD|Conduct disorder|Psychiatry
+IED|Intermittent explosive disorder|Psychiatry
+ID|Intellectual disability|Psychiatry
+IDD|Intellectual and developmental disability|Psychiatry
+DD|Developmental disability|Psychiatry
+GDD|Global developmental delay|Psychiatry
+AN|Anorexia nervosa|Psychiatry
+BN|Bulimia nervosa|Psychiatry
+BED|Binge-eating disorder|Psychiatry
+ARFID|Avoidant/restrictive food intake disorder|Psychiatry
+NES|Night eating syndrome|Psychiatry
+EDNOS|Eating disorder not otherwise specified|Psychiatry
+OSFED|Other specified feeding or eating disorder|Psychiatry
+SUD|Substance use disorder|Psychiatry
+AUD|Alcohol use disorder|Psychiatry
+OUD|Opioid use disorder|Psychiatry
+CUD|Cannabis use disorder|Psychiatry
+CUD|Cocaine use disorder|Psychiatry
+TUD|Tobacco use disorder|Psychiatry
+StUD|Stimulant use disorder|Psychiatry
+GD|Gambling disorder|Psychiatry
+IGD|Internet gaming disorder|Psychiatry
+CHS|Cannabis hyperemesis syndrome|Psychiatry
+AWS|Alcohol withdrawal syndrome|Psychiatry
+DT|Delirium tremens|Psychiatry
+DTs|Delirium tremens|Psychiatry
+WKS|Wernicke-Korsakoff syndrome|Psychiatry
+WE|Wernicke encephalopathy|Psychiatry
+CIWA|Clinical institute withdrawal assessment|Psychiatry
+CIWA-Ar|Clinical institute withdrawal assessment for alcohol, revised|Psychiatry
+COWS|Clinical opiate withdrawal scale|Psychiatry
+SOWS|Subjective opiate withdrawal scale|Psychiatry
+MAT|Medication-assisted treatment|Psychiatry
+MOUD|Medications for opioid use disorder|Psychiatry
+MAUD|Medications for alcohol use disorder|Psychiatry
+OTP|Opioid treatment program|Psychiatry
+OBOT|Office-based opioid treatment|Psychiatry
+IOP|Intensive outpatient program|Psychiatry
+PHP|Partial hospitalization program|Psychiatry
+RTC|Residential treatment center|Psychiatry
+CBT|Cognitive behavioral therapy|Psychiatry
+CBT-I|Cognitive behavioral therapy for insomnia|Psychiatry
+CBT-E|Enhanced cognitive behavioral therapy for eating disorders|Psychiatry
+CBTp|Cognitive behavioral therapy for psychosis|Psychiatry
+DBT|Dialectical behavior therapy|Psychiatry
+ACT|Acceptance and commitment therapy|Psychiatry
+ACT|Assertive community treatment|Psychiatry
+IPT|Interpersonal therapy|Psychiatry
+IPSRT|Interpersonal and social rhythm therapy|Psychiatry
+MBCT|Mindfulness-based cognitive therapy|Psychiatry
+MBSR|Mindfulness-based stress reduction|Psychiatry
+ERP|Exposure and response prevention|Psychiatry
+PE|Prolonged exposure therapy|Psychiatry
+CPT|Cognitive processing therapy|Psychiatry
+EMDR|Eye movement desensitization and reprocessing|Psychiatry
+MI|Motivational interviewing|Psychiatry
+MET|Motivational enhancement therapy|Psychiatry
+CM|Contingency management|Psychiatry
+TFP|Transference-focused psychotherapy|Psychiatry
+MBT|Mentalization-based treatment|Psychiatry
+FFT|Family-focused therapy|Psychiatry
+FBT|Family-based treatment|Psychiatry
+PCIT|Parent-child interaction therapy|Psychiatry
+TF-CBT|Trauma-focused cognitive behavioral therapy|Psychiatry
+BA|Behavioral activation|Psychiatry
+PST|Problem-solving therapy|Psychiatry
+CRT|Cognitive remediation therapy|Psychiatry
+SST|Social skills training|Psychiatry
+CSC|Coordinated specialty care|Psychiatry
+FEP|First-episode psychosis|Psychiatry
+CHR|Clinical high risk for psychosis|Psychiatry
+UHR|Ultra-high risk for psychosis|Psychiatry
+ARMS|At-risk mental state|Psychiatry
+DUP|Duration of untreated psychosis|Psychiatry
+ECT|Electroconvulsive therapy|Psychiatry
+TMS|Transcranial magnetic stimulation|Psychiatry
+rTMS|Repetitive transcranial magnetic stimulation|Psychiatry
+dTMS|Deep transcranial magnetic stimulation|Psychiatry
+iTBS|Intermittent theta burst stimulation|Psychiatry
+tDCS|Transcranial direct current stimulation|Psychiatry
+VNS|Vagus nerve stimulation|Psychiatry
+DBS|Deep brain stimulation|Psychiatry
+MST|Magnetic seizure therapy|Psychiatry
+CES|Cranial electrotherapy stimulation|Psychiatry
+RUL|Right unilateral electrode placement|Psychiatry
+BL|Bilateral electrode placement|Psychiatry
+BT|Bitemporal electrode placement|Psychiatry
+BF|Bifrontal electrode placement|Psychiatry
+NMS|Neuroleptic malignant syndrome|Psychiatry
+SS|Serotonin syndrome|Psychiatry
+EPS|Extrapyramidal symptoms|Psychiatry
+EPSE|Extrapyramidal side effects|Psychiatry
+TD|Tardive dyskinesia|Psychiatry
+AIMS|Abnormal involuntary movement scale|Psychiatry
+DISCUS|Dyskinesia identification system condensed user scale|Psychiatry
+BARS|Barnes akathisia rating scale|Psychiatry
+VMAT2|Vesicular monoamine transporter 2|Psychiatry
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Psychiatry
+QTc|Corrected QT interval|Psychiatry
+AC|Anticholinergic|Psychiatry
+ACB|Anticholinergic burden|Psychiatry
+DDI|Drug-drug interaction|Psychiatry
+CYP|Cytochrome P450|Psychiatry
+PK|Pharmacokinetics|Psychiatry
+PD|Pharmacodynamics|Psychiatry
+TDM|Therapeutic drug monitoring|Psychiatry
+PGx|Pharmacogenomics|Psychiatry
+CYP2D6|Cytochrome P450 2D6 enzyme|Psychiatry
+CYP3A4|Cytochrome P450 3A4 enzyme|Psychiatry
+CYP2C19|Cytochrome P450 2C19 enzyme|Psychiatry
+CYP1A2|Cytochrome P450 1A2 enzyme|Psychiatry
+PM|Poor metabolizer|Psychiatry
+IM|Intermediate metabolizer|Psychiatry
+EM|Extensive metabolizer|Psychiatry
+UM|Ultrarapid metabolizer|Psychiatry
+NM|Normal metabolizer|Psychiatry
+CBZ|Carbamazepine|Psychiatry
+OXC|Oxcarbazepine|Psychiatry
+LTG|Lamotrigine|Psychiatry
+VPA|Valproic acid|Psychiatry
+DVP|Divalproex|Psychiatry
+Li|Lithium|Psychiatry
+TPM|Topiramate|Psychiatry
+GBP|Gabapentin|Psychiatry
+PGB|Pregabalin|Psychiatry
+CLZ|Clozapine|Psychiatry
+OLZ|Olanzapine|Psychiatry
+RIS|Risperidone|Psychiatry
+QTP|Quetiapine|Psychiatry
+ARI|Aripiprazole|Psychiatry
+ZIP|Ziprasidone|Psychiatry
+HAL|Haloperidol|Psychiatry
+CPZ|Chlorpromazine|Psychiatry
+FLU|Fluphenazine|Psychiatry
+LUR|Lurasidone|Psychiatry
+PAL|Paliperidone|Psychiatry
+ASE|Asenapine|Psychiatry
+CAR|Cariprazine|Psychiatry
+BRX|Brexpiprazole|Psychiatry
+ILO|Iloperidone|Psychiatry
+FLX|Fluoxetine|Psychiatry
+SER|Sertraline|Psychiatry
+CIT|Citalopram|Psychiatry
+ESC|Escitalopram|Psychiatry
+PAR|Paroxetine|Psychiatry
+FLV|Fluvoxamine|Psychiatry
+VEN|Venlafaxine|Psychiatry
+DVS|Desvenlafaxine|Psychiatry
+DLX|Duloxetine|Psychiatry
+BUP|Bupropion|Psychiatry
+MIRT|Mirtazapine|Psychiatry
+TRZ|Trazodone|Psychiatry
+AMI|Amitriptyline|Psychiatry
+NTP|Nortriptyline|Psychiatry
+LZP|Lorazepam|Psychiatry
+CZP|Clonazepam|Psychiatry
+DZP|Diazepam|Psychiatry
+ALP|Alprazolam|Psychiatry
+CDP|Chlordiazepoxide|Psychiatry
+MPH|Methylphenidate|Psychiatry
+AMPH|Amphetamine|Psychiatry
+LDX|Lisdexamfetamine|Psychiatry
+ATX|Atomoxetine|Psychiatry
+NAC|N-acetylcysteine|Psychiatry
+NAL|Naloxone|Psychiatry
+NTX|Naltrexone|Psychiatry
+XR-NTX|Extended-release naltrexone|Psychiatry
+BUP-NX|Buprenorphine-naloxone combination|Psychiatry
+BNX|Buprenorphine-naloxone combination|Psychiatry
+MMT|Methadone maintenance treatment|Psychiatry
+OAT|Opioid agonist therapy|Psychiatry
+ACAMP|Acamprosate|Psychiatry
+DSF|Disulfiram|Psychiatry
+NRT|Nicotine replacement therapy|Psychiatry
+PRN|As needed|Psychiatry
+QHS|Every night at bedtime|Psychiatry
+QAM|Every morning|Psychiatry
+BID|Twice daily|Psychiatry
+TID|Three times daily|Psychiatry
+QID|Four times daily|Psychiatry
+QD|Daily|Psychiatry
+PO|By mouth|Psychiatry
+IM|Intramuscular|Psychiatry
+IV|Intravenous|Psychiatry
+SL|Sublingual|Psychiatry
+ODT|Orally disintegrating tablet|Psychiatry
+XR|Extended release|Psychiatry
+ER|Extended release|Psychiatry
+IR|Immediate release|Psychiatry
+CR|Controlled release|Psychiatry
+SR|Sustained release|Psychiatry
+LA|Long-acting|Psychiatry
+DC|Discontinue|Psychiatry
+d/c|Discontinue or discharge|Psychiatry
+MSE|Mental status examination|Psychiatry
+MMSE|Mini-mental state examination|Psychiatry
+MoCA|Montreal cognitive assessment|Psychiatry
+SLUMS|Saint Louis University mental status examination|Psychiatry
+CAM|Confusion assessment method|Psychiatry
+CAM-ICU|Confusion assessment method for the intensive care unit|Psychiatry
+4AT|4 A's test for delirium|Psychiatry
+CDR|Clinical dementia rating|Psychiatry
+CDT|Clock drawing test|Psychiatry
+FAST|Functional assessment staging tool|Psychiatry
+GDS|Geriatric depression scale|Psychiatry
+PHQ|Patient health questionnaire|Psychiatry
+PHQ-2|Patient health questionnaire, 2 items|Psychiatry
+PHQ-9|Patient health questionnaire, 9 items|Psychiatry
+PHQ-A|Patient health questionnaire for adolescents|Psychiatry
+GAD-7|Generalized anxiety disorder 7-item scale|Psychiatry
+BDI|Beck depression inventory|Psychiatry
+BAI|Beck anxiety inventory|Psychiatry
+QIDS|Quick inventory of depressive symptomatology|Psychiatry
+QIDS-SR|Quick inventory of depressive symptomatology, self-report|Psychiatry
+EPDS|Edinburgh postnatal depression scale|Psychiatry
+CES-D|Center for epidemiologic studies depression scale|Psychiatry
+HADS|Hospital anxiety and depression scale|Psychiatry
+MDQ|Mood disorder questionnaire|Psychiatry
+YMRS|Young mania rating scale|Psychiatry
+ASRM|Altman self-rating mania scale|Psychiatry
+PCL-5|PTSD checklist for DSM-5|Psychiatry
+CAPS-5|Clinician-administered PTSD scale for DSM-5|Psychiatry
+PC-PTSD-5|Primary care PTSD screen for DSM-5|Psychiatry
+ASRS|Adult ADHD self-report scale|Psychiatry
+SNAP-IV|Swanson, Nolan, and Pelham rating scale, fourth edition|Psychiatry
+CBCL|Child behavior checklist|Psychiatry
+SDQ|Strengths and difficulties questionnaire|Psychiatry
+M-CHAT|Modified checklist for autism in toddlers|Psychiatry
+ADOS|Autism diagnostic observation schedule|Psychiatry
+ADI-R|Autism diagnostic interview, revised|Psychiatry
+BPRS|Brief psychiatric rating scale|Psychiatry
+PANSS|Positive and negative syndrome scale|Psychiatry
+SANS|Scale for the assessment of negative symptoms|Psychiatry
+SAPS|Scale for the assessment of positive symptoms|Psychiatry
+CGI|Clinical global impression|Psychiatry
+CGI-S|Clinical global impression, severity|Psychiatry
+CGI-I|Clinical global impression, improvement|Psychiatry
+GAF|Global assessment of functioning|Psychiatry
+WHODAS|World Health Organization disability assessment schedule|Psychiatry
+C-SSRS|Columbia suicide severity rating scale|Psychiatry
+ASQ|Ask suicide-screening questions|Psychiatry
+SAFE-T|Suicide assessment five-step evaluation and triage|Psychiatry
+SPI|Safety planning intervention|Psychiatry
+SBQ-R|Suicidal behaviors questionnaire, revised|Psychiatry
+BHS|Beck hopelessness scale|Psychiatry
+BSS|Beck scale for suicide ideation|Psychiatry
+AUDIT|Alcohol use disorders identification test|Psychiatry
+AUDIT-C|Alcohol use disorders identification test, consumption items|Psychiatry
+DAST|Drug abuse screening test|Psychiatry
+DAST-10|Drug abuse screening test, 10 items|Psychiatry
+CAGE|Cut down, annoyed, guilty, eye-opener questionnaire|Psychiatry
+CRAFFT|Car, relax, alone, forget, friends, trouble screening tool|Psychiatry
+TAPS|Tobacco, alcohol, prescription medication, and other substance use tool|Psychiatry
+SBIRT|Screening, brief intervention, and referral to treatment|Psychiatry
+FTND|Fagerstrom test for nicotine dependence|Psychiatry
+SDS|Severity of dependence scale|Psychiatry
+SCID|Structured clinical interview for DSM|Psychiatry
+MINI|Mini international neuropsychiatric interview|Psychiatry
+DSM|Diagnostic and statistical manual of mental disorders|Psychiatry
+DSM-5|Diagnostic and statistical manual of mental disorders, fifth edition|Psychiatry
+DSM-5-TR|Diagnostic and statistical manual of mental disorders, fifth edition, text revision|Psychiatry
+ICD|International classification of diseases|Psychiatry
+ICD-10|International classification of diseases, tenth revision|Psychiatry
+ICD-11|International classification of diseases, eleventh revision|Psychiatry
+RDoC|Research domain criteria|Psychiatry
+SI|Suicidal ideation|Psychiatry
+HI|Homicidal ideation|Psychiatry
+SIB|Self-injurious behavior|Psychiatry
+NSSI|Nonsuicidal self-injury|Psychiatry
+SA|Suicide attempt|Psychiatry
+SA|Substance abuse|Psychiatry
+SH|Self-harm|Psychiatry
+DSH|Deliberate self-harm|Psychiatry
+AVH|Auditory and visual hallucinations|Psychiatry
+AH|Auditory hallucinations|Psychiatry
+VH|Visual hallucinations|Psychiatry
+TH|Tactile hallucinations|Psychiatry
+CAH|Command auditory hallucinations|Psychiatry
+IOR|Ideas of reference|Psychiatry
+FTD|Formal thought disorder|Psychiatry
+LOA|Loosening of associations|Psychiatry
+TP|Thought process|Psychiatry
+TC|Thought content|Psychiatry
+TLC|Tangential, loose, circumstantial thinking|Psychiatry
+LGO|Linear, goal-oriented thought process|Psychiatry
+NAD|No acute distress|Psychiatry
+A&O|Alert and oriented|Psychiatry
+AOx3|Alert and oriented to person, place, and time|Psychiatry
+AOx4|Alert and oriented to person, place, time, and situation|Psychiatry
+PERRLA|Pupils equal, round, reactive to light and accommodation|Psychiatry
+WNL|Within normal limits|Psychiatry
+NKDA|No known drug allergies|Psychiatry
+Hx|History|Psychiatry
+Dx|Diagnosis|Psychiatry
+Tx|Treatment|Psychiatry
+Rx|Prescription|Psychiatry
+Sx|Symptoms|Psychiatry
+Fx|Family history|Psychiatry
+PPH|Past psychiatric history|Psychiatry
+PMH|Past medical history|Psychiatry
+PSH|Past surgical history|Psychiatry
+FH|Family history|Psychiatry
+FPH|Family psychiatric history|Psychiatry
+SH|Social history|Psychiatry
+HPI|History of present illness|Psychiatry
+CC|Chief complaint|Psychiatry
+ROS|Review of systems|Psychiatry
+A/P|Assessment and plan|Psychiatry
+ROI|Release of information|Psychiatry
+AMA|Against medical advice|Psychiatry
+NPO|Nothing by mouth|Psychiatry
+ADLs|Activities of daily living|Psychiatry
+IADLs|Instrumental activities of daily living|Psychiatry
+ADL|Activity of daily living|Psychiatry
+LOS|Length of stay|Psychiatry
+LOC|Level of care|Psychiatry
+LOC|Loss of consciousness|Psychiatry
+IP|Inpatient|Psychiatry
+OP|Outpatient|Psychiatry
+ED|Emergency department|Psychiatry
+PES|Psychiatric emergency services|Psychiatry
+CPEP|Comprehensive psychiatric emergency program|Psychiatry
+CSU|Crisis stabilization unit|Psychiatry
+CRU|Crisis residential unit|Psychiatry
+PICU|Psychiatric intensive care unit|Psychiatry
+CL|Consultation-liaison|Psychiatry
+C-L|Consultation-liaison|Psychiatry
+CLP|Consultation-liaison psychiatry|Psychiatry
+CAP|Child and adolescent psychiatry|Psychiatry
+C&A|Child and adolescent|Psychiatry
+CMHC|Community mental health center|Psychiatry
+CCBHC|Certified community behavioral health clinic|Psychiatry
+CMHT|Community mental health team|Psychiatry
+PCP|Primary care physician|Psychiatry
+PCP|Phencyclidine|Psychiatry
+IMD|Institution for mental diseases|Psychiatry
+SMI|Serious mental illness|Psychiatry
+SPMI|Severe and persistent mental illness|Psychiatry
+CMI|Chronic mental illness|Psychiatry
+SED|Serious emotional disturbance|Psychiatry
+COD|Co-occurring disorders|Psychiatry
+MICA|Mentally ill chemical abuser|Psychiatry
+IDDT|Integrated dual disorder treatment|Psychiatry
+CM|Case management|Psychiatry
+ICM|Intensive case management|Psychiatry
+PSR|Psychosocial rehabilitation|Psychiatry
+IPS|Individual placement and support|Psychiatry
+PSH|Permanent supportive housing|Psychiatry
+AOT|Assisted outpatient treatment|Psychiatry
+5150|Involuntary 72-hour psychiatric hold in California|Psychiatry
+5250|Involuntary 14-day certification for intensive treatment in California|Psychiatry
+5585|Involuntary hold for minors in California|Psychiatry
+NGRI|Not guilty by reason of insanity|Psychiatry
+IST|Incompetent to stand trial|Psychiatry
+FST|Fitness to stand trial|Psychiatry
+CST|Competency to stand trial|Psychiatry
+GBMI|Guilty but mentally ill|Psychiatry
+DTS|Danger to self|Psychiatry
+DTO|Danger to others|Psychiatry
+GD|Gravely disabled|Psychiatry
+HCP|Health care proxy|Psychiatry
+POA|Power of attorney|Psychiatry
+DPOA|Durable power of attorney|Psychiatry
+PAD|Psychiatric advance directive|Psychiatry
+1:1|One-to-one observation|Psychiatry
+q15|Every 15 minutes observation|Psychiatry
+q15min|Every 15 minutes|Psychiatry
+q30|Every 30 minutes observation|Psychiatry
+UDS|Urine drug screen|Psychiatry
+UDT|Urine drug test|Psychiatry
+UTox|Urine toxicology|Psychiatry
+BAL|Blood alcohol level|Psychiatry
+BAC|Blood alcohol concentration|Psychiatry
+EtOH|Ethyl alcohol|Psychiatry
+ETOH|Ethyl alcohol|Psychiatry
+THC|Tetrahydrocannabinol|Psychiatry
+CBD|Cannabidiol|Psychiatry
+LSD|Lysergic acid diethylamide|Psychiatry
+MDMA|3,4-methylenedioxymethamphetamine|Psychiatry
+GHB|Gamma-hydroxybutyrate|Psychiatry
+IVDU|Intravenous drug use|Psychiatry
+IDU|Injection drug use|Psychiatry
+PWID|People who inject drugs|Psychiatry
+PDMP|Prescription drug monitoring program|Psychiatry
+CII|Schedule II controlled substance|Psychiatry
+REMS|Risk evaluation and mitigation strategy|Psychiatry
+ANC|Absolute neutrophil count|Psychiatry
+WBC|White blood cell count|Psychiatry
+CBC|Complete blood count|Psychiatry
+CMP|Comprehensive metabolic panel|Psychiatry
+BMP|Basic metabolic panel|Psychiatry
+LFTs|Liver function tests|Psychiatry
+TSH|Thyroid-stimulating hormone|Psychiatry
+FT4|Free thyroxine|Psychiatry
+B12|Vitamin B12|Psychiatry
+RPR|Rapid plasma reagin|Psychiatry
+HIV|Human immunodeficiency virus|Psychiatry
+HCV|Hepatitis C virus|Psychiatry
+UA|Urinalysis|Psychiatry
+CK|Creatine kinase|Psychiatry
+CPK|Creatine phosphokinase|Psychiatry
+CRP|C-reactive protein|Psychiatry
+ESR|Erythrocyte sedimentation rate|Psychiatry
+HbA1c|Hemoglobin A1c|Psychiatry
+A1c|Hemoglobin A1c|Psychiatry
+FBG|Fasting blood glucose|Psychiatry
+BMI|Body mass index|Psychiatry
+BP|Blood pressure|Psychiatry
+HR|Heart rate|Psychiatry
+EKG|Electrocardiogram|Psychiatry
+ECG|Electrocardiogram|Psychiatry
+EEG|Electroencephalogram|Psychiatry
+CT|Computed tomography|Psychiatry
+MRI|Magnetic resonance imaging|Psychiatry
+fMRI|Functional magnetic resonance imaging|Psychiatry
+PET|Positron emission tomography|Psychiatry
+SPECT|Single-photon emission computed tomography|Psychiatry
+LP|Lumbar puncture|Psychiatry
+CSF|Cerebrospinal fluid|Psychiatry
+PSG|Polysomnography|Psychiatry
+MSLT|Multiple sleep latency test|Psychiatry
+OSA|Obstructive sleep apnea|Psychiatry
+CPAP|Continuous positive airway pressure|Psychiatry
+RLS|Restless legs syndrome|Psychiatry
+PLMD|Periodic limb movement disorder|Psychiatry
+RBD|REM sleep behavior disorder|Psychiatry
+REM|Rapid eye movement|Psychiatry
+NREM|Non-rapid eye movement|Psychiatry
+ESS|Epworth sleepiness scale|Psychiatry
+ISI|Insomnia severity index|Psychiatry
+PSQI|Pittsburgh sleep quality index|Psychiatry
+DSPD|Delayed sleep phase disorder|Psychiatry
+CRSD|Circadian rhythm sleep disorder|Psychiatry
+SWSD|Shift work sleep disorder|Psychiatry
+NT1|Narcolepsy type 1|Psychiatry
+NT2|Narcolepsy type 2|Psychiatry
+EDS|Excessive daytime sleepiness|Psychiatry
+SOL|Sleep onset latency|Psychiatry
+TST|Total sleep time|Psychiatry
+WASO|Wake after sleep onset|Psychiatry
+DOES|Disorders of excessive somnolence|Psychiatry
+DIMS|Disorders of initiating and maintaining sleep|Psychiatry
+MCI|Mild cognitive impairment|Psychiatry
+NCD|Neurocognitive disorder|Psychiatry
+DLB|Dementia with Lewy bodies|Psychiatry
+LBD|Lewy body dementia|Psychiatry
+FTD|Frontotemporal dementia|Psychiatry
+bvFTD|Behavioral variant frontotemporal dementia|Psychiatry
+VaD|Vascular dementia|Psychiatry
+PDD|Parkinson disease dementia|Psychiatry
+NPH|Normal pressure hydrocephalus|Psychiatry
+TBI|Traumatic brain injury|Psychiatry
+mTBI|Mild traumatic brain injury|Psychiatry
+CTE|Chronic traumatic encephalopathy|Psychiatry
+BPSD|Behavioral and psychological symptoms of dementia|Psychiatry
+NPS|Neuropsychiatric symptoms|Psychiatry
+NPI|Neuropsychiatric inventory|Psychiatry
+ChEI|Cholinesterase inhibitor|Psychiatry
+AChEI|Acetylcholinesterase inhibitor|Psychiatry
+PBA|Pseudobulbar affect|Psychiatry
+ICU|Intensive care unit|Psychiatry
+PICS|Post-intensive care syndrome|Psychiatry
+FND|Functional neurological disorder|Psychiatry
+PNES|Psychogenic nonepileptic seizures|Psychiatry
+SSD|Somatic symptom disorder|Psychiatry
+IAD|Illness anxiety disorder|Psychiatry
+FDIA|Factitious disorder imposed on another|Psychiatry
+FDIS|Factitious disorder imposed on self|Psychiatry
+MUS|Medically unexplained symptoms|Psychiatry
+CFS|Chronic fatigue syndrome|Psychiatry
+IBS|Irritable bowel syndrome|Psychiatry
+HD|Hoarding disorder|Psychiatry
+PANDAS|Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infection|Psychiatry
+PANS|Pediatric acute-onset neuropsychiatric syndrome|Psychiatry
+TS|Tourette syndrome|Psychiatry
+CTD|Chronic tic disorder|Psychiatry
+FASD|Fetal alcohol spectrum disorder|Psychiatry
+FAS|Fetal alcohol syndrome|Psychiatry
+NAS|Neonatal abstinence syndrome|Psychiatry
+NOWS|Neonatal opioid withdrawal syndrome|Psychiatry
+SLD|Specific learning disorder|Psychiatry
+LD|Learning disability|Psychiatry
+DCD|Developmental coordination disorder|Psychiatry
+SLI|Specific language impairment|Psychiatry
+IEP|Individualized education program|Psychiatry
+FBA|Functional behavior assessment|Psychiatry
+BIP|Behavior intervention plan|Psychiatry
+ABA|Applied behavior analysis|Psychiatry
+ABC|Antecedent, behavior, consequence|Psychiatry
+EI|Early intervention|Psychiatry
+SPD|Sensory processing disorder|Psychiatry
+OT|Occupational therapy|Psychiatry
+PT|Physical therapy|Psychiatry
+SLP|Speech-language pathologist|Psychiatry
+LCSW|Licensed clinical social worker|Psychiatry
+LMFT|Licensed marriage and family therapist|Psychiatry
+LPC|Licensed professional counselor|Psychiatry
+PMHNP|Psychiatric-mental health nurse practitioner|Psychiatry
+MHT|Mental health technician|Psychiatry
+PSW|Psychiatric social worker|Psychiatry
+DSM-IV|Diagnostic and statistical manual of mental disorders, fourth edition|Psychiatry
+GABA|Gamma-aminobutyric acid|Psychiatry
+NMDA|N-methyl-D-aspartate|Psychiatry
+NMDAR|N-methyl-D-aspartate receptor|Psychiatry
+AMPA|Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid|Psychiatry
+5-HT|5-hydroxytryptamine, serotonin|Psychiatry
+5-HTP|5-hydroxytryptophan|Psychiatry
+DA|Dopamine|Psychiatry
+NE|Norepinephrine|Psychiatry
+ACh|Acetylcholine|Psychiatry
+BDNF|Brain-derived neurotrophic factor|Psychiatry
+HPA|Hypothalamic-pituitary-adrenal axis|Psychiatry
+HPT|Hypothalamic-pituitary-thyroid axis|Psychiatry
+CRH|Corticotropin-releasing hormone|Psychiatry
+ACTH|Adrenocorticotropic hormone|Psychiatry
+DST|Dexamethasone suppression test|Psychiatry
+PFC|Prefrontal cortex|Psychiatry
+DLPFC|Dorsolateral prefrontal cortex|Psychiatry
+OFC|Orbitofrontal cortex|Psychiatry
+ACC|Anterior cingulate cortex|Psychiatry
+sgACC|Subgenual anterior cingulate cortex|Psychiatry
+VTA|Ventral tegmental area|Psychiatry
+CSTC|Cortico-striato-thalamo-cortical circuit|Psychiatry
+DMN|Default mode network|Psychiatry
+CNS|Central nervous system|Psychiatry
+PNS|Peripheral nervous system|Psychiatry
+ANS|Autonomic nervous system|Psychiatry
+D2|Dopamine D2 receptor|Psychiatry
+5-HT2A|Serotonin 2A receptor|Psychiatry
+H1|Histamine 1 receptor|Psychiatry
+M1|Muscarinic 1 receptor|Psychiatry
+a1|Alpha-1 adrenergic receptor|Psychiatry
+SERT|Serotonin transporter|Psychiatry
+DAT|Dopamine transporter|Psychiatry
+NET|Norepinephrine transporter|Psychiatry
+MAO|Monoamine oxidase|Psychiatry
+MAO-A|Monoamine oxidase A|Psychiatry
+MAO-B|Monoamine oxidase B|Psychiatry
+COMT|Catechol-O-methyltransferase|Psychiatry
+NRI|Norepinephrine reuptake inhibitor|Psychiatry
+RIMA|Reversible inhibitor of monoamine oxidase A|Psychiatry
+DRA|Dopamine receptor antagonist|Psychiatry
+SDA|Serotonin-dopamine antagonist|Psychiatry
+PAM|Positive allosteric modulator|Psychiatry
+NAM|Negative allosteric modulator|Psychiatry
+DORA|Dual orexin receptor antagonist|Psychiatry
+Z-drug|Nonbenzodiazepine hypnotic acting at the GABA-A receptor|Psychiatry
+MS|Mood stabilizer|Psychiatry
+AD|Antidepressant|Psychiatry
+AC|Anticonvulsant|Psychiatry
+ADR|Adverse drug reaction|Psychiatry
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Psychiatry
+TEN|Toxic epidermal necrolysis|Psychiatry
+SIADH|Syndrome of inappropriate antidiuretic hormone|Psychiatry
+NDI|Nephrogenic diabetes insipidus|Psychiatry
+DI|Diabetes insipidus|Psychiatry
+MetS|Metabolic syndrome|Psychiatry
+HLD|Hyperlipidemia|Psychiatry
+HTN|Hypertension|Psychiatry
+DM2|Type 2 diabetes mellitus|Psychiatry
+T2DM|Type 2 diabetes mellitus|Psychiatry
+DKA|Diabetic ketoacidosis|Psychiatry
+HPRL|Hyperprolactinemia|Psychiatry
+PRL|Prolactin|Psychiatry
+PSSD|Post-SSRI sexual dysfunction|Psychiatry
+ED|Erectile dysfunction|Psychiatry
+HSDD|Hypoactive sexual desire disorder|Psychiatry
+PE|Premature ejaculation|Psychiatry
+GD|Gender dysphoria|Psychiatry
+GAC|Gender-affirming care|Psychiatry
+SOGI|Sexual orientation and gender identity|Psychiatry
+LGBTQ|Lesbian, gay, bisexual, transgender, and queer|Psychiatry
+IPV|Intimate partner violence|Psychiatry
+CPS|Child protective services|Psychiatry
+APS|Adult protective services|Psychiatry
+ACE|Adverse childhood experience|Psychiatry
+ACEs|Adverse childhood experiences|Psychiatry
+SDOH|Social determinants of health|Psychiatry
+PHP|Partial hospital program|Psychiatry
+TAU|Treatment as usual|Psychiatry
+RCT|Randomized controlled trial|Psychiatry
+NNT|Number needed to treat|Psychiatry
+NNH|Number needed to harm|Psychiatry
+PHQ-8|Patient health questionnaire, 8 items|Psychiatry
+IDS|Inventory of depressive symptomatology|Psychiatry
+IDS-C|Inventory of depressive symptomatology, clinician-rated|Psychiatry
+IDS-SR|Inventory of depressive symptomatology, self-report|Psychiatry
+CDRS|Children's depression rating scale|Psychiatry
+CDI|Children's depression inventory|Psychiatry
+SCARED|Screen for child anxiety related emotional disorders|Psychiatry
+CY-BOCS|Children's obsessive-compulsive scale|Psychiatry
+SPIN|Social phobia inventory|Psychiatry
+LSAS|Liebowitz social anxiety scale|Psychiatry
+PDSS|Panic disorder severity scale|Psychiatry
+PSWQ|Penn State worry questionnaire|Psychiatry
+OCI-R|Obsessive-compulsive inventory, revised|Psychiatry
+IES-R|Impact of event scale, revised|Psychiatry
+DES|Dissociative experiences scale|Psychiatry
+CTQ|Childhood trauma questionnaire|Psychiatry
+BSL-23|Borderline symptom list, 23 items|Psychiatry
+EAT-26|Eating attitudes test, 26 items|Psychiatry
+EDE-Q|Eating disorder examination questionnaire|Psychiatry
+SCOFF|Sick, control, one stone, fat, food screening questionnaire|Psychiatry
+BES|Binge eating scale|Psychiatry
+EDE|Eating disorder examination|Psychiatry
+MEWS|Modified early warning score|Psychiatry
+RFS|Refeeding syndrome|Psychiatry
+MMPI|Minnesota multiphasic personality inventory|Psychiatry
+MCMI|Millon clinical multiaxial inventory|Psychiatry
+IQ|Intelligence quotient|Psychiatry
+FSIQ|Full-scale intelligence quotient|Psychiatry
+CPT|Continuous performance test|Psychiatry
+WCST|Wisconsin card sorting test|Psychiatry
+TMT|Trail making test|Psychiatry
+BACS|Brief assessment of cognition in schizophrenia|Psychiatry
+SCoRS|Schizophrenia cognition rating scale|Psychiatry
+CAINS|Clinical assessment interview for negative symptoms|Psychiatry
+BNSS|Brief negative symptom scale|Psychiatry
+PSP|Personal and social performance scale|Psychiatry
+TRS|Treatment-resistant schizophrenia|Psychiatry
+CIAS|Cognitive impairment associated with schizophrenia|Psychiatry
+BEN|Benign ethnic neutropenia|Psychiatry
+PPA|Primary progressive aphasia|Psychiatry
+VLOSLP|Very-late-onset schizophrenia-like psychosis|Psychiatry
+DD|Delusional disorder|Psychiatry
+SIPD|Substance-induced psychotic disorder|Psychiatry
+SIMD|Substance-induced mood disorder|Psychiatry
+MIPD|Medication-induced psychotic disorder|Psychiatry
+PDM|Psychosis due to a medical condition|Psychiatry
+CoCM|Collaborative care model|Psychiatry
+BHI|Behavioral health integration|Psychiatry
+TMH|Telemental health|Psychiatry
+VTC|Video teleconference|Psychiatry
+EOL|End of life|Psychiatry
+DNR|Do not resuscitate|Psychiatry
+DNI|Do not intubate|Psychiatry

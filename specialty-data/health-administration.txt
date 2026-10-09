@@ -1,0 +1,368 @@
+ACO|Accountable care organization|Health Administration
+ADT|Admission, discharge, transfer|Health Administration
+AMA|Against medical advice|Health Administration
+ALOS|Average length of stay|Health Administration
+ALC|Alternate level of care|Health Administration
+APC|Ambulatory payment classification|Health Administration
+APR-DRG|All patient refined diagnosis related group|Health Administration
+ASC|Ambulatory surgical center|Health Administration
+ASO|Administrative services only|Health Administration
+AWV|Annual wellness visit|Health Administration
+BPCI|Bundled payments for care improvement|Health Administration
+CAH|Critical access hospital|Health Administration
+CCM|Chronic care management|Health Administration
+CCO|Chief clinical officer|Health Administration
+CDI|Clinical documentation improvement|Health Administration
+CDS|Clinical decision support|Health Administration
+CDSS|Clinical decision support system|Health Administration
+CHW|Community health worker|Health Administration
+CMIO|Chief medical informatics officer|Health Administration
+CMO|Chief medical officer|Health Administration
+CMI|Case mix index|Health Administration
+COB|Coordination of benefits|Health Administration
+CON|Certificate of need|Health Administration
+CPOE|Computerized provider order entry|Health Administration
+CPT|Current procedural terminology|Health Administration
+CQI|Continuous quality improvement|Health Administration
+CC|Complication or comorbidity|Health Administration
+CCs|Complications and comorbidities|Health Administration
+MCC|Major complication or comorbidity|Health Administration
+CDM|Charge description master|Health Administration
+CHC|Community health center|Health Administration
+CIN|Clinically integrated network|Health Administration
+CRM|Customer relationship management|Health Administration
+CSR|Customer service representative|Health Administration
+DME|Durable medical equipment|Health Administration
+DNFB|Discharged, not final billed|Health Administration
+DNR|Do not resuscitate|Health Administration
+DNI|Do not intubate|Health Administration
+DOS|Date of service|Health Administration
+DRG|Diagnosis related group|Health Administration
+DSH|Disproportionate share hospital|Health Administration
+DTC|Direct to consumer|Health Administration
+EBM|Evidence-based medicine|Health Administration
+EDI|Electronic data interchange|Health Administration
+EFT|Electronic funds transfer|Health Administration
+EHR|Electronic health record|Health Administration
+EMR|Electronic medical record|Health Administration
+EMTALA|Emergency Medical Treatment and Active Labor Act|Health Administration
+EOB|Explanation of benefits|Health Administration
+EOC|Episode of care|Health Administration
+ERA|Electronic remittance advice|Health Administration
+ERISA|Employee Retirement Income Security Act|Health Administration
+ESRD|End-stage renal disease|Health Administration
+FFS|Fee for service|Health Administration
+FQHC|Federally qualified health center|Health Administration
+FTE|Full-time equivalent|Health Administration
+FSA|Flexible spending account|Health Administration
+GPO|Group purchasing organization|Health Administration
+GL|General ledger|Health Administration
+HAC|Hospital-acquired condition|Health Administration
+HAI|Healthcare-associated infection|Health Administration
+HCC|Hierarchical condition category|Health Administration
+HCPCS|Healthcare common procedure coding system|Health Administration
+HDHP|High-deductible health plan|Health Administration
+HHA|Home health agency|Health Administration
+HIE|Health information exchange|Health Administration
+HIM|Health information management|Health Administration
+HIPAA|Health Insurance Portability and Accountability Act|Health Administration
+HIT|Health information technology|Health Administration
+HMO|Health maintenance organization|Health Administration
+HRA|Health reimbursement arrangement|Health Administration
+HSA|Health savings account|Health Administration
+HRRP|Hospital readmissions reduction program|Health Administration
+ICD|International classification of diseases|Health Administration
+ICD-10|International classification of diseases, tenth revision|Health Administration
+ICD-10-CM|International classification of diseases, tenth revision, clinical modification|Health Administration
+ICD-10-PCS|International classification of diseases, tenth revision, procedure coding system|Health Administration
+ICF|Intermediate care facility|Health Administration
+IDN|Integrated delivery network|Health Administration
+IDS|Integrated delivery system|Health Administration
+IME|Indirect medical education|Health Administration
+INN|In-network|Health Administration
+IPA|Independent practice association|Health Administration
+IPPS|Inpatient prospective payment system|Health Administration
+IRF|Inpatient rehabilitation facility|Health Administration
+KPI|Key performance indicator|Health Administration
+LCD|Local coverage determination|Health Administration
+LOA|Leave of absence|Health Administration
+LOC|Level of care|Health Administration
+LOS|Length of stay|Health Administration
+LTAC|Long-term acute care|Health Administration
+LTACH|Long-term acute care hospital|Health Administration
+LTC|Long-term care|Health Administration
+LWBS|Left without being seen|Health Administration
+MAC|Medicare administrative contractor|Health Administration
+MCO|Managed care organization|Health Administration
+MDM|Medical decision making|Health Administration
+MDS|Minimum data set|Health Administration
+MIPS|Merit-based incentive payment system|Health Administration
+MLR|Medical loss ratio|Health Administration
+MOON|Medicare outpatient observation notice|Health Administration
+MPFS|Medicare physician fee schedule|Health Administration
+MSA|Medical savings account|Health Administration
+MSO|Management services organization|Health Administration
+MSP|Medicare secondary payer|Health Administration
+MSSP|Medicare shared savings program|Health Administration
+MS-DRG|Medicare severity diagnosis related group|Health Administration
+NCD|National coverage determination|Health Administration
+NF|Nursing facility|Health Administration
+NPI|National provider identifier|Health Administration
+NPP|Non-physician practitioner|Health Administration
+NOA|Notice of admission|Health Administration
+NOMNC|Notice of Medicare non-coverage|Health Administration
+NP|Nurse practitioner|Health Administration
+OBS|Observation|Health Administration
+OON|Out-of-network|Health Administration
+OOP|Out-of-pocket|Health Administration
+OPPS|Outpatient prospective payment system|Health Administration
+P4P|Pay for performance|Health Administration
+PA|Prior authorization|Health Administration
+PA-C|Physician assistant, certified|Health Administration
+PAC|Post-acute care|Health Administration
+PBM|Pharmacy benefit manager|Health Administration
+PCMH|Patient-centered medical home|Health Administration
+PCP|Primary care physician|Health Administration
+PDPM|Patient-driven payment model|Health Administration
+PDSA|Plan, do, study, act|Health Administration
+PFS|Patient financial services|Health Administration
+PFFS|Private fee for service|Health Administration
+PHI|Protected health information|Health Administration
+PHO|Physician-hospital organization|Health Administration
+PHR|Personal health record|Health Administration
+PMPM|Per member per month|Health Administration
+PMPY|Per member per year|Health Administration
+POA|Present on admission|Health Administration
+POS|Point of service|Health Administration
+PPO|Preferred provider organization|Health Administration
+PPS|Prospective payment system|Health Administration
+PSO|Provider-sponsored organization|Health Administration
+PTO|Paid time off|Health Administration
+QA|Quality assurance|Health Administration
+QI|Quality improvement|Health Administration
+QALY|Quality-adjusted life year|Health Administration
+QM|Quality measure|Health Administration
+QPP|Quality payment program|Health Administration
+RAC|Recovery audit contractor|Health Administration
+RAF|Risk adjustment factor|Health Administration
+RBRVS|Resource-based relative value scale|Health Administration
+RCM|Revenue cycle management|Health Administration
+RHC|Rural health clinic|Health Administration
+ROI|Return on investment|Health Administration
+RVU|Relative value unit|Health Administration
+wRVU|Work relative value unit|Health Administration
+SDOH|Social determinants of health|Health Administration
+SNF|Skilled nursing facility|Health Administration
+SOP|Standard operating procedure|Health Administration
+TAT|Turnaround time|Health Administration
+TCM|Transitional care management|Health Administration
+TPA|Third-party administrator|Health Administration
+TPO|Treatment, payment, and health care operations|Health Administration
+UB|Uniform billing|Health Administration
+UM|Utilization management|Health Administration
+UR|Utilization review|Health Administration
+UCR|Usual, customary, and reasonable|Health Administration
+VBC|Value-based care|Health Administration
+VBP|Value-based purchasing|Health Administration
+WC|Workers' compensation|Health Administration
+WRVU|Work relative value unit|Health Administration
+CAHPS|Consumer assessment of healthcare providers and systems|Health Administration
+HCAHPS|Hospital consumer assessment of healthcare providers and systems|Health Administration
+HEDIS|Healthcare effectiveness data and information set|Health Administration
+PROM|Patient-reported outcome measure|Health Administration
+PREM|Patient-reported experience measure|Health Administration
+PRO|Patient-reported outcome|Health Administration
+NPS|Net promoter score|Health Administration
+SSI|Surgical site infection|Health Administration
+CLABSI|Central line-associated bloodstream infection|Health Administration
+CAUTI|Catheter-associated urinary tract infection|Health Administration
+VAP|Ventilator-associated pneumonia|Health Administration
+VTE|Venous thromboembolism|Health Administration
+PSI|Patient safety indicator|Health Administration
+RCA|Root cause analysis|Health Administration
+FMEA|Failure mode and effects analysis|Health Administration
+SBAR|Situation, background, assessment, recommendation|Health Administration
+M&M|Morbidity and mortality|Health Administration
+SSE|Serious safety event|Health Administration
+PSE|Patient safety event|Health Administration
+HRO|High reliability organization|Health Administration
+837|Electronic health care claim transaction|Health Administration
+835|Electronic remittance advice transaction|Health Administration
+834|Electronic benefit enrollment transaction|Health Administration
+270|Eligibility inquiry transaction|Health Administration
+271|Eligibility response transaction|Health Administration
+276|Claim status inquiry transaction|Health Administration
+277|Claim status response transaction|Health Administration
+278|Prior authorization request and response transaction|Health Administration
+ABN|Advance beneficiary notice of noncoverage|Health Administration
+AOB|Assignment of benefits|Health Administration
+BCBS|Blue Cross Blue Shield|Health Administration
+COBRA|Consolidated Omnibus Budget Reconciliation Act|Health Administration
+CHIP|Children's health insurance program|Health Administration
+ACA|Affordable Care Act|Health Administration
+MACRA|Medicare Access and CHIP Reauthorization Act|Health Administration
+HITECH|Health Information Technology for Economic and Clinical Health Act|Health Administration
+ARRA|American Recovery and Reinvestment Act|Health Administration
+MU|Meaningful use|Health Administration
+PI|Promoting interoperability|Health Administration
+QHP|Qualified health plan|Health Administration
+SEP|Special enrollment period|Health Administration
+AEP|Annual enrollment period|Health Administration
+MOOP|Maximum out-of-pocket|Health Administration
+ICN|Internal control number|Health Administration
+DCN|Document control number|Health Administration
+NDC|National drug code|Health Administration
+HIC|Health insurance claim|Health Administration
+HICN|Health insurance claim number|Health Administration
+MBI|Medicare beneficiary identifier|Health Administration
+TIN|Taxpayer identification number|Health Administration
+EIN|Employer identification number|Health Administration
+MRN|Medical record number|Health Administration
+POC|Plan of care|Health Administration
+POCT|Point-of-care testing|Health Administration
+H&P|History and physical|Health Administration
+E/M|Evaluation and management|Health Administration
+TOS|Type of service|Health Administration
+TOB|Type of bill|Health Administration
+CCI|Correct coding initiative|Health Administration
+NCCI|National correct coding initiative|Health Administration
+MUE|Medically unlikely edit|Health Administration
+LCA|Local coverage article|Health Administration
+CDT|Current dental terminology|Health Administration
+MPN|Medical provider network|Health Administration
+SDS|Same-day surgery|Health Administration
+AL|Assisted living|Health Administration
+ILF|Independent living facility|Health Administration
+CCRC|Continuing care retirement community|Health Administration
+PACE|Program of all-inclusive care for the elderly|Health Administration
+HCBS|Home and community-based services|Health Administration
+LTSS|Long-term services and supports|Health Administration
+DSNP|Dual-eligible special needs plan|Health Administration
+SNP|Special needs plan|Health Administration
+PDP|Prescription drug plan|Health Administration
+MAPD|Medicare Advantage prescription drug plan|Health Administration
+MA-PD|Medicare Advantage prescription drug plan|Health Administration
+LIS|Low-income subsidy|Health Administration
+IRMAA|Income-related monthly adjustment amount|Health Administration
+QMB|Qualified Medicare beneficiary|Health Administration
+SLMB|Specified low-income Medicare beneficiary|Health Administration
+PAYG|Pay as you go|Health Administration
+ASP|Average sales price|Health Administration
+AWP|Average wholesale price|Health Administration
+WAC|Wholesale acquisition cost|Health Administration
+NADAC|National average drug acquisition cost|Health Administration
+ST|Step therapy|Health Administration
+QL|Quantity limit|Health Administration
+DAW|Dispense as written|Health Administration
+DUR|Drug utilization review|Health Administration
+MTM|Medication therapy management|Health Administration
+PDMP|Prescription drug monitoring program|Health Administration
+P&T|Pharmacy and therapeutics|Health Administration
+REMS|Risk evaluation and mitigation strategy|Health Administration
+OTC|Over the counter|Health Administration
+FDC|Fixed-dose combination|Health Administration
+EPCS|Electronic prescribing of controlled substances|Health Administration
+eRx|Electronic prescribing|Health Administration
+BCMA|Barcode medication administration|Health Administration
+eMAR|Electronic medication administration record|Health Administration
+MAR|Medication administration record|Health Administration
+PCA|Patient-controlled analgesia|Health Administration
+RBM|Radiology benefit manager|Health Administration
+AUC|Appropriate use criteria|Health Administration
+CDSM|Clinical decision support mechanism|Health Administration
+QCDR|Qualified clinical data registry|Health Administration
+SDM|Shared decision making|Health Administration
+ACP|Advance care planning|Health Administration
+POLST|Physician orders for life-sustaining treatment|Health Administration
+MOLST|Medical orders for life-sustaining treatment|Health Administration
+DPOA|Durable power of attorney|Health Administration
+HCP|Health care proxy|Health Administration
+HCPOA|Health care power of attorney|Health Administration
+AD|Advance directive|Health Administration
+LAR|Legally authorized representative|Health Administration
+IRB|Institutional review board|Health Administration
+IDE|Investigational device exemption|Health Administration
+IND|Investigational new drug|Health Administration
+GCP|Good clinical practice|Health Administration
+CRO|Contract research organization|Health Administration
+CRC|Clinical research coordinator|Health Administration
+DSMB|Data safety monitoring board|Health Administration
+COI|Conflict of interest|Health Administration
+SOC|Standard of care|Health Administration
+SLA|Service level agreement|Health Administration
+BAA|Business associate agreement|Health Administration
+CE|Covered entity|Health Administration
+BA|Business associate|Health Administration
+DUA|Data use agreement|Health Administration
+MOU|Memorandum of understanding|Health Administration
+RFP|Request for proposal|Health Administration
+RFI|Request for information|Health Administration
+GMLOS|Geometric mean length of stay|Health Administration
+RW|Relative weight|Health Administration
+SOI|Severity of illness|Health Administration
+ROM|Risk of mortality|Health Administration
+O/E|Observed to expected ratio|Health Administration
+SMR|Standardized mortality ratio|Health Administration
+SIR|Standardized infection ratio|Health Administration
+RRT|Rapid response team|Health Administration
+CRT|Crisis response team|Health Administration
+MET|Medical emergency team|Health Administration
+2MN|Two-midnight rule|Health Administration
+SLP|Speech-language pathologist|Health Administration
+APP|Advanced practice provider|Health Administration
+APRN|Advanced practice registered nurse|Health Administration
+CRNA|Certified registered nurse anesthetist|Health Administration
+CNS|Clinical nurse specialist|Health Administration
+CNM|Certified nurse midwife|Health Administration
+PCT|Patient care technician|Health Administration
+PSR|Patient service representative|Health Administration
+PAR|Patient access representative|Health Administration
+PCC|Primary care clinician|Health Administration
+SCP|Specialty care physician|Health Administration
+PGY|Postgraduate year|Health Administration
+GME|Graduate medical education|Health Administration
+CME|Continuing medical education|Health Administration
+CNE|Continuing nursing education|Health Administration
+MOC|Maintenance of certification|Health Administration
+FMLA|Family and Medical Leave Act|Health Administration
+ADA|Americans with Disabilities Act|Health Administration
+OSHA-log|Occupational injury log|Health Administration
+IPC|Infection prevention and control|Health Administration
+BCP|Business continuity plan|Health Administration
+DRP|Disaster recovery plan|Health Administration
+EOP|Emergency operations plan|Health Administration
+ICS|Incident command system|Health Administration
+MCI|Mass casualty incident|Health Administration
+CAPA|Corrective and preventive action|Health Administration
+SPC|Statistical process control|Health Administration
+DMAIC|Define, measure, analyze, improve, control|Health Administration
+TQM|Total quality management|Health Administration
+VOC|Voice of the customer|Health Administration
+EBITDA|Earnings before interest, taxes, depreciation, and amortization|Health Administration
+P&L|Profit and loss|Health Administration
+CapEx|Capital expenditure|Health Administration
+OpEx|Operating expense|Health Administration
+NPR|Net patient revenue|Health Administration
+GPR|Gross patient revenue|Health Administration
+DSO|Days sales outstanding|Health Administration
+DAR|Days in accounts receivable|Health Administration
+NPV|Net present value|Health Administration
+IRR|Internal rate of return|Health Administration
+CAGR|Compound annual growth rate|Health Administration
+YTD|Year to date|Health Administration
+MTD|Month to date|Health Administration
+QTD|Quarter to date|Health Administration
+FP&A|Financial planning and analysis|Health Administration
+AP|Accounts payable|Health Administration
+UC|Uncompensated care|Health Administration
+SP|Self-pay|Health Administration
+PR|Patient responsibility|Health Administration
+CO|Contractual obligation|Health Administration
+CARC|Claim adjustment reason code|Health Administration
+RARC|Remittance advice remark code|Health Administration
+CAS|Claim adjustment segment|Health Administration
+PLB|Provider-level balance|Health Administration
+RA|Remittance advice|Health Administration
+ACH|Automated clearing house|Health Administration
+NSF|Non-sufficient funds|Health Administration
+FPRR|First-pass resolution rate|Health Administration

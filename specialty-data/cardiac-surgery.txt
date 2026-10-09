@@ -1,0 +1,621 @@
+CABG|Coronary artery bypass grafting|Cardiac Surgery
+OPCAB|Off-pump coronary artery bypass|Cardiac Surgery
+ONCAB|On-pump coronary artery bypass|Cardiac Surgery
+MIDCAB|Minimally invasive direct coronary artery bypass|Cardiac Surgery
+TECAB|Totally endoscopic coronary artery bypass|Cardiac Surgery
+CPB|Cardiopulmonary bypass|Cardiac Surgery
+ECC|Extracorporeal circulation|Cardiac Surgery
+ECMO|Extracorporeal membrane oxygenation|Cardiac Surgery
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Cardiac Surgery
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Cardiac Surgery
+ECLS|Extracorporeal life support|Cardiac Surgery
+ECPR|Extracorporeal cardiopulmonary resuscitation|Cardiac Surgery
+IABP|Intra-aortic balloon pump|Cardiac Surgery
+RVAD|Right ventricular assist device|Cardiac Surgery
+BiVAD|Biventricular assist device|Cardiac Surgery
+TAH|Total artificial heart|Cardiac Surgery
+MCS|Mechanical circulatory support|Cardiac Surgery
+PVAD|Percutaneous ventricular assist device|Cardiac Surgery
+DT|Destination therapy|Cardiac Surgery
+BTT|Bridge to transplant|Cardiac Surgery
+BTR|Bridge to recovery|Cardiac Surgery
+BTD|Bridge to decision|Cardiac Surgery
+BTC|Bridge to candidacy|Cardiac Surgery
+HTx|Heart transplant|Cardiac Surgery
+OHT|Orthotopic heart transplant|Cardiac Surgery
+HLTx|Heart-lung transplant|Cardiac Surgery
+CAV|Cardiac allograft vasculopathy|Cardiac Surgery
+PGD|Primary graft dysfunction|Cardiac Surgery
+ACR|Acute cellular rejection|Cardiac Surgery
+AMR|Antibody-mediated rejection|Cardiac Surgery
+EMB|Endomyocardial biopsy|Cardiac Surgery
+DCD|Donation after circulatory death|Cardiac Surgery
+DBD|Donation after brain death|Cardiac Surgery
+SVG|Saphenous vein graft|Cardiac Surgery
+LIMA|Left internal mammary artery|Cardiac Surgery
+RIMA|Right internal mammary artery|Cardiac Surgery
+ITA|Internal thoracic artery|Cardiac Surgery
+LITA|Left internal thoracic artery|Cardiac Surgery
+RITA|Right internal thoracic artery|Cardiac Surgery
+BIMA|Bilateral internal mammary artery|Cardiac Surgery
+GEA|Gastroepiploic artery|Cardiac Surgery
+EVH|Endoscopic vein harvest|Cardiac Surgery
+EVH|Endoscopic vessel harvesting|Cardiac Surgery
+OVH|Open vein harvest|Cardiac Surgery
+SVH|Saphenous vein harvest|Cardiac Surgery
+LAD|Left anterior descending artery|Cardiac Surgery
+LCx|Left circumflex artery|Cardiac Surgery
+LCA|Left coronary artery|Cardiac Surgery
+RCA|Right coronary artery|Cardiac Surgery
+LM|Left main coronary artery|Cardiac Surgery
+LMCA|Left main coronary artery|Cardiac Surgery
+OM|Obtuse marginal branch|Cardiac Surgery
+PDA|Patent ductus arteriosus|Cardiac Surgery
+RI|Ramus intermedius|Cardiac Surgery
+MVD|Multivessel disease|Cardiac Surgery
+3VD|Three-vessel disease|Cardiac Surgery
+2VD|Two-vessel disease|Cardiac Surgery
+1VD|One-vessel disease|Cardiac Surgery
+CAD|Coronary artery disease|Cardiac Surgery
+SIHD|Stable ischemic heart disease|Cardiac Surgery
+ACS|Acute coronary syndrome|Cardiac Surgery
+NSTEMI|Non-ST-elevation myocardial infarction|Cardiac Surgery
+STEMI|ST-elevation myocardial infarction|Cardiac Surgery
+MI|Myocardial infarction|Cardiac Surgery
+PCI|Percutaneous coronary intervention|Cardiac Surgery
+DES|Drug-eluting stent|Cardiac Surgery
+BMS|Bare-metal stent|Cardiac Surgery
+ISR|In-stent restenosis|Cardiac Surgery
+TLR|Target lesion revascularization|Cardiac Surgery
+TVR|Target vessel revascularization|Cardiac Surgery
+MACE|Major adverse cardiac events|Cardiac Surgery
+MACCE|Major adverse cardiac and cerebrovascular events|Cardiac Surgery
+MAKE|Major adverse kidney events|Cardiac Surgery
+FFR|Fractional flow reserve|Cardiac Surgery
+iFR|Instantaneous wave-free ratio|Cardiac Surgery
+QFR|Quantitative flow ratio|Cardiac Surgery
+CCTA|Coronary computed tomography angiography|Cardiac Surgery
+CTA|Computed tomography angiography|Cardiac Surgery
+CAC|Coronary artery calcium|Cardiac Surgery
+CACS|Coronary artery calcium score|Cardiac Surgery
+IVUS|Intravascular ultrasound|Cardiac Surgery
+OCT|Optical coherence tomography|Cardiac Surgery
+TMR|Transmyocardial revascularization|Cardiac Surgery
+AVR|Aortic valve replacement|Cardiac Surgery
+SAVR|Surgical aortic valve replacement|Cardiac Surgery
+TAVR|Transcatheter aortic valve replacement|Cardiac Surgery
+TAVI|Transcatheter aortic valve implantation|Cardiac Surgery
+ViV|Valve-in-valve|Cardiac Surgery
+ViR|Valve-in-ring|Cardiac Surgery
+MVR|Mitral valve replacement|Cardiac Surgery
+MVr|Mitral valve repair|Cardiac Surgery
+TVr|Tricuspid valve repair|Cardiac Surgery
+PVR|Pulmonary valve replacement|Cardiac Surgery
+PVR|Pulmonary vascular resistance|Cardiac Surgery
+PVRI|Pulmonary vascular resistance index|Cardiac Surgery
+TEER|Transcatheter edge-to-edge repair|Cardiac Surgery
+M-TEER|Mitral transcatheter edge-to-edge repair|Cardiac Surgery
+T-TEER|Tricuspid transcatheter edge-to-edge repair|Cardiac Surgery
+TMVR|Transcatheter mitral valve replacement|Cardiac Surgery
+TTVR|Transcatheter tricuspid valve replacement|Cardiac Surgery
+TPVR|Transcatheter pulmonary valve replacement|Cardiac Surgery
+PMBV|Percutaneous mitral balloon valvuloplasty|Cardiac Surgery
+PBMV|Percutaneous balloon mitral valvuloplasty|Cardiac Surgery
+BAV|Balloon aortic valvuloplasty|Cardiac Surgery
+TAV|Tricuspid aortic valve|Cardiac Surgery
+UAV|Unicuspid aortic valve|Cardiac Surgery
+AS|Aortic stenosis|Cardiac Surgery
+AR|Aortic regurgitation|Cardiac Surgery
+AI|Aortic insufficiency|Cardiac Surgery
+MS|Mitral stenosis|Cardiac Surgery
+MR|Mitral regurgitation|Cardiac Surgery
+PMR|Primary mitral regurgitation|Cardiac Surgery
+SMR|Secondary mitral regurgitation|Cardiac Surgery
+FMR|Functional mitral regurgitation|Cardiac Surgery
+IMR|Ischemic mitral regurgitation|Cardiac Surgery
+DMR|Degenerative mitral regurgitation|Cardiac Surgery
+TR|Tricuspid regurgitation|Cardiac Surgery
+FTR|Functional tricuspid regurgitation|Cardiac Surgery
+TS|Tricuspid stenosis|Cardiac Surgery
+PS|Pulmonary stenosis|Cardiac Surgery
+VHD|Valvular heart disease|Cardiac Surgery
+RHD|Rheumatic heart disease|Cardiac Surgery
+IE|Infective endocarditis|Cardiac Surgery
+NVE|Native valve endocarditis|Cardiac Surgery
+PVE|Prosthetic valve endocarditis|Cardiac Surgery
+SAM|Systolic anterior motion of the mitral valve|Cardiac Surgery
+LVOT|Left ventricular outflow tract|Cardiac Surgery
+LVOTO|Left ventricular outflow tract obstruction|Cardiac Surgery
+RVOT|Right ventricular outflow tract|Cardiac Surgery
+RVOTO|Right ventricular outflow tract obstruction|Cardiac Surgery
+AVA|Aortic valve area|Cardiac Surgery
+AVAi|Indexed aortic valve area|Cardiac Surgery
+MVA|Mitral valve area|Cardiac Surgery
+EOA|Effective orifice area|Cardiac Surgery
+EROA|Effective regurgitant orifice area|Cardiac Surgery
+RVol|Regurgitant volume|Cardiac Surgery
+RF|Regurgitant fraction|Cardiac Surgery
+VC|Vena contracta|Cardiac Surgery
+PHT|Pressure half-time|Cardiac Surgery
+DVI|Doppler velocity index|Cardiac Surgery
+Vmax|Peak velocity|Cardiac Surgery
+MG|Mean gradient|Cardiac Surgery
+PG|Peak gradient|Cardiac Surgery
+MPG|Mean pressure gradient|Cardiac Surgery
+PPM|Patient-prosthesis mismatch|Cardiac Surgery
+PVL|Paravalvular leak|Cardiac Surgery
+PVL|Paravalvular leakage|Cardiac Surgery
+SVD|Structural valve degeneration|Cardiac Surgery
+BVF|Bioprosthetic valve failure|Cardiac Surgery
+MHV|Mechanical heart valve|Cardiac Surgery
+BHV|Bioprosthetic heart valve|Cardiac Surgery
+MV|Mitral valve|Cardiac Surgery
+AV|Aortic valve|Cardiac Surgery
+TV|Tricuspid valve|Cardiac Surgery
+PV|Pulmonic valve|Cardiac Surgery
+AML|Anterior mitral leaflet|Cardiac Surgery
+PML|Posterior mitral leaflet|Cardiac Surgery
+P1|Lateral scallop of posterior mitral leaflet|Cardiac Surgery
+P2|Middle scallop of posterior mitral leaflet|Cardiac Surgery
+P3|Medial scallop of posterior mitral leaflet|Cardiac Surgery
+A1|Lateral segment of anterior mitral leaflet|Cardiac Surgery
+A2|Middle segment of anterior mitral leaflet|Cardiac Surgery
+A3|Medial segment of anterior mitral leaflet|Cardiac Surgery
+LCC|Left coronary cusp|Cardiac Surgery
+RCC|Right coronary cusp|Cardiac Surgery
+NCC|Non-coronary cusp|Cardiac Surgery
+STJ|Sinotubular junction|Cardiac Surgery
+LVOT-VTI|Left ventricular outflow tract velocity time integral|Cardiac Surgery
+VTI|Velocity time integral|Cardiac Surgery
+TAAA|Thoracoabdominal aortic aneurysm|Cardiac Surgery
+AAA|Abdominal aortic aneurysm|Cardiac Surgery
+AD|Aortic dissection|Cardiac Surgery
+TAD|Thoracic aortic dissection|Cardiac Surgery
+IMH|Intramural hematoma|Cardiac Surgery
+PAU|Penetrating aortic ulcer|Cardiac Surgery
+TBAD|Type B aortic dissection|Cardiac Surgery
+BCVI|Blunt cerebrovascular injury|Cardiac Surgery
+BAI|Blunt aortic injury|Cardiac Surgery
+TEVAR|Thoracic endovascular aortic repair|Cardiac Surgery
+EVAR|Endovascular aortic repair|Cardiac Surgery
+FEVAR|Fenestrated endovascular aortic repair|Cardiac Surgery
+BEVAR|Branched endovascular aortic repair|Cardiac Surgery
+FET|Frozen elephant trunk|Cardiac Surgery
+ET|Elephant trunk|Cardiac Surgery
+HCA|Hypothermic circulatory arrest|Cardiac Surgery
+DHCA|Deep hypothermic circulatory arrest|Cardiac Surgery
+SCP|Selective cerebral perfusion|Cardiac Surgery
+RCP|Retrograde cerebral perfusion|Cardiac Surgery
+UACP|Unilateral antegrade cerebral perfusion|Cardiac Surgery
+BACP|Bilateral antegrade cerebral perfusion|Cardiac Surgery
+CSF|Cerebrospinal fluid|Cardiac Surgery
+CSFD|Cerebrospinal fluid drainage|Cardiac Surgery
+SCI|Spinal cord ischemia|Cardiac Surgery
+SCI|Spinal cord injury|Cardiac Surgery
+MEP|Motor evoked potentials|Cardiac Surgery
+SSEP|Somatosensory evoked potentials|Cardiac Surgery
+NIRS|Near-infrared spectroscopy|Cardiac Surgery
+rSO2|Regional cerebral oxygen saturation|Cardiac Surgery
+LSA|Left subclavian artery|Cardiac Surgery
+RSA|Right subclavian artery|Cardiac Surgery
+LCCA|Left common carotid artery|Cardiac Surgery
+PFO|Patent foramen ovale|Cardiac Surgery
+ASD|Atrial septal defect|Cardiac Surgery
+VSD|Ventricular septal defect|Cardiac Surgery
+ASO|Arterial switch operation|Cardiac Surgery
+AVSD|Atrioventricular septal defect|Cardiac Surgery
+CAVC|Complete atrioventricular canal|Cardiac Surgery
+TOF|Tetralogy of Fallot|Cardiac Surgery
+TGA|Transposition of the great arteries|Cardiac Surgery
+d-TGA|Dextro-transposition of the great arteries|Cardiac Surgery
+L-TGA|Levo-transposition of the great arteries|Cardiac Surgery
+ccTGA|Congenitally corrected transposition of the great arteries|Cardiac Surgery
+DORV|Double outlet right ventricle|Cardiac Surgery
+DOLV|Double outlet left ventricle|Cardiac Surgery
+TAPVR|Total anomalous pulmonary venous return|Cardiac Surgery
+PAPVR|Partial anomalous pulmonary venous return|Cardiac Surgery
+TAPVC|Total anomalous pulmonary venous connection|Cardiac Surgery
+HLHS|Hypoplastic left heart syndrome|Cardiac Surgery
+PA-IVS|Pulmonary atresia with intact ventricular septum|Cardiac Surgery
+PA-VSD|Pulmonary atresia with ventricular septal defect|Cardiac Surgery
+TA|Tricuspid atresia|Cardiac Surgery
+SV|Single ventricle|Cardiac Surgery
+UVH|Univentricular heart|Cardiac Surgery
+CoA|Coarctation of the aorta|Cardiac Surgery
+IAA|Interrupted aortic arch|Cardiac Surgery
+PAH|Pulmonary arterial hypertension|Cardiac Surgery
+PH|Pulmonary hypertension|Cardiac Surgery
+CTEPH|Chronic thromboembolic pulmonary hypertension|Cardiac Surgery
+PTE|Pulmonary thromboendarterectomy|Cardiac Surgery
+PEA|Pulseless electrical activity|Cardiac Surgery
+BPA|Balloon pulmonary angioplasty|Cardiac Surgery
+TCPC|Total cavopulmonary connection|Cardiac Surgery
+BDG|Bidirectional cavopulmonary shunt|Cardiac Surgery
+PAB|Pulmonary artery banding|Cardiac Surgery
+PAB|Pulmonary artery band|Cardiac Surgery
+MBTS|Modified systemic-to-pulmonary artery shunt|Cardiac Surgery
+RVPA|Right ventricle to pulmonary artery|Cardiac Surgery
+RV-PA|Right ventricle to pulmonary artery|Cardiac Surgery
+RVPAC|Right ventricle to pulmonary artery conduit|Cardiac Surgery
+LPA|Left pulmonary artery|Cardiac Surgery
+RPA|Right pulmonary artery|Cardiac Surgery
+MPA|Main pulmonary artery|Cardiac Surgery
+SVC|Superior vena cava|Cardiac Surgery
+IVC|Inferior vena cava|Cardiac Surgery
+RA|Right atrium|Cardiac Surgery
+LA|Left atrium|Cardiac Surgery
+RV|Right ventricle|Cardiac Surgery
+LV|Left ventricle|Cardiac Surgery
+RAA|Right atrial appendage|Cardiac Surgery
+LAA|Left atrial appendage|Cardiac Surgery
+LAAO|Left atrial appendage occlusion|Cardiac Surgery
+LAAE|Left atrial appendage exclusion|Cardiac Surgery
+LAAC|Left atrial appendage closure|Cardiac Surgery
+AF|Atrial fibrillation|Cardiac Surgery
+AFib|Atrial fibrillation|Cardiac Surgery
+AFL|Atrial flutter|Cardiac Surgery
+POAF|Postoperative atrial fibrillation|Cardiac Surgery
+NOAF|New-onset atrial fibrillation|Cardiac Surgery
+PAF|Paroxysmal atrial fibrillation|Cardiac Surgery
+PeAF|Persistent atrial fibrillation|Cardiac Surgery
+LSPAF|Long-standing persistent atrial fibrillation|Cardiac Surgery
+SVT|Supraventricular tachycardia|Cardiac Surgery
+VT|Ventricular tachycardia|Cardiac Surgery
+VF|Ventricular fibrillation|Cardiac Surgery
+PVC|Premature ventricular contraction|Cardiac Surgery
+PAC|Premature atrial contraction|Cardiac Surgery
+NSR|Normal sinus rhythm|Cardiac Surgery
+SR|Sinus rhythm|Cardiac Surgery
+SB|Sinus bradycardia|Cardiac Surgery
+CHB|Complete heart block|Cardiac Surgery
+RBBB|Right bundle branch block|Cardiac Surgery
+LBBB|Left bundle branch block|Cardiac Surgery
+IVCD|Intraventricular conduction delay|Cardiac Surgery
+NSSTTW|Nonspecific ST-T wave changes|Cardiac Surgery
+MAP|Mean arterial pressure|Cardiac Surgery
+CVP|Central venous pressure|Cardiac Surgery
+PAP|Pulmonary artery pressure|Cardiac Surgery
+PAWP|Pulmonary artery wedge pressure|Cardiac Surgery
+PCWP|Pulmonary capillary wedge pressure|Cardiac Surgery
+PADP|Pulmonary artery diastolic pressure|Cardiac Surgery
+mPAP|Mean pulmonary artery pressure|Cardiac Surgery
+RAP|Right atrial pressure|Cardiac Surgery
+LAP|Left atrial pressure|Cardiac Surgery
+LVEDP|Left ventricular end-diastolic pressure|Cardiac Surgery
+RVEDP|Right ventricular end-diastolic pressure|Cardiac Surgery
+LVSP|Left ventricular systolic pressure|Cardiac Surgery
+SVR|Systemic vascular resistance|Cardiac Surgery
+SVRI|Systemic vascular resistance index|Cardiac Surgery
+CO|Cardiac output|Cardiac Surgery
+CI|Cardiac index|Cardiac Surgery
+SVI|Stroke volume index|Cardiac Surgery
+SVV|Stroke volume variation|Cardiac Surgery
+PPV|Pulse pressure variation|Cardiac Surgery
+PPV|Positive pressure ventilation|Cardiac Surgery
+PAC|Pulmonary artery catheter|Cardiac Surgery
+SvO2|Mixed venous oxygen saturation|Cardiac Surgery
+ScvO2|Central venous oxygen saturation|Cardiac Surgery
+DO2|Oxygen delivery|Cardiac Surgery
+DO2i|Indexed oxygen delivery|Cardiac Surgery
+VO2|Oxygen consumption|Cardiac Surgery
+O2ER|Oxygen extraction ratio|Cardiac Surgery
+PAPi|Pulmonary artery pulsatility index|Cardiac Surgery
+CPO|Cardiac power output|Cardiac Surgery
+CPI|Cardiac power index|Cardiac Surgery
+RVSWI|Right ventricular stroke work index|Cardiac Surgery
+LVSWI|Left ventricular stroke work index|Cardiac Surgery
+LVEF|Left ventricular ejection fraction|Cardiac Surgery
+EF|Ejection fraction|Cardiac Surgery
+RVEF|Right ventricular ejection fraction|Cardiac Surgery
+LVEDV|Left ventricular end-diastolic volume|Cardiac Surgery
+LVESV|Left ventricular end-systolic volume|Cardiac Surgery
+LVEDD|Left ventricular end-diastolic diameter|Cardiac Surgery
+LVESD|Left ventricular end-systolic diameter|Cardiac Surgery
+LVH|Left ventricular hypertrophy|Cardiac Surgery
+RVH|Right ventricular hypertrophy|Cardiac Surgery
+LVID|Left ventricular internal dimension|Cardiac Surgery
+IVS|Interventricular septum|Cardiac Surgery
+IVSd|Interventricular septal thickness in diastole|Cardiac Surgery
+LVPW|Left ventricular posterior wall|Cardiac Surgery
+LVPWd|Left ventricular posterior wall thickness in diastole|Cardiac Surgery
+RWT|Relative wall thickness|Cardiac Surgery
+GLS|Global longitudinal strain|Cardiac Surgery
+TAPSE|Tricuspid annular plane systolic excursion|Cardiac Surgery
+FAC|Fractional area change|Cardiac Surgery
+RVSP|Right ventricular systolic pressure|Cardiac Surgery
+PASP|Pulmonary artery systolic pressure|Cardiac Surgery
+TRV|Tricuspid regurgitation velocity|Cardiac Surgery
+TDI|Tissue Doppler imaging|Cardiac Surgery
+LAVI|Left atrial volume index|Cardiac Surgery
+RAVI|Right atrial volume index|Cardiac Surgery
+HF|Heart failure|Cardiac Surgery
+HFrEF|Heart failure with reduced ejection fraction|Cardiac Surgery
+HFpEF|Heart failure with preserved ejection fraction|Cardiac Surgery
+HFmrEF|Heart failure with mildly reduced ejection fraction|Cardiac Surgery
+ADHF|Acute decompensated heart failure|Cardiac Surgery
+CHF|Congestive heart failure|Cardiac Surgery
+AMI-CS|Acute myocardial infarction with cardiogenic shock|Cardiac Surgery
+LCOS|Low cardiac output syndrome|Cardiac Surgery
+RHF|Right heart failure|Cardiac Surgery
+RVF|Right ventricular failure|Cardiac Surgery
+LVF|Left ventricular failure|Cardiac Surgery
+NYHA|New York Heart Association functional class|Cardiac Surgery
+CCS|Canadian Cardiovascular Society angina class|Cardiac Surgery
+DCM|Dilated cardiomyopathy|Cardiac Surgery
+ICM|Ischemic cardiomyopathy|Cardiac Surgery
+NICM|Non-ischemic cardiomyopathy|Cardiac Surgery
+HCM|Hypertrophic cardiomyopathy|Cardiac Surgery
+HOCM|Hypertrophic obstructive cardiomyopathy|Cardiac Surgery
+RCM|Restrictive cardiomyopathy|Cardiac Surgery
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Cardiac Surgery
+SSM|Septal myectomy|Cardiac Surgery
+ASA|Alcohol septal ablation|Cardiac Surgery
+LVA|Left ventricular aneurysm|Cardiac Surgery
+LVR|Left ventricular reconstruction|Cardiac Surgery
+SVR|Surgical ventricular restoration|Cardiac Surgery
+VSR|Ventricular septal rupture|Cardiac Surgery
+PMR|Papillary muscle rupture|Cardiac Surgery
+FWR|Free wall rupture|Cardiac Surgery
+LVP|Left ventricular pseudoaneurysm|Cardiac Surgery
+CRT|Cardiac resynchronization therapy|Cardiac Surgery
+CRT-D|Cardiac resynchronization therapy with defibrillator|Cardiac Surgery
+CRT-P|Cardiac resynchronization therapy with pacemaker|Cardiac Surgery
+ICD|Implantable cardioverter-defibrillator|Cardiac Surgery
+PPM|Permanent pacemaker|Cardiac Surgery
+PPM|Permanent pacemaker placement|Cardiac Surgery
+CIED|Cardiac implantable electronic device|Cardiac Surgery
+TPW|Temporary pacing wire|Cardiac Surgery
+EPW|Epicardial pacing wire|Cardiac Surgery
+EPWs|Epicardial pacing wires|Cardiac Surgery
+TVP|Transvenous pacemaker|Cardiac Surgery
+AAI|Atrial demand pacing mode|Cardiac Surgery
+VVI|Ventricular demand pacing mode|Cardiac Surgery
+DDD|Dual-chamber pacing mode|Cardiac Surgery
+VOO|Ventricular asynchronous pacing mode|Cardiac Surgery
+AOO|Atrial asynchronous pacing mode|Cardiac Surgery
+EP|Electrophysiology|Cardiac Surgery
+RFA|Radiofrequency ablation|Cardiac Surgery
+CA|Catheter ablation|Cardiac Surgery
+PVI|Pulmonary vein isolation|Cardiac Surgery
+CTI|Cavotricuspid isthmus|Cardiac Surgery
+SSS|Sick sinus syndrome|Cardiac Surgery
+TdP|Torsades de pointes|Cardiac Surgery
+CPR|Cardiopulmonary resuscitation|Cardiac Surgery
+ACLS|Advanced cardiac life support|Cardiac Surgery
+ROSC|Return of spontaneous circulation|Cardiac Surgery
+CA|Cardiac arrest|Cardiac Surgery
+IHCA|In-hospital cardiac arrest|Cardiac Surgery
+OHCA|Out-of-hospital cardiac arrest|Cardiac Surgery
+TTM|Targeted temperature management|Cardiac Surgery
+SCD|Sudden cardiac death|Cardiac Surgery
+PROM|Predicted risk of mortality|Cardiac Surgery
+LOS|Length of stay|Cardiac Surgery
+ICU|Intensive care unit|Cardiac Surgery
+CTICU|Cardiothoracic intensive care unit|Cardiac Surgery
+CSICU|Cardiac surgery intensive care unit|Cardiac Surgery
+CCU|Cardiac care unit|Cardiac Surgery
+SDU|Step-down unit|Cardiac Surgery
+PACU|Post-anesthesia care unit|Cardiac Surgery
+OR|Operating room|Cardiac Surgery
+POD|Postoperative day|Cardiac Surgery
+POD0|Day of surgery|Cardiac Surgery
+POD1|Postoperative day one|Cardiac Surgery
+POD2|Postoperative day two|Cardiac Surgery
+CTS|Cardiothoracic surgery|Cardiac Surgery
+CT surgery|Cardiothoracic surgery|Cardiac Surgery
+ERAS|Enhanced recovery after surgery|Cardiac Surgery
+CR|Cardiac rehabilitation|Cardiac Surgery
+MIS|Minimally invasive surgery|Cardiac Surgery
+MICS|Minimally invasive cardiac surgery|Cardiac Surgery
+MIMVS|Minimally invasive mitral valve surgery|Cardiac Surgery
+MIAVR|Minimally invasive aortic valve replacement|Cardiac Surgery
+RAT|Right anterior thoracotomy|Cardiac Surgery
+RAMT|Right anterior mini-thoracotomy|Cardiac Surgery
+RALT|Right anterolateral thoracotomy|Cardiac Surgery
+VATS|Video-assisted thoracoscopic surgery|Cardiac Surgery
+RATS|Robotic-assisted thoracoscopic surgery|Cardiac Surgery
+RAMVR|Robotic-assisted mitral valve repair|Cardiac Surgery
+UMS|Upper mini-sternotomy|Cardiac Surgery
+SWI|Sternal wound infection|Cardiac Surgery
+DSWI|Deep sternal wound infection|Cardiac Surgery
+SSI|Surgical site infection|Cardiac Surgery
+SWD|Sternal wound dehiscence|Cardiac Surgery
+MRSA|Methicillin-resistant Staphylococcus aureus|Cardiac Surgery
+MSSA|Methicillin-susceptible Staphylococcus aureus|Cardiac Surgery
+NPWT|Negative pressure wound therapy|Cardiac Surgery
+VAC|Vacuum-assisted closure|Cardiac Surgery
+CXR|Chest x-ray|Cardiac Surgery
+JP|Jackson-Pratt drain|Cardiac Surgery
+TEE|Transesophageal echocardiography|Cardiac Surgery
+TTE|Transthoracic echocardiography|Cardiac Surgery
+ICE|Intracardiac echocardiography|Cardiac Surgery
+EUS|Endoscopic ultrasound|Cardiac Surgery
+POCUS|Point-of-care ultrasound|Cardiac Surgery
+CMR|Cardiac magnetic resonance imaging|Cardiac Surgery
+LGE|Late gadolinium enhancement|Cardiac Surgery
+MPI|Myocardial perfusion imaging|Cardiac Surgery
+MUGA|Multigated acquisition scan|Cardiac Surgery
+TG|Transgastric|Cardiac Surgery
+4C|Four-chamber view|Cardiac Surgery
+2C|Two-chamber view|Cardiac Surgery
+ME AV SAX|Midesophageal aortic valve short-axis view|Cardiac Surgery
+ME AV LAX|Midesophageal aortic valve long-axis view|Cardiac Surgery
+ME 4C|Midesophageal four-chamber view|Cardiac Surgery
+ME 2C|Midesophageal two-chamber view|Cardiac Surgery
+ME LAX|Midesophageal long-axis view|Cardiac Surgery
+TG SAX|Transgastric short-axis view|Cardiac Surgery
+TG 2C|Transgastric two-chamber view|Cardiac Surgery
+LVOT|Left ventricular outflow tract view|Cardiac Surgery
+CHD|Congenital heart disease|Cardiac Surgery
+ACHD|Adult congenital heart disease|Cardiac Surgery
+GUCH|Grown-up congenital heart disease|Cardiac Surgery
+CCHD|Critical congenital heart disease|Cardiac Surgery
+CPB time|Cardiopulmonary bypass time|Cardiac Surgery
+XC|Cross-clamp|Cardiac Surgery
+XC time|Aortic cross-clamp time|Cardiac Surgery
+AXC|Aortic cross-clamp|Cardiac Surgery
+ACC|Aortic cross-clamp|Cardiac Surgery
+ACCT|Aortic cross-clamp time|Cardiac Surgery
+CPBT|Cardiopulmonary bypass time|Cardiac Surgery
+PTT|Partial thromboplastin time|Cardiac Surgery
+aPTT|Activated partial thromboplastin time|Cardiac Surgery
+INR|International normalized ratio|Cardiac Surgery
+ACT|Activated clotting time|Cardiac Surgery
+ACT-L|Low-range activated clotting time|Cardiac Surgery
+HMS|Heparin management system|Cardiac Surgery
+HIT|Heparin-induced thrombocytopenia|Cardiac Surgery
+HITT|Heparin-induced thrombocytopenia and thrombosis|Cardiac Surgery
+UFH|Unfractionated heparin|Cardiac Surgery
+LMWH|Low-molecular-weight heparin|Cardiac Surgery
+PCC|Prothrombin complex concentrate|Cardiac Surgery
+4F-PCC|Four-factor prothrombin complex concentrate|Cardiac Surgery
+FFP|Fresh frozen plasma|Cardiac Surgery
+PRBC|Packed red blood cells|Cardiac Surgery
+pRBC|Packed red blood cells|Cardiac Surgery
+RBC|Red blood cells|Cardiac Surgery
+Plt|Platelet count|Cardiac Surgery
+CRYO|Cryoprecipitate|Cardiac Surgery
+Cryo|Cryoprecipitate|Cardiac Surgery
+FVIIa|Activated factor VII|Cardiac Surgery
+rFVIIa|Recombinant activated factor VII|Cardiac Surgery
+TXA|Tranexamic acid|Cardiac Surgery
+EACA|Epsilon-aminocaproic acid|Cardiac Surgery
+MTP|Massive transfusion protocol|Cardiac Surgery
+TEG|Thromboelastography|Cardiac Surgery
+PFA|Platelet function assay|Cardiac Surgery
+PRU|P2Y12 reaction units|Cardiac Surgery
+Hct|Hematocrit|Cardiac Surgery
+GFR|Glomerular filtration rate|Cardiac Surgery
+eGFR|Estimated glomerular filtration rate|Cardiac Surgery
+AKI|Acute kidney injury|Cardiac Surgery
+CSA-AKI|Cardiac surgery-associated acute kidney injury|Cardiac Surgery
+RRT|Renal replacement therapy|Cardiac Surgery
+CRRT|Continuous renal replacement therapy|Cardiac Surgery
+CVVH|Continuous venovenous hemofiltration|Cardiac Surgery
+CVVHD|Continuous venovenous hemodialysis|Cardiac Surgery
+CVVHDF|Continuous venovenous hemodiafiltration|Cardiac Surgery
+iCa|Ionized calcium|Cardiac Surgery
+BNP|B-type natriuretic peptide|Cardiac Surgery
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Cardiac Surgery
+cTn|Cardiac troponin|Cardiac Surgery
+cTnI|Cardiac troponin I|Cardiac Surgery
+cTnT|Cardiac troponin T|Cardiac Surgery
+hs-cTn|High-sensitivity cardiac troponin|Cardiac Surgery
+CK|Creatine kinase|Cardiac Surgery
+CK-MB|Creatine kinase myocardial band|Cardiac Surgery
+LDL-C|Low-density lipoprotein cholesterol|Cardiac Surgery
+Lp(a)|Lipoprotein(a)|Cardiac Surgery
+PVD|Peripheral vascular disease|Cardiac Surgery
+PAD|Peripheral artery disease|Cardiac Surgery
+CVD|Cardiovascular disease|Cardiac Surgery
+CVA|Cerebrovascular accident|Cardiac Surgery
+TIA|Transient ischemic attack|Cardiac Surgery
+POCD|Postoperative cognitive dysfunction|Cardiac Surgery
+POD|Postoperative delirium|Cardiac Surgery
+VAP|Ventilator-associated pneumonia|Cardiac Surgery
+HAP|Hospital-acquired pneumonia|Cardiac Surgery
+ARDS|Acute respiratory distress syndrome|Cardiac Surgery
+PPC|Postoperative pulmonary complication|Cardiac Surgery
+PPCs|Postoperative pulmonary complications|Cardiac Surgery
+MV|Mechanical ventilation|Cardiac Surgery
+NIV|Noninvasive ventilation|Cardiac Surgery
+NIPPV|Noninvasive positive pressure ventilation|Cardiac Surgery
+iNO|Inhaled nitric oxide|Cardiac Surgery
+NO|Nitric oxide|Cardiac Surgery
+PDE5i|Phosphodiesterase-5 inhibitor|Cardiac Surgery
+ERA|Endothelin receptor antagonist|Cardiac Surgery
+NTG|Nitroglycerin|Cardiac Surgery
+NTP|Nitroprusside|Cardiac Surgery
+SNP|Sodium nitroprusside|Cardiac Surgery
+GDMT|Guideline-directed medical therapy|Cardiac Surgery
+ASA|Aspirin|Cardiac Surgery
+DAPT|Dual antiplatelet therapy|Cardiac Surgery
+SAPT|Single antiplatelet therapy|Cardiac Surgery
+P2Y12i|P2Y12 inhibitor|Cardiac Surgery
+DOAC|Direct oral anticoagulant|Cardiac Surgery
+NOAC|Novel oral anticoagulant|Cardiac Surgery
+VKA|Vitamin K antagonist|Cardiac Surgery
+OAC|Oral anticoagulant|Cardiac Surgery
+AP|Antiplatelet|Cardiac Surgery
+AAD|Antiarrhythmic drug|Cardiac Surgery
+AADs|Antiarrhythmic drugs|Cardiac Surgery
+PTLD|Post-transplant lymphoproliferative disorder|Cardiac Surgery
+RHC|Right heart catheterization|Cardiac Surgery
+LHC|Left heart catheterization|Cardiac Surgery
+CATH|Cardiac catheterization|Cardiac Surgery
+LV gram|Left ventriculogram|Cardiac Surgery
+CAG|Coronary angiography|Cardiac Surgery
+TFA|Transfemoral access|Cardiac Surgery
+TRA|Transradial access|Cardiac Surgery
+ALI|Acute limb ischemia|Cardiac Surgery
+LA|Left atrial|Cardiac Surgery
+RV|Right ventricular|Cardiac Surgery
+CF-LVAD|Continuous-flow left ventricular assist device|Cardiac Surgery
+pLVAD|Percutaneous left ventricular assist device|Cardiac Surgery
+LVAD PI|LVAD pulsatility index|Cardiac Surgery
+RPM|Revolutions per minute|Cardiac Surgery
+VAD speed|Pump rotational speed|Cardiac Surgery
+DL|Driveline|Cardiac Surgery
+DLI|Driveline infection|Cardiac Surgery
+AVM|Arteriovenous malformation|Cardiac Surgery
+AVWD|Acquired von Willebrand disease|Cardiac Surgery
+vWD|Von Willebrand disease|Cardiac Surgery
+VWF|Von Willebrand factor|Cardiac Surgery
+CVICU team|Cardiovascular ICU team|Cardiac Surgery
+LVAD hum|Continuous mechanical hum of LVAD|Cardiac Surgery
+TPG|Transpulmonary gradient|Cardiac Surgery
+DPG|Diastolic pulmonary gradient|Cardiac Surgery
+WU|Wood units|Cardiac Surgery
+Qp:Qs|Pulmonary to systemic blood flow ratio|Cardiac Surgery
+Qp/Qs|Pulmonary to systemic blood flow ratio|Cardiac Surgery
+VS|Vasoplegic syndrome|Cardiac Surgery
+VPS|Vasoplegic syndrome|Cardiac Surgery
+VPS|Vasoplegia syndrome|Cardiac Surgery
+MB|Methylene blue|Cardiac Surgery
+MODS|Multiple organ dysfunction syndrome|Cardiac Surgery
+MOF|Multiple organ failure|Cardiac Surgery
+SOFA|Sequential organ failure assessment|Cardiac Surgery
+APACHE|Acute physiology and chronic health evaluation|Cardiac Surgery
+SAPS|Simplified acute physiology score|Cardiac Surgery
+VIS|Vasoactive-inotropic score|Cardiac Surgery
+CP|Cardioplegia|Cardiac Surgery
+CSC|Coronary sinus catheter|Cardiac Surgery
+CSP|Coronary sinus pressure|Cardiac Surgery
+VSRR|Valve-sparing root replacement|Cardiac Surgery
+VSARR|Valve-sparing aortic root replacement|Cardiac Surgery
+PAU|Penetrating atherosclerotic ulcer|Cardiac Surgery
+Hgb|Hemoglobin|Cardiac Surgery
+Lac|Lactate|Cardiac Surgery
+PTX|Pneumothorax|Cardiac Surgery
+CTs|Chest tubes|Cardiac Surgery
+PE|Pulmonary embolism|Cardiac Surgery
+PCT|Procalcitonin|Cardiac Surgery
+TG|Triglycerides|Cardiac Surgery
+SV|Stroke volume|Cardiac Surgery
+AC|Anticoagulation|Cardiac Surgery
+ST|Sinus tachycardia|Cardiac Surgery
+PT|Prothrombin time|Cardiac Surgery
+PDA|Posterior descending artery|Cardiac Surgery
+BAV|Bicuspid aortic valve|Cardiac Surgery
+CS|Cardiogenic shock|Cardiac Surgery
+AoV|Aortic valve|Cardiac Surgery
+Ao|Aorta|Cardiac Surgery
+Cre|Creatinine|Cardiac Surgery
+GIB|Gastrointestinal bleeding|Cardiac Surgery
+ARF|Acute respiratory failure|Cardiac Surgery
+LE|Lower extremity|Cardiac Surgery
+BLE|Bilateral lower extremities|Cardiac Surgery
+PND|Paroxysmal nocturnal dyspnea|Cardiac Surgery
+PO|By mouth|Cardiac Surgery
+NGT|Nasogastric tube|Cardiac Surgery
+OGT|Orogastric tube|Cardiac Surgery
+Qp|Pulmonary blood flow|Cardiac Surgery
+Qs|Systemic blood flow|Cardiac Surgery
+L-to-R|Left-to-right|Cardiac Surgery
+R-to-L|Right-to-left|Cardiac Surgery
+PVs|Pulmonary veins|Cardiac Surgery
+ARR|Aortic root replacement|Cardiac Surgery
+IM|Intramuscular|Cardiac Surgery
+SC|Subcutaneous|Cardiac Surgery
+DC|Discharge|Cardiac Surgery
+CS|Coronary sinus|Cardiac Surgery

@@ -1,0 +1,700 @@
+AKI|Acute kidney injury|Nephrology
+CKD|Chronic kidney disease|Nephrology
+ESRD|End-stage renal disease|Nephrology
+ESKD|End-stage kidney disease|Nephrology
+ARF|Acute renal failure|Nephrology
+CRF|Chronic renal failure|Nephrology
+ATN|Acute tubular necrosis|Nephrology
+AIN|Acute interstitial nephritis|Nephrology
+CIN|Contrast-induced nephropathy|Nephrology
+GFR|Glomerular filtration rate|Nephrology
+eGFR|Estimated glomerular filtration rate|Nephrology
+mGFR|Measured glomerular filtration rate|Nephrology
+SCr|Serum creatinine|Nephrology
+Cr|Creatinine|Nephrology
+CrCl|Creatinine clearance|Nephrology
+BUN|Blood urea nitrogen|Nephrology
+UUN|Urine urea nitrogen|Nephrology
+UOP|Urine output|Nephrology
+UO|Urine output|Nephrology
+U/O|Urine output|Nephrology
+I/O|Intake and output|Nephrology
+I&O|Intake and output|Nephrology
+UA|Urinalysis|Nephrology
+UCx|Urine culture|Nephrology
+UPCR|Urine protein-to-creatinine ratio|Nephrology
+UACR|Urine albumin-to-creatinine ratio|Nephrology
+ACR|Albumin-to-creatinine ratio|Nephrology
+PCR|Protein-to-creatinine ratio|Nephrology
+GN|Glomerulonephritis|Nephrology
+PIGN|Post-infectious glomerulonephritis|Nephrology
+PSGN|Post-streptococcal glomerulonephritis|Nephrology
+RPGN|Rapidly progressive glomerulonephritis|Nephrology
+MPGN|Membranoproliferative glomerulonephritis|Nephrology
+MGN|Membranous glomerulonephritis|Nephrology
+MN|Membranous nephropathy|Nephrology
+PMN|Primary membranous nephropathy|Nephrology
+IgAN|Immunoglobulin A nephropathy|Nephrology
+IgA|Immunoglobulin A|Nephrology
+HSP|Henoch-Schonlein purpura (IgA vasculitis)|Nephrology
+FSGS|Focal segmental glomerulosclerosis|Nephrology
+MCD|Minimal change disease|Nephrology
+MCN|Minimal change nephropathy|Nephrology
+NS|Nephrotic syndrome|Nephrology
+SRNS|Steroid-resistant nephrotic syndrome|Nephrology
+SSNS|Steroid-sensitive nephrotic syndrome|Nephrology
+SDNS|Steroid-dependent nephrotic syndrome|Nephrology
+DN|Diabetic nephropathy|Nephrology
+DKD|Diabetic kidney disease|Nephrology
+LN|Lupus nephritis|Nephrology
+SLE|Systemic lupus erythematosus|Nephrology
+ANCA|Antineutrophil cytoplasmic antibody|Nephrology
+c-ANCA|Cytoplasmic antineutrophil cytoplasmic antibody|Nephrology
+p-ANCA|Perinuclear antineutrophil cytoplasmic antibody|Nephrology
+MPO|Myeloperoxidase|Nephrology
+PR3|Proteinase 3|Nephrology
+GPA|Granulomatosis with polyangiitis|Nephrology
+MPA|Microscopic polyangiitis|Nephrology
+EGPA|Eosinophilic granulomatosis with polyangiitis|Nephrology
+GBM|Glomerular basement membrane|Nephrology
+anti-GBM|Anti-glomerular basement membrane antibody|Nephrology
+TBMN|Thin basement membrane nephropathy|Nephrology
+TMA|Thrombotic microangiopathy|Nephrology
+TTP|Thrombotic thrombocytopenic purpura|Nephrology
+HUS|Hemolytic uremic syndrome|Nephrology
+aHUS|Atypical hemolytic uremic syndrome|Nephrology
+STEC-HUS|Shiga toxin-producing E. coli hemolytic uremic syndrome|Nephrology
+DIC|Disseminated intravascular coagulation|Nephrology
+APS|Antiphospholipid syndrome|Nephrology
+SRC|Scleroderma renal crisis|Nephrology
+HRS|Hepatorenal syndrome|Nephrology
+HRS-AKI|Hepatorenal syndrome with acute kidney injury|Nephrology
+CRS|Cardiorenal syndrome|Nephrology
+ADPKD|Autosomal dominant polycystic kidney disease|Nephrology
+ARPKD|Autosomal recessive polycystic kidney disease|Nephrology
+PKD|Polycystic kidney disease|Nephrology
+TKV|Total kidney volume|Nephrology
+htTKV|Height-adjusted total kidney volume|Nephrology
+MCKD|Medullary cystic kidney disease|Nephrology
+MSK|Medullary sponge kidney|Nephrology
+CAKUT|Congenital anomalies of the kidney and urinary tract|Nephrology
+VUR|Vesicoureteral reflux|Nephrology
+UPJ|Ureteropelvic junction|Nephrology
+UVJ|Ureterovesical junction|Nephrology
+UPJO|Ureteropelvic junction obstruction|Nephrology
+PUV|Posterior urethral valves|Nephrology
+BPH|Benign prostatic hyperplasia|Nephrology
+LUTS|Lower urinary tract symptoms|Nephrology
+UTI|Urinary tract infection|Nephrology
+CAUTI|Catheter-associated urinary tract infection|Nephrology
+cUTI|Complicated urinary tract infection|Nephrology
+PN|Pyelonephritis|Nephrology
+APN|Acute pyelonephritis|Nephrology
+RTA|Renal tubular acidosis|Nephrology
+dRTA|Distal renal tubular acidosis|Nephrology
+pRTA|Proximal renal tubular acidosis|Nephrology
+RTA1|Type 1 (distal) renal tubular acidosis|Nephrology
+RTA2|Type 2 (proximal) renal tubular acidosis|Nephrology
+RTA4|Type 4 (hyperkalemic) renal tubular acidosis|Nephrology
+NAGMA|Non-anion gap metabolic acidosis|Nephrology
+HAGMA|High anion gap metabolic acidosis|Nephrology
+AG|Anion gap|Nephrology
+UAG|Urine anion gap|Nephrology
+OG|Osmolal gap|Nephrology
+OSM|Osmolality|Nephrology
+Uosm|Urine osmolality|Nephrology
+TTKG|Transtubular potassium gradient|Nephrology
+FENa|Fractional excretion of sodium|Nephrology
+FEUrea|Fractional excretion of urea|Nephrology
+FEUA|Fractional excretion of uric acid|Nephrology
+FEK|Fractional excretion of potassium|Nephrology
+FEPO4|Fractional excretion of phosphate|Nephrology
+UNa|Urine sodium|Nephrology
+UCl|Urine chloride|Nephrology
+UCr|Urine creatinine|Nephrology
+Na|Sodium|Nephrology
+K|Potassium|Nephrology
+Cl|Chloride|Nephrology
+HCO3|Bicarbonate|Nephrology
+Ca|Calcium|Nephrology
+iCa|Ionized calcium|Nephrology
+Mg|Magnesium|Nephrology
+Phos|Phosphorus (phosphate)|Nephrology
+PO4|Phosphate|Nephrology
+Alb|Albumin|Nephrology
+HypoNa|Hyponatremia|Nephrology
+HyperNa|Hypernatremia|Nephrology
+HypoK|Hypokalemia|Nephrology
+HyperK|Hyperkalemia|Nephrology
+HypoCa|Hypocalcemia|Nephrology
+HyperCa|Hypercalcemia|Nephrology
+HypoMg|Hypomagnesemia|Nephrology
+HyperMg|Hypermagnesemia|Nephrology
+HypoPhos|Hypophosphatemia|Nephrology
+HyperPhos|Hyperphosphatemia|Nephrology
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Nephrology
+ADH|Antidiuretic hormone|Nephrology
+AVP|Arginine vasopressin|Nephrology
+DI|Diabetes insipidus|Nephrology
+CDI|Central diabetes insipidus|Nephrology
+NDI|Nephrogenic diabetes insipidus|Nephrology
+ODS|Osmotic demyelination syndrome|Nephrology
+TURP|Transurethral resection of the prostate|Nephrology
+DDAVP|Desmopressin|Nephrology
+V2RA|Vasopressin V2 receptor antagonist|Nephrology
+TBW|Total body water|Nephrology
+ECF|Extracellular fluid|Nephrology
+ICF|Intracellular fluid|Nephrology
+ECV|Effective circulating volume|Nephrology
+EABV|Effective arterial blood volume|Nephrology
+IVF|Intravenous fluids|Nephrology
+NS|Normal saline|Nephrology
+NaCl|Sodium chloride|Nephrology
+LR|Lactated Ringer's solution|Nephrology
+D5W|Dextrose 5 percent in water|Nephrology
+D5NS|Dextrose 5 percent in normal saline|Nephrology
+HTS|Hypertonic saline|Nephrology
+1/2NS|Half-normal saline|Nephrology
+AKD|Acute kidney disease|Nephrology
+RRT|Renal replacement therapy|Nephrology
+KRT|Kidney replacement therapy|Nephrology
+CRRT|Continuous renal replacement therapy|Nephrology
+CVVH|Continuous venovenous hemofiltration|Nephrology
+CVVHD|Continuous venovenous hemodialysis|Nephrology
+CVVHDF|Continuous venovenous hemodiafiltration|Nephrology
+SCUF|Slow continuous ultrafiltration|Nephrology
+SLED|Sustained low-efficiency dialysis|Nephrology
+PIRRT|Prolonged intermittent renal replacement therapy|Nephrology
+IHD|Intermittent hemodialysis|Nephrology
+HD|Hemodialysis|Nephrology
+PD|Peritoneal dialysis|Nephrology
+CAPD|Continuous ambulatory peritoneal dialysis|Nephrology
+CCPD|Continuous cycling peritoneal dialysis|Nephrology
+APD|Automated peritoneal dialysis|Nephrology
+NIPD|Nightly intermittent peritoneal dialysis|Nephrology
+HF|Hemofiltration|Nephrology
+UF|Ultrafiltration|Nephrology
+UFR|Ultrafiltration rate|Nephrology
+QB|Blood flow rate|Nephrology
+Qb|Blood flow rate|Nephrology
+Qd|Dialysate flow rate|Nephrology
+TMP|Transmembrane pressure|Nephrology
+Kt/V|Dialysis dose measure (clearance times time over volume)|Nephrology
+spKt/V|Single-pool Kt/V|Nephrology
+eKt/V|Equilibrated Kt/V|Nephrology
+stdKt/V|Standard Kt/V|Nephrology
+URR|Urea reduction ratio|Nephrology
+nPCR|Normalized protein catabolic rate|Nephrology
+PCR|Protein catabolic rate|Nephrology
+nPNA|Normalized protein nitrogen appearance|Nephrology
+EDW|Estimated dry weight|Nephrology
+IDWG|Interdialytic weight gain|Nephrology
+TBV|Total blood volume|Nephrology
+IDH|Intradialytic hypotension|Nephrology
+DDS|Dialysis disequilibrium syndrome|Nephrology
+AVF|Arteriovenous fistula|Nephrology
+AVG|Arteriovenous graft|Nephrology
+AV fistula|Arteriovenous fistula|Nephrology
+AV graft|Arteriovenous graft|Nephrology
+RCAVF|Radiocephalic arteriovenous fistula|Nephrology
+BCAVF|Brachiocephalic arteriovenous fistula|Nephrology
+BBAVF|Brachiobasilic arteriovenous fistula|Nephrology
+PTFE|Polytetrafluoroethylene (graft material)|Nephrology
+CVC|Central venous catheter|Nephrology
+TDC|Tunneled dialysis catheter|Nephrology
+NTDC|Non-tunneled dialysis catheter|Nephrology
+TCC|Tunneled cuffed catheter|Nephrology
+PICC|Peripherally inserted central catheter|Nephrology
+IJ|Internal jugular vein|Nephrology
+RIJ|Right internal jugular vein|Nephrology
+LIJ|Left internal jugular vein|Nephrology
+SCV|Subclavian vein|Nephrology
+CVS|Central venous stenosis|Nephrology
+PTA|Percutaneous transluminal angioplasty|Nephrology
+CRBSI|Catheter-related bloodstream infection|Nephrology
+CLABSI|Central line-associated bloodstream infection|Nephrology
+tPA|Tissue plasminogen activator|Nephrology
+HAP|Hospital-acquired pneumonia|Nephrology
+PDC|Peritoneal dialysis catheter|Nephrology
+PET|Peritoneal equilibration test|Nephrology
+D/P|Dialysate-to-plasma ratio|Nephrology
+D/D0|Dialysate glucose ratio to initial dialysate glucose|Nephrology
+EPS|Encapsulating peritoneal sclerosis|Nephrology
+NIPPV|Noninvasive positive pressure ventilation|Nephrology
+IDPN|Intradialytic parenteral nutrition|Nephrology
+PEW|Protein-energy wasting|Nephrology
+MIA|Malnutrition-inflammation-atherosclerosis syndrome|Nephrology
+MICS|Malnutrition-inflammation complex syndrome|Nephrology
+SGA|Subjective global assessment|Nephrology
+BIA|Bioimpedance analysis|Nephrology
+BCM|Body composition monitor|Nephrology
+LVH|Left ventricular hypertrophy|Nephrology
+CKD-MBD|Chronic kidney disease mineral and bone disorder|Nephrology
+MBD|Mineral and bone disorder|Nephrology
+SHPT|Secondary hyperparathyroidism|Nephrology
+PHPT|Primary hyperparathyroidism|Nephrology
+THPT|Tertiary hyperparathyroidism|Nephrology
+PTH|Parathyroid hormone|Nephrology
+iPTH|Intact parathyroid hormone|Nephrology
+FGF23|Fibroblast growth factor 23|Nephrology
+ALP|Alkaline phosphatase|Nephrology
+BSAP|Bone-specific alkaline phosphatase|Nephrology
+25-OH D|25-hydroxyvitamin D|Nephrology
+25(OH)D|25-hydroxyvitamin D|Nephrology
+1,25(OH)2D|1,25-dihydroxyvitamin D (calcitriol)|Nephrology
+VDRA|Vitamin D receptor activator|Nephrology
+CaSR|Calcium-sensing receptor|Nephrology
+PTX|Parathyroidectomy|Nephrology
+ROD|Renal osteodystrophy|Nephrology
+ABD|Adynamic bone disease|Nephrology
+CAC|Coronary artery calcification|Nephrology
+VC|Vascular calcification|Nephrology
+CUA|Calciphylaxis (calcific uremic arteriolopathy)|Nephrology
+CUA|Calcific uremic arteriolopathy|Nephrology
+DXA|Dual-energy x-ray absorptiometry|Nephrology
+BMD|Bone mineral density|Nephrology
+CaxP|Calcium-phosphorus product|Nephrology
+PB|Phosphate binder|Nephrology
+CBP|Calcium-based phosphate binder|Nephrology
+NCPB|Non-calcium-based phosphate binder|Nephrology
+ESA|Erythropoiesis-stimulating agent|Nephrology
+EPO|Erythropoietin|Nephrology
+CERA|Continuous erythropoietin receptor activator|Nephrology
+HIF-PHI|Hypoxia-inducible factor prolyl hydroxylase inhibitor|Nephrology
+HIF|Hypoxia-inducible factor|Nephrology
+Hgb|Hemoglobin|Nephrology
+Hb|Hemoglobin|Nephrology
+Hct|Hematocrit|Nephrology
+TSAT|Transferrin saturation|Nephrology
+TIBC|Total iron-binding capacity|Nephrology
+Fe|Iron|Nephrology
+IV iron|Intravenous iron|Nephrology
+CHr|Reticulocyte hemoglobin content|Nephrology
+PRCA|Pure red cell aplasia|Nephrology
+ACEi|Angiotensin-converting enzyme inhibitor|Nephrology
+ACE-I|Angiotensin-converting enzyme inhibitor|Nephrology
+ARB|Angiotensin receptor blocker|Nephrology
+RAAS|Renin-angiotensin-aldosterone system|Nephrology
+RAS|Renin-angiotensin system|Nephrology
+RASi|Renin-angiotensin system inhibitor|Nephrology
+MRA|Mineralocorticoid receptor antagonist|Nephrology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Nephrology
+SGLT2|Sodium-glucose cotransporter 2|Nephrology
+GLP-1 RA|Glucagon-like peptide 1 receptor agonist|Nephrology
+DPP-4i|Dipeptidyl peptidase 4 inhibitor|Nephrology
+CCB|Calcium channel blocker|Nephrology
+DHP-CCB|Dihydropyridine calcium channel blocker|Nephrology
+BB|Beta blocker|Nephrology
+HCTZ|Hydrochlorothiazide|Nephrology
+NSAID|Nonsteroidal anti-inflammatory drug|Nephrology
+PPI|Proton pump inhibitor|Nephrology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Nephrology
+CNI|Calcineurin inhibitor|Nephrology
+MMF|Mycophenolate mofetil|Nephrology
+MPA|Mycophenolic acid|Nephrology
+AZA|Azathioprine|Nephrology
+CYC|Cyclophosphamide|Nephrology
+CsA|Cyclosporine|Nephrology
+TAC|Tacrolimus|Nephrology
+FK506|Tacrolimus|Nephrology
+mTORi|Mammalian target of rapamycin inhibitor|Nephrology
+mTOR|Mammalian target of rapamycin|Nephrology
+SRL|Sirolimus|Nephrology
+EVR|Everolimus|Nephrology
+RTX|Rituximab|Nephrology
+IVIG|Intravenous immunoglobulin|Nephrology
+IVMP|Intravenous methylprednisolone|Nephrology
+MP|Methylprednisolone|Nephrology
+ATG|Anti-thymocyte globulin|Nephrology
+rATG|Rabbit anti-thymocyte globulin|Nephrology
+IL-2RA|Interleukin-2 receptor antagonist|Nephrology
+PLEX|Plasma exchange|Nephrology
+TPE|Therapeutic plasma exchange|Nephrology
+FFP|Fresh frozen plasma|Nephrology
+IA|Immunoadsorption|Nephrology
+SPK|Simultaneous pancreas-kidney transplant|Nephrology
+PAK|Pancreas after kidney transplant|Nephrology
+KT|Kidney transplant|Nephrology
+KTx|Kidney transplant|Nephrology
+RTx|Renal transplant|Nephrology
+KTR|Kidney transplant recipient|Nephrology
+LDKT|Living donor kidney transplant|Nephrology
+DDKT|Deceased donor kidney transplant|Nephrology
+LRD|Living related donor|Nephrology
+LURD|Living unrelated donor|Nephrology
+DCD|Donation after circulatory death|Nephrology
+DBD|Donation after brain death|Nephrology
+ECD|Extended criteria donor|Nephrology
+SCD|Standard criteria donor|Nephrology
+KDPI|Kidney donor profile index|Nephrology
+CIT|Cold ischemia time|Nephrology
+WIT|Warm ischemia time|Nephrology
+DGF|Delayed graft function|Nephrology
+PNF|Primary nonfunction|Nephrology
+AR|Acute rejection|Nephrology
+ACR|Acute cellular rejection|Nephrology
+AMR|Antibody-mediated rejection|Nephrology
+TCMR|T cell-mediated rejection|Nephrology
+CAMR|Chronic active antibody-mediated rejection|Nephrology
+IFTA|Interstitial fibrosis and tubular atrophy|Nephrology
+CAN|Chronic allograft nephropathy|Nephrology
+BKV|BK virus|Nephrology
+BKVN|BK virus nephropathy|Nephrology
+CMV|Cytomegalovirus|Nephrology
+EBV|Epstein-Barr virus|Nephrology
+PTLD|Post-transplant lymphoproliferative disorder|Nephrology
+PTDM|Post-transplant diabetes mellitus|Nephrology
+NODAT|New-onset diabetes after transplant|Nephrology
+HLA|Human leukocyte antigen|Nephrology
+DSA|Donor-specific antibody|Nephrology
+PRA|Panel reactive antibody|Nephrology
+cPRA|Calculated panel reactive antibody|Nephrology
+CDC|Complement-dependent cytotoxicity|Nephrology
+XM|Crossmatch|Nephrology
+FCXM|Flow cytometry crossmatch|Nephrology
+dd-cfDNA|Donor-derived cell-free DNA|Nephrology
+ABOi|ABO-incompatible|Nephrology
+EPTS|Estimated post-transplant survival|Nephrology
+RAS|Renal artery stenosis|Nephrology
+RVT|Renal vein thrombosis|Nephrology
+RVH|Renovascular hypertension|Nephrology
+FMD|Fibromuscular dysplasia|Nephrology
+ARAS|Atherosclerotic renal artery stenosis|Nephrology
+RDN|Renal denervation|Nephrology
+RRI|Renal resistive index|Nephrology
+HTN|Hypertension|Nephrology
+BP|Blood pressure|Nephrology
+ABPM|Ambulatory blood pressure monitoring|Nephrology
+HBPM|Home blood pressure monitoring|Nephrology
+SBP|Systolic blood pressure|Nephrology
+DBP|Diastolic blood pressure|Nephrology
+MAP|Mean arterial pressure|Nephrology
+JVP|Jugular venous pressure|Nephrology
+CVP|Central venous pressure|Nephrology
+PRA|Plasma renin activity|Nephrology
+PAC|Plasma aldosterone concentration|Nephrology
+ARR|Aldosterone-to-renin ratio|Nephrology
+PA|Primary aldosteronism|Nephrology
+AVS|Adrenal vein sampling|Nephrology
+GRA|Glucocorticoid-remediable aldosteronism|Nephrology
+AME|Apparent mineralocorticoid excess|Nephrology
+PRES|Posterior reversible encephalopathy syndrome|Nephrology
+PDN|Prednisone|Nephrology
+Pred|Prednisone|Nephrology
+Pdn|Prednisone|Nephrology
+GC|Glucocorticoid|Nephrology
+IS|Immunosuppression|Nephrology
+IST|Immunosuppressive therapy|Nephrology
+AUC|Area under the curve|Nephrology
+LDL-C|Low-density lipoprotein cholesterol|Nephrology
+TG|Triglycerides|Nephrology
+HDL|High-density lipoprotein|Nephrology
+Lp(a)|Lipoprotein(a)|Nephrology
+ASCVD|Atherosclerotic cardiovascular disease|Nephrology
+CVD|Cardiovascular disease|Nephrology
+MACE|Major adverse cardiovascular events|Nephrology
+MAKE|Major adverse kidney events|Nephrology
+MAKE30|Major adverse kidney events at 30 days|Nephrology
+HF|Heart failure|Nephrology
+HFrEF|Heart failure with reduced ejection fraction|Nephrology
+HFpEF|Heart failure with preserved ejection fraction|Nephrology
+ADHF|Acute decompensated heart failure|Nephrology
+LVEF|Left ventricular ejection fraction|Nephrology
+CHF|Congestive heart failure|Nephrology
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Nephrology
+BNP|B-type natriuretic peptide|Nephrology
+ECMO|Extracorporeal membrane oxygenation|Nephrology
+IABP|Intra-aortic balloon pump|Nephrology
+VAD|Ventricular assist device|Nephrology
+ICU|Intensive care unit|Nephrology
+MICU|Medical intensive care unit|Nephrology
+ARDS|Acute respiratory distress syndrome|Nephrology
+SIRS|Systemic inflammatory response syndrome|Nephrology
+SAKI|Sepsis-associated acute kidney injury|Nephrology
+S-AKI|Sepsis-associated acute kidney injury|Nephrology
+SOFA|Sequential organ failure assessment|Nephrology
+APACHE|Acute physiology and chronic health evaluation score|Nephrology
+RIFLE|Risk, injury, failure, loss, end-stage classification of acute kidney injury|Nephrology
+NGAL|Neutrophil gelatinase-associated lipocalin|Nephrology
+KIM-1|Kidney injury molecule 1|Nephrology
+TIMP-2|Tissue inhibitor of metalloproteinases 2|Nephrology
+IGFBP7|Insulin-like growth factor binding protein 7|Nephrology
+IL-18|Interleukin-18|Nephrology
+L-FABP|Liver-type fatty acid binding protein|Nephrology
+FST|Furosemide stress test|Nephrology
+RFR|Renal functional reserve|Nephrology
+CysC|Cystatin C|Nephrology
+eGFRcys|Cystatin C-based estimated glomerular filtration rate|Nephrology
+eGFRcr|Creatinine-based estimated glomerular filtration rate|Nephrology
+eGFRcr-cys|Combined creatinine and cystatin C estimated glomerular filtration rate|Nephrology
+B2M|Beta-2 microglobulin|Nephrology
+SPEP|Serum protein electrophoresis|Nephrology
+UPEP|Urine protein electrophoresis|Nephrology
+SIFE|Serum immunofixation electrophoresis|Nephrology
+UIFE|Urine immunofixation electrophoresis|Nephrology
+IFE|Immunofixation electrophoresis|Nephrology
+FLC|Free light chain|Nephrology
+sFLC|Serum free light chains|Nephrology
+MM|Multiple myeloma|Nephrology
+MGRS|Monoclonal gammopathy of renal significance|Nephrology
+MGUS|Monoclonal gammopathy of undetermined significance|Nephrology
+LCDD|Light chain deposition disease|Nephrology
+AL|Light chain amyloidosis|Nephrology
+AA|Amyloid A amyloidosis|Nephrology
+CN|Cast nephropathy|Nephrology
+TLS|Tumor lysis syndrome|Nephrology
+RM|Rhabdomyolysis|Nephrology
+CK|Creatine kinase|Nephrology
+LDH|Lactate dehydrogenase|Nephrology
+AST|Aspartate aminotransferase|Nephrology
+ALT|Alanine aminotransferase|Nephrology
+C3|Complement component 3|Nephrology
+C4|Complement component 4|Nephrology
+CH50|Total hemolytic complement|Nephrology
+C3G|C3 glomerulopathy|Nephrology
+DDD|Dense deposit disease|Nephrology
+C3GN|C3 glomerulonephritis|Nephrology
+ANA|Antinuclear antibody|Nephrology
+dsDNA|Double-stranded DNA antibody|Nephrology
+anti-dsDNA|Anti-double-stranded DNA antibody|Nephrology
+RF|Rheumatoid factor|Nephrology
+CCP|Cyclic citrullinated peptide|Nephrology
+ASO|Antistreptolysin O|Nephrology
+PLA2R|Phospholipase A2 receptor|Nephrology
+anti-PLA2R|Anti-phospholipase A2 receptor antibody|Nephrology
+HBV|Hepatitis B virus|Nephrology
+HCV|Hepatitis C virus|Nephrology
+HIV|Human immunodeficiency virus|Nephrology
+HIVAN|HIV-associated nephropathy|Nephrology
+HBsAg|Hepatitis B surface antigen|Nephrology
+HBsAb|Hepatitis B surface antibody|Nephrology
+HBcAb|Hepatitis B core antibody|Nephrology
+HCV Ab|Hepatitis C antibody|Nephrology
+MRSA|Methicillin-resistant Staphylococcus aureus|Nephrology
+VRE|Vancomycin-resistant Enterococcus|Nephrology
+ESBL|Extended-spectrum beta-lactamase|Nephrology
+IF|Immunofluorescence|Nephrology
+EM|Electron microscopy|Nephrology
+LM|Light microscopy|Nephrology
+H&E|Hematoxylin and eosin stain|Nephrology
+PAS|Periodic acid-Schiff stain|Nephrology
+PASM|Periodic acid methenamine silver stain|Nephrology
+GSG|Global glomerulosclerosis|Nephrology
+TI|Tubulointerstitial|Nephrology
+TIN|Tubulointerstitial nephritis|Nephrology
+TIA|Tubulointerstitial atrophy|Nephrology
+TA|Tubular atrophy|Nephrology
+IF/TA|Interstitial fibrosis and tubular atrophy|Nephrology
+RBx|Renal biopsy|Nephrology
+PRB|Percutaneous renal biopsy|Nephrology
+CKD-aP|Chronic kidney disease-associated pruritus|Nephrology
+CKDu|Chronic kidney disease of unknown etiology|Nephrology
+HN|Hydronephrosis|Nephrology
+UUO|Unilateral ureteral obstruction|Nephrology
+BOO|Bladder outlet obstruction|Nephrology
+PVR|Post-void residual|Nephrology
+IUC|Indwelling urinary catheter|Nephrology
+SPC|Suprapubic catheter|Nephrology
+PCN|Percutaneous nephrostomy|Nephrology
+ESWL|Extracorporeal shock wave lithotripsy|Nephrology
+SWL|Shock wave lithotripsy|Nephrology
+URS|Ureteroscopy|Nephrology
+PCNL|Percutaneous nephrolithotomy|Nephrology
+CaOx|Calcium oxalate|Nephrology
+CaP|Calcium phosphate|Nephrology
+HyperCalciuria|Hypercalciuria|Nephrology
+HyperOx|Hyperoxaluria|Nephrology
+PH|Primary hyperoxaluria|Nephrology
+Uca|Urine calcium|Nephrology
+UOx|Urine oxalate|Nephrology
+UCit|Urine citrate|Nephrology
+CT KUB|Computed tomography of kidneys, ureters and bladder|Nephrology
+KUB|Kidneys, ureters and bladder radiograph|Nephrology
+US|Ultrasound|Nephrology
+RUS|Renal ultrasound|Nephrology
+CTA|Computed tomography angiography|Nephrology
+MRA|Magnetic resonance angiography|Nephrology
+MRI|Magnetic resonance imaging|Nephrology
+NSF|Nephrogenic systemic fibrosis|Nephrology
+GBCA|Gadolinium-based contrast agent|Nephrology
+ICM|Iodinated contrast media|Nephrology
+VCUG|Voiding cystourethrogram|Nephrology
+IVP|Intravenous pyelogram|Nephrology
+DMSA|Dimercaptosuccinic acid renal scan|Nephrology
+MAG3|Technetium-99m mercaptoacetyltriglycine renal scan|Nephrology
+Tc-99m|Technetium-99m|Nephrology
+PBW|Predicted body weight|Nephrology
+IBW|Ideal body weight|Nephrology
+ABW|Adjusted body weight|Nephrology
+BSA|Body surface area|Nephrology
+BMI|Body mass index|Nephrology
+LBM|Lean body mass|Nephrology
+Wt|Weight|Nephrology
+WBC|White blood cell count|Nephrology
+PMN|Polymorphonuclear neutrophil|Nephrology
+IP|Intraperitoneal|Nephrology
+IPAB|Intraperitoneal antibiotics|Nephrology
+RRF|Residual renal function|Nephrology
+RKF|Residual kidney function|Nephrology
+G1|Glomerular filtration rate category 1 (90 or higher)|Nephrology
+G2|Glomerular filtration rate category 2 (60 to 89)|Nephrology
+G3a|Glomerular filtration rate category 3a (45 to 59)|Nephrology
+G3b|Glomerular filtration rate category 3b (30 to 44)|Nephrology
+G4|Glomerular filtration rate category 4 (15 to 29)|Nephrology
+G5|Glomerular filtration rate category 5 (below 15)|Nephrology
+A1|Albuminuria category 1 (normal to mildly increased)|Nephrology
+A2|Albuminuria category 2 (moderately increased)|Nephrology
+A3|Albuminuria category 3 (severely increased)|Nephrology
+KFRE|Kidney failure risk equation|Nephrology
+CKM|Cardiovascular-kidney-metabolic syndrome|Nephrology
+DM|Diabetes mellitus|Nephrology
+T2DM|Type 2 diabetes mellitus|Nephrology
+T1DM|Type 1 diabetes mellitus|Nephrology
+A1c|Glycated hemoglobin|Nephrology
+HbA1c|Glycated hemoglobin|Nephrology
+DKA|Diabetic ketoacidosis|Nephrology
+HHS|Hyperosmolar hyperglycemic state|Nephrology
+BHB|Beta-hydroxybutyrate|Nephrology
+AKA|Alcoholic ketoacidosis|Nephrology
+LA|Lactic acidosis|Nephrology
+MALA|Metformin-associated lactic acidosis|Nephrology
+TCA|Tricyclic antidepressant|Nephrology
+ABG|Arterial blood gas|Nephrology
+VBG|Venous blood gas|Nephrology
+pCO2|Partial pressure of carbon dioxide|Nephrology
+PaCO2|Arterial partial pressure of carbon dioxide|Nephrology
+pH|Negative log of hydrogen ion concentration (acidity)|Nephrology
+BE|Base excess|Nephrology
+SBE|Standard base excess|Nephrology
+SID|Strong ion difference|Nephrology
+CSW|Cerebral salt wasting|Nephrology
+RSW|Renal salt wasting|Nephrology
+BS|Bartter syndrome|Nephrology
+PHA|Pseudohypoaldosteronism|Nephrology
+CAH|Congenital adrenal hyperplasia|Nephrology
+FHH|Familial hypocalciuric hypercalcemia|Nephrology
+XLH|X-linked hypophosphatemia|Nephrology
+TIO|Tumor-induced osteomalacia|Nephrology
+FS|Fanconi syndrome|Nephrology
+PCT|Proximal convoluted tubule|Nephrology
+DCT|Distal convoluted tubule|Nephrology
+CCD|Cortical collecting duct|Nephrology
+MCD|Medullary collecting duct|Nephrology
+TAL|Thick ascending limb|Nephrology
+TDL|Thin descending limb|Nephrology
+LOH|Loop of Henle|Nephrology
+JGA|Juxtaglomerular apparatus|Nephrology
+ENaC|Epithelial sodium channel|Nephrology
+NCC|Sodium-chloride cotransporter|Nephrology
+NKCC2|Sodium-potassium-2 chloride cotransporter|Nephrology
+ROMK|Renal outer medullary potassium channel|Nephrology
+AQP2|Aquaporin 2|Nephrology
+Na-K-ATPase|Sodium-potassium adenosine triphosphatase|Nephrology
+ATP|Adenosine triphosphate|Nephrology
+TGF|Tubuloglomerular feedback|Nephrology
+RBF|Renal blood flow|Nephrology
+RPF|Renal plasma flow|Nephrology
+FF|Filtration fraction|Nephrology
+SNGFR|Single-nephron glomerular filtration rate|Nephrology
+PAH|Para-aminohippurate|Nephrology
+NO|Nitric oxide|Nephrology
+ET-1|Endothelin-1|Nephrology
+ERA|Endothelin receptor antagonist|Nephrology
+ANP|Atrial natriuretic peptide|Nephrology
+ACTH|Adrenocorticotropic hormone|Nephrology
+TSH|Thyroid-stimulating hormone|Nephrology
+CBC|Complete blood count|Nephrology
+BMP|Basic metabolic panel|Nephrology
+CMP|Comprehensive metabolic panel|Nephrology
+RFP|Renal function panel|Nephrology
+PT|Prothrombin time|Nephrology
+INR|International normalized ratio|Nephrology
+PTT|Partial thromboplastin time|Nephrology
+aPTT|Activated partial thromboplastin time|Nephrology
+ACT|Activated clotting time|Nephrology
+UFH|Unfractionated heparin|Nephrology
+LMWH|Low-molecular-weight heparin|Nephrology
+HIT|Heparin-induced thrombocytopenia|Nephrology
+RCA|Regional citrate anticoagulation|Nephrology
+DOAC|Direct oral anticoagulant|Nephrology
+VKA|Vitamin K antagonist|Nephrology
+DVT|Deep vein thrombosis|Nephrology
+AF|Atrial fibrillation|Nephrology
+PAD|Peripheral arterial disease|Nephrology
+CAD|Coronary artery disease|Nephrology
+MI|Myocardial infarction|Nephrology
+CVA|Cerebrovascular accident|Nephrology
+TIA|Transient ischemic attack|Nephrology
+SCD|Sudden cardiac death|Nephrology
+PHTN|Pulmonary hypertension|Nephrology
+OSA|Obstructive sleep apnea|Nephrology
+CPAP|Continuous positive airway pressure|Nephrology
+COPD|Chronic obstructive pulmonary disease|Nephrology
+GI|Gastrointestinal|Nephrology
+GIB|Gastrointestinal bleeding|Nephrology
+UGIB|Upper gastrointestinal bleeding|Nephrology
+SBP|Spontaneous bacterial peritonitis|Nephrology
+TIPS|Transjugular intrahepatic portosystemic shunt|Nephrology
+LVP|Large-volume paracentesis|Nephrology
+HE|Hepatic encephalopathy|Nephrology
+NAFLD|Nonalcoholic fatty liver disease|Nephrology
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Nephrology
+SLKT|Simultaneous liver-kidney transplant|Nephrology
+HRS-1|Type 1 hepatorenal syndrome|Nephrology
+HRS-2|Type 2 hepatorenal syndrome|Nephrology
+NE|Norepinephrine|Nephrology
+VP|Vasopressin|Nephrology
+Epi|Epinephrine|Nephrology
+IV|Intravenous|Nephrology
+PO|By mouth|Nephrology
+SC|Subcutaneous|Nephrology
+SQ|Subcutaneous|Nephrology
+QD|Once daily|Nephrology
+BID|Twice daily|Nephrology
+TID|Three times daily|Nephrology
+QOD|Every other day|Nephrology
+TIW|Three times weekly|Nephrology
+QHD|Every hemodialysis session|Nephrology
+PRN|As needed|Nephrology
+qHS|At bedtime|Nephrology
+AC|Before meals|Nephrology
+PC|After meals|Nephrology
+NPO|Nothing by mouth|Nephrology
+f/u|Follow-up|Nephrology
+Dx|Diagnosis|Nephrology
+Tx|Treatment|Nephrology
+Hx|History|Nephrology
+Rx|Prescription|Nephrology
+DDx|Differential diagnosis|Nephrology
+s/p|Status post|Nephrology
+c/w|Consistent with|Nephrology
+w/u|Workup|Nephrology
+FHx|Family history|Nephrology
+PMH|Past medical history|Nephrology
+PSH|Past surgical history|Nephrology
+NKDA|No known drug allergies|Nephrology
+DNR|Do not resuscitate|Nephrology
+DNI|Do not intubate|Nephrology
+POLST|Physician orders for life-sustaining treatment|Nephrology
+CKM|Conservative kidney management|Nephrology
+CCM|Comprehensive conservative management|Nephrology
+TWOC|Trial without catheter|Nephrology
+TOV|Trial of void|Nephrology
+Plt|Platelet count|Nephrology
+MCV|Mean corpuscular volume|Nephrology
+RDW|Red cell distribution width|Nephrology
+Retic|Reticulocyte count|Nephrology
+Hapto|Haptoglobin|Nephrology
+Schisto|Schistocytes|Nephrology
+DAT|Direct antiglobulin test|Nephrology
+MAC|Membrane attack complex|Nephrology
+C5i|Complement component 5 inhibitor|Nephrology
+PNH|Paroxysmal nocturnal hemoglobinuria|Nephrology
+FMF|Familial Mediterranean fever|Nephrology
+NPS|Nail-patella syndrome|Nephrology
+AS|Alport syndrome|Nephrology
+SCD|Sickle cell disease|Nephrology
+SCN|Sickle cell nephropathy|Nephrology
+HbS|Hemoglobin S|Nephrology
+THP|Tamm-Horsfall protein|Nephrology
+RBC|Red blood cell|Nephrology

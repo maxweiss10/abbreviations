@@ -1,0 +1,585 @@
+AUD|Alcohol use disorder|Addiction Medicine
+OUD|Opioid use disorder|Addiction Medicine
+SUD|Substance use disorder|Addiction Medicine
+StUD|Stimulant use disorder|Addiction Medicine
+CUD|Cannabis use disorder|Addiction Medicine
+CUD|Cocaine use disorder|Addiction Medicine
+TUD|Tobacco use disorder|Addiction Medicine
+SedUD|Sedative, hypnotic or anxiolytic use disorder|Addiction Medicine
+MUD|Methamphetamine use disorder|Addiction Medicine
+GD|Gambling disorder|Addiction Medicine
+IGD|Internet gaming disorder|Addiction Medicine
+MOUD|Medications for opioid use disorder|Addiction Medicine
+MAT|Medication-assisted treatment|Addiction Medicine
+MAUD|Medications for alcohol use disorder|Addiction Medicine
+MOUD|Medication for opioid use disorder|Addiction Medicine
+OAT|Opioid agonist therapy|Addiction Medicine
+OST|Opioid substitution therapy|Addiction Medicine
+OTP|Opioid treatment program|Addiction Medicine
+NTP|Narcotic treatment program|Addiction Medicine
+OBOT|Office-based opioid treatment|Addiction Medicine
+BUP|Buprenorphine|Addiction Medicine
+BUP/NX|Buprenorphine and naloxone combination|Addiction Medicine
+BNX|Buprenorphine and naloxone|Addiction Medicine
+XR-BUP|Extended-release buprenorphine injection|Addiction Medicine
+XR-NTX|Extended-release naltrexone injection|Addiction Medicine
+NTX|Naltrexone|Addiction Medicine
+NLX|Naloxone|Addiction Medicine
+NX|Naloxone|Addiction Medicine
+MTD|Methadone|Addiction Medicine
+MMT|Methadone maintenance treatment|Addiction Medicine
+MMTP|Methadone maintenance treatment program|Addiction Medicine
+LAAM|Levo-alpha-acetylmethadol (long-acting opioid agonist)|Addiction Medicine
+SROM|Slow-release oral morphine|Addiction Medicine
+HAT|Heroin-assisted treatment|Addiction Medicine
+iOAT|Injectable opioid agonist treatment|Addiction Medicine
+OWS|Opioid withdrawal syndrome|Addiction Medicine
+COWS|Clinical opiate withdrawal scale|Addiction Medicine
+SOWS|Subjective opiate withdrawal scale|Addiction Medicine
+OOWS|Objective opiate withdrawal scale|Addiction Medicine
+CIWA|Clinical institute withdrawal assessment for alcohol|Addiction Medicine
+CIWA-Ar|Clinical institute withdrawal assessment for alcohol, revised|Addiction Medicine
+PAWSS|Prediction of alcohol withdrawal severity scale|Addiction Medicine
+AWS|Alcohol withdrawal syndrome|Addiction Medicine
+AW|Alcohol withdrawal|Addiction Medicine
+DT|Delirium tremens|Addiction Medicine
+DTs|Delirium tremens|Addiction Medicine
+AWD|Alcohol withdrawal delirium|Addiction Medicine
+EtOH|Ethyl alcohol (ethanol)|Addiction Medicine
+ETOH|Ethanol or alcohol|Addiction Medicine
+BAC|Blood alcohol concentration|Addiction Medicine
+BrAC|Breath alcohol concentration|Addiction Medicine
+BAL|Blood alcohol level|Addiction Medicine
+PEth|Phosphatidylethanol (alcohol biomarker)|Addiction Medicine
+EtG|Ethyl glucuronide|Addiction Medicine
+EtS|Ethyl sulfate|Addiction Medicine
+CDT|Carbohydrate-deficient transferrin|Addiction Medicine
+GGT|Gamma-glutamyl transferase|Addiction Medicine
+MCV|Mean corpuscular volume|Addiction Medicine
+AST|Aspartate aminotransferase|Addiction Medicine
+ALD|Alcohol-associated liver disease|Addiction Medicine
+ALF|Acute liver failure|Addiction Medicine
+AH|Alcohol-associated hepatitis|Addiction Medicine
+AAH|Alcoholic hepatitis|Addiction Medicine
+ASH|Alcoholic steatohepatitis|Addiction Medicine
+MDF|Maddrey discriminant function|Addiction Medicine
+MELD|Model for end-stage liver disease|Addiction Medicine
+MELD-Na|Model for end-stage liver disease with sodium|Addiction Medicine
+ABIC|Age, bilirubin, INR and creatinine score|Addiction Medicine
+GAHS|Glasgow alcoholic hepatitis score|Addiction Medicine
+LT|Liver transplant|Addiction Medicine
+WE|Wernicke encephalopathy|Addiction Medicine
+WKS|Wernicke-Korsakoff syndrome|Addiction Medicine
+ARBD|Alcohol-related brain damage|Addiction Medicine
+FAS|Fetal alcohol syndrome|Addiction Medicine
+FASD|Fetal alcohol spectrum disorder|Addiction Medicine
+pFAS|Partial fetal alcohol syndrome|Addiction Medicine
+ARND|Alcohol-related neurodevelopmental disorder|Addiction Medicine
+NAS|Neonatal abstinence syndrome|Addiction Medicine
+NOWS|Neonatal opioid withdrawal syndrome|Addiction Medicine
+ESC|Eat, sleep, console (neonatal withdrawal assessment approach)|Addiction Medicine
+PAE|Prenatal alcohol exposure|Addiction Medicine
+AUDIT|Alcohol use disorders identification test|Addiction Medicine
+AUDIT-C|Alcohol use disorders identification test, consumption questions|Addiction Medicine
+DAST|Drug abuse screening test|Addiction Medicine
+DAST-10|Drug abuse screening test, 10 items|Addiction Medicine
+CAGE|Cut down, annoyed, guilty, eye-opener screening questionnaire|Addiction Medicine
+CAGE-AID|CAGE questionnaire adapted to include drugs|Addiction Medicine
+CRAFFT|Car, relax, alone, forget, friends, trouble screening tool|Addiction Medicine
+TAPS|Tobacco, alcohol, prescription medication and other substance use tool|Addiction Medicine
+ASSIST|Alcohol, smoking and substance involvement screening test|Addiction Medicine
+SBIRT|Screening, brief intervention and referral to treatment|Addiction Medicine
+SBI|Screening and brief intervention|Addiction Medicine
+BI|Brief intervention|Addiction Medicine
+TWEAK|Tolerance, worried, eye-opener, amnesia, cut down screening test|Addiction Medicine
+T-ACE|Tolerance, annoyed, cut down, eye-opener screening test|Addiction Medicine
+MAST|Michigan alcoholism screening test|Addiction Medicine
+ASI|Addiction severity index|Addiction Medicine
+TLFB|Timeline followback|Addiction Medicine
+FTND|Fagerstrom test for nicotine dependence|Addiction Medicine
+HSI|Heaviness of smoking index|Addiction Medicine
+ORT|Opioid risk tool|Addiction Medicine
+SOAPP|Screener and opioid assessment for patients with pain|Addiction Medicine
+SOAPP-R|Screener and opioid assessment for patients with pain, revised|Addiction Medicine
+COMM|Current opioid misuse measure|Addiction Medicine
+PDUQ|Prescription drug use questionnaire|Addiction Medicine
+DIRE|Diagnosis, intractability, risk, efficacy score|Addiction Medicine
+PMP|Prescription monitoring program|Addiction Medicine
+PDMP|Prescription drug monitoring program|Addiction Medicine
+UDS|Urine drug screen|Addiction Medicine
+UDT|Urine drug test|Addiction Medicine
+UTOX|Urine toxicology screen|Addiction Medicine
+IA|Immunoassay|Addiction Medicine
+GC/MS|Gas chromatography with mass spectrometry|Addiction Medicine
+GC-MS|Gas chromatography-mass spectrometry|Addiction Medicine
+LC-MS/MS|Liquid chromatography with tandem mass spectrometry|Addiction Medicine
+LC-MS|Liquid chromatography-mass spectrometry|Addiction Medicine
+HRMS|High-resolution mass spectrometry|Addiction Medicine
+POCT|Point-of-care testing|Addiction Medicine
+FTS|Fentanyl test strips|Addiction Medicine
+THC|Tetrahydrocannabinol|Addiction Medicine
+THC-COOH|Carboxy-tetrahydrocannabinol (THC metabolite)|Addiction Medicine
+CHS|Cannabinoid hyperemesis syndrome|Addiction Medicine
+CWS|Cannabis withdrawal syndrome|Addiction Medicine
+SCRA|Synthetic cannabinoid receptor agonist|Addiction Medicine
+NPS|New psychoactive substances|Addiction Medicine
+NPS|Novel psychoactive substances|Addiction Medicine
+MDMA|3,4-methylenedioxymethamphetamine (ecstasy)|Addiction Medicine
+MDA|3,4-methylenedioxyamphetamine|Addiction Medicine
+LSD|Lysergic acid diethylamide|Addiction Medicine
+PCP|Phencyclidine|Addiction Medicine
+DXM|Dextromethorphan|Addiction Medicine
+DMT|Dimethyltryptamine|Addiction Medicine
+GHB|Gamma-hydroxybutyrate|Addiction Medicine
+GBL|Gamma-butyrolactone|Addiction Medicine
+MDPV|Methylenedioxypyrovalerone (synthetic cathinone)|Addiction Medicine
+PMA|Para-methoxyamphetamine|Addiction Medicine
+2C-B|4-bromo-2,5-dimethoxyphenethylamine|Addiction Medicine
+NBOMe|N-benzylmethoxy phenethylamine class of hallucinogens|Addiction Medicine
+HPPD|Hallucinogen persisting perception disorder|Addiction Medicine
+MA|Methamphetamine|Addiction Medicine
+METH|Methamphetamine|Addiction Medicine
+AMPH|Amphetamine|Addiction Medicine
+ATS|Amphetamine-type stimulants|Addiction Medicine
+MAP|Methamphetamine-associated psychosis|Addiction Medicine
+MACM|Methamphetamine-associated cardiomyopathy|Addiction Medicine
+CSA|Controlled substances agreement|Addiction Medicine
+CSA|Controlled Substances Act|Addiction Medicine
+CS|Controlled substance|Addiction Medicine
+C-II|Schedule II controlled substance|Addiction Medicine
+CII|Schedule II controlled substance|Addiction Medicine
+CIII|Schedule III controlled substance|Addiction Medicine
+CV|Schedule V controlled substance|Addiction Medicine
+OTC|Over the counter|Addiction Medicine
+NRT|Nicotine replacement therapy|Addiction Medicine
+NRTs|Nicotine replacement therapies|Addiction Medicine
+ENDS|Electronic nicotine delivery systems|Addiction Medicine
+e-cig|Electronic cigarette|Addiction Medicine
+EVALI|E-cigarette or vaping product use-associated lung injury|Addiction Medicine
+HTPs|Heated tobacco products|Addiction Medicine
+ST|Smokeless tobacco|Addiction Medicine
+ETS|Environmental tobacco smoke|Addiction Medicine
+SHS|Secondhand smoke|Addiction Medicine
+THS|Thirdhand smoke|Addiction Medicine
+PPD|Packs per day|Addiction Medicine
+PY|Pack-year|Addiction Medicine
+PYH|Pack-year history|Addiction Medicine
+CPD|Cigarettes per day|Addiction Medicine
+TTFC|Time to first cigarette|Addiction Medicine
+TQD|Target quit date|Addiction Medicine
+CO|Carbon monoxide|Addiction Medicine
+eCO|Exhaled carbon monoxide|Addiction Medicine
+COHb|Carboxyhemoglobin|Addiction Medicine
+NNAL|Nicotine-derived nitrosamine ketone metabolite|Addiction Medicine
+NMR|Nicotine metabolite ratio|Addiction Medicine
+CBT|Cognitive behavioral therapy|Addiction Medicine
+CBT-SUD|Cognitive behavioral therapy for substance use disorder|Addiction Medicine
+MI|Motivational interviewing|Addiction Medicine
+MET|Motivational enhancement therapy|Addiction Medicine
+CM|Contingency management|Addiction Medicine
+CRA|Community reinforcement approach|Addiction Medicine
+DBT|Dialectical behavior therapy|Addiction Medicine
+MBRP|Mindfulness-based relapse prevention|Addiction Medicine
+RP|Relapse prevention|Addiction Medicine
+TSF|Twelve-step facilitation|Addiction Medicine
+IOP|Intensive outpatient program|Addiction Medicine
+PHP|Partial hospitalization program|Addiction Medicine
+RTC|Residential treatment center|Addiction Medicine
+SLE|Sober living environment|Addiction Medicine
+SLH|Sober living house|Addiction Medicine
+THP|Transitional housing program|Addiction Medicine
+AMA|Against medical advice|Addiction Medicine
+ETOH abuse|Alcohol abuse|Addiction Medicine
+IVDU|Intravenous drug use|Addiction Medicine
+IDU|Injection drug use|Addiction Medicine
+PWID|People who inject drugs|Addiction Medicine
+PWUD|People who use drugs|Addiction Medicine
+PWID|Person who injects drugs|Addiction Medicine
+IVDA|Intravenous drug abuse|Addiction Medicine
+IVDU|Intravenous drug user|Addiction Medicine
+SSP|Syringe services program|Addiction Medicine
+SEP|Syringe exchange program|Addiction Medicine
+NEP|Needle exchange program|Addiction Medicine
+NSP|Needle and syringe program|Addiction Medicine
+SIF|Supervised injection facility|Addiction Medicine
+SCS|Supervised consumption site|Addiction Medicine
+OPC|Overdose prevention center|Addiction Medicine
+OEND|Overdose education and naloxone distribution|Addiction Medicine
+OD|Overdose|Addiction Medicine
+ODs|Overdoses|Addiction Medicine
+IN|Intranasal|Addiction Medicine
+NMX|Nalmefene|Addiction Medicine
+OIRD|Opioid-induced respiratory depression|Addiction Medicine
+RD|Respiratory depression|Addiction Medicine
+OIC|Opioid-induced constipation|Addiction Medicine
+OIH|Opioid-induced hyperalgesia|Addiction Medicine
+MOR|Mu opioid receptor|Addiction Medicine
+KOR|Kappa opioid receptor|Addiction Medicine
+DOR|Delta opioid receptor|Addiction Medicine
+NOP|Nociceptin opioid peptide receptor|Addiction Medicine
+PAMORA|Peripherally acting mu-opioid receptor antagonist|Addiction Medicine
+MNTX|Methylnaltrexone|Addiction Medicine
+OME|Oral morphine equivalent|Addiction Medicine
+MME|Morphine milligram equivalents|Addiction Medicine
+MED|Morphine equivalent dose|Addiction Medicine
+MEDD|Morphine equivalent daily dose|Addiction Medicine
+OMEDD|Oral morphine equivalent daily dose|Addiction Medicine
+LAO|Long-acting opioid|Addiction Medicine
+SAO|Short-acting opioid|Addiction Medicine
+IR|Immediate release|Addiction Medicine
+ER|Extended release|Addiction Medicine
+XR|Extended release|Addiction Medicine
+SR|Sustained release|Addiction Medicine
+CR|Controlled release|Addiction Medicine
+ADF|Abuse-deterrent formulation|Addiction Medicine
+LTOT|Long-term opioid therapy|Addiction Medicine
+COT|Chronic opioid therapy|Addiction Medicine
+OA|Opioid agonist|Addiction Medicine
+OAs|Opioid agonists|Addiction Medicine
+PCA|Patient-controlled analgesia|Addiction Medicine
+POUD|Prescription opioid use disorder|Addiction Medicine
+PO|By mouth|Addiction Medicine
+RX|Prescription|Addiction Medicine
+NMUPD|Nonmedical use of prescription drugs|Addiction Medicine
+DUI|Driving under the influence|Addiction Medicine
+DWI|Driving while intoxicated|Addiction Medicine
+OWI|Operating while intoxicated|Addiction Medicine
+IID|Ignition interlock device|Addiction Medicine
+FIT|Fit for duty|Addiction Medicine
+FFD|Fitness for duty|Addiction Medicine
+IDD|Intellectual and developmental disability|Addiction Medicine
+DD|Dual diagnosis|Addiction Medicine
+MICA|Mentally ill chemical abuser|Addiction Medicine
+MISA|Mental illness and substance abuse|Addiction Medicine
+CMI|Chronic mental illness|Addiction Medicine
+SMI|Serious mental illness|Addiction Medicine
+IDDT|Integrated dual disorder treatment|Addiction Medicine
+CCM|Collaborative care model|Addiction Medicine
+PTSD|Posttraumatic stress disorder|Addiction Medicine
+GAD|Generalized anxiety disorder|Addiction Medicine
+MDD|Major depressive disorder|Addiction Medicine
+BPD|Bipolar disorder|Addiction Medicine
+BPD|Borderline personality disorder|Addiction Medicine
+ASPD|Antisocial personality disorder|Addiction Medicine
+ADHD|Attention-deficit/hyperactivity disorder|Addiction Medicine
+SI|Suicidal ideation|Addiction Medicine
+HI|Homicidal ideation|Addiction Medicine
+SIB|Self-injurious behavior|Addiction Medicine
+C-SSRS|Columbia suicide severity rating scale|Addiction Medicine
+PHQ-9|Patient health questionnaire, 9 items|Addiction Medicine
+GAD-7|Generalized anxiety disorder 7-item scale|Addiction Medicine
+PCL-5|PTSD checklist for DSM-5|Addiction Medicine
+DSM-5|Diagnostic and statistical manual of mental disorders, fifth edition|Addiction Medicine
+DSM-5-TR|Diagnostic and statistical manual of mental disorders, fifth edition, text revision|Addiction Medicine
+ICD-10|International classification of diseases, tenth revision|Addiction Medicine
+ICD-11|International classification of diseases, eleventh revision|Addiction Medicine
+BZD|Benzodiazepine|Addiction Medicine
+BZDs|Benzodiazepines|Addiction Medicine
+BDZ|Benzodiazepine|Addiction Medicine
+BZRA|Benzodiazepine receptor agonist|Addiction Medicine
+GABA-A|Gamma-aminobutyric acid type A receptor|Addiction Medicine
+GABA-B|Gamma-aminobutyric acid type B receptor|Addiction Medicine
+NMDA|N-methyl-D-aspartate|Addiction Medicine
+NMDAR|N-methyl-D-aspartate receptor|Addiction Medicine
+SSRI|Selective serotonin reuptake inhibitor|Addiction Medicine
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Addiction Medicine
+TCA|Tricyclic antidepressant|Addiction Medicine
+MAOI|Monoamine oxidase inhibitor|Addiction Medicine
+NDRI|Norepinephrine-dopamine reuptake inhibitor|Addiction Medicine
+SGA|Second-generation antipsychotic|Addiction Medicine
+FGA|First-generation antipsychotic|Addiction Medicine
+LAI|Long-acting injectable|Addiction Medicine
+DA|Dopamine|Addiction Medicine
+5-HT|Serotonin (5-hydroxytryptamine)|Addiction Medicine
+NE|Norepinephrine|Addiction Medicine
+NAc|Nucleus accumbens|Addiction Medicine
+VTA|Ventral tegmental area|Addiction Medicine
+PFC|Prefrontal cortex|Addiction Medicine
+OFC|Orbitofrontal cortex|Addiction Medicine
+ACC|Anterior cingulate cortex|Addiction Medicine
+dlPFC|Dorsolateral prefrontal cortex|Addiction Medicine
+TMS|Transcranial magnetic stimulation|Addiction Medicine
+rTMS|Repetitive transcranial magnetic stimulation|Addiction Medicine
+tDCS|Transcranial direct current stimulation|Addiction Medicine
+DBS|Deep brain stimulation|Addiction Medicine
+PET|Positron emission tomography|Addiction Medicine
+fMRI|Functional magnetic resonance imaging|Addiction Medicine
+MRS|Magnetic resonance spectroscopy|Addiction Medicine
+HPA|Hypothalamic-pituitary-adrenal|Addiction Medicine
+CRF|Corticotropin-releasing factor|Addiction Medicine
+ALDH|Aldehyde dehydrogenase|Addiction Medicine
+ADH|Alcohol dehydrogenase|Addiction Medicine
+MEOS|Microsomal ethanol-oxidizing system|Addiction Medicine
+CYP|Cytochrome P450|Addiction Medicine
+CYP2E1|Cytochrome P450 2E1|Addiction Medicine
+CYP3A4|Cytochrome P450 3A4|Addiction Medicine
+CYP2D6|Cytochrome P450 2D6|Addiction Medicine
+CYP2B6|Cytochrome P450 2B6|Addiction Medicine
+CYP2A6|Cytochrome P450 2A6|Addiction Medicine
+QTc|Corrected QT interval|Addiction Medicine
+QT|QT interval|Addiction Medicine
+ECG|Electrocardiogram|Addiction Medicine
+EKG|Electrocardiogram|Addiction Medicine
+TdP|Torsades de pointes|Addiction Medicine
+LQTS|Long QT syndrome|Addiction Medicine
+PRN|As needed|Addiction Medicine
+BID|Twice daily|Addiction Medicine
+TID|Three times daily|Addiction Medicine
+QID|Four times daily|Addiction Medicine
+QHS|At bedtime|Addiction Medicine
+QAM|Every morning|Addiction Medicine
+Q6H|Every 6 hours|Addiction Medicine
+Q4H|Every 4 hours|Addiction Medicine
+IM|Intramuscular|Addiction Medicine
+SQ|Subcutaneous|Addiction Medicine
+SL|Sublingual|Addiction Medicine
+PR|Per rectum|Addiction Medicine
+INH|Inhaled|Addiction Medicine
+IVP|Intravenous push|Addiction Medicine
+TKO|To keep open|Addiction Medicine
+DOA|Drugs of abuse|Addiction Medicine
+BE|Benzoylecgonine|Addiction Medicine
+EME|Ecgonine methyl ester|Addiction Medicine
+CE|Cocaethylene|Addiction Medicine
+CACP|Cocaine-associated chest pain|Addiction Medicine
+IMF|Illicitly manufactured fentanyl|Addiction Medicine
+WCR|Wooden chest rigidity|Addiction Medicine
+WCS|Wooden chest syndrome|Addiction Medicine
+NPE|Negative pressure pulmonary edema|Addiction Medicine
+NCPE|Noncardiogenic pulmonary edema|Addiction Medicine
+OIPE|Opioid-induced pulmonary edema|Addiction Medicine
+ALI|Acute lung injury|Addiction Medicine
+ARDS|Acute respiratory distress syndrome|Addiction Medicine
+GCS|Glasgow coma scale|Addiction Medicine
+CNS|Central nervous system|Addiction Medicine
+CNSD|Central nervous system depression|Addiction Medicine
+SpO2|Peripheral oxygen saturation|Addiction Medicine
+ETCO2|End-tidal carbon dioxide|Addiction Medicine
+ABG|Arterial blood gas|Addiction Medicine
+VBG|Venous blood gas|Addiction Medicine
+BVM|Bag-valve-mask|Addiction Medicine
+NIV|Noninvasive ventilation|Addiction Medicine
+ICU|Intensive care unit|Addiction Medicine
+ED|Emergency department|Addiction Medicine
+EMS|Emergency medical services|Addiction Medicine
+ACLS|Advanced cardiac life support|Addiction Medicine
+BLS|Basic life support|Addiction Medicine
+CPR|Cardiopulmonary resuscitation|Addiction Medicine
+ROSC|Return of spontaneous circulation|Addiction Medicine
+RSI|Rapid sequence intubation|Addiction Medicine
+ETT|Endotracheal tube|Addiction Medicine
+SIRS|Systemic inflammatory response syndrome|Addiction Medicine
+NMS|Neuroleptic malignant syndrome|Addiction Medicine
+SS|Serotonin syndrome|Addiction Medicine
+RM|Rhabdomyolysis|Addiction Medicine
+AKI|Acute kidney injury|Addiction Medicine
+CK|Creatine kinase|Addiction Medicine
+CPK|Creatine phosphokinase|Addiction Medicine
+DKA|Diabetic ketoacidosis|Addiction Medicine
+AKA|Alcoholic ketoacidosis|Addiction Medicine
+BHB|Beta-hydroxybutyrate|Addiction Medicine
+AG|Anion gap|Addiction Medicine
+OG|Osmolar gap|Addiction Medicine
+HAGMA|High anion gap metabolic acidosis|Addiction Medicine
+TA|Toxic alcohols|Addiction Medicine
+EG|Ethylene glycol|Addiction Medicine
+MeOH|Methanol|Addiction Medicine
+IPA|Isopropyl alcohol|Addiction Medicine
+4-MP|Fomepizole (4-methylpyrazole)|Addiction Medicine
+HD|Hemodialysis|Addiction Medicine
+CRRT|Continuous renal replacement therapy|Addiction Medicine
+RRT|Renal replacement therapy|Addiction Medicine
+IVF|Intravenous fluids|Addiction Medicine
+NS|Normal saline|Addiction Medicine
+D5W|Dextrose 5% in water|Addiction Medicine
+D5NS|Dextrose 5% in normal saline|Addiction Medicine
+LR|Lactated Ringer solution|Addiction Medicine
+RFS|Refeeding syndrome|Addiction Medicine
+TPN|Total parenteral nutrition|Addiction Medicine
+B1|Thiamine (vitamin B1)|Addiction Medicine
+MVI|Multivitamin|Addiction Medicine
+FA|Folic acid|Addiction Medicine
+TPP|Thiamine pyrophosphate|Addiction Medicine
+Ach|Acetylcholine|Addiction Medicine
+ANS|Autonomic nervous system|Addiction Medicine
+HTN|Hypertension|Addiction Medicine
+HLD|Hyperlipidemia|Addiction Medicine
+DM|Diabetes mellitus|Addiction Medicine
+CKD|Chronic kidney disease|Addiction Medicine
+COPD|Chronic obstructive pulmonary disease|Addiction Medicine
+CAD|Coronary artery disease|Addiction Medicine
+MI|Myocardial infarction|Addiction Medicine
+CHF|Congestive heart failure|Addiction Medicine
+HF|Heart failure|Addiction Medicine
+AF|Atrial fibrillation|Addiction Medicine
+HH|Holiday heart|Addiction Medicine
+HHS|Holiday heart syndrome|Addiction Medicine
+ACM|Alcoholic cardiomyopathy|Addiction Medicine
+ACM|Alcohol-related cardiomyopathy|Addiction Medicine
+DCM|Dilated cardiomyopathy|Addiction Medicine
+AP|Acute pancreatitis|Addiction Medicine
+CP|Chronic pancreatitis|Addiction Medicine
+GI|Gastrointestinal|Addiction Medicine
+GIB|Gastrointestinal bleed|Addiction Medicine
+UGIB|Upper gastrointestinal bleed|Addiction Medicine
+EGD|Esophagogastroduodenoscopy|Addiction Medicine
+MWT|Mallory-Weiss tear|Addiction Medicine
+MWS|Mallory-Weiss syndrome|Addiction Medicine
+PUD|Peptic ulcer disease|Addiction Medicine
+GERD|Gastroesophageal reflux disease|Addiction Medicine
+NAFLD|Nonalcoholic fatty liver disease|Addiction Medicine
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Addiction Medicine
+MetALD|Metabolic dysfunction and alcohol-associated liver disease|Addiction Medicine
+SLD|Steatotic liver disease|Addiction Medicine
+ArLD|Alcohol-related liver disease|Addiction Medicine
+HCC|Hepatocellular carcinoma|Addiction Medicine
+HE|Hepatic encephalopathy|Addiction Medicine
+SBP|Spontaneous bacterial peritonitis|Addiction Medicine
+HRS|Hepatorenal syndrome|Addiction Medicine
+TIPS|Transjugular intrahepatic portosystemic shunt|Addiction Medicine
+INR|International normalized ratio|Addiction Medicine
+LFTs|Liver function tests|Addiction Medicine
+LFT|Liver function test|Addiction Medicine
+HAV|Hepatitis A virus|Addiction Medicine
+HBV|Hepatitis B virus|Addiction Medicine
+HCV|Hepatitis C virus|Addiction Medicine
+HIV|Human immunodeficiency virus|Addiction Medicine
+AIDS|Acquired immunodeficiency syndrome|Addiction Medicine
+PrEP|Pre-exposure prophylaxis|Addiction Medicine
+PEP|Post-exposure prophylaxis|Addiction Medicine
+nPEP|Nonoccupational post-exposure prophylaxis|Addiction Medicine
+ART|Antiretroviral therapy|Addiction Medicine
+DAA|Direct-acting antiviral|Addiction Medicine
+SVR|Sustained virologic response|Addiction Medicine
+SVR12|Sustained virologic response at 12 weeks|Addiction Medicine
+HBsAg|Hepatitis B surface antigen|Addiction Medicine
+anti-HBs|Hepatitis B surface antibody|Addiction Medicine
+anti-HBc|Hepatitis B core antibody|Addiction Medicine
+HCV Ab|Hepatitis C antibody|Addiction Medicine
+HCV RNA|Hepatitis C viral RNA|Addiction Medicine
+STI|Sexually transmitted infection|Addiction Medicine
+STD|Sexually transmitted disease|Addiction Medicine
+IE|Infective endocarditis|Addiction Medicine
+SSTI|Skin and soft tissue infection|Addiction Medicine
+OM|Osteomyelitis|Addiction Medicine
+SAB|Staphylococcus aureus bacteremia|Addiction Medicine
+MRSA|Methicillin-resistant Staphylococcus aureus|Addiction Medicine
+MSSA|Methicillin-susceptible Staphylococcus aureus|Addiction Medicine
+SEA|Spinal epidural abscess|Addiction Medicine
+TEE|Transesophageal echocardiogram|Addiction Medicine
+TTE|Transthoracic echocardiogram|Addiction Medicine
+OPAT|Outpatient parenteral antibiotic therapy|Addiction Medicine
+PICC|Peripherally inserted central catheter|Addiction Medicine
+PIV|Peripheral intravenous line|Addiction Medicine
+TB|Tuberculosis|Addiction Medicine
+LTBI|Latent tuberculosis infection|Addiction Medicine
+IGRA|Interferon-gamma release assay|Addiction Medicine
+PPD|Purified protein derivative|Addiction Medicine
+CXR|Chest x-ray|Addiction Medicine
+CT|Computed tomography|Addiction Medicine
+MRI|Magnetic resonance imaging|Addiction Medicine
+EEG|Electroencephalogram|Addiction Medicine
+LP|Lumbar puncture|Addiction Medicine
+CBC|Complete blood count|Addiction Medicine
+CMP|Comprehensive metabolic panel|Addiction Medicine
+BMP|Basic metabolic panel|Addiction Medicine
+TSH|Thyroid-stimulating hormone|Addiction Medicine
+hCG|Human chorionic gonadotropin|Addiction Medicine
+UPT|Urine pregnancy test|Addiction Medicine
+BUN|Blood urea nitrogen|Addiction Medicine
+eGFR|Estimated glomerular filtration rate|Addiction Medicine
+CrCl|Creatinine clearance|Addiction Medicine
+SG|Specific gravity|Addiction Medicine
+UCr|Urine creatinine|Addiction Medicine
+SVT|Specimen validity testing|Addiction Medicine
+CoC|Chain of custody|Addiction Medicine
+MRO|Medical review officer|Addiction Medicine
+LOD|Limit of detection|Addiction Medicine
+LOQ|Limit of quantitation|Addiction Medicine
+PPV|Positive predictive value|Addiction Medicine
+NPV|Negative predictive value|Addiction Medicine
+ABX|Antibiotics|Addiction Medicine
+NSAID|Nonsteroidal anti-inflammatory drug|Addiction Medicine
+APAP|Acetaminophen|Addiction Medicine
+ASA|Aspirin|Addiction Medicine
+ACE|Acetylcholinesterase|Addiction Medicine
+GBP|Gabapentin|Addiction Medicine
+PGB|Pregabalin|Addiction Medicine
+TPM|Topiramate|Addiction Medicine
+DSR|Disulfiram-ethanol reaction|Addiction Medicine
+CBZ|Carbamazepine|Addiction Medicine
+NAC|N-acetylcysteine|Addiction Medicine
+NPO|Nothing by mouth|Addiction Medicine
+C-L|Consultation-liaison|Addiction Medicine
+IAMS|Inpatient addiction medicine service|Addiction Medicine
+SW|Social worker|Addiction Medicine
+PSS|Peer support specialist|Addiction Medicine
+CPS|Certified peer specialist|Addiction Medicine
+CHW|Community health worker|Addiction Medicine
+RPS|Recovery peer specialist|Addiction Medicine
+RSS|Recovery support services|Addiction Medicine
+RCO|Recovery community organization|Addiction Medicine
+SUDs|Substance use disorders|Addiction Medicine
+HDD|Heavy drinking day|Addiction Medicine
+HED|Heavy episodic drinking|Addiction Medicine
+PDA|Percent days abstinent|Addiction Medicine
+DPDD|Drinks per drinking day|Addiction Medicine
+SD|Standard drink|Addiction Medicine
+SDs|Standard drinks|Addiction Medicine
+ABV|Alcohol by volume|Addiction Medicine
+WD|Withdrawal|Addiction Medicine
+WNL|Within normal limits|Addiction Medicine
+LOS|Length of stay|Addiction Medicine
+PCP|Primary care provider|Addiction Medicine
+PCP|Primary care physician|Addiction Medicine
+FQHC|Federally qualified health center|Addiction Medicine
+HCH|Health care for the homeless|Addiction Medicine
+PH|Public health|Addiction Medicine
+SDOH|Social determinants of health|Addiction Medicine
+HRSN|Health-related social needs|Addiction Medicine
+ACEs|Adverse childhood experiences|Addiction Medicine
+ACE|Adverse childhood experience|Addiction Medicine
+IPV|Intimate partner violence|Addiction Medicine
+TIC|Trauma-informed care|Addiction Medicine
+PCC|Person-centered care|Addiction Medicine
+SDM|Shared decision-making|Addiction Medicine
+CBO|Community-based organization|Addiction Medicine
+LGBTQ|Lesbian, gay, bisexual, transgender and queer|Addiction Medicine
+MSM|Men who have sex with men|Addiction Medicine
+BED|Binge eating disorder|Addiction Medicine
+IED|Intermittent explosive disorder|Addiction Medicine
+OCD|Obsessive-compulsive disorder|Addiction Medicine
+TX plan|Treatment plan|Addiction Medicine
+EHR|Electronic health record|Addiction Medicine
+EMR|Electronic medical record|Addiction Medicine
+PA|Prior authorization|Addiction Medicine
+PA|Physician assistant|Addiction Medicine
+CIWA-B|Clinical institute withdrawal assessment for benzodiazepines|Addiction Medicine
+BWSQ|Benzodiazepine withdrawal symptom questionnaire|Addiction Medicine
+RASS|Richmond agitation-sedation scale|Addiction Medicine
+SAS|Sedation-agitation scale|Addiction Medicine
+POSS|Pasero opioid-induced sedation scale|Addiction Medicine
+CAM-ICU|Confusion assessment method for the ICU|Addiction Medicine
+MMSE|Mini-mental state examination|Addiction Medicine
+MoCA|Montreal cognitive assessment|Addiction Medicine
+NRS|Numeric rating scale|Addiction Medicine
+VAS|Visual analog scale|Addiction Medicine
+VAS|Visual analogue scale for craving|Addiction Medicine
+PACS|Penn alcohol craving scale|Addiction Medicine
+OCDS|Obsessive compulsive drinking scale|Addiction Medicine
+PHQ-2|Patient health questionnaire, 2 items|Addiction Medicine
+GAD-2|Generalized anxiety disorder 2-item scale|Addiction Medicine
+BDI|Beck depression inventory|Addiction Medicine
+HAM-D|Hamilton depression rating scale|Addiction Medicine
+HAM-A|Hamilton anxiety rating scale|Addiction Medicine
+BAI|Beck anxiety inventory|Addiction Medicine
+MADRS|Montgomery-Asberg depression rating scale|Addiction Medicine
+BPRS|Brief psychiatric rating scale|Addiction Medicine
+PANSS|Positive and negative syndrome scale|Addiction Medicine
+YMRS|Young mania rating scale|Addiction Medicine
+CGI|Clinical global impression|Addiction Medicine
+GAF|Global assessment of functioning|Addiction Medicine
+WHODAS|World Health Organization disability assessment schedule|Addiction Medicine
+QOL|Quality of life|Addiction Medicine
+ADL|Activities of daily living|Addiction Medicine
+IADL|Instrumental activities of daily living|Addiction Medicine

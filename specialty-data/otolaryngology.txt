@@ -1,0 +1,699 @@
+ENT|Ear, nose and throat|Otolaryngology
+ORL|Otorhinolaryngology|Otolaryngology
+HNS|Head and neck surgery|Otolaryngology
+OHNS|Otolaryngology-head and neck surgery|Otolaryngology
+HEENT|Head, eyes, ears, nose and throat|Otolaryngology
+TM|Tympanic membrane|Otolaryngology
+TMs|Tympanic membranes|Otolaryngology
+EAC|External auditory canal|Otolaryngology
+EAM|External auditory meatus|Otolaryngology
+ME|Middle ear|Otolaryngology
+IE|Inner ear|Otolaryngology
+AOM|Acute otitis media|Otolaryngology
+OME|Otitis media with effusion|Otolaryngology
+COM|Chronic otitis media|Otolaryngology
+CSOM|Chronic suppurative otitis media|Otolaryngology
+OE|Otitis externa|Otolaryngology
+AOE|Acute otitis externa|Otolaryngology
+MOE|Malignant otitis externa|Otolaryngology
+NOE|Necrotizing otitis externa|Otolaryngology
+ETD|Eustachian tube dysfunction|Otolaryngology
+ET|Eustachian tube|Otolaryngology
+PE tubes|Pressure equalization tubes|Otolaryngology
+BMT|Bilateral myringotomy and tubes|Otolaryngology
+M&T|Myringotomy and tubes|Otolaryngology
+TT|Tympanostomy tube|Otolaryngology
+TTO|Tympanostomy tube otorrhea|Otolaryngology
+TPL|Tympanoplasty|Otolaryngology
+OCR|Ossicular chain reconstruction|Otolaryngology
+PORP|Partial ossicular replacement prosthesis|Otolaryngology
+TORP|Total ossicular replacement prosthesis|Otolaryngology
+CWU|Canal wall up (mastoidectomy)|Otolaryngology
+CWD|Canal wall down (mastoidectomy)|Otolaryngology
+IWU|Intact wall mastoidectomy|Otolaryngology
+MRM|Modified radical mastoidectomy|Otolaryngology
+SNHL|Sensorineural hearing loss|Otolaryngology
+CHL|Conductive hearing loss|Otolaryngology
+MHL|Mixed hearing loss|Otolaryngology
+HL|Hearing loss|Otolaryngology
+SSNHL|Sudden sensorineural hearing loss|Otolaryngology
+SSHL|Sudden sensorineural hearing loss|Otolaryngology
+NIHL|Noise-induced hearing loss|Otolaryngology
+AIED|Autoimmune inner ear disease|Otolaryngology
+EVA|Enlarged vestibular aqueduct|Otolaryngology
+LVAS|Large vestibular aqueduct syndrome|Otolaryngology
+SCDS|Superior semicircular canal dehiscence syndrome|Otolaryngology
+BPPV|Benign paroxysmal positional vertigo|Otolaryngology
+PPPD|Persistent postural-perceptual dizziness|Otolaryngology
+EH|Endolymphatic hydrops|Otolaryngology
+VN|Vestibular neuritis|Otolaryngology
+VM|Vestibular migraine|Otolaryngology
+VS|Vestibular schwannoma|Otolaryngology
+AN|Acoustic neuroma|Otolaryngology
+IAC|Internal auditory canal|Otolaryngology
+VOR|Vestibulo-ocular reflex|Otolaryngology
+VEMP|Vestibular evoked myogenic potential|Otolaryngology
+cVEMP|Cervical vestibular evoked myogenic potential|Otolaryngology
+oVEMP|Ocular vestibular evoked myogenic potential|Otolaryngology
+ENG|Electronystagmography|Otolaryngology
+VNG|Videonystagmography|Otolaryngology
+vHIT|Video head impulse test|Otolaryngology
+DHI|Dizziness Handicap Inventory|Otolaryngology
+ECochG|Electrocochleography|Otolaryngology
+ABR|Auditory brainstem response|Otolaryngology
+BAER|Brainstem auditory evoked response|Otolaryngology
+BERA|Brainstem evoked response audiometry|Otolaryngology
+AEP|Auditory evoked potential|Otolaryngology
+OAE|Otoacoustic emissions|Otolaryngology
+TEOAE|Transient evoked otoacoustic emissions|Otolaryngology
+DPOAE|Distortion product otoacoustic emissions|Otolaryngology
+PTA|Pure tone average|Otolaryngology
+SRT|Speech reception threshold|Otolaryngology
+SDT|Speech detection threshold|Otolaryngology
+WRS|Word recognition score|Otolaryngology
+SDS|Speech discrimination score|Otolaryngology
+HTL|Hearing threshold level|Otolaryngology
+dB HL|Decibels hearing level|Otolaryngology
+dB SPL|Decibels sound pressure level|Otolaryngology
+AC|Air conduction|Otolaryngology
+BC|Bone conduction|Otolaryngology
+ABG|Air-bone gap|Otolaryngology
+UCL|Uncomfortable loudness level|Otolaryngology
+MCL|Most comfortable loudness level|Otolaryngology
+HA|Hearing aid|Otolaryngology
+BAHS|Bone-anchored hearing system|Otolaryngology
+CI|Cochlear implant|Otolaryngology
+ABI|Auditory brainstem implant|Otolaryngology
+BTE|Behind the ear (hearing aid)|Otolaryngology
+ITE|In the ear (hearing aid)|Otolaryngology
+ITC|In the canal (hearing aid)|Otolaryngology
+CIC|Completely in the canal (hearing aid)|Otolaryngology
+RIC|Receiver in canal (hearing aid)|Otolaryngology
+CROS|Contralateral routing of signals|Otolaryngology
+BiCROS|Bilateral contralateral routing of signals|Otolaryngology
+UNHS|Universal newborn hearing screening|Otolaryngology
+CMV|Cytomegalovirus|Otolaryngology
+cCMV|Congenital cytomegalovirus|Otolaryngology
+CHARGE|Coloboma, heart defects, atresia choanae, growth retardation, genital anomalies, ear anomalies|Otolaryngology
+HINT|Hearing in noise test|Otolaryngology
+CNC|Consonant-nucleus-consonant (word test)|Otolaryngology
+CN VII|Facial nerve|Otolaryngology
+CN VIII|Vestibulocochlear nerve|Otolaryngology
+CN IX|Glossopharyngeal nerve|Otolaryngology
+CN X|Vagus nerve|Otolaryngology
+CN XI|Spinal accessory nerve|Otolaryngology
+CN XII|Hypoglossal nerve|Otolaryngology
+FNIS|Facial nerve injury score|Otolaryngology
+FDI|Facial Disability Index|Otolaryngology
+EMG|Electromyography|Otolaryngology
+ENoG|Electroneuronography|Otolaryngology
+IONM|Intraoperative neuromonitoring|Otolaryngology
+RLN|Recurrent laryngeal nerve|Otolaryngology
+SLN|Superior laryngeal nerve|Otolaryngology
+EBSLN|External branch of the superior laryngeal nerve|Otolaryngology
+VFP|Vocal fold paralysis|Otolaryngology
+VCP|Vocal cord paralysis|Otolaryngology
+VFI|Vocal fold immobility|Otolaryngology
+VCD|Vocal cord dysfunction|Otolaryngology
+VF|Vocal fold|Otolaryngology
+VC|Vocal cord|Otolaryngology
+TVC|True vocal cord|Otolaryngology
+TVF|True vocal fold|Otolaryngology
+PCA|Posterior cricoarytenoid (muscle)|Otolaryngology
+LCA|Lateral cricoarytenoid (muscle)|Otolaryngology
+TA|Thyroarytenoid (muscle)|Otolaryngology
+LPR|Laryngopharyngeal reflux|Otolaryngology
+GERD|Gastroesophageal reflux disease|Otolaryngology
+RSI|Reflux Symptom Index|Otolaryngology
+RFS|Reflux Finding Score|Otolaryngology
+EGD|Esophagogastroduodenoscopy|Otolaryngology
+TNE|Transnasal esophagoscopy|Otolaryngology
+FEES|Fiberoptic endoscopic evaluation of swallowing|Otolaryngology
+FEESST|Fiberoptic endoscopic evaluation of swallowing with sensory testing|Otolaryngology
+MBS|Modified barium swallow|Otolaryngology
+MBSS|Modified barium swallow study|Otolaryngology
+VFSS|Videofluoroscopic swallow study|Otolaryngology
+SLP|Speech-language pathologist|Otolaryngology
+SLT|Speech and language therapy|Otolaryngology
+EAT-10|Eating Assessment Tool, 10 items|Otolaryngology
+VHI|Voice Handicap Index|Otolaryngology
+VHI-10|Voice Handicap Index, 10 items|Otolaryngology
+VRQOL|Voice-related quality of life|Otolaryngology
+GRBAS|Grade, roughness, breathiness, asthenia, strain (voice rating scale)|Otolaryngology
+CAPE-V|Consensus Auditory-Perceptual Evaluation of Voice|Otolaryngology
+MPT|Maximum phonation time|Otolaryngology
+F0|Fundamental frequency|Otolaryngology
+HNR|Harmonics-to-noise ratio|Otolaryngology
+MLS|Microlaryngoscopy|Otolaryngology
+DL|Direct laryngoscopy|Otolaryngology
+DLB|Direct laryngoscopy and bronchoscopy|Otolaryngology
+DLE|Direct laryngoscopy and esophagoscopy|Otolaryngology
+FFL|Flexible fiberoptic laryngoscopy|Otolaryngology
+FOL|Fiberoptic laryngoscopy|Otolaryngology
+FNL|Flexible nasolaryngoscopy|Otolaryngology
+NPL|Nasopharyngolaryngoscopy|Otolaryngology
+IDL|Indirect laryngoscopy|Otolaryngology
+LTR|Laryngotracheal reconstruction|Otolaryngology
+LTP|Laryngotracheoplasty|Otolaryngology
+SGS|Subglottic stenosis|Otolaryngology
+PGS|Posterior glottic stenosis|Otolaryngology
+TS|Tracheal stenosis|Otolaryngology
+LM|Laryngomalacia|Otolaryngology
+BM|Bronchomalacia|Otolaryngology
+RRP|Recurrent respiratory papillomatosis|Otolaryngology
+HPV|Human papillomavirus|Otolaryngology
+TLM|Transoral laser microsurgery|Otolaryngology
+TORS|Transoral robotic surgery|Otolaryngology
+TOLS|Transoral laser surgery|Otolaryngology
+PDL|Pulsed dye laser|Otolaryngology
+KTP|Potassium titanyl phosphate (laser)|Otolaryngology
+CO2|Carbon dioxide (laser)|Otolaryngology
+ILP|Injection laryngoplasty|Otolaryngology
+LAR|Laryngeal adductor reflex|Otolaryngology
+SD|Spasmodic dysphonia|Otolaryngology
+ADSD|Adductor spasmodic dysphonia|Otolaryngology
+ABSD|Abductor spasmodic dysphonia|Otolaryngology
+BTX|Botulinum toxin|Otolaryngology
+LTB|Laryngotracheobronchitis (croup)|Otolaryngology
+URI|Upper respiratory infection|Otolaryngology
+URTI|Upper respiratory tract infection|Otolaryngology
+LRTI|Lower respiratory tract infection|Otolaryngology
+OSA|Obstructive sleep apnea|Otolaryngology
+OSAHS|Obstructive sleep apnea-hypopnea syndrome|Otolaryngology
+SDB|Sleep-disordered breathing|Otolaryngology
+CSA|Central sleep apnea|Otolaryngology
+AHI|Apnea-hypopnea index|Otolaryngology
+RDI|Respiratory disturbance index|Otolaryngology
+ODI|Oxygen desaturation index|Otolaryngology
+PSG|Polysomnography|Otolaryngology
+HSAT|Home sleep apnea test|Otolaryngology
+HST|Home sleep test|Otolaryngology
+CPAP|Continuous positive airway pressure|Otolaryngology
+BiPAP|Bilevel positive airway pressure|Otolaryngology
+APAP|Auto-adjusting positive airway pressure|Otolaryngology
+PAP|Positive airway pressure|Otolaryngology
+MAD|Mandibular advancement device|Otolaryngology
+OAT|Oral appliance therapy|Otolaryngology
+UPPP|Uvulopalatopharyngoplasty|Otolaryngology
+UP3|Uvulopalatopharyngoplasty|Otolaryngology
+LAUP|Laser-assisted uvulopalatoplasty|Otolaryngology
+ESP|Expansion sphincter pharyngoplasty|Otolaryngology
+BOT|Base of tongue|Otolaryngology
+TBRFA|Tongue base radiofrequency ablation|Otolaryngology
+RFA|Radiofrequency ablation|Otolaryngology
+MMA|Maxillomandibular advancement|Otolaryngology
+DISE|Drug-induced sleep endoscopy|Otolaryngology
+VOTE|Velum, oropharynx, tongue base, epiglottis (sleep endoscopy classification)|Otolaryngology
+ESS|Epworth Sleepiness Scale|Otolaryngology
+BMI|Body mass index|Otolaryngology
+T&A|Tonsillectomy and adenoidectomy|Otolaryngology
+AT|Adenotonsillectomy|Otolaryngology
+I&D|Incision and drainage|Otolaryngology
+GAS|Group A streptococcus|Otolaryngology
+GABHS|Group A beta-hemolytic streptococcus|Otolaryngology
+RADT|Rapid antigen detection test|Otolaryngology
+PANDAS|Pediatric autoimmune neuropsychiatric disorders associated with streptococcus|Otolaryngology
+PFAPA|Periodic fever, aphthous stomatitis, pharyngitis, adenitis|Otolaryngology
+EBV|Epstein-Barr virus|Otolaryngology
+NPC|Nasopharyngeal carcinoma|Otolaryngology
+JNA|Juvenile nasopharyngeal angiofibroma|Otolaryngology
+NP|Nasopharynx|Otolaryngology
+OP|Oropharynx|Otolaryngology
+OC|Oral cavity|Otolaryngology
+UES|Upper esophageal sphincter|Otolaryngology
+LES|Lower esophageal sphincter|Otolaryngology
+CP|Cricopharyngeus|Otolaryngology
+CPD|Cricopharyngeal dysfunction|Otolaryngology
+CPM|Cricopharyngeal myotomy|Otolaryngology
+VPI|Velopharyngeal insufficiency|Otolaryngology
+VPD|Velopharyngeal dysfunction|Otolaryngology
+VP|Velopharyngeal|Otolaryngology
+CL|Cleft lip|Otolaryngology
+CLP|Cleft lip and palate|Otolaryngology
+SMCP|Submucous cleft palate|Otolaryngology
+DS|Down syndrome|Otolaryngology
+OAVS|Oculo-auriculo-vertebral spectrum|Otolaryngology
+BOR|Branchio-oto-renal syndrome|Otolaryngology
+CRS|Chronic rhinosinusitis|Otolaryngology
+ARS|Acute rhinosinusitis|Otolaryngology
+ABRS|Acute bacterial rhinosinusitis|Otolaryngology
+RARS|Recurrent acute rhinosinusitis|Otolaryngology
+CRSsNP|Chronic rhinosinusitis without nasal polyps|Otolaryngology
+CRSwNP|Chronic rhinosinusitis with nasal polyps|Otolaryngology
+CRSsP|Chronic rhinosinusitis without polyps|Otolaryngology
+CRSwP|Chronic rhinosinusitis with polyps|Otolaryngology
+AFRS|Allergic fungal rhinosinusitis|Otolaryngology
+AFS|Allergic fungal sinusitis|Otolaryngology
+AERD|Aspirin-exacerbated respiratory disease|Otolaryngology
+EGPA|Eosinophilic granulomatosis with polyangiitis|Otolaryngology
+GPA|Granulomatosis with polyangiitis|Otolaryngology
+ANCA|Antineutrophil cytoplasmic antibody|Otolaryngology
+IFRS|Invasive fungal rhinosinusitis|Otolaryngology
+IFS|Invasive fungal sinusitis|Otolaryngology
+FESS|Functional endoscopic sinus surgery|Otolaryngology
+BSD|Balloon sinus dilation|Otolaryngology
+BSP|Balloon sinuplasty|Otolaryngology
+IT|Inferior turbinate|Otolaryngology
+ITR|Inferior turbinate reduction|Otolaryngology
+ITH|Inferior turbinate hypertrophy|Otolaryngology
+SMR|Submucous resection|Otolaryngology
+SMRS|Submucous resection of septum|Otolaryngology
+SPL|Septoplasty|Otolaryngology
+SRP|Septorhinoplasty|Otolaryngology
+RP|Rhinoplasty|Otolaryngology
+DNS|Deviated nasal septum|Otolaryngology
+NSD|Nasal septal deviation|Otolaryngology
+NAO|Nasal airway obstruction|Otolaryngology
+NOSE|Nasal Obstruction Symptom Evaluation|Otolaryngology
+SNOT-22|Sino-Nasal Outcome Test, 22 items|Otolaryngology
+SNOT-20|Sino-Nasal Outcome Test, 20 items|Otolaryngology
+AR|Allergic rhinitis|Otolaryngology
+NAR|Nonallergic rhinitis|Otolaryngology
+VMR|Vasomotor rhinitis|Otolaryngology
+INCS|Intranasal corticosteroid|Otolaryngology
+INS|Intranasal steroid|Otolaryngology
+OCS|Oral corticosteroid|Otolaryngology
+SCIT|Subcutaneous immunotherapy|Otolaryngology
+SLIT|Sublingual immunotherapy|Otolaryngology
+AIT|Allergen immunotherapy|Otolaryngology
+IgE|Immunoglobulin E|Otolaryngology
+SPT|Skin prick test|Otolaryngology
+RAST|Radioallergosorbent test|Otolaryngology
+sIgE|Specific immunoglobulin E|Otolaryngology
+IDT|Intradermal test|Otolaryngology
+CSF|Cerebrospinal fluid|Otolaryngology
+CSFL|Cerebrospinal fluid leak|Otolaryngology
+EEA|Endoscopic endonasal approach|Otolaryngology
+EEES|Expanded endoscopic endonasal surgery|Otolaryngology
+OB|Olfactory bulb|Otolaryngology
+HHT|Hereditary hemorrhagic telangiectasia|Otolaryngology
+SPA|Sphenopalatine artery|Otolaryngology
+SPG|Sphenopalatine ganglion|Otolaryngology
+AEA|Anterior ethmoid artery|Otolaryngology
+PEA|Posterior ethmoid artery|Otolaryngology
+IMA|Internal maxillary artery|Otolaryngology
+ECA|External carotid artery|Otolaryngology
+ICA|Internal carotid artery|Otolaryngology
+CCA|Common carotid artery|Otolaryngology
+IJV|Internal jugular vein|Otolaryngology
+EJV|External jugular vein|Otolaryngology
+SCM|Sternocleidomastoid|Otolaryngology
+SMG|Submandibular gland|Otolaryngology
+SMS|Submandibular sialadenitis|Otolaryngology
+PG|Parotid gland|Otolaryngology
+SLG|Sublingual gland|Otolaryngology
+MSG|Minor salivary gland|Otolaryngology
+FNA|Fine needle aspiration|Otolaryngology
+FNAB|Fine needle aspiration biopsy|Otolaryngology
+FNAC|Fine needle aspiration cytology|Otolaryngology
+CNB|Core needle biopsy|Otolaryngology
+US-FNA|Ultrasound-guided fine needle aspiration|Otolaryngology
+PA|Pleomorphic adenoma|Otolaryngology
+MEC|Mucoepidermoid carcinoma|Otolaryngology
+ACC|Adenoid cystic carcinoma|Otolaryngology
+ACCa|Acinic cell carcinoma|Otolaryngology
+SDC|Salivary duct carcinoma|Otolaryngology
+CExPA|Carcinoma ex pleomorphic adenoma|Otolaryngology
+SCC|Squamous cell carcinoma|Otolaryngology
+HNSCC|Head and neck squamous cell carcinoma|Otolaryngology
+OSCC|Oral squamous cell carcinoma|Otolaryngology
+OPSCC|Oropharyngeal squamous cell carcinoma|Otolaryngology
+HPV+|Human papillomavirus positive|Otolaryngology
+p16+|p16 positive (HPV surrogate marker)|Otolaryngology
+CUP|Carcinoma of unknown primary|Otolaryngology
+UKP|Unknown primary|Otolaryngology
+SGC|Salivary gland cancer|Otolaryngology
+SNSCC|Sinonasal squamous cell carcinoma|Otolaryngology
+ENB|Esthesioneuroblastoma|Otolaryngology
+SNUC|Sinonasal undifferentiated carcinoma|Otolaryngology
+MM|Mucosal melanoma|Otolaryngology
+TNM|Tumor, node, metastasis staging|Otolaryngology
+ENE|Extranodal extension|Otolaryngology
+ECE|Extracapsular extension|Otolaryngology
+PNI|Perineural invasion|Otolaryngology
+LVI|Lymphovascular invasion|Otolaryngology
+DOI|Depth of invasion|Otolaryngology
+LN|Lymph node|Otolaryngology
+LAD|Lymphadenopathy|Otolaryngology
+ND|Neck dissection|Otolaryngology
+RND|Radical neck dissection|Otolaryngology
+MRND|Modified radical neck dissection|Otolaryngology
+SND|Selective neck dissection|Otolaryngology
+END|Elective neck dissection|Otolaryngology
+SOHND|Supraomohyoid neck dissection|Otolaryngology
+SLNB|Sentinel lymph node biopsy|Otolaryngology
+CND|Central neck dissection|Otolaryngology
+LND|Lateral neck dissection|Otolaryngology
+ND I-III|Neck dissection of levels I through III|Otolaryngology
+PTX|Parathyroidectomy|Otolaryngology
+MIP|Minimally invasive parathyroidectomy|Otolaryngology
+TLA|Total laryngectomy|Otolaryngology
+SCL|Supracricoid laryngectomy|Otolaryngology
+SGL|Supraglottic laryngectomy|Otolaryngology
+TEP|Tracheoesophageal puncture|Otolaryngology
+TEF|Tracheoesophageal fistula|Otolaryngology
+HME|Heat and moisture exchanger|Otolaryngology
+HMEs|Heat and moisture exchangers|Otolaryngology
+PEG|Percutaneous endoscopic gastrostomy|Otolaryngology
+PEJ|Percutaneous endoscopic jejunostomy|Otolaryngology
+NGT|Nasogastric tube|Otolaryngology
+NG|Nasogastric|Otolaryngology
+TPN|Total parenteral nutrition|Otolaryngology
+PMMC|Pectoralis major myocutaneous flap|Otolaryngology
+PMF|Pectoralis major flap|Otolaryngology
+RFFF|Radial forearm free flap|Otolaryngology
+ALT|Anterolateral thigh (flap)|Otolaryngology
+FFF|Fibula free flap|Otolaryngology
+SCIP|Superficial circumflex iliac perforator (flap)|Otolaryngology
+DCIA|Deep circumflex iliac artery (flap)|Otolaryngology
+FTT|Free tissue transfer|Otolaryngology
+ORIF|Open reduction and internal fixation|Otolaryngology
+MMF|Maxillomandibular fixation|Otolaryngology
+IMF|Intermaxillary fixation|Otolaryngology
+TMJ|Temporomandibular joint|Otolaryngology
+TMD|Temporomandibular disorder|Otolaryngology
+ORN|Osteoradionecrosis|Otolaryngology
+MRONJ|Medication-related osteonecrosis of the jaw|Otolaryngology
+BRONJ|Bisphosphonate-related osteonecrosis of the jaw|Otolaryngology
+ZMC|Zygomaticomaxillary complex|Otolaryngology
+OMC|Ostiomeatal complex|Otolaryngology
+OMU|Ostiomeatal unit|Otolaryngology
+FSOT|Frontal sinus outflow tract|Otolaryngology
+FR|Frontal recess|Otolaryngology
+SER|Sphenoethmoidal recess|Otolaryngology
+DCR|Dacryocystorhinostomy|Otolaryngology
+EDCR|Endoscopic dacryocystorhinostomy|Otolaryngology
+TED|Thyroid eye disease|Otolaryngology
+SPA abscess|Subperiosteal abscess|Otolaryngology
+CST|Cavernous sinus thrombosis|Otolaryngology
+DNI|Deep neck infection|Otolaryngology
+RPA|Retropharyngeal abscess|Otolaryngology
+PPA|Parapharyngeal abscess|Otolaryngology
+PPS|Parapharyngeal space|Otolaryngology
+RPS|Retropharyngeal space|Otolaryngology
+FB|Foreign body|Otolaryngology
+FBA|Foreign body aspiration|Otolaryngology
+FBI|Foreign body ingestion|Otolaryngology
+ETT|Endotracheal tube|Otolaryngology
+LMA|Laryngeal mask airway|Otolaryngology
+NPA|Nasopharyngeal airway|Otolaryngology
+OPA|Oropharyngeal airway|Otolaryngology
+DA|Difficult airway|Otolaryngology
+CICO|Cannot intubate, cannot oxygenate|Otolaryngology
+CICV|Cannot intubate, cannot ventilate|Otolaryngology
+Trach|Tracheostomy|Otolaryngology
+PDT|Percutaneous dilational tracheostomy|Otolaryngology
+FEN|Fluids, electrolytes and nutrition|Otolaryngology
+CRP|C-reactive protein|Otolaryngology
+ESR|Erythrocyte sedimentation rate|Otolaryngology
+WBC|White blood cell count|Otolaryngology
+CBC|Complete blood count|Otolaryngology
+BMP|Basic metabolic panel|Otolaryngology
+TSH|Thyroid stimulating hormone|Otolaryngology
+iPTH|Intact parathyroid hormone|Otolaryngology
+Ca|Calcium|Otolaryngology
+Tg|Thyroglobulin|Otolaryngology
+TgAb|Thyroglobulin antibody|Otolaryngology
+RAI|Radioactive iodine|Otolaryngology
+PTC|Papillary thyroid carcinoma|Otolaryngology
+FTC|Follicular thyroid carcinoma|Otolaryngology
+MTC|Medullary thyroid carcinoma|Otolaryngology
+ATC|Anaplastic thyroid carcinoma|Otolaryngology
+FVPTC|Follicular variant of papillary thyroid carcinoma|Otolaryngology
+NIFTP|Noninvasive follicular thyroid neoplasm with papillary-like nuclear features|Otolaryngology
+AUS|Atypia of undetermined significance|Otolaryngology
+FLUS|Follicular lesion of undetermined significance|Otolaryngology
+TBSRTC|The Bethesda System for Reporting Thyroid Cytopathology|Otolaryngology
+TI-RADS|Thyroid Imaging Reporting and Data System|Otolaryngology
+MNG|Multinodular goiter|Otolaryngology
+SNG|Substernal goiter|Otolaryngology
+PHPT|Primary hyperparathyroidism|Otolaryngology
+SHPT|Secondary hyperparathyroidism|Otolaryngology
+THPT|Tertiary hyperparathyroidism|Otolaryngology
+FMTC|Familial medullary thyroid carcinoma|Otolaryngology
+CEA|Carcinoembryonic antigen|Otolaryngology
+SCCHN|Squamous cell carcinoma of the head and neck|Otolaryngology
+R/M HNSCC|Recurrent or metastatic head and neck squamous cell carcinoma|Otolaryngology
+RT|Radiation therapy|Otolaryngology
+XRT|External beam radiation therapy|Otolaryngology
+EBRT|External beam radiation therapy|Otolaryngology
+IMRT|Intensity-modulated radiation therapy|Otolaryngology
+VMAT|Volumetric modulated arc therapy|Otolaryngology
+IGRT|Image-guided radiation therapy|Otolaryngology
+SBRT|Stereotactic body radiation therapy|Otolaryngology
+SRS|Stereotactic radiosurgery|Otolaryngology
+PBT|Proton beam therapy|Otolaryngology
+CRT|Chemoradiation therapy|Otolaryngology
+CCRT|Concurrent chemoradiotherapy|Otolaryngology
+CTRT|Chemoradiotherapy|Otolaryngology
+ICT|Induction chemotherapy|Otolaryngology
+PORT|Postoperative radiation therapy|Otolaryngology
+POCRT|Postoperative chemoradiotherapy|Otolaryngology
+OTT|Overall treatment time|Otolaryngology
+GTV|Gross tumor volume|Otolaryngology
+CTV|Clinical target volume|Otolaryngology
+PTV|Planning target volume|Otolaryngology
+OAR|Organ at risk|Otolaryngology
+Gy|Gray (unit of radiation dose)|Otolaryngology
+EGFR|Epidermal growth factor receptor|Otolaryngology
+PD-1|Programmed cell death protein 1|Otolaryngology
+PD-L1|Programmed death-ligand 1|Otolaryngology
+CPS|Combined positive score|Otolaryngology
+ICI|Immune checkpoint inhibitor|Otolaryngology
+CDDP|Cisplatin|Otolaryngology
+5-FU|Fluorouracil|Otolaryngology
+TPF|Docetaxel, cisplatin and fluorouracil|Otolaryngology
+HBO|Hyperbaric oxygen|Otolaryngology
+HBOT|Hyperbaric oxygen therapy|Otolaryngology
+RIF|Radiation-induced fibrosis|Otolaryngology
+CTCAE|Common terminology criteria for adverse events|Otolaryngology
+KPS|Karnofsky performance status|Otolaryngology
+ECOG|Eastern Cooperative Oncology Group performance status|Otolaryngology
+ACE-27|Adult Comorbidity Evaluation 27|Otolaryngology
+QOL|Quality of life|Otolaryngology
+UW-QOL|University of Washington Quality of Life questionnaire|Otolaryngology
+FACT-H&N|Functional Assessment of Cancer Therapy, head and neck|Otolaryngology
+MDADI|M. D. Anderson Dysphagia Inventory|Otolaryngology
+PSS-HN|Performance Status Scale for head and neck cancer|Otolaryngology
+LA|Local anesthesia|Otolaryngology
+MAC|Monitored anesthesia care|Otolaryngology
+GETA|General endotracheal anesthesia|Otolaryngology
+TIVA|Total intravenous anesthesia|Otolaryngology
+PONV|Postoperative nausea and vomiting|Otolaryngology
+TXA|Tranexamic acid|Otolaryngology
+OTC|Over the counter|Otolaryngology
+ABX|Antibiotics|Otolaryngology
+AMX-CLV|Amoxicillin-clavulanate|Otolaryngology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Otolaryngology
+PCN|Penicillin|Otolaryngology
+FQ|Fluoroquinolone|Otolaryngology
+PPI|Proton pump inhibitor|Otolaryngology
+H2RA|Histamine-2 receptor antagonist|Otolaryngology
+OAH|Oral antihistamine|Otolaryngology
+INAH|Intranasal antihistamine|Otolaryngology
+LTRA|Leukotriene receptor antagonist|Otolaryngology
+NSAID|Nonsteroidal anti-inflammatory drug|Otolaryngology
+ASA|Acetylsalicylic acid (aspirin)|Otolaryngology
+PRN|As needed|Otolaryngology
+BID|Twice daily|Otolaryngology
+TID|Three times daily|Otolaryngology
+QID|Four times daily|Otolaryngology
+QD|Once daily|Otolaryngology
+QHS|Every night at bedtime|Otolaryngology
+gtt|Drops|Otolaryngology
+gtts|Drops|Otolaryngology
+AD|Right ear|Otolaryngology
+AS|Left ear|Otolaryngology
+AU|Both ears|Otolaryngology
+OD|Right eye|Otolaryngology
+OS|Left eye|Otolaryngology
+OU|Both eyes|Otolaryngology
+R|Right|Otolaryngology
+L|Left|Otolaryngology
+B/L|Bilateral|Otolaryngology
+BL|Bilateral|Otolaryngology
+UL|Unilateral|Otolaryngology
+NAD|No acute distress|Otolaryngology
+NL|Normal|Otolaryngology
+WNL|Within normal limits|Otolaryngology
+PERRLA|Pupils equal, round, reactive to light and accommodation|Otolaryngology
+EOMI|Extraocular movements intact|Otolaryngology
+OP clear|Oropharynx clear|Otolaryngology
+MMM|Moist mucous membranes|Otolaryngology
+NCAT|Normocephalic, atraumatic|Otolaryngology
+TTP|Tender to palpation|Otolaryngology
+LAN|Lymphadenopathy|Otolaryngology
+PND|Postnasal drip|Otolaryngology
+PNDS|Postnasal drip syndrome|Otolaryngology
+UACS|Upper airway cough syndrome|Otolaryngology
+CC|Chief complaint|Otolaryngology
+HPI|History of present illness|Otolaryngology
+PMH|Past medical history|Otolaryngology
+PSH|Past surgical history|Otolaryngology
+FH|Family history|Otolaryngology
+SH|Social history|Otolaryngology
+ROS|Review of systems|Otolaryngology
+NKDA|No known drug allergies|Otolaryngology
+CT scan|Computed tomography|Otolaryngology
+CTA|Computed tomography angiography|Otolaryngology
+HRCT|High-resolution computed tomography|Otolaryngology
+CBCT|Cone-beam computed tomography|Otolaryngology
+MRI|Magnetic resonance imaging|Otolaryngology
+MRA|Magnetic resonance angiography|Otolaryngology
+MRV|Magnetic resonance venography|Otolaryngology
+DWI|Diffusion-weighted imaging|Otolaryngology
+ADC|Apparent diffusion coefficient|Otolaryngology
+T1WI|T1-weighted imaging|Otolaryngology
+T2WI|T2-weighted imaging|Otolaryngology
+FLAIR|Fluid-attenuated inversion recovery|Otolaryngology
+STIR|Short tau inversion recovery|Otolaryngology
+Gd|Gadolinium|Otolaryngology
+PET-CT|Positron emission tomography-computed tomography|Otolaryngology
+FDG|Fluorodeoxyglucose|Otolaryngology
+SUV|Standardized uptake value|Otolaryngology
+SUVmax|Maximum standardized uptake value|Otolaryngology
+US|Ultrasound|Otolaryngology
+CDUS|Color Doppler ultrasound|Otolaryngology
+SPECT|Single-photon emission computed tomography|Otolaryngology
+4D-CT|Four-dimensional computed tomography|Otolaryngology
+BE|Barium esophagram|Otolaryngology
+UGI|Upper gastrointestinal series|Otolaryngology
+CXR|Chest x-ray|Otolaryngology
+OPG|Orthopantomogram|Otolaryngology
+IOM|Intraoperative monitoring|Otolaryngology
+SSEP|Somatosensory evoked potential|Otolaryngology
+MEP|Motor evoked potential|Otolaryngology
+BAEP|Brainstem auditory evoked potential|Otolaryngology
+EEG|Electroencephalography|Otolaryngology
+TCD|Transcranial Doppler|Otolaryngology
+CNS|Central nervous system|Otolaryngology
+EVD|External ventricular drain|Otolaryngology
+ICP|Intracranial pressure|Otolaryngology
+IIH|Idiopathic intracranial hypertension|Otolaryngology
+NPH|Normal pressure hydrocephalus|Otolaryngology
+B2T|Beta-2 transferrin|Otolaryngology
+BTP|Beta-trace protein|Otolaryngology
+TBF|Temporal bone fracture|Otolaryngology
+CG|Cholesterol granuloma|Otolaryngology
+KO|Keratosis obturans|Otolaryngology
+TMP|Tympanic membrane perforation|Otolaryngology
+TMPerf|Tympanic membrane perforation|Otolaryngology
+ISJ|Incudostapedial joint|Otolaryngology
+RW|Round window|Otolaryngology
+OW|Oval window|Otolaryngology
+RWM|Round window membrane|Otolaryngology
+SSC|Semicircular canal|Otolaryngology
+PSC|Posterior semicircular canal|Otolaryngology
+LSC|Lateral semicircular canal|Otolaryngology
+HSC|Horizontal semicircular canal|Otolaryngology
+PLF|Perilymph fistula|Otolaryngology
+IT steroids|Intratympanic steroid injection|Otolaryngology
+ITS|Intratympanic steroids|Otolaryngology
+IT gent|Intratympanic gentamicin|Otolaryngology
+DEX|Dexamethasone|Otolaryngology
+MEI|Middle ear implant|Otolaryngology
+AMEI|Active middle ear implant|Otolaryngology
+EAS|Electric-acoustic stimulation|Otolaryngology
+SSD|Single-sided deafness|Otolaryngology
+AHL|Asymmetric hearing loss|Otolaryngology
+USNHL|Unilateral sensorineural hearing loss|Otolaryngology
+PTS|Permanent threshold shift|Otolaryngology
+TTS|Temporary threshold shift|Otolaryngology
+STS|Standard threshold shift|Otolaryngology
+HPD|Hearing protection device|Otolaryngology
+NRR|Noise reduction rating|Otolaryngology
+APD|Auditory processing disorder|Otolaryngology
+CAPD|Central auditory processing disorder|Otolaryngology
+ANSD|Auditory neuropathy spectrum disorder|Otolaryngology
+SP/AP|Summating potential to action potential ratio|Otolaryngology
+OHC|Outer hair cell|Otolaryngology
+IHC|Inner hair cell|Otolaryngology
+SGN|Spiral ganglion neuron|Otolaryngology
+CAP|Compound action potential|Otolaryngology
+ECAP|Electrically evoked compound action potential|Otolaryngology
+NRT|Neural response telemetry|Otolaryngology
+MAP|Programmed cochlear implant stimulation map|Otolaryngology
+NF2|Neurofibromatosis type 2|Otolaryngology
+NF1|Neurofibromatosis type 1|Otolaryngology
+SWN|Schwannomatosis|Otolaryngology
+PGL|Paraganglioma|Otolaryngology
+CBT|Carotid body tumor|Otolaryngology
+HNPGL|Head and neck paraganglioma|Otolaryngology
+SDE|Subdural empyema|Otolaryngology
+MAS|Mastoiditis|Otolaryngology
+AgNO3|Silver nitrate|Otolaryngology
+HTS|Hypertonic saline|Otolaryngology
+NSS|Normal saline solution|Otolaryngology
+NSI|Nasal saline irrigation|Otolaryngology
+ASA desens|Aspirin desensitization|Otolaryngology
+MDI|Metered dose inhaler|Otolaryngology
+OCP|Oral contraceptive pill|Otolaryngology
+AFB|Acid-fast bacilli|Otolaryngology
+NTM|Nontuberculous mycobacteria|Otolaryngology
+CSD|Cat scratch disease|Otolaryngology
+HIV|Human immunodeficiency virus|Otolaryngology
+HSV|Herpes simplex virus|Otolaryngology
+VZV|Varicella zoster virus|Otolaryngology
+HZO|Herpes zoster oticus|Otolaryngology
+CFNG|Cross-face nerve graft|Otolaryngology
+FPRS|Facial plastic and reconstructive surgery|Otolaryngology
+FPS|Facial plastic surgery|Otolaryngology
+BCC|Basal cell carcinoma|Otolaryngology
+cSCC|Cutaneous squamous cell carcinoma|Otolaryngology
+MCC|Merkel cell carcinoma|Otolaryngology
+MMS|Mohs micrographic surgery|Otolaryngology
+WLE|Wide local excision|Otolaryngology
+FTSG|Full-thickness skin graft|Otolaryngology
+STSG|Split-thickness skin graft|Otolaryngology
+SG|Skin graft|Otolaryngology
+ADM|Acellular dermal matrix|Otolaryngology
+NPWT|Negative pressure wound therapy|Otolaryngology
+PRP|Platelet-rich plasma|Otolaryngology
+HA filler|Hyaluronic acid filler|Otolaryngology
+SMAS|Superficial musculoaponeurotic system|Otolaryngology
+CLA|Cleft lip adhesion|Otolaryngology
+NAM|Nasoalveolar molding|Otolaryngology
+DO|Distraction osteogenesis|Otolaryngology
+MDO|Mandibular distraction osteogenesis|Otolaryngology
+BSSO|Bilateral sagittal split osteotomy|Otolaryngology
+PAS|Preauricular sinus|Otolaryngology
+BCA|Branchial cleft anomaly|Otolaryngology
+TGDC|Thyroglossal duct cyst|Otolaryngology
+AVM|Arteriovenous malformation|Otolaryngology
+IH|Infantile hemangioma|Otolaryngology
+CNPAS|Congenital nasal pyriform aperture stenosis|Otolaryngology
+CA|Choanal atresia|Otolaryngology
+NDS|Nasal dermal sinus|Otolaryngology
+LTEC|Laryngotracheoesophageal cleft|Otolaryngology
+EA|Esophageal atresia|Otolaryngology
+TEF/EA|Tracheoesophageal fistula with esophageal atresia|Otolaryngology
+BPD|Bronchopulmonary dysplasia|Otolaryngology
+PES|Post-extubation stridor|Otolaryngology
+NPPE|Negative pressure pulmonary edema|Otolaryngology
+BRUE|Brief resolved unexplained event|Otolaryngology
+ALTE|Apparent life-threatening event|Otolaryngology
+SIDS|Sudden infant death syndrome|Otolaryngology
+GJ tube|Gastrojejunostomy tube|Otolaryngology
+G-tube|Gastrostomy tube|Otolaryngology
+PO|By mouth|Otolaryngology
+NPO|Nothing by mouth|Otolaryngology
+IV|Intravenous|Otolaryngology
+SQ|Subcutaneous|Otolaryngology
+IVF|Intravenous fluids|Otolaryngology
+EBL|Estimated blood loss|Otolaryngology
+OR|Operating room|Otolaryngology
+PACU|Post-anesthesia care unit|Otolaryngology
+ICU|Intensive care unit|Otolaryngology
+LOS|Length of stay|Otolaryngology
+POD|Postoperative day|Otolaryngology
+PO day|Postoperative day|Otolaryngology
+HOB|Head of bed|Otolaryngology
+HOB 30|Head of bed elevated 30 degrees|Otolaryngology
+EOS|End of surgery|Otolaryngology
+SSI|Surgical site infection|Otolaryngology
+DVT|Deep vein thrombosis|Otolaryngology
+PE|Pulmonary embolism|Otolaryngology
+ESS|Endoscopic sinus surgery|Otolaryngology
+PTA|Peritonsillar abscess|Otolaryngology
+PTH|Parathyroid hormone|Otolaryngology
+PET|Positron emission tomography|Otolaryngology

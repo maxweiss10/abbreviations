@@ -1,0 +1,506 @@
+ACDF|Anterior cervical discectomy and fusion|Pain Medicine
+ACT|Acceptance and commitment therapy|Pain Medicine
+ADL|Activities of daily living|Pain Medicine
+ADLs|Activities of daily living|Pain Medicine
+AE|Adverse event|Pain Medicine
+AIDP|Acute inflammatory demyelinating polyneuropathy|Pain Medicine
+AMPA|Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (glutamate receptor)|Pain Medicine
+AP|Anteroposterior|Pain Medicine
+APAP|Acetaminophen (paracetamol)|Pain Medicine
+ARDS|Acute respiratory distress syndrome|Pain Medicine
+AS|Ankylosing spondylitis|Pain Medicine
+ASA|Aspirin|Pain Medicine
+ASD|Adjacent segment disease|Pain Medicine
+ASIS|Anterior superior iliac spine|Pain Medicine
+BDI|Beck Depression Inventory|Pain Medicine
+BID|Twice daily|Pain Medicine
+BMI|Body mass index|Pain Medicine
+BPI|Brief Pain Inventory|Pain Medicine
+BPI-SF|Brief Pain Inventory short form|Pain Medicine
+BUP|Buprenorphine|Pain Medicine
+BUP/NX|Buprenorphine and naloxone combination|Pain Medicine
+CAM|Complementary and alternative medicine|Pain Medicine
+CBD|Cannabidiol|Pain Medicine
+CBT|Cognitive behavioral therapy|Pain Medicine
+CBT-CP|Cognitive behavioral therapy for chronic pain|Pain Medicine
+CBZ|Carbamazepine|Pain Medicine
+CCK|Cholecystokinin|Pain Medicine
+CES|Cauda equina syndrome|Pain Medicine
+CGRP|Calcitonin gene-related peptide|Pain Medicine
+CIPN|Chemotherapy-induced peripheral neuropathy|Pain Medicine
+CLBP|Chronic low back pain|Pain Medicine
+CMT|Chiropractic manipulative therapy|Pain Medicine
+CNCP|Chronic non-cancer pain|Pain Medicine
+CNS|Central nervous system|Pain Medicine
+COX|Cyclooxygenase|Pain Medicine
+COX-1|Cyclooxygenase-1|Pain Medicine
+COX-2|Cyclooxygenase-2|Pain Medicine
+CP|Chronic pain|Pain Medicine
+CPAP|Continuous positive airway pressure|Pain Medicine
+CPG|Clinical practice guideline|Pain Medicine
+CPM|Conditioned pain modulation|Pain Medicine
+CPM|Continuous passive motion|Pain Medicine
+CPP|Chronic pelvic pain|Pain Medicine
+CPPS|Chronic pelvic pain syndrome|Pain Medicine
+CPSP|Chronic postsurgical pain|Pain Medicine
+CRPS|Complex regional pain syndrome|Pain Medicine
+CRPS-I|Complex regional pain syndrome type I|Pain Medicine
+CRPS-II|Complex regional pain syndrome type II|Pain Medicine
+CSF|Cerebrospinal fluid|Pain Medicine
+CSM|Cervical spondylotic myelopathy|Pain Medicine
+CSS|Central sensitization syndrome|Pain Medicine
+CT|Computed tomography|Pain Medicine
+CTS|Carpal tunnel syndrome|Pain Medicine
+CWP|Chronic widespread pain|Pain Medicine
+CYP|Cytochrome P450|Pain Medicine
+CYP2D6|Cytochrome P450 2D6|Pain Medicine
+CYP3A4|Cytochrome P450 3A4|Pain Medicine
+D/C|Discontinue|Pain Medicine
+DBS|Deep brain stimulation|Pain Medicine
+DDD|Degenerative disc disease|Pain Medicine
+DH|Dorsal horn|Pain Medicine
+DISH|Diffuse idiopathic skeletal hyperostosis|Pain Medicine
+DJD|Degenerative joint disease|Pain Medicine
+DLPFC|Dorsolateral prefrontal cortex|Pain Medicine
+DN4|Douleur Neuropathique 4 questions (neuropathic pain screening tool)|Pain Medicine
+DNIC|Diffuse noxious inhibitory control|Pain Medicine
+DOAC|Direct oral anticoagulant|Pain Medicine
+DPN|Diabetic peripheral neuropathy|Pain Medicine
+DPNP|Diabetic peripheral neuropathic pain|Pain Medicine
+DRG|Dorsal root ganglion|Pain Medicine
+DREZ|Dorsal root entry zone|Pain Medicine
+DTP|Deep tissue pain|Pain Medicine
+DVT|Deep vein thrombosis|Pain Medicine
+EBP|Epidural blood patch|Pain Medicine
+ECT|Electroconvulsive therapy|Pain Medicine
+ED|Emergency department|Pain Medicine
+EEG|Electroencephalogram|Pain Medicine
+EMG|Electromyography|Pain Medicine
+EMLA|Eutectic mixture of lidocaine and prilocaine|Pain Medicine
+EMR|Electronic medical record|Pain Medicine
+EPS|Extrapyramidal symptoms|Pain Medicine
+ER|Extended release|Pain Medicine
+ER|Emergency room|Pain Medicine
+ESI|Epidural steroid injection|Pain Medicine
+ESP|Erector spinae plane (block)|Pain Medicine
+ESPB|Erector spinae plane block|Pain Medicine
+ESR|Erythrocyte sedimentation rate|Pain Medicine
+ET|Essential tremor|Pain Medicine
+FABER|Flexion, abduction and external rotation (hip test)|Pain Medicine
+FADIR|Flexion, adduction and internal rotation (hip test)|Pain Medicine
+FBSS|Failed back surgery syndrome|Pain Medicine
+FM|Fibromyalgia|Pain Medicine
+FMS|Fibromyalgia syndrome|Pain Medicine
+FSS|Fatigue severity scale|Pain Medicine
+FU|Follow-up|Pain Medicine
+GA|General anesthesia|Pain Medicine
+GABA|Gamma-aminobutyric acid|Pain Medicine
+GAD|Generalized anxiety disorder|Pain Medicine
+GAD-7|Generalized Anxiety Disorder 7-item scale|Pain Medicine
+GCA|Giant cell arteritis|Pain Medicine
+GERD|Gastroesophageal reflux disease|Pain Medicine
+GI|Gastrointestinal|Pain Medicine
+GON|Greater occipital nerve|Pain Medicine
+GONB|Greater occipital nerve block|Pain Medicine
+GPN|Glossopharyngeal neuralgia|Pain Medicine
+GTN|Glyceryl trinitrate|Pain Medicine
+HA|Headache|Pain Medicine
+HADS|Hospital anxiety and depression scale|Pain Medicine
+HIV|Human immunodeficiency virus|Pain Medicine
+HNP|Herniated nucleus pulposus|Pain Medicine
+HPA|Hypothalamic-pituitary-adrenal|Pain Medicine
+HPI|History of present illness|Pain Medicine
+HTN|Hypertension|Pain Medicine
+HZ|Herpes zoster|Pain Medicine
+IBS|Irritable bowel syndrome|Pain Medicine
+IC|Interstitial cystitis|Pain Medicine
+IC/BPS|Interstitial cystitis and bladder pain syndrome|Pain Medicine
+ICH|Intracranial hemorrhage|Pain Medicine
+IDET|Intradiscal electrothermal therapy|Pain Medicine
+IDDS|Intrathecal drug delivery system|Pain Medicine
+IL|Interleukin|Pain Medicine
+IM|Intramuscular|Pain Medicine
+INR|International normalized ratio|Pain Medicine
+IPG|Implantable pulse generator|Pain Medicine
+IT|Intrathecal|Pain Medicine
+ITB|Intrathecal baclofen|Pain Medicine
+IV|Intravenous|Pain Medicine
+IVDD|Intervertebral disc degeneration|Pain Medicine
+IVF|Intervertebral foramen|Pain Medicine
+IVRA|Intravenous regional anesthesia|Pain Medicine
+JRA|Juvenile rheumatoid arthritis|Pain Medicine
+LA|Local anesthetic|Pain Medicine
+LAST|Local anesthetic systemic toxicity|Pain Medicine
+LBP|Low back pain|Pain Medicine
+LE|Lower extremity|Pain Medicine
+LESI|Lumbar epidural steroid injection|Pain Medicine
+LFT|Liver function tests|Pain Medicine
+LFTs|Liver function tests|Pain Medicine
+LMWH|Low molecular weight heparin|Pain Medicine
+LOR|Loss of resistance|Pain Medicine
+LP|Lumbar puncture|Pain Medicine
+LS|Lumbosacral|Pain Medicine
+LSS|Lumbar spinal stenosis|Pain Medicine
+LTOT|Long-term opioid therapy|Pain Medicine
+LSO|Lumbosacral orthosis|Pain Medicine
+MAOI|Monoamine oxidase inhibitor|Pain Medicine
+MAT|Medication-assisted treatment|Pain Medicine
+MBB|Medial branch block|Pain Medicine
+MBSR|Mindfulness-based stress reduction|Pain Medicine
+MDD|Major depressive disorder|Pain Medicine
+ME/CFS|Myalgic encephalomyelitis and chronic fatigue syndrome|Pain Medicine
+MED|Morphine equivalent dose|Pain Medicine
+MEDD|Morphine equivalent daily dose|Pain Medicine
+MFP|Myofascial pain|Pain Medicine
+MFPS|Myofascial pain syndrome|Pain Medicine
+MG|Myasthenia gravis|Pain Medicine
+MI|Myocardial infarction|Pain Medicine
+MME|Morphine milligram equivalents|Pain Medicine
+MMI|Maximum medical improvement|Pain Medicine
+MPQ|McGill Pain Questionnaire|Pain Medicine
+MRA|Magnetic resonance angiography|Pain Medicine
+MRI|Magnetic resonance imaging|Pain Medicine
+MRN|Medical record number|Pain Medicine
+MS|Multiple sclerosis|Pain Medicine
+MSK|Musculoskeletal|Pain Medicine
+MTP|Metatarsophalangeal|Pain Medicine
+MTX|Methotrexate|Pain Medicine
+MVA|Motor vehicle accident|Pain Medicine
+NCS|Nerve conduction study|Pain Medicine
+NCV|Nerve conduction velocity|Pain Medicine
+NDI|Neck Disability Index|Pain Medicine
+NMDA|N-methyl-D-aspartate|Pain Medicine
+NNH|Number needed to harm|Pain Medicine
+NNT|Number needed to treat|Pain Medicine
+NOS|Not otherwise specified|Pain Medicine
+NPRS|Numeric pain rating scale|Pain Medicine
+NPS|Neuropathic pain scale|Pain Medicine
+NRS|Numeric rating scale|Pain Medicine
+NSAID|Nonsteroidal anti-inflammatory drug|Pain Medicine
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Pain Medicine
+NSS|Normal saline solution|Pain Medicine
+NTG|Nitroglycerin|Pain Medicine
+OA|Osteoarthritis|Pain Medicine
+OCD|Obsessive-compulsive disorder|Pain Medicine
+ODI|Oswestry Disability Index|Pain Medicine
+OIH|Opioid-induced hyperalgesia|Pain Medicine
+OIC|Opioid-induced constipation|Pain Medicine
+OIRD|Opioid-induced respiratory depression|Pain Medicine
+ONS|Occipital nerve stimulation|Pain Medicine
+ORT|Opioid Risk Tool|Pain Medicine
+OT|Occupational therapy|Pain Medicine
+OTC|Over the counter|Pain Medicine
+OUD|Opioid use disorder|Pain Medicine
+PAG|Periaqueductal gray|Pain Medicine
+PCA|Patient-controlled analgesia|Pain Medicine
+PCEA|Patient-controlled epidural analgesia|Pain Medicine
+PCP|Primary care provider|Pain Medicine
+PD|Parkinson disease|Pain Medicine
+PDPH|Post-dural puncture headache|Pain Medicine
+PDN|Painful diabetic neuropathy|Pain Medicine
+PEG|Pain, Enjoyment of life, General activity (three-item pain scale)|Pain Medicine
+PENG|Pericapsular nerve group (block)|Pain Medicine
+PET|Positron emission tomography|Pain Medicine
+PHN|Postherpetic neuralgia|Pain Medicine
+PHQ-9|Patient Health Questionnaire 9-item depression scale|Pain Medicine
+PIP|Proximal interphalangeal|Pain Medicine
+PMDD|Premenstrual dysphoric disorder|Pain Medicine
+PMP|Prescription monitoring program|Pain Medicine
+PMR|Polymyalgia rheumatica|Pain Medicine
+PMR|Physical medicine and rehabilitation|Pain Medicine
+PN|Peripheral neuropathy|Pain Medicine
+PNB|Peripheral nerve block|Pain Medicine
+PNS|Peripheral nerve stimulation|Pain Medicine
+PNS|Peripheral nervous system|Pain Medicine
+PO|By mouth|Pain Medicine
+POD|Postoperative day|Pain Medicine
+POCD|Postoperative cognitive dysfunction|Pain Medicine
+PPI|Proton pump inhibitor|Pain Medicine
+PRF|Pulsed radiofrequency|Pain Medicine
+PRN|As needed|Pain Medicine
+PROM|Passive range of motion|Pain Medicine
+PROMs|Patient-reported outcome measures|Pain Medicine
+PSIS|Posterior superior iliac spine|Pain Medicine
+PSPS|Persistent spinal pain syndrome|Pain Medicine
+PSPS-T1|Persistent spinal pain syndrome type 1|Pain Medicine
+PSPS-T2|Persistent spinal pain syndrome type 2|Pain Medicine
+PT|Physical therapy|Pain Medicine
+PT|Prothrombin time|Pain Medicine
+PTSD|Post-traumatic stress disorder|Pain Medicine
+PVD|Peripheral vascular disease|Pain Medicine
+QD|Once daily|Pain Medicine
+QHS|Every night at bedtime|Pain Medicine
+QID|Four times daily|Pain Medicine
+QOL|Quality of life|Pain Medicine
+QST|Quantitative sensory testing|Pain Medicine
+RA|Rheumatoid arthritis|Pain Medicine
+RCT|Randomized controlled trial|Pain Medicine
+RF|Radiofrequency|Pain Medicine
+RFA|Radiofrequency ablation|Pain Medicine
+RFL|Radiofrequency lesioning|Pain Medicine
+RICE|Rest, ice, compression, elevation|Pain Medicine
+RLS|Restless legs syndrome|Pain Medicine
+RMDQ|Roland-Morris Disability Questionnaire|Pain Medicine
+ROM|Range of motion|Pain Medicine
+ROS|Review of systems|Pain Medicine
+RSD|Reflex sympathetic dystrophy|Pain Medicine
+RTC|Rotator cuff|Pain Medicine
+SAH|Subarachnoid hemorrhage|Pain Medicine
+SCI|Spinal cord injury|Pain Medicine
+SCS|Spinal cord stimulation|Pain Medicine
+SCS|Spinal cord stimulator|Pain Medicine
+SDH|Subdural hematoma|Pain Medicine
+SF-36|Short Form 36 health survey|Pain Medicine
+SFN|Small fiber neuropathy|Pain Medicine
+SGB|Stellate ganglion block|Pain Medicine
+SHB|Superior hypogastric block|Pain Medicine
+SI|Sacroiliac|Pain Medicine
+SIJ|Sacroiliac joint|Pain Medicine
+SIJD|Sacroiliac joint dysfunction|Pain Medicine
+SIJI|Sacroiliac joint injection|Pain Medicine
+SL|Sublingual|Pain Medicine
+SLE|Systemic lupus erythematosus|Pain Medicine
+SLR|Straight leg raise|Pain Medicine
+SMP|Sympathetically maintained pain|Pain Medicine
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Pain Medicine
+SNRB|Selective nerve root block|Pain Medicine
+SOAP|Subjective, objective, assessment, plan|Pain Medicine
+SOAPP|Screener and Opioid Assessment for Patients with Pain|Pain Medicine
+SOAPP-R|Screener and Opioid Assessment for Patients with Pain, revised|Pain Medicine
+SPG|Sphenopalatine ganglion|Pain Medicine
+SPGB|Sphenopalatine ganglion block|Pain Medicine
+SQ|Subcutaneous|Pain Medicine
+SSRI|Selective serotonin reuptake inhibitor|Pain Medicine
+STT|Spinothalamic tract|Pain Medicine
+SUD|Substance use disorder|Pain Medicine
+SX|Symptoms|Pain Medicine
+TA|Triamcinolone acetonide|Pain Medicine
+TAP|Transversus abdominis plane|Pain Medicine
+TAPB|Transversus abdominis plane block|Pain Medicine
+TCA|Tricyclic antidepressant|Pain Medicine
+TCAs|Tricyclic antidepressants|Pain Medicine
+TCM|Traditional Chinese medicine|Pain Medicine
+TD|Transdermal|Pain Medicine
+TENS|Transcutaneous electrical nerve stimulation|Pain Medicine
+TFESI|Transforaminal epidural steroid injection|Pain Medicine
+THC|Tetrahydrocannabinol|Pain Medicine
+TID|Three times daily|Pain Medicine
+TKA|Total knee arthroplasty|Pain Medicine
+TLIF|Transforaminal lumbar interbody fusion|Pain Medicine
+TLSO|Thoracolumbosacral orthosis|Pain Medicine
+TMD|Temporomandibular disorder|Pain Medicine
+TMJ|Temporomandibular joint|Pain Medicine
+TN|Trigeminal neuralgia|Pain Medicine
+TNF|Tumor necrosis factor|Pain Medicine
+TNS|Transient neurologic symptoms|Pain Medicine
+TP|Trigger point|Pain Medicine
+TPI|Trigger point injection|Pain Medicine
+TPN|Total parenteral nutrition|Pain Medicine
+TRPV1|Transient receptor potential vanilloid 1|Pain Medicine
+TSH|Thyroid stimulating hormone|Pain Medicine
+TTH|Tension-type headache|Pain Medicine
+TUG|Timed up and go|Pain Medicine
+UA|Urinalysis|Pain Medicine
+UDS|Urine drug screen|Pain Medicine
+UDT|Urine drug testing|Pain Medicine
+UE|Upper extremity|Pain Medicine
+UTI|Urinary tract infection|Pain Medicine
+VAS|Visual analog scale|Pain Medicine
+VBI|Vertebrobasilar insufficiency|Pain Medicine
+VNS|Vagus nerve stimulation|Pain Medicine
+VRS|Verbal rating scale|Pain Medicine
+VTE|Venous thromboembolism|Pain Medicine
+WDR|Wide dynamic range (neuron)|Pain Medicine
+WNL|Within normal limits|Pain Medicine
+XR|Extended release|Pain Medicine
+XRT|Radiation therapy|Pain Medicine
+SCM|Sternocleidomastoid|Pain Medicine
+QL|Quadratus lumborum|Pain Medicine
+QLB|Quadratus lumborum block|Pain Medicine
+PECS|Pectoral nerves (block)|Pain Medicine
+SAP|Serratus anterior plane (block)|Pain Medicine
+PVB|Paravertebral block|Pain Medicine
+ISB|Interscalene block|Pain Medicine
+ACB|Adductor canal block|Pain Medicine
+FICB|Fascia iliaca compartment block|Pain Medicine
+LIA|Local infiltration analgesia|Pain Medicine
+EA|Epidural analgesia|Pain Medicine
+CSE|Combined spinal-epidural|Pain Medicine
+CEI|Continuous epidural infusion|Pain Medicine
+PIEB|Programmed intermittent epidural bolus|Pain Medicine
+US|Ultrasound|Pain Medicine
+FL|Fluoroscopy|Pain Medicine
+IPACK|Infiltration between the popliteal artery and capsule of the knee|Pain Medicine
+CNB|Central neuraxial blockade|Pain Medicine
+SAB|Subarachnoid block|Pain Medicine
+MAC|Monitored anesthesia care|Pain Medicine
+MS|Morphine sulfate|Pain Medicine
+HM|Hydromorphone|Pain Medicine
+OXY|Oxycodone|Pain Medicine
+IR|Immediate release|Pain Medicine
+SR|Sustained release|Pain Medicine
+CR|Controlled release|Pain Medicine
+LA|Long-acting|Pain Medicine
+ODT|Orally disintegrating tablet|Pain Medicine
+NTX|Naltrexone|Pain Medicine
+LDN|Low-dose naltrexone|Pain Medicine
+NLX|Naloxone|Pain Medicine
+MTD|Methadone|Pain Medicine
+BZD|Benzodiazepine|Pain Medicine
+GBP|Gabapentin|Pain Medicine
+PGB|Pregabalin|Pain Medicine
+DLX|Duloxetine|Pain Medicine
+CCB|Calcium channel blocker|Pain Medicine
+SI|Suicidal ideation|Pain Medicine
+HI|Homicidal ideation|Pain Medicine
+AUD|Alcohol use disorder|Pain Medicine
+COWS|Clinical Opiate Withdrawal Scale|Pain Medicine
+CIWA|Clinical Institute Withdrawal Assessment|Pain Medicine
+OWS|Opioid withdrawal syndrome|Pain Medicine
+NAS|Neonatal abstinence syndrome|Pain Medicine
+PDMP|Prescription drug monitoring program|Pain Medicine
+CSA|Controlled substance agreement|Pain Medicine
+MRO|Medical review officer|Pain Medicine
+DIRE|Diagnosis, intractability, risk, efficacy (opioid suitability score)|Pain Medicine
+COMM|Current Opioid Misuse Measure|Pain Medicine
+PCS|Pain Catastrophizing Scale|Pain Medicine
+TSK|Tampa Scale of Kinesiophobia|Pain Medicine
+FABQ|Fear-Avoidance Beliefs Questionnaire|Pain Medicine
+PROMIS|Patient-Reported Outcomes Measurement Information System|Pain Medicine
+PDI|Pain Disability Index|Pain Medicine
+CSI|Central Sensitization Inventory|Pain Medicine
+FIQ|Fibromyalgia Impact Questionnaire|Pain Medicine
+FIQR|Revised Fibromyalgia Impact Questionnaire|Pain Medicine
+WPI|Widespread Pain Index|Pain Medicine
+SSS|Symptom Severity Scale|Pain Medicine
+LANSS|Leeds Assessment of Neuropathic Symptoms and Signs|Pain Medicine
+S-LANSS|Self-report Leeds Assessment of Neuropathic Symptoms and Signs|Pain Medicine
+FPS-R|Faces Pain Scale, revised|Pain Medicine
+FLACC|Face, legs, activity, cry, consolability (pediatric pain scale)|Pain Medicine
+CPOT|Critical-Care Pain Observation Tool|Pain Medicine
+PAINAD|Pain Assessment in Advanced Dementia|Pain Medicine
+NIPS|Neonatal Infant Pain Scale|Pain Medicine
+DASH|Disabilities of the Arm, Shoulder and Hand questionnaire|Pain Medicine
+WOMAC|Western Ontario and McMaster Universities Osteoarthritis Index|Pain Medicine
+KOOS|Knee injury and Osteoarthritis Outcome Score|Pain Medicine
+HOOS|Hip disability and Osteoarthritis Outcome Score|Pain Medicine
+BASDAI|Bath Ankylosing Spondylitis Disease Activity Index|Pain Medicine
+BASFI|Bath Ankylosing Spondylitis Functional Index|Pain Medicine
+HIT-6|Headache Impact Test, 6 items|Pain Medicine
+MIDAS|Migraine Disability Assessment|Pain Medicine
+CM|Chronic migraine|Pain Medicine
+EM|Episodic migraine|Pain Medicine
+MOH|Medication overuse headache|Pain Medicine
+CH|Cluster headache|Pain Medicine
+SUNCT|Short-lasting unilateral neuralgiform headache with conjunctival injection and tearing|Pain Medicine
+SUNA|Short-lasting unilateral neuralgiform headache with cranial autonomic symptoms|Pain Medicine
+TAC|Trigeminal autonomic cephalalgia|Pain Medicine
+PTH|Post-traumatic headache|Pain Medicine
+IIH|Idiopathic intracranial hypertension|Pain Medicine
+SIH|Spontaneous intracranial hypotension|Pain Medicine
+CEH|Cervicogenic headache|Pain Medicine
+OSA|Obstructive sleep apnea|Pain Medicine
+COPD|Chronic obstructive pulmonary disease|Pain Medicine
+CKD|Chronic kidney disease|Pain Medicine
+eGFR|Estimated glomerular filtration rate|Pain Medicine
+CrCl|Creatinine clearance|Pain Medicine
+AKI|Acute kidney injury|Pain Medicine
+CHF|Congestive heart failure|Pain Medicine
+CAD|Coronary artery disease|Pain Medicine
+QTc|Corrected QT interval|Pain Medicine
+ECG|Electrocardiogram|Pain Medicine
+EKG|Electrocardiogram|Pain Medicine
+PNE|Pain neuroscience education|Pain Medicine
+GMI|Graded motor imagery|Pain Medicine
+IFC|Interferential current|Pain Medicine
+NMES|Neuromuscular electrical stimulation|Pain Medicine
+tDCS|Transcranial direct current stimulation|Pain Medicine
+rTMS|Repetitive transcranial magnetic stimulation|Pain Medicine
+TMS|Transcranial magnetic stimulation|Pain Medicine
+MCS|Motor cortex stimulation|Pain Medicine
+PNFS|Peripheral nerve field stimulation|Pain Medicine
+VP|Vertebroplasty|Pain Medicine
+KP|Kyphoplasty|Pain Medicine
+VCF|Vertebral compression fracture|Pain Medicine
+MVD|Microvascular decompression|Pain Medicine
+PBC|Percutaneous balloon compression|Pain Medicine
+GKRS|Gamma knife radiosurgery|Pain Medicine
+SRS|Stereotactic radiosurgery|Pain Medicine
+PTR|Percutaneous trigeminal rhizotomy|Pain Medicine
+GR|Glycerol rhizotomy|Pain Medicine
+PLIF|Posterior lumbar interbody fusion|Pain Medicine
+ALIF|Anterior lumbar interbody fusion|Pain Medicine
+XLIF|Extreme lateral interbody fusion|Pain Medicine
+OLIF|Oblique lateral interbody fusion|Pain Medicine
+TDR|Total disc replacement|Pain Medicine
+ADR|Artificial disc replacement|Pain Medicine
+MIS|Minimally invasive surgery|Pain Medicine
+PLD|Percutaneous lumbar discectomy|Pain Medicine
+CESI|Cervical epidural steroid injection|Pain Medicine
+TESI|Thoracic epidural steroid injection|Pain Medicine
+ILESI|Interlaminar epidural steroid injection|Pain Medicine
+FJ|Facet joint|Pain Medicine
+FJI|Facet joint injection|Pain Medicine
+FJS|Facet joint syndrome|Pain Medicine
+MBRFA|Medial branch radiofrequency ablation|Pain Medicine
+LBB|Lateral branch block|Pain Medicine
+GNB|Genicular nerve block|Pain Medicine
+GNRFA|Genicular nerve radiofrequency ablation|Pain Medicine
+CRFA|Cooled radiofrequency ablation|Pain Medicine
+PLP|Phantom limb pain|Pain Medicine
+RLP|Residual limb pain|Pain Medicine
+NP|Neuropathic pain|Pain Medicine
+CTD|Connective tissue disease|Pain Medicine
+JHS|Joint hypermobility syndrome|Pain Medicine
+SpA|Spondyloarthritis|Pain Medicine
+PsA|Psoriatic arthritis|Pain Medicine
+JIA|Juvenile idiopathic arthritis|Pain Medicine
+CPPD|Calcium pyrophosphate deposition disease|Pain Medicine
+HCQ|Hydroxychloroquine|Pain Medicine
+DMARD|Disease-modifying antirheumatic drug|Pain Medicine
+CCP|Cyclic citrullinated peptide|Pain Medicine
+ANA|Antinuclear antibody|Pain Medicine
+CRP|C-reactive protein|Pain Medicine
+HLA-B27|Human leukocyte antigen B27|Pain Medicine
+CBC|Complete blood count|Pain Medicine
+BMP|Basic metabolic panel|Pain Medicine
+CMP|Comprehensive metabolic panel|Pain Medicine
+ACL|Anterior cruciate ligament|Pain Medicine
+PCL|Posterior cruciate ligament|Pain Medicine
+MCL|Medial collateral ligament|Pain Medicine
+LCL|Lateral collateral ligament|Pain Medicine
+ITB|Iliotibial band|Pain Medicine
+PFPS|Patellofemoral pain syndrome|Pain Medicine
+GTPS|Greater trochanteric pain syndrome|Pain Medicine
+FAI|Femoroacetabular impingement|Pain Medicine
+AC|Acromioclavicular|Pain Medicine
+GH|Glenohumeral|Pain Medicine
+SAIS|Subacromial impingement syndrome|Pain Medicine
+TOS|Thoracic outlet syndrome|Pain Medicine
+TFCC|Triangular fibrocartilage complex|Pain Medicine
+CMC|Carpometacarpal|Pain Medicine
+MCP|Metacarpophalangeal|Pain Medicine
+DIP|Distal interphalangeal|Pain Medicine
+PF|Plantar fasciitis|Pain Medicine
+TTS|Tarsal tunnel syndrome|Pain Medicine
+WAD|Whiplash-associated disorder|Pain Medicine
+MTrP|Myofascial trigger point|Pain Medicine
+BoNT|Botulinum neurotoxin|Pain Medicine
+BTX-A|Botulinum toxin type A|Pain Medicine
+PRP|Platelet-rich plasma|Pain Medicine
+HA|Hyaluronic acid|Pain Medicine
+IA|Intra-articular|Pain Medicine
+ESWT|Extracorporeal shockwave therapy|Pain Medicine
+LLLT|Low-level laser therapy|Pain Medicine
+DN|Dry needling|Pain Medicine
+HSV|Herpes simplex virus|Pain Medicine
+VZV|Varicella zoster virus|Pain Medicine
+IVPCA|Intravenous patient-controlled analgesia|Pain Medicine
+NPO|Nothing by mouth|Pain Medicine
+ERAS|Enhanced recovery after surgery|Pain Medicine
+APS|Acute pain service|Pain Medicine
+MMA|Multimodal analgesia|Pain Medicine
+OFA|Opioid-free anesthesia|Pain Medicine
+TIVA|Total intravenous anesthesia|Pain Medicine
+PONV|Postoperative nausea and vomiting|Pain Medicine
+PACU|Post-anesthesia care unit|Pain Medicine

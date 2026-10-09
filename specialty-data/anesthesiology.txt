@@ -1,0 +1,700 @@
+GA|General anesthesia|Anesthesiology
+GETA|General endotracheal anesthesia|Anesthesiology
+MAC|Monitored anesthesia care|Anesthesiology
+MAC|Minimum alveolar concentration|Anesthesiology
+RA|Regional anesthesia|Anesthesiology
+SAB|Subarachnoid block (spinal anesthetic)|Anesthesiology
+CSE|Combined spinal-epidural|Anesthesiology
+PCEA|Patient-controlled epidural analgesia|Anesthesiology
+PCA|Patient-controlled analgesia|Anesthesiology
+PIEB|Programmed intermittent epidural bolus|Anesthesiology
+CEI|Continuous epidural infusion|Anesthesiology
+PDPH|Post-dural puncture headache|Anesthesiology
+EBP|Epidural blood patch|Anesthesiology
+LOR|Loss of resistance|Anesthesiology
+LORA|Loss of resistance to air|Anesthesiology
+LORS|Loss of resistance to saline|Anesthesiology
+PNB|Peripheral nerve block|Anesthesiology
+UGRA|Ultrasound-guided regional anesthesia|Anesthesiology
+TAP|Transversus abdominis plane (block)|Anesthesiology
+ESP|Erector spinae plane (block)|Anesthesiology
+QL|Quadratus lumborum (block)|Anesthesiology
+PECS|Pectoral nerve (block)|Anesthesiology
+SAP|Serratus anterior plane (block)|Anesthesiology
+IPACK|Infiltration between the popliteal artery and capsule of the knee|Anesthesiology
+ISB|Interscalene block|Anesthesiology
+SCB|Supraclavicular block|Anesthesiology
+ICB|Infraclavicular block|Anesthesiology
+AXB|Axillary block|Anesthesiology
+FNB|Femoral nerve block|Anesthesiology
+FICB|Fascia iliaca compartment block|Anesthesiology
+ACB|Adductor canal block|Anesthesiology
+PSB|Popliteal sciatic block|Anesthesiology
+BP|Blood pressure|Anesthesiology
+BP|Brachial plexus|Anesthesiology
+IVRA|Intravenous regional anesthesia|Anesthesiology
+LAST|Local anesthetic systemic toxicity|Anesthesiology
+LA|Local anesthetic|Anesthesiology
+LA|Left atrium|Anesthesiology
+ILE|Intravenous lipid emulsion|Anesthesiology
+TIVA|Total intravenous anesthesia|Anesthesiology
+TCI|Target-controlled infusion|Anesthesiology
+RSI|Rapid sequence induction|Anesthesiology
+RSII|Rapid sequence intubation and induction|Anesthesiology
+ETT|Endotracheal tube|Anesthesiology
+ETI|Endotracheal intubation|Anesthesiology
+LMA|Laryngeal mask airway|Anesthesiology
+SGA|Supraglottic airway|Anesthesiology
+DLT|Double-lumen tube|Anesthesiology
+BB|Bronchial blocker|Anesthesiology
+OLV|One-lung ventilation|Anesthesiology
+VL|Video laryngoscopy|Anesthesiology
+DL|Direct laryngoscopy|Anesthesiology
+FOI|Fiberoptic intubation|Anesthesiology
+FOB|Fiberoptic bronchoscope|Anesthesiology
+NPA|Nasopharyngeal airway|Anesthesiology
+OPA|Oropharyngeal airway|Anesthesiology
+BMV|Bag-mask ventilation|Anesthesiology
+DAA|Difficult airway algorithm|Anesthesiology
+DAC|Difficult airway cart|Anesthesiology
+CICO|Cannot intubate, cannot oxygenate|Anesthesiology
+CVCI|Cannot ventilate, cannot intubate|Anesthesiology
+FONA|Front of neck access|Anesthesiology
+TMD|Thyromental distance|Anesthesiology
+IID|Interincisor distance|Anesthesiology
+ROM|Range of motion|Anesthesiology
+C-spine|Cervical spine|Anesthesiology
+TMJ|Temporomandibular joint|Anesthesiology
+BURP|Backward, upward, rightward pressure on the larynx|Anesthesiology
+OELM|Optimal external laryngeal manipulation|Anesthesiology
+POGO|Percentage of glottic opening|Anesthesiology
+EtCO2|End-tidal carbon dioxide|Anesthesiology
+ETCO2|End-tidal carbon dioxide|Anesthesiology
+PetCO2|Partial pressure of end-tidal carbon dioxide|Anesthesiology
+FiO2|Fraction of inspired oxygen|Anesthesiology
+FeO2|Fraction of expired oxygen|Anesthesiology
+FiCO2|Fraction of inspired carbon dioxide|Anesthesiology
+SpO2|Peripheral oxygen saturation by pulse oximetry|Anesthesiology
+SaO2|Arterial oxygen saturation|Anesthesiology
+SvO2|Mixed venous oxygen saturation|Anesthesiology
+ScvO2|Central venous oxygen saturation|Anesthesiology
+PaO2|Partial pressure of oxygen in arterial blood|Anesthesiology
+PaCO2|Partial pressure of carbon dioxide in arterial blood|Anesthesiology
+PAO2|Alveolar partial pressure of oxygen|Anesthesiology
+A-a gradient|Alveolar-arterial oxygen gradient|Anesthesiology
+P/F ratio|PaO2 to FiO2 ratio|Anesthesiology
+ABG|Arterial blood gas|Anesthesiology
+VBG|Venous blood gas|Anesthesiology
+BE|Base excess|Anesthesiology
+HCO3|Bicarbonate|Anesthesiology
+AG|Anion gap|Anesthesiology
+VT|Tidal volume|Anesthesiology
+Vt|Tidal volume|Anesthesiology
+VD|Dead space volume|Anesthesiology
+VD/VT|Dead space to tidal volume ratio|Anesthesiology
+MV|Minute ventilation|Anesthesiology
+RR|Respiratory rate|Anesthesiology
+IBW|Ideal body weight|Anesthesiology
+PBW|Predicted body weight|Anesthesiology
+LBW|Lean body weight|Anesthesiology
+TBW|Total body weight|Anesthesiology
+ABW|Adjusted body weight|Anesthesiology
+BMI|Body mass index|Anesthesiology
+PEEP|Positive end-expiratory pressure|Anesthesiology
+CPAP|Continuous positive airway pressure|Anesthesiology
+BiPAP|Bilevel positive airway pressure|Anesthesiology
+NIV|Noninvasive ventilation|Anesthesiology
+NIPPV|Noninvasive positive pressure ventilation|Anesthesiology
+HFNC|High-flow nasal cannula|Anesthesiology
+HFNO|High-flow nasal oxygen|Anesthesiology
+NC|Nasal cannula|Anesthesiology
+NRB|Non-rebreather mask|Anesthesiology
+FM|Face mask|Anesthesiology
+IPPV|Intermittent positive pressure ventilation|Anesthesiology
+VCV|Volume-controlled ventilation|Anesthesiology
+PCV|Pressure-controlled ventilation|Anesthesiology
+PCV-VG|Pressure-controlled ventilation, volume guaranteed|Anesthesiology
+PSV|Pressure support ventilation|Anesthesiology
+SIMV|Synchronized intermittent mandatory ventilation|Anesthesiology
+AC|Assist-control ventilation|Anesthesiology
+CMV|Controlled mandatory ventilation|Anesthesiology
+APRV|Airway pressure release ventilation|Anesthesiology
+I:E|Inspiratory to expiratory ratio|Anesthesiology
+PIP|Peak inspiratory pressure|Anesthesiology
+Pplat|Plateau pressure|Anesthesiology
+Pmean|Mean airway pressure|Anesthesiology
+DP|Driving pressure|Anesthesiology
+Cdyn|Dynamic compliance|Anesthesiology
+Cstat|Static compliance|Anesthesiology
+FRC|Functional residual capacity|Anesthesiology
+FVC|Forced vital capacity|Anesthesiology
+FEV1|Forced expiratory volume in one second|Anesthesiology
+TLC|Total lung capacity|Anesthesiology
+RV|Residual volume|Anesthesiology
+RV|Right ventricle|Anesthesiology
+DLCO|Diffusing capacity of the lung for carbon monoxide|Anesthesiology
+PFT|Pulmonary function test|Anesthesiology
+ppoFEV1|Predicted postoperative forced expiratory volume in one second|Anesthesiology
+VQ|Ventilation-perfusion|Anesthesiology
+V/Q|Ventilation-perfusion|Anesthesiology
+HPV|Hypoxic pulmonary vasoconstriction|Anesthesiology
+PPC|Postoperative pulmonary complication|Anesthesiology
+VILI|Ventilator-induced lung injury|Anesthesiology
+ARDS|Acute respiratory distress syndrome|Anesthesiology
+ALI|Acute lung injury|Anesthesiology
+TRALI|Transfusion-related acute lung injury|Anesthesiology
+TACO|Transfusion-associated circulatory overload|Anesthesiology
+COPD|Chronic obstructive pulmonary disease|Anesthesiology
+OSA|Obstructive sleep apnea|Anesthesiology
+OHS|Obesity hypoventilation syndrome|Anesthesiology
+STOP-BANG|Screening questionnaire for obstructive sleep apnea risk|Anesthesiology
+AHI|Apnea-hypopnea index|Anesthesiology
+PE|Pulmonary embolism|Anesthesiology
+PTX|Pneumothorax|Anesthesiology
+PNA|Pneumonia|Anesthesiology
+URI|Upper respiratory infection|Anesthesiology
+RAD|Reactive airway disease|Anesthesiology
+SOB|Shortness of breath|Anesthesiology
+DOE|Dyspnea on exertion|Anesthesiology
+GERD|Gastroesophageal reflux disease|Anesthesiology
+NPO|Nothing by mouth|Anesthesiology
+PONV|Postoperative nausea and vomiting|Anesthesiology
+PDNV|Postdischarge nausea and vomiting|Anesthesiology
+POV|Postoperative vomiting|Anesthesiology
+PACU|Postanesthesia care unit|Anesthesiology
+PICU|Pediatric intensive care unit|Anesthesiology
+ICU|Intensive care unit|Anesthesiology
+OR|Operating room|Anesthesiology
+L&D|Labor and delivery|Anesthesiology
+SDS|Same-day surgery|Anesthesiology
+ERAS|Enhanced recovery after surgery|Anesthesiology
+PAT|Preadmission testing|Anesthesiology
+PACE|Preanesthesia clinic evaluation|Anesthesiology
+RCRI|Revised cardiac risk index|Anesthesiology
+METs|Metabolic equivalents|Anesthesiology
+DASI|Duke activity status index|Anesthesiology
+CPET|Cardiopulmonary exercise testing|Anesthesiology
+MACE|Major adverse cardiac events|Anesthesiology
+MINS|Myocardial injury after noncardiac surgery|Anesthesiology
+PMI|Perioperative myocardial infarction|Anesthesiology
+POAF|Postoperative atrial fibrillation|Anesthesiology
+POCD|Postoperative cognitive dysfunction|Anesthesiology
+POD|Postoperative delirium|Anesthesiology
+POD|Postoperative day|Anesthesiology
+POUR|Postoperative urinary retention|Anesthesiology
+POVL|Postoperative visual loss|Anesthesiology
+AION|Anterior ischemic optic neuropathy|Anesthesiology
+PION|Posterior ischemic optic neuropathy|Anesthesiology
+CRAO|Central retinal artery occlusion|Anesthesiology
+AKI|Acute kidney injury|Anesthesiology
+CKD|Chronic kidney disease|Anesthesiology
+ESRD|End-stage renal disease|Anesthesiology
+HD|Hemodialysis|Anesthesiology
+CRRT|Continuous renal replacement therapy|Anesthesiology
+CAD|Coronary artery disease|Anesthesiology
+CHF|Congestive heart failure|Anesthesiology
+HF|Heart failure|Anesthesiology
+HFrEF|Heart failure with reduced ejection fraction|Anesthesiology
+HFpEF|Heart failure with preserved ejection fraction|Anesthesiology
+EF|Ejection fraction|Anesthesiology
+LVEF|Left ventricular ejection fraction|Anesthesiology
+LV|Left ventricle|Anesthesiology
+LVH|Left ventricular hypertrophy|Anesthesiology
+LVOT|Left ventricular outflow tract|Anesthesiology
+LVOTO|Left ventricular outflow tract obstruction|Anesthesiology
+SAM|Systolic anterior motion of the mitral valve|Anesthesiology
+HOCM|Hypertrophic obstructive cardiomyopathy|Anesthesiology
+AS|Aortic stenosis|Anesthesiology
+AR|Aortic regurgitation|Anesthesiology
+MS|Mitral stenosis|Anesthesiology
+MR|Mitral regurgitation|Anesthesiology
+TR|Tricuspid regurgitation|Anesthesiology
+PS|Pulmonic stenosis|Anesthesiology
+PH|Pulmonary hypertension|Anesthesiology
+PAH|Pulmonary arterial hypertension|Anesthesiology
+HTN|Hypertension|Anesthesiology
+HLD|Hyperlipidemia|Anesthesiology
+DM|Diabetes mellitus|Anesthesiology
+T2DM|Type 2 diabetes mellitus|Anesthesiology
+AF|Atrial fibrillation|Anesthesiology
+AFib|Atrial fibrillation|Anesthesiology
+AFL|Atrial flutter|Anesthesiology
+SVT|Supraventricular tachycardia|Anesthesiology
+VT|Ventricular tachycardia|Anesthesiology
+VF|Ventricular fibrillation|Anesthesiology
+PVC|Premature ventricular contraction|Anesthesiology
+PAC|Premature atrial contraction|Anesthesiology
+PAC|Pulmonary artery catheter|Anesthesiology
+PEA|Pulseless electrical activity|Anesthesiology
+ROSC|Return of spontaneous circulation|Anesthesiology
+CPR|Cardiopulmonary resuscitation|Anesthesiology
+ACLS|Advanced cardiac life support|Anesthesiology
+BLS|Basic life support|Anesthesiology
+PALS|Pediatric advanced life support|Anesthesiology
+ATLS|Advanced trauma life support|Anesthesiology
+AED|Automated external defibrillator|Anesthesiology
+ECG|Electrocardiogram|Anesthesiology
+EKG|Electrocardiogram|Anesthesiology
+HR|Heart rate|Anesthesiology
+HRV|Heart rate variability|Anesthesiology
+NSR|Normal sinus rhythm|Anesthesiology
+SR|Sinus rhythm|Anesthesiology
+ST|Sinus tachycardia|Anesthesiology
+SB|Sinus bradycardia|Anesthesiology
+LBBB|Left bundle branch block|Anesthesiology
+RBBB|Right bundle branch block|Anesthesiology
+AVB|Atrioventricular block|Anesthesiology
+CHB|Complete heart block|Anesthesiology
+PPM|Permanent pacemaker|Anesthesiology
+ICD|Implantable cardioverter-defibrillator|Anesthesiology
+CIED|Cardiac implantable electronic device|Anesthesiology
+CRT|Cardiac resynchronization therapy|Anesthesiology
+TCP|Transcutaneous pacing|Anesthesiology
+QTc|Corrected QT interval|Anesthesiology
+MAP|Mean arterial pressure|Anesthesiology
+SBP|Systolic blood pressure|Anesthesiology
+DBP|Diastolic blood pressure|Anesthesiology
+NIBP|Noninvasive blood pressure|Anesthesiology
+IBP|Invasive blood pressure|Anesthesiology
+ABP|Arterial blood pressure|Anesthesiology
+A-line|Arterial line|Anesthesiology
+CVC|Central venous catheter|Anesthesiology
+CVP|Central venous pressure|Anesthesiology
+PAP|Pulmonary artery pressure|Anesthesiology
+PAOP|Pulmonary artery occlusion pressure|Anesthesiology
+PCWP|Pulmonary capillary wedge pressure|Anesthesiology
+LAP|Left atrial pressure|Anesthesiology
+RAP|Right atrial pressure|Anesthesiology
+LVEDP|Left ventricular end-diastolic pressure|Anesthesiology
+LVEDV|Left ventricular end-diastolic volume|Anesthesiology
+CO|Cardiac output|Anesthesiology
+CO|Carbon monoxide|Anesthesiology
+CI|Cardiac index|Anesthesiology
+SV|Stroke volume|Anesthesiology
+SVI|Stroke volume index|Anesthesiology
+SVV|Stroke volume variation|Anesthesiology
+PPV|Pulse pressure variation|Anesthesiology
+PLR|Passive leg raise|Anesthesiology
+SVR|Systemic vascular resistance|Anesthesiology
+SVRI|Systemic vascular resistance index|Anesthesiology
+PVR|Pulmonary vascular resistance|Anesthesiology
+PVRI|Pulmonary vascular resistance index|Anesthesiology
+DO2|Oxygen delivery|Anesthesiology
+VO2|Oxygen consumption|Anesthesiology
+O2ER|Oxygen extraction ratio|Anesthesiology
+GDT|Goal-directed therapy|Anesthesiology
+GDFT|Goal-directed fluid therapy|Anesthesiology
+TD|Thermodilution|Anesthesiology
+TEE|Transesophageal echocardiography|Anesthesiology
+TTE|Transthoracic echocardiography|Anesthesiology
+TCD|Transcranial Doppler|Anesthesiology
+POCUS|Point-of-care ultrasound|Anesthesiology
+FAST|Focused assessment with sonography for trauma|Anesthesiology
+FATE|Focused assessment transthoracic echocardiography|Anesthesiology
+RUSH|Rapid ultrasound for shock and hypotension|Anesthesiology
+IVC|Inferior vena cava|Anesthesiology
+SVC|Superior vena cava|Anesthesiology
+IJ|Internal jugular|Anesthesiology
+IJV|Internal jugular vein|Anesthesiology
+SCV|Subclavian vein|Anesthesiology
+FV|Femoral vein|Anesthesiology
+PICC|Peripherally inserted central catheter|Anesthesiology
+PIV|Peripheral intravenous line|Anesthesiology
+IV|Intravenous|Anesthesiology
+IO|Intraosseous|Anesthesiology
+IM|Intramuscular|Anesthesiology
+SC|Subcutaneous|Anesthesiology
+SQ|Subcutaneous|Anesthesiology
+PO|By mouth|Anesthesiology
+PR|Per rectum|Anesthesiology
+SL|Sublingual|Anesthesiology
+IN|Intranasal|Anesthesiology
+IT|Intrathecal|Anesthesiology
+PRN|As needed|Anesthesiology
+QD|Once daily|Anesthesiology
+BID|Twice daily|Anesthesiology
+TID|Three times daily|Anesthesiology
+QID|Four times daily|Anesthesiology
+Q4H|Every four hours|Anesthesiology
+Q6H|Every six hours|Anesthesiology
+HS|At bedtime|Anesthesiology
+STAT|Immediately|Anesthesiology
+MAR|Medication administration record|Anesthesiology
+CBC|Complete blood count|Anesthesiology
+BMP|Basic metabolic panel|Anesthesiology
+CMP|Comprehensive metabolic panel|Anesthesiology
+LFTs|Liver function tests|Anesthesiology
+PT|Prothrombin time|Anesthesiology
+INR|International normalized ratio|Anesthesiology
+PTT|Partial thromboplastin time|Anesthesiology
+aPTT|Activated partial thromboplastin time|Anesthesiology
+ACT|Activated clotting time|Anesthesiology
+TEG|Thromboelastography|Anesthesiology
+ROTEM|Rotational thromboelastometry|Anesthesiology
+MA|Maximum amplitude (thromboelastography)|Anesthesiology
+LY30|Lysis at 30 minutes (thromboelastography)|Anesthesiology
+CT|Clotting time|Anesthesiology
+CFT|Clot formation time|Anesthesiology
+MCF|Maximum clot firmness|Anesthesiology
+PFA|Platelet function assay|Anesthesiology
+HIT|Heparin-induced thrombocytopenia|Anesthesiology
+DIC|Disseminated intravascular coagulation|Anesthesiology
+VTE|Venous thromboembolism|Anesthesiology
+DVT|Deep vein thrombosis|Anesthesiology
+UFH|Unfractionated heparin|Anesthesiology
+LMWH|Low molecular weight heparin|Anesthesiology
+DOAC|Direct oral anticoagulant|Anesthesiology
+NOAC|Novel oral anticoagulant|Anesthesiology
+VKA|Vitamin K antagonist|Anesthesiology
+FFP|Fresh frozen plasma|Anesthesiology
+FP|Frozen plasma|Anesthesiology
+PRBC|Packed red blood cells|Anesthesiology
+RBC|Red blood cell|Anesthesiology
+PLT|Platelets|Anesthesiology
+Cryo|Cryoprecipitate|Anesthesiology
+TXA|Tranexamic acid|Anesthesiology
+EACA|Epsilon-aminocaproic acid|Anesthesiology
+DDAVP|Desmopressin|Anesthesiology
+rFVIIa|Recombinant activated factor VII|Anesthesiology
+FXa|Factor Xa|Anesthesiology
+vWF|von Willebrand factor|Anesthesiology
+MTP|Massive transfusion protocol|Anesthesiology
+MT|Massive transfusion|Anesthesiology
+EBL|Estimated blood loss|Anesthesiology
+QBL|Quantitative blood loss|Anesthesiology
+MABL|Maximum allowable blood loss|Anesthesiology
+Hgb|Hemoglobin|Anesthesiology
+Hb|Hemoglobin|Anesthesiology
+Hct|Hematocrit|Anesthesiology
+ANH|Acute normovolemic hemodilution|Anesthesiology
+CS|Cell salvage|Anesthesiology
+T&S|Type and screen|Anesthesiology
+T&C|Type and crossmatch|Anesthesiology
+HLA|Human leukocyte antigen|Anesthesiology
+ABO|Blood group system (A, B, O)|Anesthesiology
+Rh|Rhesus (blood group factor)|Anesthesiology
+MetHb|Methemoglobin|Anesthesiology
+COHb|Carboxyhemoglobin|Anesthesiology
+SCD|Sickle cell disease|Anesthesiology
+SCD|Sequential compression device|Anesthesiology
+IVF|Intravenous fluids|Anesthesiology
+LR|Lactated Ringer solution|Anesthesiology
+NS|Normal saline|Anesthesiology
+NSS|Normal saline solution|Anesthesiology
+D5W|Five percent dextrose in water|Anesthesiology
+D5NS|Five percent dextrose in normal saline|Anesthesiology
+HES|Hydroxyethyl starch|Anesthesiology
+NaCl|Sodium chloride|Anesthesiology
+KCl|Potassium chloride|Anesthesiology
+MgSO4|Magnesium sulfate|Anesthesiology
+CaCl|Calcium chloride|Anesthesiology
+NaHCO3|Sodium bicarbonate|Anesthesiology
+Na|Sodium|Anesthesiology
+K|Potassium|Anesthesiology
+Ca|Calcium|Anesthesiology
+iCa|Ionized calcium|Anesthesiology
+Mg|Magnesium|Anesthesiology
+Phos|Phosphorus|Anesthesiology
+BUN|Blood urea nitrogen|Anesthesiology
+Cr|Creatinine|Anesthesiology
+GFR|Glomerular filtration rate|Anesthesiology
+eGFR|Estimated glomerular filtration rate|Anesthesiology
+UOP|Urine output|Anesthesiology
+UO|Urine output|Anesthesiology
+I&O|Intake and output|Anesthesiology
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Anesthesiology
+DI|Diabetes insipidus|Anesthesiology
+ADH|Antidiuretic hormone|Anesthesiology
+TURP|Transurethral resection of the prostate|Anesthesiology
+TUR syndrome|Transurethral resection syndrome (hyponatremia from irrigant absorption)|Anesthesiology
+BSA|Body surface area|Anesthesiology
+TBSA|Total body surface area|Anesthesiology
+SSI|Surgical site infection|Anesthesiology
+TPN|Total parenteral nutrition|Anesthesiology
+PN|Parenteral nutrition|Anesthesiology
+NG|Nasogastric|Anesthesiology
+OG|Orogastric|Anesthesiology
+NGT|Nasogastric tube|Anesthesiology
+OGT|Orogastric tube|Anesthesiology
+TOF|Train-of-four|Anesthesiology
+TOFR|Train-of-four ratio|Anesthesiology
+TOFC|Train-of-four count|Anesthesiology
+PTC|Post-tetanic count|Anesthesiology
+DBS|Double-burst stimulation|Anesthesiology
+NMB|Neuromuscular blockade|Anesthesiology
+NMBA|Neuromuscular blocking agent|Anesthesiology
+NMBD|Neuromuscular blocking drug|Anesthesiology
+NDMR|Nondepolarizing muscle relaxant|Anesthesiology
+DMR|Depolarizing muscle relaxant|Anesthesiology
+NMJ|Neuromuscular junction|Anesthesiology
+AChR|Acetylcholine receptor|Anesthesiology
+ACh|Acetylcholine|Anesthesiology
+AChE|Acetylcholinesterase|Anesthesiology
+AChEI|Acetylcholinesterase inhibitor|Anesthesiology
+BuChE|Butyrylcholinesterase|Anesthesiology
+SCh|Succinylcholine|Anesthesiology
+MG|Myasthenia gravis|Anesthesiology
+LEMS|Lambert-Eaton myasthenic syndrome|Anesthesiology
+MH|Malignant hyperthermia|Anesthesiology
+NMS|Neuroleptic malignant syndrome|Anesthesiology
+SS|Serotonin syndrome|Anesthesiology
+PRIS|Propofol infusion syndrome|Anesthesiology
+PPI|Proton pump inhibitor|Anesthesiology
+H2RA|Histamine-2 receptor antagonist|Anesthesiology
+ACEI|Angiotensin-converting enzyme inhibitor|Anesthesiology
+ARB|Angiotensin receptor blocker|Anesthesiology
+BB|Beta blocker|Anesthesiology
+CCB|Calcium channel blocker|Anesthesiology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Anesthesiology
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Anesthesiology
+NSAID|Nonsteroidal anti-inflammatory drug|Anesthesiology
+ASA|Aspirin|Anesthesiology
+DAPT|Dual antiplatelet therapy|Anesthesiology
+SSRI|Selective serotonin reuptake inhibitor|Anesthesiology
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Anesthesiology
+TCA|Tricyclic antidepressant|Anesthesiology
+MAOI|Monoamine oxidase inhibitor|Anesthesiology
+BZD|Benzodiazepine|Anesthesiology
+APAP|Acetaminophen|Anesthesiology
+MSO4|Morphine sulfate|Anesthesiology
+PCN|Penicillin|Anesthesiology
+Abx|Antibiotics|Anesthesiology
+ABX|Antibiotics|Anesthesiology
+DEX|Dexamethasone|Anesthesiology
+Dex|Dexmedetomidine|Anesthesiology
+NTG|Nitroglycerin|Anesthesiology
+NTP|Nitroprusside|Anesthesiology
+SNP|Sodium nitroprusside|Anesthesiology
+Epi|Epinephrine|Anesthesiology
+NE|Norepinephrine|Anesthesiology
+Vaso|Vasopressin|Anesthesiology
+AVP|Arginine vasopressin|Anesthesiology
+Ephed|Ephedrine|Anesthesiology
+Glyco|Glycopyrrolate|Anesthesiology
+Atrop|Atropine|Anesthesiology
+Neostig|Neostigmine|Anesthesiology
+Fent|Fentanyl|Anesthesiology
+Sufent|Sufentanil|Anesthesiology
+Remi|Remifentanil|Anesthesiology
+Mida|Midazolam|Anesthesiology
+Keta|Ketamine|Anesthesiology
+Etom|Etomidate|Anesthesiology
+Prop|Propofol|Anesthesiology
+Lido|Lidocaine|Anesthesiology
+Bupi|Bupivacaine|Anesthesiology
+Rop|Ropivacaine|Anesthesiology
+LB|Liposomal bupivacaine|Anesthesiology
+Flumaz|Flumazenil|Anesthesiology
+Nalox|Naloxone|Anesthesiology
+MME|Morphine milligram equivalents|Anesthesiology
+OME|Oral morphine equivalents|Anesthesiology
+OIH|Opioid-induced hyperalgesia|Anesthesiology
+OIRD|Opioid-induced respiratory depression|Anesthesiology
+OUD|Opioid use disorder|Anesthesiology
+OFA|Opioid-free anesthesia|Anesthesiology
+OSA|Opioid-sparing analgesia|Anesthesiology
+MMA|Multimodal analgesia|Anesthesiology
+NMDA|N-methyl-D-aspartate|Anesthesiology
+GABA|Gamma-aminobutyric acid|Anesthesiology
+GABAA|Gamma-aminobutyric acid type A receptor|Anesthesiology
+5-HT3|Serotonin type 3 receptor|Anesthesiology
+D2|Dopamine type 2 receptor|Anesthesiology
+NK1|Neurokinin-1 receptor|Anesthesiology
+MOR|Mu opioid receptor|Anesthesiology
+CNS|Central nervous system|Anesthesiology
+PNS|Peripheral nervous system|Anesthesiology
+ANS|Autonomic nervous system|Anesthesiology
+SNS|Sympathetic nervous system|Anesthesiology
+PSNS|Parasympathetic nervous system|Anesthesiology
+CSF|Cerebrospinal fluid|Anesthesiology
+ICP|Intracranial pressure|Anesthesiology
+CPP|Cerebral perfusion pressure|Anesthesiology
+CBF|Cerebral blood flow|Anesthesiology
+CBV|Cerebral blood volume|Anesthesiology
+CMRO2|Cerebral metabolic rate of oxygen consumption|Anesthesiology
+rSO2|Regional cerebral oxygen saturation|Anesthesiology
+NIRS|Near-infrared spectroscopy|Anesthesiology
+EEG|Electroencephalography|Anesthesiology
+BIS|Bispectral index|Anesthesiology
+PSI|Patient state index|Anesthesiology
+SEF|Spectral edge frequency|Anesthesiology
+SSEP|Somatosensory evoked potentials|Anesthesiology
+MEP|Motor evoked potentials|Anesthesiology
+BAEP|Brainstem auditory evoked potentials|Anesthesiology
+VEP|Visual evoked potentials|Anesthesiology
+EMG|Electromyography|Anesthesiology
+IONM|Intraoperative neurophysiologic monitoring|Anesthesiology
+TBI|Traumatic brain injury|Anesthesiology
+SAH|Subarachnoid hemorrhage|Anesthesiology
+ICH|Intracranial hemorrhage|Anesthesiology
+SDH|Subdural hematoma|Anesthesiology
+EDH|Epidural hematoma|Anesthesiology
+CVA|Cerebrovascular accident|Anesthesiology
+TIA|Transient ischemic attack|Anesthesiology
+SCI|Spinal cord injury|Anesthesiology
+GCS|Glasgow Coma Scale|Anesthesiology
+RASS|Richmond Agitation-Sedation Scale|Anesthesiology
+CAM-ICU|Confusion Assessment Method for the ICU|Anesthesiology
+LOC|Loss of consciousness|Anesthesiology
+LOC|Level of consciousness|Anesthesiology
+AMS|Altered mental status|Anesthesiology
+MOAA/S|Modified observer's assessment of alertness and sedation|Anesthesiology
+OAA/S|Observer's assessment of alertness and sedation|Anesthesiology
+PSA|Procedural sedation and analgesia|Anesthesiology
+CS|Conscious sedation|Anesthesiology
+DS|Deep sedation|Anesthesiology
+VAS|Visual analog scale|Anesthesiology
+NRS|Numeric rating scale|Anesthesiology
+FLACC|Face, legs, activity, cry, consolability pain scale|Anesthesiology
+CRIES|Crying, requires oxygen, increased vital signs, expression, sleeplessness scale|Anesthesiology
+PAED|Pediatric anesthesia emergence delirium scale|Anesthesiology
+ED|Emergence delirium|Anesthesiology
+ED|Emergency department|Anesthesiology
+EA|Emergence agitation|Anesthesiology
+CPSP|Chronic postsurgical pain|Anesthesiology
+CRPS|Complex regional pain syndrome|Anesthesiology
+LBP|Low back pain|Anesthesiology
+ESI|Epidural steroid injection|Anesthesiology
+TFESI|Transforaminal epidural steroid injection|Anesthesiology
+RFA|Radiofrequency ablation|Anesthesiology
+SCS|Spinal cord stimulator|Anesthesiology
+TENS|Transcutaneous electrical nerve stimulation|Anesthesiology
+DRG|Dorsal root ganglion|Anesthesiology
+MBB|Medial branch block|Anesthesiology
+SIJ|Sacroiliac joint|Anesthesiology
+TPI|Trigger point injection|Anesthesiology
+SPG|Sphenopalatine ganglion|Anesthesiology
+CTS|Carpal tunnel syndrome|Anesthesiology
+PHN|Postherpetic neuralgia|Anesthesiology
+DPN|Diabetic peripheral neuropathy|Anesthesiology
+TN|Trigeminal neuralgia|Anesthesiology
+FBSS|Failed back surgery syndrome|Anesthesiology
+ASA PS|American Society of Anesthesiologists physical status classification|Anesthesiology
+ASA I|Normal healthy patient|Anesthesiology
+ASA II|Patient with mild systemic disease|Anesthesiology
+ASA III|Patient with severe systemic disease|Anesthesiology
+ASA IV|Patient with severe systemic disease that is a constant threat to life|Anesthesiology
+ASA V|Moribund patient not expected to survive without the operation|Anesthesiology
+ASA VI|Declared brain-dead organ donor|Anesthesiology
+GI|Gastrointestinal|Anesthesiology
+GU|Genitourinary|Anesthesiology
+HEENT|Head, eyes, ears, nose and throat|Anesthesiology
+ENT|Ear, nose and throat|Anesthesiology
+OB|Obstetrics|Anesthesiology
+OB/GYN|Obstetrics and gynecology|Anesthesiology
+C/S|Cesarean section|Anesthesiology
+CD|Cesarean delivery|Anesthesiology
+SVD|Spontaneous vaginal delivery|Anesthesiology
+VBAC|Vaginal birth after cesarean|Anesthesiology
+TOLAC|Trial of labor after cesarean|Anesthesiology
+PPH|Postpartum hemorrhage|Anesthesiology
+PIH|Pregnancy-induced hypertension|Anesthesiology
+PEC|Preeclampsia|Anesthesiology
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Anesthesiology
+AFE|Amniotic fluid embolism|Anesthesiology
+GDM|Gestational diabetes mellitus|Anesthesiology
+IUGR|Intrauterine growth restriction|Anesthesiology
+FHR|Fetal heart rate|Anesthesiology
+FHT|Fetal heart tones|Anesthesiology
+EGA|Estimated gestational age|Anesthesiology
+LMP|Last menstrual period|Anesthesiology
+EDC|Estimated date of confinement|Anesthesiology
+NICU|Neonatal intensive care unit|Anesthesiology
+BPD|Bronchopulmonary dysplasia|Anesthesiology
+RDS|Respiratory distress syndrome|Anesthesiology
+ROP|Retinopathy of prematurity|Anesthesiology
+PDA|Patent ductus arteriosus|Anesthesiology
+PFO|Patent foramen ovale|Anesthesiology
+ASD|Atrial septal defect|Anesthesiology
+VSD|Ventricular septal defect|Anesthesiology
+CHD|Congenital heart disease|Anesthesiology
+TOF|Tetralogy of Fallot|Anesthesiology
+PPHN|Persistent pulmonary hypertension of the newborn|Anesthesiology
+NEC|Necrotizing enterocolitis|Anesthesiology
+TEF|Tracheoesophageal fistula|Anesthesiology
+CDH|Congenital diaphragmatic hernia|Anesthesiology
+EA/TEF|Esophageal atresia with tracheoesophageal fistula|Anesthesiology
+MRI|Magnetic resonance imaging|Anesthesiology
+CT scan|Computed tomography scan|Anesthesiology
+CXR|Chest x-ray|Anesthesiology
+PFTs|Pulmonary function tests|Anesthesiology
+ECT|Electroconvulsive therapy|Anesthesiology
+EGD|Esophagogastroduodenoscopy|Anesthesiology
+ERCP|Endoscopic retrograde cholangiopancreatography|Anesthesiology
+EBUS|Endobronchial ultrasound|Anesthesiology
+TAVR|Transcatheter aortic valve replacement|Anesthesiology
+CABG|Coronary artery bypass grafting|Anesthesiology
+OPCAB|Off-pump coronary artery bypass|Anesthesiology
+CPB|Cardiopulmonary bypass|Anesthesiology
+ECMO|Extracorporeal membrane oxygenation|Anesthesiology
+VA ECMO|Venoarterial extracorporeal membrane oxygenation|Anesthesiology
+VV ECMO|Venovenous extracorporeal membrane oxygenation|Anesthesiology
+ECLS|Extracorporeal life support|Anesthesiology
+IABP|Intra-aortic balloon pump|Anesthesiology
+LVAD|Left ventricular assist device|Anesthesiology
+RVAD|Right ventricular assist device|Anesthesiology
+VAD|Ventricular assist device|Anesthesiology
+DHCA|Deep hypothermic circulatory arrest|Anesthesiology
+ACP|Antegrade cerebral perfusion|Anesthesiology
+AVR|Aortic valve replacement|Anesthesiology
+MVR|Mitral valve replacement|Anesthesiology
+AAA|Abdominal aortic aneurysm|Anesthesiology
+TAA|Thoracic aortic aneurysm|Anesthesiology
+EVAR|Endovascular aneurysm repair|Anesthesiology
+TEVAR|Thoracic endovascular aortic repair|Anesthesiology
+CEA|Carotid endarterectomy|Anesthesiology
+LAD|Left anterior descending artery|Anesthesiology
+RCA|Right coronary artery|Anesthesiology
+LCx|Left circumflex artery|Anesthesiology
+PCI|Percutaneous coronary intervention|Anesthesiology
+MI|Myocardial infarction|Anesthesiology
+STEMI|ST-elevation myocardial infarction|Anesthesiology
+NSTEMI|Non-ST-elevation myocardial infarction|Anesthesiology
+ACS|Acute coronary syndrome|Anesthesiology
+TnI|Troponin I|Anesthesiology
+TnT|Troponin T|Anesthesiology
+BNP|B-type natriuretic peptide|Anesthesiology
+CK|Creatine kinase|Anesthesiology
+CK-MB|Creatine kinase MB isoenzyme|Anesthesiology
+LDH|Lactate dehydrogenase|Anesthesiology
+SIRS|Systemic inflammatory response syndrome|Anesthesiology
+MODS|Multiple organ dysfunction syndrome|Anesthesiology
+SOFA|Sequential organ failure assessment|Anesthesiology
+qSOFA|Quick sequential organ failure assessment|Anesthesiology
+APACHE|Acute physiology and chronic health evaluation|Anesthesiology
+VAP|Ventilator-associated pneumonia|Anesthesiology
+CLABSI|Central line-associated bloodstream infection|Anesthesiology
+CAUTI|Catheter-associated urinary tract infection|Anesthesiology
+UTI|Urinary tract infection|Anesthesiology
+MRSA|Methicillin-resistant Staphylococcus aureus|Anesthesiology
+PPE|Personal protective equipment|Anesthesiology
+HEPA|High-efficiency particulate air|Anesthesiology
+HME|Heat and moisture exchanger|Anesthesiology
+CO2 abs|Carbon dioxide absorber|Anesthesiology
+FGF|Fresh gas flow|Anesthesiology
+APL|Adjustable pressure-limiting (valve)|Anesthesiology
+N2O|Nitrous oxide|Anesthesiology
+O2|Oxygen|Anesthesiology
+CO2|Carbon dioxide|Anesthesiology
+N2|Nitrogen|Anesthesiology
+He|Helium|Anesthesiology
+NO|Nitric oxide|Anesthesiology
+iNO|Inhaled nitric oxide|Anesthesiology
+EC50|Concentration producing 50 percent of maximal effect|Anesthesiology
+ED50|Dose effective in 50 percent of patients|Anesthesiology
+ED95|Dose effective in 95 percent of patients|Anesthesiology
+CSHT|Context-sensitive half-time|Anesthesiology
+Vd|Volume of distribution|Anesthesiology
+PK|Pharmacokinetics|Anesthesiology
+PD|Pharmacodynamics|Anesthesiology
+Cis|Cisatracurium|Anesthesiology
+Sux|Succinylcholine|Anesthesiology
+Neo|Phenylephrine|Anesthesiology
+Sevo|Sevoflurane|Anesthesiology
+Des|Desflurane|Anesthesiology
+Iso|Isoflurane|Anesthesiology
+Ce|Effect-site concentration|Anesthesiology
+Cp|Plasma concentration|Anesthesiology
+NA|Neuraxial anesthesia|Anesthesiology
+PCC|Prothrombin complex concentrate|Anesthesiology
+HBOC|Hemoglobin-based oxygen carrier|Anesthesiology

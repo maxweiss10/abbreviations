@@ -1,0 +1,665 @@
+PCI|Percutaneous coronary intervention|Interventional Cardiology
+PTCA|Percutaneous transluminal coronary angioplasty|Interventional Cardiology
+POBA|Plain old balloon angioplasty|Interventional Cardiology
+DES|Drug-eluting stent|Interventional Cardiology
+BMS|Bare-metal stent|Interventional Cardiology
+DCB|Drug-coated balloon|Interventional Cardiology
+DEB|Drug-eluting balloon|Interventional Cardiology
+BVS|Bioresorbable vascular scaffold|Interventional Cardiology
+ISR|In-stent restenosis|Interventional Cardiology
+ST|Stent thrombosis|Interventional Cardiology
+LST|Late stent thrombosis|Interventional Cardiology
+VLST|Very late stent thrombosis|Interventional Cardiology
+EST|Early stent thrombosis|Interventional Cardiology
+TLR|Target lesion revascularization|Interventional Cardiology
+TVR|Target vessel revascularization|Interventional Cardiology
+TLF|Target lesion failure|Interventional Cardiology
+TVF|Target vessel failure|Interventional Cardiology
+TVMI|Target vessel myocardial infarction|Interventional Cardiology
+MACE|Major adverse cardiac events|Interventional Cardiology
+MACCE|Major adverse cardiac and cerebrovascular events|Interventional Cardiology
+MAKE|Major adverse kidney events|Interventional Cardiology
+MALE|Major adverse limb events|Interventional Cardiology
+NACE|Net adverse clinical events|Interventional Cardiology
+CTO|Chronic total occlusion|Interventional Cardiology
+LM|Left main|Interventional Cardiology
+LMCA|Left main coronary artery|Interventional Cardiology
+ULMCA|Unprotected left main coronary artery|Interventional Cardiology
+LAD|Left anterior descending artery|Interventional Cardiology
+LCx|Left circumflex artery|Interventional Cardiology
+RCA|Right coronary artery|Interventional Cardiology
+PDA|Posterior descending artery|Interventional Cardiology
+OM1|First obtuse marginal branch|Interventional Cardiology
+D1|First diagonal branch|Interventional Cardiology
+D2|Second diagonal branch|Interventional Cardiology
+LIMA|Left internal mammary artery|Interventional Cardiology
+RIMA|Right internal mammary artery|Interventional Cardiology
+IMA|Internal mammary artery|Interventional Cardiology
+SVG|Saphenous vein graft|Interventional Cardiology
+CABG|Coronary artery bypass grafting|Interventional Cardiology
+RA|Right atrium|Interventional Cardiology
+RV|Right ventricle|Interventional Cardiology
+LV|Left ventricle|Interventional Cardiology
+LA|Left atrium|Interventional Cardiology
+AV|Atrioventricular|Interventional Cardiology
+PA|Pulmonary artery|Interventional Cardiology
+PCWP|Pulmonary capillary wedge pressure|Interventional Cardiology
+PAWP|Pulmonary artery wedge pressure|Interventional Cardiology
+LVEDP|Left ventricular end-diastolic pressure|Interventional Cardiology
+RVEDP|Right ventricular end-diastolic pressure|Interventional Cardiology
+RAP|Right atrial pressure|Interventional Cardiology
+CVP|Central venous pressure|Interventional Cardiology
+PAP|Pulmonary artery pressure|Interventional Cardiology
+mPAP|Mean pulmonary artery pressure|Interventional Cardiology
+PASP|Pulmonary artery systolic pressure|Interventional Cardiology
+PADP|Pulmonary artery diastolic pressure|Interventional Cardiology
+PVR|Pulmonary vascular resistance|Interventional Cardiology
+SVR|Systemic vascular resistance|Interventional Cardiology
+CO|Cardiac output|Interventional Cardiology
+CI|Cardiac index|Interventional Cardiology
+SV|Stroke volume|Interventional Cardiology
+SVI|Stroke volume index|Interventional Cardiology
+EF|Ejection fraction|Interventional Cardiology
+LVEF|Left ventricular ejection fraction|Interventional Cardiology
+RVEF|Right ventricular ejection fraction|Interventional Cardiology
+HFrEF|Heart failure with reduced ejection fraction|Interventional Cardiology
+HFpEF|Heart failure with preserved ejection fraction|Interventional Cardiology
+HFmrEF|Heart failure with mildly reduced ejection fraction|Interventional Cardiology
+FFR|Fractional flow reserve|Interventional Cardiology
+iFR|Instantaneous wave-free ratio|Interventional Cardiology
+RFR|Resting full-cycle ratio|Interventional Cardiology
+dPR|Diastolic pressure ratio|Interventional Cardiology
+CFR|Coronary flow reserve|Interventional Cardiology
+IMR|Index of microcirculatory resistance|Interventional Cardiology
+HMR|Hyperemic microvascular resistance|Interventional Cardiology
+FFRCT|Fractional flow reserve derived from CT|Interventional Cardiology
+QFR|Quantitative flow ratio|Interventional Cardiology
+CCTA|Coronary CT angiography|Interventional Cardiology
+CTA|CT angiography|Interventional Cardiology
+CAC|Coronary artery calcium|Interventional Cardiology
+CACS|Coronary artery calcium score|Interventional Cardiology
+IVUS|Intravascular ultrasound|Interventional Cardiology
+OCT|Optical coherence tomography|Interventional Cardiology
+NIRS|Near-infrared spectroscopy|Interventional Cardiology
+MLA|Minimal lumen area|Interventional Cardiology
+MLD|Minimal lumen diameter|Interventional Cardiology
+RVD|Reference vessel diameter|Interventional Cardiology
+QCA|Quantitative coronary angiography|Interventional Cardiology
+DS|Diameter stenosis|Interventional Cardiology
+%DS|Percent diameter stenosis|Interventional Cardiology
+TCFA|Thin-cap fibroatheroma|Interventional Cardiology
+PIT|Pathological intimal thickening|Interventional Cardiology
+FCT|Fibrous cap thickness|Interventional Cardiology
+LCBI|Lipid core burden index|Interventional Cardiology
+EEM|External elastic membrane|Interventional Cardiology
+IVL|Intravascular lithotripsy|Interventional Cardiology
+RA-PCI|Rotational atherectomy percutaneous coronary intervention|Interventional Cardiology
+ELCA|Excimer laser coronary atherectomy|Interventional Cardiology
+DCA|Directional coronary atherectomy|Interventional Cardiology
+POT|Proximal optimization technique|Interventional Cardiology
+KBI|Kissing balloon inflation|Interventional Cardiology
+FKBI|Final kissing balloon inflation|Interventional Cardiology
+DKC|Double kiss crush|Interventional Cardiology
+TAP|T and protrusion technique|Interventional Cardiology
+CTAP|Culotte and T-and-protrusion technique|Interventional Cardiology
+ACS|Acute coronary syndrome|Interventional Cardiology
+STEMI|ST-elevation myocardial infarction|Interventional Cardiology
+NSTEMI|Non-ST-elevation myocardial infarction|Interventional Cardiology
+NSTE-ACS|Non-ST-elevation acute coronary syndrome|Interventional Cardiology
+MI|Myocardial infarction|Interventional Cardiology
+AMI|Acute myocardial infarction|Interventional Cardiology
+CAD|Coronary artery disease|Interventional Cardiology
+CCS|Chronic coronary syndrome|Interventional Cardiology
+CHD|Coronary heart disease|Interventional Cardiology
+IHD|Ischemic heart disease|Interventional Cardiology
+SIHD|Stable ischemic heart disease|Interventional Cardiology
+ASCVD|Atherosclerotic cardiovascular disease|Interventional Cardiology
+CVD|Cardiovascular disease|Interventional Cardiology
+INOCA|Ischemia with non-obstructive coronary arteries|Interventional Cardiology
+MINOCA|Myocardial infarction with non-obstructive coronary arteries|Interventional Cardiology
+SCAD|Spontaneous coronary artery dissection|Interventional Cardiology
+CMD|Coronary microvascular dysfunction|Interventional Cardiology
+FMD|Fibromuscular dysplasia|Interventional Cardiology
+MVO|Microvascular obstruction|Interventional Cardiology
+IPH|Intraplaque hemorrhage|Interventional Cardiology
+IRA|Infarct-related artery|Interventional Cardiology
+PPCI|Primary percutaneous coronary intervention|Interventional Cardiology
+FMC|First medical contact|Interventional Cardiology
+DIDO|Door-in-door-out time|Interventional Cardiology
+MBG|Myocardial blush grade|Interventional Cardiology
+CTFC|Corrected frame count|Interventional Cardiology
+IABP|Intra-aortic balloon pump|Interventional Cardiology
+MCS|Mechanical circulatory support|Interventional Cardiology
+tMCS|Temporary mechanical circulatory support|Interventional Cardiology
+pMCS|Percutaneous mechanical circulatory support|Interventional Cardiology
+pVAD|Percutaneous ventricular assist device|Interventional Cardiology
+LVAD|Left ventricular assist device|Interventional Cardiology
+RVAD|Right ventricular assist device|Interventional Cardiology
+BiVAD|Biventricular assist device|Interventional Cardiology
+VAD|Ventricular assist device|Interventional Cardiology
+ECMO|Extracorporeal membrane oxygenation|Interventional Cardiology
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Interventional Cardiology
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Interventional Cardiology
+ECLS|Extracorporeal life support|Interventional Cardiology
+ECPR|Extracorporeal cardiopulmonary resuscitation|Interventional Cardiology
+CPB|Cardiopulmonary bypass|Interventional Cardiology
+CS|Cardiogenic shock|Interventional Cardiology
+AMICS|Acute myocardial infarction cardiogenic shock|Interventional Cardiology
+OHCA|Out-of-hospital cardiac arrest|Interventional Cardiology
+IHCA|In-hospital cardiac arrest|Interventional Cardiology
+CPR|Cardiopulmonary resuscitation|Interventional Cardiology
+ROSC|Return of spontaneous circulation|Interventional Cardiology
+TTM|Targeted temperature management|Interventional Cardiology
+VT|Ventricular tachycardia|Interventional Cardiology
+VF|Ventricular fibrillation|Interventional Cardiology
+SVT|Supraventricular tachycardia|Interventional Cardiology
+AF|Atrial fibrillation|Interventional Cardiology
+AFL|Atrial flutter|Interventional Cardiology
+PVC|Premature ventricular contraction|Interventional Cardiology
+PAC|Premature atrial contraction|Interventional Cardiology
+NSVT|Non-sustained ventricular tachycardia|Interventional Cardiology
+SCD|Sudden cardiac death|Interventional Cardiology
+LBBB|Left bundle branch block|Interventional Cardiology
+RBBB|Right bundle branch block|Interventional Cardiology
+LAFB|Left anterior fascicular block|Interventional Cardiology
+LPFB|Left posterior fascicular block|Interventional Cardiology
+IVCD|Intraventricular conduction delay|Interventional Cardiology
+AVB|Atrioventricular block|Interventional Cardiology
+CHB|Complete heart block|Interventional Cardiology
+PPM|Permanent pacemaker|Interventional Cardiology
+TVP|Temporary venous pacemaker|Interventional Cardiology
+TPW|Temporary pacing wire|Interventional Cardiology
+ICD|Implantable cardioverter-defibrillator|Interventional Cardiology
+CRT|Cardiac resynchronization therapy|Interventional Cardiology
+CRT-D|Cardiac resynchronization therapy with defibrillator|Interventional Cardiology
+CRT-P|Cardiac resynchronization therapy with pacemaker|Interventional Cardiology
+LBBAP|Left bundle branch area pacing|Interventional Cardiology
+HBP|His bundle pacing|Interventional Cardiology
+ECG|Electrocardiogram|Interventional Cardiology
+EKG|Electrocardiogram|Interventional Cardiology
+STE|ST-segment elevation|Interventional Cardiology
+STD|ST-segment depression|Interventional Cardiology
+TWI|T-wave inversion|Interventional Cardiology
+LVH|Left ventricular hypertrophy|Interventional Cardiology
+RVH|Right ventricular hypertrophy|Interventional Cardiology
+LAE|Left atrial enlargement|Interventional Cardiology
+RAE|Right atrial enlargement|Interventional Cardiology
+NSR|Normal sinus rhythm|Interventional Cardiology
+HR|Heart rate|Interventional Cardiology
+BP|Blood pressure|Interventional Cardiology
+SBP|Systolic blood pressure|Interventional Cardiology
+DBP|Diastolic blood pressure|Interventional Cardiology
+MAP|Mean arterial pressure|Interventional Cardiology
+ABP|Arterial blood pressure|Interventional Cardiology
+JVP|Jugular venous pressure|Interventional Cardiology
+JVD|Jugular venous distension|Interventional Cardiology
+SpO2|Peripheral oxygen saturation|Interventional Cardiology
+SaO2|Arterial oxygen saturation|Interventional Cardiology
+SvO2|Mixed venous oxygen saturation|Interventional Cardiology
+ScvO2|Central venous oxygen saturation|Interventional Cardiology
+PaO2|Partial pressure of arterial oxygen|Interventional Cardiology
+FiO2|Fraction of inspired oxygen|Interventional Cardiology
+VO2|Oxygen consumption|Interventional Cardiology
+Qp|Pulmonary blood flow|Interventional Cardiology
+Qs|Systemic blood flow|Interventional Cardiology
+Qp:Qs|Ratio of pulmonary to systemic blood flow|Interventional Cardiology
+TPG|Transpulmonary gradient|Interventional Cardiology
+DPG|Diastolic pulmonary gradient|Interventional Cardiology
+PH|Pulmonary hypertension|Interventional Cardiology
+PAH|Pulmonary arterial hypertension|Interventional Cardiology
+CTEPH|Chronic thromboembolic pulmonary hypertension|Interventional Cardiology
+RHC|Right heart catheterization|Interventional Cardiology
+LHC|Left heart catheterization|Interventional Cardiology
+CATH|Cardiac catheterization|Interventional Cardiology
+CAG|Coronary angiography|Interventional Cardiology
+ICA|Invasive coronary angiography|Interventional Cardiology
+LV-gram|Left ventriculogram|Interventional Cardiology
+LVG|Left ventriculography|Interventional Cardiology
+AoG|Aortography|Interventional Cardiology
+RAO|Right anterior oblique|Interventional Cardiology
+LAO|Left anterior oblique|Interventional Cardiology
+AP|Anteroposterior|Interventional Cardiology
+CCL|Cardiac catheterization laboratory|Interventional Cardiology
+EP|Electrophysiology|Interventional Cardiology
+CCU|Cardiac care unit|Interventional Cardiology
+CICU|Cardiac intensive care unit|Interventional Cardiology
+ICU|Intensive care unit|Interventional Cardiology
+ED|Emergency department|Interventional Cardiology
+PACU|Post-anesthesia care unit|Interventional Cardiology
+TRA|Transradial approach|Interventional Cardiology
+TFA|Transfemoral approach|Interventional Cardiology
+TBA|Transbrachial approach|Interventional Cardiology
+TUA|Transulnar approach|Interventional Cardiology
+TPA|Transpedal approach|Interventional Cardiology
+TRI|Transradial intervention|Interventional Cardiology
+DRA|Distal radial artery access|Interventional Cardiology
+dTRA|Distal transradial access|Interventional Cardiology
+RAS|Radial artery spasm|Interventional Cardiology
+CFA|Common femoral artery|Interventional Cardiology
+SFA|Superficial femoral artery|Interventional Cardiology
+CFV|Common femoral vein|Interventional Cardiology
+IJV|Internal jugular vein|Interventional Cardiology
+SCV|Subclavian vein|Interventional Cardiology
+PSA|Pseudoaneurysm|Interventional Cardiology
+AVF|Arteriovenous fistula|Interventional Cardiology
+RPH|Retroperitoneal hematoma|Interventional Cardiology
+VCD|Vascular closure device|Interventional Cardiology
+MPG|Mean pressure gradient|Interventional Cardiology
+PPG|Peak-to-peak gradient|Interventional Cardiology
+AVA|Aortic valve area|Interventional Cardiology
+MVA|Mitral valve area|Interventional Cardiology
+TVA|Tricuspid valve area|Interventional Cardiology
+EOA|Effective orifice area|Interventional Cardiology
+EOAI|Indexed effective orifice area|Interventional Cardiology
+DVI|Doppler velocity index|Interventional Cardiology
+AS|Aortic stenosis|Interventional Cardiology
+AR|Aortic regurgitation|Interventional Cardiology
+MS|Mitral stenosis|Interventional Cardiology
+MR|Mitral regurgitation|Interventional Cardiology
+TR|Tricuspid regurgitation|Interventional Cardiology
+TS|Tricuspid stenosis|Interventional Cardiology
+PS|Pulmonic stenosis|Interventional Cardiology
+PR|Pulmonic regurgitation|Interventional Cardiology
+SMR|Secondary mitral regurgitation|Interventional Cardiology
+FMR|Functional mitral regurgitation|Interventional Cardiology
+DMR|Degenerative mitral regurgitation|Interventional Cardiology
+PMR|Primary mitral regurgitation|Interventional Cardiology
+VHD|Valvular heart disease|Interventional Cardiology
+BAV|Bicuspid aortic valve|Interventional Cardiology
+BMV|Balloon mitral valvuloplasty|Interventional Cardiology
+PBMV|Percutaneous balloon mitral valvuloplasty|Interventional Cardiology
+PMC|Percutaneous mitral commissurotomy|Interventional Cardiology
+BPV|Balloon pulmonary valvuloplasty|Interventional Cardiology
+PBPV|Percutaneous balloon pulmonary valvuloplasty|Interventional Cardiology
+TAVR|Transcatheter aortic valve replacement|Interventional Cardiology
+TAVI|Transcatheter aortic valve implantation|Interventional Cardiology
+SAVR|Surgical aortic valve replacement|Interventional Cardiology
+AVR|Aortic valve replacement|Interventional Cardiology
+MVR|Mitral valve replacement|Interventional Cardiology
+TMVR|Transcatheter mitral valve replacement|Interventional Cardiology
+TTVR|Transcatheter tricuspid valve replacement|Interventional Cardiology
+TEER|Transcatheter edge-to-edge repair|Interventional Cardiology
+M-TEER|Mitral transcatheter edge-to-edge repair|Interventional Cardiology
+T-TEER|Tricuspid transcatheter edge-to-edge repair|Interventional Cardiology
+TTVI|Transcatheter tricuspid valve intervention|Interventional Cardiology
+TPVR|Transcatheter pulmonary valve replacement|Interventional Cardiology
+ViV|Valve-in-valve|Interventional Cardiology
+VIV|Valve-in-valve|Interventional Cardiology
+ViR|Valve-in-ring|Interventional Cardiology
+ViMAC|Valve-in-mitral annular calcification|Interventional Cardiology
+BEV|Balloon-expandable valve|Interventional Cardiology
+SEV|Self-expanding valve|Interventional Cardiology
+PVL|Paravalvular leak|Interventional Cardiology
+PPI|Permanent pacemaker implantation|Interventional Cardiology
+LFLG|Low-flow low-gradient|Interventional Cardiology
+LFLG-AS|Low-flow low-gradient aortic stenosis|Interventional Cardiology
+NFLG|Normal-flow low-gradient|Interventional Cardiology
+PLF|Paradoxical low-flow|Interventional Cardiology
+DSE|Dobutamine stress echocardiography|Interventional Cardiology
+AVC|Aortic valve calcification|Interventional Cardiology
+MAC|Mitral annular calcification|Interventional Cardiology
+SOV|Sinus of Valsalva|Interventional Cardiology
+STJ|Sinotubular junction|Interventional Cardiology
+LVOT|Left ventricular outflow tract|Interventional Cardiology
+RVOT|Right ventricular outflow tract|Interventional Cardiology
+LVOTO|Left ventricular outflow tract obstruction|Interventional Cardiology
+NCC|Non-coronary cusp|Interventional Cardiology
+LCC|Left coronary cusp|Interventional Cardiology
+RCC|Right coronary cusp|Interventional Cardiology
+LVOT-VTI|Left ventricular outflow tract velocity time integral|Interventional Cardiology
+VTI|Velocity time integral|Interventional Cardiology
+Vmax|Peak velocity|Interventional Cardiology
+AML|Anterior mitral leaflet|Interventional Cardiology
+PML|Posterior mitral leaflet|Interventional Cardiology
+A2P2|Central scallops of the anterior and posterior mitral leaflets|Interventional Cardiology
+EROA|Effective regurgitant orifice area|Interventional Cardiology
+RVol|Regurgitant volume|Interventional Cardiology
+RF|Regurgitant fraction|Interventional Cardiology
+VC|Vena contracta|Interventional Cardiology
+PISA|Proximal isovelocity surface area|Interventional Cardiology
+LVESD|Left ventricular end-systolic diameter|Interventional Cardiology
+LVEDD|Left ventricular end-diastolic diameter|Interventional Cardiology
+LVESV|Left ventricular end-systolic volume|Interventional Cardiology
+LVEDV|Left ventricular end-diastolic volume|Interventional Cardiology
+LVIDd|Left ventricular internal diameter in diastole|Interventional Cardiology
+LVIDs|Left ventricular internal diameter in systole|Interventional Cardiology
+IVS|Interventricular septum|Interventional Cardiology
+LVPW|Left ventricular posterior wall|Interventional Cardiology
+LAVI|Left atrial volume index|Interventional Cardiology
+GLS|Global longitudinal strain|Interventional Cardiology
+TAPSE|Tricuspid annular plane systolic excursion|Interventional Cardiology
+RVSP|Right ventricular systolic pressure|Interventional Cardiology
+RVFAC|Right ventricular fractional area change|Interventional Cardiology
+IVC|Inferior vena cava|Interventional Cardiology
+SVC|Superior vena cava|Interventional Cardiology
+TTE|Transthoracic echocardiogram|Interventional Cardiology
+TEE|Transesophageal echocardiogram|Interventional Cardiology
+ICE|Intracardiac echocardiography|Interventional Cardiology
+3D-TEE|Three-dimensional transesophageal echocardiography|Interventional Cardiology
+CMR|Cardiac magnetic resonance|Interventional Cardiology
+CT|Computed tomography|Interventional Cardiology
+MDCT|Multidetector computed tomography|Interventional Cardiology
+LGE|Late gadolinium enhancement|Interventional Cardiology
+SPECT|Single-photon emission computed tomography|Interventional Cardiology
+PET|Positron emission tomography|Interventional Cardiology
+MPI|Myocardial perfusion imaging|Interventional Cardiology
+MBF|Myocardial blood flow|Interventional Cardiology
+MFR|Myocardial flow reserve|Interventional Cardiology
+ETT|Exercise treadmill test|Interventional Cardiology
+CPET|Cardiopulmonary exercise test|Interventional Cardiology
+METs|Metabolic equivalents|Interventional Cardiology
+ASD|Atrial septal defect|Interventional Cardiology
+VSD|Ventricular septal defect|Interventional Cardiology
+PFO|Patent foramen ovale|Interventional Cardiology
+ASA|Atrial septal aneurysm|Interventional Cardiology
+PAVM|Pulmonary arteriovenous malformation|Interventional Cardiology
+CoA|Coarctation of the aorta|Interventional Cardiology
+TGA|Transposition of the great arteries|Interventional Cardiology
+ccTGA|Congenitally corrected transposition of the great arteries|Interventional Cardiology
+ACHD|Adult congenital heart disease|Interventional Cardiology
+LAA|Left atrial appendage|Interventional Cardiology
+LAAO|Left atrial appendage occlusion|Interventional Cardiology
+LAAC|Left atrial appendage closure|Interventional Cardiology
+PDL|Peridevice leak|Interventional Cardiology
+TSP|Transseptal puncture|Interventional Cardiology
+IAS|Interatrial septum|Interventional Cardiology
+IASD|Interatrial shunt device|Interventional Cardiology
+HCM|Hypertrophic cardiomyopathy|Interventional Cardiology
+HOCM|Hypertrophic obstructive cardiomyopathy|Interventional Cardiology
+DCM|Dilated cardiomyopathy|Interventional Cardiology
+NICM|Non-ischemic cardiomyopathy|Interventional Cardiology
+RCM|Restrictive cardiomyopathy|Interventional Cardiology
+SAM|Systolic anterior motion|Interventional Cardiology
+CHF|Congestive heart failure|Interventional Cardiology
+HF|Heart failure|Interventional Cardiology
+ADHF|Acute decompensated heart failure|Interventional Cardiology
+AHF|Acute heart failure|Interventional Cardiology
+LVSD|Left ventricular systolic dysfunction|Interventional Cardiology
+LVDD|Left ventricular diastolic dysfunction|Interventional Cardiology
+CRS|Cardiorenal syndrome|Interventional Cardiology
+RDN|Renal denervation|Interventional Cardiology
+RAAS|Renin-angiotensin-aldosterone system|Interventional Cardiology
+PAD|Peripheral artery disease|Interventional Cardiology
+PVD|Peripheral vascular disease|Interventional Cardiology
+CLI|Critical limb ischemia|Interventional Cardiology
+CLTI|Chronic limb-threatening ischemia|Interventional Cardiology
+ALI|Acute limb ischemia|Interventional Cardiology
+AAA|Abdominal aortic aneurysm|Interventional Cardiology
+TAA|Thoracic aortic aneurysm|Interventional Cardiology
+TAAA|Thoracoabdominal aortic aneurysm|Interventional Cardiology
+EVAR|Endovascular aneurysm repair|Interventional Cardiology
+TEVAR|Thoracic endovascular aortic repair|Interventional Cardiology
+FEVAR|Fenestrated endovascular aneurysm repair|Interventional Cardiology
+IMH|Intramural hematoma|Interventional Cardiology
+PAU|Penetrating atherosclerotic ulcer|Interventional Cardiology
+ABI|Ankle-brachial index|Interventional Cardiology
+TBI|Toe-brachial index|Interventional Cardiology
+CEA|Carotid endarterectomy|Interventional Cardiology
+TCAR|Transcarotid artery revascularization|Interventional Cardiology
+CCA|Common carotid artery|Interventional Cardiology
+ECA|External carotid artery|Interventional Cardiology
+EPD|Embolic protection device|Interventional Cardiology
+CEP|Cerebral embolic protection|Interventional Cardiology
+TIA|Transient ischemic attack|Interventional Cardiology
+CDT|Catheter-directed thrombolysis|Interventional Cardiology
+PE|Pulmonary embolism|Interventional Cardiology
+DVT|Deep vein thrombosis|Interventional Cardiology
+VTE|Venous thromboembolism|Interventional Cardiology
+IVCF|Inferior vena cava filter|Interventional Cardiology
+PTA|Percutaneous transluminal angioplasty|Interventional Cardiology
+DSA|Digital subtraction angiography|Interventional Cardiology
+CIN|Contrast-induced nephropathy|Interventional Cardiology
+CI-AKI|Contrast-induced acute kidney injury|Interventional Cardiology
+AKI|Acute kidney injury|Interventional Cardiology
+CKD|Chronic kidney disease|Interventional Cardiology
+ESRD|End-stage renal disease|Interventional Cardiology
+eGFR|Estimated glomerular filtration rate|Interventional Cardiology
+GFR|Glomerular filtration rate|Interventional Cardiology
+CrCl|Creatinine clearance|Interventional Cardiology
+Cr|Creatinine|Interventional Cardiology
+BUN|Blood urea nitrogen|Interventional Cardiology
+HD|Hemodialysis|Interventional Cardiology
+RRT|Renal replacement therapy|Interventional Cardiology
+CRRT|Continuous renal replacement therapy|Interventional Cardiology
+CM|Contrast media|Interventional Cardiology
+LOCM|Low-osmolar contrast media|Interventional Cardiology
+IOCM|Iso-osmolar contrast media|Interventional Cardiology
+CMV/CrCl|Contrast volume to creatinine clearance ratio|Interventional Cardiology
+DAPT|Dual antiplatelet therapy|Interventional Cardiology
+SAPT|Single antiplatelet therapy|Interventional Cardiology
+DAT|Dual antithrombotic therapy|Interventional Cardiology
+OAC|Oral anticoagulant|Interventional Cardiology
+DOAC|Direct oral anticoagulant|Interventional Cardiology
+NOAC|Non-vitamin K antagonist oral anticoagulant|Interventional Cardiology
+VKA|Vitamin K antagonist|Interventional Cardiology
+UFH|Unfractionated heparin|Interventional Cardiology
+LMWH|Low-molecular-weight heparin|Interventional Cardiology
+DTI|Direct thrombin inhibitor|Interventional Cardiology
+GPI|Glycoprotein IIb/IIIa inhibitor|Interventional Cardiology
+GP IIb/IIIa|Glycoprotein IIb/IIIa|Interventional Cardiology
+P2Y12i|P2Y12 inhibitor|Interventional Cardiology
+P2Y12|Platelet adenosine diphosphate receptor P2Y12|Interventional Cardiology
+ADP|Adenosine diphosphate|Interventional Cardiology
+TxA2|Thromboxane A2|Interventional Cardiology
+COX-1|Cyclooxygenase-1|Interventional Cardiology
+ACEi|Angiotensin-converting enzyme inhibitor|Interventional Cardiology
+ARB|Angiotensin receptor blocker|Interventional Cardiology
+ARNI|Angiotensin receptor-neprilysin inhibitor|Interventional Cardiology
+BB|Beta blocker|Interventional Cardiology
+CCB|Calcium channel blocker|Interventional Cardiology
+MRA|Mineralocorticoid receptor antagonist|Interventional Cardiology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Interventional Cardiology
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Interventional Cardiology
+GDMT|Guideline-directed medical therapy|Interventional Cardiology
+OMT|Optimal medical therapy|Interventional Cardiology
+NTG|Nitroglycerin|Interventional Cardiology
+ISDN|Isosorbide dinitrate|Interventional Cardiology
+ISMN|Isosorbide mononitrate|Interventional Cardiology
+NTP|Nitroprusside|Interventional Cardiology
+IC|Intracoronary|Interventional Cardiology
+IV|Intravenous|Interventional Cardiology
+IA|Intra-arterial|Interventional Cardiology
+PO|By mouth|Interventional Cardiology
+SQ|Subcutaneous|Interventional Cardiology
+IM|Intramuscular|Interventional Cardiology
+SL|Sublingual|Interventional Cardiology
+PRN|As needed|Interventional Cardiology
+BID|Twice daily|Interventional Cardiology
+TID|Three times daily|Interventional Cardiology
+QID|Four times daily|Interventional Cardiology
+NPO|Nothing by mouth|Interventional Cardiology
+ACT|Activated clotting time|Interventional Cardiology
+aPTT|Activated partial thromboplastin time|Interventional Cardiology
+PTT|Partial thromboplastin time|Interventional Cardiology
+INR|International normalized ratio|Interventional Cardiology
+anti-Xa|Anti-factor Xa level|Interventional Cardiology
+PRU|P2Y12 reaction units|Interventional Cardiology
+VASP|Vasodilator-stimulated phosphoprotein assay|Interventional Cardiology
+HPR|High on-treatment platelet reactivity|Interventional Cardiology
+LPR|Low on-treatment platelet reactivity|Interventional Cardiology
+CYP2C19|Cytochrome P450 2C19 enzyme|Interventional Cardiology
+HIT|Heparin-induced thrombocytopenia|Interventional Cardiology
+TTP|Thrombotic thrombocytopenic purpura|Interventional Cardiology
+DIC|Disseminated intravascular coagulation|Interventional Cardiology
+CBC|Complete blood count|Interventional Cardiology
+Hgb|Hemoglobin|Interventional Cardiology
+Hct|Hematocrit|Interventional Cardiology
+Plt|Platelet count|Interventional Cardiology
+WBC|White blood cell count|Interventional Cardiology
+BMP|Basic metabolic panel|Interventional Cardiology
+CMP|Comprehensive metabolic panel|Interventional Cardiology
+LFTs|Liver function tests|Interventional Cardiology
+LDH|Lactate dehydrogenase|Interventional Cardiology
+CK|Creatine kinase|Interventional Cardiology
+CK-MB|Creatine kinase myocardial band|Interventional Cardiology
+cTn|Cardiac troponin|Interventional Cardiology
+cTnI|Cardiac troponin I|Interventional Cardiology
+cTnT|Cardiac troponin T|Interventional Cardiology
+hs-cTn|High-sensitivity cardiac troponin|Interventional Cardiology
+hs-TnI|High-sensitivity troponin I|Interventional Cardiology
+hs-TnT|High-sensitivity troponin T|Interventional Cardiology
+BNP|B-type natriuretic peptide|Interventional Cardiology
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Interventional Cardiology
+CRP|C-reactive protein|Interventional Cardiology
+hs-CRP|High-sensitivity C-reactive protein|Interventional Cardiology
+LDL|Low-density lipoprotein|Interventional Cardiology
+LDL-C|Low-density lipoprotein cholesterol|Interventional Cardiology
+HDL|High-density lipoprotein|Interventional Cardiology
+HDL-C|High-density lipoprotein cholesterol|Interventional Cardiology
+TG|Triglycerides|Interventional Cardiology
+Lp(a)|Lipoprotein(a)|Interventional Cardiology
+apoB|Apolipoprotein B|Interventional Cardiology
+PCSK9|Proprotein convertase subtilisin/kexin type 9|Interventional Cardiology
+PCSK9i|PCSK9 inhibitor|Interventional Cardiology
+LLT|Lipid-lowering therapy|Interventional Cardiology
+FH|Familial hypercholesterolemia|Interventional Cardiology
+HeFH|Heterozygous familial hypercholesterolemia|Interventional Cardiology
+HoFH|Homozygous familial hypercholesterolemia|Interventional Cardiology
+HTN|Hypertension|Interventional Cardiology
+DM|Diabetes mellitus|Interventional Cardiology
+T2DM|Type 2 diabetes mellitus|Interventional Cardiology
+T1DM|Type 1 diabetes mellitus|Interventional Cardiology
+HbA1c|Glycated hemoglobin|Interventional Cardiology
+A1c|Glycated hemoglobin|Interventional Cardiology
+HLD|Hyperlipidemia|Interventional Cardiology
+OSA|Obstructive sleep apnea|Interventional Cardiology
+COPD|Chronic obstructive pulmonary disease|Interventional Cardiology
+BMI|Body mass index|Interventional Cardiology
+BSA|Body surface area|Interventional Cardiology
+PMH|Past medical history|Interventional Cardiology
+HPI|History of present illness|Interventional Cardiology
+SOB|Shortness of breath|Interventional Cardiology
+DOE|Dyspnea on exertion|Interventional Cardiology
+PND|Paroxysmal nocturnal dyspnea|Interventional Cardiology
+ARC-HBR|High bleeding risk criteria|Interventional Cardiology
+HBR|High bleeding risk|Interventional Cardiology
+AWR|Anterior wall MI|Interventional Cardiology
+VSR|Ventricular septal rupture|Interventional Cardiology
+FWR|Free wall rupture|Interventional Cardiology
+Ao|Aorta|Interventional Cardiology
+AAo|Ascending aorta|Interventional Cardiology
+DAo|Descending aorta|Interventional Cardiology
+CAE|Coronary artery ectasia|Interventional Cardiology
+CAA|Coronary artery aneurysm|Interventional Cardiology
+CAF|Coronary artery fistula|Interventional Cardiology
+ALCAPA|Anomalous left coronary artery from the pulmonary artery|Interventional Cardiology
+AAOCA|Anomalous aortic origin of a coronary artery|Interventional Cardiology
+HR-PCI|High-risk percutaneous coronary intervention|Interventional Cardiology
+CHIP|Complex high-risk indicated patients|Interventional Cardiology
+CTO-PCI|Chronic total occlusion percutaneous coronary intervention|Interventional Cardiology
+AD-CTO|Antegrade dissection and re-entry|Interventional Cardiology
+ADR|Antegrade dissection and re-entry|Interventional Cardiology
+RCTO|Retrograde chronic total occlusion approach|Interventional Cardiology
+CART|Controlled antegrade and retrograde subintimal tracking|Interventional Cardiology
+rCART|Reverse controlled antegrade and retrograde subintimal tracking|Interventional Cardiology
+MSA|Minimal stent area|Interventional Cardiology
+MSD|Minimal stent diameter|Interventional Cardiology
+PB|Plaque burden|Interventional Cardiology
+%PB|Percent plaque burden|Interventional Cardiology
+%AS|Percent area stenosis|Interventional Cardiology
+ACLS|Advanced cardiac life support|Interventional Cardiology
+BiPAP|Bilevel positive airway pressure|Interventional Cardiology
+CPAP|Continuous positive airway pressure|Interventional Cardiology
+HFNC|High-flow nasal cannula|Interventional Cardiology
+NIV|Non-invasive ventilation|Interventional Cardiology
+PEEP|Positive end-expiratory pressure|Interventional Cardiology
+RR|Respiratory rate|Interventional Cardiology
+ICH|Intracranial hemorrhage|Interventional Cardiology
+GI|Gastrointestinal|Interventional Cardiology
+GU|Genitourinary|Interventional Cardiology
+POCUS|Point-of-care ultrasound|Interventional Cardiology
+US|Ultrasound|Interventional Cardiology
+DUS|Duplex ultrasound|Interventional Cardiology
+CXR|Chest X-ray|Interventional Cardiology
+MRI|Magnetic resonance imaging|Interventional Cardiology
+CTPA|CT pulmonary angiography|Interventional Cardiology
+TCD|Transcranial Doppler|Interventional Cardiology
+MCE|Myocardial contrast echocardiography|Interventional Cardiology
+CEUS|Contrast-enhanced ultrasound|Interventional Cardiology
+UEA|Ultrasound enhancing agent|Interventional Cardiology
+UCA|Ultrasound contrast agent|Interventional Cardiology
+GBCA|Gadolinium-based contrast agent|Interventional Cardiology
+PLV|Posterolateral ventricular branch|Interventional Cardiology
+pLAD|Proximal left anterior descending artery|Interventional Cardiology
+mLAD|Mid left anterior descending artery|Interventional Cardiology
+dLAD|Distal left anterior descending artery|Interventional Cardiology
+pRCA|Proximal right coronary artery|Interventional Cardiology
+mRCA|Mid right coronary artery|Interventional Cardiology
+dRCA|Distal right coronary artery|Interventional Cardiology
+pCx|Proximal circumflex artery|Interventional Cardiology
+dCx|Distal circumflex artery|Interventional Cardiology
+dLM|Distal left main|Interventional Cardiology
+oLAD|Ostial left anterior descending artery|Interventional Cardiology
+oRCA|Ostial right coronary artery|Interventional Cardiology
+oLM|Ostial left main|Interventional Cardiology
+oCx|Ostial circumflex artery|Interventional Cardiology
+SES|Sirolimus-eluting stent|Interventional Cardiology
+PES|Paclitaxel-eluting stent|Interventional Cardiology
+EES|Everolimus-eluting stent|Interventional Cardiology
+ZES|Zotarolimus-eluting stent|Interventional Cardiology
+BES|Biolimus-eluting stent|Interventional Cardiology
+BP-DES|Biodegradable-polymer drug-eluting stent|Interventional Cardiology
+DP-DES|Durable-polymer drug-eluting stent|Interventional Cardiology
+PF-DES|Polymer-free drug-eluting stent|Interventional Cardiology
+PCB|Paclitaxel-coated balloon|Interventional Cardiology
+SCB|Sirolimus-coated balloon|Interventional Cardiology
+NNT|Number needed to treat|Interventional Cardiology
+NNH|Number needed to harm|Interventional Cardiology
+ARR|Absolute risk reduction|Interventional Cardiology
+RRR|Relative risk reduction|Interventional Cardiology
+F/U|Follow-up|Interventional Cardiology
+s/p|Status post|Interventional Cardiology
+Hx|History|Interventional Cardiology
+Dx|Diagnosis|Interventional Cardiology
+Tx|Treatment|Interventional Cardiology
+Rx|Prescription or treatment|Interventional Cardiology
+Sx|Symptoms|Interventional Cardiology
+d/c|Discharge or discontinue|Interventional Cardiology
+LOS|Length of stay|Interventional Cardiology
+ABG|Arterial blood gas|Interventional Cardiology
+VBG|Venous blood gas|Interventional Cardiology
+RWMA|Regional wall motion abnormality|Interventional Cardiology
+TDI|Tissue Doppler imaging|Interventional Cardiology
+E/A|Ratio of early to late mitral inflow velocity|Interventional Cardiology
+E/e'|Ratio of early mitral inflow velocity to early annular tissue velocity|Interventional Cardiology
+DT|Deceleration time|Interventional Cardiology
+IVRT|Isovolumic relaxation time|Interventional Cardiology
+TRJV|Tricuspid regurgitation jet velocity|Interventional Cardiology
+PVI|Pulmonary vein isolation|Interventional Cardiology
+LSPV|Left superior pulmonary vein|Interventional Cardiology
+LIPV|Left inferior pulmonary vein|Interventional Cardiology
+RSPV|Right superior pulmonary vein|Interventional Cardiology
+RIPV|Right inferior pulmonary vein|Interventional Cardiology
+GCV|Great cardiac vein|Interventional Cardiology
+MCV|Middle cardiac vein|Interventional Cardiology
+RAA|Right atrial appendage|Interventional Cardiology
+TV|Tricuspid valve|Interventional Cardiology
+IE|Infective endocarditis|Interventional Cardiology
+PVE|Prosthetic valve endocarditis|Interventional Cardiology
+NVE|Native valve endocarditis|Interventional Cardiology
+HLHS|Hypoplastic left heart syndrome|Interventional Cardiology
+PA cath|Pulmonary artery catheter|Interventional Cardiology
+PICC|Peripherally inserted central catheter|Interventional Cardiology
+A-line|Arterial line|Interventional Cardiology
+PIV|Peripheral intravenous line|Interventional Cardiology
+IO|Intraosseous|Interventional Cardiology
+IVC-filter|Inferior vena cava filter|Interventional Cardiology
+GW|Guidewire|Interventional Cardiology
+OTW|Over-the-wire|Interventional Cardiology
+Fr|French catheter size|Interventional Cardiology
+IC NTP|Intracoronary nitroprusside|Interventional Cardiology
+IC tPA|Intracoronary tissue plasminogen activator|Interventional Cardiology
+tPA|Tissue plasminogen activator|Interventional Cardiology
+rtPA|Recombinant tissue plasminogen activator|Interventional Cardiology
+TNK|Tenecteplase|Interventional Cardiology
+rPA|Reteplase|Interventional Cardiology
+SK|Streptokinase|Interventional Cardiology
+OMI|Occlusion myocardial infarction|Interventional Cardiology
+T1MI|Type 1 myocardial infarction|Interventional Cardiology
+T2MI|Type 2 myocardial infarction|Interventional Cardiology
+T3MI|Type 3 myocardial infarction|Interventional Cardiology
+T4aMI|Type 4a myocardial infarction (PCI-related)|Interventional Cardiology
+T4bMI|Type 4b myocardial infarction (stent thrombosis)|Interventional Cardiology
+T4cMI|Type 4c myocardial infarction (restenosis)|Interventional Cardiology
+T5MI|Type 5 myocardial infarction (CABG-related)|Interventional Cardiology
+PMI|Periprocedural myocardial infarction|Interventional Cardiology

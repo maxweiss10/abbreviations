@@ -1,0 +1,684 @@
+BPH|Benign prostatic hyperplasia|Urology
+BPE|Benign prostatic enlargement|Urology
+BPO|Benign prostatic obstruction|Urology
+LUTS|Lower urinary tract symptoms|Urology
+UTI|Urinary tract infection|Urology
+cUTI|Complicated urinary tract infection|Urology
+rUTI|Recurrent urinary tract infection|Urology
+CAUTI|Catheter-associated urinary tract infection|Urology
+UCx|Urine culture|Urology
+UA|Urinalysis|Urology
+UDS|Urodynamic study|Urology
+UDS|Urine drug screen|Urology
+PVR|Post-void residual|Urology
+PVRU|Post-void residual urine|Urology
+TURP|Transurethral resection of the prostate|Urology
+TUIP|Transurethral incision of the prostate|Urology
+TUMT|Transurethral microwave thermotherapy|Urology
+TUNA|Transurethral needle ablation|Urology
+HoLEP|Holmium laser enucleation of the prostate|Urology
+ThuLEP|Thulium laser enucleation of the prostate|Urology
+PVP|Photoselective vaporization of the prostate|Urology
+PAE|Prostate artery embolization|Urology
+AEP|Anatomic endoscopic enucleation of the prostate|Urology
+TURBT|Transurethral resection of bladder tumor|Urology
+TURB|Transurethral resection of the bladder|Urology
+fPSA|Free prostate-specific antigen|Urology
+tPSA|Total prostate-specific antigen|Urology
+PSAD|Prostate-specific antigen density|Urology
+PSADT|Prostate-specific antigen doubling time|Urology
+PSMA|Prostate-specific membrane antigen|Urology
+DRE|Digital rectal examination|Urology
+TRUS|Transrectal ultrasound|Urology
+TRUSP|Transrectal ultrasound of the prostate|Urology
+TPUS|Transperineal ultrasound|Urology
+mpMRI|Multiparametric magnetic resonance imaging|Urology
+bpMRI|Biparametric magnetic resonance imaging|Urology
+PI-RADS|Prostate Imaging Reporting and Data System|Urology
+ADC|Apparent diffusion coefficient|Urology
+DWI|Diffusion-weighted imaging|Urology
+DCE|Dynamic contrast-enhanced imaging|Urology
+PCa|Prostate cancer|Urology
+csPCa|Clinically significant prostate cancer|Urology
+CaP|Carcinoma of the prostate|Urology
+mCRPC|Metastatic castration-resistant prostate cancer|Urology
+nmCRPC|Non-metastatic castration-resistant prostate cancer|Urology
+CRPC|Castration-resistant prostate cancer|Urology
+mCSPC|Metastatic castration-sensitive prostate cancer|Urology
+mHSPC|Metastatic hormone-sensitive prostate cancer|Urology
+HSPC|Hormone-sensitive prostate cancer|Urology
+CSPC|Castration-sensitive prostate cancer|Urology
+ADT|Androgen deprivation therapy|Urology
+IAD|Intermittent androgen deprivation|Urology
+CAB|Combined androgen blockade|Urology
+MAB|Maximal androgen blockade|Urology
+LHRH|Luteinizing hormone-releasing hormone|Urology
+GnRH|Gonadotropin-releasing hormone|Urology
+ARPI|Androgen receptor pathway inhibitor|Urology
+AR|Androgen receptor|Urology
+RP|Radical prostatectomy|Urology
+RALP|Robotic-assisted laparoscopic radical prostatectomy|Urology
+RARP|Robot-assisted radical prostatectomy|Urology
+LRP|Laparoscopic radical prostatectomy|Urology
+ORP|Open radical prostatectomy|Urology
+RRP|Radical retropubic prostatectomy|Urology
+PLND|Pelvic lymph node dissection|Urology
+ePLND|Extended pelvic lymph node dissection|Urology
+LND|Lymph node dissection|Urology
+RPLND|Retroperitoneal lymph node dissection|Urology
+SBRT|Stereotactic body radiation therapy|Urology
+EBRT|External beam radiation therapy|Urology
+IMRT|Intensity-modulated radiation therapy|Urology
+IGRT|Image-guided radiation therapy|Urology
+RT|Radiation therapy|Urology
+LDR|Low-dose-rate brachytherapy|Urology
+HDR|High-dose-rate brachytherapy|Urology
+SRT|Salvage radiation therapy|Urology
+HIFU|High-intensity focused ultrasound|Urology
+CSAP|Cryosurgical ablation of the prostate|Urology
+AS|Active surveillance|Urology
+WW|Watchful waiting|Urology
+BCR|Biochemical recurrence|Urology
+BCF|Biochemical failure|Urology
+PFS|Progression-free survival|Urology
+rPFS|Radiographic progression-free survival|Urology
+OS|Overall survival|Urology
+CSS|Cancer-specific survival|Urology
+RFS|Recurrence-free survival|Urology
+DFS|Disease-free survival|Urology
+MFS|Metastasis-free survival|Urology
+GG|Grade group|Urology
+GS|Gleason score|Urology
+ISUP|International Society of Urological Pathology grade group|Urology
+PIN|Prostatic intraepithelial neoplasia|Urology
+HGPIN|High-grade prostatic intraepithelial neoplasia|Urology
+ASAP|Atypical small acinar proliferation|Urology
+ECE|Extracapsular extension|Urology
+EPE|Extraprostatic extension|Urology
+SVI|Seminal vesicle invasion|Urology
+PNI|Perineural invasion|Urology
+LVI|Lymphovascular invasion|Urology
+PSM|Positive surgical margin|Urology
+NVB|Neurovascular bundle|Urology
+IDC-P|Intraductal carcinoma of the prostate|Urology
+IDCP|Intraductal carcinoma of the prostate|Urology
+5-ARI|5-alpha reductase inhibitor|Urology
+5ARI|5-alpha reductase inhibitor|Urology
+PDE5|Phosphodiesterase type 5|Urology
+PDE5i|Phosphodiesterase type 5 inhibitor|Urology
+PDE-5i|Phosphodiesterase type 5 inhibitor|Urology
+AB|Alpha blocker|Urology
+CIC|Clean intermittent catheterization|Urology
+ISC|Intermittent self-catheterization|Urology
+SPC|Suprapubic catheter|Urology
+SP tube|Suprapubic tube|Urology
+IDC|Indwelling urethral catheter|Urology
+IUC|Indwelling urinary catheter|Urology
+UC|Urinary catheter|Urology
+CBI|Continuous bladder irrigation|Urology
+GU|Genitourinary|Urology
+GI|Gastrointestinal|Urology
+UUT|Upper urinary tract|Urology
+LUT|Lower urinary tract|Urology
+UTUC|Upper tract urothelial carcinoma|Urology
+UC-B|Urothelial carcinoma of the bladder|Urology
+UCC|Urothelial cell carcinoma|Urology
+TCC|Transitional cell carcinoma|Urology
+BCa|Bladder cancer|Urology
+NMIBC|Non-muscle-invasive bladder cancer|Urology
+MIBC|Muscle-invasive bladder cancer|Urology
+CIS|Carcinoma in situ|Urology
+HG|High grade|Urology
+LG|Low grade|Urology
+PUNLMP|Papillary urothelial neoplasm of low malignant potential|Urology
+BCG|Bacillus Calmette-Guerin|Urology
+BCGu|Bacillus Calmette-Guerin unresponsive disease|Urology
+MMC|Mitomycin C|Urology
+CHT|Chemohyperthermia|Urology
+NAC|Neoadjuvant chemotherapy|Urology
+AC|Adjuvant chemotherapy|Urology
+RC|Radical cystectomy|Urology
+RARC|Robot-assisted radical cystectomy|Urology
+ORC|Open radical cystectomy|Urology
+RNU|Radical nephroureterectomy|Urology
+RN|Radical nephrectomy|Urology
+PN|Partial nephrectomy|Urology
+RAPN|Robot-assisted partial nephrectomy|Urology
+LPN|Laparoscopic partial nephrectomy|Urology
+LRN|Laparoscopic radical nephrectomy|Urology
+OPN|Open partial nephrectomy|Urology
+SRM|Small renal mass|Urology
+RCC|Renal cell carcinoma|Urology
+ccRCC|Clear cell renal cell carcinoma|Urology
+pRCC|Papillary renal cell carcinoma|Urology
+chRCC|Chromophobe renal cell carcinoma|Urology
+AML|Angiomyolipoma|Urology
+TKI|Tyrosine kinase inhibitor|Urology
+ICI|Immune checkpoint inhibitor|Urology
+CN|Cytoreductive nephrectomy|Urology
+RFA|Radiofrequency ablation|Urology
+CA|Cryoablation|Urology
+MWA|Microwave ablation|Urology
+SAE|Selective arterial embolization|Urology
+RENAL|Radius, exophytic, nearness, anterior, location nephrometry score|Urology
+UD|Urinary diversion|Urology
+VUR|Vesicoureteral reflux|Urology
+VCUG|Voiding cystourethrogram|Urology
+RUG|Retrograde urethrogram|Urology
+RGU|Retrograde urethrogram|Urology
+RPG|Retrograde pyelogram|Urology
+IVP|Intravenous pyelogram|Urology
+IVU|Intravenous urogram|Urology
+CTU|Computed tomography urogram|Urology
+MRU|Magnetic resonance urogram|Urology
+KUB|Kidneys, ureters and bladder plain film|Urology
+NCCT|Non-contrast computed tomography|Urology
+CT|Computed tomography|Urology
+MRI|Magnetic resonance imaging|Urology
+US|Ultrasound|Urology
+RUS|Renal ultrasound|Urology
+RBUS|Renal and bladder ultrasound|Urology
+DMSA|Dimercaptosuccinic acid renal scan|Urology
+MAG3|Mercaptoacetyltriglycine renal scan|Urology
+UPJ|Ureteropelvic junction|Urology
+UPJO|Ureteropelvic junction obstruction|Urology
+UVJ|Ureterovesical junction|Urology
+UVJO|Ureterovesical junction obstruction|Urology
+PUV|Posterior urethral valves|Urology
+HN|Hydronephrosis|Urology
+HUN|Hydroureteronephrosis|Urology
+SFU|Society of Fetal Urology hydronephrosis grade|Urology
+APD|Anteroposterior diameter of the renal pelvis|Urology
+CAKUT|Congenital anomalies of the kidney and urinary tract|Urology
+MCDK|Multicystic dysplastic kidney|Urology
+ADPKD|Autosomal dominant polycystic kidney disease|Urology
+ARPKD|Autosomal recessive polycystic kidney disease|Urology
+PKD|Polycystic kidney disease|Urology
+AKI|Acute kidney injury|Urology
+CKD|Chronic kidney disease|Urology
+ESRD|End-stage renal disease|Urology
+ESKD|End-stage kidney disease|Urology
+GFR|Glomerular filtration rate|Urology
+eGFR|Estimated glomerular filtration rate|Urology
+Cr|Creatinine|Urology
+BUN|Blood urea nitrogen|Urology
+PUO|Postobstructive diuresis|Urology
+POD|Postobstructive diuresis|Urology
+PCN|Percutaneous nephrostomy|Urology
+PCNL|Percutaneous nephrolithotomy|Urology
+mPCNL|Mini percutaneous nephrolithotomy|Urology
+ECIRS|Endoscopic combined intrarenal surgery|Urology
+URS|Ureteroscopy|Urology
+fURS|Flexible ureteroscopy|Urology
+sURS|Semirigid ureteroscopy|Urology
+RIRS|Retrograde intrarenal surgery|Urology
+URSL|Ureteroscopic lithotripsy|Urology
+SWL|Shock wave lithotripsy|Urology
+ESWL|Extracorporeal shock wave lithotripsy|Urology
+LL|Laser lithotripsy|Urology
+BL|Basket lithotripsy|Urology
+UAS|Ureteral access sheath|Urology
+JJ|Double-J ureteral stent|Urology
+DJ|Double-J ureteral stent|Urology
+DJS|Double-J stent|Urology
+UUS|Ureteral stent|Urology
+MET|Medical expulsive therapy|Urology
+SFR|Stone-free rate|Urology
+CIRF|Clinically insignificant residual fragments|Urology
+HU|Hounsfield units|Urology
+SSD|Skin-to-stone distance|Urology
+CaOx|Calcium oxalate|Urology
+CaP|Calcium phosphate|Urology
+UA stone|Uric acid stone|Urology
+COM|Calcium oxalate monohydrate|Urology
+COD|Calcium oxalate dihydrate|Urology
+MAP|Magnesium ammonium phosphate|Urology
+RTA|Renal tubular acidosis|Urology
+dRTA|Distal renal tubular acidosis|Urology
+PH|Primary hyperoxaluria|Urology
+PHPT|Primary hyperparathyroidism|Urology
+24hr urine|Twenty-four-hour urine collection|Urology
+HCTZ|Hydrochlorothiazide|Urology
+K citrate|Potassium citrate|Urology
+KCit|Potassium citrate|Urology
+NaHCO3|Sodium bicarbonate|Urology
+AHA|Acetohydroxamic acid|Urology
+OAB|Overactive bladder|Urology
+OAB-wet|Overactive bladder with urgency incontinence|Urology
+OAB-dry|Overactive bladder without incontinence|Urology
+DO|Detrusor overactivity|Urology
+IDO|Idiopathic detrusor overactivity|Urology
+NDO|Neurogenic detrusor overactivity|Urology
+NLUTD|Neurogenic lower urinary tract dysfunction|Urology
+NGB|Neurogenic bladder|Urology
+DU|Detrusor underactivity|Urology
+DSD|Detrusor sphincter dyssynergia|Urology
+DESD|Detrusor external sphincter dyssynergia|Urology
+BOO|Bladder outlet obstruction|Urology
+BNO|Bladder neck obstruction|Urology
+BNC|Bladder neck contracture|Urology
+BNI|Bladder neck incision|Urology
+BOOI|Bladder outlet obstruction index|Urology
+BCI|Bladder contractility index|Urology
+PdetQmax|Detrusor pressure at maximum flow|Urology
+Qmax|Maximum urinary flow rate|Urology
+Qave|Average urinary flow rate|Urology
+Pdet|Detrusor pressure|Urology
+Pves|Intravesical pressure|Urology
+Pabd|Abdominal pressure|Urology
+Pura|Urethral pressure|Urology
+Pclose|Urethral closure pressure|Urology
+MUCP|Maximum urethral closure pressure|Urology
+UPP|Urethral pressure profile|Urology
+VLPP|Valsalva leak point pressure|Urology
+ALPP|Abdominal leak point pressure|Urology
+DLPP|Detrusor leak point pressure|Urology
+CMG|Cystometrogram|Urology
+EMG|Electromyography|Urology
+PFS|Pressure-flow study|Urology
+UFM|Uroflowmetry|Urology
+UFR|Urinary flow rate|Urology
+FUS|Fluoroscopic urodynamic study|Urology
+VUDS|Videourodynamic study|Urology
+MCC|Maximum cystometric capacity|Urology
+FSF|First sensation of filling|Urology
+FDV|First desire to void|Urology
+SDV|Strong desire to void|Urology
+CBC|Cystometric bladder capacity|Urology
+MVV|Maximum voided volume|Urology
+FVC|Frequency-volume chart|Urology
+SUI|Stress urinary incontinence|Urology
+UUI|Urgency urinary incontinence|Urology
+MUI|Mixed urinary incontinence|Urology
+UI|Urinary incontinence|Urology
+ISD|Intrinsic sphincter deficiency|Urology
+POP|Pelvic organ prolapse|Urology
+POP-Q|Pelvic organ prolapse quantification|Urology
+PFD|Pelvic floor disorder|Urology
+PFM|Pelvic floor muscles|Urology
+PFMT|Pelvic floor muscle training|Urology
+PFPT|Pelvic floor physical therapy|Urology
+PTNS|Percutaneous tibial nerve stimulation|Urology
+SNM|Sacral neuromodulation|Urology
+SNS|Sacral nerve stimulation|Urology
+INS|Implantable neurostimulator|Urology
+TTNS|Transcutaneous tibial nerve stimulation|Urology
+BoNT-A|Botulinum toxin type A|Urology
+OnabotA|Onabotulinumtoxin A|Urology
+MUS|Midurethral sling|Urology
+RPS|Retropubic sling|Urology
+TOT|Transobturator tape|Urology
+TVT|Tension-free vaginal tape|Urology
+SIS|Single-incision sling|Urology
+AUS|Artificial urinary sphincter|Urology
+AUS|Autologous sling|Urology
+PVS|Pubovaginal sling|Urology
+UBS|Urethral bulking agent|Urology
+UBA|Urethral bulking agent|Urology
+BSO|Bilateral salpingo-oophorectomy|Urology
+CBT|Cognitive behavioral therapy|Urology
+AChE|Acetylcholinesterase|Urology
+AC|Anticholinergic|Urology
+ACh|Acetylcholine|Urology
+B3|Beta-3 adrenergic agonist|Urology
+IC/BPS|Interstitial cystitis/bladder pain syndrome|Urology
+BPS|Bladder pain syndrome|Urology
+PBS|Painful bladder syndrome|Urology
+DMSO|Dimethyl sulfoxide|Urology
+PPS|Pentosan polysulfate sodium|Urology
+CP|Chronic prostatitis|Urology
+CPPS|Chronic pelvic pain syndrome|Urology
+CP/CPPS|Chronic prostatitis/chronic pelvic pain syndrome|Urology
+NIH-CPSI|National Institutes of Health Chronic Prostatitis Symptom Index|Urology
+CPSI|Chronic Prostatitis Symptom Index|Urology
+EPS|Expressed prostatic secretions|Urology
+VB1|Voided bladder specimen one|Urology
+VB2|Voided bladder specimen two, midstream|Urology
+VB3|Voided bladder specimen three, post-massage|Urology
+IPSS|International Prostate Symptom Score|Urology
+AUA-SI|American Urological Association Symptom Index|Urology
+AUASS|American Urological Association Symptom Score|Urology
+QoL|Quality of life|Urology
+BII|BPH Impact Index|Urology
+OABSS|Overactive Bladder Symptom Score|Urology
+OAB-q|Overactive Bladder Questionnaire|Urology
+ICIQ|International Consultation on Incontinence Questionnaire|Urology
+ICIQ-SF|International Consultation on Incontinence Questionnaire short form|Urology
+IIQ|Incontinence Impact Questionnaire|Urology
+UDI|Urogenital Distress Inventory|Urology
+PGI-I|Patient Global Impression of Improvement|Urology
+PGI-S|Patient Global Impression of Severity|Urology
+PFDI|Pelvic Floor Distress Inventory|Urology
+PFIQ|Pelvic Floor Impact Questionnaire|Urology
+PUF|Pelvic Pain and Urgency/Frequency patient symptom scale|Urology
+ICSI|Interstitial Cystitis Symptom Index|Urology
+ICPI|Interstitial Cystitis Problem Index|Urology
+NRS|Numeric rating scale|Urology
+ED|Erectile dysfunction|Urology
+IIEF|International Index of Erectile Function|Urology
+IIEF-5|International Index of Erectile Function, five-item version|Urology
+SHIM|Sexual Health Inventory for Men|Urology
+EF|Erectile function|Urology
+EHS|Erection Hardness Score|Urology
+PE|Pulmonary embolism|Urology
+IELT|Intravaginal ejaculatory latency time|Urology
+PEDT|Premature Ejaculation Diagnostic Tool|Urology
+PEP|Premature Ejaculation Profile|Urology
+DE|Delayed ejaculation|Urology
+RE|Retrograde ejaculation|Urology
+HSDD|Hypoactive sexual desire disorder|Urology
+PD|Peyronie disease|Urology
+IPP|Inflatable penile prosthesis|Urology
+MPP|Malleable penile prosthesis|Urology
+PPI|Penile prosthesis implant|Urology
+PPP|Penile prosthesis placement|Urology
+IC inj|Intracavernosal injection|Urology
+PGE1|Prostaglandin E1 (alprostadil)|Urology
+VED|Vacuum erection device|Urology
+LiESWT|Low-intensity extracorporeal shock wave therapy|Urology
+PRP|Platelet-rich plasma|Urology
+CCH|Collagenase clostridium histolyticum|Urology
+PDUS|Penile Doppler ultrasound|Urology
+PSV|Peak systolic velocity|Urology
+EDV|End-diastolic velocity|Urology
+RI|Resistive index|Urology
+NPT|Nocturnal penile tumescence|Urology
+CVOD|Corporal veno-occlusive dysfunction|Urology
+VOD|Veno-occlusive dysfunction|Urology
+DDP|Dorsal dartos plication|Urology
+IPC|Idiopathic priapism|Urology
+IP|Ischemic priapism|Urology
+NIP|Non-ischemic priapism|Urology
+SCD|Sickle cell disease|Urology
+SCP|Stuttering priapism|Urology
+ABG|Arterial blood gas|Urology
+CBG|Cavernosal blood gas|Urology
+TRT|Testosterone replacement therapy|Urology
+TTh|Testosterone therapy|Urology
+T|Testosterone|Urology
+TT|Total testosterone|Urology
+cFT|Calculated free testosterone|Urology
+BAT|Bioavailable testosterone|Urology
+SHBG|Sex hormone-binding globulin|Urology
+LH|Luteinizing hormone|Urology
+FSH|Follicle-stimulating hormone|Urology
+PRL|Prolactin|Urology
+E2|Estradiol|Urology
+DHT|Dihydrotestosterone|Urology
+DHEA|Dehydroepiandrosterone|Urology
+DHEAS|Dehydroepiandrosterone sulfate|Urology
+hCG|Human chorionic gonadotropin|Urology
+HMG|Human menopausal gonadotropin|Urology
+SERM|Selective estrogen receptor modulator|Urology
+AI|Aromatase inhibitor|Urology
+LOH|Late-onset hypogonadism|Urology
+TD|Testosterone deficiency|Urology
+ADAM|Androgen Deficiency in the Aging Male questionnaire|Urology
+HH|Hypogonadotropic hypogonadism|Urology
+IHH|Idiopathic hypogonadotropic hypogonadism|Urology
+HPG|Hypothalamic-pituitary-gonadal axis|Urology
+HPT|Hypothalamic-pituitary-testicular axis|Urology
+HCT|Hematocrit|Urology
+Hgb|Hemoglobin|Urology
+MI|Myocardial infarction|Urology
+MACE|Major adverse cardiovascular events|Urology
+VTE|Venous thromboembolism|Urology
+DVT|Deep vein thrombosis|Urology
+SA|Semen analysis|Urology
+TMC|Total motile count|Urology
+TMSC|Total motile sperm count|Urology
+PMC|Post-wash motile count|Urology
+DFI|DNA fragmentation index|Urology
+SDF|Sperm DNA fragmentation|Urology
+ROS|Reactive oxygen species|Urology
+OAT|Oligoasthenoteratozoospermia|Urology
+OA|Obstructive azoospermia|Urology
+NOA|Non-obstructive azoospermia|Urology
+CAVD|Congenital absence of the vas deferens|Urology
+CBAVD|Congenital bilateral absence of the vas deferens|Urology
+CUAVD|Congenital unilateral absence of the vas deferens|Urology
+EDO|Ejaculatory duct obstruction|Urology
+VE|Vasoepididymostomy|Urology
+VV|Vasovasostomy|Urology
+VR|Vasectomy reversal|Urology
+VAS|Vasectomy|Urology
+NSV|No-scalpel vasectomy|Urology
+PVSA|Post-vasectomy semen analysis|Urology
+PVP|Post-vasectomy pain|Urology
+PVPS|Post-vasectomy pain syndrome|Urology
+mTESE|Microdissection testicular sperm extraction|Urology
+TESE|Testicular sperm extraction|Urology
+TESA|Testicular sperm aspiration|Urology
+PESA|Percutaneous epididymal sperm aspiration|Urology
+MESA|Microsurgical epididymal sperm aspiration|Urology
+FNA|Fine needle aspiration|Urology
+IUI|Intrauterine insemination|Urology
+IVF|In vitro fertilization|Urology
+ICSI|Intracytoplasmic sperm injection|Urology
+ART|Assisted reproductive technology|Urology
+VCT|Varicocelectomy|Urology
+MSV|Microsurgical subinguinal varicocelectomy|Urology
+SC|Spermatic cord|Urology
+TV|Testicular volume|Urology
+TOT|Torsion of the testicular appendage|Urology
+EO|Epididymo-orchitis|Urology
+EpO|Epididymo-orchitis|Urology
+GCT|Germ cell tumor|Urology
+NSGCT|Non-seminomatous germ cell tumor|Urology
+SGCT|Seminomatous germ cell tumor|Urology
+GCNIS|Germ cell neoplasia in situ|Urology
+ITGCN|Intratubular germ cell neoplasia|Urology
+TIN|Testicular intraepithelial neoplasia|Urology
+AFP|Alpha-fetoprotein|Urology
+LDH|Lactate dehydrogenase|Urology
+b-hCG|Beta human chorionic gonadotropin|Urology
+BHCG|Beta human chorionic gonadotropin|Urology
+EP|Etoposide and cisplatin chemotherapy|Urology
+TIP|Paclitaxel, ifosfamide, cisplatin chemotherapy|Urology
+VIP|Etoposide, ifosfamide, cisplatin chemotherapy|Urology
+GC|Gemcitabine and cisplatin|Urology
+GemCis|Gemcitabine and cisplatin|Urology
+GemCarbo|Gemcitabine and carboplatin|Urology
+MVAC|Methotrexate, vinblastine, doxorubicin, cisplatin|Urology
+ddMVAC|Dose-dense methotrexate, vinblastine, doxorubicin, cisplatin|Urology
+EV|Enfortumab vedotin|Urology
+EV-P|Enfortumab vedotin with pembrolizumab|Urology
+PD-1|Programmed cell death protein 1|Urology
+PD-L1|Programmed death-ligand 1|Urology
+FGFR|Fibroblast growth factor receptor|Urology
+HRR|Homologous recombination repair|Urology
+HRD|Homologous recombination deficiency|Urology
+PARPi|Poly ADP-ribose polymerase inhibitor|Urology
+LuPSMA|Lutetium-177 prostate-specific membrane antigen radioligand therapy|Urology
+Ra-223|Radium-223|Urology
+Sm-153|Samarium-153|Urology
+SRE|Skeletal-related event|Urology
+SSE|Symptomatic skeletal event|Urology
+BMA|Bone-modifying agent|Urology
+BMD|Bone mineral density|Urology
+DEXA|Dual-energy x-ray absorptiometry|Urology
+DXA|Dual-energy x-ray absorptiometry|Urology
+FDG|Fluorodeoxyglucose|Urology
+PET|Positron emission tomography|Urology
+PET/CT|Positron emission tomography with computed tomography|Urology
+LNI|Lymph node invasion|Urology
+N+|Node positive|Urology
+M1|Metastatic disease|Urology
+TNM|Tumor, node, metastasis staging|Urology
+CRS|Cytoreductive surgery|Urology
+CNx|Cytoreductive nephrectomy|Urology
+IMDC|International Metastatic Renal Cell Carcinoma Database Consortium risk score|Urology
+VEGF|Vascular endothelial growth factor|Urology
+mTOR|Mechanistic target of rapamycin|Urology
+IO|Immuno-oncology|Urology
+IL-2|Interleukin-2|Urology
+HLRCC|Hereditary leiomyomatosis and renal cell cancer|Urology
+IR|Interventional radiology|Urology
+TAE|Transarterial embolization|Urology
+UAE|Uterine artery embolization|Urology
+LAP|Laparoscopic|Urology
+RAL|Robot-assisted laparoscopic|Urology
+LUR|Laparoscopic ureteral reimplantation|Urology
+UR|Ureteral reimplantation|Urology
+UNC|Ureteroneocystostomy|Urology
+UNS|Ureteroneocystostomy|Urology
+PYP|Pyeloplasty|Urology
+RALP-Pyelo|Robot-assisted laparoscopic pyeloplasty|Urology
+EU|Endoureterotomy|Urology
+UTR|Ureteral reconstruction|Urology
+TUU|Transureteroureterostomy|Urology
+RP|Retroperitoneal|Urology
+TP|Transperitoneal|Urology
+OR|Operating room|Urology
+EBL|Estimated blood loss|Urology
+EUA|Examination under anesthesia|Urology
+CYS|Cystoscopy|Urology
+CYSTO|Cystoscopy|Urology
+FC|Flexible cystoscopy|Urology
+BLC|Blue light cystoscopy|Urology
+NBI|Narrow band imaging|Urology
+PDD|Photodynamic diagnosis|Urology
+HAL|Hexaminolevulinate|Urology
+CLE|Confocal laser endomicroscopy|Urology
+OCT|Optical coherence tomography|Urology
+EBB|Endoscopic bladder biopsy|Urology
+CMA|Cold cup biopsy|Urology
+RBx|Random bladder biopsy|Urology
+BBx|Bladder biopsy|Urology
+Bx|Biopsy|Urology
+PBx|Prostate biopsy|Urology
+TRBx|Transrectal biopsy|Urology
+TPBx|Transperineal biopsy|Urology
+FBx|Fusion biopsy|Urology
+MRI-TB|Magnetic resonance imaging targeted biopsy|Urology
+TB|Targeted biopsy|Urology
+SBx|Saturation biopsy|Urology
+CoreBx|Core needle biopsy|Urology
+NNT|Number needed to treat|Urology
+NPV|Negative predictive value|Urology
+PPV|Positive predictive value|Urology
+AUC|Area under the curve|Urology
+ROC|Receiver operating characteristic|Urology
+DCA|Decision curve analysis|Urology
+PHI|Prostate Health Index|Urology
+GC|Genomic classifier|Urology
+GPS|Genomic prostate score|Urology
+CAPRA|Cancer of the Prostate Risk Assessment|Urology
+CAPRA-S|Cancer of the Prostate Risk Assessment postsurgical score|Urology
+FIR|Favorable intermediate risk|Urology
+UIR|Unfavorable intermediate risk|Urology
+VHR|Very high risk|Urology
+mHR|Metastatic high risk|Urology
+HVD|High-volume disease|Urology
+LVD|Low-volume disease|Urology
+OMD|Oligometastatic disease|Urology
+MDT|Metastasis-directed therapy|Urology
+SABR|Stereotactic ablative radiotherapy|Urology
+EUS|Endorectal ultrasound|Urology
+ERC|Endorectal coil|Urology
+ECM|Endorectal coil magnetic resonance imaging|Urology
+CTCAE|Common Terminology Criteria for Adverse Events|Urology
+PS|Performance status|Urology
+G8|Geriatric 8 screening tool|Urology
+PSA nadir|Lowest PSA after treatment|Urology
+CVD|Cardiovascular disease|Urology
+MetS|Metabolic syndrome|Urology
+T2DM|Type 2 diabetes mellitus|Urology
+OSA|Obstructive sleep apnea|Urology
+BMI|Body mass index|Urology
+HTN|Hypertension|Urology
+HLD|Hyperlipidemia|Urology
+CAD|Coronary artery disease|Urology
+NP|Nocturnal polyuria|Urology
+DDAVP|Desmopressin|Urology
+NE|Nocturnal enuresis|Urology
+MNE|Monosymptomatic nocturnal enuresis|Urology
+NMNE|Non-monosymptomatic nocturnal enuresis|Urology
+DVSS|Dysfunctional Voiding Scoring System|Urology
+BBD|Bladder and bowel dysfunction|Urology
+BBS|Bladder and bowel syndrome|Urology
+DVS|Dysfunctional voiding syndrome|Urology
+ADH|Antidiuretic hormone|Urology
+AUR|Acute urinary retention|Urology
+CUR|Chronic urinary retention|Urology
+UR|Urinary retention|Urology
+TWOC|Trial without catheter|Urology
+TOV|Trial of void|Urology
+VT|Voiding trial|Urology
+BUS|Bladder ultrasound|Urology
+BSN|Bladder scanner|Urology
+PVRV|Post-void residual volume|Urology
+SPA|Suprapubic aspiration|Urology
+DVIU|Direct vision internal urethrotomy|Urology
+OIU|Optical internal urethrotomy|Urology
+IU|Internal urethrotomy|Urology
+AU|Anastomotic urethroplasty|Urology
+BMGU|Buccal mucosal graft urethroplasty|Urology
+BMG|Buccal mucosa graft|Urology
+EPA|End-to-end primary anastomosis|Urology
+EPAU|Excision and primary anastomosis urethroplasty|Urology
+SPU|Staged penile urethroplasty|Urology
+FUC|Flap urethroplasty|Urology
+PFUDD|Pelvic fracture urethral distraction defect|Urology
+PFUI|Pelvic fracture urethral injury|Urology
+BXO|Balanitis xerotica obliterans|Urology
+HS|Hypospadias|Urology
+TIP|Tubularized incised plate urethroplasty|Urology
+MAGPI|Meatal advancement and glanuloplasty incorporated|Urology
+GAP|Glans approximation procedure|Urology
+EXS|Exstrophy|Urology
+BE|Bladder exstrophy|Urology
+CBE|Classic bladder exstrophy|Urology
+EEC|Exstrophy-epispadias complex|Urology
+CE|Cloacal exstrophy|Urology
+PB|Prune belly syndrome|Urology
+MMC|Myelomeningocele|Urology
+SCI|Spinal cord injury|Urology
+MS|Multiple sclerosis|Urology
+PD|Parkinson disease|Urology
+CVA|Cerebrovascular accident|Urology
+CVA|Costovertebral angle|Urology
+AD|Autonomic dysreflexia|Urology
+TCS|Tethered cord syndrome|Urology
+UMN|Upper motor neuron|Urology
+LMN|Lower motor neuron|Urology
+PMC|Pontine micturition center|Urology
+BCR|Bulbocavernosus reflex|Urology
+BC reflex|Bulbocavernosus reflex|Urology
+UC|Undescended testis|Urology
+UDT|Undescended testis|Urology
+CUT|Cryptorchidism|Urology
+OPX|Orchiopexy|Urology
+ORP|Orchiopexy|Urology
+HO|Hydrocele|Urology
+HCL|Hydrocele|Urology
+PPV|Patent processus vaginalis|Urology
+PHE|Patent processus vaginalis hernia|Urology
+IH|Inguinal hernia|Urology
+SBH|Scrotal hematoma|Urology
+OE|Orchiectomy|Urology
+RO|Radical orchiectomy|Urology
+TSS|Testis-sparing surgery|Urology
+ILN|Inguinal lymph node|Urology
+ILND|Inguinal lymph node dissection|Urology
+DSNB|Dynamic sentinel node biopsy|Urology
+SLNB|Sentinel lymph node biopsy|Urology
+PeCa|Penile cancer|Urology
+SCC|Squamous cell carcinoma|Urology
+PIN|Penile intraepithelial neoplasia|Urology
+HPV|Human papillomavirus|Urology
+STI|Sexually transmitted infection|Urology
+STD|Sexually transmitted disease|Urology
+NAAT|Nucleic acid amplification test|Urology
+NGU|Nongonococcal urethritis|Urology
+HSV|Herpes simplex virus|Urology
+HIV|Human immunodeficiency virus|Urology
+PrEP|Pre-exposure prophylaxis|Urology
+PEP|Post-exposure prophylaxis|Urology
+NF|Necrotizing fasciitis|Urology
+APN|Acute pyelonephritis|Urology
+EPN|Emphysematous pyelonephritis|Urology
+XGP|Xanthogranulomatous pyelonephritis|Urology
+HC|Hemorrhagic cystitis|Urology
+ASB|Asymptomatic bacteriuria|Urology
+CFU|Colony-forming units|Urology

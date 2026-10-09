@@ -1,0 +1,700 @@
+PM&R|Physical medicine and rehabilitation|Physical Medicine & Rehab
+PT|Physical therapy|Physical Medicine & Rehab
+OT|Occupational therapy|Physical Medicine & Rehab
+SLP|Speech-language pathology|Physical Medicine & Rehab
+ST|Speech therapy|Physical Medicine & Rehab
+RT|Recreational therapy|Physical Medicine & Rehab
+IRF|Inpatient rehabilitation facility|Physical Medicine & Rehab
+SNF|Skilled nursing facility|Physical Medicine & Rehab
+LTAC|Long-term acute care|Physical Medicine & Rehab
+LTACH|Long-term acute care hospital|Physical Medicine & Rehab
+ADL|Activities of daily living|Physical Medicine & Rehab
+ADLs|Activities of daily living|Physical Medicine & Rehab
+IADL|Instrumental activities of daily living|Physical Medicine & Rehab
+IADLs|Instrumental activities of daily living|Physical Medicine & Rehab
+BADL|Basic activities of daily living|Physical Medicine & Rehab
+FIM|Functional independence measure|Physical Medicine & Rehab
+AIS|Impairment scale for grading spinal cord injury|Physical Medicine & Rehab
+SCI|Spinal cord injury|Physical Medicine & Rehab
+TBI|Traumatic brain injury|Physical Medicine & Rehab
+mTBI|Mild traumatic brain injury|Physical Medicine & Rehab
+CVA|Cerebrovascular accident (stroke)|Physical Medicine & Rehab
+TIA|Transient ischemic attack|Physical Medicine & Rehab
+ICH|Intracerebral hemorrhage|Physical Medicine & Rehab
+SAH|Subarachnoid hemorrhage|Physical Medicine & Rehab
+SDH|Subdural hematoma|Physical Medicine & Rehab
+EDH|Epidural hematoma|Physical Medicine & Rehab
+MS|Multiple sclerosis|Physical Medicine & Rehab
+ALS|Amyotrophic lateral sclerosis|Physical Medicine & Rehab
+CP|Cerebral palsy|Physical Medicine & Rehab
+SB|Spina bifida|Physical Medicine & Rehab
+MD|Muscular dystrophy|Physical Medicine & Rehab
+SMA|Spinal muscular atrophy|Physical Medicine & Rehab
+CIDP|Chronic inflammatory demyelinating polyneuropathy|Physical Medicine & Rehab
+AIDP|Acute inflammatory demyelinating polyneuropathy|Physical Medicine & Rehab
+MG|Myasthenia gravis|Physical Medicine & Rehab
+CTS|Carpal tunnel syndrome|Physical Medicine & Rehab
+CuTS|Cubital tunnel syndrome|Physical Medicine & Rehab
+TOS|Thoracic outlet syndrome|Physical Medicine & Rehab
+CRPS|Complex regional pain syndrome|Physical Medicine & Rehab
+RSD|Reflex sympathetic dystrophy|Physical Medicine & Rehab
+PHN|Postherpetic neuralgia|Physical Medicine & Rehab
+DPN|Diabetic peripheral neuropathy|Physical Medicine & Rehab
+CIPN|Chemotherapy-induced peripheral neuropathy|Physical Medicine & Rehab
+OA|Osteoarthritis|Physical Medicine & Rehab
+RA|Rheumatoid arthritis|Physical Medicine & Rehab
+DJD|Degenerative joint disease|Physical Medicine & Rehab
+DDD|Degenerative disc disease|Physical Medicine & Rehab
+HNP|Herniated nucleus pulposus|Physical Medicine & Rehab
+LBP|Low back pain|Physical Medicine & Rehab
+NSLBP|Nonspecific low back pain|Physical Medicine & Rehab
+SI|Sacroiliac|Physical Medicine & Rehab
+SIJ|Sacroiliac joint|Physical Medicine & Rehab
+AC|Acromioclavicular|Physical Medicine & Rehab
+GH|Glenohumeral|Physical Medicine & Rehab
+SC|Sternoclavicular|Physical Medicine & Rehab
+TMJ|Temporomandibular joint|Physical Medicine & Rehab
+TMD|Temporomandibular disorder|Physical Medicine & Rehab
+PFPS|Patellofemoral pain syndrome|Physical Medicine & Rehab
+ITB|Iliotibial band|Physical Medicine & Rehab
+ITBS|Iliotibial band syndrome|Physical Medicine & Rehab
+ITB|Intrathecal baclofen|Physical Medicine & Rehab
+PF|Plantar fasciitis|Physical Medicine & Rehab
+MTSS|Medial tibial stress syndrome|Physical Medicine & Rehab
+AT|Achilles tendon|Physical Medicine & Rehab
+CAI|Chronic ankle instability|Physical Medicine & Rehab
+OCD|Osteochondritis dissecans|Physical Medicine & Rehab
+ACL|Anterior cruciate ligament|Physical Medicine & Rehab
+PCL|Posterior cruciate ligament|Physical Medicine & Rehab
+MCL|Medial collateral ligament|Physical Medicine & Rehab
+LCL|Lateral collateral ligament|Physical Medicine & Rehab
+UCL|Ulnar collateral ligament|Physical Medicine & Rehab
+ATFL|Anterior talofibular ligament|Physical Medicine & Rehab
+CFL|Calcaneofibular ligament|Physical Medicine & Rehab
+TFCC|Triangular fibrocartilage complex|Physical Medicine & Rehab
+RC|Rotator cuff|Physical Medicine & Rehab
+RCT|Rotator cuff tear|Physical Medicine & Rehab
+SLAP|Superior labrum anterior to posterior (tear)|Physical Medicine & Rehab
+FAI|Femoroacetabular impingement|Physical Medicine & Rehab
+GTPS|Greater trochanteric pain syndrome|Physical Medicine & Rehab
+AVN|Avascular necrosis|Physical Medicine & Rehab
+DVT|Deep vein thrombosis|Physical Medicine & Rehab
+PE|Pulmonary embolism|Physical Medicine & Rehab
+VTE|Venous thromboembolism|Physical Medicine & Rehab
+PAD|Peripheral arterial disease|Physical Medicine & Rehab
+PVD|Peripheral vascular disease|Physical Medicine & Rehab
+ABI|Ankle-brachial index|Physical Medicine & Rehab
+CVI|Chronic venous insufficiency|Physical Medicine & Rehab
+LE|Lower extremity|Physical Medicine & Rehab
+UE|Upper extremity|Physical Medicine & Rehab
+BLE|Bilateral lower extremities|Physical Medicine & Rehab
+BUE|Bilateral upper extremities|Physical Medicine & Rehab
+RLE|Right lower extremity|Physical Medicine & Rehab
+LLE|Left lower extremity|Physical Medicine & Rehab
+RUE|Right upper extremity|Physical Medicine & Rehab
+LUE|Left upper extremity|Physical Medicine & Rehab
+ROM|Range of motion|Physical Medicine & Rehab
+AROM|Active range of motion|Physical Medicine & Rehab
+PROM|Passive range of motion|Physical Medicine & Rehab
+AAROM|Active assisted range of motion|Physical Medicine & Rehab
+WNL|Within normal limits|Physical Medicine & Rehab
+WFL|Within functional limits|Physical Medicine & Rehab
+MMT|Manual muscle testing|Physical Medicine & Rehab
+DTR|Deep tendon reflex|Physical Medicine & Rehab
+DTRs|Deep tendon reflexes|Physical Medicine & Rehab
+UMN|Upper motor neuron|Physical Medicine & Rehab
+LMN|Lower motor neuron|Physical Medicine & Rehab
+MN|Motor neuron|Physical Medicine & Rehab
+NMJ|Neuromuscular junction|Physical Medicine & Rehab
+CNS|Central nervous system|Physical Medicine & Rehab
+PNS|Peripheral nervous system|Physical Medicine & Rehab
+LOC|Loss of consciousness|Physical Medicine & Rehab
+AMS|Altered mental status|Physical Medicine & Rehab
+GCS|Glasgow Coma Scale|Physical Medicine & Rehab
+PTA|Posttraumatic amnesia|Physical Medicine & Rehab
+DOC|Disorders of consciousness|Physical Medicine & Rehab
+UWS|Unresponsive wakefulness syndrome|Physical Medicine & Rehab
+VS|Vegetative state|Physical Medicine & Rehab
+MCS|Minimally conscious state|Physical Medicine & Rehab
+LOS|Length of stay|Physical Medicine & Rehab
+LOC|Level of care|Physical Medicine & Rehab
+WB|Weight bearing|Physical Medicine & Rehab
+WBAT|Weight bearing as tolerated|Physical Medicine & Rehab
+NWB|Non-weight bearing|Physical Medicine & Rehab
+PWB|Partial weight bearing|Physical Medicine & Rehab
+TTWB|Toe-touch weight bearing|Physical Medicine & Rehab
+FWB|Full weight bearing|Physical Medicine & Rehab
+Min A|Minimal assistance|Physical Medicine & Rehab
+Mod A|Moderate assistance|Physical Medicine & Rehab
+Max A|Maximal assistance|Physical Medicine & Rehab
+CGA|Contact guard assist|Physical Medicine & Rehab
+SBA|Standby assist|Physical Medicine & Rehab
+Mod I|Modified independent|Physical Medicine & Rehab
+SPT|Stand pivot transfer|Physical Medicine & Rehab
+SLB|Single-leg balance|Physical Medicine & Rehab
+STS|Sit to stand|Physical Medicine & Rehab
+LOB|Loss of balance|Physical Medicine & Rehab
+FOF|Fear of falling|Physical Medicine & Rehab
+AD|Assistive device|Physical Medicine & Rehab
+AFO|Ankle-foot orthosis|Physical Medicine & Rehab
+KAFO|Knee-ankle-foot orthosis|Physical Medicine & Rehab
+HKAFO|Hip-knee-ankle-foot orthosis|Physical Medicine & Rehab
+RGO|Reciprocating gait orthosis|Physical Medicine & Rehab
+KO|Knee orthosis|Physical Medicine & Rehab
+WHO|Wrist-hand orthosis|Physical Medicine & Rehab
+WHFO|Wrist-hand-finger orthosis|Physical Medicine & Rehab
+TLSO|Thoracolumbosacral orthosis|Physical Medicine & Rehab
+LSO|Lumbosacral orthosis|Physical Medicine & Rehab
+CTLSO|Cervicothoracolumbosacral orthosis|Physical Medicine & Rehab
+CO|Cervical orthosis|Physical Medicine & Rehab
+SO|Sacral orthosis|Physical Medicine & Rehab
+SOMI|Sternal-occipital-mandibular immobilizer|Physical Medicine & Rehab
+DAFO|Dynamic ankle-foot orthosis|Physical Medicine & Rehab
+GRAFO|Ground reaction ankle-foot orthosis|Physical Medicine & Rehab
+PLS|Posterior leaf spring (orthosis)|Physical Medicine & Rehab
+FO|Foot orthosis|Physical Medicine & Rehab
+UCBL|University of California Biomechanics Laboratory foot orthosis|Physical Medicine & Rehab
+TKA|Total knee arthroplasty|Physical Medicine & Rehab
+THA|Total hip arthroplasty|Physical Medicine & Rehab
+TSA|Total shoulder arthroplasty|Physical Medicine & Rehab
+RTSA|Reverse total shoulder arthroplasty|Physical Medicine & Rehab
+ORIF|Open reduction and internal fixation|Physical Medicine & Rehab
+CRPP|Closed reduction and percutaneous pinning|Physical Medicine & Rehab
+ACLR|Anterior cruciate ligament reconstruction|Physical Medicine & Rehab
+ACDF|Anterior cervical discectomy and fusion|Physical Medicine & Rehab
+PLIF|Posterior lumbar interbody fusion|Physical Medicine & Rehab
+TLIF|Transforaminal lumbar interbody fusion|Physical Medicine & Rehab
+ALIF|Anterior lumbar interbody fusion|Physical Medicine & Rehab
+XLIF|Extreme lateral interbody fusion|Physical Medicine & Rehab
+LLIF|Lateral lumbar interbody fusion|Physical Medicine & Rehab
+DLIF|Direct lateral interbody fusion|Physical Medicine & Rehab
+OLIF|Oblique lumbar interbody fusion|Physical Medicine & Rehab
+TDR|Total disc replacement|Physical Medicine & Rehab
+MIS|Minimally invasive surgery|Physical Medicine & Rehab
+ESWT|Extracorporeal shock wave therapy|Physical Medicine & Rehab
+BKA|Below-knee amputation|Physical Medicine & Rehab
+AKA|Above-knee amputation|Physical Medicine & Rehab
+TTA|Transtibial amputation|Physical Medicine & Rehab
+TFA|Transfemoral amputation|Physical Medicine & Rehab
+BEA|Below-elbow amputation|Physical Medicine & Rehab
+AEA|Above-elbow amputation|Physical Medicine & Rehab
+TRA|Transradial amputation|Physical Medicine & Rehab
+THD|Through-hip disarticulation|Physical Medicine & Rehab
+PLP|Phantom limb pain|Physical Medicine & Rehab
+RLP|Residual limb pain|Physical Medicine & Rehab
+PLS|Phantom limb sensation|Physical Medicine & Rehab
+TMA|Transmetatarsal amputation|Physical Medicine & Rehab
+TMR|Targeted muscle reinnervation|Physical Medicine & Rehab
+RPNI|Regenerative peripheral nerve interface|Physical Medicine & Rehab
+PTB|Patellar tendon bearing (prosthetic socket)|Physical Medicine & Rehab
+TSB|Total surface bearing (prosthetic socket)|Physical Medicine & Rehab
+SACH|Solid ankle cushion heel (prosthetic foot)|Physical Medicine & Rehab
+ESAR|Energy storing and returning (prosthetic foot)|Physical Medicine & Rehab
+MPK|Microprocessor-controlled knee|Physical Medicine & Rehab
+EMG|Electromyography|Physical Medicine & Rehab
+NCS|Nerve conduction study|Physical Medicine & Rehab
+NCV|Nerve conduction velocity|Physical Medicine & Rehab
+EDX|Electrodiagnostic|Physical Medicine & Rehab
+EDX|Electrodiagnostic testing|Physical Medicine & Rehab
+SNAP|Sensory nerve action potential|Physical Medicine & Rehab
+CMAP|Compound muscle action potential|Physical Medicine & Rehab
+MUAP|Motor unit action potential|Physical Medicine & Rehab
+MUP|Motor unit potential|Physical Medicine & Rehab
+SSEP|Somatosensory evoked potential|Physical Medicine & Rehab
+MEP|Motor evoked potential|Physical Medicine & Rehab
+RNS|Repetitive nerve stimulation|Physical Medicine & Rehab
+SFEMG|Single-fiber electromyography|Physical Medicine & Rehab
+PSW|Positive sharp wave|Physical Medicine & Rehab
+Fib|Fibrillation potential|Physical Medicine & Rehab
+FP|Fibrillation potential|Physical Medicine & Rehab
+CRD|Complex repetitive discharge|Physical Medicine & Rehab
+NAP|Nerve action potential|Physical Medicine & Rehab
+DL|Distal latency|Physical Medicine & Rehab
+CV|Conduction velocity|Physical Medicine & Rehab
+NCS/EMG|Nerve conduction study and electromyography|Physical Medicine & Rehab
+F-wave|Late motor response used to assess proximal nerve conduction|Physical Medicine & Rehab
+H-reflex|Electrically elicited reflex used to assess S1 pathway|Physical Medicine & Rehab
+PSP|Progressive supranuclear palsy|Physical Medicine & Rehab
+DBS|Deep brain stimulation|Physical Medicine & Rehab
+DRG|Dorsal root ganglion|Physical Medicine & Rehab
+PNS|Peripheral nerve stimulation|Physical Medicine & Rehab
+TENS|Transcutaneous electrical nerve stimulation|Physical Medicine & Rehab
+NMES|Neuromuscular electrical stimulation|Physical Medicine & Rehab
+FES|Functional electrical stimulation|Physical Medicine & Rehab
+IFC|Interferential current|Physical Medicine & Rehab
+EStim|Electrical stimulation|Physical Medicine & Rehab
+US|Ultrasound|Physical Medicine & Rehab
+HVPC|High-voltage pulsed current|Physical Medicine & Rehab
+LLLT|Low-level laser therapy|Physical Medicine & Rehab
+PEMF|Pulsed electromagnetic field|Physical Medicine & Rehab
+rTMS|Repetitive transcranial magnetic stimulation|Physical Medicine & Rehab
+TMS|Transcranial magnetic stimulation|Physical Medicine & Rehab
+tDCS|Transcranial direct current stimulation|Physical Medicine & Rehab
+CIMT|Constraint-induced movement therapy|Physical Medicine & Rehab
+BWSTT|Body-weight-supported treadmill training|Physical Medicine & Rehab
+BWS|Body weight support|Physical Medicine & Rehab
+RAGT|Robot-assisted gait training|Physical Medicine & Rehab
+VR|Virtual reality|Physical Medicine & Rehab
+MT|Mirror therapy|Physical Medicine & Rehab
+MI|Motor imagery|Physical Medicine & Rehab
+PNF|Proprioceptive neuromuscular facilitation|Physical Medicine & Rehab
+NDT|Neurodevelopmental treatment|Physical Medicine & Rehab
+CPM|Continuous passive motion|Physical Medicine & Rehab
+HEP|Home exercise program|Physical Medicine & Rehab
+TherEx|Therapeutic exercise|Physical Medicine & Rehab
+TherAct|Therapeutic activities|Physical Medicine & Rehab
+NMR|Neuromuscular reeducation|Physical Medicine & Rehab
+MFR|Myofascial release|Physical Medicine & Rehab
+STM|Soft tissue mobilization|Physical Medicine & Rehab
+IASTM|Instrument-assisted soft tissue mobilization|Physical Medicine & Rehab
+MET|Muscle energy technique|Physical Medicine & Rehab
+OMT|Osteopathic manipulative treatment|Physical Medicine & Rehab
+OMM|Osteopathic manipulative medicine|Physical Medicine & Rehab
+SMT|Spinal manipulative therapy|Physical Medicine & Rehab
+CBT|Cognitive behavioral therapy|Physical Medicine & Rehab
+ACT|Acceptance and commitment therapy|Physical Medicine & Rehab
+MBSR|Mindfulness-based stress reduction|Physical Medicine & Rehab
+CR|Cardiac rehabilitation|Physical Medicine & Rehab
+PR|Pulmonary rehabilitation|Physical Medicine & Rehab
+COPD|Chronic obstructive pulmonary disease|Physical Medicine & Rehab
+6MWT|Six-minute walk test|Physical Medicine & Rehab
+6MWD|Six-minute walk distance|Physical Medicine & Rehab
+10MWT|Ten-meter walk test|Physical Medicine & Rehab
+TUG|Timed Up and Go test|Physical Medicine & Rehab
+FRT|Functional reach test|Physical Medicine & Rehab
+DGI|Dynamic gait index|Physical Medicine & Rehab
+FGA|Functional gait assessment|Physical Medicine & Rehab
+SPPB|Short physical performance battery|Physical Medicine & Rehab
+5xSTS|Five times sit-to-stand test|Physical Medicine & Rehab
+30sCST|Thirty-second chair stand test|Physical Medicine & Rehab
+ABC|Activities-specific balance confidence scale|Physical Medicine & Rehab
+FES-I|Falls efficacy scale international|Physical Medicine & Rehab
+mCTSIB|Modified clinical test of sensory interaction on balance|Physical Medicine & Rehab
+BESS|Balance error scoring system|Physical Medicine & Rehab
+SOT|Sensory organization test|Physical Medicine & Rehab
+SLS|Single-leg stance|Physical Medicine & Rehab
+RBT|Romberg balance test|Physical Medicine & Rehab
+COG|Center of gravity|Physical Medicine & Rehab
+COM|Center of mass|Physical Medicine & Rehab
+BOS|Base of support|Physical Medicine & Rehab
+VOR|Vestibulo-ocular reflex|Physical Medicine & Rehab
+BPPV|Benign paroxysmal positional vertigo|Physical Medicine & Rehab
+SCAT|Sport concussion assessment tool|Physical Medicine & Rehab
+PCS|Postconcussion syndrome|Physical Medicine & Rehab
+PCSS|Postconcussion symptom scale|Physical Medicine & Rehab
+RTP|Return to play|Physical Medicine & Rehab
+RTW|Return to work|Physical Medicine & Rehab
+RTD|Return to duty|Physical Medicine & Rehab
+MMI|Maximum medical improvement|Physical Medicine & Rehab
+IME|Independent medical examination|Physical Medicine & Rehab
+FCE|Functional capacity evaluation|Physical Medicine & Rehab
+WC|Workers' compensation|Physical Medicine & Rehab
+WC|Wheelchair|Physical Medicine & Rehab
+MWC|Manual wheelchair|Physical Medicine & Rehab
+PWC|Power wheelchair|Physical Medicine & Rehab
+w/c|Wheelchair|Physical Medicine & Rehab
+FWW|Front-wheeled walker|Physical Medicine & Rehab
+SPC|Single-point cane|Physical Medicine & Rehab
+QC|Quad cane|Physical Medicine & Rehab
+LBQC|Large-base quad cane|Physical Medicine & Rehab
+SBQC|Small-base quad cane|Physical Medicine & Rehab
+RW|Rolling walker|Physical Medicine & Rehab
+4WW|Four-wheeled walker|Physical Medicine & Rehab
+LOFS|Lofstrand crutches|Physical Medicine & Rehab
+DME|Durable medical equipment|Physical Medicine & Rehab
+HHA|Home health aide|Physical Medicine & Rehab
+HH|Home health|Physical Medicine & Rehab
+SAR|Subacute rehabilitation|Physical Medicine & Rehab
+ARU|Acute rehabilitation unit|Physical Medicine & Rehab
+AIR|Acute inpatient rehabilitation|Physical Medicine & Rehab
+IDT|Interdisciplinary team|Physical Medicine & Rehab
+MDT|Multidisciplinary team|Physical Medicine & Rehab
+POC|Plan of care|Physical Medicine & Rehab
+STG|Short-term goal|Physical Medicine & Rehab
+LTG|Long-term goal|Physical Medicine & Rehab
+DC|Discharge|Physical Medicine & Rehab
+D/C|Discharge|Physical Medicine & Rehab
+CM|Case manager|Physical Medicine & Rehab
+SW|Social work|Physical Medicine & Rehab
+SLUMS|Saint Louis University mental status exam|Physical Medicine & Rehab
+MoCA|Montreal cognitive assessment|Physical Medicine & Rehab
+MMSE|Mini-mental state examination|Physical Medicine & Rehab
+CAM|Confusion assessment method|Physical Medicine & Rehab
+RLAS|Rancho Los Amigos Scale of cognitive functioning|Physical Medicine & Rehab
+LCF|Levels of cognitive functioning|Physical Medicine & Rehab
+GOS|Glasgow Outcome Scale|Physical Medicine & Rehab
+GOSE|Glasgow Outcome Scale Extended|Physical Medicine & Rehab
+DRS|Disability rating scale|Physical Medicine & Rehab
+CRS-R|Coma recovery scale revised|Physical Medicine & Rehab
+NIHSS|National Institutes of Health Stroke Scale|Physical Medicine & Rehab
+mRS|Modified Rankin Scale|Physical Medicine & Rehab
+FMA|Fugl-Meyer assessment|Physical Medicine & Rehab
+FMA-UE|Fugl-Meyer assessment of the upper extremity|Physical Medicine & Rehab
+ARAT|Action research arm test|Physical Medicine & Rehab
+BBT|Box and block test|Physical Medicine & Rehab
+NHPT|Nine-hole peg test|Physical Medicine & Rehab
+JTHFT|Jebsen-Taylor hand function test|Physical Medicine & Rehab
+MAL|Motor activity log|Physical Medicine & Rehab
+WMFT|Wolf motor function test|Physical Medicine & Rehab
+DASH|Disabilities of the arm, shoulder and hand questionnaire|Physical Medicine & Rehab
+QuickDASH|Short form of the disabilities of the arm, shoulder and hand questionnaire|Physical Medicine & Rehab
+ODI|Oswestry disability index|Physical Medicine & Rehab
+NDI|Neck disability index|Physical Medicine & Rehab
+RMDQ|Roland-Morris disability questionnaire|Physical Medicine & Rehab
+PSFS|Patient-specific functional scale|Physical Medicine & Rehab
+LEFS|Lower extremity functional scale|Physical Medicine & Rehab
+KOOS|Knee injury and osteoarthritis outcome score|Physical Medicine & Rehab
+HOOS|Hip disability and osteoarthritis outcome score|Physical Medicine & Rehab
+WOMAC|Western Ontario and McMaster osteoarthritis index|Physical Medicine & Rehab
+SPADI|Shoulder pain and disability index|Physical Medicine & Rehab
+ASES|American shoulder and elbow surgeons score|Physical Medicine & Rehab
+IKDC|International knee documentation committee score|Physical Medicine & Rehab
+VAS|Visual analog scale|Physical Medicine & Rehab
+NRS|Numeric rating scale|Physical Medicine & Rehab
+NPRS|Numeric pain rating scale|Physical Medicine & Rehab
+PROMIS|Patient-reported outcomes measurement information system|Physical Medicine & Rehab
+PROM|Patient-reported outcome measure|Physical Medicine & Rehab
+PHQ-9|Patient health questionnaire 9|Physical Medicine & Rehab
+GAD-7|Generalized anxiety disorder 7-item scale|Physical Medicine & Rehab
+BPI|Brief pain inventory|Physical Medicine & Rehab
+PCS|Pain catastrophizing scale|Physical Medicine & Rehab
+TSK|Tampa scale of kinesiophobia|Physical Medicine & Rehab
+FABQ|Fear-avoidance beliefs questionnaire|Physical Medicine & Rehab
+SF-36|Short form 36 health survey|Physical Medicine & Rehab
+QOL|Quality of life|Physical Medicine & Rehab
+QoL|Quality of life|Physical Medicine & Rehab
+CHART|Craig handicap assessment and reporting technique|Physical Medicine & Rehab
+SCIM|Spinal cord independence measure|Physical Medicine & Rehab
+WISCI|Walking index for spinal cord injury|Physical Medicine & Rehab
+SCI-FAI|Spinal cord injury functional ambulation inventory|Physical Medicine & Rehab
+GMFCS|Gross motor function classification system|Physical Medicine & Rehab
+GMFM|Gross motor function measure|Physical Medicine & Rehab
+MACS|Manual ability classification system|Physical Medicine & Rehab
+CFCS|Communication function classification system|Physical Medicine & Rehab
+EDACS|Eating and drinking ability classification system|Physical Medicine & Rehab
+PEDI|Pediatric evaluation of disability inventory|Physical Medicine & Rehab
+WeeFIM|Pediatric functional independence measure|Physical Medicine & Rehab
+MAS|Modified Ashworth scale|Physical Medicine & Rehab
+MTS|Modified Tardieu scale|Physical Medicine & Rehab
+BoNT|Botulinum neurotoxin|Physical Medicine & Rehab
+BoNT-A|Botulinum neurotoxin type A|Physical Medicine & Rehab
+BTX|Botulinum toxin|Physical Medicine & Rehab
+BTX-A|Botulinum toxin type A|Physical Medicine & Rehab
+ITB|Intrathecal baclofen therapy|Physical Medicine & Rehab
+ITBP|Intrathecal baclofen pump|Physical Medicine & Rehab
+SDR|Selective dorsal rhizotomy|Physical Medicine & Rehab
+SCM|Sternocleidomastoid|Physical Medicine & Rehab
+UT|Upper trapezius|Physical Medicine & Rehab
+LT|Lower trapezius|Physical Medicine & Rehab
+MT|Middle trapezius|Physical Medicine & Rehab
+ECRL|Extensor carpi radialis longus|Physical Medicine & Rehab
+ECRB|Extensor carpi radialis brevis|Physical Medicine & Rehab
+ECU|Extensor carpi ulnaris|Physical Medicine & Rehab
+FCR|Flexor carpi radialis|Physical Medicine & Rehab
+FCU|Flexor carpi ulnaris|Physical Medicine & Rehab
+FDS|Flexor digitorum superficialis|Physical Medicine & Rehab
+FDP|Flexor digitorum profundus|Physical Medicine & Rehab
+FPL|Flexor pollicis longus|Physical Medicine & Rehab
+EPL|Extensor pollicis longus|Physical Medicine & Rehab
+EPB|Extensor pollicis brevis|Physical Medicine & Rehab
+APL|Abductor pollicis longus|Physical Medicine & Rehab
+APB|Abductor pollicis brevis|Physical Medicine & Rehab
+ADM|Abductor digiti minimi|Physical Medicine & Rehab
+FDI|First dorsal interosseous|Physical Medicine & Rehab
+EDC|Extensor digitorum communis|Physical Medicine & Rehab
+EIP|Extensor indicis proprius|Physical Medicine & Rehab
+PT|Pronator teres|Physical Medicine & Rehab
+PQ|Pronator quadratus|Physical Medicine & Rehab
+BR|Brachioradialis|Physical Medicine & Rehab
+TA|Tibialis anterior|Physical Medicine & Rehab
+TP|Tibialis posterior|Physical Medicine & Rehab
+EHL|Extensor hallucis longus|Physical Medicine & Rehab
+EDL|Extensor digitorum longus|Physical Medicine & Rehab
+EDB|Extensor digitorum brevis|Physical Medicine & Rehab
+FHL|Flexor hallucis longus|Physical Medicine & Rehab
+FDL|Flexor digitorum longus|Physical Medicine & Rehab
+GCM|Gastrocnemius|Physical Medicine & Rehab
+VL|Vastus lateralis|Physical Medicine & Rehab
+VM|Vastus medialis|Physical Medicine & Rehab
+VMO|Vastus medialis obliquus|Physical Medicine & Rehab
+RF|Rectus femoris|Physical Medicine & Rehab
+BF|Biceps femoris|Physical Medicine & Rehab
+TFL|Tensor fasciae latae|Physical Medicine & Rehab
+GM|Gluteus maximus|Physical Medicine & Rehab
+Gmed|Gluteus medius|Physical Medicine & Rehab
+Gmin|Gluteus minimus|Physical Medicine & Rehab
+QL|Quadratus lumborum|Physical Medicine & Rehab
+TrA|Transversus abdominis|Physical Medicine & Rehab
+MF|Multifidus|Physical Medicine & Rehab
+EO|External oblique|Physical Medicine & Rehab
+IO|Internal oblique|Physical Medicine & Rehab
+RA|Rectus abdominis|Physical Medicine & Rehab
+FHP|Forward head posture|Physical Medicine & Rehab
+FABER|Flexion, abduction and external rotation (hip test)|Physical Medicine & Rehab
+FADIR|Flexion, adduction and internal rotation (hip test)|Physical Medicine & Rehab
+SLR|Straight leg raise|Physical Medicine & Rehab
+SLRT|Straight leg raise test|Physical Medicine & Rehab
+XSLR|Crossed straight leg raise|Physical Medicine & Rehab
+PKB|Prone knee bend|Physical Medicine & Rehab
+SNAGs|Sustained natural apophyseal glides|Physical Medicine & Rehab
+MWM|Mobilization with movement|Physical Medicine & Rehab
+ULTT|Upper limb tension test|Physical Medicine & Rehab
+ULNT|Upper limb neurodynamic test|Physical Medicine & Rehab
+ASIS|Anterior superior iliac spine|Physical Medicine & Rehab
+PSIS|Posterior superior iliac spine|Physical Medicine & Rehab
+AIIS|Anterior inferior iliac spine|Physical Medicine & Rehab
+IT|Ischial tuberosity|Physical Medicine & Rehab
+GT|Greater trochanter|Physical Medicine & Rehab
+LT|Lesser trochanter|Physical Medicine & Rehab
+MCP|Metacarpophalangeal|Physical Medicine & Rehab
+PIP|Proximal interphalangeal|Physical Medicine & Rehab
+DIP|Distal interphalangeal|Physical Medicine & Rehab
+IP|Interphalangeal|Physical Medicine & Rehab
+MTP|Metatarsophalangeal|Physical Medicine & Rehab
+CMC|Carpometacarpal|Physical Medicine & Rehab
+DRUJ|Distal radioulnar joint|Physical Medicine & Rehab
+PRUJ|Proximal radioulnar joint|Physical Medicine & Rehab
+MTJ|Midtarsal joint|Physical Medicine & Rehab
+STJ|Subtalar joint|Physical Medicine & Rehab
+TCJ|Tibiotalar joint|Physical Medicine & Rehab
+C-spine|Cervical spine|Physical Medicine & Rehab
+T-spine|Thoracic spine|Physical Medicine & Rehab
+L-spine|Lumbar spine|Physical Medicine & Rehab
+LS|Lumbosacral|Physical Medicine & Rehab
+C/S|Cervical spine|Physical Medicine & Rehab
+T/S|Thoracic spine|Physical Medicine & Rehab
+L/S|Lumbosacral spine|Physical Medicine & Rehab
+CT|Computed tomography|Physical Medicine & Rehab
+MRI|Magnetic resonance imaging|Physical Medicine & Rehab
+XR|X-ray|Physical Medicine & Rehab
+DEXA|Dual-energy x-ray absorptiometry|Physical Medicine & Rehab
+BMD|Bone mineral density|Physical Medicine & Rehab
+MSK|Musculoskeletal|Physical Medicine & Rehab
+MSKUS|Musculoskeletal ultrasound|Physical Medicine & Rehab
+US-guided|Ultrasound-guided|Physical Medicine & Rehab
+FL|Fluoroscopy|Physical Medicine & Rehab
+FLUORO|Fluoroscopy|Physical Medicine & Rehab
+ESI|Epidural steroid injection|Physical Medicine & Rehab
+TFESI|Transforaminal epidural steroid injection|Physical Medicine & Rehab
+ILESI|Interlaminar epidural steroid injection|Physical Medicine & Rehab
+CESI|Cervical epidural steroid injection|Physical Medicine & Rehab
+LESI|Lumbar epidural steroid injection|Physical Medicine & Rehab
+MBB|Medial branch block|Physical Medicine & Rehab
+RFA|Radiofrequency ablation|Physical Medicine & Rehab
+RFN|Radiofrequency neurotomy|Physical Medicine & Rehab
+FJ|Facet joint|Physical Medicine & Rehab
+FJI|Facet joint injection|Physical Medicine & Rehab
+SIJI|Sacroiliac joint injection|Physical Medicine & Rehab
+TPI|Trigger point injection|Physical Medicine & Rehab
+PRP|Platelet-rich plasma|Physical Medicine & Rehab
+HA|Hyaluronic acid|Physical Medicine & Rehab
+CSI|Corticosteroid injection|Physical Medicine & Rehab
+IA|Intra-articular|Physical Medicine & Rehab
+IM|Intramuscular|Physical Medicine & Rehab
+SQ|Subcutaneous|Physical Medicine & Rehab
+PO|By mouth|Physical Medicine & Rehab
+IV|Intravenous|Physical Medicine & Rehab
+PRN|As needed|Physical Medicine & Rehab
+BID|Twice daily|Physical Medicine & Rehab
+TID|Three times daily|Physical Medicine & Rehab
+QID|Four times daily|Physical Medicine & Rehab
+QD|Once daily|Physical Medicine & Rehab
+QHS|At bedtime|Physical Medicine & Rehab
+NSAID|Nonsteroidal anti-inflammatory drug|Physical Medicine & Rehab
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Physical Medicine & Rehab
+APAP|Acetaminophen|Physical Medicine & Rehab
+TCA|Tricyclic antidepressant|Physical Medicine & Rehab
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Physical Medicine & Rehab
+SSRI|Selective serotonin reuptake inhibitor|Physical Medicine & Rehab
+AED|Antiepileptic drug|Physical Medicine & Rehab
+OUD|Opioid use disorder|Physical Medicine & Rehab
+MAT|Medication-assisted treatment|Physical Medicine & Rehab
+OIC|Opioid-induced constipation|Physical Medicine & Rehab
+MME|Morphine milligram equivalents|Physical Medicine & Rehab
+MED|Morphine equivalent dose|Physical Medicine & Rehab
+PCA|Patient-controlled analgesia|Physical Medicine & Rehab
+LA|Local anesthetic|Physical Medicine & Rehab
+DOAC|Direct oral anticoagulant|Physical Medicine & Rehab
+LMWH|Low-molecular-weight heparin|Physical Medicine & Rehab
+UFH|Unfractionated heparin|Physical Medicine & Rehab
+IVC|Inferior vena cava|Physical Medicine & Rehab
+IVCF|Inferior vena cava filter|Physical Medicine & Rehab
+SCDs|Sequential compression devices|Physical Medicine & Rehab
+TED|Thromboembolic deterrent (stockings)|Physical Medicine & Rehab
+PPI|Proton pump inhibitor|Physical Medicine & Rehab
+BP|Blood pressure|Physical Medicine & Rehab
+HR|Heart rate|Physical Medicine & Rehab
+RR|Respiratory rate|Physical Medicine & Rehab
+SpO2|Peripheral oxygen saturation|Physical Medicine & Rehab
+HTN|Hypertension|Physical Medicine & Rehab
+DM|Diabetes mellitus|Physical Medicine & Rehab
+DM2|Type 2 diabetes mellitus|Physical Medicine & Rehab
+T2DM|Type 2 diabetes mellitus|Physical Medicine & Rehab
+CAD|Coronary artery disease|Physical Medicine & Rehab
+CHF|Congestive heart failure|Physical Medicine & Rehab
+HF|Heart failure|Physical Medicine & Rehab
+CKD|Chronic kidney disease|Physical Medicine & Rehab
+AKI|Acute kidney injury|Physical Medicine & Rehab
+UTI|Urinary tract infection|Physical Medicine & Rehab
+CAUTI|Catheter-associated urinary tract infection|Physical Medicine & Rehab
+PNA|Pneumonia|Physical Medicine & Rehab
+VAP|Ventilator-associated pneumonia|Physical Medicine & Rehab
+AD|Autonomic dysreflexia|Physical Medicine & Rehab
+AD|Alzheimer disease|Physical Medicine & Rehab
+OH|Orthostatic hypotension|Physical Medicine & Rehab
+POTS|Postural orthostatic tachycardia syndrome|Physical Medicine & Rehab
+NGB|Neurogenic bladder|Physical Medicine & Rehab
+NBD|Neurogenic bowel dysfunction|Physical Medicine & Rehab
+NDO|Neurogenic detrusor overactivity|Physical Medicine & Rehab
+DSD|Detrusor-sphincter dyssynergia|Physical Medicine & Rehab
+IC|Intermittent catheterization|Physical Medicine & Rehab
+CIC|Clean intermittent catheterization|Physical Medicine & Rehab
+SPC|Suprapubic catheter|Physical Medicine & Rehab
+SPC|Suprapubic catheterization|Physical Medicine & Rehab
+FC|Foley catheter|Physical Medicine & Rehab
+PVR|Postvoid residual|Physical Medicine & Rehab
+UDS|Urodynamic studies|Physical Medicine & Rehab
+UI|Urinary incontinence|Physical Medicine & Rehab
+SUI|Stress urinary incontinence|Physical Medicine & Rehab
+OAB|Overactive bladder|Physical Medicine & Rehab
+BPH|Benign prostatic hyperplasia|Physical Medicine & Rehab
+BM|Bowel movement|Physical Medicine & Rehab
+DRE|Digital rectal examination|Physical Medicine & Rehab
+DS|Digital stimulation|Physical Medicine & Rehab
+BCE|Bowel care evacuation|Physical Medicine & Rehab
+MACE|Malone antegrade continence enema|Physical Medicine & Rehab
+ED|Erectile dysfunction|Physical Medicine & Rehab
+PDE5|Phosphodiesterase type 5|Physical Medicine & Rehab
+PU|Pressure ulcer|Physical Medicine & Rehab
+PI|Pressure injury|Physical Medicine & Rehab
+SDTI|Suspected deep tissue injury|Physical Medicine & Rehab
+WOC|Wound, ostomy and continence|Physical Medicine & Rehab
+NPWT|Negative pressure wound therapy|Physical Medicine & Rehab
+DFU|Diabetic foot ulcer|Physical Medicine & Rehab
+VLU|Venous leg ulcer|Physical Medicine & Rehab
+LE|Lymphedema|Physical Medicine & Rehab
+CDT|Complete decongestive therapy|Physical Medicine & Rehab
+MLD|Manual lymphatic drainage|Physical Medicine & Rehab
+IPC|Intermittent pneumatic compression|Physical Medicine & Rehab
+PEG|Percutaneous endoscopic gastrostomy|Physical Medicine & Rehab
+NGT|Nasogastric tube|Physical Medicine & Rehab
+NPO|Nothing by mouth|Physical Medicine & Rehab
+DYS|Dysphagia|Physical Medicine & Rehab
+VFSS|Videofluoroscopic swallow study|Physical Medicine & Rehab
+MBS|Modified barium swallow|Physical Medicine & Rehab
+FEES|Fiberoptic endoscopic evaluation of swallowing|Physical Medicine & Rehab
+IDDSI|International dysphagia diet standardisation initiative|Physical Medicine & Rehab
+TFC|Thickened fluids|Physical Medicine & Rehab
+NTL|Nectar-thick liquids|Physical Medicine & Rehab
+HTL|Honey-thick liquids|Physical Medicine & Rehab
+TT|Tracheostomy tube|Physical Medicine & Rehab
+AAC|Augmentative and alternative communication|Physical Medicine & Rehab
+NIV|Noninvasive ventilation|Physical Medicine & Rehab
+NIPPV|Noninvasive positive pressure ventilation|Physical Medicine & Rehab
+BiPAP|Bilevel positive airway pressure|Physical Medicine & Rehab
+CPAP|Continuous positive airway pressure|Physical Medicine & Rehab
+MIP|Maximal inspiratory pressure|Physical Medicine & Rehab
+MEP|Maximal expiratory pressure|Physical Medicine & Rehab
+FVC|Forced vital capacity|Physical Medicine & Rehab
+FEV1|Forced expiratory volume in one second|Physical Medicine & Rehab
+VC|Vital capacity|Physical Medicine & Rehab
+PCF|Peak cough flow|Physical Medicine & Rehab
+MI-E|Mechanical insufflation-exsufflation|Physical Medicine & Rehab
+IMT|Inspiratory muscle training|Physical Medicine & Rehab
+O2|Oxygen|Physical Medicine & Rehab
+NC|Nasal cannula|Physical Medicine & Rehab
+RA|Room air|Physical Medicine & Rehab
+OSA|Obstructive sleep apnea|Physical Medicine & Rehab
+DMARD|Disease-modifying antirheumatic drug|Physical Medicine & Rehab
+AS|Ankylosing spondylitis|Physical Medicine & Rehab
+PsA|Psoriatic arthritis|Physical Medicine & Rehab
+SLE|Systemic lupus erythematosus|Physical Medicine & Rehab
+FM|Fibromyalgia|Physical Medicine & Rehab
+FMS|Fibromyalgia syndrome|Physical Medicine & Rehab
+MPS|Myofascial pain syndrome|Physical Medicine & Rehab
+CFS|Chronic fatigue syndrome|Physical Medicine & Rehab
+ME/CFS|Myalgic encephalomyelitis and chronic fatigue syndrome|Physical Medicine & Rehab
+CLBP|Chronic low back pain|Physical Medicine & Rehab
+CNCP|Chronic noncancer pain|Physical Medicine & Rehab
+CPP|Chronic pelvic pain|Physical Medicine & Rehab
+PNE|Pain neuroscience education|Physical Medicine & Rehab
+SCIWORA|Spinal cord injury without radiographic abnormality|Physical Medicine & Rehab
+CCS|Central cord syndrome|Physical Medicine & Rehab
+ACS|Anterior cord syndrome|Physical Medicine & Rehab
+PCS|Posterior cord syndrome|Physical Medicine & Rehab
+CES|Cauda equina syndrome|Physical Medicine & Rehab
+CM|Conus medullaris|Physical Medicine & Rehab
+CMS|Conus medullaris syndrome|Physical Medicine & Rehab
+NLI|Neurological level of injury|Physical Medicine & Rehab
+ISNCSCI|International standards for neurological classification of spinal cord injury|Physical Medicine & Rehab
+VAC|Voluntary anal contraction|Physical Medicine & Rehab
+DAP|Deep anal pressure|Physical Medicine & Rehab
+TSCI|Traumatic spinal cord injury|Physical Medicine & Rehab
+NTSCI|Nontraumatic spinal cord injury|Physical Medicine & Rehab
+SCI-QOL|Spinal cord injury quality of life measurement system|Physical Medicine & Rehab
+MAP|Mean arterial pressure|Physical Medicine & Rehab
+PPS|Postpolio syndrome|Physical Medicine & Rehab
+HSP|Hereditary spastic paraplegia|Physical Medicine & Rehab
+HSP|Hemiplegic shoulder pain|Physical Medicine & Rehab
+HP|Hemiparesis|Physical Medicine & Rehab
+HS|Hemiplegic shoulder|Physical Medicine & Rehab
+NPH|Normal pressure hydrocephalus|Physical Medicine & Rehab
+HCP|Hydrocephalus|Physical Medicine & Rehab
+VP|Ventriculoperitoneal|Physical Medicine & Rehab
+VPS|Ventriculoperitoneal shunt|Physical Medicine & Rehab
+EVD|External ventricular drain|Physical Medicine & Rehab
+ICP|Intracranial pressure|Physical Medicine & Rehab
+CPP|Cerebral perfusion pressure|Physical Medicine & Rehab
+DAI|Diffuse axonal injury|Physical Medicine & Rehab
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Physical Medicine & Rehab
+CSW|Cerebral salt wasting|Physical Medicine & Rehab
+PSH|Paroxysmal sympathetic hyperactivity|Physical Medicine & Rehab
+PTH|Posttraumatic headache|Physical Medicine & Rehab
+PTE|Posttraumatic epilepsy|Physical Medicine & Rehab
+PTSD|Posttraumatic stress disorder|Physical Medicine & Rehab
+MDD|Major depressive disorder|Physical Medicine & Rehab
+PBA|Pseudobulbar affect|Physical Medicine & Rehab
+PSD|Poststroke depression|Physical Medicine & Rehab
+PSD|Poststroke spasticity|Physical Medicine & Rehab
+UNS|Unilateral neglect syndrome|Physical Medicine & Rehab
+USN|Unilateral spatial neglect|Physical Medicine & Rehab
+HH|Homonymous hemianopsia|Physical Medicine & Rehab
+MCA|Middle cerebral artery|Physical Medicine & Rehab
+ACA|Anterior cerebral artery|Physical Medicine & Rehab
+PCA|Posterior cerebral artery|Physical Medicine & Rehab
+ICA|Internal carotid artery|Physical Medicine & Rehab
+VA|Vertebral artery|Physical Medicine & Rehab
+BA|Basilar artery|Physical Medicine & Rehab
+LVO|Large vessel occlusion|Physical Medicine & Rehab
+tPA|Tissue plasminogen activator|Physical Medicine & Rehab
+AFib|Atrial fibrillation|Physical Medicine & Rehab
+PFO|Patent foramen ovale|Physical Medicine & Rehab
+CEA|Carotid endarterectomy|Physical Medicine & Rehab
+CAS|Carotid artery stenting|Physical Medicine & Rehab
+MRA|Magnetic resonance angiography|Physical Medicine & Rehab
+CTA|Computed tomography angiography|Physical Medicine & Rehab
+DWI|Diffusion-weighted imaging|Physical Medicine & Rehab
+FLAIR|Fluid-attenuated inversion recovery|Physical Medicine & Rehab
+SWI|Susceptibility-weighted imaging|Physical Medicine & Rehab
+EEG|Electroencephalogram|Physical Medicine & Rehab
+LP|Lumbar puncture|Physical Medicine & Rehab
+CSF|Cerebrospinal fluid|Physical Medicine & Rehab
+HIE|Hypoxic-ischemic encephalopathy|Physical Medicine & Rehab
+AHT|Abusive head trauma|Physical Medicine & Rehab
+LD|Learning disability|Physical Medicine & Rehab
+ASD|Autism spectrum disorder|Physical Medicine & Rehab
+ADHD|Attention-deficit hyperactivity disorder|Physical Medicine & Rehab
+DD|Developmental delay|Physical Medicine & Rehab
+GDD|Global developmental delay|Physical Medicine & Rehab
+DCD|Developmental coordination disorder|Physical Medicine & Rehab
+AMC|Arthrogryposis multiplex congenita|Physical Medicine & Rehab
+OBPI|Obstetric brachial plexus injury|Physical Medicine & Rehab
+NBPP|Neonatal brachial plexus palsy|Physical Medicine & Rehab
+DDH|Developmental dysplasia of the hip|Physical Medicine & Rehab
+SCFE|Slipped capital femoral epiphysis|Physical Medicine & Rehab
+CTEV|Congenital talipes equinovarus|Physical Medicine & Rehab
+AIS|Adolescent idiopathic scoliosis|Physical Medicine & Rehab
+IS|Idiopathic scoliosis|Physical Medicine & Rehab
+EOS|Early-onset scoliosis|Physical Medicine & Rehab
+MMC|Myelomeningocele|Physical Medicine & Rehab
+TCS|Tethered cord syndrome|Physical Medicine & Rehab

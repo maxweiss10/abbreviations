@@ -1,0 +1,593 @@
+ORIF|Open reduction and internal fixation|Orthopedics
+CRPP|Closed reduction and percutaneous pinning|Orthopedics
+CRIF|Closed reduction and internal fixation|Orthopedics
+IMN|Intramedullary nail|Orthopedics
+IM nail|Intramedullary nail|Orthopedics
+THA|Total hip arthroplasty|Orthopedics
+TKA|Total knee arthroplasty|Orthopedics
+TJA|Total joint arthroplasty|Orthopedics
+THR|Total hip replacement|Orthopedics
+TKR|Total knee replacement|Orthopedics
+TSA|Total shoulder arthroplasty|Orthopedics
+rTSA|Reverse total shoulder arthroplasty|Orthopedics
+RSA|Reverse shoulder arthroplasty|Orthopedics
+TEA|Total elbow arthroplasty|Orthopedics
+TAA|Total ankle arthroplasty|Orthopedics
+UKA|Unicompartmental knee arthroplasty|Orthopedics
+PKA|Partial knee arthroplasty|Orthopedics
+HA|Hemiarthroplasty|Orthopedics
+BHA|Bipolar hemiarthroplasty|Orthopedics
+DHS|Dynamic hip screw|Orthopedics
+CMN|Cephalomedullary nail|Orthopedics
+ACL|Anterior cruciate ligament|Orthopedics
+PCL|Posterior cruciate ligament|Orthopedics
+MCL|Medial collateral ligament|Orthopedics
+LCL|Lateral collateral ligament|Orthopedics
+UCL|Ulnar collateral ligament|Orthopedics
+RCL|Radial collateral ligament|Orthopedics
+PLC|Posterolateral corner|Orthopedics
+PMC|Posteromedial corner|Orthopedics
+ALL|Anterolateral ligament|Orthopedics
+MPFL|Medial patellofemoral ligament|Orthopedics
+ACLR|Anterior cruciate ligament reconstruction|Orthopedics
+PCLR|Posterior cruciate ligament reconstruction|Orthopedics
+LET|Lateral extra-articular tenodesis|Orthopedics
+TT-TG|Tibial tubercle to trochlear groove distance|Orthopedics
+TTO|Tibial tubercle osteotomy|Orthopedics
+HTO|High tibial osteotomy|Orthopedics
+DFO|Distal femoral osteotomy|Orthopedics
+PAO|Periacetabular osteotomy|Orthopedics
+FAI|Femoroacetabular impingement|Orthopedics
+FAIS|Femoroacetabular impingement syndrome|Orthopedics
+DDH|Developmental dysplasia of the hip|Orthopedics
+SCFE|Slipped capital femoral epiphysis|Orthopedics
+SUFE|Slipped upper femoral epiphysis|Orthopedics
+LCP|Legg-Calve-Perthes disease|Orthopedics
+AVN|Avascular necrosis|Orthopedics
+ON|Osteonecrosis|Orthopedics
+ONFH|Osteonecrosis of the femoral head|Orthopedics
+OA|Osteoarthritis|Orthopedics
+RA|Rheumatoid arthritis|Orthopedics
+DJD|Degenerative joint disease|Orthopedics
+DDD|Degenerative disc disease|Orthopedics
+PJI|Periprosthetic joint infection|Orthopedics
+SSI|Surgical site infection|Orthopedics
+DAIR|Debridement, antibiotics and implant retention|Orthopedics
+I&D|Incision and drainage|Orthopedics
+IandD|Incision and drainage|Orthopedics
+DVT|Deep vein thrombosis|Orthopedics
+PE|Pulmonary embolism|Orthopedics
+VTE|Venous thromboembolism|Orthopedics
+SCD|Sequential compression device|Orthopedics
+SCDs|Sequential compression devices|Orthopedics
+ASA|Aspirin|Orthopedics
+LMWH|Low molecular weight heparin|Orthopedics
+DOAC|Direct oral anticoagulant|Orthopedics
+ROM|Range of motion|Orthopedics
+AROM|Active range of motion|Orthopedics
+PROM|Passive range of motion|Orthopedics
+AAROM|Active assisted range of motion|Orthopedics
+CPM|Continuous passive motion|Orthopedics
+ADL|Activities of daily living|Orthopedics
+ADLs|Activities of daily living|Orthopedics
+WBAT|Weight bearing as tolerated|Orthopedics
+PWB|Partial weight bearing|Orthopedics
+TTWB|Toe-touch weight bearing|Orthopedics
+FWB|Full weight bearing|Orthopedics
+NWB|Non-weight bearing|Orthopedics
+FFWB|Foot-flat weight bearing|Orthopedics
+LUE|Left upper extremity|Orthopedics
+RUE|Right upper extremity|Orthopedics
+LLE|Left lower extremity|Orthopedics
+RLE|Right lower extremity|Orthopedics
+BUE|Bilateral upper extremities|Orthopedics
+BLE|Bilateral lower extremities|Orthopedics
+UE|Upper extremity|Orthopedics
+LE|Lower extremity|Orthopedics
+AKA|Above-knee amputation|Orthopedics
+BKA|Below-knee amputation|Orthopedics
+TMA|Transmetatarsal amputation|Orthopedics
+TFA|Transfemoral amputation|Orthopedics
+TTA|Transtibial amputation|Orthopedics
+SLR|Straight leg raise|Orthopedics
+SLRT|Straight leg raise test|Orthopedics
+FABER|Flexion, abduction and external rotation test|Orthopedics
+FADIR|Flexion, adduction and internal rotation test|Orthopedics
+ER|External rotation|Orthopedics
+IR|Internal rotation|Orthopedics
+ABD|Abduction|Orthopedics
+ADD|Adduction|Orthopedics
+FLX|Flexion|Orthopedics
+EXT|Extension|Orthopedics
+MMT|Manual muscle testing|Orthopedics
+DTR|Deep tendon reflex|Orthopedics
+DTRs|Deep tendon reflexes|Orthopedics
+NVI|Neurovascularly intact|Orthopedics
+NVID|Neurovascularly intact distally|Orthopedics
+SILT|Sensation intact to light touch|Orthopedics
+NVS|Neurovascular status|Orthopedics
+CRT|Capillary refill time|Orthopedics
+WWP|Warm and well perfused|Orthopedics
+TTP|Tender to palpation|Orthopedics
+NTTP|Non-tender to palpation|Orthopedics
+FROM|Full range of motion|Orthopedics
+NROM|Normal range of motion|Orthopedics
+EHL|Extensor hallucis longus|Orthopedics
+FHL|Flexor hallucis longus|Orthopedics
+FDL|Flexor digitorum longus|Orthopedics
+FDP|Flexor digitorum profundus|Orthopedics
+FDS|Flexor digitorum superficialis|Orthopedics
+FCR|Flexor carpi radialis|Orthopedics
+FCU|Flexor carpi ulnaris|Orthopedics
+ECRL|Extensor carpi radialis longus|Orthopedics
+ECRB|Extensor carpi radialis brevis|Orthopedics
+ECU|Extensor carpi ulnaris|Orthopedics
+EDC|Extensor digitorum communis|Orthopedics
+EIP|Extensor indicis proprius|Orthopedics
+EPL|Extensor pollicis longus|Orthopedics
+EPB|Extensor pollicis brevis|Orthopedics
+APL|Abductor pollicis longus|Orthopedics
+APB|Abductor pollicis brevis|Orthopedics
+FPL|Flexor pollicis longus|Orthopedics
+AIN|Anterior interosseous nerve|Orthopedics
+PIN|Posterior interosseous nerve|Orthopedics
+TA|Tibialis anterior|Orthopedics
+TP|Tibialis posterior|Orthopedics
+PTT|Posterior tibial tendon|Orthopedics
+PTTD|Posterior tibial tendon dysfunction|Orthopedics
+AFO|Ankle-foot orthosis|Orthopedics
+KAFO|Knee-ankle-foot orthosis|Orthopedics
+HKAFO|Hip-knee-ankle-foot orthosis|Orthopedics
+TLSO|Thoracolumbosacral orthosis|Orthopedics
+LSO|Lumbosacral orthosis|Orthopedics
+CTLSO|Cervicothoracolumbosacral orthosis|Orthopedics
+CTO|Cervicothoracic orthosis|Orthopedics
+WHO|Wrist-hand orthosis|Orthopedics
+CAM|Controlled ankle motion boot|Orthopedics
+CAM boot|Controlled ankle motion walking boot|Orthopedics
+SLC|Short leg cast|Orthopedics
+LLC|Long leg cast|Orthopedics
+SAC|Short arm cast|Orthopedics
+LAC|Long arm cast|Orthopedics
+SLS|Short leg splint|Orthopedics
+LLS|Long leg splint|Orthopedics
+SAS|Short arm splint|Orthopedics
+LAS|Long arm splint|Orthopedics
+SLWC|Short leg walking cast|Orthopedics
+LLWC|Long leg walking cast|Orthopedics
+ROM brace|Range-of-motion brace|Orthopedics
+WBS|Weight-bearing status|Orthopedics
+TLICS|Thoracolumbar injury classification and severity score|Orthopedics
+SLIC|Subaxial cervical spine injury classification|Orthopedics
+ACDF|Anterior cervical discectomy and fusion|Orthopedics
+ACCF|Anterior cervical corpectomy and fusion|Orthopedics
+CDA|Cervical disc arthroplasty|Orthopedics
+TDR|Total disc replacement|Orthopedics
+PCF|Posterior cervical fusion|Orthopedics
+PLF|Posterolateral fusion|Orthopedics
+PLIF|Posterior lumbar interbody fusion|Orthopedics
+TLIF|Transforaminal lumbar interbody fusion|Orthopedics
+ALIF|Anterior lumbar interbody fusion|Orthopedics
+LLIF|Lateral lumbar interbody fusion|Orthopedics
+XLIF|Extreme lateral interbody fusion|Orthopedics
+OLIF|Oblique lumbar interbody fusion|Orthopedics
+MIS-TLIF|Minimally invasive transforaminal lumbar interbody fusion|Orthopedics
+MIS|Minimally invasive surgery|Orthopedics
+ALD|Adjacent level disease|Orthopedics
+ASD|Adjacent segment disease|Orthopedics
+LSS|Lumbar spinal stenosis|Orthopedics
+CSM|Cervical spondylotic myelopathy|Orthopedics
+DCM|Degenerative cervical myelopathy|Orthopedics
+OPLL|Ossification of the posterior longitudinal ligament|Orthopedics
+DISH|Diffuse idiopathic skeletal hyperostosis|Orthopedics
+AS|Ankylosing spondylitis|Orthopedics
+AIS|Adolescent idiopathic scoliosis|Orthopedics
+EOS|Early-onset scoliosis|Orthopedics
+SI|Sacroiliac|Orthopedics
+SIJ|Sacroiliac joint|Orthopedics
+HNP|Herniated nucleus pulposus|Orthopedics
+HLD|Herniated lumbar disc|Orthopedics
+HCD|Herniated cervical disc|Orthopedics
+LBP|Low back pain|Orthopedics
+NSLBP|Nonspecific low back pain|Orthopedics
+CES|Cauda equina syndrome|Orthopedics
+SCI|Spinal cord injury|Orthopedics
+SCIWORA|Spinal cord injury without radiographic abnormality|Orthopedics
+VCR|Vertebral column resection|Orthopedics
+VCD|Vertebral column decancellation|Orthopedics
+VCF|Vertebral compression fracture|Orthopedics
+VP|Vertebroplasty|Orthopedics
+KP|Kyphoplasty|Orthopedics
+PVA|Percutaneous vertebral augmentation|Orthopedics
+ESI|Epidural steroid injection|Orthopedics
+TFESI|Transforaminal epidural steroid injection|Orthopedics
+ILESI|Interlaminar epidural steroid injection|Orthopedics
+CESI|Cervical epidural steroid injection|Orthopedics
+LESI|Lumbar epidural steroid injection|Orthopedics
+MBB|Medial branch block|Orthopedics
+RFA|Radiofrequency ablation|Orthopedics
+SCS|Spinal cord stimulator|Orthopedics
+IONM|Intraoperative neuromonitoring|Orthopedics
+SSEP|Somatosensory evoked potentials|Orthopedics
+MEP|Motor evoked potentials|Orthopedics
+EMG|Electromyography|Orthopedics
+NCS|Nerve conduction studies|Orthopedics
+NCV|Nerve conduction velocity|Orthopedics
+EMG/NCS|Electromyography and nerve conduction studies|Orthopedics
+CTS|Carpal tunnel syndrome|Orthopedics
+CuTS|Cubital tunnel syndrome|Orthopedics
+CTR|Carpal tunnel release|Orthopedics
+TOS|Thoracic outlet syndrome|Orthopedics
+CRPS|Complex regional pain syndrome|Orthopedics
+RSD|Reflex sympathetic dystrophy|Orthopedics
+TFCC|Triangular fibrocartilage complex|Orthopedics
+DRUJ|Distal radioulnar joint|Orthopedics
+DRF|Distal radius fracture|Orthopedics
+CMC|Carpometacarpal|Orthopedics
+MCP|Metacarpophalangeal|Orthopedics
+MCPJ|Metacarpophalangeal joint|Orthopedics
+PIP|Proximal interphalangeal|Orthopedics
+PIPJ|Proximal interphalangeal joint|Orthopedics
+DIP|Distal interphalangeal|Orthopedics
+DIPJ|Distal interphalangeal joint|Orthopedics
+IP|Interphalangeal|Orthopedics
+IPJ|Interphalangeal joint|Orthopedics
+MTP|Metatarsophalangeal|Orthopedics
+MTPJ|Metatarsophalangeal joint|Orthopedics
+TMT|Tarsometatarsal|Orthopedics
+STJ|Subtalar joint|Orthopedics
+TNJ|Talonavicular joint|Orthopedics
+TTC|Tibiotalocalcaneal|Orthopedics
+TTC fusion|Tibiotalocalcaneal arthrodesis|Orthopedics
+ATFL|Anterior talofibular ligament|Orthopedics
+CFL|Calcaneofibular ligament|Orthopedics
+PTFL|Posterior talofibular ligament|Orthopedics
+AITFL|Anterior inferior tibiofibular ligament|Orthopedics
+PITFL|Posterior inferior tibiofibular ligament|Orthopedics
+IOM|Interosseous membrane|Orthopedics
+OCD|Osteochondritis dissecans|Orthopedics
+OCL|Osteochondral lesion|Orthopedics
+OAT|Osteochondral autograft transfer|Orthopedics
+OATS|Osteochondral autograft transfer system|Orthopedics
+ACI|Autologous chondrocyte implantation|Orthopedics
+MACI|Matrix-assisted autologous chondrocyte implantation|Orthopedics
+MFx|Microfracture|Orthopedics
+OCA|Osteochondral allograft|Orthopedics
+MAT|Meniscal allograft transplantation|Orthopedics
+APM|Arthroscopic partial meniscectomy|Orthopedics
+PM|Partial meniscectomy|Orthopedics
+TM|Total meniscectomy|Orthopedics
+MM|Medial meniscus|Orthopedics
+LM|Lateral meniscus|Orthopedics
+PFPS|Patellofemoral pain syndrome|Orthopedics
+ITB|Iliotibial band|Orthopedics
+ITBS|Iliotibial band syndrome|Orthopedics
+MTSS|Medial tibial stress syndrome|Orthopedics
+GTPS|Greater trochanteric pain syndrome|Orthopedics
+HAGL|Humeral avulsion of the glenohumeral ligament|Orthopedics
+SLAP|Superior labrum anterior to posterior tear|Orthopedics
+SLAP tear|Superior labrum anterior to posterior tear|Orthopedics
+RC|Rotator cuff|Orthopedics
+RCT|Rotator cuff tear|Orthopedics
+RCR|Rotator cuff repair|Orthopedics
+RCA|Rotator cuff arthropathy|Orthopedics
+SS|Supraspinatus|Orthopedics
+IS|Infraspinatus|Orthopedics
+SSc|Subscapularis|Orthopedics
+LHB|Long head of biceps|Orthopedics
+LHBT|Long head of biceps tendon|Orthopedics
+DBT|Distal biceps tendon|Orthopedics
+SAD|Subacromial decompression|Orthopedics
+ASAD|Arthroscopic subacromial decompression|Orthopedics
+AC|Acromioclavicular|Orthopedics
+ACJ|Acromioclavicular joint|Orthopedics
+SC|Sternoclavicular|Orthopedics
+SCJ|Sternoclavicular joint|Orthopedics
+GH|Glenohumeral|Orthopedics
+GHJ|Glenohumeral joint|Orthopedics
+CC|Coracoclavicular|Orthopedics
+CA|Coracoacromial|Orthopedics
+CAL|Coracoacromial ligament|Orthopedics
+AMBRI|Atraumatic, multidirectional, bilateral, rehabilitation, inferior capsular shift|Orthopedics
+TUBS|Traumatic, unilateral, Bankart lesion, surgery|Orthopedics
+ABER|Abduction and external rotation|Orthopedics
+GIRD|Glenohumeral internal rotation deficit|Orthopedics
+MUA|Manipulation under anesthesia|Orthopedics
+EUA|Examination under anesthesia|Orthopedics
+ORIF|Open reduction internal fixation|Orthopedics
+CR|Closed reduction|Orthopedics
+EF|External fixation|Orthopedics
+ex-fix|External fixator|Orthopedics
+IF|Internal fixation|Orthopedics
+Fx|Fracture|Orthopedics
+fx|Fracture|Orthopedics
+Dx|Diagnosis|Orthopedics
+s/p|Status post|Orthopedics
+POD|Postoperative day|Orthopedics
+HD|Hospital day|Orthopedics
+DOS|Date of surgery|Orthopedics
+DOI|Date of injury|Orthopedics
+PT|Physical therapy|Orthopedics
+OT|Occupational therapy|Orthopedics
+HEP|Home exercise program|Orthopedics
+SNF|Skilled nursing facility|Orthopedics
+IRF|Inpatient rehabilitation facility|Orthopedics
+SAR|Subacute rehabilitation|Orthopedics
+LOS|Length of stay|Orthopedics
+DME|Durable medical equipment|Orthopedics
+FWW|Front-wheeled walker|Orthopedics
+RW|Rolling walker|Orthopedics
+SPC|Single-point cane|Orthopedics
+SBA|Stand-by assist|Orthopedics
+CGA|Contact guard assist|Orthopedics
+Min A|Minimal assistance|Orthopedics
+Mod A|Moderate assistance|Orthopedics
+Max A|Maximal assistance|Orthopedics
+PRN|As needed|Orthopedics
+NSAID|Nonsteroidal anti-inflammatory drug|Orthopedics
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Orthopedics
+APAP|Acetaminophen|Orthopedics
+PCA|Patient-controlled analgesia|Orthopedics
+PNB|Peripheral nerve block|Orthopedics
+ISB|Interscalene block|Orthopedics
+ACB|Adductor canal block|Orthopedics
+FNB|Femoral nerve block|Orthopedics
+FICB|Fascia iliaca compartment block|Orthopedics
+PENG|Pericapsular nerve group block|Orthopedics
+SNB|Sciatic nerve block|Orthopedics
+MAC|Monitored anesthesia care|Orthopedics
+LMA|Laryngeal mask airway|Orthopedics
+TXA|Tranexamic acid|Orthopedics
+EBL|Estimated blood loss|Orthopedics
+PRBC|Packed red blood cells|Orthopedics
+Hgb|Hemoglobin|Orthopedics
+Hct|Hematocrit|Orthopedics
+ESR|Erythrocyte sedimentation rate|Orthopedics
+CRP|C-reactive protein|Orthopedics
+WBC|White blood cell count|Orthopedics
+CK|Creatine kinase|Orthopedics
+ALP|Alkaline phosphatase|Orthopedics
+PTH|Parathyroid hormone|Orthopedics
+PSA|Prostate-specific antigen|Orthopedics
+SPEP|Serum protein electrophoresis|Orthopedics
+UPEP|Urine protein electrophoresis|Orthopedics
+25-OH D|25-hydroxyvitamin D|Orthopedics
+BMD|Bone mineral density|Orthopedics
+DXA|Dual-energy x-ray absorptiometry|Orthopedics
+DEXA|Dual-energy x-ray absorptiometry|Orthopedics
+BMI|Body mass index|Orthopedics
+OP|Osteoporosis|Orthopedics
+OI|Osteogenesis imperfecta|Orthopedics
+FD|Fibrous dysplasia|Orthopedics
+NOF|Neck of femur|Orthopedics
+FNF|Femoral neck fracture|Orthopedics
+ITF|Intertrochanteric fracture|Orthopedics
+DFF|Distal femur fracture|Orthopedics
+PPF|Periprosthetic fracture|Orthopedics
+PFF|Periprosthetic femur fracture|Orthopedics
+PHF|Proximal humerus fracture|Orthopedics
+DHF|Distal humerus fracture|Orthopedics
+BBFA|Both bone forearm fracture|Orthopedics
+BBFF|Both bone forearm fracture|Orthopedics
+SCHF|Supracondylar humerus fracture|Orthopedics
+TPF|Tibial plateau fracture|Orthopedics
+TSF|Tibial shaft fracture|Orthopedics
+BMA|Bimalleolar ankle fracture|Orthopedics
+LC|Lateral compression|Orthopedics
+APC|Anteroposterior compression|Orthopedics
+VS|Vertical shear|Orthopedics
+CM|Combined mechanism|Orthopedics
+SI screw|Sacroiliac screw|Orthopedics
+AIIS|Anterior inferior iliac spine|Orthopedics
+ASIS|Anterior superior iliac spine|Orthopedics
+PSIS|Posterior superior iliac spine|Orthopedics
+PIIS|Posterior inferior iliac spine|Orthopedics
+GT|Greater trochanter|Orthopedics
+LT|Lesser trochanter|Orthopedics
+GTO|Greater tuberosity|Orthopedics
+LTO|Lesser tuberosity|Orthopedics
+MFC|Medial femoral condyle|Orthopedics
+LFC|Lateral femoral condyle|Orthopedics
+LTP|Lateral tibial plateau|Orthopedics
+PF|Patellofemoral|Orthopedics
+PFJ|Patellofemoral joint|Orthopedics
+TFJ|Tibiofemoral joint|Orthopedics
+AP|Anteroposterior|Orthopedics
+PA|Posteroanterior|Orthopedics
+Lat|Lateral view|Orthopedics
+Obl|Oblique view|Orthopedics
+XR|X-ray|Orthopedics
+CT|Computed tomography|Orthopedics
+MRI|Magnetic resonance imaging|Orthopedics
+MRA|Magnetic resonance arthrography|Orthopedics
+CTA|Computed tomography angiography|Orthopedics
+US|Ultrasound|Orthopedics
+FL|Fluoroscopy|Orthopedics
+C-arm|C-arm fluoroscopy|Orthopedics
+SPECT|Single-photon emission computed tomography|Orthopedics
+PET|Positron emission tomography|Orthopedics
+STIR|Short tau inversion recovery|Orthopedics
+T1W|T1-weighted|Orthopedics
+T2W|T2-weighted|Orthopedics
+PD|Proton density|Orthopedics
+FS|Fat saturated|Orthopedics
+PDFS|Proton density fat saturated|Orthopedics
+GRE|Gradient echo|Orthopedics
+DWI|Diffusion-weighted imaging|Orthopedics
+SPGR|Spoiled gradient echo|Orthopedics
+ABI|Ankle-brachial index|Orthopedics
+TBI|Toe-brachial index|Orthopedics
+ABG|Arterial blood gas|Orthopedics
+CPN|Common peroneal nerve|Orthopedics
+SPN|Superficial peroneal nerve|Orthopedics
+DPN|Deep peroneal nerve|Orthopedics
+TN|Tibial nerve|Orthopedics
+PTN|Posterior tibial nerve|Orthopedics
+LFCN|Lateral femoral cutaneous nerve|Orthopedics
+LCFA|Lateral circumflex femoral artery|Orthopedics
+MCFA|Medial circumflex femoral artery|Orthopedics
+SGN|Superior gluteal nerve|Orthopedics
+SFA|Superficial femoral artery|Orthopedics
+PTA|Posterior tibial artery|Orthopedics
+ATA|Anterior tibial artery|Orthopedics
+DP|Dorsalis pedis|Orthopedics
+CS|Compartment syndrome|Orthopedics
+ACS|Acute compartment syndrome|Orthopedics
+NPWT|Negative pressure wound therapy|Orthopedics
+STSG|Split-thickness skin graft|Orthopedics
+FTSG|Full-thickness skin graft|Orthopedics
+ALT|Anterolateral thigh flap|Orthopedics
+MRSA|Methicillin-resistant Staphylococcus aureus|Orthopedics
+MSSA|Methicillin-sensitive Staphylococcus aureus|Orthopedics
+CoNS|Coagulase-negative staphylococci|Orthopedics
+OM|Osteomyelitis|Orthopedics
+SA|Septic arthritis|Orthopedics
+DFI|Diabetic foot infection|Orthopedics
+DFU|Diabetic foot ulcer|Orthopedics
+PAD|Peripheral arterial disease|Orthopedics
+PVD|Peripheral vascular disease|Orthopedics
+HO|Heterotopic ossification|Orthopedics
+LLD|Leg length discrepancy|Orthopedics
+CTEV|Congenital talipes equinovarus|Orthopedics
+CMT|Congenital muscular torticollis|Orthopedics
+CP|Cerebral palsy|Orthopedics
+AMC|Arthrogryposis multiplex congenita|Orthopedics
+MHE|Multiple hereditary exostoses|Orthopedics
+OS|Osteosarcoma|Orthopedics
+ES|Ewing sarcoma|Orthopedics
+GCT|Giant cell tumor|Orthopedics
+GCTB|Giant cell tumor of bone|Orthopedics
+UBC|Unicameral bone cyst|Orthopedics
+ABC|Aneurysmal bone cyst|Orthopedics
+LCH|Langerhans cell histiocytosis|Orthopedics
+PVNS|Pigmented villonodular synovitis|Orthopedics
+TGCT|Tenosynovial giant cell tumor|Orthopedics
+STS|Soft tissue sarcoma|Orthopedics
+MFH|Malignant fibrous histiocytoma|Orthopedics
+UPS|Undifferentiated pleomorphic sarcoma|Orthopedics
+MPNST|Malignant peripheral nerve sheath tumor|Orthopedics
+PMMA|Polymethylmethacrylate bone cement|Orthopedics
+HXLPE|Highly cross-linked polyethylene|Orthopedics
+UHMWPE|Ultra-high molecular weight polyethylene|Orthopedics
+CoCr|Cobalt-chromium|Orthopedics
+MoM|Metal-on-metal|Orthopedics
+MoP|Metal-on-polyethylene|Orthopedics
+CoP|Ceramic-on-polyethylene|Orthopedics
+CoC|Ceramic-on-ceramic|Orthopedics
+ARMD|Adverse reaction to metal debris|Orthopedics
+ALVAL|Aseptic lymphocyte-dominated vasculitis-associated lesion|Orthopedics
+ALTR|Adverse local tissue reaction|Orthopedics
+TJR|Total joint replacement|Orthopedics
+ROS|Review of systems|Orthopedics
+CPPD|Calcium pyrophosphate dihydrate deposition disease|Orthopedics
+MSU|Monosodium urate|Orthopedics
+JIA|Juvenile idiopathic arthritis|Orthopedics
+PsA|Psoriatic arthritis|Orthopedics
+SLE|Systemic lupus erythematosus|Orthopedics
+PMR|Polymyalgia rheumatica|Orthopedics
+DMARD|Disease-modifying antirheumatic drug|Orthopedics
+TNF|Tumor necrosis factor|Orthopedics
+IA|Intra-articular|Orthopedics
+IA injection|Intra-articular injection|Orthopedics
+CSI|Corticosteroid injection|Orthopedics
+HA injection|Hyaluronic acid injection|Orthopedics
+PRP|Platelet-rich plasma|Orthopedics
+BMAC|Bone marrow aspirate concentrate|Orthopedics
+DBM|Demineralized bone matrix|Orthopedics
+BMP|Bone morphogenetic protein|Orthopedics
+ICBG|Iliac crest bone graft|Orthopedics
+RIA|Reamer-irrigator-aspirator|Orthopedics
+VFG|Vascularized fibular graft|Orthopedics
+LIPUS|Low-intensity pulsed ultrasound|Orthopedics
+PEMF|Pulsed electromagnetic field|Orthopedics
+TENS|Transcutaneous electrical nerve stimulation|Orthopedics
+NMES|Neuromuscular electrical stimulation|Orthopedics
+CKC|Closed kinetic chain|Orthopedics
+OKC|Open kinetic chain|Orthopedics
+RICE|Rest, ice, compression, elevation|Orthopedics
+PRICE|Protection, rest, ice, compression, elevation|Orthopedics
+STM|Soft tissue mobilization|Orthopedics
+VAS|Visual analog scale|Orthopedics
+NRS|Numeric rating scale|Orthopedics
+PROMs|Patient-reported outcome measures|Orthopedics
+PRO|Patient-reported outcome|Orthopedics
+KOOS|Knee injury and osteoarthritis outcome score|Orthopedics
+HOOS|Hip disability and osteoarthritis outcome score|Orthopedics
+WOMAC|Western Ontario and McMaster Universities osteoarthritis index|Orthopedics
+IKDC|International Knee Documentation Committee score|Orthopedics
+KSS|Knee Society score|Orthopedics
+HHS|Harris hip score|Orthopedics
+OHS|Oxford hip score|Orthopedics
+OKS|Oxford knee score|Orthopedics
+DASH|Disabilities of the arm, shoulder and hand score|Orthopedics
+QuickDASH|Short version of the disabilities of the arm, shoulder and hand score|Orthopedics
+SANE|Single assessment numeric evaluation|Orthopedics
+FAAM|Foot and ankle ability measure|Orthopedics
+FFI|Foot function index|Orthopedics
+ODI|Oswestry disability index|Orthopedics
+NDI|Neck disability index|Orthopedics
+SF-36|Short form 36 health survey|Orthopedics
+PROMIS|Patient-reported outcomes measurement information system|Orthopedics
+MCID|Minimal clinically important difference|Orthopedics
+PASS|Patient acceptable symptom state|Orthopedics
+SCB|Substantial clinical benefit|Orthopedics
+ASA class|American Society of Anesthesiologists physical status class|Orthopedics
+NPO|Nothing by mouth|Orthopedics
+OR|Operating room|Orthopedics
+PACU|Postanesthesia care unit|Orthopedics
+IV|Intravenous|Orthopedics
+IVF|Intravenous fluids|Orthopedics
+PO|By mouth|Orthopedics
+IM|Intramuscular|Orthopedics
+SQ|Subcutaneous|Orthopedics
+CHG|Chlorhexidine gluconate|Orthopedics
+ABX|Antibiotics|Orthopedics
+Abx ppx|Antibiotic prophylaxis|Orthopedics
+BTB|Bone-patellar tendon-bone graft|Orthopedics
+BPTB|Bone-patellar tendon-bone graft|Orthopedics
+HT|Hamstring tendon graft|Orthopedics
+QT|Quadriceps tendon graft|Orthopedics
+STG|Semitendinosus-gracilis graft|Orthopedics
+SB|Single bundle|Orthopedics
+DB|Double bundle|Orthopedics
+AM|Anteromedial|Orthopedics
+AL|Anterolateral|Orthopedics
+PL|Posterolateral|Orthopedics
+LSI|Limb symmetry index|Orthopedics
+RTS|Return to sport|Orthopedics
+RTP|Return to play|Orthopedics
+ERAS|Enhanced recovery after surgery|Orthopedics
+FRAX|Fracture risk assessment tool|Orthopedics
+FLS|Fracture liaison service|Orthopedics
+BP|Bisphosphonate|Orthopedics
+AFF|Atypical femoral fracture|Orthopedics
+SERM|Selective estrogen receptor modulator|Orthopedics
+BTM|Bone turnover marker|Orthopedics
+CTX|C-terminal telopeptide of type I collagen|Orthopedics
+P1NP|Procollagen type 1 N-terminal propeptide|Orthopedics
+HPF|High-power field|Orthopedics
+PMN|Polymorphonuclear leukocytes|Orthopedics
+AD|Alpha-defensin|Orthopedics
+LE strip|Leukocyte esterase strip|Orthopedics
+SF|Synovial fluid|Orthopedics
+SFWBC|Synovial fluid white blood cell count|Orthopedics
+EOD|Every other day|Orthopedics
+BID|Twice daily|Orthopedics
+TID|Three times daily|Orthopedics
+QID|Four times daily|Orthopedics
+QD|Once daily|Orthopedics
+HS|At bedtime|Orthopedics
+q4h|Every 4 hours|Orthopedics
+q6h|Every 6 hours|Orthopedics
+q8h|Every 8 hours|Orthopedics
+UTI|Urinary tract infection|Orthopedics
+AKI|Acute kidney injury|Orthopedics
+CKD|Chronic kidney disease|Orthopedics
+DM|Diabetes mellitus|Orthopedics
+HTN|Hypertension|Orthopedics
+CAD|Coronary artery disease|Orthopedics
+COPD|Chronic obstructive pulmonary disease|Orthopedics
+OSA|Obstructive sleep apnea|Orthopedics
+PSO|Pedicle subtraction osteotomy|Orthopedics
+HA|Hyaluronic acid|Orthopedics
+OLT|Osteochondral lesion of the talus|Orthopedics

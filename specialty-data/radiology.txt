@@ -1,0 +1,675 @@
+CT|Computed tomography|Radiology
+CTA|Computed tomography angiography|Radiology
+CTV|Computed tomography venography|Radiology
+CTPA|Computed tomography pulmonary angiogram|Radiology
+CECT|Contrast-enhanced computed tomography|Radiology
+NCCT|Non-contrast computed tomography|Radiology
+HRCT|High-resolution computed tomography|Radiology
+MDCT|Multidetector computed tomography|Radiology
+CTU|Computed tomography urography|Radiology
+CTC|Computed tomography colonography|Radiology
+CTP|Computed tomography perfusion|Radiology
+CTAP|Computed tomography of the abdomen and pelvis|Radiology
+CTAP|Computed tomography arterial portography|Radiology
+CTEPH|Chronic thromboembolic pulmonary hypertension|Radiology
+CTCA|Computed tomography coronary angiography|Radiology
+CCTA|Coronary computed tomography angiography|Radiology
+CAC|Coronary artery calcium|Radiology
+CACS|Coronary artery calcium score|Radiology
+DECT|Dual-energy computed tomography|Radiology
+SPECT|Single-photon emission computed tomography|Radiology
+PET|Positron emission tomography|Radiology
+PET/CT|Positron emission tomography combined with computed tomography|Radiology
+PET/MR|Positron emission tomography combined with magnetic resonance imaging|Radiology
+FDG|Fluorodeoxyglucose|Radiology
+SUV|Standardized uptake value|Radiology
+SUVmax|Maximum standardized uptake value|Radiology
+MRI|Magnetic resonance imaging|Radiology
+MR|Magnetic resonance|Radiology
+MRA|Magnetic resonance angiography|Radiology
+MRV|Magnetic resonance venography|Radiology
+MRCP|Magnetic resonance cholangiopancreatography|Radiology
+MRE|Magnetic resonance enterography|Radiology
+MRE|Magnetic resonance elastography|Radiology
+MRS|Magnetic resonance spectroscopy|Radiology
+fMRI|Functional magnetic resonance imaging|Radiology
+DWI|Diffusion-weighted imaging|Radiology
+DTI|Diffusion tensor imaging|Radiology
+ADC|Apparent diffusion coefficient|Radiology
+PWI|Perfusion-weighted imaging|Radiology
+FLAIR|Fluid-attenuated inversion recovery|Radiology
+T1W|T1-weighted|Radiology
+T2W|T2-weighted|Radiology
+T1WI|T1-weighted image|Radiology
+T2WI|T2-weighted image|Radiology
+STIR|Short tau inversion recovery|Radiology
+SWI|Susceptibility-weighted imaging|Radiology
+GRE|Gradient recalled echo|Radiology
+SE|Spin echo|Radiology
+FSE|Fast spin echo|Radiology
+TSE|Turbo spin echo|Radiology
+EPI|Echo planar imaging|Radiology
+TOF|Time of flight|Radiology
+PC|Phase contrast|Radiology
+TR|Repetition time|Radiology
+TE|Echo time|Radiology
+TI|Inversion time|Radiology
+FOV|Field of view|Radiology
+MIP|Maximum intensity projection|Radiology
+MPR|Multiplanar reformat|Radiology
+VR|Volume rendering|Radiology
+SSD|Shaded surface display|Radiology
+CPR|Curved planar reformat|Radiology
+MinIP|Minimum intensity projection|Radiology
+HU|Hounsfield unit|Radiology
+GBCA|Gadolinium-based contrast agent|Radiology
+NSF|Nephrogenic systemic fibrosis|Radiology
+CIN|Contrast-induced nephropathy|Radiology
+CI-AKI|Contrast-induced acute kidney injury|Radiology
+CA-AKI|Contrast-associated acute kidney injury|Radiology
+IV|Intravenous|Radiology
+PO|By mouth|Radiology
+PR|Per rectum|Radiology
+SPIO|Superparamagnetic iron oxide|Radiology
+USPIO|Ultrasmall superparamagnetic iron oxide|Radiology
+MIBG|Metaiodobenzylguanidine|Radiology
+PSMA|Prostate-specific membrane antigen|Radiology
+US|Ultrasound|Radiology
+USG|Ultrasonography|Radiology
+TTE|Transthoracic echocardiogram|Radiology
+TEE|Transesophageal echocardiogram|Radiology
+TVUS|Transvaginal ultrasound|Radiology
+TAUS|Transabdominal ultrasound|Radiology
+TRUS|Transrectal ultrasound|Radiology
+EUS|Endoscopic ultrasound|Radiology
+IVUS|Intravascular ultrasound|Radiology
+FAST|Focused assessment with sonography for trauma|Radiology
+EFAST|Extended focused assessment with sonography for trauma|Radiology
+POCUS|Point-of-care ultrasound|Radiology
+CEUS|Contrast-enhanced ultrasound|Radiology
+RUQ|Right upper quadrant|Radiology
+LUQ|Left upper quadrant|Radiology
+RLQ|Right lower quadrant|Radiology
+LLQ|Left lower quadrant|Radiology
+CBD|Common bile duct|Radiology
+CHD|Common hepatic duct|Radiology
+IHD|Intrahepatic ducts|Radiology
+GB|Gallbladder|Radiology
+GBW|Gallbladder wall|Radiology
+PV|Portal vein|Radiology
+SMV|Superior mesenteric vein|Radiology
+SMA|Superior mesenteric artery|Radiology
+IMA|Inferior mesenteric artery|Radiology
+IMV|Inferior mesenteric vein|Radiology
+SV|Splenic vein|Radiology
+IVC|Inferior vena cava|Radiology
+SVC|Superior vena cava|Radiology
+RA|Right atrium|Radiology
+RV|Right ventricle|Radiology
+LA|Left atrium|Radiology
+LV|Left ventricle|Radiology
+LVH|Left ventricular hypertrophy|Radiology
+RVH|Right ventricular hypertrophy|Radiology
+EF|Ejection fraction|Radiology
+LVEF|Left ventricular ejection fraction|Radiology
+RVEF|Right ventricular ejection fraction|Radiology
+LGE|Late gadolinium enhancement|Radiology
+ECV|Extracellular volume|Radiology
+CMR|Cardiac magnetic resonance|Radiology
+CCT|Cardiac computed tomography|Radiology
+MPI|Myocardial perfusion imaging|Radiology
+MUGA|Multigated acquisition scan|Radiology
+PA|Pulmonary artery|Radiology
+PA|Posteroanterior|Radiology
+MPA|Main pulmonary artery|Radiology
+RPA|Right pulmonary artery|Radiology
+LPA|Left pulmonary artery|Radiology
+PE|Pulmonary embolism|Radiology
+DVT|Deep vein thrombosis|Radiology
+RV/LV|Right ventricle to left ventricle diameter ratio|Radiology
+AP|Anteroposterior|Radiology
+PA/LAT|Posteroanterior and lateral|Radiology
+LAT|Lateral|Radiology
+AP/LAT|Anteroposterior and lateral|Radiology
+CXR|Chest x-ray|Radiology
+KUB|Kidneys, ureters and bladder radiograph|Radiology
+AXR|Abdominal x-ray|Radiology
+CTR|Cardiothoracic ratio|Radiology
+LLD|Left lateral decubitus|Radiology
+RLD|Right lateral decubitus|Radiology
+OBL|Oblique|Radiology
+DEXA|Dual-energy x-ray absorptiometry|Radiology
+DXA|Dual-energy x-ray absorptiometry|Radiology
+BMD|Bone mineral density|Radiology
+FL|Fluoroscopy|Radiology
+UGI|Upper gastrointestinal series|Radiology
+SBFT|Small bowel follow-through|Radiology
+BE|Barium enema|Radiology
+VCUG|Voiding cystourethrogram|Radiology
+RUG|Retrograde urethrogram|Radiology
+IVP|Intravenous pyelogram|Radiology
+HSG|Hysterosalpingogram|Radiology
+ERCP|Endoscopic retrograde cholangiopancreatography|Radiology
+PTC|Percutaneous transhepatic cholangiography|Radiology
+PTBD|Percutaneous transhepatic biliary drainage|Radiology
+PTCA|Percutaneous transluminal coronary angioplasty|Radiology
+PTA|Percutaneous transluminal angioplasty|Radiology
+DSA|Digital subtraction angiography|Radiology
+TIPS|Transjugular intrahepatic portosystemic shunt|Radiology
+TACE|Transarterial chemoembolization|Radiology
+TARE|Transarterial radioembolization|Radiology
+SIRT|Selective internal radiation therapy|Radiology
+RFA|Radiofrequency ablation|Radiology
+MWA|Microwave ablation|Radiology
+HIFU|High-intensity focused ultrasound|Radiology
+UAE|Uterine artery embolization|Radiology
+PAE|Prostate artery embolization|Radiology
+BRTO|Balloon-occluded retrograde transvenous obliteration|Radiology
+EVAR|Endovascular aneurysm repair|Radiology
+TEVAR|Thoracic endovascular aortic repair|Radiology
+IVCF|Inferior vena cava filter|Radiology
+PICC|Peripherally inserted central catheter|Radiology
+CVC|Central venous catheter|Radiology
+PAC|Pulmonary artery catheter|Radiology
+ETT|Endotracheal tube|Radiology
+NGT|Nasogastric tube|Radiology
+OGT|Orogastric tube|Radiology
+NJ|Nasojejunal|Radiology
+PEG|Percutaneous endoscopic gastrostomy|Radiology
+PRG|Percutaneous radiologic gastrostomy|Radiology
+PCN|Percutaneous nephrostomy|Radiology
+PCNL|Percutaneous nephrolithotomy|Radiology
+PCD|Percutaneous catheter drainage|Radiology
+IR|Interventional radiology|Radiology
+VIR|Vascular and interventional radiology|Radiology
+FNA|Fine-needle aspiration|Radiology
+CNB|Core needle biopsy|Radiology
+VAB|Vacuum-assisted biopsy|Radiology
+BI-RADS|Breast Imaging Reporting and Data System|Radiology
+LI-RADS|Liver Imaging Reporting and Data System|Radiology
+PI-RADS|Prostate Imaging Reporting and Data System|Radiology
+TI-RADS|Thyroid Imaging Reporting and Data System|Radiology
+O-RADS|Ovarian-Adnexal Reporting and Data System|Radiology
+Lung-RADS|Lung Imaging Reporting and Data System|Radiology
+NI-RADS|Neck Imaging Reporting and Data System|Radiology
+CAD-RADS|Coronary Artery Disease Reporting and Data System|Radiology
+C-RADS|Computed tomography colonography reporting and data system|Radiology
+MRM|Magnetic resonance mammography|Radiology
+DBT|Digital breast tomosynthesis|Radiology
+FFDM|Full-field digital mammography|Radiology
+CC|Craniocaudal|Radiology
+MLO|Mediolateral oblique|Radiology
+ML|Mediolateral|Radiology
+LM|Lateromedial|Radiology
+DCIS|Ductal carcinoma in situ|Radiology
+LCIS|Lobular carcinoma in situ|Radiology
+IDC|Invasive ductal carcinoma|Radiology
+ILC|Invasive lobular carcinoma|Radiology
+FA|Fibroadenoma|Radiology
+ADH|Atypical ductal hyperplasia|Radiology
+ALH|Atypical lobular hyperplasia|Radiology
+UOQ|Upper outer quadrant|Radiology
+UIQ|Upper inner quadrant|Radiology
+LOQ|Lower outer quadrant|Radiology
+LIQ|Lower inner quadrant|Radiology
+SCC|Squamous cell carcinoma|Radiology
+HCC|Hepatocellular carcinoma|Radiology
+RCC|Renal cell carcinoma|Radiology
+TCC|Transitional cell carcinoma|Radiology
+NSCLC|Non-small cell lung cancer|Radiology
+SCLC|Small cell lung cancer|Radiology
+GIST|Gastrointestinal stromal tumor|Radiology
+NET|Neuroendocrine tumor|Radiology
+IPMN|Intraductal papillary mucinous neoplasm|Radiology
+PDAC|Pancreatic ductal adenocarcinoma|Radiology
+FNH|Focal nodular hyperplasia|Radiology
+AML|Angiomyolipoma|Radiology
+CCA|Cholangiocarcinoma|Radiology
+PSC|Primary sclerosing cholangitis|Radiology
+PBC|Primary biliary cholangitis|Radiology
+AIP|Autoimmune pancreatitis|Radiology
+IBD|Inflammatory bowel disease|Radiology
+CD|Crohn disease|Radiology
+UC|Ulcerative colitis|Radiology
+SBO|Small bowel obstruction|Radiology
+LBO|Large bowel obstruction|Radiology
+PSBO|Partial small bowel obstruction|Radiology
+CSBO|Complete small bowel obstruction|Radiology
+GOO|Gastric outlet obstruction|Radiology
+AAA|Abdominal aortic aneurysm|Radiology
+TAA|Thoracic aortic aneurysm|Radiology
+TAD|Thoracic aortic dissection|Radiology
+IMH|Intramural hematoma|Radiology
+PAU|Penetrating atherosclerotic ulcer|Radiology
+AVM|Arteriovenous malformation|Radiology
+AVF|Arteriovenous fistula|Radiology
+DAVF|Dural arteriovenous fistula|Radiology
+CCF|Carotid-cavernous fistula|Radiology
+PAD|Peripheral arterial disease|Radiology
+CLI|Critical limb ischemia|Radiology
+ABI|Ankle-brachial index|Radiology
+FMD|Fibromuscular dysplasia|Radiology
+RAS|Renal artery stenosis|Radiology
+ICA|Internal carotid artery|Radiology
+ECA|External carotid artery|Radiology
+CCA|Common carotid artery|Radiology
+VA|Vertebral artery|Radiology
+BA|Basilar artery|Radiology
+MCA|Middle cerebral artery|Radiology
+ACA|Anterior cerebral artery|Radiology
+PCA|Posterior cerebral artery|Radiology
+ACoA|Anterior communicating artery|Radiology
+PCoA|Posterior communicating artery|Radiology
+PICA|Posterior inferior cerebellar artery|Radiology
+AICA|Anterior inferior cerebellar artery|Radiology
+SCA|Superior cerebellar artery|Radiology
+SFA|Superficial femoral artery|Radiology
+CFA|Common femoral artery|Radiology
+PFA|Profunda femoris artery|Radiology
+CIA|Common iliac artery|Radiology
+EIA|External iliac artery|Radiology
+IIA|Internal iliac artery|Radiology
+GSV|Great saphenous vein|Radiology
+SSV|Small saphenous vein|Radiology
+CFV|Common femoral vein|Radiology
+SFV|Superficial femoral vein|Radiology
+IJ|Internal jugular|Radiology
+IJV|Internal jugular vein|Radiology
+SCV|Subclavian vein|Radiology
+BCV|Brachiocephalic vein|Radiology
+AV|Aortic valve|Radiology
+MV|Mitral valve|Radiology
+TV|Tricuspid valve|Radiology
+PV|Pulmonic valve|Radiology
+ICH|Intracranial hemorrhage|Radiology
+SAH|Subarachnoid hemorrhage|Radiology
+SDH|Subdural hematoma|Radiology
+EDH|Epidural hematoma|Radiology
+IPH|Intraparenchymal hemorrhage|Radiology
+IVH|Intraventricular hemorrhage|Radiology
+SDH|Subdural hemorrhage|Radiology
+TBI|Traumatic brain injury|Radiology
+DAI|Diffuse axonal injury|Radiology
+ASPECTS|Alberta Stroke Program Early CT Score|Radiology
+LVO|Large vessel occlusion|Radiology
+HMCAS|Hyperdense middle cerebral artery sign|Radiology
+CVA|Cerebrovascular accident|Radiology
+TIA|Transient ischemic attack|Radiology
+PRES|Posterior reversible encephalopathy syndrome|Radiology
+RCVS|Reversible cerebral vasoconstriction syndrome|Radiology
+CVST|Cerebral venous sinus thrombosis|Radiology
+SSS|Superior sagittal sinus|Radiology
+ADEM|Acute disseminated encephalomyelitis|Radiology
+NMOSD|Neuromyelitis optica spectrum disorder|Radiology
+PML|Progressive multifocal leukoencephalopathy|Radiology
+NPH|Normal pressure hydrocephalus|Radiology
+CSF|Cerebrospinal fluid|Radiology
+ICP|Intracranial pressure|Radiology
+GBM|Glioblastoma|Radiology
+CNS|Central nervous system|Radiology
+CPA|Cerebellopontine angle|Radiology
+IAC|Internal auditory canal|Radiology
+EAC|External auditory canal|Radiology
+TMJ|Temporomandibular joint|Radiology
+IAM|Internal auditory meatus|Radiology
+CP|Costophrenic|Radiology
+CPA|Costophrenic angle|Radiology
+RLL|Right lower lobe|Radiology
+RML|Right middle lobe|Radiology
+RUL|Right upper lobe|Radiology
+LLL|Left lower lobe|Radiology
+LUL|Left upper lobe|Radiology
+GGO|Ground-glass opacity|Radiology
+GGN|Ground-glass nodule|Radiology
+ILD|Interstitial lung disease|Radiology
+UIP|Usual interstitial pneumonia|Radiology
+NSIP|Nonspecific interstitial pneumonia|Radiology
+OP|Organizing pneumonia|Radiology
+COP|Cryptogenic organizing pneumonia|Radiology
+DIP|Desquamative interstitial pneumonia|Radiology
+LIP|Lymphoid interstitial pneumonia|Radiology
+RB-ILD|Respiratory bronchiolitis-associated interstitial lung disease|Radiology
+HP|Hypersensitivity pneumonitis|Radiology
+IPF|Idiopathic pulmonary fibrosis|Radiology
+ARDS|Acute respiratory distress syndrome|Radiology
+COPD|Chronic obstructive pulmonary disease|Radiology
+CHF|Congestive heart failure|Radiology
+PNA|Pneumonia|Radiology
+PTX|Pneumothorax|Radiology
+HTX|Hemothorax|Radiology
+PLEFF|Pleural effusion|Radiology
+TB|Tuberculosis|Radiology
+LAD|Lymphadenopathy|Radiology
+LN|Lymph node|Radiology
+LNs|Lymph nodes|Radiology
+SAD|Short-axis diameter|Radiology
+LAD|Left anterior descending artery|Radiology
+LCx|Left circumflex artery|Radiology
+RCA|Right coronary artery|Radiology
+LM|Left main coronary artery|Radiology
+PDA|Posterior descending artery|Radiology
+PDA|Patent ductus arteriosus|Radiology
+ASD|Atrial septal defect|Radiology
+VSD|Ventricular septal defect|Radiology
+PFO|Patent foramen ovale|Radiology
+TGA|Transposition of the great arteries|Radiology
+PAPVR|Partial anomalous pulmonary venous return|Radiology
+TAPVR|Total anomalous pulmonary venous return|Radiology
+IAA|Interrupted aortic arch|Radiology
+MAPCA|Major aortopulmonary collateral artery|Radiology
+EVLW|Extravascular lung water|Radiology
+AAS|Acute aortic syndrome|Radiology
+SLE|Systemic lupus erythematosus|Radiology
+RA|Rheumatoid arthritis|Radiology
+OA|Osteoarthritis|Radiology
+DJD|Degenerative joint disease|Radiology
+DDD|Degenerative disc disease|Radiology
+AS|Ankylosing spondylitis|Radiology
+DISH|Diffuse idiopathic skeletal hyperostosis|Radiology
+OPLL|Ossification of the posterior longitudinal ligament|Radiology
+AVN|Avascular necrosis|Radiology
+ON|Osteonecrosis|Radiology
+OM|Osteomyelitis|Radiology
+CRMO|Chronic recurrent multifocal osteomyelitis|Radiology
+CRPS|Complex regional pain syndrome|Radiology
+SCFE|Slipped capital femoral epiphysis|Radiology
+DDH|Developmental dysplasia of the hip|Radiology
+OCD|Osteochondritis dissecans|Radiology
+OCL|Osteochondral lesion|Radiology
+ACL|Anterior cruciate ligament|Radiology
+PCL|Posterior cruciate ligament|Radiology
+MCL|Medial collateral ligament|Radiology
+LCL|Lateral collateral ligament|Radiology
+TFCC|Triangular fibrocartilage complex|Radiology
+SLAP|Superior labrum anterior to posterior|Radiology
+AC|Acromioclavicular|Radiology
+GH|Glenohumeral|Radiology
+SI|Sacroiliac|Radiology
+SIJ|Sacroiliac joint|Radiology
+PF|Patellofemoral|Radiology
+CMC|Carpometacarpal|Radiology
+MCP|Metacarpophalangeal|Radiology
+MTP|Metatarsophalangeal|Radiology
+PIP|Proximal interphalangeal|Radiology
+DIP|Distal interphalangeal|Radiology
+IP|Interphalangeal|Radiology
+TMT|Tarsometatarsal|Radiology
+STJ|Subtalar joint|Radiology
+ATFL|Anterior talofibular ligament|Radiology
+CFL|Calcaneofibular ligament|Radiology
+PTFL|Posterior talofibular ligament|Radiology
+FAI|Femoroacetabular impingement|Radiology
+ORIF|Open reduction and internal fixation|Radiology
+THA|Total hip arthroplasty|Radiology
+TKA|Total knee arthroplasty|Radiology
+TSA|Total shoulder arthroplasty|Radiology
+ACDF|Anterior cervical discectomy and fusion|Radiology
+PLIF|Posterior lumbar interbody fusion|Radiology
+TLIF|Transforaminal lumbar interbody fusion|Radiology
+ALIF|Anterior lumbar interbody fusion|Radiology
+HNP|Herniated nucleus pulposus|Radiology
+LSS|Lumbar spinal stenosis|Radiology
+C-spine|Cervical spine|Radiology
+T-spine|Thoracic spine|Radiology
+L-spine|Lumbar spine|Radiology
+LS|Lumbosacral|Radiology
+CTJ|Cervicothoracic junction|Radiology
+TLJ|Thoracolumbar junction|Radiology
+CCJ|Craniocervical junction|Radiology
+ESR|Erythrocyte sedimentation rate|Radiology
+SCI|Spinal cord injury|Radiology
+SCIWORA|Spinal cord injury without radiographic abnormality|Radiology
+ESI|Epidural steroid injection|Radiology
+MBB|Medial branch block|Radiology
+RFN|Radiofrequency neurotomy|Radiology
+VP|Vertebroplasty|Radiology
+KP|Kyphoplasty|Radiology
+VCF|Vertebral compression fracture|Radiology
+AP|Anteroposterior diameter|Radiology
+ROI|Region of interest|Radiology
+CNR|Contrast-to-noise ratio|Radiology
+SNR|Signal-to-noise ratio|Radiology
+PACS|Picture archiving and communication system|Radiology
+RIS|Radiology information system|Radiology
+DICOM|Digital Imaging and Communications in Medicine standard|Radiology
+CR|Computed radiography|Radiology
+DR|Digital radiography|Radiology
+kVp|Peak kilovoltage|Radiology
+mAs|Milliampere-seconds|Radiology
+mSv|Millisievert|Radiology
+Gy|Gray|Radiology
+Sv|Sievert|Radiology
+CTDIvol|Volume computed tomography dose index|Radiology
+DLP|Dose-length product|Radiology
+DAP|Dose-area product|Radiology
+ALARA|As low as reasonably achievable|Radiology
+SAR|Specific absorption rate|Radiology
+RF|Radiofrequency|Radiology
+IMRT|Intensity-modulated radiation therapy|Radiology
+SBRT|Stereotactic body radiation therapy|Radiology
+SRS|Stereotactic radiosurgery|Radiology
+EBRT|External beam radiation therapy|Radiology
+WBRT|Whole brain radiation therapy|Radiology
+RT|Radiation therapy|Radiology
+XRT|External radiation therapy|Radiology
+GTV|Gross tumor volume|Radiology
+CTV|Clinical target volume|Radiology
+PTV|Planning target volume|Radiology
+RECIST|Response Evaluation Criteria in Solid Tumors|Radiology
+CR|Complete response|Radiology
+PR|Partial response|Radiology
+SD|Stable disease|Radiology
+PD|Progressive disease|Radiology
+TNM|Tumor, node, metastasis staging|Radiology
+mets|Metastases|Radiology
+NED|No evidence of disease|Radiology
+HRCT|High-resolution chest computed tomography|Radiology
+NEC|Necrotizing enterocolitis|Radiology
+RDS|Respiratory distress syndrome|Radiology
+BPD|Bronchopulmonary dysplasia|Radiology
+TTN|Transient tachypnea of the newborn|Radiology
+CDH|Congenital diaphragmatic hernia|Radiology
+CPAM|Congenital pulmonary airway malformation|Radiology
+HPS|Hypertrophic pyloric stenosis|Radiology
+UTI|Urinary tract infection|Radiology
+VUR|Vesicoureteral reflux|Radiology
+UPJ|Ureteropelvic junction|Radiology
+UVJ|Ureterovesical junction|Radiology
+PUV|Posterior urethral valves|Radiology
+DMSA|Dimercaptosuccinic acid renal scan|Radiology
+MAG3|Mercaptoacetyltriglycine renal scan|Radiology
+HIDA|Hepatobiliary iminodiacetic acid scan|Radiology
+VQ|Ventilation-perfusion|Radiology
+V/Q|Ventilation-perfusion scan|Radiology
+GES|Gastric emptying study|Radiology
+Tc-99m|Technetium-99m|Radiology
+Ga-67|Gallium-67|Radiology
+I-131|Iodine-131|Radiology
+I-123|Iodine-123|Radiology
+Tl-201|Thallium-201|Radiology
+RAIU|Radioactive iodine uptake|Radiology
+BPH|Benign prostatic hyperplasia|Radiology
+PSA|Prostate-specific antigen|Radiology
+TZ|Transition zone|Radiology
+PZ|Peripheral zone|Radiology
+CZ|Central zone|Radiology
+ECE|Extracapsular extension|Radiology
+SVI|Seminal vesicle invasion|Radiology
+PCOS|Polycystic ovary syndrome|Radiology
+IUP|Intrauterine pregnancy|Radiology
+IUD|Intrauterine device|Radiology
+EP|Ectopic pregnancy|Radiology
+POC|Products of conception|Radiology
+RPOC|Retained products of conception|Radiology
+GA|Gestational age|Radiology
+CRL|Crown-rump length|Radiology
+BPD|Biparietal diameter|Radiology
+HC|Head circumference|Radiology
+AC|Abdominal circumference|Radiology
+FL|Femur length|Radiology
+EFW|Estimated fetal weight|Radiology
+AFI|Amniotic fluid index|Radiology
+MVP|Maximal vertical pocket|Radiology
+IUGR|Intrauterine growth restriction|Radiology
+FGR|Fetal growth restriction|Radiology
+LMP|Last menstrual period|Radiology
+EDD|Estimated date of delivery|Radiology
+NT|Nuchal translucency|Radiology
+TRAP|Twin reversed arterial perfusion|Radiology
+TTTS|Twin-twin transfusion syndrome|Radiology
+RI|Resistive index|Radiology
+PI|Pulsatility index|Radiology
+PSV|Peak systolic velocity|Radiology
+EDV|End-diastolic velocity|Radiology
+MCA-PSV|Middle cerebral artery peak systolic velocity|Radiology
+TCD|Transcranial Doppler|Radiology
+ICA/CCA|Internal to common carotid artery velocity ratio|Radiology
+CEA|Carotid endarterectomy|Radiology
+CAS|Carotid artery stenting|Radiology
+TNK|Tenecteplase|Radiology
+tPA|Tissue plasminogen activator|Radiology
+MT|Mechanical thrombectomy|Radiology
+EVT|Endovascular thrombectomy|Radiology
+TICI|Thrombolysis in cerebral infarction score|Radiology
+mRS|Modified Rankin Scale|Radiology
+NIHSS|National Institutes of Health Stroke Scale|Radiology
+GCS|Glasgow Coma Scale|Radiology
+HIDA|Hepatobiliary scintigraphy|Radiology
+CBDS|Common bile duct stone|Radiology
+GSD|Gallstone disease|Radiology
+CCY|Cholecystectomy|Radiology
+LC|Laparoscopic cholecystectomy|Radiology
+SAP|Severe acute pancreatitis|Radiology
+CTSI|Computed tomography severity index|Radiology
+WON|Walled-off necrosis|Radiology
+APFC|Acute peripancreatic fluid collection|Radiology
+PFC|Peripancreatic fluid collection|Radiology
+MCN|Mucinous cystic neoplasm|Radiology
+SCN|Serous cystadenoma|Radiology
+SPN|Solid pseudopapillary neoplasm|Radiology
+PNET|Pancreatic neuroendocrine tumor|Radiology
+BD-IPMN|Branch duct intraductal papillary mucinous neoplasm|Radiology
+MD-IPMN|Main duct intraductal papillary mucinous neoplasm|Radiology
+MPD|Main pancreatic duct|Radiology
+NAFLD|Nonalcoholic fatty liver disease|Radiology
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Radiology
+NASH|Nonalcoholic steatohepatitis|Radiology
+PDFF|Proton density fat fraction|Radiology
+VCTE|Vibration-controlled transient elastography|Radiology
+SWE|Shear wave elastography|Radiology
+ARFI|Acoustic radiation force impulse|Radiology
+kPa|Kilopascal|Radiology
+APHE|Arterial phase hyperenhancement|Radiology
+HBP|Hepatobiliary phase|Radiology
+PVP|Portal venous phase|Radiology
+DP|Delayed phase|Radiology
+PHT|Portal hypertension|Radiology
+PVT|Portal vein thrombosis|Radiology
+HAT|Hepatic artery thrombosis|Radiology
+HA|Hepatic artery|Radiology
+RHA|Right hepatic artery|Radiology
+LHA|Left hepatic artery|Radiology
+GDA|Gastroduodenal artery|Radiology
+CHA|Common hepatic artery|Radiology
+SA|Splenic artery|Radiology
+CA|Celiac artery|Radiology
+RRA|Right renal artery|Radiology
+LRA|Left renal artery|Radiology
+RV|Renal vein|Radiology
+LRV|Left renal vein|Radiology
+RK|Right kidney|Radiology
+LK|Left kidney|Radiology
+UPJO|Ureteropelvic junction obstruction|Radiology
+AKI|Acute kidney injury|Radiology
+CKD|Chronic kidney disease|Radiology
+eGFR|Estimated glomerular filtration rate|Radiology
+ADPKD|Autosomal dominant polycystic kidney disease|Radiology
+PKD|Polycystic kidney disease|Radiology
+TSC|Tuberous sclerosis complex|Radiology
+NF1|Neurofibromatosis type 1|Radiology
+NF2|Neurofibromatosis type 2|Radiology
+WNL|Within normal limits|Radiology
+S/P|Status post|Radiology
+H/O|History of|Radiology
+Hx|History|Radiology
+Dx|Diagnosis|Radiology
+DDx|Differential diagnosis|Radiology
+Rx|Treatment|Radiology
+Tx|Treatment|Radiology
+Sx|Symptoms|Radiology
+Fx|Fracture|Radiology
+c/w|Consistent with|Radiology
+s/o|Suggestive of|Radiology
+r/o|Rule out|Radiology
+w/u|Workup|Radiology
+f/u|Follow-up|Radiology
+w/|With|Radiology
+w/o|Without|Radiology
+b/l|Bilateral|Radiology
+BL|Bilateral|Radiology
+R|Right|Radiology
+L|Left|Radiology
+Lt|Left|Radiology
+Rt|Right|Radiology
+ant|Anterior|Radiology
+post|Posterior|Radiology
+sup|Superior|Radiology
+inf|Inferior|Radiology
+med|Medial|Radiology
+lat|Lateral|Radiology
+prox|Proximal|Radiology
+dist|Distal|Radiology
+SOB|Shortness of breath|Radiology
+DOE|Dyspnea on exertion|Radiology
+CP|Chest pain|Radiology
+HA|Headache|Radiology
+LOC|Loss of consciousness|Radiology
+AMS|Altered mental status|Radiology
+N/V|Nausea and vomiting|Radiology
+LFTs|Liver function tests|Radiology
+CBC|Complete blood count|Radiology
+BUN|Blood urea nitrogen|Radiology
+Cr|Creatinine|Radiology
+WBC|White blood cell count|Radiology
+INR|International normalized ratio|Radiology
+PT|Prothrombin time|Radiology
+PTT|Partial thromboplastin time|Radiology
+CRP|C-reactive protein|Radiology
+MVC|Motor vehicle collision|Radiology
+GSW|Gunshot wound|Radiology
+SW|Stab wound|Radiology
+FOOSH|Fall onto outstretched hand|Radiology
+ED|Emergency department|Radiology
+ICU|Intensive care unit|Radiology
+OR|Operating room|Radiology
+NPO|Nothing by mouth|Radiology
+PRN|As needed|Radiology
+STAT|Immediately|Radiology
+LOCM|Low-osmolar contrast medium|Radiology
+HOCM|High-osmolar contrast medium|Radiology
+IOCM|Iso-osmolar contrast medium|Radiology
+PIV|Peripheral intravenous line|Radiology
+TLC|Triple-lumen catheter|Radiology
+UVC|Umbilical venous catheter|Radiology
+UAC|Umbilical arterial catheter|Radiology
+LUS|Lung ultrasound|Radiology
+RUSH|Rapid ultrasound for shock and hypotension|Radiology
+IVC-CI|Inferior vena cava collapsibility index|Radiology
+VTI|Velocity time integral|Radiology
+LVOT|Left ventricular outflow tract|Radiology
+RVOT|Right ventricular outflow tract|Radiology
+TAPSE|Tricuspid annular plane systolic excursion|Radiology
+MR|Mitral regurgitation|Radiology
+AR|Aortic regurgitation|Radiology
+AS|Aortic stenosis|Radiology
+MS|Mitral stenosis|Radiology
+TR|Tricuspid regurgitation|Radiology
+PR|Pulmonic regurgitation|Radiology
+PH|Pulmonary hypertension|Radiology
+HOCM|Hypertrophic obstructive cardiomyopathy|Radiology
+DCM|Dilated cardiomyopathy|Radiology
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Radiology
+CAD|Coronary artery disease|Radiology
+MI|Myocardial infarction|Radiology
+MVO|Microvascular obstruction|Radiology
+MS|Multiple sclerosis|Radiology

@@ -1,0 +1,559 @@
+ABC|Airway, breathing, circulation|Trauma Surgery
+ABCDE|Airway, breathing, circulation, disability, exposure|Trauma Surgery
+ABG|Arterial blood gas|Trauma Surgery
+ABI|Ankle-brachial index|Trauma Surgery
+ABX|Antibiotics|Trauma Surgery
+AAA|Abdominal aortic aneurysm|Trauma Surgery
+ACS|Abdominal compartment syndrome|Trauma Surgery
+ACS|Acute compartment syndrome|Trauma Surgery
+AD|Aortic dissection|Trauma Surgery
+AIS|Abbreviated Injury Scale|Trauma Surgery
+AKI|Acute kidney injury|Trauma Surgery
+ALI|Acute lung injury|Trauma Surgery
+ALS|Advanced life support|Trauma Surgery
+AMS|Altered mental status|Trauma Surgery
+AP|Anteroposterior|Trauma Surgery
+APC|Anteroposterior compression pelvic fracture|Trauma Surgery
+APTT|Activated partial thromboplastin time|Trauma Surgery
+ARDS|Acute respiratory distress syndrome|Trauma Surgery
+ASA|Aspirin|Trauma Surgery
+ASA|American Society of Anesthesiologists physical status class|Trauma Surgery
+ATLS|Advanced trauma life support|Trauma Surgery
+ATN|Acute tubular necrosis|Trauma Surgery
+AVF|Arteriovenous fistula|Trauma Surgery
+AVPU|Alert, responds to voice, responds to pain, unresponsive|Trauma Surgery
+BAC|Blood alcohol concentration|Trauma Surgery
+BAI|Blunt aortic injury|Trauma Surgery
+BCVI|Blunt cerebrovascular injury|Trauma Surgery
+BD|Base deficit|Trauma Surgery
+BE|Base excess|Trauma Surgery
+BKA|Below-knee amputation|Trauma Surgery
+BLS|Basic life support|Trauma Surgery
+BMI|Body mass index|Trauma Surgery
+BP|Blood pressure|Trauma Surgery
+BS|Bowel sounds|Trauma Surgery
+BS|Breath sounds|Trauma Surgery
+BUN|Blood urea nitrogen|Trauma Surgery
+BVM|Bag-valve-mask|Trauma Surgery
+CAB|Circulation, airway, breathing|Trauma Surgery
+CAM-ICU|Confusion assessment method for the intensive care unit|Trauma Surgery
+CBC|Complete blood count|Trauma Surgery
+CBI|Continuous bladder irrigation|Trauma Surgery
+CCU|Critical care unit|Trauma Surgery
+CDI|Clean, dry, and intact|Trauma Surgery
+CHI|Closed head injury|Trauma Surgery
+CI|Cardiac index|Trauma Surgery
+CK|Creatine kinase|Trauma Surgery
+CLI|Critical limb ischemia|Trauma Surgery
+CMP|Comprehensive metabolic panel|Trauma Surgery
+CMS|Circulation, motor, sensation|Trauma Surgery
+CNS|Central nervous system|Trauma Surgery
+CO|Cardiac output|Trauma Surgery
+CO2|Carbon dioxide|Trauma Surgery
+COHb|Carboxyhemoglobin|Trauma Surgery
+CPAP|Continuous positive airway pressure|Trauma Surgery
+CPB|Cardiopulmonary bypass|Trauma Surgery
+CPP|Cerebral perfusion pressure|Trauma Surgery
+CPR|Cardiopulmonary resuscitation|Trauma Surgery
+CRP|C-reactive protein|Trauma Surgery
+CRT|Capillary refill time|Trauma Surgery
+CSF|Cerebrospinal fluid|Trauma Surgery
+CT|Computed tomography|Trauma Surgery
+CTA|Computed tomography angiography|Trauma Surgery
+CTA|Clear to auscultation|Trauma Surgery
+CTH|Computed tomography of the head|Trauma Surgery
+CVA|Costovertebral angle|Trauma Surgery
+CVA|Cerebrovascular accident|Trauma Surgery
+CVC|Central venous catheter|Trauma Surgery
+CVL|Central venous line|Trauma Surgery
+CVP|Central venous pressure|Trauma Surgery
+CVVH|Continuous venovenous hemofiltration|Trauma Surgery
+CVVHD|Continuous venovenous hemodialysis|Trauma Surgery
+CVVHDF|Continuous venovenous hemodiafiltration|Trauma Surgery
+CXR|Chest x-ray|Trauma Surgery
+C-collar|Cervical collar|Trauma Surgery
+C-spine|Cervical spine|Trauma Surgery
+DAI|Diffuse axonal injury|Trauma Surgery
+DCS|Damage control surgery|Trauma Surgery
+DCR|Damage control resuscitation|Trauma Surgery
+DDAVP|Desmopressin|Trauma Surgery
+DIC|Disseminated intravascular coagulation|Trauma Surgery
+DKA|Diabetic ketoacidosis|Trauma Surgery
+DNR|Do not resuscitate|Trauma Surgery
+DNI|Do not intubate|Trauma Surgery
+DOA|Dead on arrival|Trauma Surgery
+DOAC|Direct oral anticoagulant|Trauma Surgery
+DPA|Diagnostic peritoneal aspiration|Trauma Surgery
+DPL|Diagnostic peritoneal lavage|Trauma Surgery
+DRE|Digital rectal exam|Trauma Surgery
+DSA|Digital subtraction angiography|Trauma Surgery
+DTR|Deep tendon reflexes|Trauma Surgery
+DVT|Deep vein thrombosis|Trauma Surgery
+DUS|Duplex ultrasound|Trauma Surgery
+EBL|Estimated blood loss|Trauma Surgery
+ECG|Electrocardiogram|Trauma Surgery
+ECMO|Extracorporeal membrane oxygenation|Trauma Surgery
+ED|Emergency department|Trauma Surgery
+EDH|Epidural hematoma|Trauma Surgery
+EEG|Electroencephalogram|Trauma Surgery
+EF|Ejection fraction|Trauma Surgery
+EFAST|Extended focused assessment with sonography for trauma|Trauma Surgery
+EGD|Esophagogastroduodenoscopy|Trauma Surgery
+EGDT|Early goal-directed therapy|Trauma Surgery
+EMS|Emergency medical services|Trauma Surgery
+EMT|Emergency medical technician|Trauma Surgery
+ENT|Ear, nose, and throat|Trauma Surgery
+EOM|Extraocular movements|Trauma Surgery
+EOMI|Extraocular movements intact|Trauma Surgery
+ER|Emergency room|Trauma Surgery
+ERCP|Endoscopic retrograde cholangiopancreatography|Trauma Surgery
+ESR|Erythrocyte sedimentation rate|Trauma Surgery
+ETCO2|End-tidal carbon dioxide|Trauma Surgery
+ETOH|Ethyl alcohol|Trauma Surgery
+ETT|Endotracheal tube|Trauma Surgery
+EVD|External ventricular drain|Trauma Surgery
+EXFIX|External fixation|Trauma Surgery
+ex-lap|Exploratory laparotomy|Trauma Surgery
+FAST|Focused assessment with sonography for trauma|Trauma Surgery
+FB|Foreign body|Trauma Surgery
+FDP|Fibrin degradation products|Trauma Surgery
+FFP|Fresh frozen plasma|Trauma Surgery
+FHT|Fetal heart tones|Trauma Surgery
+FiO2|Fraction of inspired oxygen|Trauma Surgery
+FNA|Fine needle aspiration|Trauma Surgery
+FOB|Fiberoptic bronchoscopy|Trauma Surgery
+FOOSH|Fall on outstretched hand|Trauma Surgery
+FRC|Functional residual capacity|Trauma Surgery
+FSBG|Fingerstick blood glucose|Trauma Surgery
+FT|Full thickness|Trauma Surgery
+FWB|Fresh whole blood|Trauma Surgery
+FX|Fracture|Trauma Surgery
+GCS|Glasgow Coma Scale|Trauma Surgery
+GFR|Glomerular filtration rate|Trauma Surgery
+GI|Gastrointestinal|Trauma Surgery
+GSW|Gunshot wound|Trauma Surgery
+GSWH|Gunshot wound to the head|Trauma Surgery
+GSWA|Gunshot wound to the abdomen|Trauma Surgery
+GSWC|Gunshot wound to the chest|Trauma Surgery
+GU|Genitourinary|Trauma Surgery
+GYN|Gynecology|Trauma Surgery
+HAP|Hospital-acquired pneumonia|Trauma Surgery
+HBO|Hyperbaric oxygen|Trauma Surgery
+HCT|Hematocrit|Trauma Surgery
+HD|Hospital day|Trauma Surgery
+HDS|Hemodynamically stable|Trauma Surgery
+HDU|Hemodynamically unstable|Trauma Surgery
+HEENT|Head, eyes, ears, nose, and throat|Trauma Surgery
+HFNC|High-flow nasal cannula|Trauma Surgery
+HFOV|High-frequency oscillatory ventilation|Trauma Surgery
+HGB|Hemoglobin|Trauma Surgery
+HOB|Head of bed|Trauma Surgery
+HPI|History of present illness|Trauma Surgery
+HR|Heart rate|Trauma Surgery
+HS|Hemorrhagic shock|Trauma Surgery
+HTS|Hypertonic saline|Trauma Surgery
+HTN|Hypertension|Trauma Surgery
+HTX|Hemothorax|Trauma Surgery
+IABP|Intra-aortic balloon pump|Trauma Surgery
+IAH|Intra-abdominal hypertension|Trauma Surgery
+IAP|Intra-abdominal pressure|Trauma Surgery
+IBW|Ideal body weight|Trauma Surgery
+ICH|Intracranial hemorrhage|Trauma Surgery
+ICP|Intracranial pressure|Trauma Surgery
+ICU|Intensive care unit|Trauma Surgery
+ID|Infectious disease|Trauma Surgery
+IED|Improvised explosive device|Trauma Surgery
+IHD|Intermittent hemodialysis|Trauma Surgery
+IM|Intramuscular|Trauma Surgery
+IMN|Intramedullary nail|Trauma Surgery
+INR|International normalized ratio|Trauma Surgery
+IO|Intraosseous|Trauma Surgery
+IOP|Intraocular pressure|Trauma Surgery
+IPC|Intermittent pneumatic compression|Trauma Surgery
+ISS|Injury Severity Score|Trauma Surgery
+IV|Intravenous|Trauma Surgery
+IVC|Inferior vena cava|Trauma Surgery
+IVCF|Inferior vena cava filter|Trauma Surgery
+IVDU|Intravenous drug use|Trauma Surgery
+IVF|Intravenous fluids|Trauma Surgery
+IVH|Intraventricular hemorrhage|Trauma Surgery
+IVP|Intravenous pyelogram|Trauma Surgery
+JP|Jackson-Pratt drain|Trauma Surgery
+JVD|Jugular venous distension|Trauma Surgery
+KUB|Kidneys, ureters, and bladder x-ray|Trauma Surgery
+LAC|Laceration|Trauma Surgery
+LAD|Lymphadenopathy|Trauma Surgery
+LC|Lateral compression pelvic fracture|Trauma Surgery
+LDH|Lactate dehydrogenase|Trauma Surgery
+LE|Lower extremity|Trauma Surgery
+LFT|Liver function test|Trauma Surgery
+LLQ|Left lower quadrant|Trauma Surgery
+LMWH|Low molecular weight heparin|Trauma Surgery
+LOC|Loss of consciousness|Trauma Surgery
+LOC|Level of consciousness|Trauma Surgery
+LOS|Length of stay|Trauma Surgery
+LR|Lactated Ringer's|Trauma Surgery
+LUQ|Left upper quadrant|Trauma Surgery
+LVAD|Left ventricular assist device|Trauma Surgery
+MAP|Mean arterial pressure|Trauma Surgery
+MAST|Military anti-shock trousers|Trauma Surgery
+MCC|Motorcycle crash|Trauma Surgery
+MCA|Middle cerebral artery|Trauma Surgery
+MDCT|Multidetector computed tomography|Trauma Surgery
+MDR|Multidrug-resistant|Trauma Surgery
+MEWS|Modified early warning score|Trauma Surgery
+MI|Myocardial infarction|Trauma Surgery
+MOI|Mechanism of injury|Trauma Surgery
+MOF|Multiple organ failure|Trauma Surgery
+MRA|Magnetic resonance angiography|Trauma Surgery
+MRI|Magnetic resonance imaging|Trauma Surgery
+MRSA|Methicillin-resistant Staphylococcus aureus|Trauma Surgery
+MSK|Musculoskeletal|Trauma Surgery
+MTP|Massive transfusion protocol|Trauma Surgery
+MVA|Motor vehicle accident|Trauma Surgery
+MVC|Motor vehicle collision|Trauma Surgery
+NAD|No acute distress|Trauma Surgery
+NAI|Non-accidental injury|Trauma Surgery
+NG|Nasogastric|Trauma Surgery
+NGT|Nasogastric tube|Trauma Surgery
+NGTD|No growth to date|Trauma Surgery
+NI|Neurologically intact|Trauma Surgery
+NISS|New Injury Severity Score|Trauma Surgery
+NMB|Neuromuscular blockade|Trauma Surgery
+NOM|Nonoperative management|Trauma Surgery
+NPO|Nothing by mouth|Trauma Surgery
+NS|Normal saline|Trauma Surgery
+NSAID|Nonsteroidal anti-inflammatory drug|Trauma Surgery
+NSR|Normal sinus rhythm|Trauma Surgery
+NV|Neurovascular|Trauma Surgery
+NVI|Neurovascularly intact|Trauma Surgery
+NWB|Non-weight bearing|Trauma Surgery
+OG|Orogastric|Trauma Surgery
+OGT|Orogastric tube|Trauma Surgery
+OHCA|Out-of-hospital cardiac arrest|Trauma Surgery
+OI|Oxygenation index|Trauma Surgery
+OPA|Oropharyngeal airway|Trauma Surgery
+OR|Operating room|Trauma Surgery
+ORIF|Open reduction and internal fixation|Trauma Surgery
+PA|Pulmonary artery|Trauma Surgery
+PAC|Pulmonary artery catheter|Trauma Surgery
+PaCO2|Arterial partial pressure of carbon dioxide|Trauma Surgery
+PaO2|Arterial partial pressure of oxygen|Trauma Surgery
+PCA|Patient-controlled analgesia|Trauma Surgery
+PCC|Prothrombin complex concentrate|Trauma Surgery
+PCN|Penicillin|Trauma Surgery
+PCWP|Pulmonary capillary wedge pressure|Trauma Surgery
+PE|Pulmonary embolism|Trauma Surgery
+PE|Physical exam|Trauma Surgery
+PEA|Pulseless electrical activity|Trauma Surgery
+PEEP|Positive end-expiratory pressure|Trauma Surgery
+PEG|Percutaneous endoscopic gastrostomy|Trauma Surgery
+PERRL|Pupils equal, round, and reactive to light|Trauma Surgery
+PICC|Peripherally inserted central catheter|Trauma Surgery
+PIP|Peak inspiratory pressure|Trauma Surgery
+PLT|Platelets|Trauma Surgery
+PMH|Past medical history|Trauma Surgery
+PNA|Pneumonia|Trauma Surgery
+PO|By mouth|Trauma Surgery
+POD|Postoperative day|Trauma Surgery
+POC|Point of care|Trauma Surgery
+POCUS|Point-of-care ultrasound|Trauma Surgery
+PPI|Proton pump inhibitor|Trauma Surgery
+PPV|Positive pressure ventilation|Trauma Surgery
+PRBC|Packed red blood cells|Trauma Surgery
+PRN|As needed|Trauma Surgery
+PSH|Past surgical history|Trauma Surgery
+PT|Prothrombin time|Trauma Surgery
+PT|Physical therapy|Trauma Surgery
+PTSD|Posttraumatic stress disorder|Trauma Surgery
+PTT|Partial thromboplastin time|Trauma Surgery
+PTX|Pneumothorax|Trauma Surgery
+PVC|Premature ventricular contraction|Trauma Surgery
+PVR|Peripheral vascular resistance|Trauma Surgery
+PWB|Partial weight bearing|Trauma Surgery
+Q|Every|Trauma Surgery
+QID|Four times daily|Trauma Surgery
+RBC|Red blood cell|Trauma Surgery
+REBOA|Resuscitative endovascular balloon occlusion of the aorta|Trauma Surgery
+RLQ|Right lower quadrant|Trauma Surgery
+ROM|Range of motion|Trauma Surgery
+ROSC|Return of spontaneous circulation|Trauma Surgery
+RP|Retroperitoneal|Trauma Surgery
+RPH|Retroperitoneal hematoma|Trauma Surgery
+RR|Respiratory rate|Trauma Surgery
+RRT|Rapid response team|Trauma Surgery
+RRT|Renal replacement therapy|Trauma Surgery
+RSI|Rapid sequence intubation|Trauma Surgery
+RT|Respiratory therapy|Trauma Surgery
+RTA|Road traffic accident|Trauma Surgery
+RTO|Return to operating room|Trauma Surgery
+RTS|Revised Trauma Score|Trauma Surgery
+RUQ|Right upper quadrant|Trauma Surgery
+RV|Right ventricle|Trauma Surgery
+SAH|Subarachnoid hemorrhage|Trauma Surgery
+SAT|Spontaneous awakening trial|Trauma Surgery
+SBO|Small bowel obstruction|Trauma Surgery
+SBP|Systolic blood pressure|Trauma Surgery
+SBT|Spontaneous breathing trial|Trauma Surgery
+SC|Subcutaneous|Trauma Surgery
+SCD|Sequential compression device|Trauma Surgery
+SCI|Spinal cord injury|Trauma Surgery
+SCIWORA|Spinal cord injury without radiographic abnormality|Trauma Surgery
+SDH|Subdural hematoma|Trauma Surgery
+SGA|Supraglottic airway|Trauma Surgery
+SICU|Surgical intensive care unit|Trauma Surgery
+SIRS|Systemic inflammatory response syndrome|Trauma Surgery
+SMA|Superior mesenteric artery|Trauma Surgery
+SMV|Superior mesenteric vein|Trauma Surgery
+SNF|Skilled nursing facility|Trauma Surgery
+SOB|Shortness of breath|Trauma Surgery
+SpO2|Peripheral oxygen saturation|Trauma Surgery
+SQ|Subcutaneous|Trauma Surgery
+SSI|Surgical site infection|Trauma Surgery
+SSTI|Skin and soft tissue infection|Trauma Surgery
+STAT|Immediately|Trauma Surgery
+STSG|Split-thickness skin graft|Trauma Surgery
+SV|Stroke volume|Trauma Surgery
+SVC|Superior vena cava|Trauma Surgery
+SVO2|Mixed venous oxygen saturation|Trauma Surgery
+SVR|Systemic vascular resistance|Trauma Surgery
+SW|Stab wound|Trauma Surgery
+SWA|Stab wound to the abdomen|Trauma Surgery
+SWC|Stab wound to the chest|Trauma Surgery
+SWN|Stab wound to the neck|Trauma Surgery
+TAC|Temporary abdominal closure|Trauma Surgery
+TBI|Traumatic brain injury|Trauma Surgery
+TBSA|Total body surface area|Trauma Surgery
+TCD|Transcranial Doppler|Trauma Surgery
+TDAP|Tetanus, diphtheria, and acellular pertussis vaccine|Trauma Surgery
+TEG|Thromboelastography|Trauma Surgery
+TF|Tube feeds|Trauma Surgery
+TIC|Trauma-induced coagulopathy|Trauma Surgery
+TICH|Traumatic intracranial hemorrhage|Trauma Surgery
+TID|Three times daily|Trauma Surgery
+TKO|To keep open|Trauma Surgery
+TLICS|Thoracolumbar injury classification and severity score|Trauma Surgery
+TLS|Thoracolumbar spine|Trauma Surgery
+TM|Tympanic membrane|Trauma Surgery
+TPN|Total parenteral nutrition|Trauma Surgery
+TRALI|Transfusion-related acute lung injury|Trauma Surgery
+TRISS|Trauma and Injury Severity Score|Trauma Surgery
+TSH|Thyroid stimulating hormone|Trauma Surgery
+TT|Thrombin time|Trauma Surgery
+TTE|Transthoracic echocardiogram|Trauma Surgery
+TTP|Tender to palpation|Trauma Surgery
+TXA|Tranexamic acid|Trauma Surgery
+UA|Urinalysis|Trauma Surgery
+UE|Upper extremity|Trauma Surgery
+UGIB|Upper gastrointestinal bleed|Trauma Surgery
+UOP|Urine output|Trauma Surgery
+US|Ultrasound|Trauma Surgery
+UTI|Urinary tract infection|Trauma Surgery
+UVC|Umbilical venous catheter|Trauma Surgery
+VAC|Vacuum-assisted closure|Trauma Surgery
+VAP|Ventilator-associated pneumonia|Trauma Surgery
+VAS|Visual analog scale|Trauma Surgery
+VBG|Venous blood gas|Trauma Surgery
+VC|Vital capacity|Trauma Surgery
+VF|Ventricular fibrillation|Trauma Surgery
+VS|Vital signs|Trauma Surgery
+VT|Ventricular tachycardia|Trauma Surgery
+VTE|Venous thromboembolism|Trauma Surgery
+WB|Whole blood|Trauma Surgery
+WBAT|Weight bearing as tolerated|Trauma Surgery
+WBC|White blood cell|Trauma Surgery
+WNL|Within normal limits|Trauma Surgery
+WOB|Work of breathing|Trauma Surgery
+XR|X-ray|Trauma Surgery
+ACLS|Advanced cardiac life support|Trauma Surgery
+BIPAP|Bilevel positive airway pressure|Trauma Surgery
+BMP|Basic metabolic panel|Trauma Surgery
+CAUTI|Catheter-associated urinary tract infection|Trauma Surgery
+CLABSI|Central line-associated bloodstream infection|Trauma Surgery
+COPD|Chronic obstructive pulmonary disease|Trauma Surgery
+CHF|Congestive heart failure|Trauma Surgery
+CAD|Coronary artery disease|Trauma Surgery
+CKD|Chronic kidney disease|Trauma Surgery
+DM|Diabetes mellitus|Trauma Surgery
+ESRD|End-stage renal disease|Trauma Surgery
+GERD|Gastroesophageal reflux disease|Trauma Surgery
+HLD|Hyperlipidemia|Trauma Surgery
+MSSA|Methicillin-sensitive Staphylococcus aureus|Trauma Surgery
+OSA|Obstructive sleep apnea|Trauma Surgery
+PVD|Peripheral vascular disease|Trauma Surgery
+PAD|Peripheral arterial disease|Trauma Surgery
+AFIB|Atrial fibrillation|Trauma Surgery
+SVT|Supraventricular tachycardia|Trauma Surgery
+HIT|Heparin-induced thrombocytopenia|Trauma Surgery
+ITP|Immune thrombocytopenic purpura|Trauma Surgery
+DAPT|Dual antiplatelet therapy|Trauma Surgery
+UFH|Unfractionated heparin|Trauma Surgery
+VKA|Vitamin K antagonist|Trauma Surgery
+CRYO|Cryoprecipitate|Trauma Surgery
+ROTEM|Rotational thromboelastometry|Trauma Surgery
+ALT|Alanine aminotransferase|Trauma Surgery
+AST|Aspartate aminotransferase|Trauma Surgery
+ALP|Alkaline phosphatase|Trauma Surgery
+GGT|Gamma-glutamyl transferase|Trauma Surgery
+Cr|Creatinine|Trauma Surgery
+Mg|Magnesium|Trauma Surgery
+iCa|Ionized calcium|Trauma Surgery
+Ca|Calcium|Trauma Surgery
+K|Potassium|Trauma Surgery
+Na|Sodium|Trauma Surgery
+Cl|Chloride|Trauma Surgery
+HCO3|Bicarbonate|Trauma Surgery
+AG|Anion gap|Trauma Surgery
+Lac|Lactate|Trauma Surgery
+MetHb|Methemoglobin|Trauma Surgery
+DO2|Oxygen delivery|Trauma Surgery
+VO2|Oxygen consumption|Trauma Surgery
+P/F|PaO2 to FiO2 ratio|Trauma Surgery
+Vt|Tidal volume|Trauma Surgery
+Pplat|Plateau pressure|Trauma Surgery
+APRV|Airway pressure release ventilation|Trauma Surgery
+PC|Pressure control|Trauma Surgery
+PS|Pressure support|Trauma Surgery
+NIV|Noninvasive ventilation|Trauma Surgery
+NC|Nasal cannula|Trauma Surgery
+NRB|Nonrebreather mask|Trauma Surgery
+RA|Room air|Trauma Surgery
+PDT|Percutaneous dilatational tracheostomy|Trauma Surgery
+LMA|Laryngeal mask airway|Trauma Surgery
+NPA|Nasopharyngeal airway|Trauma Surgery
+DA|Difficult airway|Trauma Surgery
+MILS|Manual in-line stabilization|Trauma Surgery
+PbtO2|Brain tissue oxygen partial pressure|Trauma Surgery
+CBF|Cerebral blood flow|Trauma Surgery
+ONSD|Optic nerve sheath diameter|Trauma Surgery
+MLS|Midline shift|Trauma Surgery
+TMJ|Temporomandibular joint|Trauma Surgery
+ZMC|Zygomaticomaxillary complex fracture|Trauma Surgery
+NOE|Nasoorbitoethmoid fracture|Trauma Surgery
+CN|Cranial nerve|Trauma Surgery
+ICA|Internal carotid artery|Trauma Surgery
+CCA|Common carotid artery|Trauma Surgery
+ECA|External carotid artery|Trauma Surgery
+IJ|Internal jugular vein|Trauma Surgery
+EJ|External jugular vein|Trauma Surgery
+SCM|Sternocleidomastoid|Trauma Surgery
+TEVAR|Thoracic endovascular aortic repair|Trauma Surgery
+TAI|Traumatic aortic injury|Trauma Surgery
+PSA|Pseudoaneurysm|Trauma Surgery
+AVM|Arteriovenous malformation|Trauma Surgery
+TAE|Transcatheter arterial embolization|Trauma Surgery
+IR|Interventional radiology|Trauma Surgery
+SAE|Splenic artery embolization|Trauma Surgery
+PPP|Preperitoneal pelvic packing|Trauma Surgery
+SI|Sacroiliac|Trauma Surgery
+SIJ|Sacroiliac joint|Trauma Surgery
+THA|Total hip arthroplasty|Trauma Surgery
+TKA|Total knee arthroplasty|Trauma Surgery
+CRPP|Closed reduction and percutaneous pinning|Trauma Surgery
+CRIF|Closed reduction and internal fixation|Trauma Surgery
+DRF|Distal radius fracture|Trauma Surgery
+PHF|Proximal humerus fracture|Trauma Surgery
+MCL|Medial collateral ligament|Trauma Surgery
+LCL|Lateral collateral ligament|Trauma Surgery
+ACL|Anterior cruciate ligament|Trauma Surgery
+PCL|Posterior cruciate ligament|Trauma Surgery
+FRI|Fracture-related infection|Trauma Surgery
+OM|Osteomyelitis|Trauma Surgery
+NSTI|Necrotizing soft tissue infection|Trauma Surgery
+NF|Necrotizing fasciitis|Trauma Surgery
+CRPS|Complex regional pain syndrome|Trauma Surgery
+HO|Heterotopic ossification|Trauma Surgery
+AVN|Avascular necrosis|Trauma Surgery
+FES|Fat embolism syndrome|Trauma Surgery
+SFA|Superficial femoral artery|Trauma Surgery
+CFA|Common femoral artery|Trauma Surgery
+CFV|Common femoral vein|Trauma Surgery
+GSV|Great saphenous vein|Trauma Surgery
+CBD|Common bile duct|Trauma Surgery
+CHD|Common hepatic duct|Trauma Surgery
+MRCP|Magnetic resonance cholangiopancreatography|Trauma Surgery
+HPB|Hepatopancreatobiliary|Trauma Surgery
+SPLX|Splenectomy|Trauma Surgery
+OPSI|Overwhelming postsplenectomy infection|Trauma Surgery
+HCV|Hepatitis C virus|Trauma Surgery
+HBV|Hepatitis B virus|Trauma Surgery
+HIV|Human immunodeficiency virus|Trauma Surgery
+SUP|Stress ulcer prophylaxis|Trauma Surgery
+NPWT|Negative pressure wound therapy|Trauma Surgery
+SBR|Small bowel resection|Trauma Surgery
+VATS|Video-assisted thoracoscopic surgery|Trauma Surgery
+SSRF|Surgical stabilization of rib fractures|Trauma Surgery
+LLL|Left lower lobe|Trauma Surgery
+LUL|Left upper lobe|Trauma Surgery
+RLL|Right lower lobe|Trauma Surgery
+RML|Right middle lobe|Trauma Surgery
+RUL|Right upper lobe|Trauma Surgery
+BPF|Bronchopleural fistula|Trauma Surgery
+TEF|Tracheoesophageal fistula|Trauma Surgery
+SPW|Subxiphoid pericardial window|Trauma Surgery
+TnI|Troponin I|Trauma Surgery
+TnT|Troponin T|Trauma Surgery
+BNP|B-type natriuretic peptide|Trauma Surgery
+VTI|Velocity time integral|Trauma Surgery
+PLR|Passive leg raise|Trauma Surgery
+SVV|Stroke volume variation|Trauma Surgery
+LTOWB|Low-titer group O whole blood|Trauma Surgery
+T&S|Type and screen|Trauma Surgery
+T&C|Type and crossmatch|Trauma Surgery
+FNHTR|Febrile nonhemolytic transfusion reaction|Trauma Surgery
+TACO|Transfusion-associated circulatory overload|Trauma Surgery
+ABO|Blood group system|Trauma Surgery
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Trauma Surgery
+FHR|Fetal heart rate|Trauma Surgery
+LMP|Last menstrual period|Trauma Surgery
+HCG|Human chorionic gonadotropin|Trauma Surgery
+CES|Cauda equina syndrome|Trauma Surgery
+TLSO|Thoracolumbosacral orthosis|Trauma Surgery
+mTBI|Mild traumatic brain injury|Trauma Surgery
+sTBI|Severe traumatic brain injury|Trauma Surgery
+cSDH|Chronic subdural hematoma|Trauma Surgery
+aSDH|Acute subdural hematoma|Trauma Surgery
+IPH|Intraparenchymal hemorrhage|Trauma Surgery
+TTM|Targeted temperature management|Trauma Surgery
+SZ|Seizure|Trauma Surgery
+SE|Status epilepticus|Trauma Surgery
+AED|Antiepileptic drug|Trauma Surgery
+LEV|Levetiracetam|Trauma Surgery
+SBIRT|Screening, brief intervention, and referral to treatment|Trauma Surgery
+UDS|Urine drug screen|Trauma Surgery
+IPV|Intimate partner violence|Trauma Surgery
+TIG|Tetanus immune globulin|Trauma Surgery
+BSA|Body surface area|Trauma Surgery
+HBOT|Hyperbaric oxygen therapy|Trauma Surgery
+I&D|Incision and drainage|Trauma Surgery
+I&O|Intake and output|Trauma Surgery
+LIWS|Low intermittent wall suction|Trauma Surgery
+RUG|Retrograde urethrogram|Trauma Surgery
+PS|Primary survey|Trauma Surgery
+TICU|Trauma intensive care unit|Trauma Surgery
+EGS|Emergency general surgery|Trauma Surgery
+OMFS|Oral and maxillofacial surgery|Trauma Surgery
+PICU|Pediatric intensive care unit|Trauma Surgery
+PALS|Pediatric advanced life support|Trauma Surgery
+PH|Prehospital|Trauma Surgery
+PHTLS|Prehospital trauma life support|Trauma Surgery
+TCCC|Tactical combat casualty care|Trauma Surgery
+MARCH|Massive hemorrhage, airway, respiration, circulation, head injury or hypothermia|Trauma Surgery
+TQ|Tourniquet|Trauma Surgery
+MASCAL|Mass casualty|Trauma Surgery
+MCI|Mass casualty incident|Trauma Surgery
+START|Simple triage and rapid treatment|Trauma Surgery
+GSR|Gunshot residue|Trauma Surgery
+GOC|Goals of care|Trauma Surgery
+MOLST|Medical orders for life-sustaining treatment|Trauma Surgery
+POLST|Physician orders for life-sustaining treatment|Trauma Surgery
+CMO|Comfort measures only|Trauma Surgery
+DCD|Donation after circulatory death|Trauma Surgery
+DBD|Donation after brain death|Trauma Surgery
+SI|Shock index|Trauma Surgery
+TP|Tension pneumothorax|Trauma Surgery
+HJ|Hepaticojejunostomy|Trauma Surgery
+PJ|Pancreaticojejunostomy|Trauma Surgery
+TOF|Train-of-four neuromuscular monitoring|Trauma Surgery
+CRIC|Cricothyroidotomy|Trauma Surgery
+EVAR|Endovascular aneurysm repair|Trauma Surgery

@@ -1,0 +1,654 @@
+CBC|Complete blood count|Hematology
+CBC w/ diff|Complete blood count with differential|Hematology
+WBC|White blood cell count|Hematology
+RBC|Red blood cell or red blood cell count|Hematology
+Hgb|Hemoglobin|Hematology
+Hb|Hemoglobin|Hematology
+Hct|Hematocrit|Hematology
+HCT|Hematocrit|Hematology
+MCV|Mean corpuscular volume|Hematology
+MCH|Mean corpuscular hemoglobin|Hematology
+MCHC|Mean corpuscular hemoglobin concentration|Hematology
+RDW|Red cell distribution width|Hematology
+MPV|Mean platelet volume|Hematology
+PLT|Platelet count|Hematology
+ANC|Absolute neutrophil count|Hematology
+PMN|Polymorphonuclear neutrophil|Hematology
+NRBC|Nucleated red blood cells|Hematology
+nRBC|Nucleated red blood cells|Hematology
+Retic|Reticulocyte count|Hematology
+PBS|Peripheral blood smear|Hematology
+BMBx|Bone marrow biopsy|Hematology
+BMA|Bone marrow aspirate|Hematology
+BMB|Bone marrow biopsy|Hematology
+BMT|Bone marrow transplant|Hematology
+M:E ratio|Myeloid to erythroid ratio|Hematology
+ESR|Erythrocyte sedimentation rate|Hematology
+CRP|C-reactive protein|Hematology
+LDH|Lactate dehydrogenase|Hematology
+Hapto|Haptoglobin|Hematology
+TIBC|Total iron-binding capacity|Hematology
+UIBC|Unsaturated iron-binding capacity|Hematology
+TSAT|Transferrin saturation|Hematology
+Tsat|Transferrin saturation|Hematology
+IDA|Iron deficiency anemia|Hematology
+IDWOA|Iron deficiency without anemia|Hematology
+ACD|Anemia of chronic disease|Hematology
+ACI|Anemia of chronic inflammation|Hematology
+AOCD|Anemia of chronic disease|Hematology
+CKD-A|Anemia of chronic kidney disease|Hematology
+ESA|Erythropoiesis-stimulating agent|Hematology
+EPO|Erythropoietin|Hematology
+rHuEPO|Recombinant human erythropoietin|Hematology
+HIF-PHI|Hypoxia-inducible factor prolyl hydroxylase inhibitor|Hematology
+IV iron|Intravenous iron|Hematology
+B12|Vitamin B12 (cobalamin)|Hematology
+MMA|Methylmalonic acid|Hematology
+APCA|Anti-parietal cell antibody|Hematology
+MAHA|Microangiopathic hemolytic anemia|Hematology
+AIHA|Autoimmune hemolytic anemia|Hematology
+wAIHA|Warm autoimmune hemolytic anemia|Hematology
+CAD|Cold agglutinin disease|Hematology
+PCH|Paroxysmal cold hemoglobinuria|Hematology
+DAT|Direct antiglobulin test|Hematology
+IAT|Indirect antiglobulin test|Hematology
+DCT|Direct Coombs test|Hematology
+ICT|Indirect Coombs test|Hematology
+IgG|Immunoglobulin G|Hematology
+IgM|Immunoglobulin M|Hematology
+IgA|Immunoglobulin A|Hematology
+PNH|Paroxysmal nocturnal hemoglobinuria|Hematology
+GPI|Glycosylphosphatidylinositol|Hematology
+G6PD|Glucose-6-phosphate dehydrogenase|Hematology
+PK|Pyruvate kinase|Hematology
+PKD|Pyruvate kinase deficiency|Hematology
+EMA|Eosin-5-maleimide binding test|Hematology
+OFT|Osmotic fragility test|Hematology
+HbS|Sickle hemoglobin|Hematology
+HbA|Normal adult hemoglobin|Hematology
+HbA2|Hemoglobin A2|Hematology
+HbF|Fetal hemoglobin|Hematology
+HbC|Hemoglobin C|Hematology
+HbE|Hemoglobin E|Hematology
+HbH|Hemoglobin H|Hematology
+HbSS|Homozygous sickle cell disease|Hematology
+HbSC|Hemoglobin SC disease|Hematology
+HbAS|Sickle cell trait|Hematology
+HbS-beta thal|Sickle beta thalassemia|Hematology
+SCD|Sickle cell disease|Hematology
+SCA|Sickle cell anemia|Hematology
+SCT|Sickle cell trait|Hematology
+SCT|Stem cell transplant|Hematology
+VOC|Vaso-occlusive crisis|Hematology
+VOE|Vaso-occlusive episode|Hematology
+ACS|Acute chest syndrome|Hematology
+TCD|Transcranial Doppler|Hematology
+TAMMV|Time-averaged mean of the maximum velocity|Hematology
+TRV|Tricuspid regurgitant velocity|Hematology
+PEx|Partial exchange transfusion|Hematology
+RCE|Red cell exchange|Hematology
+SIT|Simple transfusion|Hematology
+CSA|Chronic sickle cell arthropathy|Hematology
+AVN|Avascular necrosis|Hematology
+HPLC|High-performance liquid chromatography|Hematology
+IEF|Isoelectric focusing|Hematology
+NTDT|Non-transfusion-dependent thalassemia|Hematology
+TDT|Transfusion-dependent thalassemia|Hematology
+BTM|Beta thalassemia major|Hematology
+BTI|Beta thalassemia intermedia|Hematology
+BTT|Beta thalassemia trait|Hematology
+ATT|Alpha thalassemia trait|Hematology
+Thal|Thalassemia|Hematology
+HPFH|Hereditary persistence of fetal hemoglobin|Hematology
+SaO2|Arterial oxygen saturation|Hematology
+SpO2|Peripheral oxygen saturation by pulse oximetry|Hematology
+TTP|Thrombotic thrombocytopenic purpura|Hematology
+iTTP|Immune thrombotic thrombocytopenic purpura|Hematology
+cTTP|Congenital thrombotic thrombocytopenic purpura|Hematology
+HUS|Hemolytic uremic syndrome|Hematology
+aHUS|Atypical hemolytic uremic syndrome|Hematology
+STEC-HUS|Shiga toxin-producing E. coli hemolytic uremic syndrome|Hematology
+TMA|Thrombotic microangiopathy|Hematology
+TA-TMA|Transplant-associated thrombotic microangiopathy|Hematology
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Hematology
+ADAMTS13|A disintegrin and metalloproteinase with thrombospondin motifs 13|Hematology
+TPE|Therapeutic plasma exchange|Hematology
+PLEX|Plasma exchange|Hematology
+PEX|Plasma exchange|Hematology
+IVIG|Intravenous immune globulin|Hematology
+IVIg|Intravenous immunoglobulin|Hematology
+ITP|Immune thrombocytopenia|Hematology
+pITP|Primary immune thrombocytopenia|Hematology
+TPO|Thrombopoietin|Hematology
+TPO-RA|Thrombopoietin receptor agonist|Hematology
+HIT|Heparin-induced thrombocytopenia|Hematology
+HITT|Heparin-induced thrombocytopenia and thrombosis|Hematology
+HITTS|Heparin-induced thrombocytopenia and thrombosis syndrome|Hematology
+PF4|Platelet factor 4|Hematology
+SRA|Serotonin release assay|Hematology
+HIPA|Heparin-induced platelet activation assay|Hematology
+VITT|Vaccine-induced immune thrombotic thrombocytopenia|Hematology
+TTS|Thrombosis with thrombocytopenia syndrome|Hematology
+PTP|Post-transfusion purpura|Hematology
+NAIT|Neonatal alloimmune thrombocytopenia|Hematology
+FNAIT|Fetal and neonatal alloimmune thrombocytopenia|Hematology
+TEG|Thromboelastography|Hematology
+ROTEM|Rotational thromboelastometry|Hematology
+MA (TEG)|Maximum amplitude on thromboelastography|Hematology
+R time|Reaction time on thromboelastography|Hematology
+K time|Clot kinetics time on thromboelastography|Hematology
+LY30|Percent clot lysis 30 minutes after maximum amplitude|Hematology
+CFT|Clot formation time|Hematology
+MCF|Maximum clot firmness|Hematology
+PT|Prothrombin time|Hematology
+INR|International normalized ratio|Hematology
+ISI|International sensitivity index|Hematology
+aPTT|Activated partial thromboplastin time|Hematology
+APTT|Activated partial thromboplastin time|Hematology
+PTT|Partial thromboplastin time|Hematology
+TT|Thrombin time|Hematology
+ACT|Activated clotting time|Hematology
+CBT|Clot-based test|Hematology
+FDP|Fibrin degradation products|Hematology
+FSP|Fibrin split products|Hematology
+D-dimer|Fibrin degradation product from cross-linked fibrin breakdown|Hematology
+FIB|Fibrinogen|Hematology
+Fib|Fibrinogen|Hematology
+Clauss|Clauss fibrinogen assay|Hematology
+FVIII|Factor VIII|Hematology
+FIX|Factor IX|Hematology
+FVII|Factor VII|Hematology
+FVIIa|Activated factor VII|Hematology
+rFVIIa|Recombinant activated factor VII|Hematology
+FX|Factor X|Hematology
+FXa|Activated factor X|Hematology
+FXI|Factor XI|Hematology
+FXII|Factor XII|Hematology
+FXIII|Factor XIII|Hematology
+FV|Factor V|Hematology
+FII|Factor II (prothrombin)|Hematology
+VWF|Von Willebrand factor|Hematology
+vWF|Von Willebrand factor|Hematology
+VWD|Von Willebrand disease|Hematology
+vWD|Von Willebrand disease|Hematology
+VWF:Ag|Von Willebrand factor antigen|Hematology
+VWF:RCo|Von Willebrand factor ristocetin cofactor activity|Hematology
+VWF:GPIbM|Von Willebrand factor glycoprotein Ib binding activity|Hematology
+VWF:CB|Von Willebrand factor collagen binding|Hematology
+VWFpp|Von Willebrand factor propeptide|Hematology
+RIPA|Ristocetin-induced platelet aggregation|Hematology
+AVWS|Acquired von Willebrand syndrome|Hematology
+HA|Hemophilia A|Hematology
+HB|Hemophilia B|Hematology
+HemA|Hemophilia A|Hematology
+HemB|Hemophilia B|Hematology
+PwH|Person with hemophilia|Hematology
+PWH|Person with hemophilia|Hematology
+AHA|Acquired hemophilia A|Hematology
+BU|Bethesda unit|Hematology
+BU/mL|Bethesda units per milliliter|Hematology
+ITI|Immune tolerance induction|Hematology
+SHL|Standard half-life factor concentrate|Hematology
+EHL|Extended half-life factor concentrate|Hematology
+rFVIII|Recombinant factor VIII|Hematology
+rFIX|Recombinant factor IX|Hematology
+pdFVIII|Plasma-derived factor VIII|Hematology
+pdFIX|Plasma-derived factor IX|Hematology
+aPCC|Activated prothrombin complex concentrate|Hematology
+PCC|Prothrombin complex concentrate|Hematology
+3F-PCC|Three-factor prothrombin complex concentrate|Hematology
+4F-PCC|Four-factor prothrombin complex concentrate|Hematology
+FFP|Fresh frozen plasma|Hematology
+PRBC|Packed red blood cells|Hematology
+pRBC|Packed red blood cells|Hematology
+PRBCs|Packed red blood cells|Hematology
+RBCs|Red blood cells|Hematology
+LRBC|Leukoreduced red blood cells|Hematology
+WRBC|Washed red blood cells|Hematology
+CMV-neg|Cytomegalovirus-seronegative blood product|Hematology
+CMV-safe|Cytomegalovirus-safe blood product|Hematology
+MTP|Massive transfusion protocol|Hematology
+MT|Massive transfusion|Hematology
+T&S|Type and screen|Hematology
+T&C|Type and crossmatch|Hematology
+XM|Crossmatch|Hematology
+ABO|ABO blood group system|Hematology
+Rh|Rhesus blood group system|Hematology
+RhD|Rhesus D antigen|Hematology
+Rh+|Rhesus D positive|Hematology
+Rh-|Rhesus D negative|Hematology
+HDFN|Hemolytic disease of the fetus and newborn|Hematology
+AHTR|Acute hemolytic transfusion reaction|Hematology
+DHTR|Delayed hemolytic transfusion reaction|Hematology
+DSTR|Delayed serologic transfusion reaction|Hematology
+FNHTR|Febrile non-hemolytic transfusion reaction|Hematology
+TRALI|Transfusion-related acute lung injury|Hematology
+TACO|Transfusion-associated circulatory overload|Hematology
+TAD|Transfusion-associated dyspnea|Hematology
+TA-GVHD|Transfusion-associated graft-versus-host disease|Hematology
+TTI|Transfusion-transmitted infection|Hematology
+TAS|Transfusion-associated sepsis|Hematology
+ATR|Allergic transfusion reaction|Hematology
+TR|Transfusion reaction|Hematology
+HLA|Human leukocyte antigen|Hematology
+VTE|Venous thromboembolism|Hematology
+DVT|Deep vein thrombosis|Hematology
+PE (VTE)|Pulmonary embolism|Hematology
+SVT|Superficial vein thrombosis|Hematology
+CVT|Cerebral venous thrombosis|Hematology
+CVST|Cerebral venous sinus thrombosis|Hematology
+PVT|Portal vein thrombosis|Hematology
+SVT (splanchnic)|Splanchnic vein thrombosis|Hematology
+BCS|Budd-Chiari syndrome|Hematology
+RVT|Renal vein thrombosis|Hematology
+UEDVT|Upper extremity deep vein thrombosis|Hematology
+LEDVT|Lower extremity deep vein thrombosis|Hematology
+CRT|Catheter-related thrombosis|Hematology
+CAT|Cancer-associated thrombosis|Hematology
+PTS|Post-thrombotic syndrome|Hematology
+CTEPH|Chronic thromboembolic pulmonary hypertension|Hematology
+CTEPD|Chronic thromboembolic pulmonary disease|Hematology
+PESI|Pulmonary embolism severity index|Hematology
+sPESI|Simplified pulmonary embolism severity index|Hematology
+PERC|Pulmonary embolism rule-out criteria|Hematology
+CTPA|Computed tomography pulmonary angiography|Hematology
+VQ|Ventilation-perfusion scan|Hematology
+V/Q|Ventilation-perfusion|Hematology
+CUS|Compression ultrasonography|Hematology
+LE duplex|Lower extremity venous duplex ultrasound|Hematology
+IVC|Inferior vena cava|Hematology
+IVCF|Inferior vena cava filter|Hematology
+CDT|Catheter-directed thrombolysis|Hematology
+PCDT|Pharmacomechanical catheter-directed thrombolysis|Hematology
+tPA|Tissue plasminogen activator|Hematology
+t-PA|Tissue plasminogen activator|Hematology
+UFH|Unfractionated heparin|Hematology
+LMWH|Low molecular weight heparin|Hematology
+DOAC|Direct oral anticoagulant|Hematology
+DTI|Direct thrombin inhibitor|Hematology
+VKA|Vitamin K antagonist|Hematology
+FXaI|Factor Xa inhibitor|Hematology
+anti-Xa|Anti-factor Xa level|Hematology
+Anti-Xa|Anti-factor Xa assay|Hematology
+AT|Antithrombin|Hematology
+ATIII|Antithrombin III|Hematology
+AT-III|Antithrombin III|Hematology
+PC|Protein C|Hematology
+APC|Activated protein C|Hematology
+APCR|Activated protein C resistance|Hematology
+FVL|Factor V Leiden|Hematology
+PT20210|Prothrombin G20210A variant|Hematology
+APS|Antiphospholipid syndrome|Hematology
+APLA|Antiphospholipid antibodies|Hematology
+aPL|Antiphospholipid antibodies|Hematology
+LA|Lupus anticoagulant|Hematology
+LAC|Lupus anticoagulant|Hematology
+aCL|Anticardiolipin antibody|Hematology
+ACA|Anticardiolipin antibody|Hematology
+anti-B2GPI|Anti-beta-2 glycoprotein I antibody|Hematology
+a-β2GPI|Anti-beta-2 glycoprotein I antibody|Hematology
+dRVVT|Dilute Russell viper venom time|Hematology
+CAPS|Catastrophic antiphospholipid syndrome|Hematology
+TFPI|Tissue factor pathway inhibitor|Hematology
+PAI-1|Plasminogen activator inhibitor 1|Hematology
+TAFI|Thrombin-activatable fibrinolysis inhibitor|Hematology
+TXA|Tranexamic acid|Hematology
+EACA|Epsilon-aminocaproic acid|Hematology
+VKDB|Vitamin K deficiency bleeding|Hematology
+PIVKA|Protein induced by vitamin K absence|Hematology
+ICH|Intracranial hemorrhage|Hematology
+GIB|Gastrointestinal bleeding|Hematology
+UGIB|Upper gastrointestinal bleeding|Hematology
+LGIB|Lower gastrointestinal bleeding|Hematology
+HMB|Heavy menstrual bleeding|Hematology
+AUB|Abnormal uterine bleeding|Hematology
+PPH|Postpartum hemorrhage|Hematology
+BAT|Bleeding assessment tool|Hematology
+VTE-BLEED|Score for bleeding risk on anticoagulation for venous thromboembolism|Hematology
+VTE ppx|Venous thromboembolism prophylaxis|Hematology
+DVT ppx|Deep vein thrombosis prophylaxis|Hematology
+GCS|Graduated compression stockings|Hematology
+TED|Thromboembolism-deterrent stockings|Hematology
+MPN|Myeloproliferative neoplasm|Hematology
+PV|Polycythemia vera|Hematology
+ET|Essential thrombocythemia|Hematology
+PMF|Primary myelofibrosis|Hematology
+MF|Myelofibrosis|Hematology
+post-PV MF|Post-polycythemia vera myelofibrosis|Hematology
+post-ET MF|Post-essential thrombocythemia myelofibrosis|Hematology
+ISM|Indolent systemic mastocytosis|Hematology
+AdvSM|Advanced systemic mastocytosis|Hematology
+CEL|Chronic eosinophilic leukemia|Hematology
+HES|Hypereosinophilic syndrome|Hematology
+CNL|Chronic neutrophilic leukemia|Hematology
+CML|Chronic myeloid leukemia|Hematology
+CMML|Chronic myelomonocytic leukemia|Hematology
+JMML|Juvenile myelomonocytic leukemia|Hematology
+aCML|Atypical chronic myeloid leukemia|Hematology
+MDS|Myelodysplastic syndrome|Hematology
+MDS-EB|Myelodysplastic syndrome with excess blasts|Hematology
+MDS-RS|Myelodysplastic syndrome with ring sideroblasts|Hematology
+MDS/MPN|Myelodysplastic/myeloproliferative neoplasm|Hematology
+RARS|Refractory anemia with ring sideroblasts|Hematology
+RAEB|Refractory anemia with excess blasts|Hematology
+RCMD|Refractory cytopenia with multilineage dysplasia|Hematology
+IPSS|International Prognostic Scoring System|Hematology
+IPSS-R|Revised International Prognostic Scoring System|Hematology
+CHIP|Clonal hematopoiesis of indeterminate potential|Hematology
+CCUS|Clonal cytopenia of undetermined significance|Hematology
+ICUS|Idiopathic cytopenia of undetermined significance|Hematology
+VAF|Variant allele frequency|Hematology
+NGS|Next-generation sequencing|Hematology
+FISH|Fluorescence in situ hybridization|Hematology
+PCR|Polymerase chain reaction|Hematology
+qPCR|Quantitative polymerase chain reaction|Hematology
+RT-PCR|Reverse transcriptase polymerase chain reaction|Hematology
+MRD|Measurable residual disease|Hematology
+MRD-neg|Measurable residual disease negative|Hematology
+MRD-pos|Measurable residual disease positive|Hematology
+CRi|Complete remission with incomplete count recovery|Hematology
+CRh|Complete remission with partial hematologic recovery|Hematology
+MLFS|Morphologic leukemia-free state|Hematology
+VGPR|Very good partial response|Hematology
+sCR|Stringent complete response|Hematology
+nCR|Near complete response|Hematology
+MMR|Major molecular response|Hematology
+CCyR|Complete cytogenetic response|Hematology
+PCyR|Partial cytogenetic response|Hematology
+CHR|Complete hematologic response|Hematology
+DMR|Deep molecular response|Hematology
+TFR|Treatment-free remission|Hematology
+IS|International scale|Hematology
+TKI|Tyrosine kinase inhibitor|Hematology
+BTKi|Bruton tyrosine kinase inhibitor|Hematology
+PI3Ki|Phosphoinositide 3-kinase inhibitor|Hematology
+BCL2i|B-cell lymphoma 2 inhibitor|Hematology
+FLT3i|FMS-like tyrosine kinase 3 inhibitor|Hematology
+IDHi|Isocitrate dehydrogenase inhibitor|Hematology
+JAKi|Janus kinase inhibitor|Hematology
+HMA|Hypomethylating agent|Hematology
+AZA|Azacitidine|Hematology
+DEC|Decitabine|Hematology
+VEN|Venetoclax|Hematology
+Carfil|Carfilzomib|Hematology
+TBI|Total body irradiation|Hematology
+ATG|Antithymocyte globulin|Hematology
+MMF|Mycophenolate mofetil|Hematology
+MTX|Methotrexate|Hematology
+Ara-C|Cytarabine|Hematology
+HiDAC|High-dose cytarabine|Hematology
+HDAC|High-dose cytarabine|Hematology
+IDAC|Intermediate-dose cytarabine|Hematology
+LDAC|Low-dose cytarabine|Hematology
+HD-MTX|High-dose methotrexate|Hematology
+HDT|High-dose therapy|Hematology
+ATRA|All-trans retinoic acid|Hematology
+ATO|Arsenic trioxide|Hematology
+GO|Gemtuzumab ozogamicin|Hematology
+7+3|Seven days of cytarabine plus three days of anthracycline induction|Hematology
+5+2|Five days of cytarabine plus two days of anthracycline|Hematology
+VCR|Vincristine|Hematology
+VBL|Vinblastine|Hematology
+VP-16|Etoposide|Hematology
+VMP|Bortezomib, melphalan, prednisone|Hematology
+VRd|Bortezomib, lenalidomide, dexamethasone|Hematology
+RVd|Lenalidomide, bortezomib, dexamethasone|Hematology
+KRd|Carfilzomib, lenalidomide, dexamethasone|Hematology
+VCd|Bortezomib, cyclophosphamide, dexamethasone|Hematology
+CyBorD|Cyclophosphamide, bortezomib, dexamethasone|Hematology
+Dara-VRd|Daratumumab, bortezomib, lenalidomide, dexamethasone|Hematology
+D-Rd|Daratumumab, lenalidomide, dexamethasone|Hematology
+DPd|Daratumumab, pomalidomide, dexamethasone|Hematology
+R-CHOP|Rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone|Hematology
+CHOP|Cyclophosphamide, doxorubicin, vincristine, prednisone|Hematology
+CHOEP|CHOP plus etoposide|Hematology
+EPOCH|Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin|Hematology
+DA-EPOCH-R|Dose-adjusted EPOCH with rituximab|Hematology
+R-EPOCH|Rituximab plus EPOCH|Hematology
+R-CVP|Rituximab, cyclophosphamide, vincristine, prednisone|Hematology
+CVP|Cyclophosphamide, vincristine, prednisone|Hematology
+FCR|Fludarabine, cyclophosphamide, rituximab|Hematology
+G-Ven|Obinutuzumab and venetoclax|Hematology
+GClb|Obinutuzumab and chlorambucil|Hematology
+Clb|Chlorambucil|Hematology
+ABVD|Doxorubicin, bleomycin, vinblastine, dacarbazine|Hematology
+AVD|Doxorubicin, vinblastine, dacarbazine|Hematology
+BEACOPP|Bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine, procarbazine, prednisone|Hematology
+BV|Brentuximab vedotin|Hematology
+A+AVD|Brentuximab vedotin plus doxorubicin, vinblastine, dacarbazine|Hematology
+R-ICE|Rituximab, ifosfamide, carboplatin, etoposide|Hematology
+ICE|Ifosfamide, carboplatin, etoposide|Hematology
+R-DHAP|Rituximab, dexamethasone, cytarabine, cisplatin|Hematology
+DHAP|Dexamethasone, cytarabine, cisplatin|Hematology
+GDP|Gemcitabine, dexamethasone, cisplatin|Hematology
+R-GDP|Rituximab, gemcitabine, dexamethasone, cisplatin|Hematology
+ESHAP|Etoposide, methylprednisolone, cytarabine, cisplatin|Hematology
+GemOx|Gemcitabine and oxaliplatin|Hematology
+R-GemOx|Rituximab, gemcitabine, oxaliplatin|Hematology
+Pola-BR|Polatuzumab vedotin with bendamustine and rituximab|Hematology
+Pola-R-CHP|Polatuzumab vedotin with rituximab, cyclophosphamide, doxorubicin, prednisone|Hematology
+R-MPV|Rituximab, methotrexate, procarbazine, vincristine|Hematology
+BEAM|Carmustine, etoposide, cytarabine, melphalan|Hematology
+CBV|Cyclophosphamide, carmustine, etoposide|Hematology
+FLAG|Fludarabine, cytarabine, granulocyte colony-stimulating factor|Hematology
+FLAG-IDA|Fludarabine, cytarabine, G-CSF, idarubicin|Hematology
+MEC|Mitoxantrone, etoposide, cytarabine|Hematology
+CLAG|Cladribine, cytarabine, granulocyte colony-stimulating factor|Hematology
+CLAG-M|Cladribine, cytarabine, G-CSF, mitoxantrone|Hematology
+HAM|High-dose cytarabine and mitoxantrone|Hematology
+CAR-T|Chimeric antigen receptor T-cell therapy|Hematology
+CAR T|Chimeric antigen receptor T cell|Hematology
+BiTE|Bispecific T-cell engager|Hematology
+BsAb|Bispecific antibody|Hematology
+ADC|Antibody-drug conjugate|Hematology
+mAb|Monoclonal antibody|Hematology
+CRS|Cytokine release syndrome|Hematology
+ICANS|Immune effector cell-associated neurotoxicity syndrome|Hematology
+IEC-HS|Immune effector cell-associated hemophagocytic syndrome|Hematology
+ICAHT|Immune effector cell-associated hematotoxicity|Hematology
+IEC|Immune effector cell|Hematology
+TLS|Tumor lysis syndrome|Hematology
+CTLS|Clinical tumor lysis syndrome|Hematology
+LTLS|Laboratory tumor lysis syndrome|Hematology
+IL-6|Interleukin 6|Hematology
+G-CSF|Granulocyte colony-stimulating factor|Hematology
+FN|Febrile neutropenia|Hematology
+NF|Neutropenic fever|Hematology
+CIN|Chemotherapy-induced neutropenia|Hematology
+CIT|Chemotherapy-induced thrombocytopenia|Hematology
+CIA|Chemotherapy-induced anemia|Hematology
+CINV|Chemotherapy-induced nausea and vomiting|Hematology
+AML|Acute myeloid leukemia|Hematology
+APL|Acute promyelocytic leukemia|Hematology
+ALL|Acute lymphoblastic leukemia|Hematology
+B-ALL|B-cell acute lymphoblastic leukemia|Hematology
+T-ALL|T-cell acute lymphoblastic leukemia|Hematology
+Ph+ ALL|Philadelphia chromosome-positive acute lymphoblastic leukemia|Hematology
+Ph-like ALL|Philadelphia chromosome-like acute lymphoblastic leukemia|Hematology
+ETP-ALL|Early T-cell precursor acute lymphoblastic leukemia|Hematology
+MPAL|Mixed phenotype acute leukemia|Hematology
+AUL|Acute undifferentiated leukemia|Hematology
+t-AML|Therapy-related acute myeloid leukemia|Hematology
+t-MN|Therapy-related myeloid neoplasm|Hematology
+t-MDS|Therapy-related myelodysplastic syndrome|Hematology
+AML-MRC|Acute myeloid leukemia with myelodysplasia-related changes|Hematology
+APML|Acute promyelocytic leukemia|Hematology
+CLL|Chronic lymphocytic leukemia|Hematology
+SLL|Small lymphocytic lymphoma|Hematology
+MBL|Monoclonal B-cell lymphocytosis|Hematology
+PLL|Prolymphocytic leukemia|Hematology
+B-PLL|B-cell prolymphocytic leukemia|Hematology
+T-PLL|T-cell prolymphocytic leukemia|Hematology
+HCL|Hairy cell leukemia|Hematology
+LGL|Large granular lymphocytic leukemia|Hematology
+T-LGL|T-cell large granular lymphocytic leukemia|Hematology
+ATLL|Adult T-cell leukemia/lymphoma|Hematology
+HTLV-1|Human T-lymphotropic virus type 1|Hematology
+del(17p)|Deletion of the short arm of chromosome 17|Hematology
+del(13q)|Deletion of the long arm of chromosome 13|Hematology
+del(11q)|Deletion of the long arm of chromosome 11|Hematology
++12|Trisomy 12|Hematology
+CLL-IPI|International prognostic index for chronic lymphocytic leukemia|Hematology
+ALC doubling|Lymphocyte doubling time|Hematology
+LDT|Lymphocyte doubling time|Hematology
+NHL|Non-Hodgkin lymphoma|Hematology
+cHL|Classical Hodgkin lymphoma|Hematology
+NLPHL|Nodular lymphocyte-predominant Hodgkin lymphoma|Hematology
+NSHL|Nodular sclerosis Hodgkin lymphoma|Hematology
+MCHL|Mixed cellularity Hodgkin lymphoma|Hematology
+DLBCL|Diffuse large B-cell lymphoma|Hematology
+GCB|Germinal center B-cell subtype|Hematology
+ABC (subtype)|Activated B-cell subtype|Hematology
+DHL|Double-hit lymphoma|Hematology
+THL|Triple-hit lymphoma|Hematology
+HGBL|High-grade B-cell lymphoma|Hematology
+PMBCL|Primary mediastinal B-cell lymphoma|Hematology
+PMLBCL|Primary mediastinal large B-cell lymphoma|Hematology
+PCNSL|Primary central nervous system lymphoma|Hematology
+MZL|Marginal zone lymphoma|Hematology
+SMZL|Splenic marginal zone lymphoma|Hematology
+NMZL|Nodal marginal zone lymphoma|Hematology
+MALT|Mucosa-associated lymphoid tissue|Hematology
+EMZL|Extranodal marginal zone lymphoma|Hematology
+MCL|Mantle cell lymphoma|Hematology
+WM|Waldenstrom macroglobulinemia|Hematology
+LPL|Lymphoplasmacytic lymphoma|Hematology
+PTLD|Post-transplant lymphoproliferative disorder|Hematology
+LPD|Lymphoproliferative disorder|Hematology
+ALCL|Anaplastic large cell lymphoma|Hematology
+PTCL|Peripheral T-cell lymphoma|Hematology
+PTCL-NOS|Peripheral T-cell lymphoma, not otherwise specified|Hematology
+AITL|Angioimmunoblastic T-cell lymphoma|Hematology
+CTCL|Cutaneous T-cell lymphoma|Hematology
+MF (CTCL)|Mycosis fungoides|Hematology
+SS|Sezary syndrome|Hematology
+ENKTL|Extranodal natural killer/T-cell lymphoma|Hematology
+LBL|Lymphoblastic lymphoma|Hematology
+LyP|Lymphomatoid papulosis|Hematology
+CBCL|Cutaneous B-cell lymphoma|Hematology
+IVLBCL|Intravascular large B-cell lymphoma|Hematology
+MCD|Multicentric Castleman disease|Hematology
+iMCD|Idiopathic multicentric Castleman disease|Hematology
+UCD|Unicentric Castleman disease|Hematology
+TAFRO|Thrombocytopenia, anasarca, fever, reticulin fibrosis, organomegaly|Hematology
+POEMS|Polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, skin changes|Hematology
+IPI|International Prognostic Index|Hematology
+R-IPI|Revised International Prognostic Index|Hematology
+NCCN-IPI|National Comprehensive Cancer Network International Prognostic Index|Hematology
+FLIPI|Follicular Lymphoma International Prognostic Index|Hematology
+MIPI|Mantle Cell Lymphoma International Prognostic Index|Hematology
+IPS|International Prognostic Score for Hodgkin lymphoma|Hematology
+EFS|Event-free survival|Hematology
+PFS|Progression-free survival|Hematology
+OS|Overall survival|Hematology
+DFS|Disease-free survival|Hematology
+RFS|Relapse-free survival|Hematology
+TTP (prog)|Time to progression|Hematology
+DOR|Duration of response|Hematology
+ORR|Overall response rate|Hematology
+MM|Multiple myeloma|Hematology
+SMM|Smoldering multiple myeloma|Hematology
+MGUS|Monoclonal gammopathy of undetermined significance|Hematology
+MGRS|Monoclonal gammopathy of renal significance|Hematology
+MGCS|Monoclonal gammopathy of clinical significance|Hematology
+IgM MGUS|Immunoglobulin M monoclonal gammopathy of undetermined significance|Hematology
+ATTR|Transthyretin amyloidosis|Hematology
+CRAB|Hypercalcemia, renal insufficiency, anemia, bone lesions|Hematology
+SLiM-CRAB|Myeloma defining events including 60 percent clonal plasma cells, light chain ratio, MRI lesions, and CRAB|Hematology
+M-protein|Monoclonal protein|Hematology
+M spike|Monoclonal protein spike on electrophoresis|Hematology
+SPEP|Serum protein electrophoresis|Hematology
+IFE|Immunofixation electrophoresis|Hematology
+sFLC|Serum free light chains|Hematology
+FLC|Free light chains|Hematology
+FLCr|Free light chain ratio|Hematology
+CTx|Chemotherapy|Hematology
+ISS|International Staging System|Hematology
+R-ISS|Revised International Staging System|Hematology
+R2-ISS|Second revision of the International Staging System|Hematology
+B2M|Beta-2 microglobulin|Hematology
+β2M|Beta-2 microglobulin|Hematology
+t(11;14)|Translocation between chromosomes 11 and 14|Hematology
+t(4;14)|Translocation between chromosomes 4 and 14|Hematology
+t(14;16)|Translocation between chromosomes 14 and 16|Hematology
+t(9;22)|Translocation between chromosomes 9 and 22 (Philadelphia chromosome)|Hematology
+t(15;17)|Translocation between chromosomes 15 and 17|Hematology
+t(8;21)|Translocation between chromosomes 8 and 21|Hematology
+inv(16)|Inversion of chromosome 16|Hematology
+t(8;14)|Translocation between chromosomes 8 and 14|Hematology
+t(14;18)|Translocation between chromosomes 14 and 18|Hematology
+Ph|Philadelphia chromosome|Hematology
+Ph1|Philadelphia chromosome|Hematology
+Ph+|Philadelphia chromosome positive|Hematology
+Ph-|Philadelphia chromosome negative|Hematology
+MPN-U|Myeloproliferative neoplasm, unclassifiable|Hematology
+FCM (flow)|Flow cytometry|Hematology
+HSCT|Hematopoietic stem cell transplantation|Hematology
+allo-HCT|Allogeneic hematopoietic cell transplantation|Hematology
+auto-HCT|Autologous hematopoietic cell transplantation|Hematology
+alloSCT|Allogeneic stem cell transplant|Hematology
+autoSCT|Autologous stem cell transplant|Hematology
+ASCT|Autologous stem cell transplant|Hematology
+MUD|Matched unrelated donor|Hematology
+MRD (donor)|Matched related donor|Hematology
+MSD|Matched sibling donor|Hematology
+MMUD|Mismatched unrelated donor|Hematology
+Haplo|Haploidentical donor transplant|Hematology
+CBT|Cord blood transplant|Hematology
+PBSC|Peripheral blood stem cells|Hematology
+CD34+|CD34-positive hematopoietic progenitor cells|Hematology
+HPC|Hematopoietic progenitor cells|Hematology
+HSC|Hematopoietic stem cell|Hematology
+MAC|Myeloablative conditioning|Hematology
+RIC|Reduced-intensity conditioning|Hematology
+NMA|Non-myeloablative conditioning|Hematology
+TRM|Transplant-related mortality|Hematology
+NRM|Non-relapse mortality|Hematology
+GVHD|Graft-versus-host disease|Hematology
+aGVHD|Acute graft-versus-host disease|Hematology
+cGVHD|Chronic graft-versus-host disease|Hematology
+GVL|Graft-versus-leukemia|Hematology
+GVT|Graft-versus-tumor|Hematology
+GRFS|GVHD-free, relapse-free survival|Hematology
+SOS|Sinusoidal obstruction syndrome|Hematology
+VOD|Veno-occlusive disease|Hematology
+BOS|Bronchiolitis obliterans syndrome|Hematology
+IPS (lung)|Idiopathic pneumonia syndrome|Hematology
+DAH|Diffuse alveolar hemorrhage|Hematology
+PGF|Poor graft function|Hematology
+DLI|Donor lymphocyte infusion|Hematology
+CMV-R|Cytomegalovirus reactivation|Hematology
+BMF|Bone marrow failure|Hematology
+IBMFS|Inherited bone marrow failure syndrome|Hematology
+SAA|Severe aplastic anemia|Hematology
+VSAA|Very severe aplastic anemia|Hematology
+NSAA|Non-severe aplastic anemia|Hematology
+DBA|Diamond-Blackfan anemia|Hematology
+HLH|Hemophagocytic lymphohistiocytosis|Hematology
+pHLH|Primary hemophagocytic lymphohistiocytosis|Hematology
+sHLH|Secondary hemophagocytic lymphohistiocytosis|Hematology
+sIL-2R|Soluble interleukin-2 receptor|Hematology
+sCD25|Soluble CD25|Hematology
+HbA1c|Glycated hemoglobin|Hematology
+HJB|Howell-Jolly bodies|Hematology
+HJ bodies|Howell-Jolly bodies|Hematology
+BS|Basophilic stippling|Hematology
+AST|Aspartate aminotransferase|Hematology
+ALT|Alanine aminotransferase|Hematology
+CH50|Total hemolytic complement|Hematology
+sC5b-9|Soluble terminal complement complex|Hematology
+C5i|Complement C5 inhibitor|Hematology
+FHb|Free hemoglobin|Hematology
+PFHb|Plasma free hemoglobin|Hematology
+PNH clone|Paroxysmal nocturnal hemoglobinuria clone size|Hematology
+XRT|Radiation therapy|Hematology
+CR1|First complete remission|Hematology
+CR2|Second complete remission|Hematology
+RRMM|Relapsed/refractory multiple myeloma|Hematology
+NDMM|Newly diagnosed multiple myeloma|Hematology
+LN bx|Lymph node biopsy|Hematology
+ISTH DIC|International Society on Thrombosis and Haemostasis DIC score|Hematology
+SIC|Sepsis-induced coagulopathy|Hematology
+ACoTS|Acute coagulopathy of trauma-shock|Hematology
+TIC|Trauma-induced coagulopathy|Hematology
+CAC|COVID-19-associated coagulopathy|Hematology

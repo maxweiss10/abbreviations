@@ -1,0 +1,700 @@
+TTE|Transthoracic echocardiogram|Cardiac Imaging
+TEE|Transesophageal echocardiogram|Cardiac Imaging
+TOE|Transoesophageal echocardiogram|Cardiac Imaging
+DSE|Dobutamine stress echocardiogram|Cardiac Imaging
+M-mode|Motion mode echocardiography|Cardiac Imaging
+CW|Continuous-wave Doppler|Cardiac Imaging
+PW|Pulsed-wave Doppler|Cardiac Imaging
+TDI|Tissue Doppler imaging|Cardiac Imaging
+CFD|Color flow Doppler|Cardiac Imaging
+CDI|Color Doppler imaging|Cardiac Imaging
+ICE|Intracardiac echocardiography|Cardiac Imaging
+IVUS|Intravascular ultrasound|Cardiac Imaging
+OCT|Optical coherence tomography|Cardiac Imaging
+NIRS|Near-infrared spectroscopy|Cardiac Imaging
+FFR|Fractional flow reserve|Cardiac Imaging
+iFR|Instantaneous wave-free ratio|Cardiac Imaging
+RFR|Resting full-cycle ratio|Cardiac Imaging
+CFR|Coronary flow reserve|Cardiac Imaging
+IMR|Index of microcirculatory resistance|Cardiac Imaging
+FFRCT|CT-derived fractional flow reserve|Cardiac Imaging
+CTA|Computed tomography angiography|Cardiac Imaging
+CCTA|Coronary computed tomography angiography|Cardiac Imaging
+CAC|Coronary artery calcium|Cardiac Imaging
+CACS|Coronary artery calcium score|Cardiac Imaging
+CT|Computed tomography|Cardiac Imaging
+CTCA|Computed tomography coronary angiography|Cardiac Imaging
+CTPA|Computed tomography pulmonary angiogram|Cardiac Imaging
+CTP|Computed tomography perfusion|Cardiac Imaging
+CT-MPI|Computed tomography myocardial perfusion imaging|Cardiac Imaging
+CMR|Cardiac magnetic resonance imaging|Cardiac Imaging
+CMRI|Cardiac magnetic resonance imaging|Cardiac Imaging
+MRI|Magnetic resonance imaging|Cardiac Imaging
+MRA|Magnetic resonance angiography|Cardiac Imaging
+CE-MRA|Contrast-enhanced magnetic resonance angiography|Cardiac Imaging
+LGE|Late gadolinium enhancement|Cardiac Imaging
+EGE|Early gadolinium enhancement|Cardiac Imaging
+ECV|Extracellular volume fraction|Cardiac Imaging
+MOLLI|Modified Look-Locker inversion recovery|Cardiac Imaging
+T1|Longitudinal relaxation time on MRI|Cardiac Imaging
+T2|Transverse relaxation time on MRI|Cardiac Imaging
+T2*|T2-star relaxation time used for iron quantification|Cardiac Imaging
+SSFP|Steady-state free precession|Cardiac Imaging
+bSSFP|Balanced steady-state free precession|Cardiac Imaging
+GRE|Gradient-recalled echo|Cardiac Imaging
+SPAIR|Spectral attenuated inversion recovery|Cardiac Imaging
+STIR|Short tau inversion recovery|Cardiac Imaging
+PSIR|Phase-sensitive inversion recovery|Cardiac Imaging
+VENC|Velocity encoding|Cardiac Imaging
+PC-MRI|Phase-contrast magnetic resonance imaging|Cardiac Imaging
+4D flow|Four-dimensional flow magnetic resonance imaging|Cardiac Imaging
+SAX|Short axis|Cardiac Imaging
+LAX|Long axis|Cardiac Imaging
+PSAX|Parasternal short axis|Cardiac Imaging
+PLAX|Parasternal long axis|Cardiac Imaging
+A4C|Apical four-chamber view|Cardiac Imaging
+A2C|Apical two-chamber view|Cardiac Imaging
+A3C|Apical three-chamber view|Cardiac Imaging
+A5C|Apical five-chamber view|Cardiac Imaging
+SC4C|Subcostal four-chamber view|Cardiac Imaging
+SSN|Suprasternal notch view|Cardiac Imaging
+4CH|Four-chamber view|Cardiac Imaging
+3CH|Three-chamber view|Cardiac Imaging
+2CH|Two-chamber view|Cardiac Imaging
+RVOT|Right ventricular outflow tract|Cardiac Imaging
+LVOT|Left ventricular outflow tract|Cardiac Imaging
+LVOTO|Left ventricular outflow tract obstruction|Cardiac Imaging
+RVIT|Right ventricular inflow tract|Cardiac Imaging
+LV|Left ventricle|Cardiac Imaging
+RV|Right ventricle|Cardiac Imaging
+LA|Left atrium|Cardiac Imaging
+RA|Right atrium|Cardiac Imaging
+LAA|Left atrial appendage|Cardiac Imaging
+RAA|Right atrial appendage|Cardiac Imaging
+AV|Aortic valve|Cardiac Imaging
+MV|Mitral valve|Cardiac Imaging
+TV|Tricuspid valve|Cardiac Imaging
+PV|Pulmonic valve|Cardiac Imaging
+PA|Pulmonary artery|Cardiac Imaging
+IVC|Inferior vena cava|Cardiac Imaging
+SVC|Superior vena cava|Cardiac Imaging
+IAS|Interatrial septum|Cardiac Imaging
+IVS|Interventricular septum|Cardiac Imaging
+IVSd|Interventricular septal thickness in diastole|Cardiac Imaging
+IVSs|Interventricular septal thickness in systole|Cardiac Imaging
+LVPW|Left ventricular posterior wall|Cardiac Imaging
+LVPWd|Left ventricular posterior wall thickness in diastole|Cardiac Imaging
+LVPWs|Left ventricular posterior wall thickness in systole|Cardiac Imaging
+LVIDd|Left ventricular internal diameter in diastole|Cardiac Imaging
+LVIDs|Left ventricular internal diameter in systole|Cardiac Imaging
+LVEDD|Left ventricular end-diastolic diameter|Cardiac Imaging
+LVESD|Left ventricular end-systolic diameter|Cardiac Imaging
+LVEDV|Left ventricular end-diastolic volume|Cardiac Imaging
+LVESV|Left ventricular end-systolic volume|Cardiac Imaging
+LVEDVI|Left ventricular end-diastolic volume index|Cardiac Imaging
+LVESVI|Left ventricular end-systolic volume index|Cardiac Imaging
+RVEDV|Right ventricular end-diastolic volume|Cardiac Imaging
+RVESV|Right ventricular end-systolic volume|Cardiac Imaging
+RVEDVI|Right ventricular end-diastolic volume index|Cardiac Imaging
+RVESVI|Right ventricular end-systolic volume index|Cardiac Imaging
+LVEF|Left ventricular ejection fraction|Cardiac Imaging
+RVEF|Right ventricular ejection fraction|Cardiac Imaging
+EF|Ejection fraction|Cardiac Imaging
+FS|Fractional shortening|Cardiac Imaging
+SVI|Stroke volume index|Cardiac Imaging
+LVM|Left ventricular mass|Cardiac Imaging
+LVMI|Left ventricular mass index|Cardiac Imaging
+RWT|Relative wall thickness|Cardiac Imaging
+LVH|Left ventricular hypertrophy|Cardiac Imaging
+RVH|Right ventricular hypertrophy|Cardiac Imaging
+LAH|Left atrial hypertrophy|Cardiac Imaging
+LAE|Left atrial enlargement|Cardiac Imaging
+RAE|Right atrial enlargement|Cardiac Imaging
+LVE|Left ventricular enlargement|Cardiac Imaging
+RVE|Right ventricular enlargement|Cardiac Imaging
+LAV|Left atrial volume|Cardiac Imaging
+LAVI|Left atrial volume index|Cardiac Imaging
+RAV|Right atrial volume|Cardiac Imaging
+RAVI|Right atrial volume index|Cardiac Imaging
+LAESV|Left atrial end-systolic volume|Cardiac Imaging
+BSA|Body surface area|Cardiac Imaging
+BMI|Body mass index|Cardiac Imaging
+HR|Heart rate|Cardiac Imaging
+BP|Blood pressure|Cardiac Imaging
+GLS|Global longitudinal strain|Cardiac Imaging
+GCS|Global circumferential strain|Cardiac Imaging
+GRS|Global radial strain|Cardiac Imaging
+STE|Speckle tracking echocardiography|Cardiac Imaging
+FT|Feature tracking|Cardiac Imaging
+CMR-FT|Cardiac magnetic resonance feature tracking|Cardiac Imaging
+RVFWS|Right ventricular free wall strain|Cardiac Imaging
+RVGLS|Right ventricular global longitudinal strain|Cardiac Imaging
+LASr|Left atrial reservoir strain|Cardiac Imaging
+LAScd|Left atrial conduit strain|Cardiac Imaging
+LASct|Left atrial contractile strain|Cardiac Imaging
+TTP|Time to peak|Cardiac Imaging
+MAPSE|Mitral annular plane systolic excursion|Cardiac Imaging
+TAPSE|Tricuspid annular plane systolic excursion|Cardiac Imaging
+FAC|Fractional area change|Cardiac Imaging
+RVFAC|Right ventricular fractional area change|Cardiac Imaging
+RIMP|Right ventricular index of myocardial performance|Cardiac Imaging
+IVRT|Isovolumic relaxation time|Cardiac Imaging
+IVCT|Isovolumic contraction time|Cardiac Imaging
+DT|Deceleration time|Cardiac Imaging
+EDT|E-wave deceleration time|Cardiac Imaging
+E/A|Ratio of early to late mitral inflow velocity|Cardiac Imaging
+e'|Early diastolic mitral annular tissue velocity|Cardiac Imaging
+a'|Late diastolic mitral annular tissue velocity|Cardiac Imaging
+s'|Systolic annular tissue velocity|Cardiac Imaging
+E/e'|Ratio of mitral inflow E velocity to annular e' velocity|Cardiac Imaging
+MV E|Mitral valve early inflow velocity|Cardiac Imaging
+TR Vmax|Peak tricuspid regurgitation velocity|Cardiac Imaging
+Vmax|Maximum velocity|Cardiac Imaging
+Vmean|Mean velocity|Cardiac Imaging
+VTI|Velocity-time integral|Cardiac Imaging
+LVOT VTI|Left ventricular outflow tract velocity-time integral|Cardiac Imaging
+AV VTI|Aortic valve velocity-time integral|Cardiac Imaging
+DVI|Dimensionless velocity index|Cardiac Imaging
+AVA|Aortic valve area|Cardiac Imaging
+AVAi|Aortic valve area indexed to body surface area|Cardiac Imaging
+MVA|Mitral valve area|Cardiac Imaging
+TVA|Tricuspid valve area|Cardiac Imaging
+PHT|Pressure half-time|Cardiac Imaging
+PPG|Peak pressure gradient|Cardiac Imaging
+MPG|Mean pressure gradient|Cardiac Imaging
+AS|Aortic stenosis|Cardiac Imaging
+AR|Aortic regurgitation|Cardiac Imaging
+AI|Aortic insufficiency|Cardiac Imaging
+MS|Mitral stenosis|Cardiac Imaging
+MR|Mitral regurgitation|Cardiac Imaging
+TS|Tricuspid stenosis|Cardiac Imaging
+PS|Pulmonic stenosis|Cardiac Imaging
+PR|Pulmonic regurgitation|Cardiac Imaging
+PI|Pulmonic insufficiency|Cardiac Imaging
+FMR|Functional mitral regurgitation|Cardiac Imaging
+SMR|Secondary mitral regurgitation|Cardiac Imaging
+PMR|Primary mitral regurgitation|Cardiac Imaging
+DMR|Degenerative mitral regurgitation|Cardiac Imaging
+FTR|Functional tricuspid regurgitation|Cardiac Imaging
+STR|Secondary tricuspid regurgitation|Cardiac Imaging
+EROA|Effective regurgitant orifice area|Cardiac Imaging
+RVol|Regurgitant volume|Cardiac Imaging
+RF|Regurgitant fraction|Cardiac Imaging
+PISA|Proximal isovelocity surface area|Cardiac Imaging
+VC|Vena contracta|Cardiac Imaging
+VCW|Vena contracta width|Cardiac Imaging
+VCA|Vena contracta area|Cardiac Imaging
+MAC|Mitral annular calcification|Cardiac Imaging
+AVC|Aortic valve calcification|Cardiac Imaging
+AVCS|Aortic valve calcium score|Cardiac Imaging
+BAV|Bicuspid aortic valve|Cardiac Imaging
+UAV|Unicuspid aortic valve|Cardiac Imaging
+QAV|Quadricuspid aortic valve|Cardiac Imaging
+MVP|Mitral valve prolapse|Cardiac Imaging
+FED|Fibroelastic deficiency|Cardiac Imaging
+SAM|Systolic anterior motion of the mitral valve|Cardiac Imaging
+AML|Anterior mitral leaflet|Cardiac Imaging
+PML|Posterior mitral leaflet|Cardiac Imaging
+ALPM|Anterolateral papillary muscle|Cardiac Imaging
+PMPM|Posteromedial papillary muscle|Cardiac Imaging
+RCC|Right coronary cusp|Cardiac Imaging
+LCC|Left coronary cusp|Cardiac Imaging
+NCC|Non-coronary cusp|Cardiac Imaging
+STJ|Sinotubular junction|Cardiac Imaging
+SOV|Sinus of Valsalva|Cardiac Imaging
+AAo|Ascending aorta|Cardiac Imaging
+DAo|Descending aorta|Cardiac Imaging
+AoA|Aortic arch|Cardiac Imaging
+AoR|Aortic root|Cardiac Imaging
+TAA|Thoracic aortic aneurysm|Cardiac Imaging
+AAA|Abdominal aortic aneurysm|Cardiac Imaging
+TAAA|Thoracoabdominal aortic aneurysm|Cardiac Imaging
+IMH|Intramural hematoma|Cardiac Imaging
+PAU|Penetrating atherosclerotic ulcer|Cardiac Imaging
+AAS|Acute aortic syndrome|Cardiac Imaging
+TAD|Thoracic aortic dissection|Cardiac Imaging
+IAA|Interrupted aortic arch|Cardiac Imaging
+CoA|Coarctation of the aorta|Cardiac Imaging
+PDA|Patent ductus arteriosus|Cardiac Imaging
+PFO|Patent foramen ovale|Cardiac Imaging
+ASD|Atrial septal defect|Cardiac Imaging
+VSD|Ventricular septal defect|Cardiac Imaging
+AVSD|Atrioventricular septal defect|Cardiac Imaging
+ASA|Atrial septal aneurysm|Cardiac Imaging
+TOF|Tetralogy of Fallot, congenital defect with four features|Cardiac Imaging
+TGA|Transposition of the great arteries|Cardiac Imaging
+d-TGA|Dextro-transposition of the great arteries|Cardiac Imaging
+L-TGA|Levo-transposition of the great arteries|Cardiac Imaging
+ccTGA|Congenitally corrected transposition of the great arteries|Cardiac Imaging
+DORV|Double outlet right ventricle|Cardiac Imaging
+DOLV|Double outlet left ventricle|Cardiac Imaging
+TAPVR|Total anomalous pulmonary venous return|Cardiac Imaging
+PAPVR|Partial anomalous pulmonary venous return|Cardiac Imaging
+APVR|Anomalous pulmonary venous return|Cardiac Imaging
+HLHS|Hypoplastic left heart syndrome|Cardiac Imaging
+PLSVC|Persistent left superior vena cava|Cardiac Imaging
+LSVC|Left superior vena cava|Cardiac Imaging
+ALCAPA|Anomalous left coronary artery from the pulmonary artery|Cardiac Imaging
+ARCAPA|Anomalous right coronary artery from the pulmonary artery|Cardiac Imaging
+AAOCA|Anomalous aortic origin of a coronary artery|Cardiac Imaging
+ACAOS|Anomalous coronary artery from the opposite sinus|Cardiac Imaging
+CAF|Coronary artery fistula|Cardiac Imaging
+CAA|Coronary artery aneurysm|Cardiac Imaging
+SCAD|Spontaneous coronary artery dissection|Cardiac Imaging
+PAPVC|Partial anomalous pulmonary venous connection|Cardiac Imaging
+TAPVC|Total anomalous pulmonary venous connection|Cardiac Imaging
+ToF|Tetralogy of Fallot, congenital defect with four features|Cardiac Imaging
+ASH|Asymmetric septal hypertrophy|Cardiac Imaging
+HCM|Hypertrophic cardiomyopathy|Cardiac Imaging
+HOCM|Hypertrophic obstructive cardiomyopathy|Cardiac Imaging
+DCM|Dilated cardiomyopathy|Cardiac Imaging
+NICM|Nonischemic cardiomyopathy|Cardiac Imaging
+ICM|Ischemic cardiomyopathy|Cardiac Imaging
+RCM|Restrictive cardiomyopathy|Cardiac Imaging
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Cardiac Imaging
+ACM|Arrhythmogenic cardiomyopathy|Cardiac Imaging
+LVNC|Left ventricular noncompaction|Cardiac Imaging
+TTS|Takotsubo syndrome|Cardiac Imaging
+TCM|Takotsubo cardiomyopathy|Cardiac Imaging
+ATTR|Transthyretin amyloid|Cardiac Imaging
+ATTR-CM|Transthyretin amyloid cardiomyopathy|Cardiac Imaging
+PYP|Technetium pyrophosphate scintigraphy|Cardiac Imaging
+DPD|Technetium 3,3-diphosphono-1,2-propanodicarboxylic acid scintigraphy|Cardiac Imaging
+HMDP|Technetium hydroxymethylene diphosphonate scintigraphy|Cardiac Imaging
+H/CL|Heart-to-contralateral lung ratio|Cardiac Imaging
+SPECT|Single-photon emission computed tomography|Cardiac Imaging
+PET|Positron emission tomography|Cardiac Imaging
+SPECT-MPI|Single-photon emission computed tomography myocardial perfusion imaging|Cardiac Imaging
+PET-MPI|Positron emission tomography myocardial perfusion imaging|Cardiac Imaging
+PET/CT|Positron emission tomography combined with computed tomography|Cardiac Imaging
+PET/MR|Positron emission tomography combined with magnetic resonance imaging|Cardiac Imaging
+SPECT/CT|Single-photon emission computed tomography combined with computed tomography|Cardiac Imaging
+FDG|Fluorodeoxyglucose|Cardiac Imaging
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Cardiac Imaging
+Rb-82|Rubidium-82|Cardiac Imaging
+N-13|Nitrogen-13 ammonia|Cardiac Imaging
+O-15|Oxygen-15 water|Cardiac Imaging
+Tc-99m|Technetium-99m|Cardiac Imaging
+Tl-201|Thallium-201|Cardiac Imaging
+MIBI|Technetium-99m sestamibi|Cardiac Imaging
+sestamibi|Technetium-99m sestamibi tracer|Cardiac Imaging
+MIBG|Metaiodobenzylguanidine|Cardiac Imaging
+I-123 MIBG|Iodine-123 metaiodobenzylguanidine|Cardiac Imaging
+H/M|Heart-to-mediastinum ratio|Cardiac Imaging
+MBF|Myocardial blood flow|Cardiac Imaging
+MFR|Myocardial flow reserve|Cardiac Imaging
+MPR|Myocardial perfusion reserve|Cardiac Imaging
+CFC|Coronary flow capacity|Cardiac Imaging
+TPD|Total perfusion deficit|Cardiac Imaging
+TID|Transient ischemic dilation|Cardiac Imaging
+LVTID|Left ventricular transient ischemic dilation|Cardiac Imaging
+MPHR|Maximum predicted heart rate|Cardiac Imaging
+APMHR|Age-predicted maximum heart rate|Cardiac Imaging
+THR|Target heart rate|Cardiac Imaging
+METs|Metabolic equivalents|Cardiac Imaging
+MET|Metabolic equivalent|Cardiac Imaging
+DTS|Duke treadmill score|Cardiac Imaging
+ETT|Exercise treadmill test|Cardiac Imaging
+EST|Exercise stress test|Cardiac Imaging
+GXT|Graded exercise test|Cardiac Imaging
+CPET|Cardiopulmonary exercise test|Cardiac Imaging
+CPX|Cardiopulmonary exercise testing|Cardiac Imaging
+VO2|Oxygen uptake|Cardiac Imaging
+VO2max|Maximal oxygen uptake|Cardiac Imaging
+HRR|Heart rate recovery|Cardiac Imaging
+RPE|Rating of perceived exertion|Cardiac Imaging
+RPP|Rate-pressure product|Cardiac Imaging
+MCE|Myocardial contrast echocardiography|Cardiac Imaging
+UEA|Ultrasound enhancing agent|Cardiac Imaging
+LVO|Left ventricular opacification|Cardiac Imaging
+UCA|Ultrasound contrast agent|Cardiac Imaging
+GBCA|Gadolinium-based contrast agent|Cardiac Imaging
+NSF|Nephrogenic systemic fibrosis|Cardiac Imaging
+CIN|Contrast-induced nephropathy|Cardiac Imaging
+CI-AKI|Contrast-induced acute kidney injury|Cardiac Imaging
+CKD|Chronic kidney disease|Cardiac Imaging
+AKI|Acute kidney injury|Cardiac Imaging
+eGFR|Estimated glomerular filtration rate|Cardiac Imaging
+HU|Hounsfield unit|Cardiac Imaging
+mSv|Millisievert|Cardiac Imaging
+mGy|Milligray|Cardiac Imaging
+DLP|Dose-length product|Cardiac Imaging
+CTDI|Computed tomography dose index|Cardiac Imaging
+CTDIvol|Volume computed tomography dose index|Cardiac Imaging
+ALARA|As low as reasonably achievable radiation dose principle|Cardiac Imaging
+kV|Kilovolt|Cardiac Imaging
+kVp|Peak kilovoltage|Cardiac Imaging
+mAs|Milliampere-seconds|Cardiac Imaging
+ECG-gating|Synchronizing image acquisition to the electrocardiogram|Cardiac Imaging
+DECT|Dual-energy computed tomography|Cardiac Imaging
+PCCT|Photon-counting computed tomography|Cardiac Imaging
+MDCT|Multidetector computed tomography|Cardiac Imaging
+HRCT|High-resolution computed tomography|Cardiac Imaging
+NCCT|Non-contrast computed tomography|Cardiac Imaging
+MIP|Maximum intensity projection|Cardiac Imaging
+MPR recon|Multiplanar reformat|Cardiac Imaging
+CPR|Curved planar reformat|Cardiac Imaging
+SSD|Shaded surface display|Cardiac Imaging
+CAD-RADS|Coronary artery disease reporting and data system|Cardiac Imaging
+CAD-RADS 2.0|Second version of the coronary artery disease reporting and data system|Cardiac Imaging
+PAV|Percent atheroma volume|Cardiac Imaging
+TAV|Total atheroma volume|Cardiac Imaging
+NCP|Non-calcified plaque|Cardiac Imaging
+CP|Calcified plaque|Cardiac Imaging
+LAP|Low-attenuation plaque|Cardiac Imaging
+HRP|High-risk plaque|Cardiac Imaging
+TCFA|Thin-cap fibroatheroma|Cardiac Imaging
+FCT|Fibrous cap thickness|Cardiac Imaging
+PCAT|Pericoronary adipose tissue|Cardiac Imaging
+FAI|Fat attenuation index|Cardiac Imaging
+EAT|Epicardial adipose tissue|Cardiac Imaging
+EFT|Epicardial fat thickness|Cardiac Imaging
+SIS|Segment involvement score|Cardiac Imaging
+CTA-FFR|Computed tomography angiography derived fractional flow reserve|Cardiac Imaging
+AI-QCT|Artificial intelligence-guided quantitative coronary computed tomography angiography|Cardiac Imaging
+QCA|Quantitative coronary angiography|Cardiac Imaging
+CAG|Coronary angiography|Cardiac Imaging
+ICA|Invasive coronary angiography|Cardiac Imaging
+LHC|Left heart catheterization|Cardiac Imaging
+RHC|Right heart catheterization|Cardiac Imaging
+LV gram|Left ventriculogram|Cardiac Imaging
+LVG|Left ventriculography|Cardiac Imaging
+RAO|Right anterior oblique|Cardiac Imaging
+LAO|Left anterior oblique|Cardiac Imaging
+CRA|Cranial angulation|Cardiac Imaging
+CAU|Caudal angulation|Cardiac Imaging
+LAD|Left anterior descending artery|Cardiac Imaging
+LCx|Left circumflex artery|Cardiac Imaging
+LCX|Left circumflex artery|Cardiac Imaging
+RCA|Right coronary artery|Cardiac Imaging
+LMCA|Left main coronary artery|Cardiac Imaging
+LM|Left main coronary artery|Cardiac Imaging
+PDA coronary|Posterior descending artery|Cardiac Imaging
+RI|Ramus intermedius|Cardiac Imaging
+CS vein|Coronary sinus|Cardiac Imaging
+GCV|Great cardiac vein|Cardiac Imaging
+MCV|Middle cardiac vein|Cardiac Imaging
+AIV|Anterior interventricular vein|Cardiac Imaging
+PLVV|Posterolateral ventricular vein|Cardiac Imaging
+LIMA|Left internal mammary artery|Cardiac Imaging
+RIMA|Right internal mammary artery|Cardiac Imaging
+IMA|Internal mammary artery|Cardiac Imaging
+ITA|Internal thoracic artery|Cardiac Imaging
+LITA|Left internal thoracic artery|Cardiac Imaging
+RITA|Right internal thoracic artery|Cardiac Imaging
+SVG|Saphenous vein graft|Cardiac Imaging
+RA graft|Radial artery graft|Cardiac Imaging
+CABG|Coronary artery bypass grafting|Cardiac Imaging
+PCI|Percutaneous coronary intervention|Cardiac Imaging
+DES|Drug-eluting stent|Cardiac Imaging
+BMS|Bare-metal stent|Cardiac Imaging
+BVS|Bioresorbable vascular scaffold|Cardiac Imaging
+DCB|Drug-coated balloon|Cardiac Imaging
+ISR|In-stent restenosis|Cardiac Imaging
+CTO|Chronic total occlusion|Cardiac Imaging
+MLA|Minimal lumen area|Cardiac Imaging
+MLD|Minimal lumen diameter|Cardiac Imaging
+MSA|Minimal stent area|Cardiac Imaging
+RLD|Reference lumen diameter|Cardiac Imaging
+DS|Diameter stenosis|Cardiac Imaging
+TIMI|Thrombolysis in myocardial infarction flow grade|Cardiac Imaging
+TFC|TIMI frame count|Cardiac Imaging
+CTFC|Corrected TIMI frame count|Cardiac Imaging
+MBG|Myocardial blush grade|Cardiac Imaging
+TMPG|TIMI myocardial perfusion grade|Cardiac Imaging
+CMD|Coronary microvascular dysfunction|Cardiac Imaging
+INOCA|Ischemia with nonobstructive coronary arteries|Cardiac Imaging
+MINOCA|Myocardial infarction with nonobstructive coronary arteries|Cardiac Imaging
+CAD|Coronary artery disease|Cardiac Imaging
+CHD|Coronary heart disease|Cardiac Imaging
+IHD|Ischemic heart disease|Cardiac Imaging
+ASCVD|Atherosclerotic cardiovascular disease|Cardiac Imaging
+OCAD|Obstructive coronary artery disease|Cardiac Imaging
+NOCAD|Nonobstructive coronary artery disease|Cardiac Imaging
+MVD|Multivessel disease|Cardiac Imaging
+SVD|Single-vessel disease|Cardiac Imaging
+MI|Myocardial infarction|Cardiac Imaging
+STEMI|ST-elevation myocardial infarction|Cardiac Imaging
+NSTEMI|Non-ST-elevation myocardial infarction|Cardiac Imaging
+ACS|Acute coronary syndrome|Cardiac Imaging
+UA|Unstable angina|Cardiac Imaging
+SIHD|Stable ischemic heart disease|Cardiac Imaging
+CCS|Chronic coronary syndrome|Cardiac Imaging
+MVO|Microvascular obstruction|Cardiac Imaging
+IMH cardiac|Intramyocardial hemorrhage|Cardiac Imaging
+IS|Infarct size|Cardiac Imaging
+AAR|Area at risk|Cardiac Imaging
+MSI|Myocardial salvage index|Cardiac Imaging
+WMA|Wall motion abnormality|Cardiac Imaging
+RWMA|Regional wall motion abnormality|Cardiac Imaging
+WMSI|Wall motion score index|Cardiac Imaging
+WMS|Wall motion score|Cardiac Imaging
+17-seg|Seventeen-segment left ventricular model|Cardiac Imaging
+SWMA|Segmental wall motion abnormality|Cardiac Imaging
+HK|Hypokinesis|Cardiac Imaging
+AK|Akinesis|Cardiac Imaging
+DK|Dyskinesis|Cardiac Imaging
+HyperK|Hyperkinesis|Cardiac Imaging
+LVA|Left ventricular aneurysm|Cardiac Imaging
+LVT|Left ventricular thrombus|Cardiac Imaging
+LAAT|Left atrial appendage thrombus|Cardiac Imaging
+LAAO|Left atrial appendage occlusion|Cardiac Imaging
+LAAC|Left atrial appendage closure|Cardiac Imaging
+SEC|Spontaneous echo contrast|Cardiac Imaging
+LAA EV|Left atrial appendage emptying velocity|Cardiac Imaging
+DRT|Device-related thrombus|Cardiac Imaging
+PVL|Paravalvular leak|Cardiac Imaging
+PPM|Prosthesis-patient mismatch|Cardiac Imaging
+EOA|Effective orifice area|Cardiac Imaging
+EOAi|Indexed effective orifice area|Cardiac Imaging
+GOA|Geometric orifice area|Cardiac Imaging
+PVE|Prosthetic valve endocarditis|Cardiac Imaging
+IE|Infective endocarditis|Cardiac Imaging
+NVE|Native valve endocarditis|Cardiac Imaging
+NBTE|Nonbacterial thrombotic endocarditis|Cardiac Imaging
+TAVR|Transcatheter aortic valve replacement|Cardiac Imaging
+TAVI|Transcatheter aortic valve implantation|Cardiac Imaging
+SAVR|Surgical aortic valve replacement|Cardiac Imaging
+TMVR|Transcatheter mitral valve replacement|Cardiac Imaging
+TEER|Transcatheter edge-to-edge repair|Cardiac Imaging
+M-TEER|Mitral transcatheter edge-to-edge repair|Cardiac Imaging
+T-TEER|Tricuspid transcatheter edge-to-edge repair|Cardiac Imaging
+TTVR|Transcatheter tricuspid valve replacement|Cardiac Imaging
+TPVR|Transcatheter pulmonary valve replacement|Cardiac Imaging
+BAV procedure|Balloon aortic valvuloplasty|Cardiac Imaging
+PBMV|Percutaneous balloon mitral valvuloplasty|Cardiac Imaging
+PMBC|Percutaneous mitral balloon commissurotomy|Cardiac Imaging
+MVR|Mitral valve replacement|Cardiac Imaging
+AVR|Aortic valve replacement|Cardiac Imaging
+TVR|Tricuspid valve replacement|Cardiac Imaging
+VIV|Valve-in-valve|Cardiac Imaging
+ViV|Valve-in-valve|Cardiac Imaging
+ViR|Valve-in-ring|Cardiac Imaging
+ViMAC|Valve-in-mitral annular calcification|Cardiac Imaging
+LVOT-obstruction|Obstruction of the left ventricular outflow tract|Cardiac Imaging
+NeoLVOT|Neo-left ventricular outflow tract|Cardiac Imaging
+PVL grade|Paravalvular leak severity grade|Cardiac Imaging
+PE|Pericardial effusion|Cardiac Imaging
+PLE|Pleural effusion|Cardiac Imaging
+TAMP|Tamponade|Cardiac Imaging
+ECP|Effusive-constrictive pericarditis|Cardiac Imaging
+RV collapse|Right ventricular diastolic collapse|Cardiac Imaging
+RA collapse|Right atrial systolic collapse|Cardiac Imaging
+RAP|Right atrial pressure|Cardiac Imaging
+RVSP|Right ventricular systolic pressure|Cardiac Imaging
+PASP|Pulmonary artery systolic pressure|Cardiac Imaging
+PADP|Pulmonary artery diastolic pressure|Cardiac Imaging
+mPAP|Mean pulmonary artery pressure|Cardiac Imaging
+PAP|Pulmonary artery pressure|Cardiac Imaging
+PCWP|Pulmonary capillary wedge pressure|Cardiac Imaging
+LVEDP|Left ventricular end-diastolic pressure|Cardiac Imaging
+PH|Pulmonary hypertension|Cardiac Imaging
+PAH|Pulmonary arterial hypertension|Cardiac Imaging
+CTEPH|Chronic thromboembolic pulmonary hypertension|Cardiac Imaging
+PAAT|Pulmonary artery acceleration time|Cardiac Imaging
+AT|Acceleration time|Cardiac Imaging
+ET|Ejection time|Cardiac Imaging
+AcT|Acceleration time|Cardiac Imaging
+PAAT/ET|Ratio of pulmonary artery acceleration time to ejection time|Cardiac Imaging
+TAPSE/PASP|Ratio of tricuspid annular plane systolic excursion to pulmonary artery systolic pressure|Cardiac Imaging
+RV-PA coupling|Right ventricular to pulmonary arterial coupling|Cardiac Imaging
+Ees/Ea|End-systolic elastance to arterial elastance ratio|Cardiac Imaging
+Ees|End-systolic elastance|Cardiac Imaging
+Ea|Arterial elastance|Cardiac Imaging
+PV loop|Pressure-volume loop|Cardiac Imaging
+dP/dt|Rate of pressure change over time|Cardiac Imaging
+RV dP/dt|Right ventricular rate of pressure rise|Cardiac Imaging
+LV dP/dt|Left ventricular rate of pressure rise|Cardiac Imaging
+SWT|Septal wall thickness|Cardiac Imaging
+MWT|Maximal wall thickness|Cardiac Imaging
+MLVWT|Maximal left ventricular wall thickness|Cardiac Imaging
+RVWT|Right ventricular wall thickness|Cardiac Imaging
+RVD|Right ventricular diameter|Cardiac Imaging
+RVD1|Right ventricular basal diameter|Cardiac Imaging
+RVD2|Right ventricular mid diameter|Cardiac Imaging
+RVD3|Right ventricular longitudinal diameter|Cardiac Imaging
+RVEDA|Right ventricular end-diastolic area|Cardiac Imaging
+RVESA|Right ventricular end-systolic area|Cardiac Imaging
+Ao|Aorta|Cardiac Imaging
+PVs|Pulmonary veins|Cardiac Imaging
+PV flow|Pulmonary vein flow|Cardiac Imaging
+Ar-A|Difference in duration between pulmonary vein atrial reversal and mitral A wave|Cardiac Imaging
+Ar|Pulmonary vein atrial reversal velocity|Cardiac Imaging
+HV flow|Hepatic vein flow|Cardiac Imaging
+HVs|Hepatic veins|Cardiac Imaging
+LVDD|Left ventricular diastolic dysfunction|Cardiac Imaging
+HFpEF|Heart failure with preserved ejection fraction|Cardiac Imaging
+HFrEF|Heart failure with reduced ejection fraction|Cardiac Imaging
+HFmrEF|Heart failure with mildly reduced ejection fraction|Cardiac Imaging
+HF|Heart failure|Cardiac Imaging
+SHD|Structural heart disease|Cardiac Imaging
+CHD cong|Congenital heart disease|Cardiac Imaging
+ACHD|Adult congenital heart disease|Cardiac Imaging
+CHF|Congestive heart failure|Cardiac Imaging
+CRT|Cardiac resynchronization therapy|Cardiac Imaging
+ICD|Implantable cardioverter-defibrillator|Cardiac Imaging
+PPM device|Permanent pacemaker|Cardiac Imaging
+LBBB|Left bundle branch block|Cardiac Imaging
+RBBB|Right bundle branch block|Cardiac Imaging
+CIED|Cardiac implantable electronic device|Cardiac Imaging
+MRI-conditional|Safe for magnetic resonance imaging under specified conditions|Cardiac Imaging
+MR-conditional|Safe for magnetic resonance imaging under specified conditions|Cardiac Imaging
+SAR|Specific absorption rate|Cardiac Imaging
+FSE|Fast spin echo|Cardiac Imaging
+TSE|Turbo spin echo|Cardiac Imaging
+DIR|Double inversion recovery|Cardiac Imaging
+MRE|Magnetic resonance elastography|Cardiac Imaging
+SNR|Signal-to-noise ratio|Cardiac Imaging
+CNR|Contrast-to-noise ratio|Cardiac Imaging
+RF pulse|Radiofrequency pulse|Cardiac Imaging
+VCG|Vectorcardiogram|Cardiac Imaging
+HASTE|Half-Fourier acquisition single-shot turbo spin echo|Cardiac Imaging
+EPI|Echo-planar imaging|Cardiac Imaging
+FLASH|Fast low angle shot gradient echo|Cardiac Imaging
+DENSE|Displacement encoding with stimulated echoes|Cardiac Imaging
+SENC|Strain-encoded magnetic resonance imaging|Cardiac Imaging
+MR tagging|Magnetic resonance myocardial tagging|Cardiac Imaging
+SCMR|Stress cardiac magnetic resonance imaging|Cardiac Imaging
+ASL|Arterial spin labeling|Cardiac Imaging
+BOLD|Blood oxygen level-dependent imaging|Cardiac Imaging
+AAD|Aortic annulus diameter|Cardiac Imaging
+AoAn|Aortic annulus|Cardiac Imaging
+SoV|Sinus of Valsalva|Cardiac Imaging
+SoV height|Sinus of Valsalva height|Cardiac Imaging
+PAD|Peripheral artery disease|Cardiac Imaging
+ABI|Ankle-brachial index|Cardiac Imaging
+TBI|Toe-brachial index|Cardiac Imaging
+PWV|Pulse wave velocity|Cardiac Imaging
+cfPWV|Carotid-femoral pulse wave velocity|Cardiac Imaging
+baPWV|Brachial-ankle pulse wave velocity|Cardiac Imaging
+CIMT|Carotid intima-media thickness|Cardiac Imaging
+IMT|Intima-media thickness|Cardiac Imaging
+CCA|Common carotid artery|Cardiac Imaging
+ICA carotid|Internal carotid artery|Cardiac Imaging
+ECA|External carotid artery|Cardiac Imaging
+CAS|Carotid artery stenosis|Cardiac Imaging
+FMD|Flow-mediated dilation|Cardiac Imaging
+PSV|Peak systolic velocity|Cardiac Imaging
+EDV|End-diastolic velocity|Cardiac Imaging
+SRI|Septal reflection index|Cardiac Imaging
+EI|Eccentricity index|Cardiac Imaging
+D-sign|D-shaped septum from right ventricular pressure or volume overload|Cardiac Imaging
+60/60 sign|Pulmonary acceleration time under 60 ms with tricuspid gradient under 60 mm Hg|Cardiac Imaging
+RV/LV|Ratio of right to left ventricular size|Cardiac Imaging
+RV:LV|Ratio of right to left ventricular diameter|Cardiac Imaging
+IVC CI|Inferior vena cava collapsibility index|Cardiac Imaging
+IVCCI|Inferior vena cava collapsibility index|Cardiac Imaging
+POCUS|Point-of-care ultrasound|Cardiac Imaging
+FAST|Focused assessment with sonography for trauma|Cardiac Imaging
+eFAST|Extended focused assessment with sonography for trauma|Cardiac Imaging
+EPSS|E-point septal separation|Cardiac Imaging
+VExUS|Venous excess ultrasound|Cardiac Imaging
+B-lines|Vertical lung ultrasound artifacts indicating interstitial fluid|Cardiac Imaging
+LUS|Lung ultrasound|Cardiac Imaging
+CXR|Chest x-ray|Cardiac Imaging
+CTR|Cardiothoracic ratio|Cardiac Imaging
+TCD|Transcranial Doppler|Cardiac Imaging
+Qp:Qs|Ratio of pulmonary to systemic blood flow|Cardiac Imaging
+Qp/Qs|Ratio of pulmonary to systemic blood flow|Cardiac Imaging
+Qp|Pulmonary blood flow|Cardiac Imaging
+Qs|Systemic blood flow|Cardiac Imaging
+SVR|Systemic vascular resistance|Cardiac Imaging
+WU|Wood units|Cardiac Imaging
+TPG|Transpulmonary gradient|Cardiac Imaging
+DPG|Diastolic pulmonary gradient|Cardiac Imaging
+SvO2|Mixed venous oxygen saturation|Cardiac Imaging
+SaO2|Arterial oxygen saturation|Cardiac Imaging
+FiO2|Fraction of inspired oxygen|Cardiac Imaging
+SpO2|Peripheral oxygen saturation|Cardiac Imaging
+PHT method|Pressure half-time method|Cardiac Imaging
+SVR index|Systemic vascular resistance index|Cardiac Imaging
+Zva|Valvuloarterial impedance|Cardiac Imaging
+SAC|Systemic arterial compliance|Cardiac Imaging
+LFLG|Low-flow, low-gradient aortic stenosis|Cardiac Imaging
+NFLG|Normal-flow, low-gradient aortic stenosis|Cardiac Imaging
+PLFLG|Paradoxical low-flow, low-gradient aortic stenosis|Cardiac Imaging
+LFLG-AS|Low-flow, low-gradient aortic stenosis|Cardiac Imaging
+HG-AS|High-gradient aortic stenosis|Cardiac Imaging
+CFR echo|Coronary flow velocity reserve|Cardiac Imaging
+CFVR|Coronary flow velocity reserve|Cardiac Imaging
+CVR|Coronary vascular resistance|Cardiac Imaging
+HMR|Hyperemic microvascular resistance|Cardiac Imaging
+HSR|Hyperemic stenosis resistance|Cardiac Imaging
+Pd/Pa|Ratio of distal coronary pressure to aortic pressure|Cardiac Imaging
+Pd|Distal coronary pressure|Cardiac Imaging
+Pa|Aortic pressure|Cardiac Imaging
+NHPR|Non-hyperemic pressure ratio|Cardiac Imaging
+dPR|Diastolic pressure ratio|Cardiac Imaging
+DFR|Diastolic hyperemia-free ratio|Cardiac Imaging
+QFR|Quantitative flow ratio|Cardiac Imaging
+vFFR|Virtual fractional flow reserve|Cardiac Imaging
+OFR|Optical flow ratio|Cardiac Imaging
+VH|Virtual histology|Cardiac Imaging
+LCBI|Lipid core burden index|Cardiac Imaging
+OFDI|Optical frequency domain imaging|Cardiac Imaging
+FD-OCT|Frequency-domain optical coherence tomography|Cardiac Imaging
+TD-OCT|Time-domain optical coherence tomography|Cardiac Imaging
+EEL|External elastic lamina|Cardiac Imaging
+IEL|Internal elastic lamina|Cardiac Imaging
+EEM|External elastic membrane|Cardiac Imaging
+CAC-DRS|Coronary artery calcium data and reporting system|Cardiac Imaging
+TAC|Thoracic aortic calcium|Cardiac Imaging
+LAEF|Left atrial ejection fraction|Cardiac Imaging
+LAFS|Left atrial fractional shortening|Cardiac Imaging
+LAEI|Left atrial emptying index|Cardiac Imaging
+RAEF|Right atrial ejection fraction|Cardiac Imaging
+LASI|Left atrial stiffness index|Cardiac Imaging
+AF|Atrial fibrillation|Cardiac Imaging
+AFL|Atrial flutter|Cardiac Imaging
+AFib|Atrial fibrillation|Cardiac Imaging
+SR rhythm|Sinus rhythm|Cardiac Imaging
+NSR|Normal sinus rhythm|Cardiac Imaging
+PVC|Premature ventricular contraction|Cardiac Imaging
+PAC|Premature atrial contraction|Cardiac Imaging
+VT|Ventricular tachycardia|Cardiac Imaging
+VF|Ventricular fibrillation|Cardiac Imaging
+SCD|Sudden cardiac death|Cardiac Imaging
+SCA|Sudden cardiac arrest|Cardiac Imaging
+CRT-D|Cardiac resynchronization therapy defibrillator|Cardiac Imaging
+CRT-P|Cardiac resynchronization therapy pacemaker|Cardiac Imaging
+LVAD|Left ventricular assist device|Cardiac Imaging
+RVAD|Right ventricular assist device|Cardiac Imaging
+BiVAD|Biventricular assist device|Cardiac Imaging
+MCS|Mechanical circulatory support|Cardiac Imaging
+IABP|Intra-aortic balloon pump|Cardiac Imaging
+ECMO|Extracorporeal membrane oxygenation|Cardiac Imaging
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Cardiac Imaging
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Cardiac Imaging
+AVO|Aortic valve opening|Cardiac Imaging
+AVC closure|Aortic valve closure|Cardiac Imaging
+MVO open|Mitral valve opening|Cardiac Imaging
+MVC|Mitral valve closure|Cardiac Imaging
+PVO|Pulmonary valve opening|Cardiac Imaging
+TVO|Tricuspid valve opening|Cardiac Imaging
+TVC|Tricuspid valve closure|Cardiac Imaging
+EDV vol|End-diastolic volume|Cardiac Imaging
+ESV|End-systolic volume|Cardiac Imaging
+EDA|End-diastolic area|Cardiac Imaging
+ESA|End-systolic area|Cardiac Imaging
+EDD|End-diastolic dimension|Cardiac Imaging
+ESD|End-systolic dimension|Cardiac Imaging
+LVID|Left ventricular internal dimension|Cardiac Imaging
+LVOTd|Left ventricular outflow tract diameter|Cardiac Imaging
+RVOT VTI|Right ventricular outflow tract velocity-time integral|Cardiac Imaging
+PV VTI|Pulmonic valve velocity-time integral|Cardiac Imaging
+MV VTI|Mitral valve velocity-time integral|Cardiac Imaging
+TV VTI|Tricuspid valve velocity-time integral|Cardiac Imaging
+TRV|Tricuspid regurgitant velocity|Cardiac Imaging
+TRPG|Tricuspid regurgitation pressure gradient|Cardiac Imaging
+PRPG|Pulmonic regurgitation pressure gradient|Cardiac Imaging
+ARPG|Aortic regurgitation pressure gradient|Cardiac Imaging
+MRV|Mitral regurgitant velocity|Cardiac Imaging
+AR PHT|Aortic regurgitation pressure half-time|Cardiac Imaging
+AR VC|Aortic regurgitation vena contracta|Cardiac Imaging
+HDFR|Holodiastolic flow reversal|Cardiac Imaging
+RJA|Regurgitant jet area|Cardiac Imaging
+RJA/LAA|Ratio of regurgitant jet area to left atrial area|Cardiac Imaging
+Valsalva|Valsalva maneuver|Cardiac Imaging
+3D TEE|Three-dimensional transesophageal echocardiography|Cardiac Imaging
+2D TEE|Two-dimensional transesophageal echocardiography|Cardiac Imaging
+DTG|Deep transgastric view|Cardiac Imaging

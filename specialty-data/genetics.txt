@@ -1,0 +1,609 @@
+22q11.2DS|22q11.2 deletion syndrome|Genetics
+3'UTR|Three prime untranslated region|Genetics
+45,X|Monosomy X karyotype (Turner syndrome)|Genetics
+46,XX|Normal female karyotype|Genetics
+46,XY|Normal male karyotype|Genetics
+47,XXX|Triple X karyotype|Genetics
+47,XXY|Klinefelter syndrome karyotype|Genetics
+47,XYY|Double Y karyotype|Genetics
+5'UTR|Five prime untranslated region|Genetics
+5mC|5-methylcytosine|Genetics
+A1AT|Alpha-1 antitrypsin|Genetics
+AATD|Alpha-1 antitrypsin deficiency|Genetics
+AAV|Adeno-associated virus|Genetics
+ABR|Auditory brainstem response|Genetics
+ACC|Adrenocortical carcinoma|Genetics
+ACM|Arrhythmogenic cardiomyopathy|Genetics
+AD|Autosomal dominant|Genetics
+ADHD|Attention-deficit/hyperactivity disorder|Genetics
+ADPKD|Autosomal dominant polycystic kidney disease|Genetics
+ADR|Adverse drug reaction|Genetics
+AF|Allele frequency|Genetics
+AFAP|Attenuated familial adenomatous polyposis|Genetics
+AFP|Alpha-fetoprotein|Genetics
+AIS|Androgen insensitivity syndrome|Genetics
+ALD|Adrenoleukodystrophy|Genetics
+ALS|Amyotrophic lateral sclerosis|Genetics
+AMD|Age-related macular degeneration|Genetics
+AOH|Absence of heterozygosity|Genetics
+AON|Antisense oligonucleotide|Genetics
+APL|Acute promyelocytic leukemia|Genetics
+AR|Autosomal recessive|Genetics
+ARMS|Amplification refractory mutation system|Genetics
+ARPKD|Autosomal recessive polycystic kidney disease|Genetics
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Genetics
+AS|Angelman syndrome|Genetics
+AS-Alport|Alport syndrome|Genetics
+ASD|Autism spectrum disorder|Genetics
+AT|Ataxia telangiectasia|Genetics
+ATAC-seq|Assay for transposase-accessible chromatin sequencing|Genetics
+ATTR|Transthyretin amyloidosis|Genetics
+AVM|Arteriovenous malformation|Genetics
+AVSD|Atrioventricular septal defect|Genetics
+B|Benign (variant classification)|Genetics
+B/LB|Benign or likely benign|Genetics
+BA1|Benign stand-alone 1 (high allele frequency) criterion|Genetics
+BAM|Binary alignment map file|Genetics
+BAV|Bicuspid aortic valve|Genetics
+BER|Base excision repair|Genetics
+BHD|Birt-Hogg-Dube syndrome|Genetics
+BM|Bone marrow|Genetics
+BMD|Becker muscular dystrophy|Genetics
+BOR|Branchio-oto-renal syndrome|Genetics
+BP4|Benign supporting 4 (computational evidence) criterion|Genetics
+BS1|Benign strong 1 criterion|Genetics
+BSO|Bilateral salpingo-oophorectomy|Genetics
+BWS|Beckwith-Wiedemann syndrome|Genetics
+CADASIL|Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy|Genetics
+CADD|Combined annotation dependent depletion score|Genetics
+CAH|Congenital adrenal hyperplasia|Genetics
+CAIS|Complete androgen insensitivity syndrome|Genetics
+CAKUT|Congenital anomalies of the kidney and urinary tract|Genetics
+CALM|Cafe-au-lait macule|Genetics
+CAR-T|Chimeric antigen receptor T cell|Genetics
+CBAVD|Congenital bilateral absence of the vas deferens|Genetics
+CCA|Corpus callosum agenesis|Genetics
+CCHS|Congenital central hypoventilation syndrome|Genetics
+CCS|Circular consensus sequencing|Genetics
+CCUS|Clonal cytopenia of undetermined significance|Genetics
+CDG|Congenital disorder of glycosylation|Genetics
+CDH|Congenital diaphragmatic hernia|Genetics
+CEP|Chromosome enumeration probe|Genetics
+CF|Cystic fibrosis|Genetics
+CFC|Cardiofaciocutaneous syndrome|Genetics
+CFM|Craniofacial microsomia|Genetics
+CFTR-RD|CFTR-related disorder|Genetics
+CGC|Certified genetic counselor|Genetics
+CGD|Chronic granulomatous disease|Genetics
+CGH|Comparative genomic hybridization|Genetics
+CHARGE|Coloboma, heart defect, atresia choanae, growth retardation, genital anomalies, ear anomalies|Genetics
+CHD|Congenital heart disease|Genetics
+CHH|Congenital hypogonadotropic hypogonadism|Genetics
+CHI|Congenital hyperinsulinism|Genetics
+CHIP|Clonal hematopoiesis of indeterminate potential|Genetics
+CHM|Choroideremia|Genetics
+CHet|Compound heterozygous|Genetics
+CISH|Chromogenic in situ hybridization|Genetics
+CJD|Creutzfeldt-Jakob disease|Genetics
+CK|Creatine kinase|Genetics
+CL/P|Cleft lip with or without cleft palate|Genetics
+CLP|Cleft lip and palate|Genetics
+CMA|Chromosomal microarray|Genetics
+CMD|Congenital muscular dystrophy|Genetics
+CMMRD|Constitutional mismatch repair deficiency|Genetics
+CMS|Congenital myasthenic syndrome|Genetics
+CMT|Charcot-Marie-Tooth disease|Genetics
+CMT1|Charcot-Marie-Tooth disease type 1 (demyelinating)|Genetics
+CMT2|Charcot-Marie-Tooth disease type 2 (axonal)|Genetics
+CMTX|X-linked Charcot-Marie-Tooth disease|Genetics
+CMV|Cytomegalovirus|Genetics
+CNV|Copy number variant|Genetics
+COI|Coefficient of inbreeding|Genetics
+CPEO|Chronic progressive external ophthalmoplegia|Genetics
+CPO|Cleft palate only|Genetics
+CPVT|Catecholaminergic polymorphic ventricular tachycardia|Genetics
+CRC|Colorectal cancer|Genetics
+CRISPR|Clustered regularly interspaced short palindromic repeats|Genetics
+CS|Cowden syndrome|Genetics
+CTX|Cerebrotendinous xanthomatosis|Genetics
+CVID|Common variable immunodeficiency|Genetics
+CVS|Chorionic villus sampling|Genetics
+CdLS|Cornelia de Lange syndrome|Genetics
+ChIP-seq|Chromatin immunoprecipitation sequencing|Genetics
+CoA|Coarctation of the aorta|Genetics
+CoQ10|Coenzyme Q10|Genetics
+CpG|Cytosine-phosphate-guanine dinucleotide|Genetics
+DBS|Dried blood spot|Genetics
+DCIS|Ductal carcinoma in situ|Genetics
+DCM|Dilated cardiomyopathy|Genetics
+DD/ID|Developmental delay and intellectual disability|Genetics
+DEB|Dystrophic epidermolysis bullosa|Genetics
+DEE|Developmental and epileptic encephalopathy|Genetics
+DGS|DiGeorge syndrome|Genetics
+DM1|Myotonic dystrophy type 1|Genetics
+DM2|Myotonic dystrophy type 2|Genetics
+DMD|Duchenne muscular dystrophy|Genetics
+DMR|Differentially methylated region|Genetics
+DNA|Deoxyribonucleic acid|Genetics
+DORV|Double outlet right ventricle|Genetics
+DPD|Dihydropyrimidine dehydrogenase deficiency|Genetics
+DS|Down syndrome|Genetics
+DSB|Double-strand break|Genetics
+DSD|Differences of sex development|Genetics
+DTC|Direct-to-consumer|Genetics
+DWM|Dandy-Walker malformation|Genetics
+DZ|Dizygotic (fraternal twins)|Genetics
+EA|Esophageal atresia|Genetics
+EBS|Epidermolysis bullosa simplex|Genetics
+ECS|Expanded carrier screening|Genetics
+EDMD|Emery-Dreifuss muscular dystrophy|Genetics
+EDS|Ehlers-Danlos syndrome|Genetics
+EDS-hyp|Ehlers-Danlos syndrome hypermobile type|Genetics
+EDTA|Ethylenediaminetetraacetic acid|Genetics
+ERG|Electroretinogram|Genetics
+ERT|Enzyme replacement therapy|Genetics
+ES|Ehlers-Danlos syndrome|Genetics
+ES/GS|Exome or genome sequencing|Genetics
+ETC|Electron transport chain|Genetics
+EVA|Enlarged vestibular aqueduct|Genetics
+FA|Fanconi anemia|Genetics
+FAF|Fundus autofluorescence|Genetics
+FAMMM|Familial atypical multiple mole melanoma syndrome|Genetics
+FAOD|Fatty acid oxidation disorder|Genetics
+FAP|Familial adenomatous polyposis|Genetics
+FAS|Fetal alcohol syndrome|Genetics
+FASD|Fetal alcohol spectrum disorder|Genetics
+FASTQ|Sequence read file with quality scores|Genetics
+FD|Fabry disease|Genetics
+FDR|First-degree relative|Genetics
+FFI|Fatal familial insomnia|Genetics
+FFPE|Formalin-fixed paraffin-embedded|Genetics
+FGR|Fetal growth restriction|Genetics
+FH|Familial hypercholesterolemia|Genetics
+FHx|Family history|Genetics
+FISH|Fluorescence in situ hybridization|Genetics
+FNA|Fine needle aspiration|Genetics
+FRDA|Friedreich ataxia|Genetics
+FSGS|Focal segmental glomerulosclerosis|Genetics
+FSHD|Facioscapulohumeral muscular dystrophy|Genetics
+FTD|Frontotemporal dementia|Genetics
+FTT|Failure to thrive|Genetics
+FXPI|Fragile X premutation|Genetics
+FXPOI|Fragile X-associated primary ovarian insufficiency|Genetics
+FXS|Fragile X syndrome|Genetics
+FXTAS|Fragile X-associated tremor/ataxia syndrome|Genetics
+G-banding|Giemsa banding|Genetics
+G6PD|Glucose-6-phosphate dehydrogenase deficiency|Genetics
+GCT|Genetic counseling and testing|Genetics
+GD|Gaucher disease|Genetics
+GDD|Global developmental delay|Genetics
+GH|Growth hormone|Genetics
+GHD|Growth hormone deficiency|Genetics
+GIST|Gastrointestinal stromal tumor|Genetics
+GOF|Gain of function|Genetics
+GOM|Gain of methylation|Genetics
+GRCh37|Genome Reference Consortium human build 37|Genetics
+GRCh38|Genome Reference Consortium human build 38|Genetics
+GS|Genome sequencing|Genetics
+GSD|Glycogen storage disease|Genetics
+GTG|G-bands by trypsin using Giemsa|Genetics
+GTPAL|Gravida, term, preterm, abortions, living children|Genetics
+GVHD|Graft-versus-host disease|Genetics
+GWAS|Genome-wide association study|Genetics
+GoF|Gain of function|Genetics
+HAE|Hereditary angioedema|Genetics
+HBOC|Hereditary breast and ovarian cancer|Genetics
+HC|Head circumference|Genetics
+HCM|Hypertrophic cardiomyopathy|Genetics
+HD|Huntington disease|Genetics
+HDGC|Hereditary diffuse gastric cancer|Genetics
+HDR|Homology-directed repair|Genetics
+HED|Hypohidrotic ectodermal dysplasia|Genetics
+HFI|Hereditary fructose intolerance|Genetics
+HH|Hereditary hemochromatosis|Genetics
+HHT|Hereditary hemorrhagic telangiectasia|Genetics
+HLA|Human leukocyte antigen|Genetics
+HLHS|Hypoplastic left heart syndrome|Genetics
+HLRCC|Hereditary leiomyomatosis and renal cell cancer|Genetics
+HME|Hereditary multiple exostoses|Genetics
+HMSN|Hereditary motor and sensory neuropathy|Genetics
+HNPCC|Hereditary nonpolyposis colorectal cancer|Genetics
+HNPP|Hereditary neuropathy with liability to pressure palsies|Genetics
+HPE|Holoprosencephaly|Genetics
+HPFH|Hereditary persistence of fetal hemoglobin|Genetics
+HPP|Hypophosphatasia|Genetics
+HPRC|Hereditary papillary renal carcinoma|Genetics
+HPT|Hyperparathyroidism|Genetics
+HRD|Homologous recombination deficiency|Genetics
+HRR|Homologous recombination repair|Genetics
+HSAN|Hereditary sensory and autonomic neuropathy|Genetics
+HSCR|Hirschsprung disease|Genetics
+HSCT|Hematopoietic stem cell transplant|Genetics
+HSD|Hypermobility spectrum disorder|Genetics
+HSP|Hereditary spastic paraplegia|Genetics
+HTAD|Heritable thoracic aortic disease|Genetics
+HWE|Hardy-Weinberg equilibrium|Genetics
+Hb EP|Hemoglobin electrophoresis|Genetics
+HbS|Hemoglobin S|Genetics
+Hcy|Homocysteine|Genetics
+HeFH|Heterozygous familial hypercholesterolemia|Genetics
+HiFi|High-fidelity long-read sequencing|Genetics
+HoFH|Homozygous familial hypercholesterolemia|Genetics
+IBD|Identity by descent|Genetics
+IBS|Identity by state|Genetics
+ICR|Imprinting control region|Genetics
+ICSI|Intracytoplasmic sperm injection|Genetics
+IEI|Inborn errors of immunity|Genetics
+IEM|Inborn error of metabolism|Genetics
+IHC|Immunohistochemistry|Genetics
+IM|Intermediate metabolizer|Genetics
+IOPD|Infantile-onset Pompe disease|Genetics
+IRD|Inherited retinal disease|Genetics
+ISH|In situ hybridization|Genetics
+ISS|Idiopathic short stature|Genetics
+ITD|Internal tandem duplication|Genetics
+IUFD|Intrauterine fetal demise|Genetics
+IUGR|Intrauterine growth restriction|Genetics
+IVF|In vitro fertilization|Genetics
+JEB|Junctional epidermolysis bullosa|Genetics
+JPS|Juvenile polyposis syndrome|Genetics
+KS|Kallmann syndrome|Genetics
+KSS|Kearns-Sayre syndrome|Genetics
+LAM|Lymphangioleiomyomatosis|Genetics
+LB|Likely benign (variant classification)|Genetics
+LCA|Leber congenital amaurosis|Genetics
+LCAT|Lecithin-cholesterol acyltransferase|Genetics
+LCHAD|Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency|Genetics
+LCIS|Lobular carcinoma in situ|Genetics
+LD|Linkage disequilibrium|Genetics
+LDL-C|Low-density lipoprotein cholesterol|Genetics
+LDS|Loeys-Dietz syndrome|Genetics
+LFS|Li-Fraumeni syndrome|Genetics
+LGA|Large for gestational age|Genetics
+LGMD|Limb-girdle muscular dystrophy|Genetics
+LGS|Lennox-Gastaut syndrome|Genetics
+LHON|Leber hereditary optic neuropathy|Genetics
+LIS|Lissencephaly|Genetics
+LOD|Logarithm of the odds (linkage score)|Genetics
+LOF|Loss of function|Genetics
+LOH|Loss of heterozygosity|Genetics
+LOI|Loss of imprinting|Genetics
+LOM|Loss of methylation|Genetics
+LOPD|Late-onset Pompe disease|Genetics
+LP|Likely pathogenic (variant classification)|Genetics
+LQTS|Long QT syndrome|Genetics
+LR-PCR|Long-range polymerase chain reaction|Genetics
+LRS|Long-read sequencing|Genetics
+LS|Lynch syndrome|Genetics
+LSD|Lysosomal storage disease|Genetics
+LSI|Locus-specific identifier probe|Genetics
+LVNC|Left ventricular noncompaction|Genetics
+LoF|Loss of function|Genetics
+Lp(a)|Lipoprotein(a)|Genetics
+MAF|Minor allele frequency|Genetics
+MAP|MUTYH-associated polyposis|Genetics
+MCAD|Medium-chain acyl-CoA dehydrogenase deficiency|Genetics
+MDD|Mitochondrial DNA depletion syndrome|Genetics
+MELAS|Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes|Genetics
+MEN|Multiple endocrine neoplasia|Genetics
+MEN1|Multiple endocrine neoplasia type 1|Genetics
+MEN2A|Multiple endocrine neoplasia type 2A|Genetics
+MEN2B|Multiple endocrine neoplasia type 2B|Genetics
+MERRF|Myoclonic epilepsy with ragged-red fibers|Genetics
+MFS|Marfan syndrome|Genetics
+MGF|Maternal grandfather|Genetics
+MGM|Maternal grandmother|Genetics
+MGP|Multigene panel|Genetics
+MGPT|Multigene panel testing|Genetics
+MH|Malignant hyperthermia|Genetics
+MHC|Major histocompatibility complex|Genetics
+MHS|Malignant hyperthermia susceptibility|Genetics
+MI|Mitochondrial inheritance|Genetics
+MIDD|Maternally inherited diabetes and deafness|Genetics
+MLD|Metachromatic leukodystrophy|Genetics
+MLID|Multilocus imprinting disturbance|Genetics
+MLPA|Multiplex ligation-dependent probe amplification|Genetics
+MMR|Mismatch repair|Genetics
+MMRd|Mismatch repair deficient|Genetics
+MODY|Maturity-onset diabetes of the young|Genetics
+MPNST|Malignant peripheral nerve sheath tumor|Genetics
+MRD|Minimal residual disease|Genetics
+MSAFP|Maternal serum alpha-fetoprotein|Genetics
+MSI|Microsatellite instability|Genetics
+MSI-H|Microsatellite instability-high|Genetics
+MSS|Microsatellite stable|Genetics
+MSUD|Maple syrup urine disease|Genetics
+MTC|Medullary thyroid carcinoma|Genetics
+MURCS|Mullerian duct aplasia, renal agenesis, cervicothoracic somite dysplasia|Genetics
+MZ|Monozygotic (identical twins)|Genetics
+MoM|Multiple of the median|Genetics
+NAGS|N-acetylglutamate synthase deficiency|Genetics
+NARP|Neuropathy, ataxia, and retinitis pigmentosa|Genetics
+NBIA|Neurodegeneration with brain iron accumulation|Genetics
+NBS|Newborn screening|Genetics
+NBSeq|Newborn sequencing|Genetics
+NDD|Neurodevelopmental disorder|Genetics
+NDM|Neonatal diabetes mellitus|Genetics
+NER|Nucleotide excision repair|Genetics
+NF1|Neurofibromatosis type 1|Genetics
+NF2|Neurofibromatosis type 2|Genetics
+NGS|Next-generation sequencing|Genetics
+NHEJ|Non-homologous end joining|Genetics
+NICU|Neonatal intensive care unit|Genetics
+NIPS|Noninvasive prenatal screening|Genetics
+NIPT|Noninvasive prenatal testing|Genetics
+NM|Normal metabolizer|Genetics
+NMD|Nonsense-mediated decay|Genetics
+NPC|Niemann-Pick type C disease|Genetics
+NS|Noonan syndrome|Genetics
+NSHL|Nonsyndromic hearing loss|Genetics
+NT|Nuchal translucency|Genetics
+NTD|Neural tube defect|Genetics
+NTDT|Non-transfusion-dependent thalassemia|Genetics
+OAE|Otoacoustic emissions|Genetics
+OAVS|Oculo-auriculo-vertebral spectrum|Genetics
+OFC|Occipitofrontal circumference|Genetics
+OGM|Optical genome mapping|Genetics
+OI|Osteogenesis imperfecta|Genetics
+ONT|Oxford Nanopore sequencing|Genetics
+OPG|Optic pathway glioma|Genetics
+OXPHOS|Oxidative phosphorylation|Genetics
+P|Pathogenic (variant classification)|Genetics
+P/LP|Pathogenic or likely pathogenic|Genetics
+PAA|Plasma amino acids|Genetics
+PAIS|Partial androgen insensitivity syndrome|Genetics
+PAPP-A|Pregnancy-associated plasma protein A|Genetics
+PARP|Poly ADP-ribose polymerase|Genetics
+PARPi|Poly ADP-ribose polymerase inhibitor|Genetics
+PB|Peripheral blood|Genetics
+PCD|Primary ciliary dyskinesia|Genetics
+PCR|Polymerase chain reaction|Genetics
+PD|Pompe disease|Genetics
+PDA|Patent ductus arteriosus|Genetics
+PGD|Preimplantation genetic diagnosis|Genetics
+PGF|Paternal grandfather|Genetics
+PGL|Paraganglioma|Genetics
+PGM|Paternal grandmother|Genetics
+PGS|Polygenic score|Genetics
+PGS-A|Preimplantation genetic screening for aneuploidy|Genetics
+PGT|Preimplantation genetic testing|Genetics
+PGT-A|Preimplantation genetic testing for aneuploidy|Genetics
+PGT-M|Preimplantation genetic testing for monogenic disorders|Genetics
+PGT-SR|Preimplantation genetic testing for structural rearrangements|Genetics
+PGx|Pharmacogenomics|Genetics
+PHPT|Primary hyperparathyroidism|Genetics
+PHTS|PTEN hamartoma tumor syndrome|Genetics
+PID|Primary immunodeficiency|Genetics
+PJS|Peutz-Jeghers syndrome|Genetics
+PKD|Polycystic kidney disease|Genetics
+PKU|Phenylketonuria|Genetics
+PM|Poor metabolizer|Genetics
+PM2|Pathogenic moderate 2 (absent from population databases) criterion|Genetics
+PMG|Polymicrogyria|Genetics
+PND|Prenatal diagnosis|Genetics
+PNDM|Permanent neonatal diabetes mellitus|Genetics
+PNF|Plexiform neurofibroma|Genetics
+POC|Products of conception|Genetics
+POI|Primary ovarian insufficiency|Genetics
+PP2|PolyPhen-2 prediction|Genetics
+PP3|Pathogenic supporting 3 (computational evidence) criterion|Genetics
+PPGL|Pheochromocytoma and paraganglioma|Genetics
+PRS|Polygenic risk score|Genetics
+PS1|Pathogenic strong 1 criterion|Genetics
+PTC|Premature termination codon|Genetics
+PTV|Protein-truncating variant|Genetics
+PVS1|Pathogenic very strong 1 (null variant criterion)|Genetics
+PWS|Prader-Willi syndrome|Genetics
+PXE|Pseudoxanthoma elasticum|Genetics
+PanCa|Pancreatic cancer|Genetics
+PheWAS|Phenome-wide association study|Genetics
+PiZZ|Alpha-1 antitrypsin ZZ genotype|Genetics
+Q30|Base call accuracy of 99.9 percent|Genetics
+QTL|Quantitative trait locus|Genetics
+RASopathy|RAS pathway developmental disorder|Genetics
+RCC|Renal cell carcinoma|Genetics
+RCM|Restrictive cardiomyopathy|Genetics
+RDEB|Recessive dystrophic epidermolysis bullosa|Genetics
+REVEL|Rare exome variant ensemble learner score|Genetics
+RFLP|Restriction fragment length polymorphism|Genetics
+RHB|Retinal hemangioblastoma|Genetics
+RM|Rapid metabolizer|Genetics
+RNA|Ribonucleic acid|Genetics
+RNA-seq|RNA sequencing|Genetics
+ROH|Region of homozygosity|Genetics
+RP|Retinitis pigmentosa|Genetics
+RPL|Recurrent pregnancy loss|Genetics
+RRM|Risk-reducing mastectomy|Genetics
+RRSO|Risk-reducing salpingo-oophorectomy|Genetics
+RSS|Robin sequence|Genetics
+RT-PCR|Reverse transcription polymerase chain reaction|Genetics
+RT-qPCR|Reverse transcription quantitative polymerase chain reaction|Genetics
+RTT|Rett syndrome|Genetics
+SAB|Spontaneous abortion|Genetics
+SADS|Sudden arrhythmic death syndrome|Genetics
+SBS|Short bowel syndrome|Genetics
+SCA|Spinocerebellar ataxia|Genetics
+SCAD|Short-chain acyl-CoA dehydrogenase deficiency|Genetics
+SCD|Sickle cell disease|Genetics
+SCE|Sister chromatid exchange|Genetics
+SCID|Severe combined immunodeficiency|Genetics
+SCT|Sickle cell trait|Genetics
+SDH|Succinate dehydrogenase|Genetics
+SDHx|Succinate dehydrogenase complex subunit variants|Genetics
+SDR|Second-degree relative|Genetics
+SEGA|Subependymal giant cell astrocytoma|Genetics
+SGA|Small for gestational age|Genetics
+SHOX|Short stature homeobox deficiency|Genetics
+SIDS|Sudden infant death syndrome|Genetics
+SIFT|Sorting intolerant from tolerant prediction|Genetics
+SJS|Stevens-Johnson syndrome|Genetics
+SKY|Spectral karyotyping|Genetics
+SLOS|Smith-Lemli-Opitz syndrome|Genetics
+SMA|Spinal muscular atrophy|Genetics
+SMC|Supernumerary marker chromosome|Genetics
+SMRT|Single-molecule real-time sequencing|Genetics
+SNHL|Sensorineural hearing loss|Genetics
+SNP|Single nucleotide polymorphism|Genetics
+SNP array|Single nucleotide polymorphism microarray|Genetics
+SNV|Single nucleotide variant|Genetics
+SQTS|Short QT syndrome|Genetics
+SRS|Silver-Russell syndrome|Genetics
+SRT|Substrate reduction therapy|Genetics
+SS|Short stature|Genetics
+SSCP|Single-strand conformation polymorphism|Genetics
+STR|Short tandem repeat|Genetics
+SUDEP|Sudden unexpected death in epilepsy|Genetics
+SUDI|Sudden unexpected death in infancy|Genetics
+SV|Structural variant|Genetics
+T13|Trisomy 13|Genetics
+T18|Trisomy 18|Genetics
+T21|Trisomy 21|Genetics
+TAAD|Thoracic aortic aneurysm and dissection|Genetics
+TAH|Total abdominal hysterectomy|Genetics
+TAT|Turnaround time|Genetics
+TCS|Treacher Collins syndrome|Genetics
+TDR|Third-degree relative|Genetics
+TDT|Transfusion-dependent thalassemia|Genetics
+TEF|Tracheoesophageal fistula|Genetics
+TEN|Toxic epidermal necrolysis|Genetics
+TES|Targeted exome sequencing|Genetics
+TGA|Transposition of the great arteries|Genetics
+TIBC|Total iron-binding capacity|Genetics
+TKD|Tyrosine kinase domain|Genetics
+TKI|Tyrosine kinase inhibitor|Genetics
+TMB|Tumor mutational burden|Genetics
+TMB-H|Tumor mutational burden-high|Genetics
+TNBC|Triple-negative breast cancer|Genetics
+TNDM|Transient neonatal diabetes mellitus|Genetics
+TOP|Termination of pregnancy|Genetics
+TORCH|Toxoplasmosis, other infections, rubella, cytomegalovirus, herpes|Genetics
+TP-PCR|Triplet-primed polymerase chain reaction|Genetics
+TRE|Trinucleotide repeat expansion|Genetics
+TS|Turner syndrome|Genetics
+TSAT|Transferrin saturation|Genetics
+TSC|Tuberous sclerosis complex|Genetics
+TSD|Tay-Sachs disease|Genetics
+TWAS|Transcriptome-wide association study|Genetics
+UCD|Urea cycle disorder|Genetics
+UM|Ultrarapid metabolizer|Genetics
+UMI|Unique molecular identifier|Genetics
+UOA|Urine organic acids|Genetics
+UPD|Uniparental disomy|Genetics
+UPD14|Uniparental disomy of chromosome 14|Genetics
+UPD15|Uniparental disomy of chromosome 15|Genetics
+UPD7|Uniparental disomy of chromosome 7|Genetics
+USH|Usher syndrome|Genetics
+UTD|Urinary tract dilation|Genetics
+VACTERL|Vertebral, anal, cardiac, tracheoesophageal, renal, limb anomalies|Genetics
+VAF|Variant allele fraction|Genetics
+VAF|Variant allele frequency|Genetics
+VCF|Variant call format|Genetics
+VCFS|Velocardiofacial syndrome|Genetics
+VHL|Von Hippel-Lindau disease|Genetics
+VLCAD|Very long-chain acyl-CoA dehydrogenase deficiency|Genetics
+VLCFA|Very long-chain fatty acids|Genetics
+VNTR|Variable number tandem repeat|Genetics
+VOI|Variant of interest|Genetics
+VQSR|Variant quality score recalibration|Genetics
+VSD|Ventricular septal defect|Genetics
+VUS|Variant of uncertain significance|Genetics
+WAS|Wiskott-Aldrich syndrome|Genetics
+WBS|Williams-Beuren syndrome|Genetics
+WD|Wilson disease|Genetics
+WES|Whole exome sequencing|Genetics
+WGS|Whole genome sequencing|Genetics
+WT|Wild type|Genetics
+X-ALD|X-linked adrenoleukodystrophy|Genetics
+XL|X-linked|Genetics
+XLA|X-linked agammaglobulinemia|Genetics
+XLD|X-linked dominant|Genetics
+XLH|X-linked hypophosphatemia|Genetics
+XLR|X-linked recessive|Genetics
+XLRS|X-linked retinoschisis|Genetics
+XP|Xeroderma pigmentosum|Genetics
+YL|Y-linked|Genetics
+aCGH|Array comparative genomic hybridization|Genetics
+arr|Array result (karyotype nomenclature)|Genetics
+bp|Base pair|Genetics
+c.|Coding DNA reference sequence position|Genetics
+cDNA|Complementary DNA|Genetics
+cEDS|Classical Ehlers-Danlos syndrome|Genetics
+cM|Centimorgan|Genetics
+cen|Centromere|Genetics
+cfDNA|Cell-free DNA|Genetics
+cffDNA|Cell-free fetal DNA|Genetics
+cis|Variants on the same chromosome copy|Genetics
+ctDNA|Circulating tumor DNA|Genetics
+dMMR|Deficient mismatch repair|Genetics
+dPCR|Digital polymerase chain reaction|Genetics
+ddPCR|Droplet digital polymerase chain reaction|Genetics
+del|Deletion|Genetics
+del/dup|Deletion or duplication|Genetics
+der|Derivative chromosome|Genetics
+dn|De novo|Genetics
+dnm|De novo mutation|Genetics
+dnv|De novo variant|Genetics
+dsDNA|Double-stranded DNA|Genetics
+dup|Duplication|Genetics
+eQTL|Expression quantitative trait locus|Genetics
+fALS|Familial amyotrophic lateral sclerosis|Genetics
+fs|Frameshift|Genetics
+g.|Genomic reference sequence position|Genetics
+gDNA|Genomic DNA|Genetics
+gRNA|Guide RNA|Genetics
+hATTR|Hereditary transthyretin amyloidosis|Genetics
+hCG|Human chorionic gonadotropin|Genetics
+hEDS|Hypermobile Ehlers-Danlos syndrome|Genetics
+hUPD|Heterodisomic uniparental disomy|Genetics
+hemi|Hemizygous|Genetics
+het|Heterozygous|Genetics
+hg19|Human genome build 19|Genetics
+hg38|Human genome build 38|Genetics
+hom|Homozygous|Genetics
+i|Isochromosome|Genetics
+iPSC|Induced pluripotent stem cell|Genetics
+iUPD|Isodisomic uniparental disomy|Genetics
+indel|Insertion or deletion|Genetics
+ins|Insertion|Genetics
+inv|Inversion|Genetics
+ish|In situ hybridization (karyotype nomenclature)|Genetics
+lncRNA|Long non-coding RNA|Genetics
+m.|Mitochondrial reference sequence position|Genetics
+mRNA|Messenger RNA|Genetics
+mUPD|Maternal uniparental disomy|Genetics
+mar|Marker chromosome|Genetics
+mat|Maternally derived|Genetics
+miRNA|MicroRNA|Genetics
+mos|Mosaic|Genetics
+mtDNA|Mitochondrial DNA|Genetics
+nDNA|Nuclear DNA|Genetics
+nuc ish|Nuclear in situ hybridization|Genetics
+p arm|Short arm of a chromosome|Genetics
+p.|Protein reference sequence position|Genetics
+pMMR|Proficient mismatch repair|Genetics
+pUPD|Paternal uniparental disomy|Genetics
+pat|Paternally derived|Genetics
+q arm|Long arm of a chromosome|Genetics
+qPCR|Quantitative polymerase chain reaction|Genetics
+r|Ring chromosome|Genetics
+rES|Rapid exome sequencing|Genetics
+rGS|Rapid genome sequencing|Genetics
+rRNA|Ribosomal RNA|Genetics
+rWGS|Rapid whole genome sequencing|Genetics
+rcp|Reciprocal translocation|Genetics
+rob|Robertsonian translocation|Genetics
+rsID|Reference SNP cluster identifier|Genetics
+sSMC|Small supernumerary marker chromosome|Genetics
+scRNA-seq|Single-cell RNA sequencing|Genetics
+sgRNA|Single guide RNA|Genetics
+siRNA|Small interfering RNA|Genetics
+ssDNA|Single-stranded DNA|Genetics
+t|Translocation|Genetics
+tHcy|Total homocysteine|Genetics
+tRNA|Transfer RNA|Genetics
+tel|Telomere|Genetics
+ter|Terminal end of a chromosome|Genetics
+trans|Variants on opposite chromosome copies|Genetics
+uE3|Unconjugated estriol|Genetics
+vEDS|Vascular Ehlers-Danlos syndrome|Genetics
+vWD|Von Willebrand disease|Genetics

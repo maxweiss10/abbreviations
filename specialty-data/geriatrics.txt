@@ -1,0 +1,700 @@
+ADL|Activities of daily living|Geriatrics
+IADL|Instrumental activities of daily living|Geriatrics
+IADLs|Instrumental activities of daily living|Geriatrics
+BADL|Basic activities of daily living|Geriatrics
+CGA|Comprehensive geriatric assessment|Geriatrics
+GDS|Geriatric depression scale|Geriatrics
+GDS-15|Geriatric depression scale, 15-item version|Geriatrics
+MMSE|Mini-mental state examination|Geriatrics
+MoCA|Montreal cognitive assessment|Geriatrics
+SLUMS|Saint Louis University mental status exam|Geriatrics
+CDR|Clinical dementia rating|Geriatrics
+CDR-SB|Clinical dementia rating sum of boxes|Geriatrics
+FAST|Functional assessment staging tool|Geriatrics
+BIMS|Brief interview for mental status|Geriatrics
+MDS|Minimum data set|Geriatrics
+CAM|Confusion assessment method|Geriatrics
+CAM-ICU|Confusion assessment method for the intensive care unit|Geriatrics
+3D-CAM|3-minute diagnostic confusion assessment method|Geriatrics
+4AT|4 A's test for delirium screening|Geriatrics
+Mini-Cog|Brief cognitive screen using three-word recall and clock drawing|Geriatrics
+AD8|Eight-item informant interview to differentiate aging and dementia|Geriatrics
+IQCODE|Informant questionnaire on cognitive decline in the elderly|Geriatrics
+NPI|Neuropsychiatric inventory|Geriatrics
+NPI-Q|Neuropsychiatric inventory questionnaire|Geriatrics
+CMAI|Cohen-Mansfield agitation inventory|Geriatrics
+RUDAS|Rowland universal dementia assessment scale|Geriatrics
+ADAS-Cog|Alzheimer's disease assessment scale, cognitive subscale|Geriatrics
+SIB|Severe impairment battery|Geriatrics
+AD|Alzheimer's disease|Geriatrics
+DAT|Dementia of the Alzheimer type|Geriatrics
+VaD|Vascular dementia|Geriatrics
+VCI|Vascular cognitive impairment|Geriatrics
+LBD|Lewy body dementia|Geriatrics
+DLB|Dementia with Lewy bodies|Geriatrics
+PDD|Parkinson disease dementia|Geriatrics
+FTD|Frontotemporal dementia|Geriatrics
+bvFTD|Behavioral variant frontotemporal dementia|Geriatrics
+PPA|Primary progressive aphasia|Geriatrics
+svPPA|Semantic variant primary progressive aphasia|Geriatrics
+nfvPPA|Nonfluent variant primary progressive aphasia|Geriatrics
+lvPPA|Logopenic variant primary progressive aphasia|Geriatrics
+CBD|Corticobasal degeneration|Geriatrics
+CBS|Corticobasal syndrome|Geriatrics
+PSP|Progressive supranuclear palsy|Geriatrics
+MSA|Multiple system atrophy|Geriatrics
+NPH|Normal pressure hydrocephalus|Geriatrics
+CTE|Chronic traumatic encephalopathy|Geriatrics
+CAA|Cerebral amyloid angiopathy|Geriatrics
+MCI|Mild cognitive impairment|Geriatrics
+aMCI|Amnestic mild cognitive impairment|Geriatrics
+naMCI|Non-amnestic mild cognitive impairment|Geriatrics
+SCD|Subjective cognitive decline|Geriatrics
+SCI|Subjective cognitive impairment|Geriatrics
+NCD|Neurocognitive disorder|Geriatrics
+BPSD|Behavioral and psychological symptoms of dementia|Geriatrics
+RBD|REM sleep behavior disorder|Geriatrics
+REM|Rapid eye movement|Geriatrics
+CSF|Cerebrospinal fluid|Geriatrics
+Abeta|Amyloid beta|Geriatrics
+Aβ42|Amyloid beta 1-42 peptide|Geriatrics
+p-tau|Phosphorylated tau|Geriatrics
+t-tau|Total tau|Geriatrics
+NfL|Neurofilament light chain|Geriatrics
+PET|Positron emission tomography|Geriatrics
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Geriatrics
+SPECT|Single-photon emission computed tomography|Geriatrics
+MRI|Magnetic resonance imaging|Geriatrics
+CT|Computed tomography|Geriatrics
+CTH|Computed tomography of the head|Geriatrics
+WMH|White matter hyperintensities|Geriatrics
+MTA|Medial temporal lobe atrophy|Geriatrics
+ChEI|Cholinesterase inhibitor|Geriatrics
+AChEI|Acetylcholinesterase inhibitor|Geriatrics
+NMDA|N-methyl-D-aspartate|Geriatrics
+AChE|Acetylcholinesterase|Geriatrics
+ARIA|Amyloid-related imaging abnormalities|Geriatrics
+ARIA-E|Amyloid-related imaging abnormalities with edema or effusion|Geriatrics
+ARIA-H|Amyloid-related imaging abnormalities with hemosiderin deposition|Geriatrics
+APOE|Apolipoprotein E|Geriatrics
+HAND|HIV-associated neurocognitive disorder|Geriatrics
+Delirium|Acute fluctuating disturbance of attention and cognition|Geriatrics
+ICU|Intensive care unit|Geriatrics
+PAD|Pain, agitation and delirium|Geriatrics
+RASS|Richmond agitation-sedation scale|Geriatrics
+DSM|Diagnostic and statistical manual of mental disorders|Geriatrics
+ACE|Acute care for elders|Geriatrics
+ACE unit|Acute care for elders unit|Geriatrics
+GEM|Geriatric evaluation and management|Geriatrics
+PACE|Program of all-inclusive care for the elderly|Geriatrics
+HBPC|Home-based primary care|Geriatrics
+SNF|Skilled nursing facility|Geriatrics
+NH|Nursing home|Geriatrics
+LTC|Long-term care|Geriatrics
+LTCF|Long-term care facility|Geriatrics
+ALF|Assisted living facility|Geriatrics
+AL|Assisted living|Geriatrics
+CCRC|Continuing care retirement community|Geriatrics
+ILF|Independent living facility|Geriatrics
+IRF|Inpatient rehabilitation facility|Geriatrics
+LTACH|Long-term acute care hospital|Geriatrics
+SAR|Subacute rehabilitation|Geriatrics
+HHA|Home health aide|Geriatrics
+HH|Home health|Geriatrics
+VNA|Visiting nurse association|Geriatrics
+DME|Durable medical equipment|Geriatrics
+PT|Physical therapy|Geriatrics
+OT|Occupational therapy|Geriatrics
+SLP|Speech-language pathologist|Geriatrics
+ST|Speech therapy|Geriatrics
+RN|Registered nurse|Geriatrics
+LPN|Licensed practical nurse|Geriatrics
+CNA|Certified nursing assistant|Geriatrics
+NP|Nurse practitioner|Geriatrics
+PA|Physician assistant|Geriatrics
+SW|Social worker|Geriatrics
+MSW|Master of social work|Geriatrics
+PCP|Primary care provider|Geriatrics
+IDT|Interdisciplinary team|Geriatrics
+FIM|Functional independence measure|Geriatrics
+Katz ADL|Katz index of independence in activities of daily living|Geriatrics
+PPS|Palliative performance scale|Geriatrics
+KPS|Karnofsky performance status|Geriatrics
+ECOG|Eastern cooperative oncology group performance status|Geriatrics
+PS|Performance status|Geriatrics
+CFS|Clinical frailty scale|Geriatrics
+FI|Frailty index|Geriatrics
+FRAIL|Fatigue, resistance, ambulation, illnesses, loss of weight frailty scale|Geriatrics
+SPPB|Short physical performance battery|Geriatrics
+TUG|Timed up and go|Geriatrics
+TUAG|Timed up and go test|Geriatrics
+5xSTS|Five times sit-to-stand test|Geriatrics
+STS|Sit-to-stand|Geriatrics
+CST|Chair stand test|Geriatrics
+BBS|Berg balance scale|Geriatrics
+POMA|Performance-oriented mobility assessment|Geriatrics
+DGI|Dynamic gait index|Geriatrics
+FGA|Functional gait assessment|Geriatrics
+FRT|Functional reach test|Geriatrics
+6MWT|Six-minute walk test|Geriatrics
+4MGS|Four-meter gait speed|Geriatrics
+GS|Gait speed|Geriatrics
+ABC|Activities-specific balance confidence scale|Geriatrics
+FES|Falls efficacy scale|Geriatrics
+FES-I|Falls efficacy scale international|Geriatrics
+STEADI|Stopping elderly accidents, deaths and injuries|Geriatrics
+FRAX|Fracture risk assessment tool|Geriatrics
+MFS|Morse fall scale|Geriatrics
+FRI|Fall risk increasing drug|Geriatrics
+FRIDs|Fall risk increasing drugs|Geriatrics
+FOF|Fear of falling|Geriatrics
+FOOSH|Fall on outstretched hand|Geriatrics
+ASM|Appendicular skeletal muscle mass|Geriatrics
+ALM|Appendicular lean mass|Geriatrics
+SMI|Skeletal muscle index|Geriatrics
+BIA|Bioelectrical impedance analysis|Geriatrics
+DXA|Dual-energy x-ray absorptiometry|Geriatrics
+DEXA|Dual-energy x-ray absorptiometry|Geriatrics
+BMD|Bone mineral density|Geriatrics
+BMI|Body mass index|Geriatrics
+T-score|Bone density compared with a young adult reference|Geriatrics
+Z-score|Bone density compared with age-matched peers|Geriatrics
+VFA|Vertebral fracture assessment|Geriatrics
+TBS|Trabecular bone score|Geriatrics
+OP|Osteoporosis|Geriatrics
+OPN|Osteopenia|Geriatrics
+FLS|Fracture liaison service|Geriatrics
+HF|Hip fracture|Geriatrics
+ORIF|Open reduction internal fixation|Geriatrics
+THA|Total hip arthroplasty|Geriatrics
+TKA|Total knee arthroplasty|Geriatrics
+THR|Total hip replacement|Geriatrics
+TKR|Total knee replacement|Geriatrics
+CRPP|Closed reduction percutaneous pinning|Geriatrics
+DHS|Dynamic hip screw|Geriatrics
+PFN|Proximal femoral nail|Geriatrics
+WBAT|Weight bearing as tolerated|Geriatrics
+NWB|Non-weight bearing|Geriatrics
+TTWB|Toe-touch weight bearing|Geriatrics
+PWB|Partial weight bearing|Geriatrics
+FWB|Full weight bearing|Geriatrics
+ROM|Range of motion|Geriatrics
+AROM|Active range of motion|Geriatrics
+PROM|Passive range of motion|Geriatrics
+DVT|Deep vein thrombosis|Geriatrics
+PE|Pulmonary embolism|Geriatrics
+VTE|Venous thromboembolism|Geriatrics
+PIM|Potentially inappropriate medication|Geriatrics
+PIP|Potentially inappropriate prescribing|Geriatrics
+STOPP|Screening tool of older persons' potentially inappropriate prescriptions|Geriatrics
+START|Screening tool to alert to right treatment|Geriatrics
+ACB|Anticholinergic cognitive burden|Geriatrics
+ARS|Anticholinergic risk scale|Geriatrics
+DBI|Drug burden index|Geriatrics
+MAI|Medication appropriateness index|Geriatrics
+TCA|Tricyclic antidepressant|Geriatrics
+SSRI|Selective serotonin reuptake inhibitor|Geriatrics
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Geriatrics
+MAOI|Monoamine oxidase inhibitor|Geriatrics
+NDRI|Norepinephrine-dopamine reuptake inhibitor|Geriatrics
+NaSSA|Noradrenergic and specific serotonergic antidepressant|Geriatrics
+SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Geriatrics
+ADH|Antidiuretic hormone|Geriatrics
+BZD|Benzodiazepine|Geriatrics
+BZDs|Benzodiazepines|Geriatrics
+Z-drug|Nonbenzodiazepine hypnotic such as zolpidem|Geriatrics
+SGA|Second-generation antipsychotic|Geriatrics
+APD|Antipsychotic drug|Geriatrics
+EPS|Extrapyramidal symptoms|Geriatrics
+TD|Tardive dyskinesia|Geriatrics
+NMS|Neuroleptic malignant syndrome|Geriatrics
+QTc|Corrected QT interval|Geriatrics
+ECG|Electrocardiogram|Geriatrics
+EKG|Electrocardiogram|Geriatrics
+NSAID|Nonsteroidal anti-inflammatory drug|Geriatrics
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Geriatrics
+PPI|Proton pump inhibitor|Geriatrics
+H2RA|Histamine-2 receptor antagonist|Geriatrics
+GI|Gastrointestinal|Geriatrics
+GIB|Gastrointestinal bleed|Geriatrics
+UGIB|Upper gastrointestinal bleed|Geriatrics
+LGIB|Lower gastrointestinal bleed|Geriatrics
+PUD|Peptic ulcer disease|Geriatrics
+GERD|Gastroesophageal reflux disease|Geriatrics
+DOAC|Direct oral anticoagulant|Geriatrics
+DOACs|Direct oral anticoagulants|Geriatrics
+VKA|Vitamin K antagonist|Geriatrics
+LMWH|Low molecular weight heparin|Geriatrics
+UFH|Unfractionated heparin|Geriatrics
+INR|International normalized ratio|Geriatrics
+ACEI|Angiotensin-converting enzyme inhibitor|Geriatrics
+ARB|Angiotensin receptor blocker|Geriatrics
+CCB|Calcium channel blocker|Geriatrics
+BB|Beta blocker|Geriatrics
+HCTZ|Hydrochlorothiazide|Geriatrics
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Geriatrics
+DPP-4i|Dipeptidyl peptidase-4 inhibitor|Geriatrics
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Geriatrics
+SU|Sulfonylurea|Geriatrics
+TZD|Thiazolidinedione|Geriatrics
+OHA|Oral hypoglycemic agent|Geriatrics
+BPH|Benign prostatic hyperplasia|Geriatrics
+5-ARI|5-alpha reductase inhibitor|Geriatrics
+CNS|Central nervous system|Geriatrics
+OTC|Over the counter|Geriatrics
+PRN|As needed|Geriatrics
+QD|Once daily|Geriatrics
+BID|Twice daily|Geriatrics
+TID|Three times daily|Geriatrics
+QID|Four times daily|Geriatrics
+QHS|Every night at bedtime|Geriatrics
+HS|At bedtime|Geriatrics
+PO|By mouth|Geriatrics
+PR|Per rectum|Geriatrics
+SL|Sublingual|Geriatrics
+SQ|Subcutaneous|Geriatrics
+SC|Subcutaneous|Geriatrics
+IM|Intramuscular|Geriatrics
+IV|Intravenous|Geriatrics
+NPO|Nothing by mouth|Geriatrics
+MAR|Medication administration record|Geriatrics
+MRR|Medication regimen review|Geriatrics
+CMR|Comprehensive medication review|Geriatrics
+MTM|Medication therapy management|Geriatrics
+PDMP|Prescription drug monitoring program|Geriatrics
+ADE|Adverse drug event|Geriatrics
+ADR|Adverse drug reaction|Geriatrics
+DDI|Drug-drug interaction|Geriatrics
+DDx|Differential diagnosis|Geriatrics
+UI|Urinary incontinence|Geriatrics
+SUI|Stress urinary incontinence|Geriatrics
+UUI|Urge urinary incontinence|Geriatrics
+MUI|Mixed urinary incontinence|Geriatrics
+OAB|Overactive bladder|Geriatrics
+PVR|Post-void residual|Geriatrics
+LUTS|Lower urinary tract symptoms|Geriatrics
+UTI|Urinary tract infection|Geriatrics
+CAUTI|Catheter-associated urinary tract infection|Geriatrics
+ASB|Asymptomatic bacteriuria|Geriatrics
+CAB|Catheter-associated bacteriuria|Geriatrics
+UA|Urinalysis|Geriatrics
+UCx|Urine culture|Geriatrics
+BCx|Blood culture|Geriatrics
+UOP|Urine output|Geriatrics
+IDC|Indwelling urinary catheter|Geriatrics
+ISC|Intermittent self-catheterization|Geriatrics
+SPC|Suprapubic catheter|Geriatrics
+BM|Bowel movement|Geriatrics
+LBM|Last bowel movement|Geriatrics
+IBS|Irritable bowel syndrome|Geriatrics
+C diff|Clostridioides difficile|Geriatrics
+CDI|Clostridioides difficile infection|Geriatrics
+MDRO|Multidrug-resistant organism|Geriatrics
+MRSA|Methicillin-resistant Staphylococcus aureus|Geriatrics
+VRE|Vancomycin-resistant Enterococcus|Geriatrics
+ESBL|Extended-spectrum beta-lactamase|Geriatrics
+CRE|Carbapenem-resistant Enterobacterales|Geriatrics
+HAI|Healthcare-associated infection|Geriatrics
+PNA|Pneumonia|Geriatrics
+HAP|Hospital-acquired pneumonia|Geriatrics
+CAP|Community-acquired pneumonia|Geriatrics
+NHAP|Nursing home-acquired pneumonia|Geriatrics
+HCAP|Healthcare-associated pneumonia|Geriatrics
+VAP|Ventilator-associated pneumonia|Geriatrics
+RSV|Respiratory syncytial virus|Geriatrics
+URI|Upper respiratory infection|Geriatrics
+ILI|Influenza-like illness|Geriatrics
+PCV|Pneumococcal conjugate vaccine|Geriatrics
+PPSV23|Pneumococcal polysaccharide vaccine, 23-valent|Geriatrics
+PCV20|Pneumococcal conjugate vaccine, 20-valent|Geriatrics
+HZ|Herpes zoster|Geriatrics
+PHN|Postherpetic neuralgia|Geriatrics
+Tdap|Tetanus, diphtheria and acellular pertussis vaccine|Geriatrics
+PU|Pressure ulcer|Geriatrics
+PI|Pressure injury|Geriatrics
+PUs|Pressure ulcers|Geriatrics
+HAPI|Hospital-acquired pressure injury|Geriatrics
+DTPI|Deep tissue pressure injury|Geriatrics
+NPWT|Negative pressure wound therapy|Geriatrics
+WOCN|Wound, ostomy and continence nurse|Geriatrics
+ABI|Ankle-brachial index|Geriatrics
+CVI|Chronic venous insufficiency|Geriatrics
+VLU|Venous leg ulcer|Geriatrics
+DFU|Diabetic foot ulcer|Geriatrics
+BWAT|Bates-Jensen wound assessment tool|Geriatrics
+PUSH|Pressure ulcer scale for healing|Geriatrics
+Braden|Braden scale for predicting pressure sore risk|Geriatrics
+WNL|Within normal limits|Geriatrics
+FTT|Failure to thrive|Geriatrics
+MNA|Mini nutritional assessment|Geriatrics
+MNA-SF|Mini nutritional assessment short form|Geriatrics
+MUST|Malnutrition universal screening tool|Geriatrics
+NRS|Nutritional risk screening|Geriatrics
+SNAQ|Simplified nutritional appetite questionnaire|Geriatrics
+GLIM|Global leadership initiative on malnutrition criteria|Geriatrics
+PEM|Protein-energy malnutrition|Geriatrics
+ONS|Oral nutritional supplement|Geriatrics
+TPN|Total parenteral nutrition|Geriatrics
+PPN|Peripheral parenteral nutrition|Geriatrics
+EN|Enteral nutrition|Geriatrics
+NG|Nasogastric|Geriatrics
+NGT|Nasogastric tube|Geriatrics
+PEG|Percutaneous endoscopic gastrostomy|Geriatrics
+G-tube|Gastrostomy tube|Geriatrics
+J-tube|Jejunostomy tube|Geriatrics
+FT|Feeding tube|Geriatrics
+TF|Tube feeding|Geriatrics
+HOB|Head of bed|Geriatrics
+NDD|National dysphagia diet|Geriatrics
+IDDSI|International dysphagia diet standardisation initiative|Geriatrics
+MBS|Modified barium swallow|Geriatrics
+MBSS|Modified barium swallow study|Geriatrics
+FEES|Fiberoptic endoscopic evaluation of swallowing|Geriatrics
+VFSS|Videofluoroscopic swallow study|Geriatrics
+EAT-10|Eating assessment tool, 10 items|Geriatrics
+BUN|Blood urea nitrogen|Geriatrics
+Cr|Creatinine|Geriatrics
+CrCl|Creatinine clearance|Geriatrics
+eGFR|Estimated glomerular filtration rate|Geriatrics
+GFR|Glomerular filtration rate|Geriatrics
+CKD|Chronic kidney disease|Geriatrics
+AKI|Acute kidney injury|Geriatrics
+ESRD|End-stage renal disease|Geriatrics
+ESKD|End-stage kidney disease|Geriatrics
+HD|Hemodialysis|Geriatrics
+PD|Peritoneal dialysis|Geriatrics
+CMP|Comprehensive metabolic panel|Geriatrics
+BMP|Basic metabolic panel|Geriatrics
+CBC|Complete blood count|Geriatrics
+TSH|Thyroid-stimulating hormone|Geriatrics
+B12|Vitamin B12|Geriatrics
+MMA|Methylmalonic acid|Geriatrics
+25-OH D|25-hydroxyvitamin D|Geriatrics
+PTH|Parathyroid hormone|Geriatrics
+HbA1c|Hemoglobin A1c|Geriatrics
+A1c|Hemoglobin A1c|Geriatrics
+DM|Diabetes mellitus|Geriatrics
+T2DM|Type 2 diabetes mellitus|Geriatrics
+HHS|Hyperosmolar hyperglycemic state|Geriatrics
+DKA|Diabetic ketoacidosis|Geriatrics
+FSBG|Fingerstick blood glucose|Geriatrics
+BG|Blood glucose|Geriatrics
+HTN|Hypertension|Geriatrics
+HLD|Hyperlipidemia|Geriatrics
+CAD|Coronary artery disease|Geriatrics
+CHF|Congestive heart failure|Geriatrics
+HFpEF|Heart failure with preserved ejection fraction|Geriatrics
+HFrEF|Heart failure with reduced ejection fraction|Geriatrics
+AF|Atrial fibrillation|Geriatrics
+AFib|Atrial fibrillation|Geriatrics
+CVA|Cerebrovascular accident|Geriatrics
+TIA|Transient ischemic attack|Geriatrics
+MI|Myocardial infarction|Geriatrics
+COPD|Chronic obstructive pulmonary disease|Geriatrics
+OSA|Obstructive sleep apnea|Geriatrics
+CPAP|Continuous positive airway pressure|Geriatrics
+BiPAP|Bilevel positive airway pressure|Geriatrics
+SOB|Shortness of breath|Geriatrics
+DOE|Dyspnea on exertion|Geriatrics
+O2|Oxygen|Geriatrics
+NC|Nasal cannula|Geriatrics
+RA|Room air|Geriatrics
+SpO2|Peripheral oxygen saturation|Geriatrics
+OH|Orthostatic hypotension|Geriatrics
+POTS|Postural orthostatic tachycardia syndrome|Geriatrics
+PH|Postural hypotension|Geriatrics
+BP|Blood pressure|Geriatrics
+HR|Heart rate|Geriatrics
+RR|Respiratory rate|Geriatrics
+VS|Vital signs|Geriatrics
+CSS|Carotid sinus syndrome|Geriatrics
+CSH|Carotid sinus hypersensitivity|Geriatrics
+CSM|Carotid sinus massage|Geriatrics
+HUT|Head-up tilt test|Geriatrics
+LOC|Loss of consciousness|Geriatrics
+TLOC|Transient loss of consciousness|Geriatrics
+PPM|Permanent pacemaker|Geriatrics
+ICD|Implantable cardioverter-defibrillator|Geriatrics
+AS|Aortic stenosis|Geriatrics
+TAVR|Transcatheter aortic valve replacement|Geriatrics
+SAVR|Surgical aortic valve replacement|Geriatrics
+CABG|Coronary artery bypass grafting|Geriatrics
+PCI|Percutaneous coronary intervention|Geriatrics
+AAA|Abdominal aortic aneurysm|Geriatrics
+GCA|Giant cell arteritis|Geriatrics
+PMR|Polymyalgia rheumatica|Geriatrics
+ESR|Erythrocyte sedimentation rate|Geriatrics
+CRP|C-reactive protein|Geriatrics
+OA|Osteoarthritis|Geriatrics
+DJD|Degenerative joint disease|Geriatrics
+CPPD|Calcium pyrophosphate deposition disease|Geriatrics
+LBP|Low back pain|Geriatrics
+LSS|Lumbar spinal stenosis|Geriatrics
+VCF|Vertebral compression fracture|Geriatrics
+CRPS|Complex regional pain syndrome|Geriatrics
+IA|Intra-articular|Geriatrics
+TENS|Transcutaneous electrical nerve stimulation|Geriatrics
+PCA pump|Patient-controlled analgesia|Geriatrics
+PAINAD|Pain assessment in advanced dementia scale|Geriatrics
+NRS pain|Numeric rating scale for pain|Geriatrics
+VAS|Visual analog scale|Geriatrics
+FPS-R|Faces pain scale revised|Geriatrics
+BPI|Brief pain inventory|Geriatrics
+PAINAD-S|Pain assessment in advanced dementia scale, short form|Geriatrics
+CNPI|Checklist of nonverbal pain indicators|Geriatrics
+MME|Morphine milligram equivalents|Geriatrics
+OME|Oral morphine equivalent|Geriatrics
+OUD|Opioid use disorder|Geriatrics
+OIC|Opioid-induced constipation|Geriatrics
+OIH|Opioid-induced hyperalgesia|Geriatrics
+APAP|Acetaminophen|Geriatrics
+ASA|Aspirin|Geriatrics
+HCP|Health care proxy|Geriatrics
+HCPOA|Health care power of attorney|Geriatrics
+DPOA|Durable power of attorney|Geriatrics
+DPOA-HC|Durable power of attorney for health care|Geriatrics
+POA|Power of attorney|Geriatrics
+ACP|Advance care planning|Geriatrics
+GOC|Goals of care|Geriatrics
+GOCs|Goals of care|Geriatrics
+POLST|Physician orders for life-sustaining treatment|Geriatrics
+MOLST|Medical orders for life-sustaining treatment|Geriatrics
+POST|Physician orders for scope of treatment|Geriatrics
+DNR|Do not resuscitate|Geriatrics
+DNI|Do not intubate|Geriatrics
+DNR/DNI|Do not resuscitate and do not intubate|Geriatrics
+DNH|Do not hospitalize|Geriatrics
+CPR|Cardiopulmonary resuscitation|Geriatrics
+FC|Full code|Geriatrics
+CMO|Comfort measures only|Geriatrics
+CC|Comfort care|Geriatrics
+LST|Life-sustaining treatment|Geriatrics
+SDM|Shared decision making|Geriatrics
+NOK|Next of kin|Geriatrics
+LAR|Legally authorized representative|Geriatrics
+DC|Discharge|Geriatrics
+D/C|Discharge or discontinue|Geriatrics
+AMA|Against medical advice|Geriatrics
+DOA|Dead on arrival|Geriatrics
+EOL|End of life|Geriatrics
+EoLC|End-of-life care|Geriatrics
+PC|Palliative care|Geriatrics
+HPC|Hospice and palliative care|Geriatrics
+HPM|Hospice and palliative medicine|Geriatrics
+GIP|General inpatient hospice level of care|Geriatrics
+RHC|Routine home care hospice level|Geriatrics
+CHC|Continuous home care hospice level|Geriatrics
+NYHA|New York Heart Association functional class|Geriatrics
+FAST 7|Functional assessment staging tool stage 7|Geriatrics
+ESAS|Edmonton symptom assessment system|Geriatrics
+SPIKES|Setting, perception, invitation, knowledge, emotions, summary breaking-bad-news protocol|Geriatrics
+QOL|Quality of life|Geriatrics
+HRQOL|Health-related quality of life|Geriatrics
+QALY|Quality-adjusted life year|Geriatrics
+LE|Life expectancy|Geriatrics
+SPICT|Supportive and palliative care indicators tool|Geriatrics
+PHQ-2|Patient health questionnaire, 2 items|Geriatrics
+PHQ-9|Patient health questionnaire, 9 items|Geriatrics
+CSDD|Cornell scale for depression in dementia|Geriatrics
+HADS|Hospital anxiety and depression scale|Geriatrics
+GAD-7|Generalized anxiety disorder 7-item scale|Geriatrics
+GAI|Geriatric anxiety inventory|Geriatrics
+MDD|Major depressive disorder|Geriatrics
+LLD|Late-life depression|Geriatrics
+GAD|Generalized anxiety disorder|Geriatrics
+PTSD|Posttraumatic stress disorder|Geriatrics
+SI|Suicidal ideation|Geriatrics
+HI|Homicidal ideation|Geriatrics
+C-SSRS|Columbia suicide severity rating scale|Geriatrics
+ECT|Electroconvulsive therapy|Geriatrics
+TMS|Transcranial magnetic stimulation|Geriatrics
+CBT|Cognitive behavioral therapy|Geriatrics
+CBT-I|Cognitive behavioral therapy for insomnia|Geriatrics
+IPT|Interpersonal therapy|Geriatrics
+PST|Problem-solving therapy|Geriatrics
+BA|Behavioral activation|Geriatrics
+AUDIT-C|Alcohol use disorders identification test, consumption items|Geriatrics
+SMAST-G|Short Michigan alcoholism screening test, geriatric version|Geriatrics
+CIWA|Clinical institute withdrawal assessment|Geriatrics
+CIWA-Ar|Clinical institute withdrawal assessment for alcohol, revised|Geriatrics
+AUD|Alcohol use disorder|Geriatrics
+SUD|Substance use disorder|Geriatrics
+ISI|Insomnia severity index|Geriatrics
+PSQI|Pittsburgh sleep quality index|Geriatrics
+ESS|Epworth sleepiness scale|Geriatrics
+STOP-BANG|Snoring, tired, observed apnea, pressure, BMI, age, neck, gender sleep apnea screen|Geriatrics
+RLS|Restless legs syndrome|Geriatrics
+PLMD|Periodic limb movement disorder|Geriatrics
+PLMS|Periodic limb movements of sleep|Geriatrics
+AHI|Apnea-hypopnea index|Geriatrics
+PSG|Polysomnography|Geriatrics
+HSAT|Home sleep apnea test|Geriatrics
+EDS|Excessive daytime sleepiness|Geriatrics
+EEG|Electroencephalogram|Geriatrics
+LP|Lumbar puncture|Geriatrics
+HVLT|Hopkins verbal learning test|Geriatrics
+TMT|Trail making test|Geriatrics
+BNT|Boston naming test|Geriatrics
+FAQ|Functional activities questionnaire|Geriatrics
+DAD|Disability assessment for dementia|Geriatrics
+ADCS-ADL|Alzheimer's disease cooperative study activities of daily living|Geriatrics
+Lawton IADL|Lawton instrumental activities of daily living scale|Geriatrics
+HHIE-S|Hearing handicap inventory for the elderly, screening version|Geriatrics
+HHIE|Hearing handicap inventory for the elderly|Geriatrics
+SNHL|Sensorineural hearing loss|Geriatrics
+CHL|Conductive hearing loss|Geriatrics
+HL|Hearing loss|Geriatrics
+PTA|Pure tone average|Geriatrics
+HA|Hearing aid|Geriatrics
+CI|Cochlear implant|Geriatrics
+BPPV|Benign paroxysmal positional vertigo|Geriatrics
+VOR|Vestibulo-ocular reflex|Geriatrics
+ENT|Ear, nose and throat|Geriatrics
+AMD|Age-related macular degeneration|Geriatrics
+ARMD|Age-related macular degeneration|Geriatrics
+VA|Visual acuity|Geriatrics
+BCVA|Best corrected visual acuity|Geriatrics
+IOP|Intraocular pressure|Geriatrics
+POAG|Primary open-angle glaucoma|Geriatrics
+PACG|Primary angle-closure glaucoma|Geriatrics
+DR|Diabetic retinopathy|Geriatrics
+PCO|Posterior capsule opacification|Geriatrics
+IOL|Intraocular lens|Geriatrics
+OD|Right eye|Geriatrics
+OS|Left eye|Geriatrics
+OU|Both eyes|Geriatrics
+CHF exacerbation|Congestive heart failure exacerbation|Geriatrics
+AMS|Altered mental status|Geriatrics
+MS|Mental status|Geriatrics
+A&O|Alert and oriented|Geriatrics
+A&Ox3|Alert and oriented to person, place and time|Geriatrics
+AOx3|Alert and oriented to person, place and time|Geriatrics
+AAOx3|Awake, alert and oriented to person, place and time|Geriatrics
+SPMSQ|Short portable mental status questionnaire|Geriatrics
+BOMC|Blessed orientation-memory-concentration test|Geriatrics
+7MS|Seven-minute screen for cognitive impairment|Geriatrics
+GPCOG|General practitioner assessment of cognition|Geriatrics
+TICS|Telephone interview for cognitive status|Geriatrics
+ACE-III|Addenbrooke's cognitive examination, third edition|Geriatrics
+RBANS|Repeatable battery for the assessment of neuropsychological status|Geriatrics
+FAB|Frontal assessment battery|Geriatrics
+EOAD|Early-onset Alzheimer's disease|Geriatrics
+LOAD|Late-onset Alzheimer's disease|Geriatrics
+TBI|Traumatic brain injury|Geriatrics
+SDH|Subdural hematoma|Geriatrics
+cSDH|Chronic subdural hematoma|Geriatrics
+ICH|Intracerebral hemorrhage|Geriatrics
+SAH|Subarachnoid hemorrhage|Geriatrics
+PD disease|Parkinson disease|Geriatrics
+PIGD|Postural instability and gait difficulty|Geriatrics
+UPDRS|Unified Parkinson disease rating scale|Geriatrics
+LEDD|Levodopa equivalent daily dose|Geriatrics
+COMT|Catechol-O-methyltransferase|Geriatrics
+MAO-B|Monoamine oxidase B|Geriatrics
+DBS|Deep brain stimulation|Geriatrics
+ET|Essential tremor|Geriatrics
+ALS|Amyotrophic lateral sclerosis|Geriatrics
+MND|Motor neuron disease|Geriatrics
+IBM|Inclusion body myositis|Geriatrics
+CIDP|Chronic inflammatory demyelinating polyneuropathy|Geriatrics
+DPN|Diabetic peripheral neuropathy|Geriatrics
+CIPN|Chemotherapy-induced peripheral neuropathy|Geriatrics
+CTS|Carpal tunnel syndrome|Geriatrics
+SPEP|Serum protein electrophoresis|Geriatrics
+MGUS|Monoclonal gammopathy of undetermined significance|Geriatrics
+MM|Multiple myeloma|Geriatrics
+CLL|Chronic lymphocytic leukemia|Geriatrics
+AML|Acute myeloid leukemia|Geriatrics
+CCUS|Clonal cytopenia of undetermined significance|Geriatrics
+CHIP|Clonal hematopoiesis of indeterminate potential|Geriatrics
+IDA|Iron deficiency anemia|Geriatrics
+ACD|Anemia of chronic disease|Geriatrics
+AOCD|Anemia of chronic disease|Geriatrics
+MCV|Mean corpuscular volume|Geriatrics
+RDW|Red cell distribution width|Geriatrics
+Hgb|Hemoglobin|Geriatrics
+Hct|Hematocrit|Geriatrics
+WBC|White blood cell count|Geriatrics
+PLT|Platelet count|Geriatrics
+ESA|Erythropoiesis-stimulating agent|Geriatrics
+PRBC|Packed red blood cells|Geriatrics
+CGA-O|Comprehensive geriatric assessment in oncology|Geriatrics
+VES-13|Vulnerable elders survey, 13 items|Geriatrics
+CARG|Cancer and aging research group chemotherapy toxicity score|Geriatrics
+TRST|Triage risk screening tool|Geriatrics
+ISAR|Identification of seniors at risk|Geriatrics
+CCI|Charlson comorbidity index|Geriatrics
+CIRS-G|Cumulative illness rating scale, geriatric|Geriatrics
+LACE|Length of stay, acuity, comorbidity, emergency visits readmission index|Geriatrics
+TCM|Transitional care management|Geriatrics
+CTI|Care transitions intervention|Geriatrics
+AWV|Annual wellness visit|Geriatrics
+IPPE|Initial preventive physical examination|Geriatrics
+HRA|Health risk assessment|Geriatrics
+CCM|Chronic care management|Geriatrics
+PCM|Principal care management|Geriatrics
+ACO|Accountable care organization|Geriatrics
+MA|Medicare Advantage|Geriatrics
+SNP|Special needs plan|Geriatrics
+D-SNP|Dual-eligible special needs plan|Geriatrics
+C-SNP|Chronic condition special needs plan|Geriatrics
+I-SNP|Institutional special needs plan|Geriatrics
+PDP|Prescription drug plan|Geriatrics
+LIS|Low-income subsidy|Geriatrics
+MSP|Medicare savings program|Geriatrics
+QMB|Qualified Medicare beneficiary|Geriatrics
+SLMB|Specified low-income Medicare beneficiary|Geriatrics
+PFS|Physician fee schedule|Geriatrics
+SSI|Supplemental security income|Geriatrics
+SSDI|Social security disability insurance|Geriatrics
+HCBS|Home and community-based services|Geriatrics
+LTSS|Long-term services and supports|Geriatrics
+MLTSS|Managed long-term services and supports|Geriatrics
+PDPM|Patient-driven payment model|Geriatrics
+PDGM|Patient-driven groupings model|Geriatrics
+OASIS|Outcome and assessment information set|Geriatrics
+RAI|Resident assessment instrument|Geriatrics
+RAP|Resident assessment protocol|Geriatrics
+CP|Care plan|Geriatrics
+POC|Plan of care|Geriatrics
+QAPI|Quality assurance and performance improvement|Geriatrics
+DON|Director of nursing|Geriatrics
+CPE|Complete physical examination|Geriatrics
+H&P|History and physical|Geriatrics
+HPI|History of present illness|Geriatrics
+PMH|Past medical history|Geriatrics
+PSH|Past surgical history|Geriatrics
+SH|Social history|Geriatrics
+ROS|Review of systems|Geriatrics
+A/P|Assessment and plan|Geriatrics
+Hx|History|Geriatrics
+Dx|Diagnosis|Geriatrics
+Tx|Treatment|Geriatrics
+Rx|Prescription or treatment|Geriatrics
+Sx|Symptoms|Geriatrics
+Fx|Fracture|Geriatrics
+Sz|Seizure|Geriatrics
+s/p|Status post|Geriatrics
+c/o|Complains of|Geriatrics
+w/u|Workup|Geriatrics
+f/u|Follow-up|Geriatrics
+pt|Patient|Geriatrics
+yo|Year old|Geriatrics
+y/o|Year old|Geriatrics
+YOF|Year-old female|Geriatrics
+YOM|Year-old male|Geriatrics
+WDWN|Well developed, well nourished|Geriatrics
+NAD|No acute distress|Geriatrics
+HEENT|Head, eyes, ears, nose and throat|Geriatrics
+CTAB|Clear to auscultation bilaterally|Geriatrics
+RRR|Regular rate and rhythm|Geriatrics
+NABS|Normoactive bowel sounds|Geriatrics
+NT/ND|Non-tender, non-distended|Geriatrics
+NCAT|Normocephalic, atraumatic|Geriatrics
+PERRL|Pupils equal, round, reactive to light|Geriatrics
+EOMI|Extraocular movements intact|Geriatrics
+CN|Cranial nerves|Geriatrics
+DTR|Deep tendon reflexes|Geriatrics
+MMT|Manual muscle testing|Geriatrics
+LE|Lower extremity|Geriatrics
+UE|Upper extremity|Geriatrics

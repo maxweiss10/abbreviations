@@ -1,0 +1,679 @@
+AF|Atrial fibrillation|Electrophysiology
+AFib|Atrial fibrillation|Electrophysiology
+AFL|Atrial flutter|Electrophysiology
+AT|Atrial tachycardia|Electrophysiology
+AVNRT|Atrioventricular nodal reentrant tachycardia|Electrophysiology
+AVRT|Atrioventricular reentrant tachycardia|Electrophysiology
+AVN|Atrioventricular node|Electrophysiology
+AV|Atrioventricular|Electrophysiology
+AVB|Atrioventricular block|Electrophysiology
+SAN|Sinoatrial node|Electrophysiology
+SND|Sinus node dysfunction|Electrophysiology
+SSS|Sick sinus syndrome|Electrophysiology
+SVT|Supraventricular tachycardia|Electrophysiology
+PSVT|Paroxysmal supraventricular tachycardia|Electrophysiology
+VT|Ventricular tachycardia|Electrophysiology
+NSVT|Nonsustained ventricular tachycardia|Electrophysiology
+SMVT|Sustained monomorphic ventricular tachycardia|Electrophysiology
+MMVT|Monomorphic ventricular tachycardia|Electrophysiology
+PMVT|Polymorphic ventricular tachycardia|Electrophysiology
+VF|Ventricular fibrillation|Electrophysiology
+VFL|Ventricular flutter|Electrophysiology
+VA|Ventricular arrhythmia|Electrophysiology
+VAs|Ventricular arrhythmias|Electrophysiology
+VPD|Ventricular premature depolarization|Electrophysiology
+VPC|Ventricular premature complex|Electrophysiology
+VPB|Ventricular premature beat|Electrophysiology
+PVC|Premature ventricular complex|Electrophysiology
+PVCs|Premature ventricular complexes|Electrophysiology
+PAC|Premature atrial complex|Electrophysiology
+PACs|Premature atrial complexes|Electrophysiology
+APC|Atrial premature complex|Electrophysiology
+APB|Atrial premature beat|Electrophysiology
+JET|Junctional ectopic tachycardia|Electrophysiology
+AIVR|Accelerated idioventricular rhythm|Electrophysiology
+IVR|Idioventricular rhythm|Electrophysiology
+TdP|Torsades de pointes|Electrophysiology
+WCT|Wide complex tachycardia|Electrophysiology
+NCT|Narrow complex tachycardia|Electrophysiology
+SCD|Sudden cardiac death|Electrophysiology
+SCA|Sudden cardiac arrest|Electrophysiology
+OHCA|Out-of-hospital cardiac arrest|Electrophysiology
+IHCA|In-hospital cardiac arrest|Electrophysiology
+VT/VF|Ventricular tachycardia or ventricular fibrillation|Electrophysiology
+PEA|Pulseless electrical activity|Electrophysiology
+ROSC|Return of spontaneous circulation|Electrophysiology
+CPR|Cardiopulmonary resuscitation|Electrophysiology
+ACLS|Advanced cardiac life support|Electrophysiology
+BLS|Basic life support|Electrophysiology
+AED|Automated external defibrillator|Electrophysiology
+WCD|Wearable cardioverter-defibrillator|Electrophysiology
+ICD|Implantable cardioverter-defibrillator|Electrophysiology
+S-ICD|Subcutaneous implantable cardioverter-defibrillator|Electrophysiology
+SICD|Subcutaneous implantable cardioverter-defibrillator|Electrophysiology
+EV-ICD|Extravascular implantable cardioverter-defibrillator|Electrophysiology
+CRT|Cardiac resynchronization therapy|Electrophysiology
+CRT-D|Cardiac resynchronization therapy with defibrillator|Electrophysiology
+CRT-P|Cardiac resynchronization therapy with pacemaker|Electrophysiology
+BiV|Biventricular|Electrophysiology
+BiV-ICD|Biventricular implantable cardioverter-defibrillator|Electrophysiology
+PPM|Permanent pacemaker|Electrophysiology
+PM|Pacemaker|Electrophysiology
+TVP|Temporary transvenous pacemaker|Electrophysiology
+TCP|Transcutaneous pacing|Electrophysiology
+LP|Leadless pacemaker|Electrophysiology
+LBBAP|Left bundle branch area pacing|Electrophysiology
+LBBP|Left bundle branch pacing|Electrophysiology
+LVSP|Left ventricular septal pacing|Electrophysiology
+HBP|His bundle pacing|Electrophysiology
+CSP|Conduction system pacing|Electrophysiology
+RVP|Right ventricular pacing|Electrophysiology
+RVA|Right ventricular apex|Electrophysiology
+RVOT|Right ventricular outflow tract|Electrophysiology
+LVOT|Left ventricular outflow tract|Electrophysiology
+RAA|Right atrial appendage|Electrophysiology
+LAA|Left atrial appendage|Electrophysiology
+LAAO|Left atrial appendage occlusion|Electrophysiology
+LAAC|Left atrial appendage closure|Electrophysiology
+LAAE|Left atrial appendage exclusion|Electrophysiology
+CS|Coronary sinus|Electrophysiology
+GCV|Great cardiac vein|Electrophysiology
+AIV|Anterior interventricular vein|Electrophysiology
+MCV|Middle cardiac vein|Electrophysiology
+PV|Pulmonary vein|Electrophysiology
+PVI|Pulmonary vein isolation|Electrophysiology
+WACA|Wide area circumferential ablation|Electrophysiology
+LA|Left atrium|Electrophysiology
+RA|Right atrium|Electrophysiology
+LV|Left ventricle|Electrophysiology
+RV|Right ventricle|Electrophysiology
+LSPV|Left superior pulmonary vein|Electrophysiology
+LIPV|Left inferior pulmonary vein|Electrophysiology
+RSPV|Right superior pulmonary vein|Electrophysiology
+RIPV|Right inferior pulmonary vein|Electrophysiology
+LCC|Left coronary cusp|Electrophysiology
+RCC|Right coronary cusp|Electrophysiology
+NCC|Non-coronary cusp|Electrophysiology
+SVC|Superior vena cava|Electrophysiology
+IVC|Inferior vena cava|Electrophysiology
+CTI|Cavotricuspid isthmus|Electrophysiology
+CTI ablation|Cavotricuspid isthmus ablation|Electrophysiology
+TV|Tricuspid valve|Electrophysiology
+MV|Mitral valve|Electrophysiology
+MA|Mitral annulus|Electrophysiology
+TA|Tricuspid annulus|Electrophysiology
+PMs|Papillary muscles|Electrophysiology
+PAP|Posterior papillary muscle|Electrophysiology
+EP|Electrophysiology|Electrophysiology
+EPS|Electrophysiology study|Electrophysiology
+EP study|Electrophysiology study|Electrophysiology
+CA|Catheter ablation|Electrophysiology
+RFA|Radiofrequency ablation|Electrophysiology
+RF|Radiofrequency|Electrophysiology
+PFA|Pulsed field ablation|Electrophysiology
+PEF|Pulsed electric field|Electrophysiology
+CBA|Cryoballoon ablation|Electrophysiology
+Cryo|Cryoablation|Electrophysiology
+LBA|Laser balloon ablation|Electrophysiology
+HPSD|High-power short-duration ablation|Electrophysiology
+vHPSD|Very high-power short-duration ablation|Electrophysiology
+AI|Ablation index|Electrophysiology
+LSI|Lesion size index|Electrophysiology
+FTI|Force-time integral|Electrophysiology
+CF|Contact force|Electrophysiology
+TTM|Targeted temperature management|Electrophysiology
+AVJ|Atrioventricular junction|Electrophysiology
+AVJA|Atrioventricular junction ablation|Electrophysiology
+SP|Slow pathway|Electrophysiology
+FP|Fast pathway|Electrophysiology
+AP|Accessory pathway|Electrophysiology
+APs|Accessory pathways|Electrophysiology
+WPW|Wolff-Parkinson-White pattern or syndrome|Electrophysiology
+OAVRT|Orthodromic atrioventricular reentrant tachycardia|Electrophysiology
+AAVRT|Antidromic atrioventricular reentrant tachycardia|Electrophysiology
+PJRT|Permanent junctional reciprocating tachycardia|Electrophysiology
+IST|Inappropriate sinus tachycardia|Electrophysiology
+POTS|Postural orthostatic tachycardia syndrome|Electrophysiology
+OH|Orthostatic hypotension|Electrophysiology
+NCS|Neurocardiogenic syncope|Electrophysiology
+VVS|Vasovagal syncope|Electrophysiology
+CSH|Carotid sinus hypersensitivity|Electrophysiology
+CSS|Carotid sinus syndrome|Electrophysiology
+CSM|Carotid sinus massage|Electrophysiology
+HUT|Head-up tilt test|Electrophysiology
+TTT|Tilt table test|Electrophysiology
+TLOC|Transient loss of consciousness|Electrophysiology
+LOC|Loss of consciousness|Electrophysiology
+ILR|Implantable loop recorder|Electrophysiology
+ICM|Insertable cardiac monitor|Electrophysiology
+MCT|Mobile cardiac telemetry|Electrophysiology
+MCOT|Mobile cardiac outpatient telemetry|Electrophysiology
+ECG|Electrocardiogram|Electrophysiology
+EKG|Electrocardiogram|Electrophysiology
+12L ECG|Twelve-lead electrocardiogram|Electrophysiology
+SAECG|Signal-averaged electrocardiogram|Electrophysiology
+EGM|Electrogram|Electrophysiology
+IEGM|Intracardiac electrogram|Electrophysiology
+ICE|Intracardiac echocardiography|Electrophysiology
+TEE|Transesophageal echocardiogram|Electrophysiology
+TTE|Transthoracic echocardiogram|Electrophysiology
+CMR|Cardiac magnetic resonance imaging|Electrophysiology
+CT|Computed tomography|Electrophysiology
+CCTA|Coronary computed tomography angiography|Electrophysiology
+LGE|Late gadolinium enhancement|Electrophysiology
+PET|Positron emission tomography|Electrophysiology
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Electrophysiology
+EAM|Electroanatomic mapping|Electrophysiology
+3D EAM|Three-dimensional electroanatomic mapping|Electrophysiology
+LAT|Local activation time|Electrophysiology
+CFAE|Complex fractionated atrial electrogram|Electrophysiology
+LVA|Low voltage area|Electrophysiology
+LAVA|Local abnormal ventricular activity|Electrophysiology
+DAD|Delayed afterdepolarization|Electrophysiology
+EAD|Early afterdepolarization|Electrophysiology
+AP|Action potential|Electrophysiology
+APD|Action potential duration|Electrophysiology
+MAP|Monophasic action potential|Electrophysiology
+ERP|Effective refractory period|Electrophysiology
+RRP|Relative refractory period|Electrophysiology
+FRP|Functional refractory period|Electrophysiology
+AERP|Atrial effective refractory period|Electrophysiology
+VERP|Ventricular effective refractory period|Electrophysiology
+AVNERP|Atrioventricular node effective refractory period|Electrophysiology
+APERP|Accessory pathway effective refractory period|Electrophysiology
+SNRT|Sinus node recovery time|Electrophysiology
+CSNRT|Corrected sinus node recovery time|Electrophysiology
+SACT|Sinoatrial conduction time|Electrophysiology
+IHR|Intrinsic heart rate|Electrophysiology
+WCL|Wenckebach cycle length|Electrophysiology
+AVWCL|Atrioventricular Wenckebach cycle length|Electrophysiology
+CL|Cycle length|Electrophysiology
+TCL|Tachycardia cycle length|Electrophysiology
+PPI|Postpacing interval|Electrophysiology
+PPI-TCL|Postpacing interval minus tachycardia cycle length|Electrophysiology
+SCL|Sinus cycle length|Electrophysiology
+PCL|Paced cycle length|Electrophysiology
+BCL|Basic cycle length|Electrophysiology
+BDT|Burst drive train|Electrophysiology
+PES|Programmed electrical stimulation|Electrophysiology
+PVS|Programmed ventricular stimulation|Electrophysiology
+PAS|Programmed atrial stimulation|Electrophysiology
+A-H|Atrial to His interval|Electrophysiology
+AH|Atrial to His interval|Electrophysiology
+HV|His to ventricular interval|Electrophysiology
+H-V|His to ventricular interval|Electrophysiology
+PA|Intra-atrial conduction interval|Electrophysiology
+VA interval|Ventriculoatrial interval|Electrophysiology
+VA|Ventriculoatrial|Electrophysiology
+AV interval|Atrioventricular interval|Electrophysiology
+AVD|Atrioventricular delay|Electrophysiology
+PAV|Paced atrioventricular delay|Electrophysiology
+SAV|Sensed atrioventricular delay|Electrophysiology
+VV|Interventricular delay|Electrophysiology
+PVARP|Postventricular atrial refractory period|Electrophysiology
+PVAB|Postventricular atrial blanking period|Electrophysiology
+TARP|Total atrial refractory period|Electrophysiology
+URL|Upper rate limit|Electrophysiology
+LRL|Lower rate limit|Electrophysiology
+MTR|Maximum tracking rate|Electrophysiology
+MSR|Maximum sensor rate|Electrophysiology
+UTR|Upper tracking rate|Electrophysiology
+USR|Upper sensor rate|Electrophysiology
+MPR|Minimum paced rate|Electrophysiology
+AMS|Automatic mode switch|Electrophysiology
+MS|Mode switch|Electrophysiology
+PMT|Pacemaker-mediated tachycardia|Electrophysiology
+PMTs|Pacemaker-mediated tachycardias|Electrophysiology
+RDR|Rate-drop response|Electrophysiology
+SRP|Sensor-driven rate pacing|Electrophysiology
+AAI|Atrial pacing, atrial sensing, inhibited response (pacing mode)|Electrophysiology
+AAIR|Atrial pacing and sensing, inhibited, rate-responsive (pacing mode)|Electrophysiology
+VVI|Ventricular pacing, ventricular sensing, inhibited response (pacing mode)|Electrophysiology
+VVIR|Ventricular pacing and sensing, inhibited, rate-responsive (pacing mode)|Electrophysiology
+VOO|Asynchronous ventricular pacing (pacing mode)|Electrophysiology
+AOO|Asynchronous atrial pacing (pacing mode)|Electrophysiology
+DOO|Asynchronous dual-chamber pacing (pacing mode)|Electrophysiology
+DDD|Dual-chamber pacing, dual sensing, dual response (pacing mode)|Electrophysiology
+DDDR|Dual-chamber rate-responsive pacing mode|Electrophysiology
+DDI|Dual-chamber pacing, dual sensing, inhibited response (pacing mode)|Electrophysiology
+DDIR|Dual-chamber rate-responsive inhibited pacing mode|Electrophysiology
+VDD|Ventricular pacing, dual sensing, dual response (pacing mode)|Electrophysiology
+VDDR|Rate-responsive ventricular pacing with dual sensing mode|Electrophysiology
+DVI|Dual-chamber pacing, ventricular sensing, inhibited response (pacing mode)|Electrophysiology
+AAT|Atrial pacing, atrial sensing, triggered response (pacing mode)|Electrophysiology
+VVT|Ventricular pacing, ventricular sensing, triggered response (pacing mode)|Electrophysiology
+AP-VP|Atrial paced, ventricular paced|Electrophysiology
+AS-VS|Atrial sensed, ventricular sensed|Electrophysiology
+AP-VS|Atrial paced, ventricular sensed|Electrophysiology
+AS-VP|Atrial sensed, ventricular paced|Electrophysiology
+AP|Atrial paced|Electrophysiology
+AS|Atrial sensed|Electrophysiology
+VP|Ventricular paced|Electrophysiology
+VS|Ventricular sensed|Electrophysiology
+%AP|Percent atrial pacing|Electrophysiology
+%VP|Percent ventricular pacing|Electrophysiology
+%BiV|Percent biventricular pacing|Electrophysiology
+BiV%|Percent biventricular pacing|Electrophysiology
+RVP%|Percent right ventricular pacing|Electrophysiology
+AHRE|Atrial high-rate episode|Electrophysiology
+AHREs|Atrial high-rate episodes|Electrophysiology
+SCAF|Subclinical atrial fibrillation|Electrophysiology
+DDAF|Device-detected atrial fibrillation|Electrophysiology
+DDAT|Device-detected atrial tachyarrhythmia|Electrophysiology
+AT/AF|Atrial tachycardia or atrial fibrillation|Electrophysiology
+NSR|Normal sinus rhythm|Electrophysiology
+SR|Sinus rhythm|Electrophysiology
+ST|Sinus tachycardia|Electrophysiology
+SB|Sinus bradycardia|Electrophysiology
+SA|Sinus arrhythmia|Electrophysiology
+SAR|Sinus arrest|Electrophysiology
+SVR|Slow ventricular response|Electrophysiology
+RVR|Rapid ventricular response|Electrophysiology
+CVR|Controlled ventricular response|Electrophysiology
+AVR|Accelerated ventricular rhythm|Electrophysiology
+HR|Heart rate|Electrophysiology
+bpm|Beats per minute|Electrophysiology
+HRV|Heart rate variability|Electrophysiology
+HRR|Heart rate recovery|Electrophysiology
+HRT|Heart rate turbulence|Electrophysiology
+BRS|Baroreflex sensitivity|Electrophysiology
+BBB|Bundle branch block|Electrophysiology
+LBBB|Left bundle branch block|Electrophysiology
+RBBB|Right bundle branch block|Electrophysiology
+IVCD|Intraventricular conduction delay|Electrophysiology
+IVCD NS|Nonspecific intraventricular conduction delay|Electrophysiology
+NSIVCD|Nonspecific intraventricular conduction delay|Electrophysiology
+IRBBB|Incomplete right bundle branch block|Electrophysiology
+ILBBB|Incomplete left bundle branch block|Electrophysiology
+LAFB|Left anterior fascicular block|Electrophysiology
+LPFB|Left posterior fascicular block|Electrophysiology
+LAHB|Left anterior hemiblock|Electrophysiology
+LPHB|Left posterior hemiblock|Electrophysiology
+BFB|Bifascicular block|Electrophysiology
+TFB|Trifascicular block|Electrophysiology
+1AVB|First-degree atrioventricular block|Electrophysiology
+2AVB|Second-degree atrioventricular block|Electrophysiology
+3AVB|Third-degree atrioventricular block|Electrophysiology
+CHB|Complete heart block|Electrophysiology
+SAB|Sinoatrial block|Electrophysiology
+SAE|Sinoatrial exit block|Electrophysiology
+SVEB|Supraventricular ectopic beat|Electrophysiology
+SVE|Supraventricular ectopy|Electrophysiology
+SVPB|Supraventricular premature beat|Electrophysiology
+MAT|Multifocal atrial tachycardia|Electrophysiology
+FAT|Focal atrial tachycardia|Electrophysiology
+MRAT|Macroreentrant atrial tachycardia|Electrophysiology
+CCW|Counterclockwise|Electrophysiology
+CW|Clockwise|Electrophysiology
+PAF|Paroxysmal atrial fibrillation|Electrophysiology
+PersAF|Persistent atrial fibrillation|Electrophysiology
+LSPAF|Long-standing persistent atrial fibrillation|Electrophysiology
+NVAF|Nonvalvular atrial fibrillation|Electrophysiology
+POAF|Postoperative atrial fibrillation|Electrophysiology
+NOAF|New-onset atrial fibrillation|Electrophysiology
+AFRVR|Atrial fibrillation with rapid ventricular response|Electrophysiology
+AF/RVR|Atrial fibrillation with rapid ventricular response|Electrophysiology
+AF w RVR|Atrial fibrillation with rapid ventricular response|Electrophysiology
+AFCM|Atrial fibrillation-induced cardiomyopathy|Electrophysiology
+TIC|Tachycardia-induced cardiomyopathy|Electrophysiology
+PVC-CM|Premature ventricular complex-induced cardiomyopathy|Electrophysiology
+PVC burden|Percentage of beats that are premature ventricular complexes|Electrophysiology
+CHA2DS2-VASc|Stroke risk score for atrial fibrillation (heart failure, hypertension, age, diabetes, stroke, vascular disease, sex)|Electrophysiology
+CHA2DS2VASc|Stroke risk score for atrial fibrillation (heart failure, hypertension, age, diabetes, stroke, vascular disease, sex)|Electrophysiology
+HAS-BLED|Bleeding risk score (hypertension, abnormal renal or liver function, stroke, bleeding, labile INR, elderly, drugs or alcohol)|Electrophysiology
+TTR|Time in therapeutic range|Electrophysiology
+INR|International normalized ratio|Electrophysiology
+PT|Prothrombin time|Electrophysiology
+aPTT|Activated partial thromboplastin time|Electrophysiology
+ACT|Activated clotting time|Electrophysiology
+UFH|Unfractionated heparin|Electrophysiology
+LMWH|Low molecular weight heparin|Electrophysiology
+OAC|Oral anticoagulant|Electrophysiology
+NOAC|Non-vitamin K antagonist oral anticoagulant|Electrophysiology
+DOAC|Direct oral anticoagulant|Electrophysiology
+VKA|Vitamin K antagonist|Electrophysiology
+DTI|Direct thrombin inhibitor|Electrophysiology
+FXa|Factor Xa|Electrophysiology
+DAPT|Dual antiplatelet therapy|Electrophysiology
+SAPT|Single antiplatelet therapy|Electrophysiology
+ASA|Acetylsalicylic acid (aspirin)|Electrophysiology
+TIA|Transient ischemic attack|Electrophysiology
+CVA|Cerebrovascular accident|Electrophysiology
+ESUS|Embolic stroke of undetermined source|Electrophysiology
+PFO|Patent foramen ovale|Electrophysiology
+ASD|Atrial septal defect|Electrophysiology
+IAS|Interatrial septum|Electrophysiology
+IVS|Interventricular septum|Electrophysiology
+TSP|Transseptal puncture|Electrophysiology
+TS|Transseptal|Electrophysiology
+SEC|Spontaneous echo contrast|Electrophysiology
+LAA EV|Left atrial appendage emptying velocity|Electrophysiology
+LAAEV|Left atrial appendage emptying velocity|Electrophysiology
+LAVI|Left atrial volume index|Electrophysiology
+LAD|Left atrial diameter|Electrophysiology
+LAE|Left atrial enlargement|Electrophysiology
+RAE|Right atrial enlargement|Electrophysiology
+LVH|Left ventricular hypertrophy|Electrophysiology
+RVH|Right ventricular hypertrophy|Electrophysiology
+LVEF|Left ventricular ejection fraction|Electrophysiology
+EF|Ejection fraction|Electrophysiology
+HFrEF|Heart failure with reduced ejection fraction|Electrophysiology
+HFpEF|Heart failure with preserved ejection fraction|Electrophysiology
+HFmrEF|Heart failure with mildly reduced ejection fraction|Electrophysiology
+HF|Heart failure|Electrophysiology
+CHF|Congestive heart failure|Electrophysiology
+GDMT|Guideline-directed medical therapy|Electrophysiology
+ICM|Ischemic cardiomyopathy|Electrophysiology
+NICM|Nonischemic cardiomyopathy|Electrophysiology
+DCM|Dilated cardiomyopathy|Electrophysiology
+HCM|Hypertrophic cardiomyopathy|Electrophysiology
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Electrophysiology
+ACM|Arrhythmogenic cardiomyopathy|Electrophysiology
+ALVC|Arrhythmogenic left ventricular cardiomyopathy|Electrophysiology
+RCM|Restrictive cardiomyopathy|Electrophysiology
+LVNC|Left ventricular noncompaction|Electrophysiology
+CA|Cardiac amyloidosis|Electrophysiology
+ATTR|Transthyretin amyloidosis|Electrophysiology
+AL|Light chain amyloidosis|Electrophysiology
+CS|Cardiac sarcoidosis|Electrophysiology
+MI|Myocardial infarction|Electrophysiology
+STEMI|ST-elevation myocardial infarction|Electrophysiology
+NSTEMI|Non-ST-elevation myocardial infarction|Electrophysiology
+CAD|Coronary artery disease|Electrophysiology
+IHD|Ischemic heart disease|Electrophysiology
+PCI|Percutaneous coronary intervention|Electrophysiology
+CABG|Coronary artery bypass grafting|Electrophysiology
+TAVR|Transcatheter aortic valve replacement|Electrophysiology
+SAVR|Surgical aortic valve replacement|Electrophysiology
+AS|Aortic stenosis|Electrophysiology
+MR|Mitral regurgitation|Electrophysiology
+MS|Mitral stenosis|Electrophysiology
+TR|Tricuspid regurgitation|Electrophysiology
+VHD|Valvular heart disease|Electrophysiology
+CHD|Congenital heart disease|Electrophysiology
+ACHD|Adult congenital heart disease|Electrophysiology
+TGA|Transposition of the great arteries|Electrophysiology
+ccTGA|Congenitally corrected transposition of the great arteries|Electrophysiology
+dTGA|Dextro-transposition of the great arteries|Electrophysiology
+HLHS|Hypoplastic left heart syndrome|Electrophysiology
+SV|Single ventricle|Electrophysiology
+IART|Intra-atrial reentrant tachycardia|Electrophysiology
+Fontan|Fontan circulation|Electrophysiology
+CCHD|Critical congenital heart disease|Electrophysiology
+LQTS|Long QT syndrome|Electrophysiology
+cLQTS|Congenital long QT syndrome|Electrophysiology
+aLQTS|Acquired long QT syndrome|Electrophysiology
+SQTS|Short QT syndrome|Electrophysiology
+BrS|Brugada syndrome|Electrophysiology
+CPVT|Catecholaminergic polymorphic ventricular tachycardia|Electrophysiology
+ERS|Early repolarization syndrome|Electrophysiology
+ER|Early repolarization|Electrophysiology
+IVF|Idiopathic ventricular fibrillation|Electrophysiology
+SUDS|Sudden unexplained death syndrome|Electrophysiology
+SUDEP|Sudden unexpected death in epilepsy|Electrophysiology
+SADS|Sudden arrhythmic death syndrome|Electrophysiology
+SIDS|Sudden infant death syndrome|Electrophysiology
+DIVT|Drug-induced ventricular tachycardia|Electrophysiology
+LQT|Long QT|Electrophysiology
+QT|Interval from the start of the QRS complex to the end of the T wave|Electrophysiology
+QTc|Corrected QT interval|Electrophysiology
+QTcB|QT interval corrected by the Bazett formula|Electrophysiology
+QTcF|QT interval corrected by the Fridericia formula|Electrophysiology
+QTd|QT dispersion|Electrophysiology
+JTc|Corrected JT interval|Electrophysiology
+TpTe|T-wave peak to T-wave end interval|Electrophysiology
+Tp-e|T-wave peak to T-wave end interval|Electrophysiology
+TWA|T-wave alternans|Electrophysiology
+MTWA|Microvolt T-wave alternans|Electrophysiology
+TWI|T-wave inversion|Electrophysiology
+STE|ST-segment elevation|Electrophysiology
+STD|ST-segment depression|Electrophysiology
+NSSTTW|Nonspecific ST-segment and T-wave changes|Electrophysiology
+NSST-T|Nonspecific ST-segment and T-wave changes|Electrophysiology
+LVSD|Left ventricular systolic dysfunction|Electrophysiology
+QRS|Ventricular depolarization complex on the ECG|Electrophysiology
+QRSd|QRS duration|Electrophysiology
+PR|Interval from the start of the P wave to the start of the QRS complex|Electrophysiology
+RR interval|Interval between consecutive R waves|Electrophysiology
+PP|Interval between consecutive P waves|Electrophysiology
+PWD|P-wave duration|Electrophysiology
+PWT|P-wave terminal force|Electrophysiology
+PTFV1|P-wave terminal force in lead V1|Electrophysiology
+AIAB|Advanced interatrial block|Electrophysiology
+IAB|Interatrial block|Electrophysiology
+RAD|Right axis deviation|Electrophysiology
+LAD|Left axis deviation|Electrophysiology
+iPVC|Interpolated premature ventricular complex|Electrophysiology
+ATP|Antitachycardia pacing|Electrophysiology
+DFT|Defibrillation threshold|Electrophysiology
+PT|Pacing threshold|Electrophysiology
+CT|Capture threshold|Electrophysiology
+NID|Number of intervals to detect|Electrophysiology
+VT zone|Heart rate zone for ventricular tachycardia detection|Electrophysiology
+VF zone|Heart rate zone for ventricular fibrillation detection|Electrophysiology
+FVT|Fast ventricular tachycardia|Electrophysiology
+ES|Electrical storm|Electrophysiology
+VTS|Ventricular tachycardia storm|Electrophysiology
+ERI|Elective replacement indicator|Electrophysiology
+RRT|Recommended replacement time|Electrophysiology
+EOL|End of life|Electrophysiology
+BOL|Beginning of life|Electrophysiology
+EOS|End of service|Electrophysiology
+BOS|Beginning of service|Electrophysiology
+IPG|Implantable pulse generator|Electrophysiology
+CIED|Cardiac implantable electronic device|Electrophysiology
+CRM|Cardiac rhythm management|Electrophysiology
+CIEDs|Cardiac implantable electronic devices|Electrophysiology
+CDI|Cardiac device infection|Electrophysiology
+TLE|Transvenous lead extraction|Electrophysiology
+TLEx|Transvenous lead extraction|Electrophysiology
+LE|Lead extraction|Electrophysiology
+SVC coil|Superior vena cava defibrillation coil|Electrophysiology
+RV coil|Right ventricular defibrillation coil|Electrophysiology
+LV lead|Left ventricular lead|Electrophysiology
+RV lead|Right ventricular lead|Electrophysiology
+RA lead|Right atrial lead|Electrophysiology
+CS lead|Coronary sinus lead|Electrophysiology
+LVOT-VT|Left ventricular outflow tract ventricular tachycardia|Electrophysiology
+RVOT-VT|Right ventricular outflow tract ventricular tachycardia|Electrophysiology
+OT-VT|Outflow tract ventricular tachycardia|Electrophysiology
+OTVA|Outflow tract ventricular arrhythmia|Electrophysiology
+OT-PVC|Outflow tract premature ventricular complex|Electrophysiology
+ILVT|Idiopathic left ventricular tachycardia|Electrophysiology
+IVT|Idiopathic ventricular tachycardia|Electrophysiology
+IVA|Idiopathic ventricular arrhythmia|Electrophysiology
+BBRVT|Bundle branch reentrant ventricular tachycardia|Electrophysiology
+BBR|Bundle branch reentry|Electrophysiology
+EPI|Epicardial|Electrophysiology
+ENDO|Endocardial|Electrophysiology
+EPI/ENDO|Epicardial and endocardial|Electrophysiology
+PERI|Pericardial|Electrophysiology
+SPA|Subxiphoid pericardial access|Electrophysiology
+SGB|Stellate ganglion block|Electrophysiology
+CSD|Cardiac sympathetic denervation|Electrophysiology
+LCSD|Left cardiac sympathetic denervation|Electrophysiology
+RDN|Renal denervation|Electrophysiology
+GP|Ganglionated plexus|Electrophysiology
+GPs|Ganglionated plexi|Electrophysiology
+GPA|Ganglionated plexus ablation|Electrophysiology
+CNA|Cardioneuroablation|Electrophysiology
+VNS|Vagus nerve stimulation|Electrophysiology
+SCS|Spinal cord stimulation|Electrophysiology
+BRADY|Bradyarrhythmia|Electrophysiology
+TACHY|Tachyarrhythmia|Electrophysiology
+TBS|Tachy-brady syndrome|Electrophysiology
+TBS|Tachycardia-bradycardia syndrome|Electrophysiology
+PV stenosis|Pulmonary vein stenosis|Electrophysiology
+AEF|Atrioesophageal fistula|Electrophysiology
+APF|Atriopericardial fistula|Electrophysiology
+PNP|Phrenic nerve palsy|Electrophysiology
+PNI|Phrenic nerve injury|Electrophysiology
+PNS|Phrenic nerve stimulation|Electrophysiology
+CMAP|Compound motor action potential|Electrophysiology
+SSE|Stroke or systemic embolism|Electrophysiology
+SE|Systemic embolism|Electrophysiology
+ICH|Intracranial hemorrhage|Electrophysiology
+GIB|Gastrointestinal bleeding|Electrophysiology
+MB|Major bleeding|Electrophysiology
+CRNM|Clinically relevant non-major bleeding|Electrophysiology
+CRNMB|Clinically relevant non-major bleeding|Electrophysiology
+DCCV|Direct current cardioversion|Electrophysiology
+DCC|Direct current cardioversion|Electrophysiology
+DC|Direct current|Electrophysiology
+CV|Cardioversion|Electrophysiology
+ECV|Electrical cardioversion|Electrophysiology
+PCV|Pharmacologic cardioversion|Electrophysiology
+SCV|Synchronized cardioversion|Electrophysiology
+AAD|Antiarrhythmic drug|Electrophysiology
+AADs|Antiarrhythmic drugs|Electrophysiology
+AARx|Antiarrhythmic therapy|Electrophysiology
+PIP|Pill-in-the-pocket|Electrophysiology
+CCB|Calcium channel blocker|Electrophysiology
+BB|Beta blocker|Electrophysiology
+DHP|Dihydropyridine|Electrophysiology
+non-DHP|Non-dihydropyridine calcium channel blocker|Electrophysiology
+NDHP-CCB|Non-dihydropyridine calcium channel blocker|Electrophysiology
+AV nodal blocker|Drug that slows atrioventricular node conduction|Electrophysiology
+AVNB|Atrioventricular nodal blocking agent|Electrophysiology
+ACEi|Angiotensin-converting enzyme inhibitor|Electrophysiology
+ARB|Angiotensin receptor blocker|Electrophysiology
+ARNI|Angiotensin receptor-neprilysin inhibitor|Electrophysiology
+MRA|Mineralocorticoid receptor antagonist|Electrophysiology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Electrophysiology
+SGLT2|Sodium-glucose cotransporter 2|Electrophysiology
+RAAS|Renin-angiotensin-aldosterone system|Electrophysiology
+AV block|Atrioventricular block|Electrophysiology
+TFTs|Thyroid function tests|Electrophysiology
+TSH|Thyroid-stimulating hormone|Electrophysiology
+LFTs|Liver function tests|Electrophysiology
+PFTs|Pulmonary function tests|Electrophysiology
+DLCO|Diffusing capacity of the lung for carbon monoxide|Electrophysiology
+CXR|Chest X-ray|Electrophysiology
+BMP|Basic metabolic panel|Electrophysiology
+CMP|Comprehensive metabolic panel|Electrophysiology
+CBC|Complete blood count|Electrophysiology
+BNP|B-type natriuretic peptide|Electrophysiology
+NT-proBNP|N-terminal pro B-type natriuretic peptide|Electrophysiology
+hs-cTn|High-sensitivity cardiac troponin|Electrophysiology
+TnI|Troponin I|Electrophysiology
+TnT|Troponin T|Electrophysiology
+CK-MB|Creatine kinase myocardial band|Electrophysiology
+eGFR|Estimated glomerular filtration rate|Electrophysiology
+CrCl|Creatinine clearance|Electrophysiology
+CKD|Chronic kidney disease|Electrophysiology
+ESRD|End-stage renal disease|Electrophysiology
+HD|Hemodialysis|Electrophysiology
+OSA|Obstructive sleep apnea|Electrophysiology
+CPAP|Continuous positive airway pressure|Electrophysiology
+BMI|Body mass index|Electrophysiology
+HTN|Hypertension|Electrophysiology
+DM|Diabetes mellitus|Electrophysiology
+T2DM|Type 2 diabetes mellitus|Electrophysiology
+COPD|Chronic obstructive pulmonary disease|Electrophysiology
+PE|Pulmonary embolism|Electrophysiology
+DVT|Deep vein thrombosis|Electrophysiology
+PAD|Peripheral artery disease|Electrophysiology
+VTE|Venous thromboembolism|Electrophysiology
+HIT|Heparin-induced thrombocytopenia|Electrophysiology
+ICU|Intensive care unit|Electrophysiology
+CCU|Cardiac care unit|Electrophysiology
+CICU|Cardiac intensive care unit|Electrophysiology
+CVICU|Cardiovascular intensive care unit|Electrophysiology
+ED|Emergency department|Electrophysiology
+EMS|Emergency medical services|Electrophysiology
+PACU|Post-anesthesia care unit|Electrophysiology
+NPO|Nothing by mouth|Electrophysiology
+GA|General anesthesia|Electrophysiology
+LHC|Left heart catheterization|Electrophysiology
+RHC|Right heart catheterization|Electrophysiology
+FFR|Fractional flow reserve|Electrophysiology
+CVP|Central venous pressure|Electrophysiology
+PCWP|Pulmonary capillary wedge pressure|Electrophysiology
+LVEDP|Left ventricular end-diastolic pressure|Electrophysiology
+SBP|Systolic blood pressure|Electrophysiology
+DBP|Diastolic blood pressure|Electrophysiology
+MAP|Mean arterial pressure|Electrophysiology
+BP|Blood pressure|Electrophysiology
+O2 sat|Oxygen saturation|Electrophysiology
+SpO2|Peripheral capillary oxygen saturation|Electrophysiology
+RR|Respiratory rate|Electrophysiology
+VS|Vital signs|Electrophysiology
+SOB|Shortness of breath|Electrophysiology
+DOE|Dyspnea on exertion|Electrophysiology
+CP|Chest pain|Electrophysiology
+JVD|Jugular venous distension|Electrophysiology
+LE edema|Lower extremity edema|Electrophysiology
+PND|Paroxysmal nocturnal dyspnea|Electrophysiology
+LOS|Length of stay|Electrophysiology
+FHx|Family history|Electrophysiology
+FH|Family history|Electrophysiology
+PMH|Past medical history|Electrophysiology
+PSH|Past surgical history|Electrophysiology
+HPI|History of present illness|Electrophysiology
+ROS|Review of systems|Electrophysiology
+SH|Social history|Electrophysiology
+Dx|Diagnosis|Electrophysiology
+Tx|Treatment|Electrophysiology
+Rx|Prescription or treatment|Electrophysiology
+s/p|Status post|Electrophysiology
+c/w|Consistent with|Electrophysiology
+w/u|Workup|Electrophysiology
+f/u|Follow-up|Electrophysiology
+BMS|Bare metal stent|Electrophysiology
+DES|Drug-eluting stent|Electrophysiology
+IABP|Intra-aortic balloon pump|Electrophysiology
+ECMO|Extracorporeal membrane oxygenation|Electrophysiology
+MCS|Mechanical circulatory support|Electrophysiology
+LVAD|Left ventricular assist device|Electrophysiology
+RVAD|Right ventricular assist device|Electrophysiology
+BiVAD|Biventricular assist device|Electrophysiology
+VAD|Ventricular assist device|Electrophysiology
+pVAD|Percutaneous ventricular assist device|Electrophysiology
+OHT|Orthotopic heart transplant|Electrophysiology
+HTx|Heart transplant|Electrophysiology
+CVS|Cardiovascular surgery|Electrophysiology
+CTS|Cardiothoracic surgery|Electrophysiology
+CPB|Cardiopulmonary bypass|Electrophysiology
+VATS|Video-assisted thoracoscopic surgery|Electrophysiology
+LAAL|Left atrial appendage ligation|Electrophysiology
+DRT|Device-related thrombus|Electrophysiology
+PDL|Peridevice leak|Electrophysiology
+CVD|Cardiovascular disease|Electrophysiology
+ASCVD|Atherosclerotic cardiovascular disease|Electrophysiology
+RCT|Randomized controlled trial|Electrophysiology
+QoL|Quality of life|Electrophysiology
+6MWT|Six-minute walk test|Electrophysiology
+CPET|Cardiopulmonary exercise test|Electrophysiology
+ETT|Exercise treadmill test|Electrophysiology
+METs|Metabolic equivalents|Electrophysiology
+VO2|Oxygen uptake|Electrophysiology
+VO2 max|Maximal oxygen uptake|Electrophysiology
+AT|Anaerobic threshold|Electrophysiology
+Holter|Ambulatory continuous electrocardiographic monitoring|Electrophysiology
+RPM|Remote patient monitoring|Electrophysiology
+RM|Remote monitoring|Electrophysiology
+VTA|Ventricular tachyarrhythmia|Electrophysiology
+VT/VF storm|Clustered episodes of ventricular tachycardia or fibrillation|Electrophysiology
+LV|Left ventricular|Electrophysiology
+OMT|Optimal medical therapy|Electrophysiology
+SBRT|Stereotactic body radiotherapy|Electrophysiology
+STAR|Stereotactic arrhythmia radioablation|Electrophysiology
+SAbR|Stereotactic arrhythmia radioablation|Electrophysiology
+EBRT|External beam radiotherapy|Electrophysiology
+ICD-10|International Classification of Diseases, tenth revision|Electrophysiology
+CPT|Current Procedural Terminology|Electrophysiology
+MRI|Magnetic resonance imaging|Electrophysiology
+MRI-C|Magnetic resonance imaging conditional|Electrophysiology
+MR-conditional|Magnetic resonance imaging conditional (device safe under stated conditions)|Electrophysiology
+EMI|Electromagnetic interference|Electrophysiology
+SAR|Specific absorption rate|Electrophysiology
+TENS|Transcutaneous electrical nerve stimulation|Electrophysiology
+NS|Normal saline|Electrophysiology
+D5W|Five percent dextrose in water|Electrophysiology
+LR|Lactated Ringer solution|Electrophysiology
+FiO2|Fraction of inspired oxygen|Electrophysiology
+ETT|Endotracheal tube|Electrophysiology
+LMA|Laryngeal mask airway|Electrophysiology
+NIPS|Noninvasive programmed stimulation|Electrophysiology
+TE pacing|Transesophageal pacing|Electrophysiology
+TEP|Transesophageal pacing|Electrophysiology

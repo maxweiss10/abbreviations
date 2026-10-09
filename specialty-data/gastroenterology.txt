@@ -1,0 +1,1312 @@
+GI|Gastrointestinal|Gastroenterology
+GIB|Gastrointestinal bleeding|Gastroenterology
+UGIB|Upper gastrointestinal bleeding|Gastroenterology
+LGIB|Lower gastrointestinal bleeding|Gastroenterology
+UGI|Upper gastrointestinal|Gastroenterology
+LGI|Lower gastrointestinal|Gastroenterology
+GERD|Gastroesophageal reflux disease|Gastroenterology
+GER|Gastroesophageal reflux|Gastroenterology
+LPR|Laryngopharyngeal reflux|Gastroenterology
+NERD|Non-erosive reflux disease|Gastroenterology
+ERD|Erosive reflux disease|Gastroenterology
+EoE|Eosinophilic esophagitis|Gastroenterology
+EGE|Eosinophilic gastroenteritis|Gastroenterology
+EGID|Eosinophilic gastrointestinal disease|Gastroenterology
+EG|Eosinophilic gastritis|Gastroenterology
+EC|Eosinophilic colitis|Gastroenterology
+LES|Lower esophageal sphincter|Gastroenterology
+UES|Upper esophageal sphincter|Gastroenterology
+LESP|Lower esophageal sphincter pressure|Gastroenterology
+EGJ|Esophagogastric junction|Gastroenterology
+GEJ|Gastroesophageal junction|Gastroenterology
+SCJ|Squamocolumnar junction|Gastroenterology
+BE|Barrett esophagus|Gastroenterology
+IM|Intestinal metaplasia|Gastroenterology
+LGD|Low-grade dysplasia|Gastroenterology
+HGD|High-grade dysplasia|Gastroenterology
+EAC|Esophageal adenocarcinoma|Gastroenterology
+ESCC|Esophageal squamous cell carcinoma|Gastroenterology
+SCC|Squamous cell carcinoma|Gastroenterology
+EMR|Endoscopic mucosal resection|Gastroenterology
+ESD|Endoscopic submucosal dissection|Gastroenterology
+EFTR|Endoscopic full-thickness resection|Gastroenterology
+STESD|Submucosal tunneling endoscopic septum division|Gastroenterology
+POEM|Peroral endoscopic myotomy|Gastroenterology
+G-POEM|Gastric peroral endoscopic myotomy|Gastroenterology
+Z-POEM|Zenker peroral endoscopic myotomy|Gastroenterology
+RFA|Radiofrequency ablation|Gastroenterology
+CRYO|Cryotherapy|Gastroenterology
+APC|Argon plasma coagulation|Gastroenterology
+EGD|Esophagogastroduodenoscopy|Gastroenterology
+EUS|Endoscopic ultrasound|Gastroenterology
+FNA|Fine-needle aspiration|Gastroenterology
+FNB|Fine-needle biopsy|Gastroenterology
+EUS-FNA|Endoscopic ultrasound-guided fine-needle aspiration|Gastroenterology
+EUS-FNB|Endoscopic ultrasound-guided fine-needle biopsy|Gastroenterology
+EUS-GBD|Endoscopic ultrasound-guided gallbladder drainage|Gastroenterology
+EUS-BD|Endoscopic ultrasound-guided biliary drainage|Gastroenterology
+EUS-CDS|Endoscopic ultrasound-guided choledochoduodenostomy|Gastroenterology
+EUS-HGS|Endoscopic ultrasound-guided hepaticogastrostomy|Gastroenterology
+EDGE|Endoscopic ultrasound-directed transgastric ERCP|Gastroenterology
+LAMS|Lumen-apposing metal stent|Gastroenterology
+ERCP|Endoscopic retrograde cholangiopancreatography|Gastroenterology
+MRCP|Magnetic resonance cholangiopancreatography|Gastroenterology
+S-MRCP|Secretin-enhanced magnetic resonance cholangiopancreatography|Gastroenterology
+PTC|Percutaneous transhepatic cholangiography|Gastroenterology
+PTBD|Percutaneous transhepatic biliary drainage|Gastroenterology
+PTCD|Percutaneous transhepatic cholangiographic drainage|Gastroenterology
+PBD|Preoperative biliary drainage|Gastroenterology
+EBD|Endoscopic biliary drainage|Gastroenterology
+ENBD|Endoscopic nasobiliary drainage|Gastroenterology
+EST|Endoscopic sphincterotomy|Gastroenterology
+EPBD|Endoscopic papillary balloon dilation|Gastroenterology
+EPLBD|Endoscopic papillary large balloon dilation|Gastroenterology
+SOD|Sphincter of Oddi dysfunction|Gastroenterology
+SO|Sphincter of Oddi|Gastroenterology
+SOM|Sphincter of Oddi manometry|Gastroenterology
+PEP|Post-ERCP pancreatitis|Gastroenterology
+PD|Pancreatic duct|Gastroenterology
+PDS|Pancreatic duct stent|Gastroenterology
+PPD|Prophylactic pancreatic duct stent|Gastroenterology
+MPD|Main pancreatic duct|Gastroenterology
+CBD|Common bile duct|Gastroenterology
+CHD|Common hepatic duct|Gastroenterology
+CD|Cystic duct|Gastroenterology
+IHD|Intrahepatic duct|Gastroenterology
+RHD|Right hepatic duct|Gastroenterology
+LHD|Left hepatic duct|Gastroenterology
+BD|Bile duct|Gastroenterology
+CBDS|Common bile duct stones|Gastroenterology
+CBDE|Common bile duct exploration|Gastroenterology
+IOC|Intraoperative cholangiogram|Gastroenterology
+LC|Laparoscopic cholecystectomy|Gastroenterology
+IOUS|Intraoperative ultrasound|Gastroenterology
+HIDA|Hepatobiliary iminodiacetic acid scan|Gastroenterology
+CCK|Cholecystokinin|Gastroenterology
+GBEF|Gallbladder ejection fraction|Gastroenterology
+PSC|Primary sclerosing cholangitis|Gastroenterology
+PBC|Primary biliary cholangitis|Gastroenterology
+SSC|Secondary sclerosing cholangitis|Gastroenterology
+IgG4-RD|Immunoglobulin G4-related disease|Gastroenterology
+IgG4-SC|Immunoglobulin G4-related sclerosing cholangitis|Gastroenterology
+AIP|Autoimmune pancreatitis|Gastroenterology
+AIH|Autoimmune hepatitis|Gastroenterology
+AMA|Antimitochondrial antibody|Gastroenterology
+ANA|Antinuclear antibody|Gastroenterology
+ASMA|Anti-smooth muscle antibody|Gastroenterology
+SMA|Smooth muscle antibody|Gastroenterology
+LKM|Liver-kidney microsomal antibody|Gastroenterology
+SLA|Soluble liver antigen antibody|Gastroenterology
+pANCA|Perinuclear antineutrophil cytoplasmic antibody|Gastroenterology
+ASCA|Anti-Saccharomyces cerevisiae antibody|Gastroenterology
+tTG|Tissue transglutaminase|Gastroenterology
+tTG-IgA|Tissue transglutaminase immunoglobulin A antibody|Gastroenterology
+EMA|Endomysial antibody|Gastroenterology
+DGP|Deamidated gliadin peptide|Gastroenterology
+CeD|Celiac disease|Gastroenterology
+GFD|Gluten-free diet|Gastroenterology
+IEL|Intraepithelial lymphocytes|Gastroenterology
+RCD|Refractory celiac disease|Gastroenterology
+EATL|Enteropathy-associated T-cell lymphoma|Gastroenterology
+IBD|Inflammatory bowel disease|Gastroenterology
+UC|Ulcerative colitis|Gastroenterology
+IC|Indeterminate colitis|Gastroenterology
+IBD-U|Inflammatory bowel disease unclassified|Gastroenterology
+IBS|Irritable bowel syndrome|Gastroenterology
+IBS-C|Irritable bowel syndrome with constipation|Gastroenterology
+IBS-D|Irritable bowel syndrome with diarrhea|Gastroenterology
+IBS-M|Irritable bowel syndrome with mixed bowel habits|Gastroenterology
+IBS-U|Irritable bowel syndrome unclassified|Gastroenterology
+PI-IBS|Post-infectious irritable bowel syndrome|Gastroenterology
+FGID|Functional gastrointestinal disorder|Gastroenterology
+DGBI|Disorders of gut-brain interaction|Gastroenterology
+FD|Functional dyspepsia|Gastroenterology
+PDS-FD|Postprandial distress syndrome|Gastroenterology
+EPS|Epigastric pain syndrome|Gastroenterology
+CVS|Cyclic vomiting syndrome|Gastroenterology
+CHS|Cannabinoid hyperemesis syndrome|Gastroenterology
+FC|Functional constipation|Gastroenterology
+OIC|Opioid-induced constipation|Gastroenterology
+CIC|Chronic idiopathic constipation|Gastroenterology
+CC|Chronic constipation|Gastroenterology
+STC|Slow-transit constipation|Gastroenterology
+NTC|Normal-transit constipation|Gastroenterology
+FDD|Functional defecation disorder|Gastroenterology
+DD|Dyssynergic defecation|Gastroenterology
+PFD|Pelvic floor dysfunction|Gastroenterology
+PFPT|Pelvic floor physical therapy|Gastroenterology
+ARM|Anorectal manometry|Gastroenterology
+BET|Balloon expulsion test|Gastroenterology
+HRAM|High-resolution anorectal manometry|Gastroenterology
+HRM|High-resolution manometry|Gastroenterology
+IRP|Integrated relaxation pressure|Gastroenterology
+DCI|Distal contractile integral|Gastroenterology
+DL|Distal latency|Gastroenterology
+EGJOO|Esophagogastric junction outflow obstruction|Gastroenterology
+IEM|Ineffective esophageal motility|Gastroenterology
+DES|Diffuse esophageal spasm|Gastroenterology
+AC|Achalasia|Gastroenterology
+LHM|Laparoscopic Heller myotomy|Gastroenterology
+PD-A|Pneumatic dilation for achalasia|Gastroenterology
+TBE|Timed barium esophagram|Gastroenterology
+BE-study|Barium esophagram|Gastroenterology
+UGIS|Upper gastrointestinal series|Gastroenterology
+SBFT|Small bowel follow-through|Gastroenterology
+BE-enema|Barium enema|Gastroenterology
+CTE|Computed tomography enterography|Gastroenterology
+MRE|Magnetic resonance enterography|Gastroenterology
+CTC|Computed tomography colonography|Gastroenterology
+VC|Virtual colonoscopy|Gastroenterology
+IUS|Intestinal ultrasound|Gastroenterology
+BUS|Bowel ultrasound|Gastroenterology
+WCE|Wireless capsule endoscopy|Gastroenterology
+VCE|Video capsule endoscopy|Gastroenterology
+SBCE|Small bowel capsule endoscopy|Gastroenterology
+CCE|Colon capsule endoscopy|Gastroenterology
+DBE|Double-balloon enteroscopy|Gastroenterology
+SBE|Single-balloon enteroscopy|Gastroenterology
+PE|Push enteroscopy|Gastroenterology
+DAE|Device-assisted enteroscopy|Gastroenterology
+OGIB|Obscure gastrointestinal bleeding|Gastroenterology
+AVM|Arteriovenous malformation|Gastroenterology
+GAVE|Gastric antral vascular ectasia|Gastroenterology
+PHG|Portal hypertensive gastropathy|Gastroenterology
+PHC|Portal hypertensive colopathy|Gastroenterology
+HHT|Hereditary hemorrhagic telangiectasia|Gastroenterology
+CRC|Colorectal cancer|Gastroenterology
+CRA|Colorectal adenoma|Gastroenterology
+SSL|Sessile serrated lesion|Gastroenterology
+SSA|Sessile serrated adenoma|Gastroenterology
+SSA/P|Sessile serrated adenoma or polyp|Gastroenterology
+TSA|Traditional serrated adenoma|Gastroenterology
+HP|Hyperplastic polyp|Gastroenterology
+AA|Advanced adenoma|Gastroenterology
+ADR|Adenoma detection rate|Gastroenterology
+PDR|Polyp detection rate|Gastroenterology
+SDR|Serrated polyp detection rate|Gastroenterology
+CIR|Cecal intubation rate|Gastroenterology
+BBPS|Boston Bowel Preparation Scale|Gastroenterology
+WT|Withdrawal time|Gastroenterology
+HGD-polyp|High-grade dysplasia in polyp|Gastroenterology
+FOBT|Fecal occult blood test|Gastroenterology
+gFOBT|Guaiac fecal occult blood test|Gastroenterology
+FIT|Fecal immunochemical test|Gastroenterology
+sDNA-FIT|Stool DNA and fecal immunochemical test|Gastroenterology
+mt-sDNA|Multitarget stool DNA test|Gastroenterology
+FS|Flexible sigmoidoscopy|Gastroenterology
+FSIG|Flexible sigmoidoscopy|Gastroenterology
+CSY|Colonoscopy|Gastroenterology
+TI|Terminal ileum|Gastroenterology
+IC valve|Ileocecal valve|Gastroenterology
+ICV|Ileocecal valve|Gastroenterology
+IPAA|Ileal pouch-anal anastomosis|Gastroenterology
+IRA|Ileorectal anastomosis|Gastroenterology
+TPC|Total proctocolectomy|Gastroenterology
+TAC|Total abdominal colectomy|Gastroenterology
+SB|Small bowel|Gastroenterology
+SBO|Small bowel obstruction|Gastroenterology
+LBO|Large bowel obstruction|Gastroenterology
+pSBO|Partial small bowel obstruction|Gastroenterology
+SBR|Small bowel resection|Gastroenterology
+SBS|Short bowel syndrome|Gastroenterology
+SIBO|Small intestinal bacterial overgrowth|Gastroenterology
+IMO|Intestinal methanogen overgrowth|Gastroenterology
+SIFO|Small intestinal fungal overgrowth|Gastroenterology
+BAM|Bile acid malabsorption|Gastroenterology
+BAD|Bile acid diarrhea|Gastroenterology
+SeHCAT|Selenium-75 homotaurocholic acid test|Gastroenterology
+C4|7-alpha-hydroxy-4-cholesten-3-one|Gastroenterology
+FGF19|Fibroblast growth factor 19|Gastroenterology
+BAS|Bile acid sequestrant|Gastroenterology
+UDCA|Ursodeoxycholic acid|Gastroenterology
+OCA|Obeticholic acid|Gastroenterology
+CDCA|Chenodeoxycholic acid|Gastroenterology
+PPI|Proton pump inhibitor|Gastroenterology
+H2RA|Histamine-2 receptor antagonist|Gastroenterology
+P-CAB|Potassium-competitive acid blocker|Gastroenterology
+PCAB|Potassium-competitive acid blocker|Gastroenterology
+BID|Twice daily|Gastroenterology
+QD|Once daily|Gastroenterology
+TID|Three times daily|Gastroenterology
+AC-meals|Before meals|Gastroenterology
+PUD|Peptic ulcer disease|Gastroenterology
+GU|Gastric ulcer|Gastroenterology
+DU|Duodenal ulcer|Gastroenterology
+NSAID|Nonsteroidal anti-inflammatory drug|Gastroenterology
+ASA|Aspirin|Gastroenterology
+HP-infection|Helicobacter pylori infection|Gastroenterology
+Hp|Helicobacter pylori|Gastroenterology
+UBT|Urea breath test|Gastroenterology
+RUT|Rapid urease test|Gastroenterology
+HpSA|Helicobacter pylori stool antigen|Gastroenterology
+BQT|Bismuth quadruple therapy|Gastroenterology
+CLR|Clarithromycin|Gastroenterology
+MTZ|Metronidazole|Gastroenterology
+AMX|Amoxicillin|Gastroenterology
+PBM|Pylera-style bismuth, metronidazole and tetracycline combination|Gastroenterology
+ZES|Zollinger-Ellison syndrome|Gastroenterology
+NET|Neuroendocrine tumor|Gastroenterology
+PNET|Pancreatic neuroendocrine tumor|Gastroenterology
+pNET|Pancreatic neuroendocrine tumor|Gastroenterology
+NEC|Neuroendocrine carcinoma|Gastroenterology
+GEP-NET|Gastroenteropancreatic neuroendocrine tumor|Gastroenterology
+GIST|Gastrointestinal stromal tumor|Gastroenterology
+MALT|Mucosa-associated lymphoid tissue|Gastroenterology
+CgA|Chromogranin A|Gastroenterology
+5-HIAA|5-hydroxyindoleacetic acid|Gastroenterology
+VIP|Vasoactive intestinal peptide|Gastroenterology
+VIPoma|Vasoactive intestinal peptide-secreting tumor|Gastroenterology
+SSA-analog|Somatostatin analog|Gastroenterology
+PRRT|Peptide receptor radionuclide therapy|Gastroenterology
+GC|Gastric cancer|Gastroenterology
+GAC|Gastric adenocarcinoma|Gastroenterology
+EGC|Early gastric cancer|Gastroenterology
+AGC|Advanced gastric cancer|Gastroenterology
+CAG|Chronic atrophic gastritis|Gastroenterology
+AMAG|Autoimmune metaplastic atrophic gastritis|Gastroenterology
+IF|Intrinsic factor|Gastroenterology
+PCA|Parietal cell antibody|Gastroenterology
+OLGA|Operative Link on Gastritis Assessment staging|Gastroenterology
+OLGIM|Operative Link on Gastric Intestinal Metaplasia staging|Gastroenterology
+FAP|Familial adenomatous polyposis|Gastroenterology
+AFAP|Attenuated familial adenomatous polyposis|Gastroenterology
+MAP|MUTYH-associated polyposis|Gastroenterology
+JPS|Juvenile polyposis syndrome|Gastroenterology
+PJS|Peutz-Jeghers syndrome|Gastroenterology
+HNPCC|Hereditary nonpolyposis colorectal cancer|Gastroenterology
+LS|Lynch syndrome|Gastroenterology
+MSI|Microsatellite instability|Gastroenterology
+MSI-H|Microsatellite instability-high|Gastroenterology
+MSS|Microsatellite stable|Gastroenterology
+MMR|Mismatch repair|Gastroenterology
+dMMR|Mismatch repair deficient|Gastroenterology
+pMMR|Mismatch repair proficient|Gastroenterology
+IHC|Immunohistochemistry|Gastroenterology
+CEA|Carcinoembryonic antigen|Gastroenterology
+CA 19-9|Carbohydrate antigen 19-9|Gastroenterology
+AFP|Alpha-fetoprotein|Gastroenterology
+AFP-L3|Lens culinaris agglutinin-reactive fraction of alpha-fetoprotein|Gastroenterology
+DCP|Des-gamma-carboxy prothrombin|Gastroenterology
+PIVKA-II|Protein induced by vitamin K absence or antagonist II|Gastroenterology
+GALAD|Gender, age, AFP-L3, AFP and DCP score|Gastroenterology
+HCC|Hepatocellular carcinoma|Gastroenterology
+iCCA|Intrahepatic cholangiocarcinoma|Gastroenterology
+pCCA|Perihilar cholangiocarcinoma|Gastroenterology
+dCCA|Distal cholangiocarcinoma|Gastroenterology
+CCA|Cholangiocarcinoma|Gastroenterology
+GBC|Gallbladder cancer|Gastroenterology
+PDAC|Pancreatic ductal adenocarcinoma|Gastroenterology
+IPMN|Intraductal papillary mucinous neoplasm|Gastroenterology
+MD-IPMN|Main duct intraductal papillary mucinous neoplasm|Gastroenterology
+BD-IPMN|Branch duct intraductal papillary mucinous neoplasm|Gastroenterology
+MCN|Mucinous cystic neoplasm|Gastroenterology
+SCN|Serous cystic neoplasm|Gastroenterology
+SPN|Solid pseudopapillary neoplasm|Gastroenterology
+PanIN|Pancreatic intraepithelial neoplasia|Gastroenterology
+CEA-cyst|Cyst fluid carcinoembryonic antigen|Gastroenterology
+nCLE|Needle-based confocal laser endomicroscopy|Gastroenterology
+CLE|Confocal laser endomicroscopy|Gastroenterology
+NBI|Narrow-band imaging|Gastroenterology
+CE|Chromoendoscopy|Gastroenterology
+VCE-chromo|Virtual chromoendoscopy|Gastroenterology
+WLE|White-light endoscopy|Gastroenterology
+HD-WLE|High-definition white-light endoscopy|Gastroenterology
+CADe|Computer-aided detection|Gastroenterology
+CADx|Computer-aided diagnosis|Gastroenterology
+AI|Artificial intelligence|Gastroenterology
+PIVI|Preservation and incorporation of valuable endoscopic innovations threshold|Gastroenterology
+AP|Acute pancreatitis|Gastroenterology
+CP|Chronic pancreatitis|Gastroenterology
+ARP|Acute recurrent pancreatitis|Gastroenterology
+SAP|Severe acute pancreatitis|Gastroenterology
+MAP-pancreatitis|Mild acute pancreatitis|Gastroenterology
+IEP|Interstitial edematous pancreatitis|Gastroenterology
+NP|Necrotizing pancreatitis|Gastroenterology
+WON|Walled-off necrosis|Gastroenterology
+ANC|Acute necrotic collection|Gastroenterology
+APFC|Acute peripancreatic fluid collection|Gastroenterology
+PPC|Pancreatic pseudocyst|Gastroenterology
+DPDS|Disconnected pancreatic duct syndrome|Gastroenterology
+PFC|Pancreatic fluid collection|Gastroenterology
+SIRS|Systemic inflammatory response syndrome|Gastroenterology
+BISAP|Bedside index for severity in acute pancreatitis|Gastroenterology
+HAPS|Harmless acute pancreatitis score|Gastroenterology
+HTG|Hypertriglyceridemia|Gastroenterology
+HTG-AP|Hypertriglyceridemia-induced acute pancreatitis|Gastroenterology
+EPI|Exocrine pancreatic insufficiency|Gastroenterology
+PERT|Pancreatic enzyme replacement therapy|Gastroenterology
+PEI|Pancreatic exocrine insufficiency|Gastroenterology
+FE-1|Fecal elastase-1|Gastroenterology
+FE|Fecal elastase|Gastroenterology
+CFTR|Cystic fibrosis transmembrane conductance regulator|Gastroenterology
+CF|Cystic fibrosis|Gastroenterology
+TPIAT|Total pancreatectomy with islet autotransplantation|Gastroenterology
+TP|Total pancreatectomy|Gastroenterology
+PD-surg|Pancreaticoduodenectomy|Gastroenterology
+PPPD|Pylorus-preserving pancreaticoduodenectomy|Gastroenterology
+DP|Distal pancreatectomy|Gastroenterology
+POPF|Postoperative pancreatic fistula|Gastroenterology
+DGE|Delayed gastric emptying|Gastroenterology
+PPH|Postpancreatectomy hemorrhage|Gastroenterology
+NPWT|Negative pressure wound therapy|Gastroenterology
+VAC|Vacuum-assisted closure|Gastroenterology
+NOTES|Natural orifice transluminal endoscopic surgery|Gastroenterology
+ESG|Endoscopic sleeve gastroplasty|Gastroenterology
+POSE|Primary obesity surgery endoluminal|Gastroenterology
+IGB|Intragastric balloon|Gastroenterology
+SG|Sleeve gastrectomy|Gastroenterology
+LSG|Laparoscopic sleeve gastrectomy|Gastroenterology
+RYGB|Gastric bypass with Roux limb|Gastroenterology
+LAGB|Laparoscopic adjustable gastric banding|Gastroenterology
+BPD|Biliopancreatic diversion|Gastroenterology
+BPD-DS|Biliopancreatic diversion with duodenal switch|Gastroenterology
+SADI-S|Single anastomosis duodeno-ileal bypass with sleeve|Gastroenterology
+DMR|Duodenal mucosal resurfacing|Gastroenterology
+MBS|Metabolic and bariatric surgery|Gastroenterology
+BMI|Body mass index|Gastroenterology
+EWL|Excess weight loss|Gastroenterology
+TBWL|Total body weight loss|Gastroenterology
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Gastroenterology
+GLP-1|Glucagon-like peptide-1|Gastroenterology
+GP|Gastroparesis|Gastroenterology
+GES|Gastric emptying study|Gastroenterology
+GEBT|Gastric emptying breath test|Gastroenterology
+WMC|Wireless motility capsule|Gastroenterology
+SmartPill|Wireless motility capsule|Gastroenterology
+GCSI|Gastroparesis cardinal symptom index|Gastroenterology
+GCSI-DD|Gastroparesis cardinal symptom index daily diary|Gastroenterology
+G-PEG|Gastrostomy by percutaneous endoscopic technique|Gastroenterology
+PEG|Percutaneous endoscopic gastrostomy|Gastroenterology
+PEJ|Percutaneous endoscopic jejunostomy|Gastroenterology
+PEG-J|Percutaneous endoscopic gastrostomy with jejunal extension|Gastroenterology
+PRG|Percutaneous radiologic gastrostomy|Gastroenterology
+PEG tube|Percutaneous endoscopic gastrostomy tube|Gastroenterology
+J-tube|Jejunostomy tube|Gastroenterology
+G-tube|Gastrostomy tube|Gastroenterology
+NGT|Nasogastric tube|Gastroenterology
+NG|Nasogastric|Gastroenterology
+NJ|Nasojejunal|Gastroenterology
+NJT|Nasojejunal tube|Gastroenterology
+OGT|Orogastric tube|Gastroenterology
+NDT|Nasoduodenal tube|Gastroenterology
+DHT|Dobhoff tube|Gastroenterology
+EN|Enteral nutrition|Gastroenterology
+TPN|Total parenteral nutrition|Gastroenterology
+PN|Parenteral nutrition|Gastroenterology
+HPN|Home parenteral nutrition|Gastroenterology
+PNALD|Parenteral nutrition-associated liver disease|Gastroenterology
+IFALD|Intestinal failure-associated liver disease|Gastroenterology
+IF-gut|Intestinal failure|Gastroenterology
+CLABSI|Central line-associated bloodstream infection|Gastroenterology
+ONS|Oral nutritional supplement|Gastroenterology
+NPO|Nothing by mouth|Gastroenterology
+EEN|Exclusive enteral nutrition|Gastroenterology
+CDED|Crohn disease exclusion diet|Gastroenterology
+LFD|Low-FODMAP diet|Gastroenterology
+FODMAP|Fermentable oligosaccharides, disaccharides, monosaccharides and polyols|Gastroenterology
+SCD|Specific carbohydrate diet|Gastroenterology
+MD|Mediterranean diet|Gastroenterology
+FMT|Fecal microbiota transplantation|Gastroenterology
+FMT-CDI|Fecal microbiota transplantation for Clostridioides difficile infection|Gastroenterology
+CDI|Clostridioides difficile infection|Gastroenterology
+CDAD|Clostridioides difficile-associated diarrhea|Gastroenterology
+CD toxin|Clostridioides difficile toxin|Gastroenterology
+GDH|Glutamate dehydrogenase|Gastroenterology
+NAAT|Nucleic acid amplification test|Gastroenterology
+PCR|Polymerase chain reaction|Gastroenterology
+EIA|Enzyme immunoassay|Gastroenterology
+rCDI|Recurrent Clostridioides difficile infection|Gastroenterology
+FDX|Fidaxomicin|Gastroenterology
+PO vanc|Oral vancomycin|Gastroenterology
+BZL|Bezlotoxumab|Gastroenterology
+O&P|Ova and parasites|Gastroenterology
+STEC|Shiga toxin-producing Escherichia coli|Gastroenterology
+ETEC|Enterotoxigenic Escherichia coli|Gastroenterology
+EPEC|Enteropathogenic Escherichia coli|Gastroenterology
+EHEC|Enterohemorrhagic Escherichia coli|Gastroenterology
+EAEC|Enteroaggregative Escherichia coli|Gastroenterology
+HUS|Hemolytic uremic syndrome|Gastroenterology
+TTP|Thrombotic thrombocytopenic purpura|Gastroenterology
+CMV|Cytomegalovirus|Gastroenterology
+HSV|Herpes simplex virus|Gastroenterology
+EBV|Epstein-Barr virus|Gastroenterology
+HIV|Human immunodeficiency virus|Gastroenterology
+TB|Tuberculosis|Gastroenterology
+ITB|Intestinal tuberculosis|Gastroenterology
+CTX|Cerebrotendinous xanthomatosis|Gastroenterology
+HAV|Hepatitis A virus|Gastroenterology
+HBV|Hepatitis B virus|Gastroenterology
+HCV|Hepatitis C virus|Gastroenterology
+HDV|Hepatitis D virus|Gastroenterology
+HEV|Hepatitis E virus|Gastroenterology
+HBsAg|Hepatitis B surface antigen|Gastroenterology
+HBeAg|Hepatitis B e antigen|Gastroenterology
+HBcAb|Hepatitis B core antibody|Gastroenterology
+anti-HBc|Hepatitis B core antibody|Gastroenterology
+anti-HBs|Hepatitis B surface antibody|Gastroenterology
+anti-HBe|Hepatitis B e antibody|Gastroenterology
+HBV DNA|Hepatitis B virus DNA level|Gastroenterology
+HBIG|Hepatitis B immune globulin|Gastroenterology
+CHB|Chronic hepatitis B|Gastroenterology
+OBI|Occult hepatitis B infection|Gastroenterology
+HBVr|Hepatitis B virus reactivation|Gastroenterology
+TDF|Tenofovir disoproxil fumarate|Gastroenterology
+TAF|Tenofovir alafenamide|Gastroenterology
+ETV|Entecavir|Gastroenterology
+NUC|Nucleos(t)ide analogue|Gastroenterology
+Peg-IFN|Pegylated interferon|Gastroenterology
+IFN|Interferon|Gastroenterology
+HCV RNA|Hepatitis C virus RNA level|Gastroenterology
+SVR|Sustained virologic response|Gastroenterology
+SVR12|Sustained virologic response at 12 weeks|Gastroenterology
+DAA|Direct-acting antiviral|Gastroenterology
+RAS|Resistance-associated substitution|Gastroenterology
+GT|Genotype|Gastroenterology
+LTBI|Latent tuberculosis infection|Gastroenterology
+IGRA|Interferon-gamma release assay|Gastroenterology
+PPD-skin|Purified protein derivative skin test|Gastroenterology
+LFT|Liver function test|Gastroenterology
+LFTs|Liver function tests|Gastroenterology
+LCT|Liver chemistry tests|Gastroenterology
+AST|Aspartate aminotransferase|Gastroenterology
+ALT|Alanine aminotransferase|Gastroenterology
+ALP|Alkaline phosphatase|Gastroenterology
+GGT|Gamma-glutamyl transferase|Gastroenterology
+LDH|Lactate dehydrogenase|Gastroenterology
+TBili|Total bilirubin|Gastroenterology
+DBili|Direct bilirubin|Gastroenterology
+IBili|Indirect bilirubin|Gastroenterology
+TB-bili|Total bilirubin|Gastroenterology
+INR|International normalized ratio|Gastroenterology
+PT|Prothrombin time|Gastroenterology
+aPTT|Activated partial thromboplastin time|Gastroenterology
+PLT|Platelet count|Gastroenterology
+Alb|Albumin|Gastroenterology
+SAAG|Serum-ascites albumin gradient|Gastroenterology
+ULN|Upper limit of normal|Gastroenterology
+DILI|Drug-induced liver injury|Gastroenterology
+HILI|Herbal-induced liver injury|Gastroenterology
+RUCAM|Roussel Uclaf causality assessment method|Gastroenterology
+APAP|Acetaminophen|Gastroenterology
+NAC|N-acetylcysteine|Gastroenterology
+ALF|Acute liver failure|Gastroenterology
+ACLF|Acute-on-chronic liver failure|Gastroenterology
+ALD|Alcohol-related liver disease|Gastroenterology
+ArLD|Alcohol-related liver disease|Gastroenterology
+AH|Alcoholic hepatitis|Gastroenterology
+SAH|Severe alcoholic hepatitis|Gastroenterology
+AUD|Alcohol use disorder|Gastroenterology
+CIWA|Clinical Institute Withdrawal Assessment|Gastroenterology
+DF|Discriminant function|Gastroenterology
+MDF|Maddrey discriminant function|Gastroenterology
+ABIC|Age, bilirubin, INR and creatinine score|Gastroenterology
+GAHS|Glasgow alcoholic hepatitis score|Gastroenterology
+Lille|Lille model for response to steroids|Gastroenterology
+MELD|Model for end-stage liver disease|Gastroenterology
+MELD-Na|Model for end-stage liver disease with sodium|Gastroenterology
+MELD 3.0|Model for end-stage liver disease version 3.0|Gastroenterology
+PELD|Pediatric end-stage liver disease score|Gastroenterology
+CTP|Child-Turcotte-Pugh score|Gastroenterology
+CLIF-C|Chronic liver failure consortium score|Gastroenterology
+NAFLD|Nonalcoholic fatty liver disease|Gastroenterology
+NASH|Nonalcoholic steatohepatitis|Gastroenterology
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Gastroenterology
+MASH|Metabolic dysfunction-associated steatohepatitis|Gastroenterology
+MetALD|Metabolic dysfunction and alcohol-associated liver disease|Gastroenterology
+SLD|Steatotic liver disease|Gastroenterology
+NAS|NAFLD activity score|Gastroenterology
+FIB-4|Fibrosis-4 index|Gastroenterology
+NFS|NAFLD fibrosis score|Gastroenterology
+APRI|AST to platelet ratio index|Gastroenterology
+ELF|Enhanced liver fibrosis test|Gastroenterology
+VCTE|Vibration-controlled transient elastography|Gastroenterology
+TE|Transient elastography|Gastroenterology
+LSM|Liver stiffness measurement|Gastroenterology
+CAP|Controlled attenuation parameter|Gastroenterology
+MRE-liver|Magnetic resonance elastography|Gastroenterology
+MRI-PDFF|Magnetic resonance imaging proton density fat fraction|Gastroenterology
+PDFF|Proton density fat fraction|Gastroenterology
+SWE|Shear wave elastography|Gastroenterology
+ARFI|Acoustic radiation force impulse|Gastroenterology
+FLI|Fatty liver index|Gastroenterology
+HSI|Hepatic steatosis index|Gastroenterology
+T2DM|Type 2 diabetes mellitus|Gastroenterology
+MetS|Metabolic syndrome|Gastroenterology
+MASLD-CM|Cardiometabolic criteria for metabolic dysfunction-associated steatotic liver disease|Gastroenterology
+BA|Biliary atresia|Gastroenterology
+PFIC|Progressive familial intrahepatic cholestasis|Gastroenterology
+ICP|Intrahepatic cholestasis of pregnancy|Gastroenterology
+AFLP|Acute fatty liver of pregnancy|Gastroenterology
+HELLP|Hemolysis, elevated liver enzymes and low platelets syndrome|Gastroenterology
+AATD|Alpha-1 antitrypsin deficiency|Gastroenterology
+A1AT|Alpha-1 antitrypsin|Gastroenterology
+HH|Hereditary hemochromatosis|Gastroenterology
+TSAT|Transferrin saturation|Gastroenterology
+TIBC|Total iron-binding capacity|Gastroenterology
+HIC|Hepatic iron concentration|Gastroenterology
+WD|Wilson disease|Gastroenterology
+KF|Kayser-Fleischer ring|Gastroenterology
+CPN|Ceruloplasmin|Gastroenterology
+PNH|Paroxysmal nocturnal hemoglobinuria|Gastroenterology
+BCS|Budd-Chiari syndrome|Gastroenterology
+PVT|Portal vein thrombosis|Gastroenterology
+SVT|Splanchnic vein thrombosis|Gastroenterology
+SMV|Superior mesenteric vein|Gastroenterology
+SMA-artery|Superior mesenteric artery|Gastroenterology
+SMAS|Superior mesenteric artery syndrome|Gastroenterology
+IMA|Inferior mesenteric artery|Gastroenterology
+IMV|Inferior mesenteric vein|Gastroenterology
+CA|Celiac artery|Gastroenterology
+MALS|Median arcuate ligament syndrome|Gastroenterology
+AMI|Acute mesenteric ischemia|Gastroenterology
+CMI|Chronic mesenteric ischemia|Gastroenterology
+NOMI|Non-occlusive mesenteric ischemia|Gastroenterology
+MVT|Mesenteric venous thrombosis|Gastroenterology
+IC-colitis|Ischemic colitis|Gastroenterology
+SRUS|Solitary rectal ulcer syndrome|Gastroenterology
+CTA|Computed tomography angiography|Gastroenterology
+CT|Computed tomography|Gastroenterology
+MRI|Magnetic resonance imaging|Gastroenterology
+US|Ultrasound|Gastroenterology
+RUQ|Right upper quadrant|Gastroenterology
+LUQ|Left upper quadrant|Gastroenterology
+RLQ|Right lower quadrant|Gastroenterology
+LLQ|Left lower quadrant|Gastroenterology
+LI-RADS|Liver Imaging Reporting and Data System|Gastroenterology
+LR-5|Liver Imaging Reporting and Data System category 5, definitely hepatocellular carcinoma|Gastroenterology
+LR-M|Liver Imaging Reporting and Data System category M, probably malignant not specific for hepatocellular carcinoma|Gastroenterology
+APHE|Arterial phase hyperenhancement|Gastroenterology
+CEUS|Contrast-enhanced ultrasound|Gastroenterology
+BCLC|Barcelona Clinic Liver Cancer staging|Gastroenterology
+TACE|Transarterial chemoembolization|Gastroenterology
+TARE|Transarterial radioembolization|Gastroenterology
+Y-90|Yttrium-90 radioembolization|Gastroenterology
+SIRT|Selective internal radiation therapy|Gastroenterology
+SBRT|Stereotactic body radiation therapy|Gastroenterology
+MWA|Microwave ablation|Gastroenterology
+PEI-HCC|Percutaneous ethanol injection|Gastroenterology
+LT|Liver transplant|Gastroenterology
+LTx|Liver transplantation|Gastroenterology
+OLT|Orthotopic liver transplantation|Gastroenterology
+LDLT|Living donor liver transplantation|Gastroenterology
+DDLT|Deceased donor liver transplantation|Gastroenterology
+DCD|Donation after circulatory death|Gastroenterology
+DBD|Donation after brain death|Gastroenterology
+SPLIT|Split liver transplant|Gastroenterology
+MC|Milan criteria|Gastroenterology
+UCSF-criteria|University of California San Francisco transplant criteria|Gastroenterology
+AFP score|Alpha-fetoprotein score for transplant|Gastroenterology
+HRS|Hepatorenal syndrome|Gastroenterology
+HRS-AKI|Hepatorenal syndrome with acute kidney injury|Gastroenterology
+AKI|Acute kidney injury|Gastroenterology
+CKD|Chronic kidney disease|Gastroenterology
+ATN|Acute tubular necrosis|Gastroenterology
+HPS|Hepatopulmonary syndrome|Gastroenterology
+POPH|Portopulmonary hypertension|Gastroenterology
+CCM|Cirrhotic cardiomyopathy|Gastroenterology
+HE|Hepatic encephalopathy|Gastroenterology
+OHE|Overt hepatic encephalopathy|Gastroenterology
+MHE|Minimal hepatic encephalopathy|Gastroenterology
+CHE|Covert hepatic encephalopathy|Gastroenterology
+WHC|West Haven criteria|Gastroenterology
+PSE|Portal-systemic encephalopathy|Gastroenterology
+PHES|Psychometric hepatic encephalopathy score|Gastroenterology
+CFF|Critical flicker frequency|Gastroenterology
+ICT|Inhibitory control test|Gastroenterology
+Stroop|Stroop test for covert hepatic encephalopathy|Gastroenterology
+LOLA|L-ornithine L-aspartate|Gastroenterology
+BCAA|Branched-chain amino acids|Gastroenterology
+NH3|Ammonia|Gastroenterology
+SBP|Spontaneous bacterial peritonitis|Gastroenterology
+SBE-peritonitis|Spontaneous bacterial empyema|Gastroenterology
+BNA|Bacterascites|Gastroenterology
+CNNA|Culture-negative neutrocytic ascites|Gastroenterology
+PMN|Polymorphonuclear neutrophils|Gastroenterology
+ANC-asc|Ascitic absolute neutrophil count|Gastroenterology
+ACF|Ascitic fluid|Gastroenterology
+LVP|Large-volume paracentesis|Gastroenterology
+TIPS|Transjugular intrahepatic portosystemic shunt|Gastroenterology
+TIPSS|Transjugular intrahepatic portosystemic stent shunt|Gastroenterology
+PSG|Portosystemic gradient|Gastroenterology
+HVPG|Hepatic venous pressure gradient|Gastroenterology
+WHVP|Wedged hepatic venous pressure|Gastroenterology
+FHVP|Free hepatic venous pressure|Gastroenterology
+CSPH|Clinically significant portal hypertension|Gastroenterology
+PH|Portal hypertension|Gastroenterology
+PHT|Portal hypertension|Gastroenterology
+PV|Portal vein|Gastroenterology
+HV|Hepatic vein|Gastroenterology
+IVC|Inferior vena cava|Gastroenterology
+HA|Hepatic artery|Gastroenterology
+CTP-A|Child-Turcotte-Pugh class A|Gastroenterology
+CPS|Child-Pugh score|Gastroenterology
+DC|Decompensated cirrhosis|Gastroenterology
+CC-cirrhosis|Compensated cirrhosis|Gastroenterology
+cACLD|Compensated advanced chronic liver disease|Gastroenterology
+ACLD|Advanced chronic liver disease|Gastroenterology
+CLD|Chronic liver disease|Gastroenterology
+ESLD|End-stage liver disease|Gastroenterology
+ESRD|End-stage renal disease|Gastroenterology
+EV|Esophageal varices|Gastroenterology
+GV|Gastric varices|Gastroenterology
+IGV|Isolated gastric varices|Gastroenterology
+GOV|Gastroesophageal varices|Gastroenterology
+GOV1|Gastroesophageal varices type 1|Gastroenterology
+GOV2|Gastroesophageal varices type 2|Gastroenterology
+IGV1|Isolated gastric varices type 1|Gastroenterology
+IGV2|Isolated gastric varices type 2|Gastroenterology
+EVL|Endoscopic variceal ligation|Gastroenterology
+EVB|Esophageal variceal bleeding|Gastroenterology
+EBL|Endoscopic band ligation|Gastroenterology
+EIS|Endoscopic injection sclerotherapy|Gastroenterology
+NSBB|Nonselective beta-blocker|Gastroenterology
+BB|Beta-blocker|Gastroenterology
+CVC|Carvedilol|Gastroenterology
+BRTO|Balloon-occluded retrograde transvenous obliteration|Gastroenterology
+BATO|Balloon-occluded antegrade transvenous obliteration|Gastroenterology
+CARTO|Coil-assisted retrograde transvenous obliteration|Gastroenterology
+PARTO|Plug-assisted retrograde transvenous obliteration|Gastroenterology
+SB tube|Sengstaken-Blakemore tube|Gastroenterology
+SEMS|Self-expanding metal stent|Gastroenterology
+FCSEMS|Fully covered self-expanding metal stent|Gastroenterology
+PCSEMS|Partially covered self-expanding metal stent|Gastroenterology
+UCSEMS|Uncovered self-expanding metal stent|Gastroenterology
+PS|Plastic stent|Gastroenterology
+CBD stent|Common bile duct stent|Gastroenterology
+MBS-stent|Metal biliary stent|Gastroenterology
+RFA-bile|Endobiliary radiofrequency ablation|Gastroenterology
+PDT|Photodynamic therapy|Gastroenterology
+EHL|Electrohydraulic lithotripsy|Gastroenterology
+LL|Laser lithotripsy|Gastroenterology
+ML|Mechanical lithotripsy|Gastroenterology
+ESWL|Extracorporeal shock wave lithotripsy|Gastroenterology
+SpyGlass|Single-operator cholangioscopy|Gastroenterology
+SOC|Single-operator cholangioscopy|Gastroenterology
+POC|Peroral cholangioscopy|Gastroenterology
+DSOC|Digital single-operator cholangioscopy|Gastroenterology
+FISH|Fluorescence in situ hybridization|Gastroenterology
+DIA|Digital image analysis|Gastroenterology
+ROSE|Rapid on-site evaluation|Gastroenterology
+MOSE|Macroscopic on-site evaluation|Gastroenterology
+ASGE-score|Choledocholithiasis likelihood risk score|Gastroenterology
+AC-cholangitis|Acute cholangitis|Gastroenterology
+AIC|Autoimmune cholangitis|Gastroenterology
+CCC|Calculous cholecystitis|Gastroenterology
+ACC|Acute calculous cholecystitis|Gastroenterology
+AAC|Acute acalculous cholecystitis|Gastroenterology
+AC-chole|Acute cholecystitis|Gastroenterology
+CCY|Cholecystectomy|Gastroenterology
+LapChole|Laparoscopic cholecystectomy|Gastroenterology
+PC|Percutaneous cholecystostomy|Gastroenterology
+GB|Gallbladder|Gastroenterology
+GS|Gallstones|Gastroenterology
+GSP|Gallstone pancreatitis|Gastroenterology
+BC|Biliary colic|Gastroenterology
+SGB|Sludge in gallbladder|Gastroenterology
+GBP|Gallbladder polyp|Gastroenterology
+CBDD|Common bile duct dilation|Gastroenterology
+CBDC|Choledochal cyst|Gastroenterology
+PBM-biliary|Pancreaticobiliary maljunction|Gastroenterology
+APBDJ|Anomalous pancreaticobiliary duct junction|Gastroenterology
+VBDS|Vanishing bile duct syndrome|Gastroenterology
+GVHD|Graft-versus-host disease|Gastroenterology
+HSCT|Hematopoietic stem cell transplant|Gastroenterology
+VOD|Veno-occlusive disease|Gastroenterology
+SOS|Sinusoidal obstruction syndrome|Gastroenterology
+NRH|Nodular regenerative hyperplasia|Gastroenterology
+FNH|Focal nodular hyperplasia|Gastroenterology
+HCA|Hepatocellular adenoma|Gastroenterology
+HAE|Hepatic alveolar echinococcosis|Gastroenterology
+CE-hydatid|Cystic echinococcosis|Gastroenterology
+PAIR|Puncture, aspiration, injection and re-aspiration|Gastroenterology
+PLA|Pyogenic liver abscess|Gastroenterology
+ALA|Amebic liver abscess|Gastroenterology
+LA|Liver abscess|Gastroenterology
+PCLD|Polycystic liver disease|Gastroenterology
+ADPKD|Autosomal dominant polycystic kidney disease|Gastroenterology
+PBH|Percutaneous liver biopsy|Gastroenterology
+TJLB|Transjugular liver biopsy|Gastroenterology
+LB|Liver biopsy|Gastroenterology
+H&E|Hematoxylin and eosin|Gastroenterology
+PAS|Periodic acid-Schiff|Gastroenterology
+PAS-D|Periodic acid-Schiff with diastase|Gastroenterology
+CRP|C-reactive protein|Gastroenterology
+ESR|Erythrocyte sedimentation rate|Gastroenterology
+FC-calpro|Fecal calprotectin|Gastroenterology
+FCP|Fecal calprotectin|Gastroenterology
+FL|Fecal lactoferrin|Gastroenterology
+FOB|Fecal occult blood|Gastroenterology
+CDAI|Crohn disease activity index|Gastroenterology
+HBI|Harvey-Bradshaw index|Gastroenterology
+PCDAI|Pediatric Crohn disease activity index|Gastroenterology
+wPCDAI|Weighted pediatric Crohn disease activity index|Gastroenterology
+PUCAI|Pediatric ulcerative colitis activity index|Gastroenterology
+SES-CD|Simple endoscopic score for Crohn disease|Gastroenterology
+CDEIS|Crohn disease endoscopic index of severity|Gastroenterology
+MaRIA|Magnetic resonance index of activity|Gastroenterology
+MES|Mayo endoscopic subscore|Gastroenterology
+UCEIS|Ulcerative colitis endoscopic index of severity|Gastroenterology
+SCCAI|Simple clinical colitis activity index|Gastroenterology
+PMS|Partial Mayo score|Gastroenterology
+TLSS|Truelove and Witts severity classification|Gastroenterology
+RHI|Robarts histopathology index|Gastroenterology
+NHI|Nancy histological index|Gastroenterology
+IBDQ|Inflammatory bowel disease questionnaire|Gastroenterology
+PRO2|Patient-reported outcome 2 measure|Gastroenterology
+STRIDE|Selecting therapeutic targets in inflammatory bowel disease|Gastroenterology
+ASUC|Acute severe ulcerative colitis|Gastroenterology
+TNF|Tumor necrosis factor|Gastroenterology
+anti-TNF|Anti-tumor necrosis factor therapy|Gastroenterology
+IFX|Infliximab|Gastroenterology
+ADA|Adalimumab|Gastroenterology
+GOL|Golimumab|Gastroenterology
+CZP|Certolizumab pegol|Gastroenterology
+VDZ|Vedolizumab|Gastroenterology
+UST|Ustekinumab|Gastroenterology
+RZB|Risankizumab|Gastroenterology
+MIRI|Mirikizumab|Gastroenterology
+GUS|Guselkumab|Gastroenterology
+TOF|Tofacitinib|Gastroenterology
+UPA|Upadacitinib|Gastroenterology
+FIL|Filgotinib|Gastroenterology
+OZA|Ozanimod|Gastroenterology
+ETR|Etrasimod|Gastroenterology
+S1P|Sphingosine-1-phosphate receptor modulator|Gastroenterology
+JAK|Janus kinase|Gastroenterology
+JAKi|Janus kinase inhibitor|Gastroenterology
+IL-12/23|Interleukin-12 and interleukin-23|Gastroenterology
+IL-23|Interleukin-23|Gastroenterology
+IM-immuno|Immunomodulator|Gastroenterology
+AZA|Azathioprine|Gastroenterology
+6-MP|6-mercaptopurine|Gastroenterology
+MTX|Methotrexate|Gastroenterology
+6-TG|6-thioguanine|Gastroenterology
+6-TGN|6-thioguanine nucleotides|Gastroenterology
+6-MMP|6-methylmercaptopurine|Gastroenterology
+TPMT|Thiopurine methyltransferase|Gastroenterology
+NUDT15|Nudix hydrolase 15 enzyme activity|Gastroenterology
+TDM|Therapeutic drug monitoring|Gastroenterology
+ATI|Antibodies to infliximab|Gastroenterology
+ADAb|Anti-drug antibodies|Gastroenterology
+ATA|Antibodies to adalimumab|Gastroenterology
+HACA|Human anti-chimeric antibody|Gastroenterology
+LOR|Loss of response|Gastroenterology
+PNR|Primary nonresponse|Gastroenterology
+SLOR|Secondary loss of response|Gastroenterology
+CSA|Cyclosporine|Gastroenterology
+TAC-drug|Tacrolimus|Gastroenterology
+MMF|Mycophenolate mofetil|Gastroenterology
+5-ASA|5-aminosalicylic acid|Gastroenterology
+ASA-mesalamine|Mesalamine|Gastroenterology
+SSZ|Sulfasalazine|Gastroenterology
+BUD|Budesonide|Gastroenterology
+CS|Corticosteroids|Gastroenterology
+GCS|Glucocorticosteroids|Gastroenterology
+IV steroids|Intravenous corticosteroids|Gastroenterology
+MP|Methylprednisolone|Gastroenterology
+SF|Steroid-free|Gastroenterology
+SFR|Steroid-free remission|Gastroenterology
+CSFR|Corticosteroid-free remission|Gastroenterology
+EIM|Extraintestinal manifestation|Gastroenterology
+EIMs|Extraintestinal manifestations|Gastroenterology
+PG|Pyoderma gangrenosum|Gastroenterology
+EN-skin|Erythema nodosum|Gastroenterology
+AS|Ankylosing spondylitis|Gastroenterology
+IBD-A|Inflammatory bowel disease-associated arthropathy|Gastroenterology
+PSC-IBD|Primary sclerosing cholangitis with inflammatory bowel disease|Gastroenterology
+CAC|Colitis-associated cancer|Gastroenterology
+CAN|Colitis-associated neoplasia|Gastroenterology
+DALM|Dysplasia-associated lesion or mass|Gastroenterology
+SCENIC|Surveillance for colorectal endoscopic neoplasia detection and management|Gastroenterology
+PIC|Post-inflammatory polyp|Gastroenterology
+PIP|Pseudopolyp|Gastroenterology
+pouchitis|Inflammation of the ileal pouch|Gastroenterology
+PDAI|Pouchitis disease activity index|Gastroenterology
+CARP|Crohn-like disease of the pouch|Gastroenterology
+POR|Postoperative recurrence|Gastroenterology
+POCD|Postoperative Crohn disease|Gastroenterology
+Rutgeerts|Rutgeerts postoperative endoscopic recurrence score|Gastroenterology
+PAF|Perianal fistula|Gastroenterology
+PFCD|Perianal fistulizing Crohn disease|Gastroenterology
+PAD|Perianal disease|Gastroenterology
+EUA|Examination under anesthesia|Gastroenterology
+MRI-pelvis|Magnetic resonance imaging of the pelvis|Gastroenterology
+EAUS|Endoanal ultrasound|Gastroenterology
+EUS-anal|Endoanal endoscopic ultrasound|Gastroenterology
+PAI|Perianal abscess incision|Gastroenterology
+I&D|Incision and drainage|Gastroenterology
+LIFT|Ligation of the intersphincteric fistula tract|Gastroenterology
+MSC|Mesenchymal stem cell|Gastroenterology
+DS|Duodenal switch|Gastroenterology
+SSF|Strictureplasty|Gastroenterology
+EBD-stricture|Endoscopic balloon dilation of stricture|Gastroenterology
+EBD-IBD|Endoscopic balloon dilation in inflammatory bowel disease|Gastroenterology
+TTS|Through-the-scope|Gastroenterology
+OTSC|Over-the-scope clip|Gastroenterology
+TTSC|Through-the-scope clip|Gastroenterology
+EHS|Endoscopic hemostasis|Gastroenterology
+HS|Hemostatic spray|Gastroenterology
+HP-powder|Hemostatic powder|Gastroenterology
+BPE|Bipolar probe electrocoagulation|Gastroenterology
+EEC|Epinephrine injection|Gastroenterology
+EPI-inj|Epinephrine injection|Gastroenterology
+TXA|Tranexamic acid|Gastroenterology
+FFP|Fresh frozen plasma|Gastroenterology
+PRBC|Packed red blood cells|Gastroenterology
+PRBCs|Packed red blood cells|Gastroenterology
+MTP|Massive transfusion protocol|Gastroenterology
+PCC|Prothrombin complex concentrate|Gastroenterology
+Hgb|Hemoglobin|Gastroenterology
+Hct|Hematocrit|Gastroenterology
+GBS|Glasgow-Blatchford score|Gastroenterology
+AIMS65|Albumin, INR, mental status, systolic blood pressure and age 65 risk score|Gastroenterology
+pRS|Pre-endoscopy Rockall score|Gastroenterology
+FRS|Full Rockall score|Gastroenterology
+SRH|Stigmata of recent hemorrhage|Gastroenterology
+FIIa|Forrest classification Ia, spurting bleeding|Gastroenterology
+FIb|Forrest classification Ib, oozing bleeding|Gastroenterology
+FIIa-ulcer|Forrest classification IIa, non-bleeding visible vessel|Gastroenterology
+FIIb|Forrest classification IIb, adherent clot|Gastroenterology
+FIIc|Forrest classification IIc, flat pigmented spot|Gastroenterology
+FIII|Forrest classification III, clean-based ulcer|Gastroenterology
+NBVV|Non-bleeding visible vessel|Gastroenterology
+AC-clot|Adherent clot|Gastroenterology
+DOAC|Direct oral anticoagulant|Gastroenterology
+VKA|Vitamin K antagonist|Gastroenterology
+LMWH|Low-molecular-weight heparin|Gastroenterology
+UFH|Unfractionated heparin|Gastroenterology
+DAPT|Dual antiplatelet therapy|Gastroenterology
+SAPT|Single antiplatelet therapy|Gastroenterology
+P2Y12|P2Y12 receptor inhibitor|Gastroenterology
+PEG-ELS|Polyethylene glycol electrolyte solution|Gastroenterology
+PEG-3350|Polyethylene glycol 3350|Gastroenterology
+NaP|Sodium phosphate|Gastroenterology
+SP|Sodium picosulfate|Gastroenterology
+SPMC|Sodium picosulfate with magnesium citrate|Gastroenterology
+OSS|Oral sulfate solution|Gastroenterology
+LV-PEG|Low-volume polyethylene glycol bowel preparation|Gastroenterology
+HV-PEG|High-volume polyethylene glycol bowel preparation|Gastroenterology
+MAC|Monitored anesthesia care|Gastroenterology
+CS-sedation|Conscious sedation|Gastroenterology
+PSA|Procedural sedation and analgesia|Gastroenterology
+ASA-class|American Society of Anesthesiologists physical status class|Gastroenterology
+GA|General anesthesia|Gastroenterology
+ETT|Endotracheal tube|Gastroenterology
+CO2|Carbon dioxide insufflation|Gastroenterology
+CO2 insufflation|Carbon dioxide insufflation|Gastroenterology
+AE|Adverse event|Gastroenterology
+SAE|Serious adverse event|Gastroenterology
+Perf|Perforation|Gastroenterology
+PPS|Post-polypectomy syndrome|Gastroenterology
+PPB|Post-polypectomy bleeding|Gastroenterology
+DPB|Delayed post-polypectomy bleeding|Gastroenterology
+PESB|Post-endoscopic sphincterotomy bleeding|Gastroenterology
+CSP|Cold snare polypectomy|Gastroenterology
+HSP|Hot snare polypectomy|Gastroenterology
+CFP|Cold forceps polypectomy|Gastroenterology
+UEMR|Underwater endoscopic mucosal resection|Gastroenterology
+PEMR|Piecemeal endoscopic mucosal resection|Gastroenterology
+EEMR|En bloc endoscopic mucosal resection|Gastroenterology
+LST|Laterally spreading tumor|Gastroenterology
+LST-G|Laterally spreading tumor, granular type|Gastroenterology
+LST-NG|Laterally spreading tumor, non-granular type|Gastroenterology
+JNET|Japan NBI Expert Team classification|Gastroenterology
+NICE|NBI International Colorectal Endoscopic classification|Gastroenterology
+SMI|Submucosal invasion|Gastroenterology
+SM1|Superficial submucosal invasion less than 1000 micrometers|Gastroenterology
+DSI|Deep submucosal invasion|Gastroenterology
+LVI|Lymphovascular invasion|Gastroenterology
+LN|Lymph node|Gastroenterology
+LNM|Lymph node metastasis|Gastroenterology
+CRM|Circumferential resection margin|Gastroenterology
+TME|Total mesorectal excision|Gastroenterology
+LAR|Low anterior resection|Gastroenterology
+APR|Abdominoperineal resection|Gastroenterology
+TEM|Transanal endoscopic microsurgery|Gastroenterology
+TAMIS|Transanal minimally invasive surgery|Gastroenterology
+TaTME|Transanal total mesorectal excision|Gastroenterology
+nCRT|Neoadjuvant chemoradiotherapy|Gastroenterology
+TNT|Total neoadjuvant therapy|Gastroenterology
+CRT|Chemoradiotherapy|Gastroenterology
+CTx|Chemotherapy|Gastroenterology
+XRT|Radiation therapy|Gastroenterology
+cCR|Clinical complete response|Gastroenterology
+pCR|Pathologic complete response|Gastroenterology
+FOLFOX|Folinic acid, fluorouracil and oxaliplatin regimen|Gastroenterology
+FOLFIRI|Folinic acid, fluorouracil and irinotecan regimen|Gastroenterology
+CAPOX|Capecitabine and oxaliplatin regimen|Gastroenterology
+FOLFIRINOX|Folinic acid, fluorouracil, irinotecan and oxaliplatin regimen|Gastroenterology
+5-FU|5-fluorouracil|Gastroenterology
+DPD|Dihydropyrimidine dehydrogenase|Gastroenterology
+DPYD|Dihydropyrimidine dehydrogenase deficiency testing|Gastroenterology
+VEGF|Vascular endothelial growth factor|Gastroenterology
+EGFR|Epidermal growth factor receptor|Gastroenterology
+HER2|Human epidermal growth factor receptor 2|Gastroenterology
+PD-L1|Programmed death-ligand 1|Gastroenterology
+CPS-PDL1|Combined positive score for programmed death-ligand 1|Gastroenterology
+ICI|Immune checkpoint inhibitor|Gastroenterology
+irAE|Immune-related adverse event|Gastroenterology
+ICI colitis|Immune checkpoint inhibitor colitis|Gastroenterology
+ICIH|Immune checkpoint inhibitor hepatitis|Gastroenterology
+MC-colitis|Microscopic colitis|Gastroenterology
+CC-colitis|Collagenous colitis|Gastroenterology
+LC-colitis|Lymphocytic colitis|Gastroenterology
+IMC|Incomplete microscopic colitis|Gastroenterology
+NOS|Not otherwise specified|Gastroenterology
+SCAD|Segmental colitis associated with diverticulosis|Gastroenterology
+DD-colon|Diverticular disease|Gastroenterology
+AD|Acute diverticulitis|Gastroenterology
+CD-div|Complicated diverticulitis|Gastroenterology
+UD|Uncomplicated diverticulitis|Gastroenterology
+DB|Diverticular bleeding|Gastroenterology
+SUDD|Symptomatic uncomplicated diverticular disease|Gastroenterology
+Hinchey|Hinchey classification of diverticulitis|Gastroenterology
+CT-AP|Computed tomography of the abdomen and pelvis|Gastroenterology
+KUB|Kidneys, ureters and bladder plain abdominal film|Gastroenterology
+AXR|Abdominal x-ray|Gastroenterology
+CXR|Chest x-ray|Gastroenterology
+FAST|Focused assessment with sonography for trauma|Gastroenterology
+POCUS|Point-of-care ultrasound|Gastroenterology
+ACS|Abdominal compartment syndrome|Gastroenterology
+IAP|Intra-abdominal pressure|Gastroenterology
+IAH|Intra-abdominal hypertension|Gastroenterology
+IAI|Intra-abdominal infection|Gastroenterology
+cIAI|Complicated intra-abdominal infection|Gastroenterology
+SSI|Surgical site infection|Gastroenterology
+PO|By mouth|Gastroenterology
+IV|Intravenous|Gastroenterology
+IM-route|Intramuscular|Gastroenterology
+SC|Subcutaneous|Gastroenterology
+SQ|Subcutaneous|Gastroenterology
+PR|Per rectum|Gastroenterology
+PRN|As needed|Gastroenterology
+NSR|Non-surgical resolution|Gastroenterology
+DRE|Digital rectal examination|Gastroenterology
+DRE-rectal|Digital rectal exam|Gastroenterology
+HPI|History of present illness|Gastroenterology
+ROS|Review of systems|Gastroenterology
+BM|Bowel movement|Gastroenterology
+BMs|Bowel movements|Gastroenterology
+BRBPR|Bright red blood per rectum|Gastroenterology
+BPR|Blood per rectum|Gastroenterology
+HCT-drop|Hematocrit drop|Gastroenterology
+N/V|Nausea and vomiting|Gastroenterology
+N/V/D|Nausea, vomiting and diarrhea|Gastroenterology
+NVD|Nausea, vomiting and diarrhea|Gastroenterology
+PONV|Postoperative nausea and vomiting|Gastroenterology
+CINV|Chemotherapy-induced nausea and vomiting|Gastroenterology
+HG|Hyperemesis gravidarum|Gastroenterology
+LOA|Loss of appetite|Gastroenterology
+LOW|Loss of weight|Gastroenterology
+WL|Weight loss|Gastroenterology
+FTT|Failure to thrive|Gastroenterology
+ABD|Abdomen|Gastroenterology
+ABD pain|Abdominal pain|Gastroenterology
+EPG|Epigastric|Gastroenterology
+BS|Bowel sounds|Gastroenterology
+NABS|Normoactive bowel sounds|Gastroenterology
+HSM|Hepatosplenomegaly|Gastroenterology
+HM|Hepatomegaly|Gastroenterology
+SM|Splenomegaly|Gastroenterology
+STD|Soft, tender, distended|Gastroenterology
+NTND|Non-tender, non-distended|Gastroenterology
+NT/ND|Non-tender, non-distended|Gastroenterology
+PUD-hx|History of peptic ulcer disease|Gastroenterology
+DJD|Degenerative joint disease|Gastroenterology
+HTN|Hypertension|Gastroenterology
+DM|Diabetes mellitus|Gastroenterology
+CAD|Coronary artery disease|Gastroenterology
+CHF|Congestive heart failure|Gastroenterology
+COPD|Chronic obstructive pulmonary disease|Gastroenterology
+OSA|Obstructive sleep apnea|Gastroenterology
+PMH|Past medical history|Gastroenterology
+PSH|Past surgical history|Gastroenterology
+FH|Family history|Gastroenterology
+FHx|Family history|Gastroenterology
+SH|Social history|Gastroenterology
+TOB|Tobacco use|Gastroenterology
+EtOH|Alcohol|Gastroenterology
+IVDU|Intravenous drug use|Gastroenterology
+MSM|Men who have sex with men|Gastroenterology
+HRQoL|Health-related quality of life|Gastroenterology
+PROM|Patient-reported outcome measure|Gastroenterology
+PRO|Patient-reported outcome|Gastroenterology
+EoE-DSQ|Eosinophilic esophagitis dysphagia symptom questionnaire|Gastroenterology
+EREFS|Eosinophilic esophagitis endoscopic reference score|Gastroenterology
+HPF|High-power field|Gastroenterology
+eos/HPF|Eosinophils per high-power field|Gastroenterology
+EoE-HSS|Eosinophilic esophagitis histologic scoring system|Gastroenterology
+4FED|Four-food elimination diet|Gastroenterology
+6FED|Six-food elimination diet|Gastroenterology
+TCS|Topical corticosteroid|Gastroenterology
+sFC|Swallowed fluticasone|Gastroenterology
+FI|Food impaction|Gastroenterology
+FB|Foreign body|Gastroenterology
+FBI|Foreign body ingestion|Gastroenterology
+BI|Bolus impaction|Gastroenterology
+PIL|Proximal impaction lesion|Gastroenterology
+SDD|Schatzki-type distal ring|Gastroenterology
+ZD|Zenker diverticulum|Gastroenterology
+ED|Esophageal diverticulum|Gastroenterology
+EV-stent|Esophageal stent|Gastroenterology
+EF|Esophageal fistula|Gastroenterology
+TEF|Tracheoesophageal fistula|Gastroenterology
+EA|Esophageal atresia|Gastroenterology
+CAUS|Caustic ingestion|Gastroenterology
+PEC|Pill esophagitis|Gastroenterology
+CE-candida|Candida esophagitis|Gastroenterology
+HSE|Herpes simplex esophagitis|Gastroenterology
+RE|Reflux esophagitis|Gastroenterology
+LA grade|Los Angeles classification of reflux esophagitis|Gastroenterology
+LA-A|Los Angeles grade A esophagitis|Gastroenterology
+LA-B|Los Angeles grade B esophagitis|Gastroenterology
+LA-C|Los Angeles grade C esophagitis|Gastroenterology
+LA-D|Los Angeles grade D esophagitis|Gastroenterology
+HH-hiatal|Hiatal hernia|Gastroenterology
+PEH|Paraesophageal hernia|Gastroenterology
+SHH|Sliding hiatal hernia|Gastroenterology
+PEH-repair|Paraesophageal hernia repair|Gastroenterology
+LNF|Laparoscopic Nissen fundoplication|Gastroenterology
+LARS|Laparoscopic antireflux surgery|Gastroenterology
+MSA|Magnetic sphincter augmentation|Gastroenterology
+TIF|Transoral incisionless fundoplication|Gastroenterology
+ARMS|Anti-reflux mucosectomy|Gastroenterology
+ARMA|Anti-reflux mucosal ablation|Gastroenterology
+Stretta|Radiofrequency treatment of the lower esophageal sphincter|Gastroenterology
+pH-MII|pH-impedance monitoring|Gastroenterology
+MII|Multichannel intraluminal impedance|Gastroenterology
+MII-pH|Multichannel intraluminal impedance with pH monitoring|Gastroenterology
+AET|Acid exposure time|Gastroenterology
+DeMeester|DeMeester composite reflux score|Gastroenterology
+MNBI|Mean nocturnal baseline impedance|Gastroenterology
+PSPW|Post-reflux swallow-induced peristaltic wave index|Gastroenterology
+RSI|Reflux symptom index|Gastroenterology
+RFS|Reflux finding score|Gastroenterology
+RDQ|Reflux disease questionnaire|Gastroenterology
+GerdQ|Gastroesophageal reflux disease questionnaire|Gastroenterology
+GERD-HRQL|Gastroesophageal reflux disease health-related quality of life|Gastroenterology
+BRAVO|Wireless esophageal pH capsule monitoring|Gastroenterology
+Prague C&M|Prague circumferential and maximal extent criteria for Barrett esophagus|Gastroenterology
+C&M|Circumferential and maximal extent of Barrett esophagus|Gastroenterology
+SSBE|Short-segment Barrett esophagus|Gastroenterology
+LSBE|Long-segment Barrett esophagus|Gastroenterology
+NDBE|Non-dysplastic Barrett esophagus|Gastroenterology
+IND|Indefinite for dysplasia|Gastroenterology
+IMC-eso|Intramucosal carcinoma|Gastroenterology
+EET|Endoscopic eradication therapy|Gastroenterology
+CE-IM|Complete eradication of intestinal metaplasia|Gastroenterology
+CE-D|Complete eradication of dysplasia|Gastroenterology
+TNE|Transnasal endoscopy|Gastroenterology
+CytoSponge|Esophageal cell collection device|Gastroenterology
+EsoCheck|Esophageal cell collection device with methylation testing|Gastroenterology
+SEE|Surveillance endoscopy|Gastroenterology
+UGI-endo|Upper endoscopy|Gastroenterology
+UE|Upper endoscopy|Gastroenterology
+LE|Lower endoscopy|Gastroenterology
+HC|High-definition colonoscopy|Gastroenterology
+EC-colon|Endocuff-assisted colonoscopy|Gastroenterology
+AAC-colon|Add-on device-assisted colonoscopy|Gastroenterology
+WEC|Water exchange colonoscopy|Gastroenterology
+WIC|Water immersion colonoscopy|Gastroenterology
+RC|Retroflexion in the colon|Gastroenterology
+RR|Retroflexion in the rectum|Gastroenterology
+SSC-colon|Segmental colon|Gastroenterology
+AC-colon|Ascending colon|Gastroenterology
+TC|Transverse colon|Gastroenterology
+DC-colon|Descending colon|Gastroenterology
+SC-colon|Sigmoid colon|Gastroenterology
+HF|Hepatic flexure|Gastroenterology
+SF-flex|Splenic flexure|Gastroenterology
+RS|Rectosigmoid|Gastroenterology
+AV|Anal verge|Gastroenterology
+DL-line|Dentate line|Gastroenterology
+AR|Anorectal|Gastroenterology
+ARJ|Anorectal junction|Gastroenterology
+IAS|Internal anal sphincter|Gastroenterology
+EAS|External anal sphincter|Gastroenterology
+OASIS|Obstetric anal sphincter injury|Gastroenterology
+FI-fecal|Fecal incontinence|Gastroenterology
+FI-score|Fecal incontinence severity index|Gastroenterology
+SNM|Sacral nerve modulation|Gastroenterology
+PTNS|Percutaneous tibial nerve stimulation|Gastroenterology
+BFT|Biofeedback therapy|Gastroenterology
+RP|Rectal prolapse|Gastroenterology
+IRP-rectal|Internal rectal prolapse|Gastroenterology
+ODS|Obstructed defecation syndrome|Gastroenterology
+RAIR|Rectoanal inhibitory reflex|Gastroenterology
+HD|Hirschsprung disease|Gastroenterology
+MH|Mixed hemorrhoids|Gastroenterology
+IH|Internal hemorrhoids|Gastroenterology
+EH|External hemorrhoids|Gastroenterology
+RBL|Rubber band ligation|Gastroenterology
+HAL|Hemorrhoidal artery ligation|Gastroenterology
+LH|Lateral hemorrhoidectomy|Gastroenterology
+AF|Anal fissure|Gastroenterology
+LIS|Lateral internal sphincterotomy|Gastroenterology
+GTN|Glyceryl trinitrate|Gastroenterology
+CCB|Calcium channel blocker|Gastroenterology
+BTX|Botulinum toxin|Gastroenterology
+AIN|Anal intraepithelial neoplasia|Gastroenterology
+HSIL|High-grade squamous intraepithelial lesion|Gastroenterology
+LSIL|Low-grade squamous intraepithelial lesion|Gastroenterology
+HRA|High-resolution anoscopy|Gastroenterology
+HPV|Human papillomavirus|Gastroenterology
+SCCA|Squamous cell carcinoma of the anus|Gastroenterology
+PA|Proctitis|Gastroenterology
+UP|Ulcerative proctitis|Gastroenterology
+RT-proctitis|Radiation proctitis|Gastroenterology
+RTP|Radiation proctopathy|Gastroenterology
+CRP-score|Chronic radiation proctopathy|Gastroenterology
+LGV|Lymphogranuloma venereum|Gastroenterology
+STI|Sexually transmitted infection|Gastroenterology
+CT-chlamydia|Chlamydia trachomatis|Gastroenterology
+NG-gonorrhea|Neisseria gonorrhoeae|Gastroenterology
+CL|Colonic lavage|Gastroenterology
+PS-colon|Pseudo-obstruction|Gastroenterology
+OPS|Acute colonic pseudo-obstruction|Gastroenterology
+ACPO|Acute colonic pseudo-obstruction|Gastroenterology
+CIPO|Chronic intestinal pseudo-obstruction|Gastroenterology
+CPO|Chronic pseudo-obstruction|Gastroenterology
+ECD|Endoscopic colonic decompression|Gastroenterology
+NSD|Neostigmine decompression|Gastroenterology
+PMD|Percutaneous cecostomy drainage|Gastroenterology
+SV|Sigmoid volvulus|Gastroenterology
+CV|Cecal volvulus|Gastroenterology
+MV|Midgut volvulus|Gastroenterology
+IUSS|Intussusception|Gastroenterology
+TFL|Tight filum|Gastroenterology
+POI|Postoperative ileus|Gastroenterology
+ERAS|Enhanced recovery after surgery|Gastroenterology
+PEM|Protein-energy malnutrition|Gastroenterology
+SGA|Subjective global assessment|Gastroenterology
+MUST|Malnutrition universal screening tool|Gastroenterology
+NRS-2002|Nutritional risk screening 2002|Gastroenterology
+GLIM|Global leadership initiative on malnutrition criteria|Gastroenterology
+ASPEN|Parenteral and enteral nutrition criteria for malnutrition|Gastroenterology
+RFS-refeeding|Refeeding syndrome|Gastroenterology
+MCT|Medium-chain triglycerides|Gastroenterology
+LCT-fat|Long-chain triglycerides|Gastroenterology
+ADEK|Fat-soluble vitamins A, D, E and K|Gastroenterology
+B12|Vitamin B12|Gastroenterology
+MMA|Methylmalonic acid|Gastroenterology
+Hcy|Homocysteine|Gastroenterology
+25-OH D|25-hydroxyvitamin D|Gastroenterology
+PTH|Parathyroid hormone|Gastroenterology
+DEXA|Dual-energy x-ray absorptiometry|Gastroenterology
+BMD|Bone mineral density|Gastroenterology
+IDA|Iron deficiency anemia|Gastroenterology
+ID|Iron deficiency|Gastroenterology
+IV iron|Intravenous iron|Gastroenterology
+FCM|Ferric carboxymaltose|Gastroenterology
+MCV|Mean corpuscular volume|Gastroenterology
+RDW|Red cell distribution width|Gastroenterology
+TIBC-iron|Total iron-binding capacity|Gastroenterology
+CBC|Complete blood count|Gastroenterology
+BMP|Basic metabolic panel|Gastroenterology
+CMP|Comprehensive metabolic panel|Gastroenterology
+BUN|Blood urea nitrogen|Gastroenterology
+Cr|Creatinine|Gastroenterology
+eGFR|Estimated glomerular filtration rate|Gastroenterology
+Na|Sodium|Gastroenterology
+UNa|Urine sodium|Gastroenterology
+FeNa|Fractional excretion of sodium|Gastroenterology
+UCr|Urine creatinine|Gastroenterology
+TPO|Thyroid peroxidase|Gastroenterology
+TSH|Thyroid-stimulating hormone|Gastroenterology
+IgA|Immunoglobulin A|Gastroenterology
+IgG|Immunoglobulin G|Gastroenterology
+IgM|Immunoglobulin M|Gastroenterology
+IgE|Immunoglobulin E|Gastroenterology
+CVID|Common variable immunodeficiency|Gastroenterology
+SIgAD|Selective immunoglobulin A deficiency|Gastroenterology
+HLA|Human leukocyte antigen|Gastroenterology
+HLA-DQ2|Human leukocyte antigen DQ2|Gastroenterology
+HLA-DQ8|Human leukocyte antigen DQ8|Gastroenterology
+NCGS|Non-celiac gluten sensitivity|Gastroenterology
+NCWS|Non-celiac wheat sensitivity|Gastroenterology
+DH|Dermatitis herpetiformis|Gastroenterology
+VA|Villous atrophy|Gastroenterology
+Marsh|Marsh classification of duodenal histology|Gastroenterology
+VH:CD|Villous height to crypt depth ratio|Gastroenterology
+TSD|Tropical sprue disease|Gastroenterology
+WD-whipple|Whipple disease|Gastroenterology
+AIE|Autoimmune enteropathy|Gastroenterology
+CVID-E|Common variable immunodeficiency enteropathy|Gastroenterology
+OME|Olmesartan-associated enteropathy|Gastroenterology
+PLE|Protein-losing enteropathy|Gastroenterology
+A1AT-clear|Alpha-1 antitrypsin clearance|Gastroenterology
+IL|Intestinal lymphangiectasia|Gastroenterology
+LI|Lactose intolerance|Gastroenterology
+LM|Lactose malabsorption|Gastroenterology
+FM|Fructose malabsorption|Gastroenterology
+HBT|Hydrogen breath test|Gastroenterology
+LBT|Lactulose breath test|Gastroenterology
+GBT|Glucose breath test|Gastroenterology
+H2|Hydrogen|Gastroenterology
+CH4|Methane|Gastroenterology
+H2S|Hydrogen sulfide|Gastroenterology
+SCFA|Short-chain fatty acids|Gastroenterology
+GM|Gut microbiome|Gastroenterology
+MBT|Microbiota-based therapy|Gastroenterology
+RBX|Rectal microbiota-based live biotherapeutic|Gastroenterology
+SER-109|Oral microbiome therapeutic for recurrent Clostridioides difficile infection|Gastroenterology
+SPB|Probiotic|Gastroenterology
+CFU|Colony-forming unit|Gastroenterology
+GOS|Galacto-oligosaccharides|Gastroenterology
+FOS|Fructo-oligosaccharides|Gastroenterology
+GDMT|Guideline-directed medical therapy|Gastroenterology
+SSRI|Selective serotonin reuptake inhibitor|Gastroenterology
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Gastroenterology
+TCA|Tricyclic antidepressant|Gastroenterology
+GCC|Guanylate cyclase-C|Gastroenterology
+CFTR-ch|Chloride channel activator|Gastroenterology
+NHE3|Sodium-hydrogen exchanger 3|Gastroenterology
+5-HT3|5-hydroxytryptamine type 3 receptor|Gastroenterology
+5-HT4|5-hydroxytryptamine type 4 receptor|Gastroenterology
+5-HT3 RA|5-hydroxytryptamine type 3 receptor antagonist|Gastroenterology
+PAMORA|Peripherally acting mu-opioid receptor antagonist|Gastroenterology
+MOR|Mu-opioid receptor|Gastroenterology
+NK1|Neurokinin-1 receptor|Gastroenterology
+CBD-oil|Cannabidiol|Gastroenterology
+THC|Tetrahydrocannabinol|Gastroenterology
+LFD-diet|Low-FODMAP diet|Gastroenterology
+CBT|Cognitive behavioral therapy|Gastroenterology
+GDH-hypno|Gut-directed hypnotherapy|Gastroenterology
+GDP|Gut-directed psychotherapy|Gastroenterology
+BGBI|Brain-gut behavioral intervention|Gastroenterology
+VGS|Visceral hypersensitivity|Gastroenterology
+VH|Visceral hypersensitivity|Gastroenterology
+CAPS|Centrally mediated abdominal pain syndrome|Gastroenterology
+NBS|Narcotic bowel syndrome|Gastroenterology
+OBS|Opioid-induced bowel syndrome|Gastroenterology
+FAP-pain|Functional abdominal pain|Gastroenterology
+FAPS|Functional abdominal pain syndrome|Gastroenterology
+AAP|Abdominal wall pain|Gastroenterology
+ACNES|Anterior cutaneous nerve entrapment syndrome|Gastroenterology
+MALS-pain|Median arcuate ligament syndrome pain|Gastroenterology
+FH-hunger|Functional heartburn|Gastroenterology
+RH|Reflux hypersensitivity|Gastroenterology
+FHB|Functional heartburn|Gastroenterology
+FCP-chest|Functional chest pain of presumed esophageal origin|Gastroenterology
+GLS|Globus sensation|Gastroenterology
+RS-rumin|Rumination syndrome|Gastroenterology
+BS-belch|Belching disorder|Gastroenterology
+SGB-belch|Supragastric belching|Gastroenterology
+CNVS|Chronic nausea vomiting syndrome|Gastroenterology
+FNV|Functional nausea and vomiting|Gastroenterology
+ARFID|Avoidant restrictive food intake disorder|Gastroenterology
+AN|Anorexia nervosa|Gastroenterology
+BN|Bulimia nervosa|Gastroenterology
+SMAS-weight|Superior mesenteric artery syndrome with weight loss|Gastroenterology
+NCCP|Non-cardiac chest pain|Gastroenterology
+PSBM|Pelvic floor biofeedback management|Gastroenterology
+CTT|Colonic transit time|Gastroenterology
+SITZ|Sitz marker study|Gastroenterology
+ROM|Radiopaque markers|Gastroenterology
+COLO|Colonic manometry|Gastroenterology
+CM|Colonic manometry|Gastroenterology
+EGG|Electrogastrography|Gastroenterology
+GES-sc|Gastric emptying scintigraphy|Gastroenterology
+T1/2|Gastric emptying half-time|Gastroenterology
+GE|Gastric emptying|Gastroenterology
+GI transit|Gastrointestinal transit|Gastroenterology

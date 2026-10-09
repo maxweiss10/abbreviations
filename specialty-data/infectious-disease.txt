@@ -1,0 +1,696 @@
+HIV|Human immunodeficiency virus|Infectious Disease
+AIDS|Acquired immunodeficiency syndrome|Infectious Disease
+ART|Antiretroviral therapy|Infectious Disease
+ARV|Antiretroviral|Infectious Disease
+cART|Combination antiretroviral therapy|Infectious Disease
+HAART|Highly active antiretroviral therapy|Infectious Disease
+PrEP|Pre-exposure prophylaxis|Infectious Disease
+PEP|Post-exposure prophylaxis|Infectious Disease
+nPEP|Non-occupational post-exposure prophylaxis|Infectious Disease
+oPEP|Occupational post-exposure prophylaxis|Infectious Disease
+PMTCT|Prevention of mother-to-child transmission|Infectious Disease
+NRTI|Nucleoside reverse transcriptase inhibitor|Infectious Disease
+NtRTI|Nucleotide reverse transcriptase inhibitor|Infectious Disease
+NNRTI|Non-nucleoside reverse transcriptase inhibitor|Infectious Disease
+PI|Protease inhibitor|Infectious Disease
+INSTI|Integrase strand transfer inhibitor|Infectious Disease
+INI|Integrase inhibitor|Infectious Disease
+TAF|Tenofovir alafenamide|Infectious Disease
+TDF|Tenofovir disoproxil fumarate|Infectious Disease
+FTC|Emtricitabine|Infectious Disease
+3TC|Lamivudine|Infectious Disease
+ABC|Abacavir|Infectious Disease
+AZT|Zidovudine|Infectious Disease
+ZDV|Zidovudine|Infectious Disease
+d4T|Stavudine|Infectious Disease
+ddI|Didanosine|Infectious Disease
+EFV|Efavirenz|Infectious Disease
+NVP|Nevirapine|Infectious Disease
+RPV|Rilpivirine|Infectious Disease
+ETR|Etravirine|Infectious Disease
+DOR|Doravirine|Infectious Disease
+DTG|Dolutegravir|Infectious Disease
+RAL|Raltegravir|Infectious Disease
+EVG|Elvitegravir|Infectious Disease
+BIC|Bictegravir|Infectious Disease
+CAB|Cabotegravir|Infectious Disease
+DRV|Darunavir|Infectious Disease
+ATV|Atazanavir|Infectious Disease
+LPV|Lopinavir|Infectious Disease
+RTV|Ritonavir|Infectious Disease
+/r|Boosted with ritonavir|Infectious Disease
+/c|Boosted with cobicistat|Infectious Disease
+COBI|Cobicistat|Infectious Disease
+FPV|Fosamprenavir|Infectious Disease
+SQV|Saquinavir|Infectious Disease
+IDV|Indinavir|Infectious Disease
+NFV|Nelfinavir|Infectious Disease
+MVC|Maraviroc|Infectious Disease
+T-20|Enfuvirtide|Infectious Disease
+LA-CAB/RPV|Long-acting cabotegravir plus rilpivirine|Infectious Disease
+VL|Viral load|Infectious Disease
+HIV-1 RNA|Human immunodeficiency virus type 1 ribonucleic acid level|Infectious Disease
+CD4|CD4-positive T lymphocyte count|Infectious Disease
+OI|Opportunistic infection|Infectious Disease
+IRIS|Immune reconstitution inflammatory syndrome|Infectious Disease
+PCP|Pneumocystis pneumonia|Infectious Disease
+PJP|Pneumocystis jirovecii pneumonia|Infectious Disease
+MAC|Mycobacterium avium complex|Infectious Disease
+MAI|Mycobacterium avium-intracellulare|Infectious Disease
+KS|Kaposi sarcoma|Infectious Disease
+PML|Progressive multifocal leukoencephalopathy|Infectious Disease
+CMV|Cytomegalovirus|Infectious Disease
+EBV|Epstein-Barr virus|Infectious Disease
+HSV|Herpes simplex virus|Infectious Disease
+HSV-1|Herpes simplex virus type 1|Infectious Disease
+HSV-2|Herpes simplex virus type 2|Infectious Disease
+VZV|Varicella zoster virus|Infectious Disease
+HZ|Herpes zoster|Infectious Disease
+HHV|Human herpesvirus|Infectious Disease
+HHV-6|Human herpesvirus 6|Infectious Disease
+HHV-8|Human herpesvirus 8|Infectious Disease
+KSHV|Kaposi sarcoma-associated herpesvirus|Infectious Disease
+HPV|Human papillomavirus|Infectious Disease
+HBV|Hepatitis B virus|Infectious Disease
+HCV|Hepatitis C virus|Infectious Disease
+HAV|Hepatitis A virus|Infectious Disease
+HDV|Hepatitis D virus|Infectious Disease
+HEV|Hepatitis E virus|Infectious Disease
+HBsAg|Hepatitis B surface antigen|Infectious Disease
+HBeAg|Hepatitis B e antigen|Infectious Disease
+HBcAb|Hepatitis B core antibody|Infectious Disease
+anti-HBc|Antibody to hepatitis B core antigen|Infectious Disease
+anti-HBs|Antibody to hepatitis B surface antigen|Infectious Disease
+anti-HBe|Antibody to hepatitis B e antigen|Infectious Disease
+HBsAb|Hepatitis B surface antibody|Infectious Disease
+HBIG|Hepatitis B immune globulin|Infectious Disease
+HAV IgM|Hepatitis A virus immunoglobulin M antibody|Infectious Disease
+HCV Ab|Hepatitis C virus antibody|Infectious Disease
+SVR|Sustained virologic response|Infectious Disease
+SVR12|Sustained virologic response 12 weeks after treatment|Infectious Disease
+DAA|Direct-acting antiviral|Infectious Disease
+SOF|Sofosbuvir|Infectious Disease
+LDV|Ledipasvir|Infectious Disease
+VEL|Velpatasvir|Infectious Disease
+VOX|Voxilaprevir|Infectious Disease
+GLE|Glecaprevir|Infectious Disease
+PIB|Pibrentasvir|Infectious Disease
+RBV|Ribavirin|Infectious Disease
+PEG-IFN|Pegylated interferon|Infectious Disease
+IFN|Interferon|Infectious Disease
+ETV|Entecavir|Infectious Disease
+LAM|Lamivudine|Infectious Disease
+HCC|Hepatocellular carcinoma|Infectious Disease
+HTLV|Human T-lymphotropic virus|Infectious Disease
+HTLV-1|Human T-lymphotropic virus type 1|Infectious Disease
+RSV|Respiratory syncytial virus|Infectious Disease
+hMPV|Human metapneumovirus|Infectious Disease
+PIV|Parainfluenza virus|Infectious Disease
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2|Infectious Disease
+COVID-19|Coronavirus disease 2019|Infectious Disease
+MERS|Middle East respiratory syndrome|Infectious Disease
+SARS|Severe acute respiratory syndrome|Infectious Disease
+MIS-C|Multisystem inflammatory syndrome in children|Infectious Disease
+MIS-A|Multisystem inflammatory syndrome in adults|Infectious Disease
+ILI|Influenza-like illness|Infectious Disease
+URI|Upper respiratory infection|Infectious Disease
+URTI|Upper respiratory tract infection|Infectious Disease
+LRTI|Lower respiratory tract infection|Infectious Disease
+CAP|Community-acquired pneumonia|Infectious Disease
+HAP|Hospital-acquired pneumonia|Infectious Disease
+VAP|Ventilator-associated pneumonia|Infectious Disease
+HCAP|Healthcare-associated pneumonia|Infectious Disease
+VAE|Ventilator-associated event|Infectious Disease
+AECOPD|Acute exacerbation of chronic obstructive pulmonary disease|Infectious Disease
+TB|Tuberculosis|Infectious Disease
+MTB|Mycobacterium tuberculosis|Infectious Disease
+MTBC|Mycobacterium tuberculosis complex|Infectious Disease
+LTBI|Latent tuberculosis infection|Infectious Disease
+MDR-TB|Multidrug-resistant tuberculosis|Infectious Disease
+XDR-TB|Extensively drug-resistant tuberculosis|Infectious Disease
+RR-TB|Rifampin-resistant tuberculosis|Infectious Disease
+AFB|Acid-fast bacilli|Infectious Disease
+PPD|Purified protein derivative (tuberculin skin test)|Infectious Disease
+TST|Tuberculin skin test|Infectious Disease
+IGRA|Interferon-gamma release assay|Infectious Disease
+NTM|Nontuberculous mycobacteria|Infectious Disease
+RIPE|Rifampin, isoniazid, pyrazinamide, ethambutol|Infectious Disease
+INH|Isoniazid|Infectious Disease
+RIF|Rifampin|Infectious Disease
+RFP|Rifapentine|Infectious Disease
+PZA|Pyrazinamide|Infectious Disease
+EMB|Ethambutol|Infectious Disease
+SM|Streptomycin|Infectious Disease
+DOT|Directly observed therapy|Infectious Disease
+BCG|Bacillus Calmette-Guerin vaccine|Infectious Disease
+MRSA|Methicillin-resistant Staphylococcus aureus|Infectious Disease
+MSSA|Methicillin-susceptible Staphylococcus aureus|Infectious Disease
+MRSE|Methicillin-resistant Staphylococcus epidermidis|Infectious Disease
+CoNS|Coagulase-negative staphylococci|Infectious Disease
+SAB|Staphylococcus aureus bacteremia|Infectious Disease
+VRE|Vancomycin-resistant enterococci|Infectious Disease
+VSE|Vancomycin-susceptible enterococci|Infectious Disease
+VISA|Vancomycin-intermediate Staphylococcus aureus|Infectious Disease
+VRSA|Vancomycin-resistant Staphylococcus aureus|Infectious Disease
+hVISA|Heteroresistant vancomycin-intermediate Staphylococcus aureus|Infectious Disease
+GAS|Group A Streptococcus|Infectious Disease
+GBS|Group B Streptococcus|Infectious Disease
+GNR|Gram-negative rods|Infectious Disease
+GPC|Gram-positive cocci|Infectious Disease
+GPR|Gram-positive rods|Infectious Disease
+GNC|Gram-negative cocci|Infectious Disease
+GNB|Gram-negative bacilli|Infectious Disease
+GPB|Gram-positive bacilli|Infectious Disease
+GNDC|Gram-negative diplococci|Infectious Disease
+GPCC|Gram-positive cocci in clusters|Infectious Disease
+GPCP|Gram-positive cocci in pairs|Infectious Disease
+GPCCh|Gram-positive cocci in chains|Infectious Disease
+ESBL|Extended-spectrum beta-lactamase|Infectious Disease
+AmpC|AmpC beta-lactamase|Infectious Disease
+CRE|Carbapenem-resistant Enterobacterales|Infectious Disease
+CRAB|Carbapenem-resistant Acinetobacter baumannii|Infectious Disease
+CRPA|Carbapenem-resistant Pseudomonas aeruginosa|Infectious Disease
+CPE|Carbapenemase-producing Enterobacterales|Infectious Disease
+KPC|Klebsiella pneumoniae carbapenemase|Infectious Disease
+NDM|New Delhi metallo-beta-lactamase|Infectious Disease
+OXA|Oxacillinase-type carbapenemase|Infectious Disease
+VIM|Verona integron-encoded metallo-beta-lactamase|Infectious Disease
+IMP|Imipenemase metallo-beta-lactamase|Infectious Disease
+MDR|Multidrug-resistant|Infectious Disease
+XDR|Extensively drug-resistant|Infectious Disease
+PDR|Pandrug-resistant|Infectious Disease
+MDRO|Multidrug-resistant organism|Infectious Disease
+DTR|Difficult-to-treat resistance|Infectious Disease
+DTR-PA|Difficult-to-treat resistant Pseudomonas aeruginosa|Infectious Disease
+PsA|Pseudomonas aeruginosa|Infectious Disease
+PSA|Pseudomonas aeruginosa|Infectious Disease
+E. coli|Escherichia coli|Infectious Disease
+K. pneumoniae|Klebsiella pneumoniae|Infectious Disease
+S. aureus|Staphylococcus aureus|Infectious Disease
+S. pneumoniae|Streptococcus pneumoniae|Infectious Disease
+C. diff|Clostridioides difficile|Infectious Disease
+CDI|Clostridioides difficile infection|Infectious Disease
+CDAD|Clostridioides difficile-associated diarrhea|Infectious Disease
+rCDI|Recurrent Clostridioides difficile infection|Infectious Disease
+FMT|Fecal microbiota transplantation|Infectious Disease
+GDH|Glutamate dehydrogenase (C. difficile screening antigen)|Infectious Disease
+NAAT|Nucleic acid amplification test|Infectious Disease
+PCR|Polymerase chain reaction|Infectious Disease
+RT-PCR|Reverse transcription polymerase chain reaction|Infectious Disease
+qPCR|Quantitative polymerase chain reaction|Infectious Disease
+mNGS|Metagenomic next-generation sequencing|Infectious Disease
+NGS|Next-generation sequencing|Infectious Disease
+WGS|Whole genome sequencing|Infectious Disease
+MALDI-TOF|Matrix-assisted laser desorption ionization time-of-flight mass spectrometry|Infectious Disease
+RADT|Rapid antigen detection test|Infectious Disease
+RIDT|Rapid influenza diagnostic test|Infectious Disease
+ELISA|Enzyme-linked immunosorbent assay|Infectious Disease
+IFA|Immunofluorescence assay|Infectious Disease
+DFA|Direct fluorescent antibody|Infectious Disease
+IHA|Indirect hemagglutination assay|Infectious Disease
+LAMP|Loop-mediated isothermal amplification|Infectious Disease
+RPR|Rapid plasma reagin|Infectious Disease
+VDRL|Venereal Disease Research Laboratory test (nontreponemal syphilis test)|Infectious Disease
+FTA-ABS|Fluorescent treponemal antibody absorption test|Infectious Disease
+TPPA|Treponema pallidum particle agglutination|Infectious Disease
+TP-PA|Treponema pallidum particle agglutination|Infectious Disease
+MHA-TP|Microhemagglutination assay for Treponema pallidum|Infectious Disease
+CSF VDRL|Cerebrospinal fluid VDRL test|Infectious Disease
+STI|Sexually transmitted infection|Infectious Disease
+STD|Sexually transmitted disease|Infectious Disease
+NGU|Nongonococcal urethritis|Infectious Disease
+PID|Pelvic inflammatory disease|Infectious Disease
+TOA|Tubo-ovarian abscess|Infectious Disease
+BV|Bacterial vaginosis|Infectious Disease
+VVC|Vulvovaginal candidiasis|Infectious Disease
+GC|Gonorrhea|Infectious Disease
+CT|Chlamydia trachomatis|Infectious Disease
+NG|Neisseria gonorrhoeae|Infectious Disease
+LGV|Lymphogranuloma venereum|Infectious Disease
+TV|Trichomonas vaginalis|Infectious Disease
+MG|Mycoplasma genitalium|Infectious Disease
+EPT|Expedited partner therapy|Infectious Disease
+UTI|Urinary tract infection|Infectious Disease
+cUTI|Complicated urinary tract infection|Infectious Disease
+CAUTI|Catheter-associated urinary tract infection|Infectious Disease
+ASB|Asymptomatic bacteriuria|Infectious Disease
+UCx|Urine culture|Infectious Disease
+BCx|Blood culture|Infectious Disease
+BCx2|Two sets of blood cultures|Infectious Disease
+PCT|Procalcitonin|Infectious Disease
+BDG|Beta-D-glucan|Infectious Disease
+CrAg|Cryptococcal antigen|Infectious Disease
+LFA|Lateral flow assay|Infectious Disease
+UAg|Urinary antigen|Infectious Disease
+LAM-TB|Urine lipoarabinomannan test for tuberculosis|Infectious Disease
+CLABSI|Central line-associated bloodstream infection|Infectious Disease
+CRBSI|Catheter-related bloodstream infection|Infectious Disease
+BSI|Bloodstream infection|Infectious Disease
+HAI|Healthcare-associated infection|Infectious Disease
+SSI|Surgical site infection|Infectious Disease
+SSTI|Skin and soft tissue infection|Infectious Disease
+ABSSSI|Acute bacterial skin and skin structure infection|Infectious Disease
+NSTI|Necrotizing soft tissue infection|Infectious Disease
+NF|Necrotizing fasciitis|Infectious Disease
+TSS|Toxic shock syndrome|Infectious Disease
+STSS|Streptococcal toxic shock syndrome|Infectious Disease
+SSSS|Staphylococcal scalded skin syndrome|Infectious Disease
+I&D|Incision and drainage|Infectious Disease
+PICC|Peripherally inserted central catheter|Infectious Disease
+CVC|Central venous catheter|Infectious Disease
+IE|Infective endocarditis|Infectious Disease
+NVE|Native valve endocarditis|Infectious Disease
+PVE|Prosthetic valve endocarditis|Infectious Disease
+CIED|Cardiac implantable electronic device|Infectious Disease
+LVAD|Left ventricular assist device|Infectious Disease
+TEE|Transesophageal echocardiogram|Infectious Disease
+TTE|Transthoracic echocardiogram|Infectious Disease
+OPAT|Outpatient parenteral antimicrobial therapy|Infectious Disease
+OPAT/OAT|Outpatient parenteral or oral antimicrobial therapy|Infectious Disease
+POET|Partial oral endocarditis treatment approach|Infectious Disease
+PJI|Prosthetic joint infection|Infectious Disease
+DAIR|Debridement, antibiotics, and implant retention|Infectious Disease
+OM|Osteomyelitis|Infectious Disease
+DFI|Diabetic foot infection|Infectious Disease
+DFO|Diabetic foot osteomyelitis|Infectious Disease
+IAI|Intra-abdominal infection|Infectious Disease
+cIAI|Complicated intra-abdominal infection|Infectious Disease
+SBP|Spontaneous bacterial peritonitis|Infectious Disease
+SBE|Subacute bacterial endocarditis|Infectious Disease
+ABE|Acute bacterial endocarditis|Infectious Disease
+ABM|Acute bacterial meningitis|Infectious Disease
+HSE|Herpes simplex encephalitis|Infectious Disease
+EVD|External ventricular drain|Infectious Disease
+VPS|Ventriculoperitoneal shunt|Infectious Disease
+NCC|Neurocysticercosis|Infectious Disease
+PCNSL|Primary central nervous system lymphoma|Infectious Disease
+FUO|Fever of unknown origin|Infectious Disease
+FWS|Fever without source|Infectious Disease
+qSOFA|Quick sequential organ failure assessment|Infectious Disease
+SOFA|Sequential organ failure assessment|Infectious Disease
+ABX|Antibiotics|Infectious Disease
+Abx|Antibiotics|Infectious Disease
+ABs|Antibiotics|Infectious Disease
+AMS|Antimicrobial stewardship|Infectious Disease
+ASP|Antimicrobial stewardship program|Infectious Disease
+AST|Antimicrobial susceptibility testing|Infectious Disease
+AFST|Antifungal susceptibility testing|Infectious Disease
+MIC|Minimum inhibitory concentration|Infectious Disease
+MBC|Minimum bactericidal concentration|Infectious Disease
+MFC|Minimum fungicidal concentration|Infectious Disease
+SDD|Susceptible dose-dependent|Infectious Disease
+PK/PD|Pharmacokinetics and pharmacodynamics|Infectious Disease
+AUC|Area under the concentration-time curve|Infectious Disease
+AUC/MIC|Ratio of area under the curve to minimum inhibitory concentration|Infectious Disease
+TDM|Therapeutic drug monitoring|Infectious Disease
+fT>MIC|Percent of time free drug concentration exceeds the minimum inhibitory concentration|Infectious Disease
+Cmax|Peak serum concentration|Infectious Disease
+Cmin|Trough serum concentration|Infectious Disease
+PAE|Postantibiotic effect|Infectious Disease
+EI|Extended infusion|Infectious Disease
+CI|Continuous infusion|Infectious Disease
+BL/BLI|Beta-lactam/beta-lactamase inhibitor|Infectious Disease
+PCN|Penicillin|Infectious Disease
+PCN G|Penicillin G|Infectious Disease
+PEN VK|Penicillin V potassium|Infectious Disease
+BPG|Benzathine penicillin G|Infectious Disease
+AMX|Amoxicillin|Infectious Disease
+AMP|Ampicillin|Infectious Disease
+AMX/CLA|Amoxicillin-clavulanate|Infectious Disease
+AMP/SUL|Ampicillin-sulbactam|Infectious Disease
+PIP/TAZO|Piperacillin-tazobactam|Infectious Disease
+PTZ|Piperacillin-tazobactam|Infectious Disease
+TZP|Piperacillin-tazobactam|Infectious Disease
+NAF|Nafcillin|Infectious Disease
+OXA|Oxacillin|Infectious Disease
+CFZ|Cefazolin|Infectious Disease
+CTX|Ceftriaxone|Infectious Disease
+CRO|Ceftriaxone|Infectious Disease
+CAZ|Ceftazidime|Infectious Disease
+FEP|Cefepime|Infectious Disease
+CXM|Cefuroxime|Infectious Disease
+CTT|Cefotetan|Infectious Disease
+CFX|Cefoxitin|Infectious Disease
+CPT|Ceftaroline|Infectious Disease
+CZA|Ceftazidime-avibactam|Infectious Disease
+C/T|Ceftolozane-tazobactam|Infectious Disease
+MEM|Meropenem|Infectious Disease
+IPM|Imipenem|Infectious Disease
+IMI/REL|Imipenem-cilastatin-relebactam|Infectious Disease
+MEV|Meropenem-vaborbactam|Infectious Disease
+ETP|Ertapenem|Infectious Disease
+ATM|Aztreonam|Infectious Disease
+AVI|Avibactam|Infectious Disease
+FDC|Cefiderocol|Infectious Disease
+VAN|Vancomycin|Infectious Disease
+VANC|Vancomycin|Infectious Disease
+DAP|Daptomycin|Infectious Disease
+LZD|Linezolid|Infectious Disease
+TEC|Teicoplanin|Infectious Disease
+TGC|Tigecycline|Infectious Disease
+ERV|Eravacycline|Infectious Disease
+OMC|Omadacycline|Infectious Disease
+DOXY|Doxycycline|Infectious Disease
+MINO|Minocycline|Infectious Disease
+TMP-SMX|Trimethoprim-sulfamethoxazole|Infectious Disease
+SMX-TMP|Sulfamethoxazole-trimethoprim|Infectious Disease
+TMP|Trimethoprim|Infectious Disease
+SMX|Sulfamethoxazole|Infectious Disease
+NFT|Nitrofurantoin|Infectious Disease
+FOS|Fosfomycin|Infectious Disease
+CIP|Ciprofloxacin|Infectious Disease
+LVX|Levofloxacin|Infectious Disease
+MXF|Moxifloxacin|Infectious Disease
+FQ|Fluoroquinolone|Infectious Disease
+AZM|Azithromycin|Infectious Disease
+CLR|Clarithromycin|Infectious Disease
+ERY|Erythromycin|Infectious Disease
+CLI|Clindamycin|Infectious Disease
+CLINDA|Clindamycin|Infectious Disease
+MTZ|Metronidazole|Infectious Disease
+GEN|Gentamicin|Infectious Disease
+TOB|Tobramycin|Infectious Disease
+AMK|Amikacin|Infectious Disease
+AG|Aminoglycoside|Infectious Disease
+PLZ|Plazomicin|Infectious Disease
+COL|Colistin|Infectious Disease
+PMB|Polymyxin B|Infectious Disease
+RFB|Rifabutin|Infectious Disease
+BDQ|Bedaquiline|Infectious Disease
+PMD|Pretomanid|Infectious Disease
+BPaL|Bedaquiline, pretomanid, and linezolid|Infectious Disease
+BPaLM|Bedaquiline, pretomanid, linezolid, and moxifloxacin|Infectious Disease
+AMB|Amphotericin B|Infectious Disease
+L-AmB|Liposomal amphotericin B|Infectious Disease
+LAmB|Liposomal amphotericin B|Infectious Disease
+ABLC|Amphotericin B lipid complex|Infectious Disease
+FLU|Fluconazole|Infectious Disease
+FLC|Fluconazole|Infectious Disease
+ITZ|Itraconazole|Infectious Disease
+VRC|Voriconazole|Infectious Disease
+POS|Posaconazole|Infectious Disease
+ISA|Isavuconazole|Infectious Disease
+CSP|Caspofungin|Infectious Disease
+MCF|Micafungin|Infectious Disease
+ANF|Anidulafungin|Infectious Disease
+5-FC|Flucytosine|Infectious Disease
+ACV|Acyclovir|Infectious Disease
+VACV|Valacyclovir|Infectious Disease
+FCV|Famciclovir|Infectious Disease
+GCV|Ganciclovir|Infectious Disease
+VGCV|Valganciclovir|Infectious Disease
+FOS-N|Foscarnet|Infectious Disease
+CDV|Cidofovir|Infectious Disease
+LET|Letermovir|Infectious Disease
+OST|Oseltamivir|Infectious Disease
+NAI|Neuraminidase inhibitor|Infectious Disease
+BXM|Baloxavir marboxil|Infectious Disease
+HCQ|Hydroxychloroquine|Infectious Disease
+CQ|Chloroquine|Infectious Disease
+AL|Artemether-lumefantrine|Infectious Disease
+AS|Artesunate|Infectious Disease
+ACT|Artemisinin-based combination therapy|Infectious Disease
+A/P|Atovaquone-proguanil|Infectious Disease
+ATQ|Atovaquone|Infectious Disease
+PQ|Primaquine|Infectious Disease
+TQ|Tafenoquine|Infectious Disease
+IVM|Ivermectin|Infectious Disease
+ALB|Albendazole|Infectious Disease
+MBZ|Mebendazole|Infectious Disease
+PZQ|Praziquantel|Infectious Disease
+NTZ|Nitazoxanide|Infectious Disease
+BZN|Benznidazole|Infectious Disease
+G6PD|Glucose-6-phosphate dehydrogenase|Infectious Disease
+IVIG|Intravenous immunoglobulin|Infectious Disease
+RIG|Rabies immune globulin|Infectious Disease
+VZIG|Varicella zoster immune globulin|Infectious Disease
+mAb|Monoclonal antibody|Infectious Disease
+PPE|Personal protective equipment|Infectious Disease
+IPC|Infection prevention and control|Infectious Disease
+CHG|Chlorhexidine gluconate|Infectious Disease
+ABHR|Alcohol-based hand rub|Infectious Disease
+PAPR|Powered air-purifying respirator|Infectious Disease
+AIIR|Airborne infection isolation room|Infectious Disease
+NPR|Negative pressure room|Infectious Disease
+TBP|Transmission-based precautions|Infectious Disease
+MRSA screen|Nasal screening for methicillin-resistant Staphylococcus aureus|Infectious Disease
+SDD-GI|Selective digestive decontamination|Infectious Disease
+SOD|Selective oropharyngeal decontamination|Infectious Disease
+IIV|Inactivated influenza vaccine|Infectious Disease
+LAIV|Live attenuated influenza vaccine|Infectious Disease
+RIV|Recombinant influenza vaccine|Infectious Disease
+HD-IIV|High-dose inactivated influenza vaccine|Infectious Disease
+PCV|Pneumococcal conjugate vaccine|Infectious Disease
+PCV13|13-valent pneumococcal conjugate vaccine|Infectious Disease
+PCV15|15-valent pneumococcal conjugate vaccine|Infectious Disease
+PCV20|20-valent pneumococcal conjugate vaccine|Infectious Disease
+PPSV23|23-valent pneumococcal polysaccharide vaccine|Infectious Disease
+MMR|Measles, mumps, and rubella vaccine|Infectious Disease
+MMRV|Measles, mumps, rubella, and varicella vaccine|Infectious Disease
+DTaP|Diphtheria, tetanus, and acellular pertussis vaccine for children|Infectious Disease
+Tdap|Tetanus, diphtheria, and acellular pertussis vaccine for adolescents and adults|Infectious Disease
+Td|Tetanus and diphtheria vaccine|Infectious Disease
+TT|Tetanus toxoid|Infectious Disease
+TIG|Tetanus immune globulin|Infectious Disease
+Hib|Haemophilus influenzae type b|Infectious Disease
+HepA|Hepatitis A vaccine|Infectious Disease
+HepB|Hepatitis B vaccine|Infectious Disease
+RZV|Recombinant zoster vaccine|Infectious Disease
+ZVL|Zoster vaccine live|Infectious Disease
+MenACWY|Meningococcal conjugate vaccine against serogroups A, C, W, and Y|Infectious Disease
+MenB|Meningococcal serogroup B vaccine|Infectious Disease
+RV|Rotavirus vaccine|Infectious Disease
+JE|Japanese encephalitis|Infectious Disease
+YF|Yellow fever|Infectious Disease
+TBE|Tick-borne encephalitis|Infectious Disease
+VPD|Vaccine-preventable disease|Infectious Disease
+AEFI|Adverse event following immunization|Infectious Disease
+FLU A|Influenza A|Infectious Disease
+FLU B|Influenza B|Infectious Disease
+H1N1|Influenza A hemagglutinin 1 neuraminidase 1 subtype|Infectious Disease
+H3N2|Influenza A hemagglutinin 3 neuraminidase 2 subtype|Infectious Disease
+H5N1|Avian influenza A hemagglutinin 5 neuraminidase 1 subtype|Infectious Disease
+EV|Enterovirus|Infectious Disease
+EV-D68|Enterovirus D68|Infectious Disease
+HFMD|Hand, foot, and mouth disease|Infectious Disease
+AFM|Acute flaccid myelitis|Infectious Disease
+NoV|Norovirus|Infectious Disease
+RVGE|Rotavirus gastroenteritis|Infectious Disease
+AGE|Acute gastroenteritis|Infectious Disease
+GE|Gastroenteritis|Infectious Disease
+STEC|Shiga toxin-producing Escherichia coli|Infectious Disease
+EHEC|Enterohemorrhagic Escherichia coli|Infectious Disease
+ETEC|Enterotoxigenic Escherichia coli|Infectious Disease
+EPEC|Enteropathogenic Escherichia coli|Infectious Disease
+EAEC|Enteroaggregative Escherichia coli|Infectious Disease
+EIEC|Enteroinvasive Escherichia coli|Infectious Disease
+HUS|Hemolytic uremic syndrome|Infectious Disease
+O&P|Ova and parasites|Infectious Disease
+GI panel|Multiplex gastrointestinal pathogen panel|Infectious Disease
+ORS|Oral rehydration solution|Infectious Disease
+ORT|Oral rehydration therapy|Infectious Disease
+TD|Travelers' diarrhea|Infectious Disease
+H. pylori|Helicobacter pylori|Infectious Disease
+HP|Helicobacter pylori|Infectious Disease
+UBT|Urea breath test|Infectious Disease
+HpSA|Helicobacter pylori stool antigen|Infectious Disease
+BMT|Bismuth quadruple therapy (bismuth, metronidazole, tetracycline, proton pump inhibitor)|Infectious Disease
+BQT|Bismuth quadruple therapy|Infectious Disease
+SIBO|Small intestinal bacterial overgrowth|Infectious Disease
+PMC|Pseudomembranous colitis|Infectious Disease
+RADT-GAS|Rapid antigen detection test for group A Streptococcus|Infectious Disease
+ASO|Antistreptolysin O|Infectious Disease
+anti-DNase B|Anti-deoxyribonuclease B antibody|Infectious Disease
+ARF|Acute rheumatic fever|Infectious Disease
+RHD|Rheumatic heart disease|Infectious Disease
+PSGN|Poststreptococcal glomerulonephritis|Infectious Disease
+PANDAS|Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections|Infectious Disease
+AOM|Acute otitis media|Infectious Disease
+OME|Otitis media with effusion|Infectious Disease
+OE|Otitis externa|Infectious Disease
+ABRS|Acute bacterial rhinosinusitis|Infectious Disease
+ARS|Acute rhinosinusitis|Infectious Disease
+CRS|Chronic rhinosinusitis|Infectious Disease
+IFRS|Invasive fungal rhinosinusitis|Infectious Disease
+TMs|Tympanic membranes|Infectious Disease
+IMD|Invasive meningococcal disease|Infectious Disease
+IPD|Invasive pneumococcal disease|Infectious Disease
+IGAS|Invasive group A streptococcal disease|Infectious Disease
+IFI|Invasive fungal infection|Infectious Disease
+ABPA|Allergic bronchopulmonary aspergillosis|Infectious Disease
+CPA|Chronic pulmonary aspergillosis|Infectious Disease
+IC-Candida|Invasive candidiasis|Infectious Disease
+OPC|Oropharyngeal candidiasis|Infectious Disease
+C. auris|Candida auris|Infectious Disease
+C. albicans|Candida albicans|Infectious Disease
+C. neoformans|Cryptococcus neoformans|Infectious Disease
+KOH|Potassium hydroxide preparation|Infectious Disease
+GMS|Gomori methenamine silver stain|Infectious Disease
+PAS|Periodic acid-Schiff stain|Infectious Disease
+PAS-D|Periodic acid-Schiff with diastase stain|Infectious Disease
+H&E|Hematoxylin and eosin stain|Infectious Disease
+ZN|Ziehl-Neelsen stain|Infectious Disease
+Gram stain|Stain that classifies bacteria as gram-positive or gram-negative|Infectious Disease
+GS|Gram stain|Infectious Disease
+C&S|Culture and sensitivity|Infectious Disease
+Cx|Culture|Infectious Disease
+NGTD|No growth to date|Infectious Disease
+NG at 5d|No growth at five days|Infectious Disease
+NGF|No growth final|Infectious Disease
+TNTC|Too numerous to count|Infectious Disease
+CFU|Colony-forming units|Infectious Disease
+TTP-ID|Time to positivity of blood culture|Infectious Disease
+TTP-BC|Time to positivity of blood cultures|Infectious Disease
+DTP|Differential time to positivity|Infectious Disease
+BCID|Blood culture identification panel|Infectious Disease
+MPP|Mycoplasma pneumoniae pneumonia|Infectious Disease
+M. pneumoniae|Mycoplasma pneumoniae|Infectious Disease
+C. pneumoniae|Chlamydia pneumoniae|Infectious Disease
+L. pneumophila|Legionella pneumophila|Infectious Disease
+LD|Legionnaires disease|Infectious Disease
+LegUAg|Legionella urinary antigen|Infectious Disease
+SpUAg|Streptococcus pneumoniae urinary antigen|Infectious Disease
+BAL|Bronchoalveolar lavage|Infectious Disease
+BALF|Bronchoalveolar lavage fluid|Infectious Disease
+TBBx|Transbronchial biopsy|Infectious Disease
+ETA|Endotracheal aspirate|Infectious Disease
+PSB|Protected specimen brush|Infectious Disease
+NP swab|Nasopharyngeal swab|Infectious Disease
+OP swab|Oropharyngeal swab|Infectious Disease
+RVP|Respiratory viral panel|Infectious Disease
+RPP|Respiratory pathogen panel|Infectious Disease
+ARDS-COVID|COVID-19-associated acute respiratory distress syndrome|Infectious Disease
+CAPA|COVID-19-associated pulmonary aspergillosis|Infectious Disease
+CAM|COVID-19-associated mucormycosis|Infectious Disease
+PASC|Post-acute sequelae of SARS-CoV-2 infection|Infectious Disease
+NMV/r|Nirmatrelvir with ritonavir|Infectious Disease
+RDV|Remdesivir|Infectious Disease
+MPV|Molnupiravir|Infectious Disease
+EUA|Emergency use authorization|Infectious Disease
+VOC|Variant of concern|Infectious Disease
+VOI|Variant of interest|Infectious Disease
+MSM|Men who have sex with men|Infectious Disease
+PWID|People who inject drugs|Infectious Disease
+IVDU|Intravenous drug use|Infectious Disease
+IDU|Injection drug use|Infectious Disease
+SSP|Syringe services program|Infectious Disease
+HRSA|Ryan White HIV/AIDS Program funding source (agency; omit)|Infectious Disease
+PLWH|People living with HIV|Infectious Disease
+PLHIV|People living with HIV|Infectious Disease
+U=U|Undetectable equals untransmittable|Infectious Disease
+LTFU|Lost to follow-up|Infectious Disease
+GRT|Genotypic resistance test|Infectious Disease
+PRT|Phenotypic resistance test|Infectious Disease
+DRM|Drug resistance mutation|Infectious Disease
+RAM|Resistance-associated mutation|Infectious Disease
+RAS|Resistance-associated substitution|Infectious Disease
+HSR|Hypersensitivity reaction|Infectious Disease
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Infectious Disease
+SJS|Stevens-Johnson syndrome|Infectious Disease
+TEN|Toxic epidermal necrolysis|Infectious Disease
+AGEP|Acute generalized exanthematous pustulosis|Infectious Disease
+AIN|Acute interstitial nephritis|Infectious Disease
+HAND|HIV-associated neurocognitive disorder|Infectious Disease
+HIVE|HIV encephalopathy|Infectious Disease
+HAD|HIV-associated dementia|Infectious Disease
+PEL|Primary effusion lymphoma|Infectious Disease
+PTLD|Post-transplant lymphoproliferative disorder|Infectious Disease
+CIN|Cervical intraepithelial neoplasia|Infectious Disease
+AIN-anal|Anal intraepithelial neoplasia|Infectious Disease
+HSIL|High-grade squamous intraepithelial lesion|Infectious Disease
+LSIL|Low-grade squamous intraepithelial lesion|Infectious Disease
+ASC-US|Atypical squamous cells of undetermined significance|Infectious Disease
+HRA|High-resolution anoscopy|Infectious Disease
+CMV retinitis|Cytomegalovirus retinitis|Infectious Disease
+ARN|Acute retinal necrosis|Infectious Disease
+PORN|Progressive outer retinal necrosis|Infectious Disease
+HZO|Herpes zoster ophthalmicus|Infectious Disease
+PHN|Postherpetic neuralgia|Infectious Disease
+TE|Toxoplasma encephalitis|Infectious Disease
+TOXO|Toxoplasmosis|Infectious Disease
+CNS TB|Central nervous system tuberculosis|Infectious Disease
+TBM|Tuberculous meningitis|Infectious Disease
+EPTB|Extrapulmonary tuberculosis|Infectious Disease
+PTB|Pulmonary tuberculosis|Infectious Disease
+MTB/RIF|Mycobacterium tuberculosis and rifampin resistance assay|Infectious Disease
+AFB smear|Acid-fast bacilli smear|Infectious Disease
+LJ|Lowenstein-Jensen medium|Infectious Disease
+MGIT|Mycobacteria growth indicator tube|Infectious Disease
+3HP|Three months of weekly isoniazid plus rifapentine|Infectious Disease
+4R|Four months of daily rifampin|Infectious Disease
+1HP|One month of daily isoniazid plus rifapentine|Infectious Disease
+6H|Six months of daily isoniazid|Infectious Disease
+9H|Nine months of daily isoniazid|Infectious Disease
+ENL|Erythema nodosum leprosum|Infectious Disease
+ECM|Erythema chronicum migrans|Infectious Disease
+LNB|Lyme neuroborreliosis|Infectious Disease
+PTLDS|Post-treatment Lyme disease syndrome|Infectious Disease
+RMSF|Rocky Mountain spotted fever|Infectious Disease
+HGA|Human granulocytic anaplasmosis|Infectious Disease
+HME|Human monocytic ehrlichiosis|Infectious Disease
+STARI|Southern tick-associated rash illness|Infectious Disease
+TBRF|Tick-borne relapsing fever|Infectious Disease
+TBD|Tick-borne disease|Infectious Disease
+CCHF|Crimean-Congo hemorrhagic fever|Infectious Disease
+VHF|Viral hemorrhagic fever|Infectious Disease
+DENV|Dengue virus|Infectious Disease
+DHF|Dengue hemorrhagic fever|Infectious Disease
+DSS|Dengue shock syndrome|Infectious Disease
+ZIKV|Zika virus|Infectious Disease
+CHIKV|Chikungunya virus|Infectious Disease
+WNV|West Nile virus|Infectious Disease
+WNND|West Nile neuroinvasive disease|Infectious Disease
+JEV|Japanese encephalitis virus|Infectious Disease
+YFV|Yellow fever virus|Infectious Disease
+LCMV|Lymphocytic choriomeningitis virus|Infectious Disease
+RABV|Rabies virus|Infectious Disease
+PEP-rabies|Rabies post-exposure prophylaxis|Infectious Disease
+HRIG|Human rabies immune globulin|Infectious Disease
+HDCV|Human diploid cell rabies vaccine|Infectious Disease
+PCECV|Purified chick embryo cell rabies vaccine|Infectious Disease
+MPXV|Monkeypox virus|Infectious Disease
+VARV|Variola virus|Infectious Disease
+TPOXX|Tecovirimat (brand name; omit)|Infectious Disease
+TPV|Tecovirimat|Infectious Disease
+VIGIV|Vaccinia immune globulin intravenous|Infectious Disease
+MCV|Molluscum contagiosum virus|Infectious Disease
+HPV-16|Human papillomavirus type 16|Infectious Disease
+HPV-18|Human papillomavirus type 18|Infectious Disease
+hrHPV|High-risk human papillomavirus|Infectious Disease
+RRP|Recurrent respiratory papillomatosis|Infectious Disease
+BKV|BK polyomavirus|Infectious Disease
+JCV|JC polyomavirus|Infectious Disease
+BKVAN|BK virus-associated nephropathy|Infectious Disease
+AdV|Adenovirus|Infectious Disease
+HCoV|Human coronavirus|Infectious Disease
+HRV|Human rhinovirus|Infectious Disease
+B19|Parvovirus B19|Infectious Disease
+PVB19|Parvovirus B19|Infectious Disease
+EBNA|Epstein-Barr nuclear antigen|Infectious Disease
+VCA|Viral capsid antigen|Infectious Disease
+EA|Early antigen|Infectious Disease
+TORCH|Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex|Infectious Disease
+cCMV|Congenital cytomegalovirus infection|Infectious Disease
+CRS-rubella|Congenital rubella syndrome|Infectious Disease
+CS|Congenital syphilis|Infectious Disease
+EOS|Early-onset sepsis|Infectious Disease
+LOS|Late-onset sepsis|Infectious Disease
+NEC|Necrotizing enterocolitis|Infectious Disease
+IAP|Intrapartum antibiotic prophylaxis|Infectious Disease
+PROM|Premature rupture of membranes|Infectious Disease
+PPROM|Preterm premature rupture of membranes|Infectious Disease
+GBS RS|Group B Streptococcus rectovaginal screen|Infectious Disease
+CMV IgG|Cytomegalovirus immunoglobulin G antibody|Infectious Disease
+SOT|Solid organ transplant|Infectious Disease
+HSCT|Hematopoietic stem cell transplant|Infectious Disease
+HCT|Hematopoietic cell transplant|Infectious Disease
+GVHD|Graft-versus-host disease|Infectious Disease
+D+/R-|Donor CMV-positive, recipient CMV-negative|Infectious Disease
+D-/R-|Donor CMV-negative, recipient CMV-negative|Infectious Disease
+CMV-CTL|Cytomegalovirus-specific cytotoxic T lymphocytes|Infectious Disease
+PET|Preemptive therapy|Infectious Disease
+FN|Febrile neutropenia|Infectious Disease
+NF|Neutropenic fever|Infectious Disease
+MASCC|Risk index score for febrile neutropenia (organization name; omit)|Infectious Disease
+HBV-R|Hepatitis B virus reactivation|Infectious Disease
+SBE ppx|Endocarditis prophylaxis|Infectious Disease

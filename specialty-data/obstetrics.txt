@@ -1,0 +1,630 @@
+G|Gravida (number of pregnancies)|Obstetrics
+P|Para (number of births after viability)|Obstetrics
+GTPAL|Gravida, term, preterm, abortions, living children|Obstetrics
+TPAL|Term, preterm, abortions, living children|Obstetrics
+SAB|Spontaneous abortion (miscarriage)|Obstetrics
+TAB|Therapeutic abortion|Obstetrics
+EAB|Elective abortion|Obstetrics
+IAB|Induced abortion|Obstetrics
+LMP|Last menstrual period|Obstetrics
+FDLMP|First day of last menstrual period|Obstetrics
+EDC|Estimated date of confinement|Obstetrics
+EDD|Estimated date of delivery|Obstetrics
+EGA|Estimated gestational age|Obstetrics
+GA|Gestational age|Obstetrics
+IUP|Intrauterine pregnancy|Obstetrics
+SIUP|Single intrauterine pregnancy|Obstetrics
+IUFD|Intrauterine fetal demise|Obstetrics
+IUFD|Intrauterine fetal death|Obstetrics
+FD|Fetal demise|Obstetrics
+SB|Stillbirth|Obstetrics
+NND|Neonatal death|Obstetrics
+EP|Ectopic pregnancy|Obstetrics
+PUL|Pregnancy of unknown location|Obstetrics
+POC|Products of conception|Obstetrics
+RPOC|Retained products of conception|Obstetrics
+D&C|Dilation and curettage|Obstetrics
+D&E|Dilation and evacuation|Obstetrics
+MVA|Manual vacuum aspiration|Obstetrics
+EVA|Electric vacuum aspiration|Obstetrics
+hCG|Human chorionic gonadotropin|Obstetrics
+bhCG|Beta human chorionic gonadotropin|Obstetrics
+GTD|Gestational trophoblastic disease|Obstetrics
+GTN|Gestational trophoblastic neoplasia|Obstetrics
+CHM|Complete hydatidiform mole|Obstetrics
+PHM|Partial hydatidiform mole|Obstetrics
+HG|Hyperemesis gravidarum|Obstetrics
+NVP|Nausea and vomiting of pregnancy|Obstetrics
+PUQE|Pregnancy-unique quantification of emesis|Obstetrics
+PNV|Prenatal vitamin|Obstetrics
+PNC|Prenatal care|Obstetrics
+PNL|Prenatal labs|Obstetrics
+OB|Obstetrics|Obstetrics
+OB/GYN|Obstetrics and gynecology|Obstetrics
+MFM|Maternal-fetal medicine|Obstetrics
+L&D|Labor and delivery|Obstetrics
+LDR|Labor, delivery and recovery room|Obstetrics
+LDRP|Labor, delivery, recovery and postpartum room|Obstetrics
+PPH|Postpartum hemorrhage|Obstetrics
+POD|Postoperative day|Obstetrics
+AP|Antepartum|Obstetrics
+IP|Intrapartum|Obstetrics
+APH|Antepartum hemorrhage|Obstetrics
+TOL|Trial of labor|Obstetrics
+TOLAC|Trial of labor after cesarean|Obstetrics
+VBAC|Vaginal birth after cesarean|Obstetrics
+VBAC2|Vaginal birth after two cesareans|Obstetrics
+RCS|Repeat cesarean section|Obstetrics
+ERCS|Elective repeat cesarean section|Obstetrics
+CS|Cesarean section|Obstetrics
+C/S|Cesarean section|Obstetrics
+LTCS|Low transverse cesarean section|Obstetrics
+LSCS|Lower segment cesarean section|Obstetrics
+CD|Cesarean delivery|Obstetrics
+PCD|Primary cesarean delivery|Obstetrics
+PLTCS|Primary low transverse cesarean section|Obstetrics
+CCS|Classical cesarean section|Obstetrics
+CPD|Cephalopelvic disproportion|Obstetrics
+NSVD|Normal spontaneous vaginal delivery|Obstetrics
+SVD|Spontaneous vaginal delivery|Obstetrics
+SVB|Spontaneous vaginal birth|Obstetrics
+AVD|Assisted vaginal delivery|Obstetrics
+OVD|Operative vaginal delivery|Obstetrics
+FAVD|Forceps-assisted vaginal delivery|Obstetrics
+VAVD|Vacuum-assisted vaginal delivery|Obstetrics
+OVB|Operative vaginal birth|Obstetrics
+SVE|Sterile vaginal exam|Obstetrics
+SSE|Sterile speculum exam|Obstetrics
+BME|Bimanual exam|Obstetrics
+FH|Fundal height|Obstetrics
+FHT|Fetal heart tones|Obstetrics
+FHR|Fetal heart rate|Obstetrics
+FHRT|Fetal heart rate tracing|Obstetrics
+EFM|Electronic fetal monitoring|Obstetrics
+CEFM|Continuous electronic fetal monitoring|Obstetrics
+IFM|Intermittent fetal monitoring|Obstetrics
+FSE|Fetal scalp electrode|Obstetrics
+IUPC|Intrauterine pressure catheter|Obstetrics
+TOCO|Tocodynamometer|Obstetrics
+NST|Nonstress test|Obstetrics
+CST|Contraction stress test|Obstetrics
+OCT|Oxytocin challenge test|Obstetrics
+BPP|Biophysical profile|Obstetrics
+mBPP|Modified biophysical profile|Obstetrics
+AFI|Amniotic fluid index|Obstetrics
+SDP|Single deepest pocket|Obstetrics
+DVP|Deepest vertical pocket|Obstetrics
+AF|Amniotic fluid|Obstetrics
+OHA|Oligohydramnios|Obstetrics
+PHA|Polyhydramnios|Obstetrics
+UA|Umbilical artery|Obstetrics
+UAD|Umbilical artery Doppler|Obstetrics
+UV|Umbilical vein|Obstetrics
+MCA|Middle cerebral artery|Obstetrics
+MCA-PSV|Middle cerebral artery peak systolic velocity|Obstetrics
+PSV|Peak systolic velocity|Obstetrics
+S/D|Systolic to diastolic ratio|Obstetrics
+AEDF|Absent end-diastolic flow|Obstetrics
+REDF|Reversed end-diastolic flow|Obstetrics
+UtA|Uterine artery|Obstetrics
+DV|Ductus venosus|Obstetrics
+EFW|Estimated fetal weight|Obstetrics
+FW|Fetal weight|Obstetrics
+BPD|Biparietal diameter|Obstetrics
+HC|Head circumference|Obstetrics
+AC|Abdominal circumference|Obstetrics
+FL|Femur length|Obstetrics
+CRL|Crown-rump length|Obstetrics
+NT|Nuchal translucency|Obstetrics
+NF|Nuchal fold|Obstetrics
+OFD|Occipitofrontal diameter|Obstetrics
+TCD|Transcerebellar diameter|Obstetrics
+CL|Cervical length|Obstetrics
+TVUS|Transvaginal ultrasound|Obstetrics
+TAUS|Transabdominal ultrasound|Obstetrics
+US|Ultrasound|Obstetrics
+U/S|Ultrasound|Obstetrics
+FAST|Focused assessment with sonography for trauma|Obstetrics
+IUGR|Intrauterine growth restriction|Obstetrics
+FGR|Fetal growth restriction|Obstetrics
+SGA|Small for gestational age|Obstetrics
+AGA|Appropriate for gestational age|Obstetrics
+SFH|Symphysis-fundal height|Obstetrics
+HC/AC|Head circumference to abdominal circumference ratio|Obstetrics
+FL/AC|Femur length to abdominal circumference ratio|Obstetrics
+CHD|Congenital heart disease|Obstetrics
+CDH|Congenital diaphragmatic hernia|Obstetrics
+NTD|Neural tube defect|Obstetrics
+CNS|Central nervous system|Obstetrics
+VM|Ventriculomegaly|Obstetrics
+AVSD|Atrioventricular septal defect|Obstetrics
+VSD|Ventricular septal defect|Obstetrics
+HLHS|Hypoplastic left heart syndrome|Obstetrics
+TTTS|Twin-twin transfusion syndrome|Obstetrics
+TRAP|Twin reversed arterial perfusion sequence|Obstetrics
+TAPS|Twin anemia polycythemia sequence|Obstetrics
+sFGR|Selective fetal growth restriction|Obstetrics
+MCDA|Monochorionic diamniotic|Obstetrics
+MCMA|Monochorionic monoamniotic|Obstetrics
+DCDA|Dichorionic diamniotic|Obstetrics
+DCTA|Dichorionic triamniotic|Obstetrics
+IVF|In vitro fertilization|Obstetrics
+ICSI|Intracytoplasmic sperm injection|Obstetrics
+IUI|Intrauterine insemination|Obstetrics
+FET|Frozen embryo transfer|Obstetrics
+OI|Ovulation induction|Obstetrics
+OHSS|Ovarian hyperstimulation syndrome|Obstetrics
+AMA|Advanced maternal age|Obstetrics
+AMA|Against medical advice|Obstetrics
+YMA|Young maternal age|Obstetrics
+BMI|Body mass index|Obstetrics
+PPBMI|Prepregnancy body mass index|Obstetrics
+GWG|Gestational weight gain|Obstetrics
+NIPT|Noninvasive prenatal testing|Obstetrics
+NIPS|Noninvasive prenatal screening|Obstetrics
+cfDNA|Cell-free DNA|Obstetrics
+CVS|Chorionic villus sampling|Obstetrics
+AFP|Alpha-fetoprotein|Obstetrics
+MSAFP|Maternal serum alpha-fetoprotein|Obstetrics
+MSS|Maternal serum screening|Obstetrics
+PAPP-A|Pregnancy-associated plasma protein A|Obstetrics
+uE3|Unconjugated estriol|Obstetrics
+DIA|Dimeric inhibin A|Obstetrics
+MoM|Multiple of the median|Obstetrics
+FTS|First trimester screen|Obstetrics
+QUAD|Quadruple screen|Obstetrics
+CF|Cystic fibrosis|Obstetrics
+SMA|Spinal muscular atrophy|Obstetrics
+T21|Trisomy 21|Obstetrics
+T18|Trisomy 18|Obstetrics
+T13|Trisomy 13|Obstetrics
+FISH|Fluorescence in situ hybridization|Obstetrics
+CMA|Chromosomal microarray analysis|Obstetrics
+SCD|Sickle cell disease|Obstetrics
+GDM|Gestational diabetes mellitus|Obstetrics
+A1GDM|Class A1 gestational diabetes (diet controlled)|Obstetrics
+A2GDM|Class A2 gestational diabetes (medication controlled)|Obstetrics
+PGDM|Pregestational diabetes mellitus|Obstetrics
+GCT|Glucose challenge test|Obstetrics
+GTT|Glucose tolerance test|Obstetrics
+OGTT|Oral glucose tolerance test|Obstetrics
+FBS|Fasting blood sugar|Obstetrics
+SMBG|Self-monitoring of blood glucose|Obstetrics
+CGM|Continuous glucose monitoring|Obstetrics
+DKA|Diabetic ketoacidosis|Obstetrics
+HTN|Hypertension|Obstetrics
+cHTN|Chronic hypertension|Obstetrics
+GHTN|Gestational hypertension|Obstetrics
+PIH|Pregnancy-induced hypertension|Obstetrics
+HDP|Hypertensive disorders of pregnancy|Obstetrics
+PEC|Preeclampsia|Obstetrics
+PreE|Preeclampsia|Obstetrics
+PEC-SF|Preeclampsia with severe features|Obstetrics
+PE|Preeclampsia|Obstetrics
+SF|Severe features|Obstetrics
+NSF|No severe features|Obstetrics
+SIPE|Superimposed preeclampsia|Obstetrics
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Obstetrics
+AFLP|Acute fatty liver of pregnancy|Obstetrics
+ICP|Intrahepatic cholestasis of pregnancy|Obstetrics
+TTP|Thrombotic thrombocytopenic purpura|Obstetrics
+HUS|Hemolytic uremic syndrome|Obstetrics
+DIC|Disseminated intravascular coagulation|Obstetrics
+MgSO4|Magnesium sulfate|Obstetrics
+Mg|Magnesium|Obstetrics
+DTR|Deep tendon reflexes|Obstetrics
+PRES|Posterior reversible encephalopathy syndrome|Obstetrics
+BP|Blood pressure|Obstetrics
+SBP|Systolic blood pressure|Obstetrics
+DBP|Diastolic blood pressure|Obstetrics
+MAP|Mean arterial pressure|Obstetrics
+PCR|Protein to creatinine ratio|Obstetrics
+UPC|Urine protein to creatinine ratio|Obstetrics
+UA|Urinalysis|Obstetrics
+UOP|Urine output|Obstetrics
+I&O|Intake and output|Obstetrics
+LFTs|Liver function tests|Obstetrics
+AST|Aspartate aminotransferase|Obstetrics
+ALT|Alanine aminotransferase|Obstetrics
+LDH|Lactate dehydrogenase|Obstetrics
+Cr|Creatinine|Obstetrics
+Plt|Platelets|Obstetrics
+CBC|Complete blood count|Obstetrics
+CMP|Comprehensive metabolic panel|Obstetrics
+BMP|Basic metabolic panel|Obstetrics
+Hgb|Hemoglobin|Obstetrics
+Hct|Hematocrit|Obstetrics
+PT|Prothrombin time|Obstetrics
+PTT|Partial thromboplastin time|Obstetrics
+INR|International normalized ratio|Obstetrics
+TEG|Thromboelastography|Obstetrics
+ROTEM|Rotational thromboelastometry|Obstetrics
+T&S|Type and screen|Obstetrics
+T&C|Type and crossmatch|Obstetrics
+PRBC|Packed red blood cells|Obstetrics
+FFP|Fresh frozen plasma|Obstetrics
+Cryo|Cryoprecipitate|Obstetrics
+MTP|Massive transfusion protocol|Obstetrics
+TXA|Tranexamic acid|Obstetrics
+EBL|Estimated blood loss|Obstetrics
+QBL|Quantitative blood loss|Obstetrics
+CBL|Calculated blood loss|Obstetrics
+BRP|Bathroom privileges|Obstetrics
+PAS|Placenta accreta spectrum|Obstetrics
+VP|Vasa previa|Obstetrics
+PA|Placental abruption|Obstetrics
+RP|Retained placenta|Obstetrics
+TOP|Termination of pregnancy|Obstetrics
+RhIG|Rh immune globulin|Obstetrics
+RhD|Rhesus D antigen|Obstetrics
+HDFN|Hemolytic disease of the fetus and newborn|Obstetrics
+HDN|Hemolytic disease of the newborn|Obstetrics
+FMH|Fetomaternal hemorrhage|Obstetrics
+FNAIT|Fetal and neonatal alloimmune thrombocytopenia|Obstetrics
+ITP|Immune thrombocytopenia|Obstetrics
+GT|Gestational thrombocytopenia|Obstetrics
+PTB|Preterm birth|Obstetrics
+PTD|Preterm delivery|Obstetrics
+sPTB|Spontaneous preterm birth|Obstetrics
+iPTB|Indicated preterm birth|Obstetrics
+PPROM|Preterm premature rupture of membranes|Obstetrics
+PROM|Premature rupture of membranes|Obstetrics
+ROM|Rupture of membranes|Obstetrics
+SROM|Spontaneous rupture of membranes|Obstetrics
+AROM|Artificial rupture of membranes|Obstetrics
+PROM|Prelabor rupture of membranes|Obstetrics
+ROMT|Rupture of membranes time|Obstetrics
+LOF|Leakage of fluid|Obstetrics
+VB|Vaginal bleeding|Obstetrics
+FM|Fetal movement|Obstetrics
+DFM|Decreased fetal movement|Obstetrics
+FKC|Fetal kick counts|Obstetrics
+CTX|Contractions|Obstetrics
+UC|Uterine contractions|Obstetrics
+BH|Braxton Hicks contractions|Obstetrics
+fFN|Fetal fibronectin|Obstetrics
+17-OHP|17-alpha hydroxyprogesterone caproate|Obstetrics
+17P|17-alpha hydroxyprogesterone caproate|Obstetrics
+ACS|Antenatal corticosteroids|Obstetrics
+BMZ|Betamethasone|Obstetrics
+NICU|Neonatal intensive care unit|Obstetrics
+CPAP|Continuous positive airway pressure|Obstetrics
+RDS|Respiratory distress syndrome|Obstetrics
+BPD|Bronchopulmonary dysplasia|Obstetrics
+IVH|Intraventricular hemorrhage|Obstetrics
+NEC|Necrotizing enterocolitis|Obstetrics
+ROP|Retinopathy of prematurity|Obstetrics
+HIE|Hypoxic-ischemic encephalopathy|Obstetrics
+TTN|Transient tachypnea of the newborn|Obstetrics
+MAS|Meconium aspiration syndrome|Obstetrics
+MSAF|Meconium-stained amniotic fluid|Obstetrics
+PPHN|Persistent pulmonary hypertension of the newborn|Obstetrics
+NRFHT|Nonreassuring fetal heart tracing|Obstetrics
+NRFS|Nonreassuring fetal status|Obstetrics
+FHRV|Fetal heart rate variability|Obstetrics
+STV|Short-term variability|Obstetrics
+Accels|Accelerations|Obstetrics
+Decels|Decelerations|Obstetrics
+CAT I|Category I fetal heart rate tracing|Obstetrics
+CAT II|Category II fetal heart rate tracing|Obstetrics
+CAT III|Category III fetal heart rate tracing|Obstetrics
+IUR|Intrauterine resuscitation|Obstetrics
+NS|Normal saline|Obstetrics
+SL|Saline lock|Obstetrics
+AI|Amnioinfusion|Obstetrics
+FBS|Fetal blood sampling|Obstetrics
+FSBS|Fetal scalp blood sampling|Obstetrics
+FPO2|Fetal pulse oximetry|Obstetrics
+UCpH|Umbilical cord pH|Obstetrics
+UACG|Umbilical artery cord gas|Obstetrics
+BD|Base deficit|Obstetrics
+BE|Base excess|Obstetrics
+Apgars|Apgar scores|Obstetrics
+UCx|Urine culture|Obstetrics
+GBS|Group B streptococcus|Obstetrics
+GBS+|Group B streptococcus positive|Obstetrics
+GBS-|Group B streptococcus negative|Obstetrics
+GBSU|Group B streptococcus bacteriuria|Obstetrics
+IAP|Intrapartum antibiotic prophylaxis|Obstetrics
+ASB|Asymptomatic bacteriuria|Obstetrics
+UTI|Urinary tract infection|Obstetrics
+PN|Pyelonephritis|Obstetrics
+BV|Bacterial vaginosis|Obstetrics
+VVC|Vulvovaginal candidiasis|Obstetrics
+STI|Sexually transmitted infection|Obstetrics
+STD|Sexually transmitted disease|Obstetrics
+HSV|Herpes simplex virus|Obstetrics
+HIV|Human immunodeficiency virus|Obstetrics
+PMTCT|Prevention of mother-to-child transmission|Obstetrics
+HBV|Hepatitis B virus|Obstetrics
+HBsAg|Hepatitis B surface antigen|Obstetrics
+HBIG|Hepatitis B immune globulin|Obstetrics
+HCV|Hepatitis C virus|Obstetrics
+CMV|Cytomegalovirus|Obstetrics
+VZV|Varicella zoster virus|Obstetrics
+VZIG|Varicella zoster immune globulin|Obstetrics
+TORCH|Toxoplasmosis, other infections, rubella, cytomegalovirus, herpes|Obstetrics
+RPR|Rapid plasma reagin|Obstetrics
+VDRL|Venereal Disease Research Laboratory test|Obstetrics
+CT|Chlamydia trachomatis|Obstetrics
+GC|Gonorrhea|Obstetrics
+NAAT|Nucleic acid amplification test|Obstetrics
+HPV|Human papillomavirus|Obstetrics
+Pap|Papanicolaou smear|Obstetrics
+MMR|Measles, mumps and rubella vaccine|Obstetrics
+Tdap|Tetanus, diphtheria and acellular pertussis vaccine|Obstetrics
+RSV|Respiratory syncytial virus|Obstetrics
+COVID|Coronavirus disease|Obstetrics
+Flu|Influenza|Obstetrics
+ZIKV|Zika virus|Obstetrics
+CAI|Chorioamnionitis|Obstetrics
+IAI|Intraamniotic infection|Obstetrics
+GC/CT|Gonorrhea and chlamydia|Obstetrics
+PID|Pelvic inflammatory disease|Obstetrics
+TOA|Tubo-ovarian abscess|Obstetrics
+SSI|Surgical site infection|Obstetrics
+MSOF|Multisystem organ failure|Obstetrics
+ARDS|Acute respiratory distress syndrome|Obstetrics
+AFE|Amniotic fluid embolism|Obstetrics
+VTE|Venous thromboembolism|Obstetrics
+DVT|Deep vein thrombosis|Obstetrics
+LMWH|Low molecular weight heparin|Obstetrics
+UFH|Unfractionated heparin|Obstetrics
+SCDs|Sequential compression devices|Obstetrics
+APS|Antiphospholipid syndrome|Obstetrics
+aPL|Antiphospholipid antibodies|Obstetrics
+LAC|Lupus anticoagulant|Obstetrics
+aCL|Anticardiolipin antibody|Obstetrics
+SLE|Systemic lupus erythematosus|Obstetrics
+RPL|Recurrent pregnancy loss|Obstetrics
+EPL|Early pregnancy loss|Obstetrics
+TA|Threatened abortion|Obstetrics
+InA|Incomplete abortion|Obstetrics
+SA|Septic abortion|Obstetrics
+ICC|Incompetent cervix|Obstetrics
+CI|Cervical insufficiency|Obstetrics
+CC|Cervical cerclage|Obstetrics
+TAC|Transabdominal cerclage|Obstetrics
+TVC|Transvaginal cerclage|Obstetrics
+CLC|Cervical length check|Obstetrics
+CRB|Cervical ripening balloon|Obstetrics
+IOL|Induction of labor|Obstetrics
+CR|Cervical ripening|Obstetrics
+PGE1|Prostaglandin E1 (misoprostol)|Obstetrics
+PGE2|Prostaglandin E2 (dinoprostone)|Obstetrics
+MTX|Methotrexate|Obstetrics
+AMTSL|Active management of the third stage of labor|Obstetrics
+CCT|Controlled cord traction|Obstetrics
+DCC|Delayed cord clamping|Obstetrics
+ECC|Early cord clamping|Obstetrics
+UCM|Umbilical cord milking|Obstetrics
+UCP|Umbilical cord prolapse|Obstetrics
+NC|Nuchal cord|Obstetrics
+SUA|Single umbilical artery|Obstetrics
+LOA|Left occiput anterior|Obstetrics
+LOP|Left occiput posterior|Obstetrics
+LOT|Left occiput transverse|Obstetrics
+ROA|Right occiput anterior|Obstetrics
+ROP|Right occiput posterior|Obstetrics
+ROT|Right occiput transverse|Obstetrics
+OA|Occiput anterior|Obstetrics
+OP|Occiput posterior|Obstetrics
+OT|Occiput transverse|Obstetrics
+ECV|External cephalic version|Obstetrics
+ICV|Internal cephalic version|Obstetrics
+TBE|Total breech extraction|Obstetrics
+ABE|Assisted breech extraction|Obstetrics
+Vtx|Vertex presentation|Obstetrics
+Cph|Cephalic presentation|Obstetrics
+SD|Shoulder dystocia|Obstetrics
+BPI|Brachial plexus injury|Obstetrics
+NBPI|Neonatal brachial plexus injury|Obstetrics
+OASIS|Obstetric anal sphincter injury|Obstetrics
+OASI|Obstetric anal sphincter injury|Obstetrics
+EAS|External anal sphincter|Obstetrics
+IAS|Internal anal sphincter|Obstetrics
+MLE|Midline episiotomy|Obstetrics
+MLE|Mediolateral episiotomy|Obstetrics
+PB|Perineal body|Obstetrics
+PFD|Pelvic floor disorder|Obstetrics
+PFMT|Pelvic floor muscle training|Obstetrics
+SUI|Stress urinary incontinence|Obstetrics
+FI|Fecal incontinence|Obstetrics
+UR|Uterine rupture|Obstetrics
+UI|Uterine inversion|Obstetrics
+UAE|Uterine artery embolization|Obstetrics
+UAL|Uterine artery ligation|Obstetrics
+BLS|B-Lynch suture|Obstetrics
+BT|Bakri balloon tamponade|Obstetrics
+UBT|Uterine balloon tamponade|Obstetrics
+IIAL|Internal iliac artery ligation|Obstetrics
+REBOA|Resuscitative endovascular balloon occlusion of the aorta|Obstetrics
+CH|Cesarean hysterectomy|Obstetrics
+PCH|Peripartum cesarean hysterectomy|Obstetrics
+TAH|Total abdominal hysterectomy|Obstetrics
+SH|Supracervical hysterectomy|Obstetrics
+BSO|Bilateral salpingo-oophorectomy|Obstetrics
+PPTL|Postpartum tubal ligation|Obstetrics
+BTL|Bilateral tubal ligation|Obstetrics
+BLTL|Bilateral tubal ligation|Obstetrics
+PPIUD|Postpartum intrauterine device|Obstetrics
+IUD|Intrauterine device|Obstetrics
+LNG-IUD|Levonorgestrel intrauterine device|Obstetrics
+LARC|Long-acting reversible contraception|Obstetrics
+COC|Combined oral contraceptive|Obstetrics
+POP|Progestin-only pill|Obstetrics
+DMPA|Depot medroxyprogesterone acetate|Obstetrics
+EC|Emergency contraception|Obstetrics
+LAM|Lactational amenorrhea method|Obstetrics
+OCP|Oral contraceptive pill|Obstetrics
+BC|Birth control|Obstetrics
+IPI|Interpregnancy interval|Obstetrics
+PCC|Preconception counseling|Obstetrics
+BF|Breastfeeding|Obstetrics
+EBF|Exclusive breastfeeding|Obstetrics
+BM|Breast milk|Obstetrics
+EBM|Expressed breast milk|Obstetrics
+LC|Lactation consultant|Obstetrics
+BFHI|Baby-friendly hospital initiative|Obstetrics
+STS|Skin-to-skin contact|Obstetrics
+MOB|Mother of baby|Obstetrics
+FOB|Father of baby|Obstetrics
+FOC|Father of child|Obstetrics
+NB|Newborn|Obstetrics
+NBN|Newborn nursery|Obstetrics
+WBN|Well baby nursery|Obstetrics
+BW|Birth weight|Obstetrics
+BWt|Birth weight|Obstetrics
+VLBW|Very low birth weight|Obstetrics
+ELBW|Extremely low birth weight|Obstetrics
+LBW|Low birth weight|Obstetrics
+EPDS|Edinburgh Postnatal Depression Scale|Obstetrics
+PHQ-9|Patient Health Questionnaire 9|Obstetrics
+PTSD|Posttraumatic stress disorder|Obstetrics
+PPP|Postpartum psychosis|Obstetrics
+SSRI|Selective serotonin reuptake inhibitor|Obstetrics
+OUD|Opioid use disorder|Obstetrics
+MOUD|Medications for opioid use disorder|Obstetrics
+NAS|Neonatal abstinence syndrome|Obstetrics
+NOWS|Neonatal opioid withdrawal syndrome|Obstetrics
+FASD|Fetal alcohol spectrum disorder|Obstetrics
+SBIRT|Screening, brief intervention, and referral to treatment|Obstetrics
+IPV|Intimate partner violence|Obstetrics
+SW|Social work|Obstetrics
+CPS|Child protective services|Obstetrics
+UDS|Urine drug screen|Obstetrics
+UTox|Urine toxicology|Obstetrics
+HROB|High-risk obstetrics|Obstetrics
+CNM|Certified nurse-midwife|Obstetrics
+CM|Certified midwife|Obstetrics
+LM|Licensed midwife|Obstetrics
+CPM|Certified professional midwife|Obstetrics
+TBA|Traditional birth attendant|Obstetrics
+r/o|Rule out|Obstetrics
+CVX|Cervix|Obstetrics
+Cx|Cervix|Obstetrics
+EFF|Effacement|Obstetrics
+FHx|Family history|Obstetrics
+SHx|Social history|Obstetrics
+PMHx|Past medical history|Obstetrics
+PSHx|Past surgical history|Obstetrics
+POBHx|Past obstetric history|Obstetrics
+OBHx|Obstetric history|Obstetrics
+PNCx|Prenatal course|Obstetrics
+T1|First trimester|Obstetrics
+T2|Second trimester|Obstetrics
+T3|Third trimester|Obstetrics
+F/U|Follow-up|Obstetrics
+RTC|Return to clinic|Obstetrics
+RTO|Return to office|Obstetrics
+ROB|Routine obstetric visit|Obstetrics
+ANC|Antenatal care|Obstetrics
+EOC|Emergency obstetric care|Obstetrics
+MMR|Maternal mortality ratio|Obstetrics
+SMM|Severe maternal morbidity|Obstetrics
+NTSV|Nulliparous, term, singleton, vertex|Obstetrics
+MEWS|Maternal early warning score|Obstetrics
+MEOWS|Modified early obstetric warning score|Obstetrics
+ICU|Intensive care unit|Obstetrics
+OR|Operating room|Obstetrics
+PACU|Post-anesthesia care unit|Obstetrics
+GETA|General endotracheal anesthesia|Obstetrics
+CSE|Combined spinal-epidural|Obstetrics
+PCEA|Patient-controlled epidural analgesia|Obstetrics
+PIEB|Programmed intermittent epidural bolus|Obstetrics
+CEI|Continuous epidural infusion|Obstetrics
+PDPH|Post-dural puncture headache|Obstetrics
+EBP|Epidural blood patch|Obstetrics
+LAST|Local anesthetic systemic toxicity|Obstetrics
+ASA|American Society of Anesthesiologists physical status|Obstetrics
+NPO|Nothing by mouth|Obstetrics
+PONV|Postoperative nausea and vomiting|Obstetrics
+TAP|Transversus abdominis plane block|Obstetrics
+QL|Quadratus lumborum block|Obstetrics
+ERAC|Enhanced recovery after cesarean|Obstetrics
+ERAS|Enhanced recovery after surgery|Obstetrics
+PCA|Patient-controlled analgesia|Obstetrics
+NSAID|Nonsteroidal anti-inflammatory drug|Obstetrics
+APAP|Acetaminophen|Obstetrics
+PO|By mouth|Obstetrics
+IV|Intravenous|Obstetrics
+IM|Intramuscular|Obstetrics
+SQ|Subcutaneous|Obstetrics
+PR|Per rectum|Obstetrics
+PV|Per vagina|Obstetrics
+SL|Sublingual|Obstetrics
+PRN|As needed|Obstetrics
+BID|Twice daily|Obstetrics
+TID|Three times daily|Obstetrics
+QID|Four times daily|Obstetrics
+QD|Once daily|Obstetrics
+Q4H|Every four hours|Obstetrics
+Q6H|Every six hours|Obstetrics
+Q8H|Every eight hours|Obstetrics
+SpO2|Peripheral oxygen saturation|Obstetrics
+RR|Respiratory rate|Obstetrics
+HR|Heart rate|Obstetrics
+Temp|Temperature|Obstetrics
+VS|Vital signs|Obstetrics
+WNL|Within normal limits|Obstetrics
+NAD|No acute distress|Obstetrics
+NT|Nontender|Obstetrics
+ND|Nondistended|Obstetrics
+NABS|Normoactive bowel sounds|Obstetrics
+REEDA|Redness, edema, ecchymosis, discharge, approximation|Obstetrics
+CVA|Costovertebral angle|Obstetrics
+CVAT|Costovertebral angle tenderness|Obstetrics
+RUQ|Right upper quadrant|Obstetrics
+LLQ|Left lower quadrant|Obstetrics
+RLQ|Right lower quadrant|Obstetrics
+LUQ|Left upper quadrant|Obstetrics
+N/V|Nausea and vomiting|Obstetrics
+N/V/D|Nausea, vomiting and diarrhea|Obstetrics
+LE|Lower extremity|Obstetrics
+BLE|Bilateral lower extremities|Obstetrics
+LEE|Lower extremity edema|Obstetrics
+CCE|Clubbing, cyanosis, edema|Obstetrics
+DOB|Date of birth|Obstetrics
+mWHO|Modified World Health Organization classification of maternal cardiovascular risk|Obstetrics
+PPCM|Peripartum cardiomyopathy|Obstetrics
+SCAD|Spontaneous coronary artery dissection|Obstetrics
+CVD|Cardiovascular disease|Obstetrics
+HF|Heart failure|Obstetrics
+EF|Ejection fraction|Obstetrics
+LVEF|Left ventricular ejection fraction|Obstetrics
+AFib|Atrial fibrillation|Obstetrics
+SVT|Supraventricular tachycardia|Obstetrics
+PAH|Pulmonary arterial hypertension|Obstetrics
+CKD|Chronic kidney disease|Obstetrics
+AKI|Acute kidney injury|Obstetrics
+ESRD|End-stage renal disease|Obstetrics
+HD|Hemodialysis|Obstetrics
+GFR|Glomerular filtration rate|Obstetrics
+eGFR|Estimated glomerular filtration rate|Obstetrics
+TSH|Thyroid-stimulating hormone|Obstetrics
+fT4|Free thyroxine|Obstetrics
+TPO|Thyroid peroxidase|Obstetrics
+PTU|Propylthiouracil|Obstetrics
+MMI|Methimazole|Obstetrics
+GD|Graves disease|Obstetrics
+PCOS|Polycystic ovary syndrome|Obstetrics
+ASCVD|Atherosclerotic cardiovascular disease|Obstetrics
+OSA|Obstructive sleep apnea|Obstetrics
+GERD|Gastroesophageal reflux disease|Obstetrics
+IBD|Inflammatory bowel disease|Obstetrics
+ASD|Atrial septal defect|Obstetrics
+ASA|Aspirin|Obstetrics
+LDA|Low-dose aspirin|Obstetrics
+IDA|Iron deficiency anemia|Obstetrics
+DHA|Docosahexaenoic acid|Obstetrics
+AED|Antiepileptic drug|Obstetrics
+ASM|Antiseizure medication|Obstetrics
+LTG|Lamotrigine|Obstetrics
+LEV|Levetiracetam|Obstetrics
+VPA|Valproic acid|Obstetrics
+ACEi|Angiotensin-converting enzyme inhibitor|Obstetrics
+ARB|Angiotensin receptor blocker|Obstetrics
+CCB|Calcium channel blocker|Obstetrics
+BB|Beta blocker|Obstetrics
+CaGluc|Calcium gluconate|Obstetrics
+NKDA|No known drug allergies|Obstetrics

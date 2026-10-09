@@ -1,0 +1,608 @@
+AIDS|Acquired immunodeficiency syndrome|Public Health
+HIV|Human immunodeficiency virus|Public Health
+PrEP|Pre-exposure prophylaxis|Public Health
+PEP|Post-exposure prophylaxis|Public Health
+nPEP|Non-occupational post-exposure prophylaxis|Public Health
+ART|Antiretroviral therapy|Public Health
+ARV|Antiretroviral|Public Health
+cART|Combination antiretroviral therapy|Public Health
+PMTCT|Prevention of mother-to-child transmission|Public Health
+MTCT|Mother-to-child transmission|Public Health
+STI|Sexually transmitted infection|Public Health
+STD|Sexually transmitted disease|Public Health
+TB|Tuberculosis|Public Health
+LTBI|Latent tuberculosis infection|Public Health
+MDR-TB|Multidrug-resistant tuberculosis|Public Health
+XDR-TB|Extensively drug-resistant tuberculosis|Public Health
+DOT|Directly observed therapy|Public Health
+DOTS|Directly observed treatment, short course|Public Health
+IGRA|Interferon-gamma release assay|Public Health
+PPD|Purified protein derivative (tuberculin skin test)|Public Health
+TST|Tuberculin skin test|Public Health
+AFB|Acid-fast bacilli|Public Health
+HBV|Hepatitis B virus|Public Health
+HCV|Hepatitis C virus|Public Health
+HAV|Hepatitis A virus|Public Health
+HEV|Hepatitis E virus|Public Health
+HBsAg|Hepatitis B surface antigen|Public Health
+HBcAb|Hepatitis B core antibody|Public Health
+HBsAb|Hepatitis B surface antibody|Public Health
+HBIG|Hepatitis B immune globulin|Public Health
+HPV|Human papillomavirus|Public Health
+HSV|Herpes simplex virus|Public Health
+CMV|Cytomegalovirus|Public Health
+EBV|Epstein-Barr virus|Public Health
+VZV|Varicella-zoster virus|Public Health
+RSV|Respiratory syncytial virus|Public Health
+MERS|Middle East respiratory syndrome|Public Health
+SARS|Severe acute respiratory syndrome|Public Health
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2|Public Health
+COVID-19|Coronavirus disease 2019|Public Health
+ILI|Influenza-like illness|Public Health
+URI|Upper respiratory infection|Public Health
+LRTI|Lower respiratory tract infection|Public Health
+UTI|Urinary tract infection|Public Health
+MRSA|Methicillin-resistant Staphylococcus aureus|Public Health
+MSSA|Methicillin-susceptible Staphylococcus aureus|Public Health
+VRE|Vancomycin-resistant enterococcus|Public Health
+CRE|Carbapenem-resistant Enterobacterales|Public Health
+ESBL|Extended-spectrum beta-lactamase|Public Health
+CDI|Clostridioides difficile infection|Public Health
+C diff|Clostridioides difficile|Public Health
+HAI|Healthcare-associated infection|Public Health
+CLABSI|Central line-associated bloodstream infection|Public Health
+CAUTI|Catheter-associated urinary tract infection|Public Health
+VAP|Ventilator-associated pneumonia|Public Health
+SSI|Surgical site infection|Public Health
+HAP|Hospital-acquired pneumonia|Public Health
+CAP|Community-acquired pneumonia|Public Health
+MDRO|Multidrug-resistant organism|Public Health
+AMR|Antimicrobial resistance|Public Health
+AMS|Antimicrobial stewardship|Public Health
+IPC|Infection prevention and control|Public Health
+PPE|Personal protective equipment|Public Health
+N95|Respirator filtering at least 95 percent of airborne particles|Public Health
+HEPA|High-efficiency particulate air (filter)|Public Health
+AIIR|Airborne infection isolation room|Public Health
+NPI|Nonpharmaceutical intervention|Public Health
+ABHR|Alcohol-based hand rub|Public Health
+MMR|Measles, mumps, rubella (vaccine)|Public Health
+MMRV|Measles, mumps, rubella, varicella (vaccine)|Public Health
+DTaP|Diphtheria, tetanus, acellular pertussis (pediatric vaccine)|Public Health
+Tdap|Tetanus, diphtheria, acellular pertussis (adolescent/adult vaccine)|Public Health
+Td|Tetanus and diphtheria toxoids (booster)|Public Health
+DT|Diphtheria and tetanus toxoids (pediatric)|Public Health
+IPV|Inactivated poliovirus vaccine|Public Health
+OPV|Oral poliovirus vaccine|Public Health
+Hib|Haemophilus influenzae type b|Public Health
+PCV|Pneumococcal conjugate vaccine|Public Health
+PCV13|13-valent pneumococcal conjugate vaccine|Public Health
+PCV15|15-valent pneumococcal conjugate vaccine|Public Health
+PCV20|20-valent pneumococcal conjugate vaccine|Public Health
+PPSV23|23-valent pneumococcal polysaccharide vaccine|Public Health
+MCV4|Quadrivalent meningococcal conjugate vaccine|Public Health
+MenB|Meningococcal serogroup B vaccine|Public Health
+HepA|Hepatitis A vaccine|Public Health
+HepB|Hepatitis B vaccine|Public Health
+RZV|Recombinant zoster vaccine|Public Health
+LAIV|Live attenuated influenza vaccine|Public Health
+IIV|Inactivated influenza vaccine|Public Health
+RIV|Recombinant influenza vaccine|Public Health
+BCG|Bacillus Calmette-Guerin (tuberculosis vaccine)|Public Health
+RV|Rotavirus vaccine|Public Health
+VPD|Vaccine-preventable disease|Public Health
+VE|Vaccine effectiveness|Public Health
+VAERS|Vaccine adverse event reporting|Public Health
+AEFI|Adverse event following immunization|Public Health
+IG|Immune globulin|Public Health
+RIG|Rabies immune globulin|Public Health
+TIG|Tetanus immune globulin|Public Health
+VZIG|Varicella-zoster immune globulin|Public Health
+mRNA|Messenger ribonucleic acid (vaccine platform)|Public Health
+UIP|Universal immunization program|Public Health
+EPI|Expanded program on immunization|Public Health
+NTD|Neglected tropical disease|Public Health
+VBD|Vector-borne disease|Public Health
+ITN|Insecticide-treated net|Public Health
+IRS|Indoor residual spraying|Public Health
+ACT|Artemisinin-based combination therapy|Public Health
+RDT|Rapid diagnostic test|Public Health
+SMC|Seasonal malaria chemoprevention|Public Health
+WASH|Water, sanitation and hygiene|Public Health
+ORS|Oral rehydration solution|Public Health
+ORT|Oral rehydration therapy|Public Health
+IMCI|Integrated management of childhood illness|Public Health
+AFP|Acute flaccid paralysis|Public Health
+HFMD|Hand, foot and mouth disease|Public Health
+VHF|Viral hemorrhagic fever|Public Health
+EVD|Ebola virus disease|Public Health
+MPOX|Monkeypox (mpox)|Public Health
+PHEIC|Public health emergency of international concern|Public Health
+PHE|Public health emergency|Public Health
+PH|Public health|Public Health
+EID|Emerging infectious disease|Public Health
+NNDSS|Nationally notifiable disease surveillance|Public Health
+ICD|International classification of diseases|Public Health
+ICD-10|International classification of diseases, 10th revision|Public Health
+ICD-11|International classification of diseases, 11th revision|Public Health
+SDOH|Social determinants of health|Public Health
+SES|Socioeconomic status|Public Health
+HiAP|Health in all policies|Public Health
+HIA|Health impact assessment|Public Health
+CHA|Community health assessment|Public Health
+CHIP|Community health improvement plan|Public Health
+CHW|Community health worker|Public Health
+PHC|Primary health care|Public Health
+UHC|Universal health coverage|Public Health
+LMIC|Low- and middle-income countries|Public Health
+HIC|High-income country|Public Health
+LIC|Low-income country|Public Health
+MCH|Maternal and child health|Public Health
+MMR|Maternal mortality ratio|Public Health
+IMR|Infant mortality rate|Public Health
+NMR|Neonatal mortality rate|Public Health
+U5MR|Under-five mortality rate|Public Health
+CBR|Crude birth rate|Public Health
+CDR|Crude death rate|Public Health
+TFR|Total fertility rate|Public Health
+ASMR|Age-standardized mortality rate|Public Health
+SMR|Standardized mortality ratio|Public Health
+YLL|Years of life lost|Public Health
+YLD|Years lived with disability|Public Health
+DALY|Disability-adjusted life year|Public Health
+QALY|Quality-adjusted life year|Public Health
+HALE|Health-adjusted life expectancy|Public Health
+LE|Life expectancy|Public Health
+YPLL|Years of potential life lost|Public Health
+BOD|Burden of disease|Public Health
+GBD|Global burden of disease|Public Health
+RR|Relative risk|Public Health
+OR|Odds ratio|Public Health
+HR|Hazard ratio|Public Health
+IRR|Incidence rate ratio|Public Health
+PR|Prevalence ratio|Public Health
+ARR|Absolute risk reduction|Public Health
+RRR|Relative risk reduction|Public Health
+NNT|Number needed to treat|Public Health
+NNH|Number needed to harm|Public Health
+NNS|Number needed to screen|Public Health
+NNV|Number needed to vaccinate|Public Health
+AR|Attributable risk|Public Health
+PAR|Population attributable risk|Public Health
+PAF|Population attributable fraction|Public Health
+CI|Confidence interval|Public Health
+SD|Standard deviation|Public Health
+SE|Standard error|Public Health
+SEM|Standard error of the mean|Public Health
+IQR|Interquartile range|Public Health
+CV|Coefficient of variation|Public Health
+PPV|Positive predictive value|Public Health
+NPV|Negative predictive value|Public Health
+LR|Likelihood ratio|Public Health
+LR+|Positive likelihood ratio|Public Health
+LR-|Negative likelihood ratio|Public Health
+ROC|Receiver operating characteristic|Public Health
+AUC|Area under the curve|Public Health
+RCT|Randomized controlled trial|Public Health
+ITT|Intention to treat|Public Health
+PP|Per protocol|Public Health
+CRT|Cluster randomized trial|Public Health
+NRCT|Non-randomized controlled trial|Public Health
+RWE|Real-world evidence|Public Health
+RWD|Real-world data|Public Health
+SR|Systematic review|Public Health
+MA|Meta-analysis|Public Health
+PICO|Population, intervention, comparison, outcome|Public Health
+CEA|Cost-effectiveness analysis|Public Health
+CBA|Cost-benefit analysis|Public Health
+CUA|Cost-utility analysis|Public Health
+ICER|Incremental cost-effectiveness ratio|Public Health
+ROI|Return on investment|Public Health
+WTP|Willingness to pay|Public Health
+QI|Quality improvement|Public Health
+PDSA|Plan, do, study, act|Public Health
+CQI|Continuous quality improvement|Public Health
+RCA|Root cause analysis|Public Health
+FMEA|Failure mode and effects analysis|Public Health
+EBM|Evidence-based medicine|Public Health
+EBP|Evidence-based practice|Public Health
+GRADE|Grading of recommendations, assessment, development and evaluations|Public Health
+HTA|Health technology assessment|Public Health
+CER|Comparative effectiveness research|Public Health
+PCOR|Patient-centered outcomes research|Public Health
+CBPR|Community-based participatory research|Public Health
+PAR|Participatory action research|Public Health
+IRB|Institutional review board|Public Health
+GCP|Good clinical practice|Public Health
+PROM|Patient-reported outcome measure|Public Health
+PRO|Patient-reported outcome|Public Health
+PREM|Patient-reported experience measure|Public Health
+HRQoL|Health-related quality of life|Public Health
+QoL|Quality of life|Public Health
+ADL|Activities of daily living|Public Health
+IADL|Instrumental activities of daily living|Public Health
+BMI|Body mass index|Public Health
+WC|Waist circumference|Public Health
+WHR|Waist-to-hip ratio|Public Health
+FPG|Fasting plasma glucose|Public Health
+OGTT|Oral glucose tolerance test|Public Health
+HbA1c|Glycated hemoglobin|Public Health
+NCD|Noncommunicable disease|Public Health
+CVD|Cardiovascular disease|Public Health
+CHD|Coronary heart disease|Public Health
+CKD|Chronic kidney disease|Public Health
+COPD|Chronic obstructive pulmonary disease|Public Health
+T2DM|Type 2 diabetes mellitus|Public Health
+T1DM|Type 1 diabetes mellitus|Public Health
+GDM|Gestational diabetes mellitus|Public Health
+HTN|Hypertension|Public Health
+CRC|Colorectal cancer|Public Health
+FIT|Fecal immunochemical test|Public Health
+FOBT|Fecal occult blood test|Public Health
+gFOBT|Guaiac-based fecal occult blood test|Public Health
+LDCT|Low-dose computed tomography|Public Health
+AAA|Abdominal aortic aneurysm|Public Health
+DCIS|Ductal carcinoma in situ|Public Health
+CIN|Cervical intraepithelial neoplasia|Public Health
+ASCUS|Atypical squamous cells of undetermined significance|Public Health
+LSIL|Low-grade squamous intraepithelial lesion|Public Health
+HSIL|High-grade squamous intraepithelial lesion|Public Health
+Pap|Papanicolaou smear (cervical cytology)|Public Health
+VIA|Visual inspection with acetic acid|Public Health
+HRT|Hormone replacement therapy|Public Health
+OCP|Oral contraceptive pill|Public Health
+COC|Combined oral contraceptive|Public Health
+IUD|Intrauterine device|Public Health
+LARC|Long-acting reversible contraception|Public Health
+EC|Emergency contraception|Public Health
+DMPA|Depot medroxyprogesterone acetate|Public Health
+SRH|Sexual and reproductive health|Public Health
+FP|Family planning|Public Health
+ANC|Antenatal care|Public Health
+PNC|Postnatal care|Public Health
+TBA|Traditional birth attendant|Public Health
+EmONC|Emergency obstetric and newborn care|Public Health
+LBW|Low birth weight|Public Health
+VLBW|Very low birth weight|Public Health
+SGA|Small for gestational age|Public Health
+IUGR|Intrauterine growth restriction|Public Health
+PTB|Preterm birth|Public Health
+SIDS|Sudden infant death syndrome|Public Health
+SUID|Sudden unexpected infant death|Public Health
+FAS|Fetal alcohol syndrome|Public Health
+FASD|Fetal alcohol spectrum disorder|Public Health
+NAS|Neonatal abstinence syndrome|Public Health
+NOWS|Neonatal opioid withdrawal syndrome|Public Health
+WIC|Women, infants and children (nutrition program)|Public Health
+SNAP|Supplemental nutrition assistance program|Public Health
+BF|Breastfeeding|Public Health
+EBF|Exclusive breastfeeding|Public Health
+SAM|Severe acute malnutrition|Public Health
+MAM|Moderate acute malnutrition|Public Health
+GAM|Global acute malnutrition|Public Health
+PEM|Protein-energy malnutrition|Public Health
+MUAC|Mid-upper arm circumference|Public Health
+RUTF|Ready-to-use therapeutic food|Public Health
+IDA|Iron deficiency anemia|Public Health
+VAD|Vitamin A deficiency|Public Health
+IDD|Iodine deficiency disorder|Public Health
+WFH|Weight-for-height|Public Health
+HFA|Height-for-age|Public Health
+WFA|Weight-for-age|Public Health
+SUD|Substance use disorder|Public Health
+OUD|Opioid use disorder|Public Health
+AUD|Alcohol use disorder|Public Health
+MOUD|Medication for opioid use disorder|Public Health
+MAT|Medication-assisted treatment|Public Health
+OAT|Opioid agonist treatment|Public Health
+OTP|Opioid treatment program|Public Health
+SSP|Syringe services program|Public Health
+NSP|Needle and syringe program|Public Health
+PWID|People who inject drugs|Public Health
+IDU|Injection drug use|Public Health
+MSM|Men who have sex with men|Public Health
+WSW|Women who have sex with women|Public Health
+SBIRT|Screening, brief intervention and referral to treatment|Public Health
+AUDIT|Alcohol use disorders identification test|Public Health
+CAGE|Cut down, annoyed, guilty, eye-opener (alcohol screening questions)|Public Health
+NRT|Nicotine replacement therapy|Public Health
+ENDS|Electronic nicotine delivery system|Public Health
+EVALI|E-cigarette or vaping product use-associated lung injury|Public Health
+SHS|Secondhand smoke|Public Health
+ETS|Environmental tobacco smoke|Public Health
+PY|Pack-years|Public Health
+PPD|Packs per day|Public Health
+BAC|Blood alcohol concentration|Public Health
+DUI|Driving under the influence|Public Health
+IPV|Intimate partner violence|Public Health
+ACE|Adverse childhood experience|Public Health
+CAN|Child abuse and neglect|Public Health
+SV|Sexual violence|Public Health
+PTSD|Posttraumatic stress disorder|Public Health
+MDD|Major depressive disorder|Public Health
+GAD|Generalized anxiety disorder|Public Health
+SI|Suicidal ideation|Public Health
+PHQ-9|Patient Health Questionnaire, 9 items|Public Health
+GAD-7|Generalized Anxiety Disorder 7-item scale|Public Health
+MSDS|Material safety data sheet|Public Health
+SDS|Safety data sheet|Public Health
+TWA|Time-weighted average|Public Health
+PEL|Permissible exposure limit|Public Health
+REL|Recommended exposure limit|Public Health
+TLV|Threshold limit value|Public Health
+STEL|Short-term exposure limit|Public Health
+IDLH|Immediately dangerous to life or health|Public Health
+LD50|Median lethal dose|Public Health
+LC50|Median lethal concentration|Public Health
+NOAEL|No observed adverse effect level|Public Health
+LOAEL|Lowest observed adverse effect level|Public Health
+MCL|Maximum contaminant level|Public Health
+PFAS|Per- and polyfluoroalkyl substances|Public Health
+VOC|Volatile organic compound|Public Health
+PM2.5|Particulate matter 2.5 microns or smaller|Public Health
+PM10|Particulate matter 10 microns or smaller|Public Health
+AQI|Air quality index|Public Health
+COHb|Carboxyhemoglobin|Public Health
+BLL|Blood lead level|Public Health
+EBLL|Elevated blood lead level|Public Health
+PCB|Polychlorinated biphenyl|Public Health
+DDT|Dichlorodiphenyltrichloroethane|Public Health
+POPs|Persistent organic pollutants|Public Health
+NO2|Nitrogen dioxide|Public Health
+SO2|Sulfur dioxide|Public Health
+O3|Ozone|Public Health
+WBGT|Wet bulb globe temperature|Public Health
+UV|Ultraviolet|Public Health
+UVI|Ultraviolet index|Public Health
+SPF|Sun protection factor|Public Health
+NIHL|Noise-induced hearing loss|Public Health
+MSD|Musculoskeletal disorder|Public Health
+WMSD|Work-related musculoskeletal disorder|Public Health
+CTS|Carpal tunnel syndrome|Public Health
+RSI|Repetitive strain injury|Public Health
+OH|Occupational health|Public Health
+OEM|Occupational and environmental medicine|Public Health
+EH|Environmental health|Public Health
+IH|Industrial hygiene|Public Health
+HCW|Health care worker|Public Health
+HCP|Health care personnel|Public Health
+EMS|Emergency medical services|Public Health
+EMT|Emergency medical technician|Public Health
+MCI|Mass casualty incident|Public Health
+ICS|Incident command system|Public Health
+EOC|Emergency operations center|Public Health
+PODs|Points of dispensing|Public Health
+CBRN|Chemical, biological, radiological and nuclear|Public Health
+CBRNE|Chemical, biological, radiological, nuclear and explosive|Public Health
+HAZMAT|Hazardous materials|Public Health
+START|Simple triage and rapid treatment|Public Health
+PFA|Psychological first aid|Public Health
+BLS|Basic life support|Public Health
+ACLS|Advanced cardiac life support|Public Health
+AED|Automated external defibrillator|Public Health
+CPR|Cardiopulmonary resuscitation|Public Health
+CDS|Clinical decision support|Public Health
+EHR|Electronic health record|Public Health
+EMR|Electronic medical record|Public Health
+HIE|Health information exchange|Public Health
+PHI|Protected health information|Public Health
+PII|Personally identifiable information|Public Health
+HIT|Health information technology|Public Health
+IIS|Immunization information system|Public Health
+ELR|Electronic laboratory reporting|Public Health
+eCR|Electronic case reporting|Public Health
+GIS|Geographic information system|Public Health
+CHW|Community health worker|Public Health
+PCP|Primary care provider|Public Health
+PCMH|Patient-centered medical home|Public Health
+ACO|Accountable care organization|Public Health
+HMO|Health maintenance organization|Public Health
+PPO|Preferred provider organization|Public Health
+HDHP|High-deductible health plan|Public Health
+HSA|Health savings account|Public Health
+FSA|Flexible spending account|Public Health
+FFS|Fee for service|Public Health
+VBC|Value-based care|Public Health
+P4P|Pay for performance|Public Health
+FQHC|Federally qualified health center|Public Health
+RHC|Rural health clinic|Public Health
+CAH|Critical access hospital|Public Health
+SNF|Skilled nursing facility|Public Health
+LTC|Long-term care|Public Health
+LTCF|Long-term care facility|Public Health
+ALF|Assisted living facility|Public Health
+HHA|Home health aide|Public Health
+DME|Durable medical equipment|Public Health
+ED|Emergency department|Public Health
+LOS|Length of stay|Public Health
+ALOS|Average length of stay|Public Health
+DRG|Diagnosis-related group|Public Health
+HIPAA|Health insurance portability and accountability act (as a privacy rule)|Public Health
+ACA|Affordable care act|Public Health
+LEP|Limited English proficiency|Public Health
+CLAS|Culturally and linguistically appropriate services|Public Health
+DEI|Diversity, equity and inclusion|Public Health
+SGM|Sexual and gender minority|Public Health
+LGBTQ|Lesbian, gay, bisexual, transgender and queer or questioning|Public Health
+SOGI|Sexual orientation and gender identity|Public Health
+GAHT|Gender-affirming hormone therapy|Public Health
+IPT|Isoniazid preventive therapy|Public Health
+INH|Isoniazid|Public Health
+RIF|Rifampin|Public Health
+RPT|Rifapentine|Public Health
+3HP|Three months of weekly isoniazid and rifapentine|Public Health
+4R|Four months of daily rifampin|Public Health
+TMP-SMX|Trimethoprim-sulfamethoxazole|Public Health
+PZA|Pyrazinamide|Public Health
+EMB|Ethambutol|Public Health
+HRZE|Isoniazid, rifampin, pyrazinamide, ethambutol|Public Health
+PCN|Penicillin|Public Health
+BPG|Benzathine penicillin G|Public Health
+IVIG|Intravenous immune globulin|Public Health
+NAAT|Nucleic acid amplification test|Public Health
+PCR|Polymerase chain reaction|Public Health
+RT-PCR|Reverse transcription polymerase chain reaction|Public Health
+EIA|Enzyme immunoassay|Public Health
+ELISA|Enzyme-linked immunosorbent assay|Public Health
+WB|Western blot|Public Health
+RPR|Rapid plasma reagin|Public Health
+VDRL|Venereal disease research laboratory test|Public Health
+TPPA|Treponema pallidum particle agglutination|Public Health
+FTA-ABS|Fluorescent treponemal antibody absorption test|Public Health
+NG|Neisseria gonorrhoeae|Public Health
+TV|Trichomonas vaginalis|Public Health
+BV|Bacterial vaginosis|Public Health
+PID|Pelvic inflammatory disease|Public Health
+NGU|Nongonococcal urethritis|Public Health
+LGV|Lymphogranuloma venereum|Public Health
+EPT|Expedited partner therapy|Public Health
+CT/NG|Chlamydia and gonorrhea|Public Health
+VL|Viral load|Public Health
+SVR|Sustained virologic response|Public Health
+DAA|Direct-acting antiviral|Public Health
+U=U|Undetectable equals untransmittable|Public Health
+CD4|Cluster of differentiation 4 (T-helper cell count)|Public Health
+OI|Opportunistic infection|Public Health
+PJP|Pneumocystis jirovecii pneumonia|Public Health
+PCP|Pneumocystis pneumonia|Public Health
+MAC|Mycobacterium avium complex|Public Health
+NTM|Nontuberculous mycobacteria|Public Health
+IRIS|Immune reconstitution inflammatory syndrome|Public Health
+ID|Infectious disease|Public Health
+CFR|Case fatality rate|Public Health
+IFR|Infection fatality rate|Public Health
+AR|Attack rate|Public Health
+SAR|Secondary attack rate|Public Health
+R0|Basic reproduction number|Public Health
+Rt|Effective reproduction number|Public Health
+CFR|Case fatality ratio|Public Health
+PMR|Proportionate mortality ratio|Public Health
+IR|Incidence rate|Public Health
+CI|Cumulative incidence|Public Health
+ID|Incidence density|Public Health
+PY|Person-years|Public Health
+PT|Person-time|Public Health
+PWD|People with disabilities|Public Health
+SMR|Standardized morbidity ratio|Public Health
+SIR|Standardized incidence ratio|Public Health
+SIR|Susceptible, infectious, recovered (epidemic model)|Public Health
+SEIR|Susceptible, exposed, infectious, recovered (epidemic model)|Public Health
+PUI|Person under investigation|Public Health
+PUM|Person under monitoring|Public Health
+CT|Contact tracing|Public Health
+LHD|Local health department|Public Health
+SHD|State health department|Public Health
+MOH|Ministry of health|Public Health
+NGO|Nongovernmental organization|Public Health
+CBO|Community-based organization|Public Health
+FBO|Faith-based organization|Public Health
+M&E|Monitoring and evaluation|Public Health
+KPI|Key performance indicator|Public Health
+SMART|Specific, measurable, achievable, relevant, time-bound (objectives)|Public Health
+SWOT|Strengths, weaknesses, opportunities, threats|Public Health
+KAP|Knowledge, attitudes and practices (survey)|Public Health
+FGD|Focus group discussion|Public Health
+KII|Key informant interview|Public Health
+LQAS|Lot quality assurance sampling|Public Health
+PPS|Probability proportional to size|Public Health
+SRS|Simple random sample|Public Health
+MCAR|Missing completely at random|Public Health
+MAR|Missing at random|Public Health
+MNAR|Missing not at random|Public Health
+GEE|Generalized estimating equations|Public Health
+GLM|Generalized linear model|Public Health
+ANOVA|Analysis of variance|Public Health
+ANCOVA|Analysis of covariance|Public Health
+MLR|Multiple linear regression|Public Health
+KM|Kaplan-Meier|Public Health
+PH|Proportional hazards|Public Health
+DAG|Directed acyclic graph|Public Health
+RD|Risk difference|Public Health
+HWE|Hardy-Weinberg equilibrium|Public Health
+GWAS|Genome-wide association study|Public Health
+SNP|Single nucleotide polymorphism|Public Health
+PRS|Polygenic risk score|Public Health
+NBS|Newborn screening|Public Health
+PKU|Phenylketonuria|Public Health
+CF|Cystic fibrosis|Public Health
+SCD|Sickle cell disease|Public Health
+CCHD|Critical congenital heart disease|Public Health
+EHDI|Early hearing detection and intervention|Public Health
+ASD|Autism spectrum disorder|Public Health
+ADHD|Attention-deficit/hyperactivity disorder|Public Health
+IDD|Intellectual and developmental disability|Public Health
+CSHCN|Children with special health care needs|Public Health
+EI|Early intervention|Public Health
+IEP|Individualized education program|Public Health
+IFSP|Individualized family service plan|Public Health
+CPS|Child protective services|Public Health
+APS|Adult protective services|Public Health
+CHIP|Children's health insurance program|Public Health
+EPSDT|Early and periodic screening, diagnostic and treatment|Public Health
+MIS-C|Multisystem inflammatory syndrome in children|Public Health
+AFM|Acute flaccid myelitis|Public Health
+GBS|Group B streptococcus|Public Health
+GBS|Guillain-Barre syndrome|Public Health
+GAS|Group A streptococcus|Public Health
+iGAS|Invasive group A streptococcus|Public Health
+IPD|Invasive pneumococcal disease|Public Health
+IMD|Invasive meningococcal disease|Public Health
+STEC|Shiga toxin-producing Escherichia coli|Public Health
+EHEC|Enterohemorrhagic Escherichia coli|Public Health
+HUS|Hemolytic uremic syndrome|Public Health
+TSS|Toxic shock syndrome|Public Health
+PEP|Postexposure prophylaxis|Public Health
+RMSF|Rocky Mountain spotted fever|Public Health
+WNV|West Nile virus|Public Health
+ZIKV|Zika virus|Public Health
+CHIKV|Chikungunya virus|Public Health
+DENV|Dengue virus|Public Health
+JE|Japanese encephalitis|Public Health
+YF|Yellow fever|Public Health
+HPAI|Highly pathogenic avian influenza|Public Health
+H5N1|Influenza A subtype with hemagglutinin 5 and neuraminidase 1|Public Health
+LTBI|Latent tuberculosis infection treatment candidate|Public Health
+MDA|Mass drug administration|Public Health
+PC|Preventive chemotherapy|Public Health
+LF|Lymphatic filariasis|Public Health
+STH|Soil-transmitted helminths|Public Health
+VL|Visceral leishmaniasis|Public Health
+CL|Cutaneous leishmaniasis|Public Health
+HAT|Human African trypanosomiasis|Public Health
+GWD|Guinea worm disease|Public Health
+RHD|Rheumatic heart disease|Public Health
+ARF|Acute rheumatic fever|Public Health
+ARI|Acute respiratory infection|Public Health
+SARI|Severe acute respiratory infection|Public Health
+ADD|Acute diarrheal disease|Public Health
+AWD|Acute watery diarrhea|Public Health
+IPC|Infection prevention and control program|Public Health
+HH|Hand hygiene|Public Health
+SBAR|Situation, background, assessment, recommendation|Public Health
+TTM|Transtheoretical model|Public Health
+HBM|Health belief model|Public Health
+MI|Motivational interviewing|Public Health
+CBT|Cognitive behavioral therapy|Public Health
+SCT|Social cognitive theory|Public Health
+BCC|Behavior change communication|Public Health
+IEC|Information, education and communication|Public Health
+DPP|Diabetes prevention program|Public Health
+LCD|Low-calorie diet|Public Health
+MVPA|Moderate-to-vigorous physical activity|Public Health
+MET|Metabolic equivalent of task|Public Health
+RDA|Recommended dietary allowance|Public Health
+DRI|Dietary reference intake|Public Health
+AI|Adequate intake|Public Health
+UL|Tolerable upper intake level|Public Health
+EAR|Estimated average requirement|Public Health
+AMDR|Acceptable macronutrient distribution range|Public Health
+DGA|Dietary guidelines for Americans|Public Health
+SSB|Sugar-sweetened beverage|Public Health
+UPF|Ultra-processed food|Public Health
+SFA|Saturated fatty acid|Public Health
+FOP|Front-of-package (labeling)|Public Health
+FBDG|Food-based dietary guidelines|Public Health
+HACCP|Hazard analysis and critical control points|Public Health
+FBI|Foodborne illness|Public Health
+FBD|Foodborne disease|Public Health
+GMP|Good manufacturing practice|Public Health

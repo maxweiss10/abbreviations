@@ -1,0 +1,700 @@
+RA|Rheumatoid arthritis|Rheumatology
+SLE|Systemic lupus erythematosus|Rheumatology
+CLE|Cutaneous lupus erythematosus|Rheumatology
+DLE|Discoid lupus erythematosus|Rheumatology
+SCLE|Subacute cutaneous lupus erythematosus|Rheumatology
+ACLE|Acute cutaneous lupus erythematosus|Rheumatology
+LN|Lupus nephritis|Rheumatology
+NPSLE|Neuropsychiatric systemic lupus erythematosus|Rheumatology
+DIL|Drug-induced lupus|Rheumatology
+APS|Antiphospholipid syndrome|Rheumatology
+APLS|Antiphospholipid antibody syndrome|Rheumatology
+CAPS|Catastrophic antiphospholipid syndrome|Rheumatology
+CAPS|Cryopyrin-associated periodic syndromes|Rheumatology
+aPL|Antiphospholipid antibodies|Rheumatology
+LA|Lupus anticoagulant|Rheumatology
+aCL|Anticardiolipin antibody|Rheumatology
+anti-β2GPI|Anti-beta-2 glycoprotein I antibody|Rheumatology
+β2GPI|Beta-2 glycoprotein I|Rheumatology
+ANA|Antinuclear antibody|Rheumatology
+ENA|Extractable nuclear antigen|Rheumatology
+dsDNA|Double-stranded DNA|Rheumatology
+anti-dsDNA|Anti-double-stranded DNA antibody|Rheumatology
+anti-Sm|Anti-Smith antibody|Rheumatology
+RNP|Ribonucleoprotein|Rheumatology
+U1-RNP|U1 ribonucleoprotein|Rheumatology
+SSA|Sjogren syndrome antigen A (Ro)|Rheumatology
+SSB|Sjogren syndrome antigen B (La)|Rheumatology
+RF|Rheumatoid factor|Rheumatology
+CCP|Cyclic citrullinated peptide|Rheumatology
+anti-CCP|Anti-cyclic citrullinated peptide antibody|Rheumatology
+ACPA|Anti-citrullinated protein antibody|Rheumatology
+ANCA|Antineutrophil cytoplasmic antibody|Rheumatology
+cANCA|Cytoplasmic antineutrophil cytoplasmic antibody|Rheumatology
+pANCA|Perinuclear antineutrophil cytoplasmic antibody|Rheumatology
+PR3|Proteinase 3|Rheumatology
+MPO|Myeloperoxidase|Rheumatology
+PR3-ANCA|Proteinase 3 antineutrophil cytoplasmic antibody|Rheumatology
+MPO-ANCA|Myeloperoxidase antineutrophil cytoplasmic antibody|Rheumatology
+AAV|ANCA-associated vasculitis|Rheumatology
+GPA|Granulomatosis with polyangiitis|Rheumatology
+MPA|Microscopic polyangiitis|Rheumatology
+EGPA|Eosinophilic granulomatosis with polyangiitis|Rheumatology
+PAN|Polyarteritis nodosa|Rheumatology
+GCA|Giant cell arteritis|Rheumatology
+TAK|Takayasu arteritis|Rheumatology
+PMR|Polymyalgia rheumatica|Rheumatology
+HSP|Henoch-Schonlein purpura (IgA vasculitis)|Rheumatology
+IgAV|IgA vasculitis|Rheumatology
+CV|Cryoglobulinemic vasculitis|Rheumatology
+PACNS|Primary angiitis of the central nervous system|Rheumatology
+CNSV|Central nervous system vasculitis|Rheumatology
+LVV|Large vessel vasculitis|Rheumatology
+SVV|Small vessel vasculitis|Rheumatology
+MVV|Medium vessel vasculitis|Rheumatology
+HUV|Hypocomplementemic urticarial vasculitis|Rheumatology
+AS|Ankylosing spondylitis|Rheumatology
+axSpA|Axial spondyloarthritis|Rheumatology
+nr-axSpA|Non-radiographic axial spondyloarthritis|Rheumatology
+r-axSpA|Radiographic axial spondyloarthritis|Rheumatology
+SpA|Spondyloarthritis|Rheumatology
+PsA|Psoriatic arthritis|Rheumatology
+ReA|Reactive arthritis|Rheumatology
+EnA|Enteropathic arthritis|Rheumatology
+SI|Sacroiliac|Rheumatology
+SIJ|Sacroiliac joint|Rheumatology
+JIA|Juvenile idiopathic arthritis|Rheumatology
+sJIA|Systemic juvenile idiopathic arthritis|Rheumatology
+pJIA|Polyarticular juvenile idiopathic arthritis|Rheumatology
+oJIA|Oligoarticular juvenile idiopathic arthritis|Rheumatology
+ERA|Enthesitis-related arthritis|Rheumatology
+JDM|Juvenile dermatomyositis|Rheumatology
+JSLE|Juvenile systemic lupus erythematosus|Rheumatology
+cSLE|Childhood-onset systemic lupus erythematosus|Rheumatology
+AOSD|Adult-onset Still disease|Rheumatology
+SoJIA|Systemic-onset juvenile idiopathic arthritis|Rheumatology
+MAS|Macrophage activation syndrome|Rheumatology
+HLH|Hemophagocytic lymphohistiocytosis|Rheumatology
+SSc|Systemic sclerosis|Rheumatology
+lcSSc|Limited cutaneous systemic sclerosis|Rheumatology
+dcSSc|Diffuse cutaneous systemic sclerosis|Rheumatology
+ssSSc|Systemic sclerosis sine scleroderma|Rheumatology
+SRC|Scleroderma renal crisis|Rheumatology
+RP|Raynaud phenomenon|Rheumatology
+RP|Relapsing polychondritis|Rheumatology
+PRP|Primary Raynaud phenomenon|Rheumatology
+SRP|Secondary Raynaud phenomenon|Rheumatology
+DU|Digital ulcer|Rheumatology
+GAVE|Gastric antral vascular ectasia|Rheumatology
+CREST|Calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, telangiectasia|Rheumatology
+ACA|Anticentromere antibody|Rheumatology
+Scl-70|Topoisomerase I antibody (scleroderma 70)|Rheumatology
+anti-topo I|Anti-topoisomerase I antibody|Rheumatology
+RNAP III|RNA polymerase III|Rheumatology
+anti-RNAP III|Anti-RNA polymerase III antibody|Rheumatology
+MCTD|Mixed connective tissue disease|Rheumatology
+UCTD|Undifferentiated connective tissue disease|Rheumatology
+CTD|Connective tissue disease|Rheumatology
+CTD-ILD|Connective tissue disease-associated interstitial lung disease|Rheumatology
+CTD-PAH|Connective tissue disease-associated pulmonary arterial hypertension|Rheumatology
+ILD|Interstitial lung disease|Rheumatology
+RA-ILD|Rheumatoid arthritis-associated interstitial lung disease|Rheumatology
+SSc-ILD|Systemic sclerosis-associated interstitial lung disease|Rheumatology
+PAH|Pulmonary arterial hypertension|Rheumatology
+PH|Pulmonary hypertension|Rheumatology
+UIP|Usual interstitial pneumonia|Rheumatology
+NSIP|Nonspecific interstitial pneumonia|Rheumatology
+OP|Organizing pneumonia|Rheumatology
+DAH|Diffuse alveolar hemorrhage|Rheumatology
+IPAF|Interstitial pneumonia with autoimmune features|Rheumatology
+HRCT|High-resolution computed tomography|Rheumatology
+DLCO|Diffusing capacity of the lung for carbon monoxide|Rheumatology
+FVC|Forced vital capacity|Rheumatology
+PFT|Pulmonary function test|Rheumatology
+PFTs|Pulmonary function tests|Rheumatology
+IIM|Idiopathic inflammatory myopathy|Rheumatology
+DM|Dermatomyositis|Rheumatology
+PM|Polymyositis|Rheumatology
+IBM|Inclusion body myositis|Rheumatology
+IMNM|Immune-mediated necrotizing myopathy|Rheumatology
+NAM|Necrotizing autoimmune myopathy|Rheumatology
+ASS|Antisynthetase syndrome|Rheumatology
+CADM|Clinically amyopathic dermatomyositis|Rheumatology
+MSA|Myositis-specific antibody|Rheumatology
+MAA|Myositis-associated antibody|Rheumatology
+MDA5|Melanoma differentiation-associated protein 5|Rheumatology
+anti-MDA5|Anti-melanoma differentiation-associated protein 5 antibody|Rheumatology
+TIF1-γ|Transcription intermediary factor 1 gamma|Rheumatology
+NXP2|Nuclear matrix protein 2|Rheumatology
+SAE|Small ubiquitin-like modifier activating enzyme|Rheumatology
+HMGCR|3-hydroxy-3-methylglutaryl-CoA reductase|Rheumatology
+anti-HMGCR|Anti-HMG-CoA reductase antibody|Rheumatology
+SRP|Signal recognition particle|Rheumatology
+anti-SRP|Anti-signal recognition particle antibody|Rheumatology
+Mi-2|Anti-Mi-2 antibody (nucleosome remodeling deacetylase)|Rheumatology
+Jo-1|Anti-histidyl-tRNA synthetase antibody|Rheumatology
+CK|Creatine kinase|Rheumatology
+CPK|Creatine phosphokinase|Rheumatology
+EMG|Electromyography|Rheumatology
+NCS|Nerve conduction studies|Rheumatology
+MMT|Manual muscle testing|Rheumatology
+MMT8|Manual muscle testing of eight muscle groups|Rheumatology
+CDASI|Cutaneous dermatomyositis disease area and severity index|Rheumatology
+SjS|Sjogren syndrome|Rheumatology
+pSS|Primary Sjogren syndrome|Rheumatology
+sSS|Secondary Sjogren syndrome|Rheumatology
+KCS|Keratoconjunctivitis sicca|Rheumatology
+SGUS|Salivary gland ultrasound|Rheumatology
+MSG|Minor salivary gland|Rheumatology
+LSGB|Labial salivary gland biopsy|Rheumatology
+FS|Focus score|Rheumatology
+OA|Osteoarthritis|Rheumatology
+KOA|Knee osteoarthritis|Rheumatology
+HOA|Hip osteoarthritis|Rheumatology
+DJD|Degenerative joint disease|Rheumatology
+CMC|Carpometacarpal|Rheumatology
+DIP|Distal interphalangeal|Rheumatology
+PIP|Proximal interphalangeal|Rheumatology
+MCP|Metacarpophalangeal|Rheumatology
+MTP|Metatarsophalangeal|Rheumatology
+IP|Interphalangeal|Rheumatology
+TMJ|Temporomandibular joint|Rheumatology
+AC|Acromioclavicular|Rheumatology
+SC|Sternoclavicular|Rheumatology
+GH|Glenohumeral|Rheumatology
+ROM|Range of motion|Rheumatology
+AROM|Active range of motion|Rheumatology
+PROM|Passive range of motion|Rheumatology
+MSK|Musculoskeletal|Rheumatology
+MSK US|Musculoskeletal ultrasound|Rheumatology
+PDUS|Power Doppler ultrasound|Rheumatology
+TJC|Tender joint count|Rheumatology
+SJC|Swollen joint count|Rheumatology
+TJC28|Tender joint count of 28 joints|Rheumatology
+SJC28|Swollen joint count of 28 joints|Rheumatology
+DAS|Disease activity score|Rheumatology
+DAS28|Disease activity score in 28 joints|Rheumatology
+DAS28-ESR|Disease activity score in 28 joints using erythrocyte sedimentation rate|Rheumatology
+DAS28-CRP|Disease activity score in 28 joints using C-reactive protein|Rheumatology
+CDAI|Clinical disease activity index|Rheumatology
+SDAI|Simplified disease activity index|Rheumatology
+RAPID3|Routine assessment of patient index data 3|Rheumatology
+HAQ|Health assessment questionnaire|Rheumatology
+HAQ-DI|Health assessment questionnaire disability index|Rheumatology
+PGA|Patient global assessment|Rheumatology
+PhGA|Physician global assessment|Rheumatology
+PtGA|Patient global assessment|Rheumatology
+VAS|Visual analog scale|Rheumatology
+NRS|Numeric rating scale|Rheumatology
+BASDAI|Bath ankylosing spondylitis disease activity index|Rheumatology
+BASFI|Bath ankylosing spondylitis functional index|Rheumatology
+BASMI|Bath ankylosing spondylitis metrology index|Rheumatology
+ASDAS|Ankylosing spondylitis disease activity score|Rheumatology
+ASDAS-CRP|Ankylosing spondylitis disease activity score using C-reactive protein|Rheumatology
+mSASSS|Modified Stoke ankylosing spondylitis spinal score|Rheumatology
+MASES|Maastricht ankylosing spondylitis enthesitis score|Rheumatology
+DAPSA|Disease activity in psoriatic arthritis|Rheumatology
+cDAPSA|Clinical disease activity in psoriatic arthritis|Rheumatology
+MDA|Minimal disease activity|Rheumatology
+PASI|Psoriasis area and severity index|Rheumatology
+BSA|Body surface area|Rheumatology
+PASE|Psoriatic arthritis screening and evaluation|Rheumatology
+SLEDAI|Systemic lupus erythematosus disease activity index|Rheumatology
+SLEDAI-2K|Systemic lupus erythematosus disease activity index 2000|Rheumatology
+SELENA-SLEDAI|Safety of estrogens in lupus erythematosus national assessment version of the SLEDAI|Rheumatology
+BILAG|British Isles lupus assessment group index|Rheumatology
+SDI|Systemic lupus international collaborating clinics damage index|Rheumatology
+CLASI|Cutaneous lupus erythematosus disease area and severity index|Rheumatology
+LLDAS|Lupus low disease activity state|Rheumatology
+SRI|Systemic lupus erythematosus responder index|Rheumatology
+BVAS|Birmingham vasculitis activity score|Rheumatology
+VDI|Vasculitis damage index|Rheumatology
+FFS|Five-factor score|Rheumatology
+mRSS|Modified Rodnan skin score|Rheumatology
+SHAQ|Scleroderma health assessment questionnaire|Rheumatology
+CRISS|Combined response index in systemic sclerosis|Rheumatology
+RCS|Raynaud condition score|Rheumatology
+CRP|C-reactive protein|Rheumatology
+hsCRP|High-sensitivity C-reactive protein|Rheumatology
+ESR|Erythrocyte sedimentation rate|Rheumatology
+SED rate|Erythrocyte sedimentation rate|Rheumatology
+C3|Complement component 3|Rheumatology
+C4|Complement component 4|Rheumatology
+CH50|Total hemolytic complement activity|Rheumatology
+CBC|Complete blood count|Rheumatology
+CMP|Comprehensive metabolic panel|Rheumatology
+BMP|Basic metabolic panel|Rheumatology
+LFTs|Liver function tests|Rheumatology
+UA|Urinalysis|Rheumatology
+UPCR|Urine protein to creatinine ratio|Rheumatology
+UACR|Urine albumin to creatinine ratio|Rheumatology
+ACR|Albumin to creatinine ratio|Rheumatology
+PCR|Polymerase chain reaction|Rheumatology
+GFR|Glomerular filtration rate|Rheumatology
+eGFR|Estimated glomerular filtration rate|Rheumatology
+Cr|Creatinine|Rheumatology
+SCr|Serum creatinine|Rheumatology
+BUN|Blood urea nitrogen|Rheumatology
+RBC|Red blood cell|Rheumatology
+WBC|White blood cell|Rheumatology
+ALC|Absolute lymphocyte count|Rheumatology
+ANC|Absolute neutrophil count|Rheumatology
+AEC|Absolute eosinophil count|Rheumatology
+Hgb|Hemoglobin|Rheumatology
+Plt|Platelets|Rheumatology
+LDH|Lactate dehydrogenase|Rheumatology
+AST|Aspartate aminotransferase|Rheumatology
+ALT|Alanine aminotransferase|Rheumatology
+ALP|Alkaline phosphatase|Rheumatology
+GGT|Gamma-glutamyl transferase|Rheumatology
+TSH|Thyroid-stimulating hormone|Rheumatology
+HbA1c|Hemoglobin A1c|Rheumatology
+IgG|Immunoglobulin G|Rheumatology
+IgA|Immunoglobulin A|Rheumatology
+IgM|Immunoglobulin M|Rheumatology
+IgE|Immunoglobulin E|Rheumatology
+IgG4|Immunoglobulin G subclass 4|Rheumatology
+IgG4-RD|Immunoglobulin G4-related disease|Rheumatology
+IVIG|Intravenous immunoglobulin|Rheumatology
+SCIG|Subcutaneous immunoglobulin|Rheumatology
+SPEP|Serum protein electrophoresis|Rheumatology
+UPEP|Urine protein electrophoresis|Rheumatology
+SFLC|Serum free light chains|Rheumatology
+IFE|Immunofixation electrophoresis|Rheumatology
+IFA|Indirect immunofluorescence assay|Rheumatology
+IIF|Indirect immunofluorescence|Rheumatology
+DIF|Direct immunofluorescence|Rheumatology
+ELISA|Enzyme-linked immunosorbent assay|Rheumatology
+EIA|Enzyme immunoassay|Rheumatology
+CIA|Chemiluminescence immunoassay|Rheumatology
+MFI|Median fluorescence intensity|Rheumatology
+RVVT|Russell viper venom time|Rheumatology
+dRVVT|Dilute Russell viper venom time|Rheumatology
+aPTT|Activated partial thromboplastin time|Rheumatology
+PTT|Partial thromboplastin time|Rheumatology
+PT|Prothrombin time|Rheumatology
+INR|International normalized ratio|Rheumatology
+VTE|Venous thromboembolism|Rheumatology
+DVT|Deep vein thrombosis|Rheumatology
+PE|Pulmonary embolism|Rheumatology
+TTP|Thrombotic thrombocytopenic purpura|Rheumatology
+TMA|Thrombotic microangiopathy|Rheumatology
+HUS|Hemolytic uremic syndrome|Rheumatology
+ITP|Immune thrombocytopenia|Rheumatology
+AIHA|Autoimmune hemolytic anemia|Rheumatology
+DAT|Direct antiglobulin test|Rheumatology
+HIT|Heparin-induced thrombocytopenia|Rheumatology
+DIC|Disseminated intravascular coagulation|Rheumatology
+FMF|Familial Mediterranean fever|Rheumatology
+TRAPS|Tumor necrosis factor receptor-associated periodic syndrome|Rheumatology
+HIDS|Hyperimmunoglobulinemia D with periodic fever syndrome|Rheumatology
+MKD|Mevalonate kinase deficiency|Rheumatology
+PFAPA|Periodic fever, aphthous stomatitis, pharyngitis, and adenitis|Rheumatology
+NOMID|Neonatal-onset multisystem inflammatory disease|Rheumatology
+FCAS|Familial cold autoinflammatory syndrome|Rheumatology
+MWS|Muckle-Wells syndrome|Rheumatology
+DIRA|Deficiency of interleukin-1 receptor antagonist|Rheumatology
+SAID|Systemic autoinflammatory disease|Rheumatology
+VEXAS|Vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic syndrome|Rheumatology
+CRMO|Chronic recurrent multifocal osteomyelitis|Rheumatology
+CNO|Chronic nonbacterial osteomyelitis|Rheumatology
+SAPHO|Synovitis, acne, pustulosis, hyperostosis, osteitis|Rheumatology
+BD|Behcet disease|Rheumatology
+NBD|Neuro-Behcet disease|Rheumatology
+KD|Kawasaki disease|Rheumatology
+MIS-C|Multisystem inflammatory syndrome in children|Rheumatology
+MIS-A|Multisystem inflammatory syndrome in adults|Rheumatology
+CRS|Cytokine release syndrome|Rheumatology
+RS3PE|Remitting seronegative symmetrical synovitis with pitting edema|Rheumatology
+CPPD|Calcium pyrophosphate deposition disease|Rheumatology
+CPP|Calcium pyrophosphate|Rheumatology
+CPPD|Calcium pyrophosphate dihydrate|Rheumatology
+MSU|Monosodium urate|Rheumatology
+UA|Uric acid|Rheumatology
+sUA|Serum uric acid|Rheumatology
+ULT|Urate-lowering therapy|Rheumatology
+DECT|Dual-energy computed tomography|Rheumatology
+HA|Hydroxyapatite|Rheumatology
+BCP|Basic calcium phosphate|Rheumatology
+SF|Synovial fluid|Rheumatology
+SFA|Synovial fluid analysis|Rheumatology
+WBC/hpf|White blood cells per high-power field|Rheumatology
+PMN|Polymorphonuclear leukocyte|Rheumatology
+PMNs|Polymorphonuclear leukocytes|Rheumatology
+LE|Lupus erythematosus|Rheumatology
+LE cell|Lupus erythematosus cell|Rheumatology
+DLE|Discoid lupus erythematosus (chronic cutaneous)|Rheumatology
+TLE|Tumid lupus erythematosus|Rheumatology
+LEP|Lupus erythematosus profundus|Rheumatology
+NLE|Neonatal lupus erythematosus|Rheumatology
+CHB|Congenital heart block|Rheumatology
+PRES|Posterior reversible encephalopathy syndrome|Rheumatology
+RCVS|Reversible cerebral vasoconstriction syndrome|Rheumatology
+CNS|Central nervous system|Rheumatology
+PNS|Peripheral nervous system|Rheumatology
+GI|Gastrointestinal|Rheumatology
+GERD|Gastroesophageal reflux disease|Rheumatology
+PPI|Proton pump inhibitor|Rheumatology
+NSAID|Nonsteroidal anti-inflammatory drug|Rheumatology
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Rheumatology
+COX-2|Cyclooxygenase-2|Rheumatology
+COX|Cyclooxygenase|Rheumatology
+ASA|Acetylsalicylic acid (aspirin)|Rheumatology
+APAP|Acetaminophen|Rheumatology
+DMARD|Disease-modifying antirheumatic drug|Rheumatology
+DMARDs|Disease-modifying antirheumatic drugs|Rheumatology
+csDMARD|Conventional synthetic disease-modifying antirheumatic drug|Rheumatology
+bDMARD|Biologic disease-modifying antirheumatic drug|Rheumatology
+tsDMARD|Targeted synthetic disease-modifying antirheumatic drug|Rheumatology
+boDMARD|Biologic originator disease-modifying antirheumatic drug|Rheumatology
+bsDMARD|Biosimilar disease-modifying antirheumatic drug|Rheumatology
+MTX|Methotrexate|Rheumatology
+HCQ|Hydroxychloroquine|Rheumatology
+MPA|Mycophenolic acid|Rheumatology
+CYC|Cyclophosphamide|Rheumatology
+CsA|Cyclosporine|Rheumatology
+ADA|Adalimumab|Rheumatology
+MP|Methylprednisolone|Rheumatology
+IVMP|Intravenous methylprednisolone|Rheumatology
+IV|Intravenous|Rheumatology
+PO|By mouth|Rheumatology
+SC|Subcutaneous|Rheumatology
+SQ|Subcutaneous|Rheumatology
+SubQ|Subcutaneous|Rheumatology
+IM|Intramuscular|Rheumatology
+IA|Intra-articular|Rheumatology
+IL|Intralesional|Rheumatology
+PRN|As needed|Rheumatology
+QD|Once daily|Rheumatology
+BID|Twice daily|Rheumatology
+TID|Three times daily|Rheumatology
+QID|Four times daily|Rheumatology
+QHS|Every night at bedtime|Rheumatology
+qwk|Once weekly|Rheumatology
+q2wk|Every 2 weeks|Rheumatology
+q4wk|Every 4 weeks|Rheumatology
+q8wk|Every 8 weeks|Rheumatology
+GC|Glucocorticoid|Rheumatology
+GCs|Glucocorticoids|Rheumatology
+GIOP|Glucocorticoid-induced osteoporosis|Rheumatology
+CS|Corticosteroid|Rheumatology
+ICS|Inhaled corticosteroid|Rheumatology
+CCS|Corticosteroid|Rheumatology
+ACTH|Adrenocorticotropic hormone|Rheumatology
+TNF|Tumor necrosis factor|Rheumatology
+TNFi|Tumor necrosis factor inhibitor|Rheumatology
+TNF-α|Tumor necrosis factor alpha|Rheumatology
+IL-1|Interleukin 1|Rheumatology
+IL-1β|Interleukin 1 beta|Rheumatology
+IL-6|Interleukin 6|Rheumatology
+IL-6R|Interleukin 6 receptor|Rheumatology
+IL-17|Interleukin 17|Rheumatology
+IL-23|Interleukin 23|Rheumatology
+IL-12|Interleukin 12|Rheumatology
+IL-5|Interleukin 5|Rheumatology
+IL-18|Interleukin 18|Rheumatology
+IL-2|Interleukin 2|Rheumatology
+IFN|Interferon|Rheumatology
+IFN-α|Interferon alpha|Rheumatology
+IFN-γ|Interferon gamma|Rheumatology
+JAK|Janus kinase|Rheumatology
+JAKi|Janus kinase inhibitor|Rheumatology
+STAT|Signal transducer and activator of transcription|Rheumatology
+BAFF|B-cell activating factor|Rheumatology
+BLyS|B lymphocyte stimulator|Rheumatology
+APRIL|A proliferation-inducing ligand|Rheumatology
+PDE4|Phosphodiesterase 4|Rheumatology
+PDE5|Phosphodiesterase 5|Rheumatology
+PDE5i|Phosphodiesterase 5 inhibitor|Rheumatology
+ERA|Endothelin receptor antagonist|Rheumatology
+CCB|Calcium channel blocker|Rheumatology
+ACEi|Angiotensin-converting enzyme inhibitor|Rheumatology
+ARB|Angiotensin receptor blocker|Rheumatology
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Rheumatology
+DOAC|Direct oral anticoagulant|Rheumatology
+LMWH|Low molecular weight heparin|Rheumatology
+UFH|Unfractionated heparin|Rheumatology
+VKA|Vitamin K antagonist|Rheumatology
+TPE|Therapeutic plasma exchange|Rheumatology
+PLEX|Plasma exchange|Rheumatology
+HSCT|Hematopoietic stem cell transplantation|Rheumatology
+AHSCT|Autologous hematopoietic stem cell transplantation|Rheumatology
+CAR-T|Chimeric antigen receptor T-cell therapy|Rheumatology
+PJP|Pneumocystis jirovecii pneumonia|Rheumatology
+PCP|Pneumocystis pneumonia|Rheumatology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Rheumatology
+TB|Tuberculosis|Rheumatology
+LTBI|Latent tuberculosis infection|Rheumatology
+PPD|Purified protein derivative|Rheumatology
+TST|Tuberculin skin test|Rheumatology
+IGRA|Interferon-gamma release assay|Rheumatology
+HBV|Hepatitis B virus|Rheumatology
+HCV|Hepatitis C virus|Rheumatology
+HBsAg|Hepatitis B surface antigen|Rheumatology
+HBcAb|Hepatitis B core antibody|Rheumatology
+HBsAb|Hepatitis B surface antibody|Rheumatology
+HIV|Human immunodeficiency virus|Rheumatology
+CMV|Cytomegalovirus|Rheumatology
+EBV|Epstein-Barr virus|Rheumatology
+VZV|Varicella zoster virus|Rheumatology
+HZ|Herpes zoster|Rheumatology
+HPV|Human papillomavirus|Rheumatology
+PML|Progressive multifocal leukoencephalopathy|Rheumatology
+OI|Opportunistic infection|Rheumatology
+PTLD|Post-transplant lymphoproliferative disorder|Rheumatology
+NMSC|Nonmelanoma skin cancer|Rheumatology
+MACE|Major adverse cardiovascular events|Rheumatology
+CVD|Cardiovascular disease|Rheumatology
+ASCVD|Atherosclerotic cardiovascular disease|Rheumatology
+CAD|Coronary artery disease|Rheumatology
+MI|Myocardial infarction|Rheumatology
+HTN|Hypertension|Rheumatology
+DM2|Type 2 diabetes mellitus|Rheumatology
+T2DM|Type 2 diabetes mellitus|Rheumatology
+HLD|Hyperlipidemia|Rheumatology
+CKD|Chronic kidney disease|Rheumatology
+AKI|Acute kidney injury|Rheumatology
+ESRD|End-stage renal disease|Rheumatology
+RPGN|Rapidly progressive glomerulonephritis|Rheumatology
+GN|Glomerulonephritis|Rheumatology
+PIGN|Pauci-immune glomerulonephritis|Rheumatology
+MN|Membranous nephropathy|Rheumatology
+MPGN|Membranoproliferative glomerulonephritis|Rheumatology
+FSGS|Focal segmental glomerulosclerosis|Rheumatology
+MCD|Minimal change disease|Rheumatology
+NS|Nephrotic syndrome|Rheumatology
+AI|Activity index|Rheumatology
+CI|Chronicity index|Rheumatology
+RRT|Renal replacement therapy|Rheumatology
+HD|Hemodialysis|Rheumatology
+CR|Complete response|Rheumatology
+PR|Partial response|Rheumatology
+CRR|Complete renal response|Rheumatology
+PRR|Partial renal response|Rheumatology
+OR|Overall response|Rheumatology
+ACR20|Twenty percent improvement in rheumatoid arthritis response criteria|Rheumatology
+ACR50|Fifty percent improvement in rheumatoid arthritis response criteria|Rheumatology
+ACR70|Seventy percent improvement in rheumatoid arthritis response criteria|Rheumatology
+MCID|Minimal clinically important difference|Rheumatology
+MDC|Minimal detectable change|Rheumatology
+PASS|Patient acceptable symptom state|Rheumatology
+PRO|Patient-reported outcome|Rheumatology
+PROs|Patient-reported outcomes|Rheumatology
+PROM|Patient-reported outcome measure|Rheumatology
+QoL|Quality of life|Rheumatology
+HRQoL|Health-related quality of life|Rheumatology
+SF-36|Short Form 36 health survey|Rheumatology
+FACIT-F|Functional assessment of chronic illness therapy fatigue|Rheumatology
+WOMAC|Western Ontario and McMaster Universities osteoarthritis index|Rheumatology
+KOOS|Knee injury and osteoarthritis outcome score|Rheumatology
+HOOS|Hip disability and osteoarthritis outcome score|Rheumatology
+AUSCAN|Australian/Canadian hand osteoarthritis index|Rheumatology
+JSN|Joint space narrowing|Rheumatology
+JSW|Joint space width|Rheumatology
+TKA|Total knee arthroplasty|Rheumatology
+THA|Total hip arthroplasty|Rheumatology
+TJA|Total joint arthroplasty|Rheumatology
+TKR|Total knee replacement|Rheumatology
+THR|Total hip replacement|Rheumatology
+PJI|Prosthetic joint infection|Rheumatology
+SA|Septic arthritis|Rheumatology
+OM|Osteomyelitis|Rheumatology
+AVN|Avascular necrosis|Rheumatology
+ON|Osteonecrosis|Rheumatology
+ONJ|Osteonecrosis of the jaw|Rheumatology
+AFF|Atypical femoral fracture|Rheumatology
+BMD|Bone mineral density|Rheumatology
+DXA|Dual-energy x-ray absorptiometry|Rheumatology
+DEXA|Dual-energy x-ray absorptiometry|Rheumatology
+TBS|Trabecular bone score|Rheumatology
+VFA|Vertebral fracture assessment|Rheumatology
+OP|Osteoporosis|Rheumatology
+OPG|Osteoprotegerin|Rheumatology
+RANKL|Receptor activator of nuclear factor kappa-B ligand|Rheumatology
+BTM|Bone turnover marker|Rheumatology
+CTX|C-terminal telopeptide of type I collagen|Rheumatology
+P1NP|Procollagen type 1 N-terminal propeptide|Rheumatology
+PTH|Parathyroid hormone|Rheumatology
+25-OH D|25-hydroxyvitamin D|Rheumatology
+Ca|Calcium|Rheumatology
+PO4|Phosphate|Rheumatology
+Mg|Magnesium|Rheumatology
+CTR|Carpal tunnel release|Rheumatology
+CTS|Carpal tunnel syndrome|Rheumatology
+CRPS|Complex regional pain syndrome|Rheumatology
+FM|Fibromyalgia|Rheumatology
+FMS|Fibromyalgia syndrome|Rheumatology
+CFS|Chronic fatigue syndrome|Rheumatology
+ME/CFS|Myalgic encephalomyelitis/chronic fatigue syndrome|Rheumatology
+MPS|Myofascial pain syndrome|Rheumatology
+CWP|Chronic widespread pain|Rheumatology
+FIQ|Fibromyalgia impact questionnaire|Rheumatology
+WPI|Widespread pain index|Rheumatology
+SSS|Symptom severity scale|Rheumatology
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Rheumatology
+SSRI|Selective serotonin reuptake inhibitor|Rheumatology
+TCA|Tricyclic antidepressant|Rheumatology
+CBT|Cognitive behavioral therapy|Rheumatology
+PT|Physical therapy|Rheumatology
+OT|Occupational therapy|Rheumatology
+TENS|Transcutaneous electrical nerve stimulation|Rheumatology
+LBP|Low back pain|Rheumatology
+IBP|Inflammatory back pain|Rheumatology
+CLBP|Chronic low back pain|Rheumatology
+SLR|Straight leg raise|Rheumatology
+DTR|Deep tendon reflex|Rheumatology
+DTRs|Deep tendon reflexes|Rheumatology
+UE|Upper extremity|Rheumatology
+BLE|Bilateral lower extremities|Rheumatology
+BUE|Bilateral upper extremities|Rheumatology
+RUE|Right upper extremity|Rheumatology
+LUE|Left upper extremity|Rheumatology
+RLE|Right lower extremity|Rheumatology
+LLE|Left lower extremity|Rheumatology
+C-spine|Cervical spine|Rheumatology
+T-spine|Thoracic spine|Rheumatology
+L-spine|Lumbar spine|Rheumatology
+AAI|Atlantoaxial instability|Rheumatology
+AAS|Atlantoaxial subluxation|Rheumatology
+DISH|Diffuse idiopathic skeletal hyperostosis|Rheumatology
+OPLL|Ossification of the posterior longitudinal ligament|Rheumatology
+HLA|Human leukocyte antigen|Rheumatology
+MHC|Major histocompatibility complex|Rheumatology
+SE|Shared epitope|Rheumatology
+SNP|Single nucleotide polymorphism|Rheumatology
+CBC w/ diff|Complete blood count with differential|Rheumatology
+MRI|Magnetic resonance imaging|Rheumatology
+MRA|Magnetic resonance angiography|Rheumatology
+MRV|Magnetic resonance venography|Rheumatology
+MRCP|Magnetic resonance cholangiopancreatography|Rheumatology
+CT|Computed tomography|Rheumatology
+CTA|Computed tomography angiography|Rheumatology
+PET|Positron emission tomography|Rheumatology
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Rheumatology
+PET/CT|Positron emission tomography with computed tomography|Rheumatology
+US|Ultrasound|Rheumatology
+TAB|Temporal artery biopsy|Rheumatology
+TAUS|Temporal artery ultrasound|Rheumatology
+STIR|Short tau inversion recovery|Rheumatology
+T1|T1-weighted MRI|Rheumatology
+T2|T2-weighted MRI|Rheumatology
+CXR|Chest x-ray|Rheumatology
+XR|X-ray|Rheumatology
+AP|Anteroposterior|Rheumatology
+PA|Posteroanterior|Rheumatology
+TTE|Transthoracic echocardiogram|Rheumatology
+TEE|Transesophageal echocardiogram|Rheumatology
+RHC|Right heart catheterization|Rheumatology
+RVSP|Right ventricular systolic pressure|Rheumatology
+PASP|Pulmonary artery systolic pressure|Rheumatology
+mPAP|Mean pulmonary artery pressure|Rheumatology
+PVR|Pulmonary vascular resistance|Rheumatology
+PCWP|Pulmonary capillary wedge pressure|Rheumatology
+EF|Ejection fraction|Rheumatology
+LVEF|Left ventricular ejection fraction|Rheumatology
+RV|Right ventricle|Rheumatology
+LV|Left ventricle|Rheumatology
+BNP|B-type natriuretic peptide|Rheumatology
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Rheumatology
+ECG|Electrocardiogram|Rheumatology
+EKG|Electrocardiogram|Rheumatology
+QTc|Corrected QT interval|Rheumatology
+AR|Aortic regurgitation|Rheumatology
+AI|Aortic insufficiency|Rheumatology
+AV|Atrioventricular|Rheumatology
+AVB|Atrioventricular block|Rheumatology
+LBBB|Left bundle branch block|Rheumatology
+AF|Atrial fibrillation|Rheumatology
+CHF|Congestive heart failure|Rheumatology
+HF|Heart failure|Rheumatology
+HFpEF|Heart failure with preserved ejection fraction|Rheumatology
+HFrEF|Heart failure with reduced ejection fraction|Rheumatology
+CM|Cardiomyopathy|Rheumatology
+CMR|Cardiac magnetic resonance|Rheumatology
+LGE|Late gadolinium enhancement|Rheumatology
+CAA|Coronary artery aneurysm|Rheumatology
+AAA|Abdominal aortic aneurysm|Rheumatology
+TAA|Thoracic aortic aneurysm|Rheumatology
+PVD|Peripheral vascular disease|Rheumatology
+PAD|Peripheral artery disease|Rheumatology
+ABI|Ankle-brachial index|Rheumatology
+CDU|Color Doppler ultrasound|Rheumatology
+ICA|Internal carotid artery|Rheumatology
+ECA|External carotid artery|Rheumatology
+STA|Superficial temporal artery|Rheumatology
+CRAO|Central retinal artery occlusion|Rheumatology
+AION|Anterior ischemic optic neuropathy|Rheumatology
+AAION|Arteritic anterior ischemic optic neuropathy|Rheumatology
+ON|Optic neuritis|Rheumatology
+VA|Visual acuity|Rheumatology
+IOP|Intraocular pressure|Rheumatology
+VF|Visual field|Rheumatology
+OCT|Optical coherence tomography|Rheumatology
+SD-OCT|Spectral-domain optical coherence tomography|Rheumatology
+FAF|Fundus autofluorescence|Rheumatology
+mfERG|Multifocal electroretinogram|Rheumatology
+AAU|Acute anterior uveitis|Rheumatology
+DES|Dry eye syndrome|Rheumatology
+ATs|Artificial tears|Rheumatology
+SST|Schirmer test|Rheumatology
+TBUT|Tear break-up time|Rheumatology
+OSS|Ocular staining score|Rheumatology
+USF|Unstimulated salivary flow|Rheumatology
+SFR|Salivary flow rate|Rheumatology
+ENT|Ear, nose, and throat|Rheumatology
+SNHL|Sensorineural hearing loss|Rheumatology
+CHL|Conductive hearing loss|Rheumatology
+SSNHL|Sudden sensorineural hearing loss|Rheumatology
+AIED|Autoimmune inner ear disease|Rheumatology
+OME|Otitis media with effusion|Rheumatology
+CRS|Chronic rhinosinusitis|Rheumatology
+CRSwNP|Chronic rhinosinusitis with nasal polyps|Rheumatology
+SGS|Subglottic stenosis|Rheumatology
+BAL|Bronchoalveolar lavage|Rheumatology
+TBBx|Transbronchial biopsy|Rheumatology
+VATS|Video-assisted thoracoscopic surgery|Rheumatology
+SLB|Surgical lung biopsy|Rheumatology
+MDD|Multidisciplinary discussion|Rheumatology
+6MWT|Six-minute walk test|Rheumatology
+6MWD|Six-minute walk distance|Rheumatology
+SpO2|Peripheral oxygen saturation|Rheumatology
+RA|Room air|Rheumatology
+O2|Oxygen|Rheumatology
+NC|Nasal cannula|Rheumatology
+NIV|Noninvasive ventilation|Rheumatology
+ICU|Intensive care unit|Rheumatology
+DOE|Dyspnea on exertion|Rheumatology
+HPI|History of present illness|Rheumatology
+PMH|Past medical history|Rheumatology
+FH|Family history|Rheumatology
+FHx|Family history|Rheumatology
+ROS|Review of systems|Rheumatology
+PE|Physical examination|Rheumatology
+A&P|Assessment and plan|Rheumatology
+NAD|No acute distress|Rheumatology
+WNL|Within normal limits|Rheumatology
+NKDA|No known drug allergies|Rheumatology
+c/w|Consistent with|Rheumatology
+s/p|Status post|Rheumatology
+h/o|History of|Rheumatology
+w/u|Workup|Rheumatology
+f/u|Follow-up|Rheumatology
+Dx|Diagnosis|Rheumatology
+Tx|Treatment|Rheumatology
+Rx|Prescription or treatment|Rheumatology
+Hx|History|Rheumatology
+Sx|Symptoms|Rheumatology
+Px|Prognosis|Rheumatology
+DDx|Differential diagnosis|Rheumatology
+FUO|Fever of unknown origin|Rheumatology
+LAD|Lymphadenopathy|Rheumatology
+HSM|Hepatosplenomegaly|Rheumatology
+SPM|Splenomegaly|Rheumatology
+MM|Multiple myeloma|Rheumatology
+MGUS|Monoclonal gammopathy of undetermined significance|Rheumatology
+AA|Amyloid A amyloidosis|Rheumatology
+SAA|Serum amyloid A|Rheumatology
+ATTR|Transthyretin amyloidosis|Rheumatology
+TTR|Transthyretin|Rheumatology
+PCT|Procalcitonin|Rheumatology
+SIRS|Systemic inflammatory response syndrome|Rheumatology

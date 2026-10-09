@@ -1,0 +1,698 @@
+ACL|Anterior cruciate ligament|Sports Medicine
+PCL|Posterior cruciate ligament|Sports Medicine
+MCL|Medial collateral ligament|Sports Medicine
+LCL|Lateral collateral ligament|Sports Medicine
+UCL|Ulnar collateral ligament|Sports Medicine
+RCL|Radial collateral ligament|Sports Medicine
+PLC|Posterolateral corner of the knee|Sports Medicine
+PMC|Posteromedial corner of the knee|Sports Medicine
+ACLR|Anterior cruciate ligament reconstruction|Sports Medicine
+PCLR|Posterior cruciate ligament reconstruction|Sports Medicine
+MPFL|Medial patellofemoral ligament|Sports Medicine
+ALL|Anterolateral ligament of the knee|Sports Medicine
+ITB|Iliotibial band|Sports Medicine
+ITBS|Iliotibial band syndrome|Sports Medicine
+PFPS|Patellofemoral pain syndrome|Sports Medicine
+PFJ|Patellofemoral joint|Sports Medicine
+PF|Plantar fasciitis|Sports Medicine
+OA|Osteoarthritis|Sports Medicine
+OCD|Osteochondritis dissecans|Sports Medicine
+OAT|Osteochondral autograft transfer|Sports Medicine
+OATS|Osteochondral autograft transfer system|Sports Medicine
+ACI|Autologous chondrocyte implantation|Sports Medicine
+MACI|Matrix-induced autologous chondrocyte implantation|Sports Medicine
+HTO|High tibial osteotomy|Sports Medicine
+DFO|Distal femoral osteotomy|Sports Medicine
+TKA|Total knee arthroplasty|Sports Medicine
+THA|Total hip arthroplasty|Sports Medicine
+TSA|Total shoulder arthroplasty|Sports Medicine
+RTSA|Reverse total shoulder arthroplasty|Sports Medicine
+UKA|Unicompartmental knee arthroplasty|Sports Medicine
+FAI|Femoroacetabular impingement|Sports Medicine
+GTPS|Greater trochanteric pain syndrome|Sports Medicine
+ROM|Range of motion|Sports Medicine
+AROM|Active range of motion|Sports Medicine
+PROM|Passive range of motion|Sports Medicine
+MMT|Manual muscle testing|Sports Medicine
+ER|External rotation|Sports Medicine
+IR|Internal rotation|Sports Medicine
+ABD|Abduction|Sports Medicine
+FL|Flexion|Sports Medicine
+EXT|Extension|Sports Medicine
+SLR|Straight leg raise|Sports Medicine
+SLS|Single leg stance|Sports Medicine
+TUG|Timed up and go test|Sports Medicine
+WB|Weight bearing|Sports Medicine
+NWB|Non-weight bearing|Sports Medicine
+PWB|Partial weight bearing|Sports Medicine
+WBAT|Weight bearing as tolerated|Sports Medicine
+TTWB|Toe-touch weight bearing|Sports Medicine
+RICE|Rest, ice, compression, elevation|Sports Medicine
+PRICE|Protection, rest, ice, compression, elevation|Sports Medicine
+POLICE|Protection, optimal loading, ice, compression, elevation|Sports Medicine
+NSAID|Nonsteroidal anti-inflammatory drug|Sports Medicine
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Sports Medicine
+PRP|Platelet-rich plasma|Sports Medicine
+HA|Hyaluronic acid|Sports Medicine
+CSI|Corticosteroid injection|Sports Medicine
+ESWT|Extracorporeal shockwave therapy|Sports Medicine
+TENS|Transcutaneous electrical nerve stimulation|Sports Medicine
+NMES|Neuromuscular electrical stimulation|Sports Medicine
+US|Ultrasound|Sports Medicine
+MSK US|Musculoskeletal ultrasound|Sports Medicine
+MRI|Magnetic resonance imaging|Sports Medicine
+MRA|Magnetic resonance arthrogram|Sports Medicine
+CT|Computed tomography|Sports Medicine
+XR|X-ray|Sports Medicine
+DXA|Dual-energy x-ray absorptiometry|Sports Medicine
+BMD|Bone mineral density|Sports Medicine
+BMI|Body mass index|Sports Medicine
+PT|Physical therapy|Sports Medicine
+OT|Occupational therapy|Sports Medicine
+AT|Athletic trainer|Sports Medicine
+ATC|Certified athletic trainer|Sports Medicine
+HEP|Home exercise program|Sports Medicine
+ADL|Activities of daily living|Sports Medicine
+ADLs|Activities of daily living|Sports Medicine
+RTP|Return to play|Sports Medicine
+RTS|Return to sport|Sports Medicine
+RTL|Return to learn|Sports Medicine
+GRTP|Graduated return to play|Sports Medicine
+LSI|Limb symmetry index|Sports Medicine
+CKC|Closed kinetic chain|Sports Medicine
+OKC|Open kinetic chain|Sports Medicine
+PNF|Proprioceptive neuromuscular facilitation|Sports Medicine
+BFR|Blood flow restriction|Sports Medicine
+BFRT|Blood flow restriction training|Sports Medicine
+HIIT|High-intensity interval training|Sports Medicine
+LISS|Low-intensity steady state|Sports Medicine
+MICT|Moderate-intensity continuous training|Sports Medicine
+1RM|One-repetition maximum|Sports Medicine
+RM|Repetition maximum|Sports Medicine
+RPE|Rating of perceived exertion|Sports Medicine
+RIR|Repetitions in reserve|Sports Medicine
+MET|Metabolic equivalent of task|Sports Medicine
+METs|Metabolic equivalents|Sports Medicine
+VO2max|Maximal oxygen uptake|Sports Medicine
+VO2 max|Maximal oxygen uptake|Sports Medicine
+HRmax|Maximum heart rate|Sports Medicine
+MHR|Maximum heart rate|Sports Medicine
+HRR|Heart rate reserve|Sports Medicine
+HRV|Heart rate variability|Sports Medicine
+RHR|Resting heart rate|Sports Medicine
+BP|Blood pressure|Sports Medicine
+HR|Heart rate|Sports Medicine
+RR|Respiratory rate|Sports Medicine
+SpO2|Peripheral oxygen saturation|Sports Medicine
+LT|Lactate threshold|Sports Medicine
+AT|Anaerobic threshold|Sports Medicine
+RER|Respiratory exchange ratio|Sports Medicine
+CPET|Cardiopulmonary exercise testing|Sports Medicine
+GXT|Graded exercise test|Sports Medicine
+FTP|Functional threshold power|Sports Medicine
+BMR|Basal metabolic rate|Sports Medicine
+RMR|Resting metabolic rate|Sports Medicine
+TDEE|Total daily energy expenditure|Sports Medicine
+EA|Energy availability|Sports Medicine
+LEA|Low energy availability|Sports Medicine
+RED-S|Relative energy deficiency in sport|Sports Medicine
+REDs|Relative energy deficiency in sport|Sports Medicine
+FHA|Functional hypothalamic amenorrhea|Sports Medicine
+BSI|Bone stress injury|Sports Medicine
+MTSS|Medial tibial stress syndrome|Sports Medicine
+CECS|Chronic exertional compartment syndrome|Sports Medicine
+ACS|Acute compartment syndrome|Sports Medicine
+DOMS|Delayed onset muscle soreness|Sports Medicine
+EAMC|Exercise-associated muscle cramping|Sports Medicine
+EAH|Exercise-associated hyponatremia|Sports Medicine
+EAHE|Exercise-associated hyponatremic encephalopathy|Sports Medicine
+EHI|Exertional heat illness|Sports Medicine
+EHS|Exertional heat stroke|Sports Medicine
+CWI|Cold water immersion|Sports Medicine
+WBGT|Wet bulb globe temperature|Sports Medicine
+SCT|Sickle cell trait|Sports Medicine
+ER|Exertional rhabdomyolysis|Sports Medicine
+CK|Creatine kinase|Sports Medicine
+AKI|Acute kidney injury|Sports Medicine
+SCA|Sudden cardiac arrest|Sports Medicine
+SCD|Sudden cardiac death|Sports Medicine
+HCM|Hypertrophic cardiomyopathy|Sports Medicine
+ARVC|Arrhythmogenic right ventricular cardiomyopathy|Sports Medicine
+AED|Automated external defibrillator|Sports Medicine
+CPR|Cardiopulmonary resuscitation|Sports Medicine
+EAP|Emergency action plan|Sports Medicine
+PPE|Preparticipation physical evaluation|Sports Medicine
+PPE|Personal protective equipment|Sports Medicine
+ECG|Electrocardiogram|Sports Medicine
+LVH|Left ventricular hypertrophy|Sports Medicine
+RVH|Right ventricular hypertrophy|Sports Medicine
+RBBB|Right bundle branch block|Sports Medicine
+LBBB|Left bundle branch block|Sports Medicine
+IVCD|Intraventricular conduction delay|Sports Medicine
+AVB|Atrioventricular block|Sports Medicine
+WPW|Wolff-Parkinson-White pattern or syndrome|Sports Medicine
+SVT|Supraventricular tachycardia|Sports Medicine
+AF|Atrial fibrillation|Sports Medicine
+AFib|Atrial fibrillation|Sports Medicine
+PVC|Premature ventricular contraction|Sports Medicine
+PAC|Premature atrial contraction|Sports Medicine
+EIB|Exercise-induced bronchoconstriction|Sports Medicine
+EIA|Exercise-induced asthma|Sports Medicine
+EILO|Exercise-induced laryngeal obstruction|Sports Medicine
+VCD|Vocal cord dysfunction|Sports Medicine
+EVH|Eucapnic voluntary hyperpnea|Sports Medicine
+FEV1|Forced expiratory volume in one second|Sports Medicine
+FVC|Forced vital capacity|Sports Medicine
+PEF|Peak expiratory flow|Sports Medicine
+SABA|Short-acting beta agonist|Sports Medicine
+LABA|Long-acting beta agonist|Sports Medicine
+ICS|Inhaled corticosteroid|Sports Medicine
+LTRA|Leukotriene receptor antagonist|Sports Medicine
+PFT|Pulmonary function test|Sports Medicine
+PFTs|Pulmonary function tests|Sports Medicine
+PTX|Pneumothorax|Sports Medicine
+PE|Pulmonary embolism|Sports Medicine
+PE|Physical examination|Sports Medicine
+DVT|Deep vein thrombosis|Sports Medicine
+VTE|Venous thromboembolism|Sports Medicine
+HAPE|High-altitude pulmonary edema|Sports Medicine
+HACE|High-altitude cerebral edema|Sports Medicine
+AMS|Acute mountain sickness|Sports Medicine
+CMS|Chronic mountain sickness|Sports Medicine
+SCAT|Sport concussion assessment tool|Sports Medicine
+SCAT5|Sport concussion assessment tool, fifth edition|Sports Medicine
+SCAT6|Sport concussion assessment tool, sixth edition|Sports Medicine
+SAC|Standardized assessment of concussion|Sports Medicine
+BESS|Balance error scoring system|Sports Medicine
+mBESS|Modified balance error scoring system|Sports Medicine
+VOMS|Vestibular/ocular motor screening|Sports Medicine
+NPC|Near point of convergence|Sports Medicine
+PCSS|Post-concussion symptom scale|Sports Medicine
+PCS|Post-concussion syndrome|Sports Medicine
+PCSx|Post-concussion symptoms|Sports Medicine
+mTBI|Mild traumatic brain injury|Sports Medicine
+TBI|Traumatic brain injury|Sports Medicine
+CTE|Chronic traumatic encephalopathy|Sports Medicine
+SRC|Sport-related concussion|Sports Medicine
+LOC|Loss of consciousness|Sports Medicine
+GCS|Glasgow Coma Scale|Sports Medicine
+SIS|Second impact syndrome|Sports Medicine
+SCIWORA|Spinal cord injury without radiographic abnormality|Sports Medicine
+CSM|Cervical spondylotic myelopathy|Sports Medicine
+LBP|Low back pain|Sports Medicine
+NSLBP|Nonspecific low back pain|Sports Medicine
+DDD|Degenerative disc disease|Sports Medicine
+HNP|Herniated nucleus pulposus|Sports Medicine
+SIJ|Sacroiliac joint|Sports Medicine
+SI joint|Sacroiliac joint|Sports Medicine
+SIJD|Sacroiliac joint dysfunction|Sports Medicine
+ESI|Epidural steroid injection|Sports Medicine
+TFESI|Transforaminal epidural steroid injection|Sports Medicine
+MBB|Medial branch block|Sports Medicine
+RFA|Radiofrequency ablation|Sports Medicine
+EMG|Electromyography|Sports Medicine
+NCS|Nerve conduction study|Sports Medicine
+NCV|Nerve conduction velocity|Sports Medicine
+CTS|Carpal tunnel syndrome|Sports Medicine
+CuTS|Cubital tunnel syndrome|Sports Medicine
+TOS|Thoracic outlet syndrome|Sports Medicine
+NTOS|Neurogenic thoracic outlet syndrome|Sports Medicine
+PAES|Popliteal artery entrapment syndrome|Sports Medicine
+FHL|Flexor hallucis longus|Sports Medicine
+EHL|Extensor hallucis longus|Sports Medicine
+EDL|Extensor digitorum longus|Sports Medicine
+FDL|Flexor digitorum longus|Sports Medicine
+FDP|Flexor digitorum profundus|Sports Medicine
+FDS|Flexor digitorum superficialis|Sports Medicine
+FCR|Flexor carpi radialis|Sports Medicine
+FCU|Flexor carpi ulnaris|Sports Medicine
+ECRB|Extensor carpus radialis brevis|Sports Medicine
+ECRL|Extensor carpi radialis longus|Sports Medicine
+ECU|Extensor carpi ulnaris|Sports Medicine
+APL|Abductor pollicis longus|Sports Medicine
+EPB|Extensor pollicis brevis|Sports Medicine
+EPL|Extensor pollicis longus|Sports Medicine
+TFCC|Triangular fibrocartilage complex|Sports Medicine
+DRUJ|Distal radioulnar joint|Sports Medicine
+SL|Scapholunate|Sports Medicine
+SLIL|Scapholunate interosseous ligament|Sports Medicine
+LT|Lunotriquetral|Sports Medicine
+CMC|Carpometacarpal|Sports Medicine
+MCP|Metacarpophalangeal|Sports Medicine
+PIP|Proximal interphalangeal|Sports Medicine
+DIP|Distal interphalangeal|Sports Medicine
+IP|Interphalangeal|Sports Medicine
+MTP|Metatarsophalangeal|Sports Medicine
+TMT|Tarsometatarsal|Sports Medicine
+AC|Acromioclavicular|Sports Medicine
+ACJ|Acromioclavicular joint|Sports Medicine
+SC|Sternoclavicular|Sports Medicine
+GH|Glenohumeral|Sports Medicine
+GHJ|Glenohumeral joint|Sports Medicine
+SAIS|Subacromial impingement syndrome|Sports Medicine
+SAD|Subacromial decompression|Sports Medicine
+RC|Rotator cuff|Sports Medicine
+RCT|Rotator cuff tear|Sports Medicine
+RCR|Rotator cuff repair|Sports Medicine
+RCRSP|Rotator cuff related shoulder pain|Sports Medicine
+SS|Supraspinatus|Sports Medicine
+IS|Infraspinatus|Sports Medicine
+SSc|Subscapularis|Sports Medicine
+TM|Teres minor|Sports Medicine
+LHB|Long head of biceps|Sports Medicine
+LHBT|Long head of biceps tendon|Sports Medicine
+SLAP|Superior labrum anterior to posterior tear|Sports Medicine
+GIRD|Glenohumeral internal rotation deficit|Sports Medicine
+HAGL|Humeral avulsion of the glenohumeral ligament|Sports Medicine
+SGHL|Superior glenohumeral ligament|Sports Medicine
+MGHL|Middle glenohumeral ligament|Sports Medicine
+IGHL|Inferior glenohumeral ligament|Sports Medicine
+AIGHL|Anterior band of the inferior glenohumeral ligament|Sports Medicine
+AD|Anterior dislocation|Sports Medicine
+MDI|Multidirectional instability|Sports Medicine
+SSN|Suprascapular nerve|Sports Medicine
+LTN|Long thoracic nerve|Sports Medicine
+LET|Lateral extra-articular tenodesis|Sports Medicine
+PLRI|Posterolateral rotatory instability|Sports Medicine
+PIN|Posterior interosseous nerve|Sports Medicine
+AIN|Anterior interosseous nerve|Sports Medicine
+UN|Ulnar nerve|Sports Medicine
+RN|Radial nerve|Sports Medicine
+MN|Median nerve|Sports Medicine
+UCLR|Ulnar collateral ligament reconstruction|Sports Medicine
+HS|Hamstring|Sports Medicine
+HSI|Hamstring strain injury|Sports Medicine
+PHT|Proximal hamstring tendinopathy|Sports Medicine
+QT|Quadriceps tendon|Sports Medicine
+PTT|Posterior tibial tendon|Sports Medicine
+PTTD|Posterior tibial tendon dysfunction|Sports Medicine
+AT|Achilles tendon|Sports Medicine
+ATR|Achilles tendon rupture|Sports Medicine
+ATFL|Anterior talofibular ligament|Sports Medicine
+CFL|Calcaneofibular ligament|Sports Medicine
+PTFL|Posterior talofibular ligament|Sports Medicine
+AITFL|Anterior inferior tibiofibular ligament|Sports Medicine
+PITFL|Posterior inferior tibiofibular ligament|Sports Medicine
+CAI|Chronic ankle instability|Sports Medicine
+LAS|Lateral ankle sprain|Sports Medicine
+HAS|High ankle sprain|Sports Medicine
+OLT|Osteochondral lesion of the talus|Sports Medicine
+OLTs|Osteochondral lesions of the talus|Sports Medicine
+PB|Peroneus brevis|Sports Medicine
+TA|Tibialis anterior|Sports Medicine
+Gmed|Gluteus medius|Sports Medicine
+Gmin|Gluteus minimus|Sports Medicine
+TFL|Tensor fasciae latae|Sports Medicine
+QL|Quadratus lumborum|Sports Medicine
+VMO|Vastus medialis obliquus|Sports Medicine
+VL|Vastus lateralis|Sports Medicine
+RF|Rectus femoris|Sports Medicine
+BF|Biceps femoris|Sports Medicine
+ST|Semitendinosus|Sports Medicine
+ASIS|Anterior superior iliac spine|Sports Medicine
+AIIS|Anterior inferior iliac spine|Sports Medicine
+PSIS|Posterior superior iliac spine|Sports Medicine
+GT|Greater trochanter|Sports Medicine
+AVN|Avascular necrosis|Sports Medicine
+ON|Osteonecrosis|Sports Medicine
+SCFE|Slipped capital femoral epiphysis|Sports Medicine
+SUFE|Slipped upper femoral epiphysis|Sports Medicine
+DDH|Developmental dysplasia of the hip|Sports Medicine
+LCEA|Lateral center edge angle|Sports Medicine
+CEA|Center edge angle|Sports Medicine
+FABER|Flexion, abduction, external rotation test|Sports Medicine
+FADIR|Flexion, adduction, internal rotation test|Sports Medicine
+FABERE|Flexion, abduction, external rotation, extension|Sports Medicine
+ASLR|Active straight leg raise|Sports Medicine
+HHD|Handheld dynamometer|Sports Medicine
+ASA|Aspirin|Sports Medicine
+APAP|Acetaminophen|Sports Medicine
+IBU|Ibuprofen|Sports Medicine
+NAP|Naproxen|Sports Medicine
+COX|Cyclooxygenase|Sports Medicine
+COX-2|Cyclooxygenase-2|Sports Medicine
+PPI|Proton pump inhibitor|Sports Medicine
+GI|Gastrointestinal|Sports Medicine
+TCA|Tricyclic antidepressant|Sports Medicine
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Sports Medicine
+SSRI|Selective serotonin reuptake inhibitor|Sports Medicine
+PO|By mouth|Sports Medicine
+IA|Intra-articular|Sports Medicine
+IV|Intravenous|Sports Medicine
+SC|Subcutaneous|Sports Medicine
+PRN|As needed|Sports Medicine
+BID|Twice daily|Sports Medicine
+TID|Three times daily|Sports Medicine
+QID|Four times daily|Sports Medicine
+QD|Once daily|Sports Medicine
+QHS|Every night at bedtime|Sports Medicine
+DMSO|Dimethyl sulfoxide|Sports Medicine
+TUE|Therapeutic use exemption|Sports Medicine
+PED|Performance-enhancing drug|Sports Medicine
+PEDs|Performance-enhancing drugs|Sports Medicine
+AAS|Anabolic-androgenic steroids|Sports Medicine
+EPO|Erythropoietin|Sports Medicine
+rhEPO|Recombinant human erythropoietin|Sports Medicine
+hGH|Human growth hormone|Sports Medicine
+GH|Growth hormone|Sports Medicine
+IGF-1|Insulin-like growth factor 1|Sports Medicine
+hCG|Human chorionic gonadotropin|Sports Medicine
+SARM|Selective androgen receptor modulator|Sports Medicine
+SARMs|Selective androgen receptor modulators|Sports Medicine
+SERM|Selective estrogen receptor modulator|Sports Medicine
+T/E|Testosterone to epitestosterone ratio|Sports Medicine
+LH|Luteinizing hormone|Sports Medicine
+FSH|Follicle-stimulating hormone|Sports Medicine
+SHBG|Sex hormone-binding globulin|Sports Medicine
+TRT|Testosterone replacement therapy|Sports Medicine
+ABP|Athlete biological passport|Sports Medicine
+Hct|Hematocrit|Sports Medicine
+Hgb|Hemoglobin|Sports Medicine
+CBC|Complete blood count|Sports Medicine
+BMP|Basic metabolic panel|Sports Medicine
+ESR|Erythrocyte sedimentation rate|Sports Medicine
+CRP|C-reactive protein|Sports Medicine
+hsCRP|High-sensitivity C-reactive protein|Sports Medicine
+TSH|Thyroid-stimulating hormone|Sports Medicine
+FT4|Free thyroxine|Sports Medicine
+25-OH D|25-hydroxyvitamin D|Sports Medicine
+Vit D|Vitamin D|Sports Medicine
+PTH|Parathyroid hormone|Sports Medicine
+TIBC|Total iron-binding capacity|Sports Medicine
+IDA|Iron deficiency anemia|Sports Medicine
+ID|Iron deficiency|Sports Medicine
+IDNA|Iron deficiency without anemia|Sports Medicine
+MCV|Mean corpuscular volume|Sports Medicine
+RBC|Red blood cell|Sports Medicine
+BUN|Blood urea nitrogen|Sports Medicine
+Cr|Creatinine|Sports Medicine
+GFR|Glomerular filtration rate|Sports Medicine
+eGFR|Estimated glomerular filtration rate|Sports Medicine
+UA|Urinalysis|Sports Medicine
+USG|Urine specific gravity|Sports Medicine
+Na|Sodium|Sports Medicine
+K|Potassium|Sports Medicine
+Mg|Magnesium|Sports Medicine
+Ca|Calcium|Sports Medicine
+LDH|Lactate dehydrogenase|Sports Medicine
+AST|Aspartate aminotransferase|Sports Medicine
+ALT|Alanine aminotransferase|Sports Medicine
+cTn|Cardiac troponin|Sports Medicine
+BNP|B-type natriuretic peptide|Sports Medicine
+NT-proBNP|N-terminal pro-B-type natriuretic peptide|Sports Medicine
+BHB|Beta-hydroxybutyrate|Sports Medicine
+CHOs|Carbohydrates|Sports Medicine
+BCAA|Branched-chain amino acids|Sports Medicine
+HMB|Beta-hydroxy beta-methylbutyrate|Sports Medicine
+CoQ10|Coenzyme Q10|Sports Medicine
+EPA|Eicosapentaenoic acid|Sports Medicine
+DHA|Docosahexaenoic acid|Sports Medicine
+MCT|Medium-chain triglyceride|Sports Medicine
+ORS|Oral rehydration solution|Sports Medicine
+IVF|Intravenous fluids|Sports Medicine
+NS|Normal saline|Sports Medicine
+LR|Lactated Ringer's solution|Sports Medicine
+BW|Body weight|Sports Medicine
+LBM|Lean body mass|Sports Medicine
+FFM|Fat-free mass|Sports Medicine
+BF%|Body fat percentage|Sports Medicine
+BIA|Bioelectrical impedance analysis|Sports Medicine
+WHR|Waist-to-hip ratio|Sports Medicine
+WC|Waist circumference|Sports Medicine
+CVD|Cardiovascular disease|Sports Medicine
+CAD|Coronary artery disease|Sports Medicine
+HTN|Hypertension|Sports Medicine
+HLD|Hyperlipidemia|Sports Medicine
+T2DM|Type 2 diabetes mellitus|Sports Medicine
+T1DM|Type 1 diabetes mellitus|Sports Medicine
+DM|Diabetes mellitus|Sports Medicine
+CGM|Continuous glucose monitor|Sports Medicine
+SMBG|Self-monitoring of blood glucose|Sports Medicine
+BG|Blood glucose|Sports Medicine
+HbA1c|Glycated hemoglobin|Sports Medicine
+A1c|Glycated hemoglobin|Sports Medicine
+DKA|Diabetic ketoacidosis|Sports Medicine
+CSII|Continuous subcutaneous insulin infusion|Sports Medicine
+MDI|Multiple daily injections|Sports Medicine
+LDL|Low-density lipoprotein|Sports Medicine
+HDL|High-density lipoprotein|Sports Medicine
+TC|Total cholesterol|Sports Medicine
+TG|Triglycerides|Sports Medicine
+PAD|Peripheral artery disease|Sports Medicine
+CVA|Cerebrovascular accident|Sports Medicine
+TIA|Transient ischemic attack|Sports Medicine
+CKD|Chronic kidney disease|Sports Medicine
+COPD|Chronic obstructive pulmonary disease|Sports Medicine
+OSA|Obstructive sleep apnea|Sports Medicine
+GERD|Gastroesophageal reflux disease|Sports Medicine
+IBS|Irritable bowel syndrome|Sports Medicine
+RA|Rheumatoid arthritis|Sports Medicine
+SpA|Spondyloarthritis|Sports Medicine
+AS|Ankylosing spondylitis|Sports Medicine
+PsA|Psoriatic arthritis|Sports Medicine
+SLE|Systemic lupus erythematosus|Sports Medicine
+JIA|Juvenile idiopathic arthritis|Sports Medicine
+CPPD|Calcium pyrophosphate deposition disease|Sports Medicine
+MSU|Monosodium urate|Sports Medicine
+PMR|Polymyalgia rheumatica|Sports Medicine
+FM|Fibromyalgia|Sports Medicine
+CRPS|Complex regional pain syndrome|Sports Medicine
+MPS|Myofascial pain syndrome|Sports Medicine
+TrP|Trigger point|Sports Medicine
+TMJ|Temporomandibular joint|Sports Medicine
+TMD|Temporomandibular disorder|Sports Medicine
+HFP|Hoffa fat pad|Sports Medicine
+JK|Jumper's knee|Sports Medicine
+QTT|Quadriceps tendon tear|Sports Medicine
+PTR|Patellar tendon rupture|Sports Medicine
+LPD|Lateral patellar dislocation|Sports Medicine
+MMT|Medial meniscus tear|Sports Medicine
+LMT|Lateral meniscus tear|Sports Medicine
+PHMM|Posterior horn medial meniscus|Sports Medicine
+PHLM|Posterior horn lateral meniscus|Sports Medicine
+APM|Arthroscopic partial meniscectomy|Sports Medicine
+APMM|Arthroscopic partial medial meniscectomy|Sports Medicine
+MAT|Meniscal allograft transplantation|Sports Medicine
+MRR|Meniscal root repair|Sports Medicine
+BTB|Bone-patellar tendon-bone graft|Sports Medicine
+SB|Single bundle|Sports Medicine
+DB|Double bundle|Sports Medicine
+IKDC|International Knee Documentation Committee score|Sports Medicine
+KOOS|Knee injury and osteoarthritis outcome score|Sports Medicine
+HOOS|Hip disability and osteoarthritis outcome score|Sports Medicine
+iHOT-33|International hip outcome tool, 33 items|Sports Medicine
+HAGOS|Copenhagen hip and groin outcome score|Sports Medicine
+VISA-A|Victorian Institute of Sport Assessment, Achilles|Sports Medicine
+VISA-P|Victorian Institute of Sport Assessment, patellar|Sports Medicine
+VISA-H|Victorian Institute of Sport Assessment, hamstring|Sports Medicine
+LEFS|Lower extremity functional scale|Sports Medicine
+DASH|Disabilities of the arm, shoulder and hand score|Sports Medicine
+QuickDASH|Short form disabilities of the arm, shoulder and hand score|Sports Medicine
+ASES|American Shoulder and Elbow Surgeons score|Sports Medicine
+SANE|Single assessment numeric evaluation|Sports Medicine
+SST|Simple shoulder test|Sports Medicine
+WORC|Western Ontario rotator cuff index|Sports Medicine
+WOSI|Western Ontario shoulder instability index|Sports Medicine
+OSS|Oxford shoulder score|Sports Medicine
+OKS|Oxford knee score|Sports Medicine
+OHS|Oxford hip score|Sports Medicine
+FAAM|Foot and ankle ability measure|Sports Medicine
+CAIT|Cumberland ankle instability tool|Sports Medicine
+FAOS|Foot and ankle outcome score|Sports Medicine
+AOFAS|American Orthopaedic Foot and Ankle Society score|Sports Medicine
+ODI|Oswestry disability index|Sports Medicine
+NDI|Neck disability index|Sports Medicine
+RMDQ|Roland-Morris disability questionnaire|Sports Medicine
+PROMIS|Patient-reported outcomes measurement information system|Sports Medicine
+PROMs|Patient-reported outcome measures|Sports Medicine
+VAS|Visual analog scale|Sports Medicine
+NPRS|Numeric pain rating scale|Sports Medicine
+NRS|Numeric rating scale|Sports Medicine
+MCID|Minimal clinically important difference|Sports Medicine
+SCB|Substantial clinical benefit|Sports Medicine
+PASS|Patient acceptable symptom state|Sports Medicine
+TSK|Tampa scale of kinesiophobia|Sports Medicine
+FABQ|Fear-avoidance beliefs questionnaire|Sports Medicine
+FMS|Functional movement screen|Sports Medicine
+Y-BT|Y balance test|Sports Medicine
+YBT|Y balance test|Sports Medicine
+SEBT|Star excursion balance test|Sports Medicine
+LESS|Landing error scoring system|Sports Medicine
+CMJ|Countermovement jump|Sports Medicine
+SJ|Squat jump|Sports Medicine
+DJ|Drop jump|Sports Medicine
+RSI|Reactive strength index|Sports Medicine
+SLH|Single leg hop|Sports Medicine
+SLHD|Single leg hop for distance|Sports Medicine
+THD|Triple hop for distance|Sports Medicine
+CHD|Crossover hop for distance|Sports Medicine
+6mTH|Six-meter timed hop|Sports Medicine
+SLSQ|Single leg squat|Sports Medicine
+SLB|Single leg bridge|Sports Medicine
+NHE|Nordic hamstring exercise|Sports Medicine
+HSR|Heavy slow resistance|Sports Medicine
+IASTM|Instrument-assisted soft tissue mobilization|Sports Medicine
+MFR|Myofascial release|Sports Medicine
+STM|Soft tissue mobilization|Sports Medicine
+OMT|Osteopathic manipulative treatment|Sports Medicine
+OMM|Osteopathic manipulative medicine|Sports Medicine
+SMT|Spinal manipulative therapy|Sports Medicine
+HVLA|High-velocity low-amplitude manipulation|Sports Medicine
+MET|Muscle energy technique|Sports Medicine
+KT|Kinesiology tape|Sports Medicine
+LLLT|Low-level laser therapy|Sports Medicine
+PEMF|Pulsed electromagnetic field therapy|Sports Medicine
+LIPUS|Low-intensity pulsed ultrasound|Sports Medicine
+IFC|Interferential current|Sports Medicine
+HVPC|High-voltage pulsed current|Sports Medicine
+SWD|Shortwave diathermy|Sports Medicine
+CPM|Continuous passive motion|Sports Medicine
+HBOT|Hyperbaric oxygen therapy|Sports Medicine
+CBT|Cognitive behavioral therapy|Sports Medicine
+ACT|Acceptance and commitment therapy|Sports Medicine
+AFO|Ankle-foot orthosis|Sports Medicine
+KAFO|Knee-ankle-foot orthosis|Sports Medicine
+CAM|Controlled ankle motion|Sports Medicine
+LLC|Long leg cast|Sports Medicine
+SLC|Short leg cast|Sports Medicine
+LAC|Long arm cast|Sports Medicine
+ORIF|Open reduction and internal fixation|Sports Medicine
+CRPP|Closed reduction and percutaneous pinning|Sports Medicine
+IM nail|Intramedullary nail|Sports Medicine
+IMN|Intramedullary nail|Sports Medicine
+ex-fix|External fixation|Sports Medicine
+MUA|Manipulation under anesthesia|Sports Medicine
+EUA|Examination under anesthesia|Sports Medicine
+SCR|Superior capsular reconstruction|Sports Medicine
+BT|Biceps tenodesis|Sports Medicine
+BTX|Biceps tenotomy|Sports Medicine
+CCL|Coracoclavicular ligament|Sports Medicine
+TTO|Tibial tubercle osteotomy|Sports Medicine
+MPFLR|Medial patellofemoral ligament reconstruction|Sports Medicine
+LRR|Lateral retinacular release|Sports Medicine
+CSA|Critical shoulder angle|Sports Medicine
+ADI|Acromiohumeral distance|Sports Medicine
+AHD|Acromiohumeral distance|Sports Medicine
+STIR|Short tau inversion recovery|Sports Medicine
+PD|Proton density|Sports Medicine
+PDFS|Proton density fat suppressed|Sports Medicine
+GRE|Gradient echo|Sports Medicine
+BME|Bone marrow edema|Sports Medicine
+BMEL|Bone marrow edema lesion|Sports Medicine
+BML|Bone marrow lesion|Sports Medicine
+MOAKS|MRI osteoarthritis knee score|Sports Medicine
+ICRS|International Cartilage Repair Society grade|Sports Medicine
+FMD|Flow-mediated dilation|Sports Medicine
+HFrEF|Heart failure with reduced ejection fraction|Sports Medicine
+LVEF|Left ventricular ejection fraction|Sports Medicine
+EF|Ejection fraction|Sports Medicine
+TTE|Transthoracic echocardiogram|Sports Medicine
+LVWT|Left ventricular wall thickness|Sports Medicine
+LVEDD|Left ventricular end-diastolic diameter|Sports Medicine
+CMR|Cardiac magnetic resonance|Sports Medicine
+LGE|Late gadolinium enhancement|Sports Medicine
+CAC|Coronary artery calcium|Sports Medicine
+CACS|Coronary artery calcium score|Sports Medicine
+CCTA|Coronary computed tomography angiography|Sports Medicine
+ECG-LVH|Electrocardiographic left ventricular hypertrophy|Sports Medicine
+QTc|Corrected QT interval|Sports Medicine
+LQTS|Long QT syndrome|Sports Medicine
+BrS|Brugada syndrome|Sports Medicine
+CPVT|Catecholaminergic polymorphic ventricular tachycardia|Sports Medicine
+VT|Ventricular tachycardia|Sports Medicine
+VF|Ventricular fibrillation|Sports Medicine
+CHD|Congenital heart disease|Sports Medicine
+MVP|Mitral valve prolapse|Sports Medicine
+BAV|Bicuspid aortic valve|Sports Medicine
+AS|Aortic stenosis|Sports Medicine
+AR|Aortic regurgitation|Sports Medicine
+POTS|Postural orthostatic tachycardia syndrome|Sports Medicine
+OH|Orthostatic hypotension|Sports Medicine
+NCS|Neurocardiogenic syncope|Sports Medicine
+EIH|Exercise-induced hypertension|Sports Medicine
+FDEIA|Food-dependent exercise-induced anaphylaxis|Sports Medicine
+EPI|Epinephrine|Sports Medicine
+URTI|Upper respiratory tract infection|Sports Medicine
+URI|Upper respiratory infection|Sports Medicine
+EBV|Epstein-Barr virus|Sports Medicine
+MRSA|Methicillin-resistant Staphylococcus aureus|Sports Medicine
+MSSA|Methicillin-sensitive Staphylococcus aureus|Sports Medicine
+HSV|Herpes simplex virus|Sports Medicine
+HBV|Hepatitis B virus|Sports Medicine
+HIV|Human immunodeficiency virus|Sports Medicine
+COVID-19|Coronavirus disease 2019|Sports Medicine
+CN|Cranial nerve|Sports Medicine
+PERRL|Pupils equal, round, reactive to light|Sports Medicine
+EOMI|Extraocular movements intact|Sports Medicine
+TTP|Tender to palpation|Sports Medicine
+NTTP|Non-tender to palpation|Sports Medicine
+NVI|Neurovascularly intact|Sports Medicine
+NVID|Neurovascularly intact distally|Sports Medicine
+SILT|Sensation intact to light touch|Sports Medicine
+DTR|Deep tendon reflex|Sports Medicine
+DTRs|Deep tendon reflexes|Sports Medicine
+UMN|Upper motor neuron|Sports Medicine
+LMN|Lower motor neuron|Sports Medicine
+MSR|Muscle stretch reflex|Sports Medicine
+CRT|Capillary refill time|Sports Medicine
+DP|Dorsalis pedis|Sports Medicine
+ABI|Ankle-brachial index|Sports Medicine
+TBI|Toe-brachial index|Sports Medicine
+NAD|No acute distress|Sports Medicine
+WNL|Within normal limits|Sports Medicine
+NKDA|No known drug allergies|Sports Medicine
+PMH|Past medical history|Sports Medicine
+PSH|Past surgical history|Sports Medicine
+FH|Family history|Sports Medicine
+HPI|History of present illness|Sports Medicine
+CC|Chief complaint|Sports Medicine
+ROS|Review of systems|Sports Medicine
+MOI|Mechanism of injury|Sports Medicine
+DOI|Date of injury|Sports Medicine
+DOS|Date of surgery|Sports Medicine
+POD|Postoperative day|Sports Medicine
+POW|Postoperative week|Sports Medicine
+s/p|Status post|Sports Medicine
+f/u|Follow-up|Sports Medicine
+Hx|History|Sports Medicine
+Tx|Treatment|Sports Medicine
+Dx|Diagnosis|Sports Medicine
+Rx|Prescription or treatment|Sports Medicine
+Sx|Symptoms|Sports Medicine
+Fx|Fracture|Sports Medicine
+Sz|Seizure|Sports Medicine
+Lt|Left|Sports Medicine
+Rt|Right|Sports Medicine
+B/L|Bilateral|Sports Medicine
+LLE|Left lower extremity|Sports Medicine
+RLE|Right lower extremity|Sports Medicine
+LUE|Left upper extremity|Sports Medicine
+RUE|Right upper extremity|Sports Medicine
+BLE|Bilateral lower extremities|Sports Medicine
+BUE|Bilateral upper extremities|Sports Medicine
+UE|Upper extremity|Sports Medicine
+LOS|Length of stay|Sports Medicine
+MD|Medical doctor|Sports Medicine
+DO|Doctor of osteopathic medicine|Sports Medicine
+PA|Physician assistant|Sports Medicine
+NP|Nurse practitioner|Sports Medicine
+DPT|Doctor of physical therapy|Sports Medicine
+CSCS|Certified strength and conditioning specialist|Sports Medicine
+S&C|Strength and conditioning|Sports Medicine
+FOOSH|Fall on outstretched hand|Sports Medicine
+SOOSH|Shoulder on outstretched hand|Sports Medicine
+MVC|Motor vehicle collision|Sports Medicine
+MVA|Motor vehicle accident|Sports Medicine
+ATV|All-terrain vehicle|Sports Medicine
+HO|Heterotopic ossification|Sports Medicine
+CRPS-I|Complex regional pain syndrome type 1|Sports Medicine
+RSD|Reflex sympathetic dystrophy|Sports Medicine
+SNAP|Sensory nerve action potential|Sports Medicine
+CMAP|Compound muscle action potential|Sports Medicine
+MUAP|Motor unit action potential|Sports Medicine
+MUP|Motor unit potential|Sports Medicine
+PSW|Positive sharp wave|Sports Medicine
+SMR|Sexual maturity rating|Sports Medicine
+PHV|Peak height velocity|Sports Medicine
+BA|Bone age|Sports Medicine
+Hb|Hemoglobin|Sports Medicine

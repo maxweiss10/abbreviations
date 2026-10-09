@@ -1,0 +1,594 @@
+ALT|Alanine aminotransferase|Hepatology
+AST|Aspartate aminotransferase|Hepatology
+ALP|Alkaline phosphatase|Hepatology
+GGT|Gamma-glutamyl transferase|Hepatology
+LDH|Lactate dehydrogenase|Hepatology
+TB|Total bilirubin|Hepatology
+Tbili|Total bilirubin|Hepatology
+DB|Direct bilirubin|Hepatology
+Dbili|Direct bilirubin|Hepatology
+LFT|Liver function test|Hepatology
+LFTs|Liver function tests|Hepatology
+INR|International normalized ratio|Hepatology
+PT|Prothrombin time|Hepatology
+PTT|Partial thromboplastin time|Hepatology
+aPTT|Activated partial thromboplastin time|Hepatology
+AFP|Alpha-fetoprotein|Hepatology
+AFP-L3|Lens culinaris agglutinin-reactive fraction of alpha-fetoprotein|Hepatology
+DCP|Des-gamma-carboxy prothrombin|Hepatology
+PIVKA-II|Protein induced by vitamin K absence or antagonist II|Hepatology
+CEA|Carcinoembryonic antigen|Hepatology
+CA 19-9|Carbohydrate antigen 19-9|Hepatology
+A1AT|Alpha-1 antitrypsin|Hepatology
+AATD|Alpha-1 antitrypsin deficiency|Hepatology
+AAT|Alpha-1 antitrypsin|Hepatology
+HBV|Hepatitis B virus|Hepatology
+HCV|Hepatitis C virus|Hepatology
+HAV|Hepatitis A virus|Hepatology
+HDV|Hepatitis D virus|Hepatology
+HEV|Hepatitis E virus|Hepatology
+HBsAg|Hepatitis B surface antigen|Hepatology
+HBeAg|Hepatitis B e antigen|Hepatology
+HBcAg|Hepatitis B core antigen|Hepatology
+HBcrAg|Hepatitis B core-related antigen|Hepatology
+anti-HBs|Antibody to hepatitis B surface antigen|Hepatology
+anti-HBc|Antibody to hepatitis B core antigen|Hepatology
+anti-HBe|Antibody to hepatitis B e antigen|Hepatology
+HBsAb|Hepatitis B surface antibody|Hepatology
+HBcAb|Hepatitis B core antibody|Hepatology
+HBeAb|Hepatitis B e antibody|Hepatology
+IgM anti-HBc|IgM antibody to hepatitis B core antigen|Hepatology
+HBIG|Hepatitis B immune globulin|Hepatology
+HBV DNA|Hepatitis B virus DNA level|Hepatology
+cccDNA|Covalently closed circular DNA|Hepatology
+HCV RNA|Hepatitis C virus RNA level|Hepatology
+anti-HCV|Antibody to hepatitis C virus|Hepatology
+HCVAb|Hepatitis C antibody|Hepatology
+anti-HAV|Antibody to hepatitis A virus|Hepatology
+HAV IgM|IgM antibody to hepatitis A virus|Hepatology
+HEV IgM|IgM antibody to hepatitis E virus|Hepatology
+anti-HDV|Antibody to hepatitis D virus|Hepatology
+HDV RNA|Hepatitis D virus RNA level|Hepatology
+CHB|Chronic hepatitis B|Hepatology
+CHC|Chronic hepatitis C|Hepatology
+CHD|Chronic hepatitis D|Hepatology
+AHB|Acute hepatitis B|Hepatology
+AHC|Acute hepatitis C|Hepatology
+AVH|Acute viral hepatitis|Hepatology
+DAA|Direct-acting antiviral|Hepatology
+DAAs|Direct-acting antivirals|Hepatology
+SVR|Sustained virologic response|Hepatology
+SVR12|Sustained virologic response 12 weeks after treatment|Hepatology
+SVR24|Sustained virologic response 24 weeks after treatment|Hepatology
+RVR|Rapid virologic response|Hepatology
+EVR|Early virologic response|Hepatology
+ETR|End-of-treatment response|Hepatology
+EOT|End of treatment|Hepatology
+PEG-IFN|Pegylated interferon|Hepatology
+NAs|Nucleos(t)ide analogues|Hepatology
+ETV|Entecavir|Hepatology
+TDF|Tenofovir disoproxil fumarate|Hepatology
+TAF|Tenofovir alafenamide|Hepatology
+LAM|Lamivudine|Hepatology
+LdT|Telbivudine|Hepatology
+ADV|Adefovir dipivoxil|Hepatology
+SOF|Sofosbuvir|Hepatology
+LDV|Ledipasvir|Hepatology
+VEL|Velpatasvir|Hepatology
+VOX|Voxilaprevir|Hepatology
+GLE|Glecaprevir|Hepatology
+PIB|Pibrentasvir|Hepatology
+DCV|Daclatasvir|Hepatology
+NS5A|Nonstructural protein 5A|Hepatology
+NS5B|Nonstructural protein 5B|Hepatology
+NS3/4A|Nonstructural protein 3/4A protease|Hepatology
+RAS|Resistance-associated substitution|Hepatology
+RAV|Resistance-associated variant|Hepatology
+ULN|Upper limit of normal|Hepatology
+LLN|Lower limit of normal|Hepatology
+MTCT|Mother-to-child transmission|Hepatology
+PEP|Post-exposure prophylaxis|Hepatology
+PrEP|Pre-exposure prophylaxis|Hepatology
+NAFLD|Nonalcoholic fatty liver disease|Hepatology
+NASH|Nonalcoholic steatohepatitis|Hepatology
+NAFL|Nonalcoholic fatty liver|Hepatology
+MASLD|Metabolic dysfunction-associated steatotic liver disease|Hepatology
+MASH|Metabolic dysfunction-associated steatohepatitis|Hepatology
+MetALD|Metabolic and alcohol-related liver disease|Hepatology
+SLD|Steatotic liver disease|Hepatology
+AFLD|Alcoholic fatty liver disease|Hepatology
+ALD|Alcohol-related liver disease|Hepatology
+ARLD|Alcohol-related liver disease|Hepatology
+ASH|Alcoholic steatohepatitis|Hepatology
+AH|Alcoholic hepatitis|Hepatology
+SAH|Severe alcoholic hepatitis|Hepatology
+AUD|Alcohol use disorder|Hepatology
+ALF|Acute liver failure|Hepatology
+ACLF|Acute-on-chronic liver failure|Hepatology
+DILI|Drug-induced liver injury|Hepatology
+HILI|Herbal-induced liver injury|Hepatology
+AIH|Autoimmune hepatitis|Hepatology
+PBC|Primary biliary cholangitis|Hepatology
+PSC|Primary sclerosing cholangitis|Hepatology
+SSC|Secondary sclerosing cholangitis|Hepatology
+IgG4-SC|IgG4-related sclerosing cholangitis|Hepatology
+ANA|Antinuclear antibody|Hepatology
+ASMA|Anti-smooth muscle antibody|Hepatology
+anti-LKM|Anti-liver kidney microsomal antibody|Hepatology
+LKM-1|Liver kidney microsomal antibody type 1|Hepatology
+SLA|Soluble liver antigen antibody|Hepatology
+SLA/LP|Soluble liver antigen/liver pancreas antibody|Hepatology
+pANCA|Perinuclear antineutrophil cytoplasmic antibody|Hepatology
+LDLT|Living donor liver transplant|Hepatology
+DDLT|Deceased donor liver transplant|Hepatology
+DBD|Donation after brain death|Hepatology
+DCD|Donation after circulatory death|Hepatology
+SLK|Simultaneous liver-kidney transplant|Hepatology
+MELD|Model for end-stage liver disease|Hepatology
+MELD-Na|Model for end-stage liver disease with sodium|Hepatology
+MELD 3.0|Model for end-stage liver disease version 3.0|Hepatology
+PELD|Pediatric end-stage liver disease score|Hepatology
+CLIF-C ACLF|Chronic liver failure acute-on-chronic liver failure score|Hepatology
+CLIF-C AD|Chronic liver failure acute decompensation score|Hepatology
+CLIF-OF|Chronic liver failure organ failure score|Hepatology
+DF|Discriminant function|Hepatology
+mDF|Modified discriminant function|Hepatology
+ABIC|Age, bilirubin, INR, creatinine score|Hepatology
+GAHS|Glasgow alcoholic hepatitis score|Hepatology
+FIB-4|Fibrosis-4 index|Hepatology
+APRI|AST to platelet ratio index|Hepatology
+NFS|NAFLD fibrosis score|Hepatology
+ELF|Enhanced liver fibrosis test|Hepatology
+FLI|Fatty liver index|Hepatology
+HSI|Hepatic steatosis index|Hepatology
+CAP|Controlled attenuation parameter|Hepatology
+LSM|Liver stiffness measurement|Hepatology
+VCTE|Vibration-controlled transient elastography|Hepatology
+TE|Transient elastography|Hepatology
+SWE|Shear wave elastography|Hepatology
+pSWE|Point shear wave elastography|Hepatology
+MRE|Magnetic resonance elastography|Hepatology
+ARFI|Acoustic radiation force impulse imaging|Hepatology
+MRI-PDFF|MRI proton density fat fraction|Hepatology
+PDFF|Proton density fat fraction|Hepatology
+MRS|Magnetic resonance spectroscopy|Hepatology
+NIT|Noninvasive test|Hepatology
+NITs|Noninvasive tests|Hepatology
+NAS|NAFLD activity score|Hepatology
+SAF|Steatosis, activity, fibrosis score|Hepatology
+HAI|Histology activity index|Hepatology
+kPa|Kilopascal|Hepatology
+dB/m|Decibels per meter|Hepatology
+F0|No fibrosis|Hepatology
+F1|Mild portal fibrosis|Hepatology
+F2|Significant fibrosis with few septa|Hepatology
+F3|Advanced fibrosis with numerous septa|Hepatology
+F4|Cirrhosis|Hepatology
+S0|No steatosis|Hepatology
+cACLD|Compensated advanced chronic liver disease|Hepatology
+ACLD|Advanced chronic liver disease|Hepatology
+CLD|Chronic liver disease|Hepatology
+ESLD|End-stage liver disease|Hepatology
+CSPH|Clinically significant portal hypertension|Hepatology
+PHTN|Portal hypertension|Hepatology
+NCPH|Noncirrhotic portal hypertension|Hepatology
+INCPH|Idiopathic noncirrhotic portal hypertension|Hepatology
+PSVD|Porto-sinusoidal vascular disease|Hepatology
+NRH|Nodular regenerative hyperplasia|Hepatology
+HVPG|Hepatic venous pressure gradient|Hepatology
+WHVP|Wedged hepatic venous pressure|Hepatology
+FHVP|Free hepatic venous pressure|Hepatology
+IVC|Inferior vena cava|Hepatology
+HV|Hepatic vein|Hepatology
+PV|Portal vein|Hepatology
+SMV|Superior mesenteric vein|Hepatology
+SV|Splenic vein|Hepatology
+IMV|Inferior mesenteric vein|Hepatology
+HA|Hepatic artery|Hepatology
+CBD|Common bile duct|Hepatology
+GB|Gallbladder|Hepatology
+PVT|Portal vein thrombosis|Hepatology
+PVTT|Portal vein tumor thrombus|Hepatology
+HVOD|Hepatic veno-occlusive disease|Hepatology
+VOD|Veno-occlusive disease|Hepatology
+SOS|Sinusoidal obstruction syndrome|Hepatology
+CTPV|Cavernous transformation of the portal vein|Hepatology
+HHT|Hereditary hemorrhagic telangiectasia|Hepatology
+HPS|Hepatopulmonary syndrome|Hepatology
+POPH|Portopulmonary hypertension|Hepatology
+HRS|Hepatorenal syndrome|Hepatology
+HRS-AKI|Hepatorenal syndrome with acute kidney injury|Hepatology
+HRS-NAKI|Hepatorenal syndrome non-acute kidney injury|Hepatology
+HRS-CKD|Hepatorenal syndrome with chronic kidney disease|Hepatology
+AKI|Acute kidney injury|Hepatology
+CKD|Chronic kidney disease|Hepatology
+ATN|Acute tubular necrosis|Hepatology
+CRRT|Continuous renal replacement therapy|Hepatology
+RRT|Renal replacement therapy|Hepatology
+HE|Hepatic encephalopathy|Hepatology
+OHE|Overt hepatic encephalopathy|Hepatology
+CHE|Covert hepatic encephalopathy|Hepatology
+MHE|Minimal hepatic encephalopathy|Hepatology
+PSE|Portosystemic encephalopathy|Hepatology
+PHES|Psychometric hepatic encephalopathy score|Hepatology
+CFF|Critical flicker frequency|Hepatology
+NH3|Ammonia|Hepatology
+BCAAs|Branched-chain amino acids|Hepatology
+LOLA|L-ornithine L-aspartate|Hepatology
+PEG|Polyethylene glycol|Hepatology
+PEG-ELS|Polyethylene glycol electrolyte solution|Hepatology
+HCC|Hepatocellular carcinoma|Hepatology
+CCA|Cholangiocarcinoma|Hepatology
+iCCA|Intrahepatic cholangiocarcinoma|Hepatology
+pCCA|Perihilar cholangiocarcinoma|Hepatology
+dCCA|Distal cholangiocarcinoma|Hepatology
+eCCA|Extrahepatic cholangiocarcinoma|Hepatology
+cHCC-CCA|Combined hepatocellular-cholangiocarcinoma|Hepatology
+FLC|Fibrolamellar carcinoma|Hepatology
+HCA|Hepatocellular adenoma|Hepatology
+FNH|Focal nodular hyperplasia|Hepatology
+HGDN|High-grade dysplastic nodule|Hepatology
+LGDN|Low-grade dysplastic nodule|Hepatology
+DN|Dysplastic nodule|Hepatology
+LI-RADS|Liver Imaging Reporting and Data System|Hepatology
+LR-1|LI-RADS category 1, definitely benign|Hepatology
+LR-2|LI-RADS category 2, probably benign|Hepatology
+LR-3|LI-RADS category 3, intermediate probability of malignancy|Hepatology
+LR-4|LI-RADS category 4, probably HCC|Hepatology
+LR-5|LI-RADS category 5, definitely HCC|Hepatology
+LR-M|LI-RADS category M, probably malignant but not specific for HCC|Hepatology
+APHE|Arterial phase hyperenhancement|Hepatology
+TACE|Transarterial chemoembolization|Hepatology
+cTACE|Conventional transarterial chemoembolization|Hepatology
+DEB-TACE|Drug-eluting bead transarterial chemoembolization|Hepatology
+TAE|Transarterial embolization|Hepatology
+TARE|Transarterial radioembolization|Hepatology
+SIRT|Selective internal radiation therapy|Hepatology
+Y-90|Yttrium-90|Hepatology
+RFA|Radiofrequency ablation|Hepatology
+MWA|Microwave ablation|Hepatology
+PEI|Percutaneous ethanol injection|Hepatology
+IRE|Irreversible electroporation|Hepatology
+HIFU|High-intensity focused ultrasound|Hepatology
+SBRT|Stereotactic body radiation therapy|Hepatology
+EBRT|External beam radiation therapy|Hepatology
+PBT|Proton beam therapy|Hepatology
+HAIC|Hepatic arterial infusion chemotherapy|Hepatology
+TKI|Tyrosine kinase inhibitor|Hepatology
+ICI|Immune checkpoint inhibitor|Hepatology
+PD-1|Programmed cell death protein 1|Hepatology
+PD-L1|Programmed death-ligand 1|Hepatology
+CTLA-4|Cytotoxic T-lymphocyte-associated protein 4|Hepatology
+VEGF|Vascular endothelial growth factor|Hepatology
+PFS|Progression-free survival|Hepatology
+OS|Overall survival|Hepatology
+RFS|Recurrence-free survival|Hepatology
+TTP|Time to progression|Hepatology
+ORR|Objective response rate|Hepatology
+DCR|Disease control rate|Hepatology
+RECIST|Response evaluation criteria in solid tumors|Hepatology
+mRECIST|Modified response evaluation criteria in solid tumors|Hepatology
+FLR|Future liver remnant|Hepatology
+FLRV|Future liver remnant volume|Hepatology
+PVE|Portal vein embolization|Hepatology
+PVL|Portal vein ligation|Hepatology
+ALPPS|Associating liver partition and portal vein ligation for staged hepatectomy|Hepatology
+PHLF|Post-hepatectomy liver failure|Hepatology
+SFSS|Small-for-size syndrome|Hepatology
+SFSG|Small-for-size graft|Hepatology
+GRWR|Graft-to-recipient weight ratio|Hepatology
+GV/SLV|Graft volume to standard liver volume ratio|Hepatology
+ICG|Indocyanine green|Hepatology
+ICG-R15|Indocyanine green retention at 15 minutes|Hepatology
+ICG-PDR|Indocyanine green plasma disappearance rate|Hepatology
+TIPS|Transjugular intrahepatic portosystemic shunt|Hepatology
+TIPSS|Transjugular intrahepatic portosystemic stent-shunt|Hepatology
+PTFE|Polytetrafluoroethylene|Hepatology
+BRTO|Balloon-occluded retrograde transvenous obliteration|Hepatology
+CARTO|Coil-assisted retrograde transvenous obliteration|Hepatology
+PARTO|Plug-assisted retrograde transvenous obliteration|Hepatology
+BATO|Balloon-occluded antegrade transvenous obliteration|Hepatology
+DSRS|Distal splenorenal shunt|Hepatology
+PCS|Portacaval shunt|Hepatology
+EBL|Endoscopic band ligation|Hepatology
+EIS|Endoscopic injection sclerotherapy|Hepatology
+EV|Esophageal varices|Hepatology
+GV|Gastric varices|Hepatology
+GOV1|Gastroesophageal varices type 1|Hepatology
+GOV2|Gastroesophageal varices type 2|Hepatology
+IGV1|Isolated gastric varices type 1|Hepatology
+IGV2|Isolated gastric varices type 2|Hepatology
+PHG|Portal hypertensive gastropathy|Hepatology
+PHC|Portal hypertensive colopathy|Hepatology
+GAVE|Gastric antral vascular ectasia|Hepatology
+UGIB|Upper gastrointestinal bleeding|Hepatology
+VH|Variceal hemorrhage|Hepatology
+AVB|Acute variceal bleeding|Hepatology
+EVB|Esophageal variceal bleeding|Hepatology
+NSBB|Nonselective beta-blocker|Hepatology
+NSBBs|Nonselective beta-blockers|Hepatology
+EUS|Endoscopic ultrasound|Hepatology
+SEMS|Self-expanding metal stent|Hepatology
+FCSEMS|Fully covered self-expanding metal stent|Hepatology
+TXA|Tranexamic acid|Hepatology
+PCC|Prothrombin complex concentrate|Hepatology
+rFVIIa|Recombinant activated factor VII|Hepatology
+FVIII|Factor VIII|Hepatology
+vWF|von Willebrand factor|Hepatology
+TEG|Thromboelastography|Hepatology
+ROTEM|Rotational thromboelastometry|Hepatology
+DIC|Disseminated intravascular coagulation|Hepatology
+VKA|Vitamin K antagonist|Hepatology
+DOAC|Direct oral anticoagulant|Hepatology
+DOACs|Direct oral anticoagulants|Hepatology
+LMWH|Low-molecular-weight heparin|Hepatology
+UFH|Unfractionated heparin|Hepatology
+HIT|Heparin-induced thrombocytopenia|Hepatology
+TPO-RA|Thrombopoietin receptor agonist|Hepatology
+TPO|Thrombopoietin|Hepatology
+ITP|Immune thrombocytopenia|Hepatology
+LPS|Lipopolysaccharide|Hepatology
+SBP|Spontaneous bacterial peritonitis|Hepatology
+CNNA|Culture-negative neutrocytic ascites|Hepatology
+SAAG|Serum-ascites albumin gradient|Hepatology
+LVP|Large-volume paracentesis|Hepatology
+PIPC|Paracentesis-induced circulatory dysfunction|Hepatology
+MRCP|Magnetic resonance cholangiopancreatography|Hepatology
+MRA|Magnetic resonance angiography|Hepatology
+MRV|Magnetic resonance venography|Hepatology
+CEUS|Contrast-enhanced ultrasound|Hepatology
+CECT|Contrast-enhanced computed tomography|Hepatology
+CEMRI|Contrast-enhanced magnetic resonance imaging|Hepatology
+EOB-MRI|Gadoxetic acid-enhanced magnetic resonance imaging|Hepatology
+DWI|Diffusion-weighted imaging|Hepatology
+ADC|Apparent diffusion coefficient|Hepatology
+HIDA|Hepatobiliary iminodiacetic acid scan|Hepatology
+RI|Resistive index|Hepatology
+PSV|Peak systolic velocity|Hepatology
+HAT|Hepatic artery thrombosis|Hepatology
+ERCP|Endoscopic retrograde cholangiopancreatography|Hepatology
+PTC|Percutaneous transhepatic cholangiography|Hepatology
+PTBD|Percutaneous transhepatic biliary drainage|Hepatology
+PTCD|Percutaneous transhepatic cholangial drainage|Hepatology
+EBD|Endoscopic biliary drainage|Hepatology
+EST|Endoscopic sphincterotomy|Hepatology
+EPBD|Endoscopic papillary balloon dilation|Hepatology
+EPLBD|Endoscopic papillary large balloon dilation|Hepatology
+SOC|Single-operator cholangioscopy|Hepatology
+SOCS|Single-operator cholangioscopy|Hepatology
+CBDS|Common bile duct stones|Hepatology
+CBDL|Common bile duct ligation|Hepatology
+CBDE|Common bile duct exploration|Hepatology
+LCBDE|Laparoscopic common bile duct exploration|Hepatology
+LC|Laparoscopic cholecystectomy|Hepatology
+OC|Open cholecystectomy|Hepatology
+IOC|Intraoperative cholangiogram|Hepatology
+IOUS|Intraoperative ultrasound|Hepatology
+CCY|Cholecystectomy|Hepatology
+AAC|Acute acalculous cholecystitis|Hepatology
+GSD|Gallstone disease|Hepatology
+BD|Bile duct|Hepatology
+IHBD|Intrahepatic bile duct|Hepatology
+EHBD|Extrahepatic bile duct|Hepatology
+BDI|Bile duct injury|Hepatology
+BDS|Bile duct stricture|Hepatology
+BDO|Bile duct obstruction|Hepatology
+BDL|Bile duct ligation|Hepatology
+BA|Biliary atresia|Hepatology
+BARS|Biliary atresia splenic malformation syndrome|Hepatology
+KPE|Kasai portoenterostomy|Hepatology
+AGS|Alagille syndrome|Hepatology
+PFIC|Progressive familial intrahepatic cholestasis|Hepatology
+BRIC|Benign recurrent intrahepatic cholestasis|Hepatology
+AFLP|Acute fatty liver of pregnancy|Hepatology
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Hepatology
+PNALD|Parenteral nutrition-associated liver disease|Hepatology
+IFALD|Intestinal failure-associated liver disease|Hepatology
+SBS|Short bowel syndrome|Hepatology
+GVHD|Graft-versus-host disease|Hepatology
+aGVHD|Acute graft-versus-host disease|Hepatology
+cGVHD|Chronic graft-versus-host disease|Hepatology
+WD|Wilson disease|Hepatology
+HH|Hereditary hemochromatosis|Hepatology
+LIC|Liver iron concentration|Hepatology
+KF|Kayser-Fleischer rings|Hepatology
+LAL-D|Lysosomal acid lipase deficiency|Hepatology
+HOMA-IR|Homeostatic model assessment of insulin resistance|Hepatology
+T2DM|Type 2 diabetes mellitus|Hepatology
+HbA1c|Glycated hemoglobin|Hepatology
+GLP-1|Glucagon-like peptide-1|Hepatology
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Hepatology
+SGLT2i|Sodium-glucose cotransporter-2 inhibitor|Hepatology
+SGLT2|Sodium-glucose cotransporter-2|Hepatology
+DPP-4i|Dipeptidyl peptidase-4 inhibitor|Hepatology
+TZD|Thiazolidinedione|Hepatology
+PPAR|Peroxisome proliferator-activated receptor|Hepatology
+FXR|Farnesoid X receptor|Hepatology
+THR-beta|Thyroid hormone receptor beta|Hepatology
+THR-β|Thyroid hormone receptor beta|Hepatology
+FGF21|Fibroblast growth factor 21|Hepatology
+FGF19|Fibroblast growth factor 19|Hepatology
+OCA|Obeticholic acid|Hepatology
+UDCA|Ursodeoxycholic acid|Hepatology
+CDCA|Chenodeoxycholic acid|Hepatology
+DCA|Deoxycholic acid|Hepatology
+LCA|Lithocholic acid|Hepatology
+BAS|Bile acid sequestrant|Hepatology
+BAs|Bile acids|Hepatology
+TBA|Total bile acids|Hepatology
+SBA|Serum bile acids|Hepatology
+IBAT|Ileal bile acid transporter|Hepatology
+IBATi|Ileal bile acid transporter inhibitor|Hepatology
+NTCP|Sodium taurocholate cotransporting polypeptide|Hepatology
+BSEP|Bile salt export pump|Hepatology
+ET-1|Endothelin-1|Hepatology
+RAAS|Renin-angiotensin-aldosterone system|Hepatology
+MAP|Mean arterial pressure|Hepatology
+CCM|Cirrhotic cardiomyopathy|Hepatology
+CE-TTE|Contrast-enhanced transthoracic echocardiography|Hepatology
+MAA|Macroaggregated albumin|Hepatology
+99mTc-MAA|Technetium-99m macroaggregated albumin scan|Hepatology
+DLCO|Diffusing capacity of the lung for carbon monoxide|Hepatology
+TPE|Therapeutic plasma exchange|Hepatology
+HVPE|High-volume plasma exchange|Hepatology
+ALSS|Artificial liver support system|Hepatology
+ELS|Extracorporeal liver support|Hepatology
+BAL|Bioartificial liver|Hepatology
+NAC|N-acetylcysteine|Hepatology
+APAP|Acetaminophen|Hepatology
+MTX|Methotrexate|Hepatology
+AZA|Azathioprine|Hepatology
+6-MP|6-mercaptopurine|Hepatology
+MMF|Mycophenolate mofetil|Hepatology
+MPA|Mycophenolic acid|Hepatology
+CNI|Calcineurin inhibitor|Hepatology
+CNIs|Calcineurin inhibitors|Hepatology
+CsA|Cyclosporine|Hepatology
+TAC|Tacrolimus|Hepatology
+mTORi|Mechanistic target of rapamycin inhibitor|Hepatology
+SRL|Sirolimus|Hepatology
+ATG|Anti-thymocyte globulin|Hepatology
+RTX|Rituximab|Hepatology
+BUD|Budesonide|Hepatology
+G-CSF|Granulocyte colony-stimulating factor|Hepatology
+FMT|Fecal microbiota transplantation|Hepatology
+SIBO|Small intestinal bacterial overgrowth|Hepatology
+ODS|Osmotic demyelination syndrome|Hepatology
+SGA|Subjective global assessment|Hepatology
+MNA|Mini nutritional assessment|Hepatology
+HGS|Handgrip strength|Hepatology
+SMI|Skeletal muscle index|Hepatology
+L3-SMI|Third lumbar vertebra skeletal muscle index|Hepatology
+L3|Third lumbar vertebra|Hepatology
+PMI|Psoas muscle index|Hepatology
+LFI|Liver frailty index|Hepatology
+FI|Frailty index|Hepatology
+SPPB|Short physical performance battery|Hepatology
+6MWT|Six-minute walk test|Hepatology
+CLDQ|Chronic Liver Disease Questionnaire|Hepatology
+PTLD|Post-transplant lymphoproliferative disorder|Hepatology
+NE|Norepinephrine|Hepatology
+MID|Midodrine|Hepatology
+OCT|Octreotide|Hepatology
+OCT/MID/ALB|Octreotide, midodrine, and albumin combination|Hepatology
+VRA|Vasopressin receptor antagonist|Hepatology
+TOL|Tolvaptan|Hepatology
+SPIRO|Spironolactone|Hepatology
+FURO|Furosemide|Hepatology
+HCTZ|Hydrochlorothiazide|Hepatology
+AUDIT|Alcohol Use Disorders Identification Test|Hepatology
+AUDIT-C|Alcohol Use Disorders Identification Test consumption questions|Hepatology
+PEth|Phosphatidylethanol|Hepatology
+EtG|Ethyl glucuronide|Hepatology
+EtS|Ethyl sulfate|Hepatology
+CDT|Carbohydrate-deficient transferrin|Hepatology
+BAC|Blood alcohol concentration|Hepatology
+BrAC|Breath alcohol concentration|Hepatology
+EtOH|Ethanol|Hepatology
+ETOH|Ethanol|Hepatology
+R ratio|Ratio of ALT to ALP, each as a multiple of its upper limit of normal|Hepatology
+R-value|Ratio of ALT to ALP, each as a multiple of its upper limit of normal|Hepatology
+PHx|Partial hepatectomy|Hepatology
+RH|Right hepatectomy|Hepatology
+LH|Left hepatectomy|Hepatology
+ERH|Extended right hepatectomy|Hepatology
+ELH|Extended left hepatectomy|Hepatology
+LLS|Left lateral sectionectomy|Hepatology
+MIS|Minimally invasive surgery|Hepatology
+LLR|Laparoscopic liver resection|Hepatology
+RALR|Robotic-assisted liver resection|Hepatology
+CRLM|Colorectal liver metastases|Hepatology
+PRRT|Peptide receptor radionuclide therapy|Hepatology
+SSA|Somatostatin analogue|Hepatology
+GBC|Gallbladder cancer|Hepatology
+BTC|Biliary tract cancer|Hepatology
+ctDNA|Circulating tumor DNA|Hepatology
+MSI|Microsatellite instability|Hepatology
+MSI-H|Microsatellite instability high|Hepatology
+dMMR|Deficient mismatch repair|Hepatology
+TMB|Tumor mutational burden|Hepatology
+IBD|Inflammatory bowel disease|Hepatology
+UC|Ulcerative colitis|Hepatology
+IgG4-RD|IgG4-related disease|Hepatology
+AIP|Autoimmune pancreatitis|Hepatology
+AIC|Autoimmune cholangitis|Hepatology
+AIH-PBC|Autoimmune hepatitis and primary biliary cholangitis overlap|Hepatology
+AIH-PSC|Autoimmune hepatitis and primary sclerosing cholangitis overlap|Hepatology
+AIHA|Autoimmune hemolytic anemia|Hepatology
+DI-AIH|Drug-induced autoimmune-like hepatitis|Hepatology
+sp100|Nuclear body speckled protein 100 antibody|Hepatology
+gp210|Nuclear pore glycoprotein 210 antibody|Hepatology
+PDC-E2|Pyruvate dehydrogenase complex E2 subunit|Hepatology
+PDC|Pyruvate dehydrogenase complex|Hepatology
+BZF|Bezafibrate|Hepatology
+FFB|Fenofibrate|Hepatology
+PPARα|Peroxisome proliferator-activated receptor alpha|Hepatology
+PPARδ|Peroxisome proliferator-activated receptor delta|Hepatology
+MAS|Macrophage activation syndrome|Hepatology
+HLH|Hemophagocytic lymphohistiocytosis|Hepatology
+sCD25|Soluble CD25|Hepatology
+sIL-2R|Soluble interleukin-2 receptor|Hepatology
+CVID|Common variable immunodeficiency|Hepatology
+LPD|Lymphoproliferative disorder|Hepatology
+CYP|Cytochrome P450|Hepatology
+CYP3A4|Cytochrome P450 3A4|Hepatology
+CYP2E1|Cytochrome P450 2E1|Hepatology
+P-gp|P-glycoprotein|Hepatology
+OATP|Organic anion transporting polypeptide|Hepatology
+UGT|Uridine diphosphate glucuronosyltransferase|Hepatology
+Vit D|Vitamin D|Hepatology
+25-OH D|25-hydroxyvitamin D|Hepatology
+Vit K|Vitamin K|Hepatology
+TPN-cholestasis|Parenteral nutrition-associated cholestasis|Hepatology
+TBWL|Total body weight loss|Hepatology
+TJLB|Transjugular liver biopsy|Hepatology
+PLB|Percutaneous liver biopsy|Hepatology
+LB|Liver biopsy|Hepatology
+EUS-LB|Endoscopic ultrasound-guided liver biopsy|Hepatology
+BSP|Bromsulphalein clearance test|Hepatology
+MEGX|Monoethylglycinexylidide test|Hepatology
+GEC|Galactose elimination capacity|Hepatology
+PEP|Post-ERCP pancreatitis|Hepatology
+EVR|Everolimus|Hepatology
+MRA|Mineralocorticoid receptor antagonist|Hepatology
+ICP|Intracranial pressure|Hepatology
+OLT|Orthotopic liver transplant|Hepatology
+LT|Liver transplant|Hepatology
+EVL|Endoscopic variceal ligation|Hepatology
+ALBI|Albumin-bilirubin grade|Hepatology
+AMA|Antimitochondrial antibody|Hepatology
+PMN|Polymorphonuclear neutrophil|Hepatology
+ANC|Absolute neutrophil count|Hepatology
+RBV|Ribavirin|Hepatology
+IFN|Interferon|Hepatology
+ICP|Intrahepatic cholestasis of pregnancy|Hepatology
+BCAA|Branched-chain amino acid|Hepatology
+IgG|Immunoglobulin G|Hepatology
+FFA|Free fatty acid|Hepatology
+FH|Familial hypercholesterolemia|Hepatology
+HFI|Hereditary fructose intolerance|Hepatology
+HT1|Hereditary tyrosinemia type 1|Hepatology
+UCD|Urea cycle disorder|Hepatology
+NCC|Non-ceruloplasmin-bound copper|Hepatology
+MetS|Metabolic syndrome|Hepatology
+GS|Gallstones|Hepatology
+SIRS|Systemic inflammatory response syndrome|Hepatology
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised|Hepatology
+HRAR|High-risk alcoholism relapse score|Hepatology
+IH|Ischemic hepatitis|Hepatology
+HSC|Hepatic stellate cell|Hepatology
+FALD|Fontan-associated liver disease|Hepatology
+HSCT|Hematopoietic stem cell transplantation|Hepatology
+SJS|Stevens-Johnson syndrome|Hepatology
+DRESS|Drug reaction with eosinophilia and systemic symptoms|Hepatology
+SBE|Spontaneous bacterial empyema|Hepatology
+DM|Diabetes mellitus|Hepatology
+BMI|Body mass index|Hepatology
+PPI|Proton pump inhibitor|Hepatology
+FFP|Fresh frozen plasma|Hepatology
+TPN|Total parenteral nutrition|Hepatology
+HOD|Hepatic osteodystrophy|Hepatology
+HIV|Human immunodeficiency virus|Hepatology
+TNM|Tumor, node, metastasis staging|Hepatology
+CRP|C-reactive protein|Hepatology
+NSAID|Nonsteroidal anti-inflammatory drug|Hepatology

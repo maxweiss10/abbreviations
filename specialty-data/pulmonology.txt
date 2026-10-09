@@ -1,0 +1,682 @@
+ABG|Arterial blood gas|Pulmonology
+ABPA|Allergic bronchopulmonary aspergillosis|Pulmonology
+ABPM|Allergic bronchopulmonary mycosis|Pulmonology
+ACBT|Active cycle of breathing technique|Pulmonology
+ACO|Asthma-COPD overlap|Pulmonology
+ACT|Asthma control test|Pulmonology
+ACT|Activated clotting time|Pulmonology
+AECOPD|Acute exacerbation of chronic obstructive pulmonary disease|Pulmonology
+AEP|Acute eosinophilic pneumonia|Pulmonology
+AFB|Acid-fast bacilli|Pulmonology
+AHI|Apnea-hypopnea index|Pulmonology
+AHRF|Acute hypoxemic respiratory failure|Pulmonology
+AI|Apnea index|Pulmonology
+AIP|Acute interstitial pneumonia|Pulmonology
+ALI|Acute lung injury|Pulmonology
+ANCA|Antineutrophil cytoplasmic antibody|Pulmonology
+APRV|Airway pressure release ventilation|Pulmonology
+AR|Allergic rhinitis|Pulmonology
+ARDS|Acute respiratory distress syndrome|Pulmonology
+ARF|Acute respiratory failure|Pulmonology
+ASV|Adaptive servo-ventilation|Pulmonology
+AVAPS|Average volume-assured pressure support|Pulmonology
+BAL|Bronchoalveolar lavage|Pulmonology
+BALF|Bronchoalveolar lavage fluid|Pulmonology
+BCG|Bacillus Calmette-Guérin vaccine|Pulmonology
+BD|Bronchodilator|Pulmonology
+BDR|Bronchodilator response|Pulmonology
+BHR|Bronchial hyperresponsiveness|Pulmonology
+BiPAP|Bilevel positive airway pressure|Pulmonology
+BLVR|Bronchoscopic lung volume reduction|Pulmonology
+BMI|Body mass index|Pulmonology
+BOS|Bronchiolitis obliterans syndrome|Pulmonology
+CA|Cancer|Pulmonology
+CAP|Community-acquired pneumonia|Pulmonology
+CAT|COPD assessment test|Pulmonology
+CCP|Cyclic citrullinated peptide|Pulmonology
+CF|Cystic fibrosis|Pulmonology
+CFRD|Cystic fibrosis-related diabetes|Pulmonology
+CFTR|Cystic fibrosis transmembrane conductance regulator|Pulmonology
+CHF|Congestive heart failure|Pulmonology
+CLAD|Chronic lung allograft dysfunction|Pulmonology
+CLD|Chronic lung disease|Pulmonology
+CMV|Controlled mandatory ventilation|Pulmonology
+COHb|Carboxyhemoglobin|Pulmonology
+COP|Cryptogenic organizing pneumonia|Pulmonology
+COPD|Chronic obstructive pulmonary disease|Pulmonology
+COVID-19|Coronavirus disease 2019|Pulmonology
+CPAP|Continuous positive airway pressure|Pulmonology
+CPE|Cardiogenic pulmonary edema|Pulmonology
+CPET|Cardiopulmonary exercise testing|Pulmonology
+CPFE|Combined pulmonary fibrosis and emphysema|Pulmonology
+CPT|Chest physiotherapy|Pulmonology
+CRS|Chronic rhinosinusitis|Pulmonology
+CRSsNP|Chronic rhinosinusitis without nasal polyps|Pulmonology
+CRSwNP|Chronic rhinosinusitis with nasal polyps|Pulmonology
+CSA|Central sleep apnea|Pulmonology
+CSB|Chronic simple bronchitis|Pulmonology
+CTD|Connective tissue disease|Pulmonology
+CTD-ILD|Connective tissue disease-associated interstitial lung disease|Pulmonology
+CTEPH|Chronic thromboembolic pulmonary hypertension|Pulmonology
+CTPA|Computed tomography pulmonary angiography|Pulmonology
+CVP|Central venous pressure|Pulmonology
+CWP|Coal workers' pneumoconiosis|Pulmonology
+CXR|Chest x-ray|Pulmonology
+CYP|Cytochrome P450|Pulmonology
+D-dimer|Fibrin degradation product used to screen for clots|Pulmonology
+DAD|Diffuse alveolar damage|Pulmonology
+DAH|Diffuse alveolar hemorrhage|Pulmonology
+DIP|Desquamative interstitial pneumonia|Pulmonology
+DIOS|Distal intestinal obstruction syndrome|Pulmonology
+DLCO|Diffusing capacity of the lung for carbon monoxide|Pulmonology
+DLPD|Diffuse lung parenchymal disease|Pulmonology
+DOE|Dyspnea on exertion|Pulmonology
+DPI|Dry powder inhaler|Pulmonology
+DPLD|Diffuse parenchymal lung disease|Pulmonology
+DVT|Deep vein thrombosis|Pulmonology
+EBUS|Endobronchial ultrasound|Pulmonology
+EBUS-TBNA|Endobronchial ultrasound-guided transbronchial needle aspiration|Pulmonology
+EBV|Endobronchial valve|Pulmonology
+ECCO2R|Extracorporeal carbon dioxide removal|Pulmonology
+ECMO|Extracorporeal membrane oxygenation|Pulmonology
+EELV|End-expiratory lung volume|Pulmonology
+EGPA|Eosinophilic granulomatosis with polyangiitis|Pulmonology
+EIB|Exercise-induced bronchoconstriction|Pulmonology
+EILO|Exercise-induced laryngeal obstruction|Pulmonology
+EOS|Eosinophils|Pulmonology
+EPAP|Expiratory positive airway pressure|Pulmonology
+ERV|Expiratory reserve volume|Pulmonology
+ET|Endotracheal|Pulmonology
+ETCO2|End-tidal carbon dioxide|Pulmonology
+ETT|Endotracheal tube|Pulmonology
+EVLP|Ex vivo lung perfusion|Pulmonology
+EVLW|Extravascular lung water|Pulmonology
+FDG|Fluorodeoxyglucose|Pulmonology
+FeNO|Fractional exhaled nitric oxide|Pulmonology
+FEF|Forced expiratory flow|Pulmonology
+FEF25-75|Forced expiratory flow between 25 and 75 percent of vital capacity|Pulmonology
+FET|Forced expiratory technique|Pulmonology
+FEV1|Forced expiratory volume in one second|Pulmonology
+FEV6|Forced expiratory volume in six seconds|Pulmonology
+FiO2|Fraction of inspired oxygen|Pulmonology
+FIF|Forced inspiratory flow|Pulmonology
+FIVC|Forced inspiratory vital capacity|Pulmonology
+FNA|Fine needle aspiration|Pulmonology
+FOB|Fiberoptic bronchoscopy|Pulmonology
+FOT|Forced oscillation technique|Pulmonology
+FRC|Functional residual capacity|Pulmonology
+FVC|Forced vital capacity|Pulmonology
+GERD|Gastroesophageal reflux disease|Pulmonology
+GGO|Ground-glass opacity|Pulmonology
+GPA|Granulomatosis with polyangiitis|Pulmonology
+HAP|Hospital-acquired pneumonia|Pulmonology
+Hb|Hemoglobin|Pulmonology
+HCO3|Bicarbonate|Pulmonology
+HFNC|High-flow nasal cannula|Pulmonology
+HFNO|High-flow nasal oxygen|Pulmonology
+HFOV|High-frequency oscillatory ventilation|Pulmonology
+HFJV|High-frequency jet ventilation|Pulmonology
+HOT|Home oxygen therapy|Pulmonology
+HP|Hypersensitivity pneumonitis|Pulmonology
+HPAH|Heritable pulmonary arterial hypertension|Pulmonology
+HPS|Hepatopulmonary syndrome|Pulmonology
+HPV|Hypoxic pulmonary vasoconstriction|Pulmonology
+HPV|Human papillomavirus|Pulmonology
+HRCT|High-resolution computed tomography|Pulmonology
+HRQoL|Health-related quality of life|Pulmonology
+I:E|Inspiratory to expiratory ratio|Pulmonology
+IBW|Ideal body weight|Pulmonology
+ICS|Inhaled corticosteroid|Pulmonology
+ICS/LABA|Inhaled corticosteroid and long-acting beta agonist combination|Pulmonology
+ICD|Intercostal drain|Pulmonology
+IC|Inspiratory capacity|Pulmonology
+IGRA|Interferon-gamma release assay|Pulmonology
+IgE|Immunoglobulin E|Pulmonology
+IIP|Idiopathic interstitial pneumonia|Pulmonology
+ILA|Interstitial lung abnormality|Pulmonology
+ILD|Interstitial lung disease|Pulmonology
+IMV|Intermittent mandatory ventilation|Pulmonology
+INH|Isoniazid|Pulmonology
+INO|Inhaled nitric oxide|Pulmonology
+iNO|Inhaled nitric oxide|Pulmonology
+IP|Interstitial pneumonia|Pulmonology
+IPAH|Idiopathic pulmonary arterial hypertension|Pulmonology
+IPAP|Inspiratory positive airway pressure|Pulmonology
+IPC|Indwelling pleural catheter|Pulmonology
+IPF|Idiopathic pulmonary fibrosis|Pulmonology
+IPPV|Intermittent positive pressure ventilation|Pulmonology
+IRV|Inspiratory reserve volume|Pulmonology
+IRV|Inverse ratio ventilation|Pulmonology
+IVC|Inferior vena cava|Pulmonology
+IVC|Inspiratory vital capacity|Pulmonology
+JVD|Jugular venous distension|Pulmonology
+JVP|Jugular venous pressure|Pulmonology
+KCO|Carbon monoxide transfer coefficient|Pulmonology
+KL-6|Krebs von den Lungen-6 glycoprotein|Pulmonology
+LABA|Long-acting beta agonist|Pulmonology
+LAM|Lymphangioleiomyomatosis|Pulmonology
+LAMA|Long-acting muscarinic antagonist|Pulmonology
+LAS|Lung allocation score|Pulmonology
+LCI|Lung clearance index|Pulmonology
+LDCT|Low-dose computed tomography|Pulmonology
+LDH|Lactate dehydrogenase|Pulmonology
+LFT|Lung function test|Pulmonology
+LIP|Lymphocytic interstitial pneumonia|Pulmonology
+LLL|Left lower lobe|Pulmonology
+LPR|Laryngopharyngeal reflux|Pulmonology
+LRTI|Lower respiratory tract infection|Pulmonology
+LTBI|Latent tuberculosis infection|Pulmonology
+LTOT|Long-term oxygen therapy|Pulmonology
+LUL|Left upper lobe|Pulmonology
+LV|Left ventricle|Pulmonology
+LVEF|Left ventricular ejection fraction|Pulmonology
+LVRS|Lung volume reduction surgery|Pulmonology
+MAC|Mycobacterium avium complex|Pulmonology
+MAP|Mean arterial pressure|Pulmonology
+MAP|Mean airway pressure|Pulmonology
+MAS|Meconium aspiration syndrome|Pulmonology
+MDI|Metered-dose inhaler|Pulmonology
+MDR-TB|Multidrug-resistant tuberculosis|Pulmonology
+MEP|Maximal expiratory pressure|Pulmonology
+MIC|Minimum inhibitory concentration|Pulmonology
+MIP|Maximal inspiratory pressure|Pulmonology
+MIE|Mechanical insufflation-exsufflation|Pulmonology
+MMRC|Modified Medical Research Council dyspnea scale|Pulmonology
+MPA|Microscopic polyangiitis|Pulmonology
+MRSA|Methicillin-resistant Staphylococcus aureus|Pulmonology
+MSSA|Methicillin-susceptible Staphylococcus aureus|Pulmonology
+MV|Mechanical ventilation|Pulmonology
+MV|Minute ventilation|Pulmonology
+MVV|Maximum voluntary ventilation|Pulmonology
+MWT|Maintenance of wakefulness test|Pulmonology
+NAC|N-acetylcysteine|Pulmonology
+NC|Nasal cannula|Pulmonology
+NCPAP|Nasal continuous positive airway pressure|Pulmonology
+NGS|Next-generation sequencing|Pulmonology
+NIPPV|Noninvasive positive pressure ventilation|Pulmonology
+NIV|Noninvasive ventilation|Pulmonology
+NRB|Non-rebreather mask|Pulmonology
+NSCLC|Non-small cell lung cancer|Pulmonology
+NSIP|Nonspecific interstitial pneumonia|Pulmonology
+NTM|Nontuberculous mycobacteria|Pulmonology
+O2|Oxygen|Pulmonology
+O2Hb|Oxyhemoglobin|Pulmonology
+O2 sat|Oxygen saturation|Pulmonology
+OCS|Oral corticosteroid|Pulmonology
+ODI|Oxygen desaturation index|Pulmonology
+OHS|Obesity hypoventilation syndrome|Pulmonology
+OLB|Open lung biopsy|Pulmonology
+OSA|Obstructive sleep apnea|Pulmonology
+OSAHS|Obstructive sleep apnea-hypopnea syndrome|Pulmonology
+OSAS|Obstructive sleep apnea syndrome|Pulmonology
+P/F|Ratio of arterial oxygen to fraction of inspired oxygen|Pulmonology
+P-F ratio|Ratio of arterial oxygen to fraction of inspired oxygen|Pulmonology
+PAC|Pulmonary artery catheter|Pulmonology
+PAH|Pulmonary arterial hypertension|Pulmonology
+PAO2|Alveolar partial pressure of oxygen|Pulmonology
+PaCO2|Arterial partial pressure of carbon dioxide|Pulmonology
+PaO2|Arterial partial pressure of oxygen|Pulmonology
+PaO2/FiO2|Ratio of arterial oxygen to fraction of inspired oxygen|Pulmonology
+PAP|Pulmonary alveolar proteinosis|Pulmonology
+PAP|Pulmonary artery pressure|Pulmonology
+PAP|Positive airway pressure|Pulmonology
+PAPm|Mean pulmonary artery pressure|Pulmonology
+PAWP|Pulmonary artery wedge pressure|Pulmonology
+PCD|Primary ciliary dyskinesia|Pulmonology
+PCP|Pneumocystis pneumonia|Pulmonology
+PCR|Polymerase chain reaction|Pulmonology
+PCV|Pressure-controlled ventilation|Pulmonology
+PCWP|Pulmonary capillary wedge pressure|Pulmonology
+PE|Pulmonary embolism|Pulmonology
+PEA|Pulseless electrical activity|Pulmonology
+PEEP|Positive end-expiratory pressure|Pulmonology
+PEEPi|Intrinsic positive end-expiratory pressure|Pulmonology
+PEF|Peak expiratory flow|Pulmonology
+PEFR|Peak expiratory flow rate|Pulmonology
+PEP|Positive expiratory pressure|Pulmonology
+PET-CT|Positron emission tomography with computed tomography|Pulmonology
+PETCO2|Partial pressure of end-tidal carbon dioxide|Pulmonology
+PFO|Patent foramen ovale|Pulmonology
+PFT|Pulmonary function test|Pulmonology
+PH|Pulmonary hypertension|Pulmonology
+PICC|Peripherally inserted central catheter|Pulmonology
+PIF|Peak inspiratory flow|Pulmonology
+PIP|Peak inspiratory pressure|Pulmonology
+PJP|Pneumocystis jirovecii pneumonia|Pulmonology
+PLCH|Pulmonary Langerhans cell histiocytosis|Pulmonology
+PMF|Progressive massive fibrosis|Pulmonology
+PMN|Polymorphonuclear neutrophil|Pulmonology
+PND|Paroxysmal nocturnal dyspnea|Pulmonology
+PNA|Pneumonia|Pulmonology
+PNX|Pneumothorax|Pulmonology
+PO2|Partial pressure of oxygen|Pulmonology
+PPD|Purified protein derivative|Pulmonology
+PPH|Primary pulmonary hypertension|Pulmonology
+PPI|Proton pump inhibitor|Pulmonology
+PPV|Positive pressure ventilation|Pulmonology
+PPV|Pulse pressure variation|Pulmonology
+PR|Pulmonary rehabilitation|Pulmonology
+PRVC|Pressure-regulated volume control|Pulmonology
+PSG|Polysomnography|Pulmonology
+PSV|Pressure support ventilation|Pulmonology
+PTE|Pulmonary thromboembolism|Pulmonology
+PTX|Pneumothorax|Pulmonology
+PVC|Premature ventricular contraction|Pulmonology
+PVOD|Pulmonary veno-occlusive disease|Pulmonology
+PVR|Pulmonary vascular resistance|Pulmonology
+PVRI|Pulmonary vascular resistance index|Pulmonology
+PZA|Pyrazinamide|Pulmonology
+RA|Room air|Pulmonology
+RA|Rheumatoid arthritis|Pulmonology
+RAD|Reactive airway disease|Pulmonology
+RB-ILD|Respiratory bronchiolitis-associated interstitial lung disease|Pulmonology
+RBBB|Right bundle branch block|Pulmonology
+RDI|Respiratory disturbance index|Pulmonology
+RDS|Respiratory distress syndrome|Pulmonology
+REM|Rapid eye movement|Pulmonology
+RFA|Radiofrequency ablation|Pulmonology
+RFT|Respiratory function test|Pulmonology
+RHC|Right heart catheterization|Pulmonology
+RIF|Rifampin|Pulmonology
+RLL|Right lower lobe|Pulmonology
+ROSE|Rapid on-site evaluation|Pulmonology
+RRT|Rapid response team|Pulmonology
+RRT|Respiratory therapist|Pulmonology
+RSBI|Rapid shallow breathing index|Pulmonology
+RSV|Respiratory syncytial virus|Pulmonology
+RT|Respiratory therapy|Pulmonology
+RT-PCR|Reverse transcription polymerase chain reaction|Pulmonology
+RTI|Respiratory tract infection|Pulmonology
+RUL|Right upper lobe|Pulmonology
+RV|Residual volume|Pulmonology
+RV|Right ventricle|Pulmonology
+RV/TLC|Ratio of residual volume to total lung capacity|Pulmonology
+RVEF|Right ventricular ejection fraction|Pulmonology
+RVF|Right ventricular failure|Pulmonology
+RVSP|Right ventricular systolic pressure|Pulmonology
+SaO2|Arterial oxygen saturation|Pulmonology
+SABA|Short-acting beta agonist|Pulmonology
+SAMA|Short-acting muscarinic antagonist|Pulmonology
+SARS|Severe acute respiratory syndrome|Pulmonology
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2|Pulmonology
+SBT|Spontaneous breathing trial|Pulmonology
+SCLC|Small cell lung cancer|Pulmonology
+SDB|Sleep-disordered breathing|Pulmonology
+SIMV|Synchronized intermittent mandatory ventilation|Pulmonology
+SLE|Systemic lupus erythematosus|Pulmonology
+SLT|Single lung transplant|Pulmonology
+SOB|Shortness of breath|Pulmonology
+SOBOE|Shortness of breath on exertion|Pulmonology
+SpO2|Peripheral oxygen saturation|Pulmonology
+SPN|Solitary pulmonary nodule|Pulmonology
+SpO2/FiO2|Ratio of pulse oximetry saturation to fraction of inspired oxygen|Pulmonology
+SRBD|Sleep-related breathing disorder|Pulmonology
+SSc|Systemic sclerosis|Pulmonology
+SSc-ILD|Systemic sclerosis-associated interstitial lung disease|Pulmonology
+SVC|Superior vena cava|Pulmonology
+SVC|Slow vital capacity|Pulmonology
+SVCS|Superior vena cava syndrome|Pulmonology
+SvO2|Mixed venous oxygen saturation|Pulmonology
+SVR|Systemic vascular resistance|Pulmonology
+T-piece|T-piece trial for weaning off the ventilator|Pulmonology
+TB|Tuberculosis|Pulmonology
+TBB|Transbronchial biopsy|Pulmonology
+TBLB|Transbronchial lung biopsy|Pulmonology
+TBLC|Transbronchial lung cryobiopsy|Pulmonology
+TBNA|Transbronchial needle aspiration|Pulmonology
+TBM|Tracheobronchomalacia|Pulmonology
+TBM|Tuberculous meningitis|Pulmonology
+TCO2|Total carbon dioxide|Pulmonology
+TIPS|Transjugular intrahepatic portosystemic shunt|Pulmonology
+TLC|Total lung capacity|Pulmonology
+TLCO|Transfer factor of the lung for carbon monoxide|Pulmonology
+TRALI|Transfusion-related acute lung injury|Pulmonology
+TTE|Transthoracic echocardiography|Pulmonology
+TTNA|Transthoracic needle aspiration|Pulmonology
+TTN|Transient tachypnea of the newborn|Pulmonology
+TV|Tidal volume|Pulmonology
+UIP|Usual interstitial pneumonia|Pulmonology
+URI|Upper respiratory infection|Pulmonology
+URTI|Upper respiratory tract infection|Pulmonology
+V/Q|Ventilation-perfusion|Pulmonology
+V/Q scan|Ventilation-perfusion scan|Pulmonology
+VA|Alveolar ventilation|Pulmonology
+VAE|Ventilator-associated event|Pulmonology
+VAP|Ventilator-associated pneumonia|Pulmonology
+VATS|Video-assisted thoracoscopic surgery|Pulmonology
+VC|Vital capacity|Pulmonology
+VCD|Vocal cord dysfunction|Pulmonology
+VCO2|Carbon dioxide production|Pulmonology
+VD/VT|Dead space to tidal volume ratio|Pulmonology
+VE|Minute ventilation|Pulmonology
+VE/VCO2|Ventilatory equivalent for carbon dioxide|Pulmonology
+VILI|Ventilator-induced lung injury|Pulmonology
+VO2|Oxygen consumption|Pulmonology
+VO2max|Maximal oxygen uptake|Pulmonology
+VQ|Ventilation-perfusion|Pulmonology
+VT|Tidal volume|Pulmonology
+VTE|Venous thromboembolism|Pulmonology
+VV-ECMO|Venovenous extracorporeal membrane oxygenation|Pulmonology
+VA-ECMO|Venoarterial extracorporeal membrane oxygenation|Pulmonology
+WOB|Work of breathing|Pulmonology
+WU|Wood units|Pulmonology
+XDR-TB|Extensively drug-resistant tuberculosis|Pulmonology
+A-a gradient|Alveolar-arterial oxygen gradient|Pulmonology
+AaDO2|Alveolar-arterial oxygen difference|Pulmonology
+ACE|Angiotensin-converting enzyme|Pulmonology
+AMS|Acute mountain sickness|Pulmonology
+BiPAP-ST|Bilevel positive airway pressure with spontaneous-timed mode|Pulmonology
+CXR PA/Lat|Posteroanterior and lateral chest x-ray|Pulmonology
+FEV3|Forced expiratory volume in three seconds|Pulmonology
+FeCO|Fractional exhaled carbon monoxide|Pulmonology
+Fio2|Fraction of inspired oxygen|Pulmonology
+GOLD stage|Severity grade of chronic obstructive pulmonary disease by airflow limitation|Pulmonology
+HAPE|High-altitude pulmonary edema|Pulmonology
+HACE|High-altitude cerebral edema|Pulmonology
+LAMA/LABA|Long-acting muscarinic antagonist and long-acting beta agonist combination|Pulmonology
+LUS|Lung ultrasound|Pulmonology
+MPAP|Mean pulmonary artery pressure|Pulmonology
+MTB|Mycobacterium tuberculosis|Pulmonology
+NAAT|Nucleic acid amplification test|Pulmonology
+NPPV|Noninvasive positive pressure ventilation|Pulmonology
+OLT|Orthotopic liver transplant|Pulmonology
+P0.1|Airway occlusion pressure at 100 milliseconds|Pulmonology
+PBW|Predicted body weight|Pulmonology
+PDE5i|Phosphodiesterase type 5 inhibitor|Pulmonology
+PFTs|Pulmonary function tests|Pulmonology
+PLMD|Periodic limb movement disorder|Pulmonology
+PLMS|Periodic limb movements of sleep|Pulmonology
+PMV|Prolonged mechanical ventilation|Pulmonology
+POC|Portable oxygen concentrator|Pulmonology
+POCUS|Point-of-care ultrasound|Pulmonology
+PROM|Patient-reported outcome measure|Pulmonology
+PRN|As needed|Pulmonology
+PSV trial|Pressure support ventilation trial|Pulmonology
+Qs/Qt|Shunt fraction|Pulmonology
+RASS|Richmond agitation-sedation scale|Pulmonology
+RLS|Restless legs syndrome|Pulmonology
+RV/TLC%|Percent residual volume to total lung capacity|Pulmonology
+SABA/SAMA|Short-acting beta agonist and short-acting muscarinic antagonist combination|Pulmonology
+SAD|Small airways disease|Pulmonology
+SAO2|Arterial oxygen saturation|Pulmonology
+SCUBA|Self-contained underwater breathing apparatus|Pulmonology
+SDD|Selective digestive decontamination|Pulmonology
+SLIT|Sublingual immunotherapy|Pulmonology
+SMART|Single maintenance and reliever therapy|Pulmonology
+SOFA|Sequential organ failure assessment|Pulmonology
+SPT|Skin prick test|Pulmonology
+TAPSE|Tricuspid annular plane systolic excursion|Pulmonology
+TcPCO2|Transcutaneous partial pressure of carbon dioxide|Pulmonology
+TLC%|Percent predicted total lung capacity|Pulmonology
+TRV|Tricuspid regurgitation velocity|Pulmonology
+TST|Tuberculin skin test|Pulmonology
+VAS|Visual analog scale|Pulmonology
+VCV|Volume-controlled ventilation|Pulmonology
+VTE prophylaxis|Prevention of venous thromboembolism|Pulmonology
+6MWT|Six-minute walk test|Pulmonology
+6MWD|Six-minute walk distance|Pulmonology
+MDD|Multidisciplinary discussion|Pulmonology
+EVAR|Endovascular aortic repair|Pulmonology
+PICS|Post-intensive care syndrome|Pulmonology
+PRF|Progressive pulmonary fibrosis|Pulmonology
+PPF|Progressive pulmonary fibrosis|Pulmonology
+LRT|Lower respiratory tract|Pulmonology
+URT|Upper respiratory tract|Pulmonology
+EGD|Esophagogastroduodenoscopy|Pulmonology
+mAb|Monoclonal antibody|Pulmonology
+IL-5|Interleukin-5|Pulmonology
+IL-4|Interleukin-4|Pulmonology
+IL-13|Interleukin-13|Pulmonology
+TSLP|Thymic stromal lymphopoietin|Pulmonology
+anti-IgE|Antibody against immunoglobulin E|Pulmonology
+anti-IL5|Antibody against interleukin-5|Pulmonology
+ETI|Elexacaftor, tezacaftor and ivacaftor combination|Pulmonology
+CFTR modulator|Drug that corrects cystic fibrosis transmembrane conductance regulator function|Pulmonology
+HTS|Hypertonic saline|Pulmonology
+DNase|Deoxyribonuclease|Pulmonology
+PERT|Pancreatic enzyme replacement therapy|Pulmonology
+Bcc|Burkholderia cepacia complex|Pulmonology
+ABPA-CF|Allergic bronchopulmonary aspergillosis in cystic fibrosis|Pulmonology
+IRT|Immunoreactive trypsinogen|Pulmonology
+tPA|Tissue plasminogen activator|Pulmonology
+CDT|Catheter-directed thrombolysis|Pulmonology
+IVC filter|Inferior vena cava filter|Pulmonology
+PESI|Pulmonary embolism severity index|Pulmonology
+sPESI|Simplified pulmonary embolism severity index|Pulmonology
+RVD|Right ventricular dysfunction|Pulmonology
+RV/LV|Right ventricle to left ventricle ratio|Pulmonology
+CURB-65|Confusion, urea, respiratory rate, blood pressure and age 65 pneumonia severity score|Pulmonology
+PSI|Pneumonia severity index|Pulmonology
+LRINEC|Laboratory risk indicator for necrotizing fasciitis|Pulmonology
+BODE|Body mass index, airflow obstruction, dyspnea and exercise capacity index|Pulmonology
+DECAF|Dyspnea, eosinopenia, consolidation, acidemia and atrial fibrillation score|Pulmonology
+STOP-BANG|Snoring, tired, observed apnea, pressure, body mass index, age, neck and gender questionnaire|Pulmonology
+ROX|Respiratory rate-oxygenation index|Pulmonology
+HACOR|Heart rate, acidosis, consciousness, oxygenation and respiratory rate score|Pulmonology
+RALE|Radiographic assessment of lung edema|Pulmonology
+DOT|Directly observed therapy|Pulmonology
+DOTS|Directly observed treatment, short-course|Pulmonology
+RR-TB|Rifampin-resistant tuberculosis|Pulmonology
+EMB|Ethambutol|Pulmonology
+TPT|Tuberculosis preventive therapy|Pulmonology
+3HP|Three months of weekly isoniazid and rifapentine|Pulmonology
+4R|Four months of daily rifampin|Pulmonology
+LAM-ELISA|Lipoarabinomannan antigen test|Pulmonology
+AFB smear|Acid-fast bacilli smear|Pulmonology
+MABC|Mycobacterium abscessus complex|Pulmonology
+RGM|Rapidly growing mycobacteria|Pulmonology
+ALIS|Amikacin liposome inhalation suspension|Pulmonology
+GM|Galactomannan|Pulmonology
+BDG|Beta-D-glucan|Pulmonology
+IA|Invasive aspergillosis|Pulmonology
+CPA|Chronic pulmonary aspergillosis|Pulmonology
+IPA|Invasive pulmonary aspergillosis|Pulmonology
+SAIA|Subacute invasive aspergillosis|Pulmonology
+PCP prophylaxis|Prevention of Pneumocystis pneumonia|Pulmonology
+TMP-SMX|Trimethoprim-sulfamethoxazole|Pulmonology
+HRCT-chest|High-resolution computed tomography of the chest|Pulmonology
+CT-A|Computed tomography angiography|Pulmonology
+VATS-LB|Video-assisted thoracoscopic lung biopsy|Pulmonology
+SLB|Surgical lung biopsy|Pulmonology
+CT-guided biopsy|Computed tomography-guided needle biopsy|Pulmonology
+ENB|Electromagnetic navigation bronchoscopy|Pulmonology
+RB-EBUS|Radial probe endobronchial ultrasound|Pulmonology
+rEBUS|Radial endobronchial ultrasound|Pulmonology
+EUS-B|Endoscopic ultrasound with bronchoscope|Pulmonology
+EUS-FNA|Endoscopic ultrasound-guided fine needle aspiration|Pulmonology
+CBCT|Cone-beam computed tomography|Pulmonology
+RP-EBUS|Radial probe endobronchial ultrasound|Pulmonology
+FFB|Flexible fiberoptic bronchoscopy|Pulmonology
+APC|Argon plasma coagulation|Pulmonology
+BT|Bronchial thermoplasty|Pulmonology
+PDT|Percutaneous dilatational tracheostomy|Pulmonology
+PDT|Photodynamic therapy|Pulmonology
+TRACH|Tracheostomy|Pulmonology
+TEP|Tracheoesophageal puncture|Pulmonology
+TEF|Tracheoesophageal fistula|Pulmonology
+SGS|Subglottic stenosis|Pulmonology
+CAO|Central airway obstruction|Pulmonology
+RSI|Rapid sequence intubation|Pulmonology
+LMA|Laryngeal mask airway|Pulmonology
+OPA|Oropharyngeal airway|Pulmonology
+NPA|Nasopharyngeal airway|Pulmonology
+BVM|Bag-valve-mask|Pulmonology
+ETT cuff|Endotracheal tube cuff|Pulmonology
+EtCO2|End-tidal carbon dioxide|Pulmonology
+EtO2|End-tidal oxygen|Pulmonology
+SIMV-PC|Synchronized intermittent mandatory ventilation with pressure control|Pulmonology
+A/C|Assist-control|Pulmonology
+AC|Assist-control|Pulmonology
+AC-VC|Assist-control volume control|Pulmonology
+AC-PC|Assist-control pressure control|Pulmonology
+CMV-AC|Continuous mandatory ventilation with assist-control|Pulmonology
+PC-IRV|Pressure-controlled inverse ratio ventilation|Pulmonology
+NAVA|Neurally adjusted ventilatory assist|Pulmonology
+PAV|Proportional assist ventilation|Pulmonology
+ATC|Automatic tube compensation|Pulmonology
+VAPS|Volume-assured pressure support|Pulmonology
+iVAPS|Intelligent volume-assured pressure support|Pulmonology
+APAP|Auto-titrating positive airway pressure|Pulmonology
+ACPAP|Auto-titrating continuous positive airway pressure|Pulmonology
+EPR|Expiratory pressure relief|Pulmonology
+MAD|Mandibular advancement device|Pulmonology
+HGNS|Hypoglossal nerve stimulation|Pulmonology
+UPPP|Uvulopalatopharyngoplasty|Pulmonology
+MMA|Maxillomandibular advancement|Pulmonology
+TECSA|Treatment-emergent central sleep apnea|Pulmonology
+MSLT|Multiple sleep latency test|Pulmonology
+HSAT|Home sleep apnea test|Pulmonology
+REM|Rapid eye movement sleep|Pulmonology
+NREM|Non-rapid eye movement sleep|Pulmonology
+TST|Total sleep time|Pulmonology
+WASO|Wake after sleep onset|Pulmonology
+CAI|Central apnea index|Pulmonology
+OAI|Obstructive apnea index|Pulmonology
+T90|Percentage of sleep time with oxygen saturation below 90 percent|Pulmonology
+CT90|Percentage of sleep time with oxygen saturation below 90 percent|Pulmonology
+EDS|Excessive daytime sleepiness|Pulmonology
+RBD|Rapid eye movement sleep behavior disorder|Pulmonology
+PAP adherence|Use of positive airway pressure therapy|Pulmonology
+NMD|Neuromuscular disease|Pulmonology
+MG|Myasthenia gravis|Pulmonology
+NIV-HMV|Home mechanical ventilation by noninvasive ventilation|Pulmonology
+HMV|Home mechanical ventilation|Pulmonology
+HVNIV|Home noninvasive ventilation|Pulmonology
+CCHS|Congenital central hypoventilation syndrome|Pulmonology
+PCF|Peak cough flow|Pulmonology
+MI-E|Mechanical insufflation-exsufflation|Pulmonology
+LVR|Lung volume recruitment|Pulmonology
+GPB|Glossopharyngeal breathing|Pulmonology
+SNIP|Sniff nasal inspiratory pressure|Pulmonology
+OSI|Oxygen saturation index|Pulmonology
+A-a|Alveolar-arterial|Pulmonology
+VAT|Ventilatory anaerobic threshold|Pulmonology
+O2 pulse|Oxygen consumption per heartbeat|Pulmonology
+METs|Metabolic equivalents|Pulmonology
+CWR|Constant work rate|Pulmonology
+ISWT|Incremental shuttle walk test|Pulmonology
+ESWT|Endurance shuttle walk test|Pulmonology
+AOT|Ambulatory oxygen therapy|Pulmonology
+L/min|Liters per minute|Pulmonology
+NC O2|Nasal cannula oxygen|Pulmonology
+PRM|Partial rebreather mask|Pulmonology
+NRM|Non-rebreather mask|Pulmonology
+HHFNC|Heated humidified high-flow nasal cannula|Pulmonology
+HHHFNC|Heated humidified high-flow nasal cannula|Pulmonology
+HFOT|High-flow oxygen therapy|Pulmonology
+AWP|Awake prone positioning|Pulmonology
+APP|Awake prone positioning|Pulmonology
+PP|Prone positioning|Pulmonology
+NMBA|Neuromuscular blocking agent|Pulmonology
+CPOT|Critical-care pain observation tool|Pulmonology
+CAM-ICU|Confusion assessment method for the intensive care unit|Pulmonology
+SAT|Spontaneous awakening trial|Pulmonology
+SAT/SBT|Spontaneous awakening trial and spontaneous breathing trial|Pulmonology
+NIF|Negative inspiratory force|Pulmonology
+VFD|Ventilator-free days|Pulmonology
+LPV|Lung-protective ventilation|Pulmonology
+UIP pattern|Usual interstitial pneumonia pattern|Pulmonology
+NSIP pattern|Nonspecific interstitial pneumonia pattern|Pulmonology
+IPAF|Interstitial pneumonia with autoimmune features|Pulmonology
+PPFE|Pleuroparenchymal fibroelastosis|Pulmonology
+AFOP|Acute fibrinous and organizing pneumonia|Pulmonology
+CEP|Chronic eosinophilic pneumonia|Pulmonology
+HES|Hypereosinophilic syndrome|Pulmonology
+MCTD|Mixed connective tissue disease|Pulmonology
+SjS|Sjögren syndrome|Pulmonology
+ASS|Antisynthetase syndrome|Pulmonology
+MDA5|Melanoma differentiation-associated gene 5 antibody|Pulmonology
+ANA|Antinuclear antibody|Pulmonology
+RF|Rheumatoid factor|Pulmonology
+anti-CCP|Anti-cyclic citrullinated peptide antibody|Pulmonology
+dsDNA|Double-stranded deoxyribonucleic acid|Pulmonology
+SSA|Sjögren syndrome antigen A|Pulmonology
+SSB|Sjögren syndrome antigen B|Pulmonology
+ESR|Erythrocyte sedimentation rate|Pulmonology
+ACE level|Serum angiotensin-converting enzyme level|Pulmonology
+sIL-2R|Soluble interleukin-2 receptor|Pulmonology
+PR3|Proteinase 3|Pulmonology
+MPO|Myeloperoxidase|Pulmonology
+c-ANCA|Cytoplasmic antineutrophil cytoplasmic antibody|Pulmonology
+p-ANCA|Perinuclear antineutrophil cytoplasmic antibody|Pulmonology
+anti-GBM|Anti-glomerular basement membrane antibody|Pulmonology
+AAV|Antineutrophil cytoplasmic antibody-associated vasculitis|Pulmonology
+BHL|Bilateral hilar lymphadenopathy|Pulmonology
+EN|Erythema nodosum|Pulmonology
+IVMP|Intravenous methylprednisolone|Pulmonology
+CDH|Congenital diaphragmatic hernia|Pulmonology
+CPAM|Congenital pulmonary airway malformation|Pulmonology
+AVM|Arteriovenous malformation|Pulmonology
+HHT|Hereditary hemorrhagic telangiectasia|Pulmonology
+PH-ILD|Pulmonary hypertension associated with interstitial lung disease|Pulmonology
+PH-COPD|Pulmonary hypertension associated with chronic obstructive pulmonary disease|Pulmonology
+CTD-PAH|Connective tissue disease-associated pulmonary arterial hypertension|Pulmonology
+PoPH|Portopulmonary hypertension|Pulmonology
+PVH|Pulmonary venous hypertension|Pulmonology
+PCH|Pulmonary capillary hemangiomatosis|Pulmonology
+PPHN|Persistent pulmonary hypertension of the newborn|Pulmonology
+CHD-PAH|Congenital heart disease-associated pulmonary arterial hypertension|Pulmonology
+ES|Eisenmenger syndrome|Pulmonology
+Ipc-PH|Isolated postcapillary pulmonary hypertension|Pulmonology
+Cpc-PH|Combined postcapillary and precapillary pulmonary hypertension|Pulmonology
+PVD|Pulmonary vascular disease|Pulmonology
+PVR index|Pulmonary vascular resistance index|Pulmonology
+ERA|Endothelin receptor antagonist|Pulmonology
+PCA|Prostacyclin analogue|Pulmonology
+sGC|Soluble guanylate cyclase|Pulmonology
+sGCs|Soluble guanylate cyclase stimulator|Pulmonology
+PGI2|Prostacyclin|Pulmonology
+PTE surgery|Pulmonary thromboendarterectomy|Pulmonology
+PTEA|Pulmonary thromboendarterectomy|Pulmonology
+PAH-targeted therapy|Drug therapy aimed at pulmonary arterial hypertension|Pulmonology
+WHO FC|World Health Organization functional class|Pulmonology
+RHF|Right heart failure|Pulmonology
+RAE|Right atrial enlargement|Pulmonology
+RVH|Right ventricular hypertrophy|Pulmonology
+RVE|Right ventricular enlargement|Pulmonology
+PASP|Pulmonary artery systolic pressure|Pulmonology
+PADP|Pulmonary artery diastolic pressure|Pulmonology
+PA/Ao|Pulmonary artery to aorta ratio|Pulmonology
+MPA|Main pulmonary artery|Pulmonology
+RPA|Right pulmonary artery|Pulmonology
+LPA|Left pulmonary artery|Pulmonology
+PV|Pulmonary vein|Pulmonology
+PVs|Pulmonary veins|Pulmonology
+SCD|Sickle cell disease|Pulmonology
+ACS|Acute chest syndrome|Pulmonology
+MetHb|Methemoglobin|Pulmonology
+CO poisoning|Carbon monoxide poisoning|Pulmonology
+HBOT|Hyperbaric oxygen therapy|Pulmonology
+DCS|Decompression sickness|Pulmonology
+PSP|Primary spontaneous pneumothorax|Pulmonology
+SSP|Secondary spontaneous pneumothorax|Pulmonology
+CTS|Chest tube suction|Pulmonology
+WS|Water seal|Pulmonology
+IPC drain|Indwelling pleural catheter drainage|Pulmonology
+PE|Pleural effusion|Pulmonology
+MPE|Malignant pleural effusion|Pulmonology
+PPE|Parapneumonic effusion|Pulmonology
+CPE|Complicated parapneumonic effusion|Pulmonology
+EMP|Empyema|Pulmonology
+TPE|Tuberculous pleural effusion|Pulmonology
+tPA/DNase|Tissue plasminogen activator with deoxyribonuclease|Pulmonology
+VATS-PD|Video-assisted thoracoscopic pleurodesis|Pulmonology
+NEB|Nebulizer|Pulmonology
+NEBS|Nebulizer treatments|Pulmonology
+SVN|Small-volume nebulizer|Pulmonology
+HHN|Hand-held nebulizer|Pulmonology
+LVN|Large-volume nebulizer|Pulmonology
+IPV|Intrapulmonary percussive ventilation|Pulmonology
+HFCWO|High-frequency chest wall oscillation|Pulmonology
+OPEP|Oscillating positive expiratory pressure|Pulmonology
+PEP mask|Positive expiratory pressure mask|Pulmonology
+IS|Incentive spirometry|Pulmonology
+CPT|Chest physical therapy|Pulmonology
+SMI|Soft mist inhaler|Pulmonology
+pMDI|Pressurized metered-dose inhaler|Pulmonology
+VHC|Valved holding chamber|Pulmonology
+LAMA-LABA-ICS|Long-acting muscarinic antagonist, long-acting beta agonist and inhaled corticosteroid triple therapy|Pulmonology
+SITT|Single-inhaler triple therapy|Pulmonology
+MITT|Multiple-inhaler triple therapy|Pulmonology
+PDE4|Phosphodiesterase type 4|Pulmonology
+PDE4i|Phosphodiesterase type 4 inhibitor|Pulmonology

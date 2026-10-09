@@ -1,0 +1,655 @@
+OS|Left eye (oculus sinister)|Ophthalmology
+OU|Both eyes (oculus uterque)|Ophthalmology
+AU|Both ears (auris uterque)|Ophthalmology
+VA|Visual acuity|Ophthalmology
+BCVA|Best corrected visual acuity|Ophthalmology
+UCVA|Uncorrected visual acuity|Ophthalmology
+CC|With correction (with glasses or contacts)|Ophthalmology
+SC|Without correction|Ophthalmology
+CF|Counting fingers vision|Ophthalmology
+HM|Hand motion vision|Ophthalmology
+LP|Light perception|Ophthalmology
+NLP|No light perception|Ophthalmology
+LP w/ proj|Light perception with projection|Ophthalmology
+cc|With correction|Ophthalmology
+DVA|Distance visual acuity|Ophthalmology
+NVA|Near visual acuity|Ophthalmology
+CSM|Central, steady, maintained fixation|Ophthalmology
+CSUM|Central, steady, unmaintained fixation|Ophthalmology
+CUSM|Central, unsteady, maintained fixation|Ophthalmology
+IOP|Intraocular pressure|Ophthalmology
+NCT|Non-contact tonometry|Ophthalmology
+EOM|Extraocular movements|Ophthalmology
+EOMI|Extraocular movements intact|Ophthalmology
+EOMF|Extraocular movements full|Ophthalmology
+PERRL|Pupils equal, round, reactive to light|Ophthalmology
+PERRLA|Pupils equal, round, reactive to light and accommodation|Ophthalmology
+PERL|Pupils equal and reactive to light|Ophthalmology
+RAPD|Relative afferent pupillary defect|Ophthalmology
+APD|Afferent pupillary defect|Ophthalmology
+CVF|Confrontation visual fields|Ophthalmology
+SAP|Standard automated perimetry|Ophthalmology
+SWAP|Short-wavelength automated perimetry|Ophthalmology
+FDT|Frequency doubling technology perimetry|Ophthalmology
+MD|Mean deviation (visual field index)|Ophthalmology
+PSD|Pattern standard deviation (visual field index)|Ophthalmology
+VFI|Visual field index|Ophthalmology
+GHT|Glaucoma hemifield test|Ophthalmology
+FL|Fixation losses|Ophthalmology
+FP|False positives|Ophthalmology
+FN|False negatives|Ophthalmology
+SLE|Slit lamp examination|Ophthalmology
+DFE|Dilated fundus examination|Ophthalmology
+DFE|Dilated funduscopic exam|Ophthalmology
+IDO|Indirect ophthalmoscopy|Ophthalmology
+BIO|Binocular indirect ophthalmoscope|Ophthalmology
+SD|Scleral depression|Ophthalmology
+C/D|Cup-to-disc ratio|Ophthalmology
+CDR|Cup-to-disc ratio|Ophthalmology
+VCDR|Vertical cup-to-disc ratio|Ophthalmology
+RNFL|Retinal nerve fiber layer|Ophthalmology
+NRR|Neuroretinal rim|Ophthalmology
+AC|Anterior chamber|Ophthalmology
+A/C|Anterior chamber|Ophthalmology
+D&Q|Deep and quiet (anterior chamber)|Ophthalmology
+NSC|No significant change|Ophthalmology
+C&F|Cell and flare|Ophthalmology
+KP|Keratic precipitates|Ophthalmology
+MGKP|Mutton-fat keratic precipitates|Ophthalmology
+PAS|Peripheral anterior synechiae|Ophthalmology
+PS|Posterior synechiae|Ophthalmology
+NVI|Neovascularization of the iris|Ophthalmology
+NVA|Neovascularization of the angle|Ophthalmology
+NVD|Neovascularization of the disc|Ophthalmology
+NVE|Neovascularization elsewhere|Ophthalmology
+NV|Neovascularization|Ophthalmology
+CNV|Choroidal neovascularization|Ophthalmology
+CNVM|Choroidal neovascular membrane|Ophthalmology
+PCV|Polypoidal choroidal vasculopathy|Ophthalmology
+RAP|Retinal angiomatous proliferation|Ophthalmology
+AMD|Age-related macular degeneration|Ophthalmology
+ARMD|Age-related macular degeneration|Ophthalmology
+dAMD|Dry age-related macular degeneration|Ophthalmology
+wAMD|Wet age-related macular degeneration|Ophthalmology
+nAMD|Neovascular age-related macular degeneration|Ophthalmology
+GA|Geographic atrophy|Ophthalmology
+PED|Pigment epithelial detachment|Ophthalmology
+RPE|Retinal pigment epithelium|Ophthalmology
+CSR|Central serous retinopathy|Ophthalmology
+CSCR|Central serous chorioretinopathy|Ophthalmology
+CME|Cystoid macular edema|Ophthalmology
+DME|Diabetic macular edema|Ophthalmology
+CSME|Clinically significant macular edema|Ophthalmology
+CIME|Center-involving macular edema|Ophthalmology
+ME|Macular edema|Ophthalmology
+DR|Diabetic retinopathy|Ophthalmology
+NPDR|Non-proliferative diabetic retinopathy|Ophthalmology
+PDR|Proliferative diabetic retinopathy|Ophthalmology
+BDR|Background diabetic retinopathy|Ophthalmology
+DRSS|Diabetic retinopathy severity scale|Ophthalmology
+HRC|High-risk characteristics (of proliferative diabetic retinopathy)|Ophthalmology
+IRMA|Intraretinal microvascular abnormalities|Ophthalmology
+MA|Microaneurysms|Ophthalmology
+CWS|Cotton wool spots|Ophthalmology
+HE|Hard exudates|Ophthalmology
+PVD|Posterior vitreous detachment|Ophthalmology
+VMT|Vitreomacular traction|Ophthalmology
+VMA|Vitreomacular adhesion|Ophthalmology
+ERM|Epiretinal membrane|Ophthalmology
+MH|Macular hole|Ophthalmology
+FTMH|Full-thickness macular hole|Ophthalmology
+LMH|Lamellar macular hole|Ophthalmology
+PVR|Proliferative vitreoretinopathy|Ophthalmology
+RD|Retinal detachment|Ophthalmology
+RRD|Rhegmatogenous retinal detachment|Ophthalmology
+TRD|Tractional retinal detachment|Ophthalmology
+ERD|Exudative retinal detachment|Ophthalmology
+SRF|Subretinal fluid|Ophthalmology
+IRF|Intraretinal fluid|Ophthalmology
+SHRM|Subretinal hyperreflective material|Ophthalmology
+CRAO|Central retinal artery occlusion|Ophthalmology
+BRAO|Branch retinal artery occlusion|Ophthalmology
+CRVO|Central retinal vein occlusion|Ophthalmology
+BRVO|Branch retinal vein occlusion|Ophthalmology
+HRVO|Hemiretinal vein occlusion|Ophthalmology
+RVO|Retinal vein occlusion|Ophthalmology
+OIS|Ocular ischemic syndrome|Ophthalmology
+ROP|Retinopathy of prematurity|Ophthalmology
+RP|Retinitis pigmentosa|Ophthalmology
+CMV|Cytomegalovirus|Ophthalmology
+ARN|Acute retinal necrosis|Ophthalmology
+PORN|Progressive outer retinal necrosis|Ophthalmology
+CHRPE|Congenital hypertrophy of the retinal pigment epithelium|Ophthalmology
+MEWDS|Multiple evanescent white dot syndrome|Ophthalmology
+AMPPE|Acute posterior multifocal placoid pigment epitheliopathy|Ophthalmology
+APMPPE|Acute posterior multifocal placoid pigment epitheliopathy|Ophthalmology
+BCR|Birdshot chorioretinopathy|Ophthalmology
+POHS|Presumed ocular histoplasmosis syndrome|Ophthalmology
+MFC|Multifocal choroiditis|Ophthalmology
+CAR|Cancer-associated retinopathy|Ophthalmology
+OCT|Optical coherence tomography|Ophthalmology
+SD-OCT|Spectral-domain optical coherence tomography|Ophthalmology
+SS-OCT|Swept-source optical coherence tomography|Ophthalmology
+OCT-A|Optical coherence tomography angiography|Ophthalmology
+OCTA|Optical coherence tomography angiography|Ophthalmology
+AS-OCT|Anterior segment optical coherence tomography|Ophthalmology
+CST|Central subfield thickness|Ophthalmology
+CMT|Central macular thickness|Ophthalmology
+CFT|Central foveal thickness|Ophthalmology
+GCL|Ganglion cell layer|Ophthalmology
+GCC|Ganglion cell complex|Ophthalmology
+GCIPL|Ganglion cell-inner plexiform layer|Ophthalmology
+IPL|Inner plexiform layer|Ophthalmology
+INL|Inner nuclear layer|Ophthalmology
+ONL|Outer nuclear layer|Ophthalmology
+OPL|Outer plexiform layer|Ophthalmology
+ELM|External limiting membrane|Ophthalmology
+ILM|Internal limiting membrane|Ophthalmology
+EZ|Ellipsoid zone|Ophthalmology
+IS/OS|Inner segment/outer segment junction|Ophthalmology
+FA|Fluorescein angiography|Ophthalmology
+FFA|Fundus fluorescein angiography|Ophthalmology
+ICG|Indocyanine green angiography|Ophthalmology
+ICGA|Indocyanine green angiography|Ophthalmology
+FAF|Fundus autofluorescence|Ophthalmology
+FP|Fundus photography|Ophthalmology
+UWF|Ultra-widefield imaging|Ophthalmology
+IOL|Intraocular lens|Ophthalmology
+PCIOL|Posterior chamber intraocular lens|Ophthalmology
+ACIOL|Anterior chamber intraocular lens|Ophthalmology
+PC IOL|Posterior chamber intraocular lens|Ophthalmology
+AC IOL|Anterior chamber intraocular lens|Ophthalmology
+SFIOL|Scleral-fixated intraocular lens|Ophthalmology
+IFIOL|Iris-fixated intraocular lens|Ophthalmology
+PCO|Posterior capsule opacification|Ophthalmology
+PCR|Posterior capsule rupture|Ophthalmology
+ECCE|Extracapsular cataract extraction|Ophthalmology
+ICCE|Intracapsular cataract extraction|Ophthalmology
+PEA|Phacoemulsification and aspiration|Ophthalmology
+SICS|Small-incision cataract surgery|Ophthalmology
+MSICS|Manual small-incision cataract surgery|Ophthalmology
+CE|Cataract extraction|Ophthalmology
+CEIOL|Cataract extraction with intraocular lens|Ophthalmology
+OVD|Ophthalmic viscosurgical device|Ophthalmology
+FLACS|Femtosecond laser-assisted cataract surgery|Ophthalmology
+CTR|Capsular tension ring|Ophthalmology
+IFIS|Intraoperative floppy iris syndrome|Ophthalmology
+PXF|Pseudoexfoliation|Ophthalmology
+PXG|Pseudoexfoliation glaucoma|Ophthalmology
+NSC|Nuclear sclerotic cataract|Ophthalmology
+PSC|Posterior subcapsular cataract|Ophthalmology
+CC|Cortical cataract|Ophthalmology
+ASC|Anterior subcapsular cataract|Ophthalmology
+LOCS|Lens Opacities Classification System|Ophthalmology
+AL|Axial length|Ophthalmology
+ACD|Anterior chamber depth|Ophthalmology
+LT|Lens thickness|Ophthalmology
+WTW|White-to-white corneal diameter|Ophthalmology
+TIOL|Toric intraocular lens|Ophthalmology
+MIOL|Multifocal intraocular lens|Ophthalmology
+EDOF|Extended depth of focus (lens)|Ophthalmology
+POAG|Primary open-angle glaucoma|Ophthalmology
+PACG|Primary angle-closure glaucoma|Ophthalmology
+PAC|Primary angle closure|Ophthalmology
+PACS|Primary angle-closure suspect|Ophthalmology
+NTG|Normal-tension glaucoma|Ophthalmology
+OAG|Open-angle glaucoma|Ophthalmology
+ACG|Angle-closure glaucoma|Ophthalmology
+AACG|Acute angle-closure glaucoma|Ophthalmology
+CACG|Chronic angle-closure glaucoma|Ophthalmology
+NVG|Neovascular glaucoma|Ophthalmology
+JOAG|Juvenile open-angle glaucoma|Ophthalmology
+PG|Pigmentary glaucoma|Ophthalmology
+PDS|Pigment dispersion syndrome|Ophthalmology
+PCG|Primary congenital glaucoma|Ophthalmology
+OHT|Ocular hypertension|Ophthalmology
+GON|Glaucomatous optic neuropathy|Ophthalmology
+GS|Glaucoma suspect|Ophthalmology
+PI|Peripheral iridotomy|Ophthalmology
+ALT|Argon laser trabeculoplasty|Ophthalmology
+SLT|Selective laser trabeculoplasty|Ophthalmology
+LTP|Laser trabeculoplasty|Ophthalmology
+CPC|Cyclophotocoagulation|Ophthalmology
+TSCPC|Transscleral cyclophotocoagulation|Ophthalmology
+ECP|Endoscopic cyclophotocoagulation|Ophthalmology
+MIGS|Minimally invasive glaucoma surgery|Ophthalmology
+TE|Trabeculectomy|Ophthalmology
+MMC|Mitomycin C|Ophthalmology
+5-FU|Fluorouracil|Ophthalmology
+GDD|Glaucoma drainage device|Ophthalmology
+GATT|Gonioscopy-assisted transluminal trabeculotomy|Ophthalmology
+ABiC|Ab interno canaloplasty|Ophthalmology
+TM|Trabecular meshwork|Ophthalmology
+SC|Schlemm canal|Ophthalmology
+IOPcc|Corneal-compensated intraocular pressure|Ophthalmology
+CH|Corneal hysteresis|Ophthalmology
+CAI|Carbonic anhydrase inhibitor|Ophthalmology
+PGA|Prostaglandin analog|Ophthalmology
+ROCK|Rho kinase (inhibitor class)|Ophthalmology
+BAK|Benzalkonium chloride|Ophthalmology
+BAC|Benzalkonium chloride|Ophthalmology
+Gtt|Drops|Ophthalmology
+gtts|Drops|Ophthalmology
+QD|Once daily|Ophthalmology
+BID|Twice daily|Ophthalmology
+TID|Three times daily|Ophthalmology
+QID|Four times daily|Ophthalmology
+QHS|Every night at bedtime|Ophthalmology
+Q1H|Every hour|Ophthalmology
+Q2H|Every two hours|Ophthalmology
+PRN|As needed|Ophthalmology
+STAT|Immediately|Ophthalmology
+NPO|Nothing by mouth|Ophthalmology
+IVT|Intravitreal|Ophthalmology
+IVI|Intravitreal injection|Ophthalmology
+IVB|Intravitreal bevacizumab|Ophthalmology
+IVA|Intravitreal aflibercept|Ophthalmology
+IVR|Intravitreal ranibizumab|Ophthalmology
+IVTA|Intravitreal triamcinolone acetonide|Ophthalmology
+STTA|Sub-Tenon triamcinolone acetonide|Ophthalmology
+PSTA|Posterior sub-Tenon triamcinolone acetonide|Ophthalmology
+PDT|Photodynamic therapy|Ophthalmology
+vPDT|Verteporfin photodynamic therapy|Ophthalmology
+PRP|Panretinal photocoagulation|Ophthalmology
+PRP|Panretinal photocoagulation (scatter laser)|Ophthalmology
+FLP|Focal laser photocoagulation|Ophthalmology
+GLP|Grid laser photocoagulation|Ophthalmology
+FPC|Focal photocoagulation|Ophthalmology
+SML|Subthreshold micropulse laser|Ophthalmology
+BLR|Barrier laser retinopexy|Ophthalmology
+PPV|Pars plana vitrectomy|Ophthalmology
+25g PPV|25-gauge pars plana vitrectomy|Ophthalmology
+PPL|Pars plana lensectomy|Ophthalmology
+SB|Scleral buckle|Ophthalmology
+PR|Pneumatic retinopexy|Ophthalmology
+SF6|Sulfur hexafluoride gas|Ophthalmology
+C3F8|Perfluoropropane gas|Ophthalmology
+C2F6|Perfluoroethane gas|Ophthalmology
+PFCL|Perfluorocarbon liquid|Ophthalmology
+MP|Membrane peeling|Ophthalmology
+ILMP|Internal limiting membrane peeling|Ophthalmology
+RK|Radial keratotomy|Ophthalmology
+PRK|Photorefractive keratectomy|Ophthalmology
+LASEK|Laser-assisted subepithelial keratectomy|Ophthalmology
+PTK|Phototherapeutic keratectomy|Ophthalmology
+ICL|Implantable collamer lens|Ophthalmology
+PKP|Penetrating keratoplasty|Ophthalmology
+DALK|Deep anterior lamellar keratoplasty|Ophthalmology
+ALK|Anterior lamellar keratoplasty|Ophthalmology
+DSAEK|Descemet stripping automated endothelial keratoplasty|Ophthalmology
+DMEK|Descemet membrane endothelial keratoplasty|Ophthalmology
+DSEK|Descemet stripping endothelial keratoplasty|Ophthalmology
+DSO|Descemet stripping only|Ophthalmology
+KC|Keratoconus|Ophthalmology
+PMD|Pellucid marginal degeneration|Ophthalmology
+EBMD|Epithelial basement membrane dystrophy|Ophthalmology
+RCE|Recurrent corneal erosion|Ophthalmology
+CE|Corneal edema|Ophthalmology
+CA|Corneal abrasion|Ophthalmology
+CU|Corneal ulcer|Ophthalmology
+PED|Persistent epithelial defect|Ophthalmology
+PEE|Punctate epithelial erosions|Ophthalmology
+SPK|Superficial punctate keratitis|Ophthalmology
+SPK|Superficial punctate keratopathy|Ophthalmology
+TBUT|Tear break-up time|Ophthalmology
+BUT|Break-up time|Ophthalmology
+NIBUT|Non-invasive break-up time|Ophthalmology
+DED|Dry eye disease|Ophthalmology
+KCS|Keratoconjunctivitis sicca|Ophthalmology
+DES|Dry eye syndrome|Ophthalmology
+ADDE|Aqueous-deficient dry eye|Ophthalmology
+EDE|Evaporative dry eye|Ophthalmology
+OSD|Ocular surface disease|Ophthalmology
+OSDI|Ocular Surface Disease Index|Ophthalmology
+SJ|Schirmer test|Ophthalmology
+IPL|Intense pulsed light|Ophthalmology
+HSK|Herpes simplex keratitis|Ophthalmology
+HSV|Herpes simplex virus|Ophthalmology
+HZO|Herpes zoster ophthalmicus|Ophthalmology
+VZV|Varicella zoster virus|Ophthalmology
+BK|Bacterial keratitis|Ophthalmology
+FK|Fungal keratitis|Ophthalmology
+EKC|Epidemic keratoconjunctivitis|Ophthalmology
+VKC|Vernal keratoconjunctivitis|Ophthalmology
+AKC|Atopic keratoconjunctivitis|Ophthalmology
+GPC|Giant papillary conjunctivitis|Ophthalmology
+SLK|Superior limbic keratoconjunctivitis|Ophthalmology
+SEI|Subepithelial infiltrates|Ophthalmology
+CL|Contact lens|Ophthalmology
+RGP|Rigid gas permeable (contact lens)|Ophthalmology
+SCL|Soft contact lens|Ophthalmology
+CLARE|Contact lens-associated red eye|Ophthalmology
+CLPU|Contact lens peripheral ulcer|Ophthalmology
+Ortho-K|Orthokeratology|Ophthalmology
+FQ|Fluoroquinolone|Ophthalmology
+CHX|Chlorhexidine|Ophthalmology
+PHMB|Polyhexamethylene biguanide|Ophthalmology
+AU|Anterior uveitis|Ophthalmology
+IU|Intermediate uveitis|Ophthalmology
+PU|Posterior uveitis|Ophthalmology
+PanU|Panuveitis|Ophthalmology
+JIA|Juvenile idiopathic arthritis|Ophthalmology
+AS|Ankylosing spondylitis|Ophthalmology
+SO|Sympathetic ophthalmia|Ophthalmology
+TB|Tuberculosis|Ophthalmology
+IRU|Immune recovery uveitis|Ophthalmology
+BRB|Blood-retinal barrier|Ophthalmology
+TNF|Tumor necrosis factor|Ophthalmology
+IMT|Immunomodulatory therapy|Ophthalmology
+GCA|Giant cell arteritis|Ophthalmology
+AION|Anterior ischemic optic neuropathy|Ophthalmology
+NAION|Non-arteritic anterior ischemic optic neuropathy|Ophthalmology
+AAION|Arteritic anterior ischemic optic neuropathy|Ophthalmology
+PION|Posterior ischemic optic neuropathy|Ophthalmology
+ON|Optic neuritis|Ophthalmology
+ON|Optic nerve|Ophthalmology
+ONSF|Optic nerve sheath fenestration|Ophthalmology
+IIH|Idiopathic intracranial hypertension|Ophthalmology
+PTC|Pseudotumor cerebri|Ophthalmology
+DOA|Dominant optic atrophy|Ophthalmology
+OA|Optic atrophy|Ophthalmology
+TON|Traumatic optic neuropathy|Ophthalmology
+NMOSD|Neuromyelitis optica spectrum disorder|Ophthalmology
+MS|Multiple sclerosis|Ophthalmology
+INO|Internuclear ophthalmoplegia|Ophthalmology
+CN|Cranial nerve|Ophthalmology
+CN III|Third cranial nerve (oculomotor)|Ophthalmology
+CN IV|Fourth cranial nerve (trochlear)|Ophthalmology
+CN VI|Sixth cranial nerve (abducens)|Ophthalmology
+CN VII|Seventh cranial nerve (facial)|Ophthalmology
+VEP|Visual evoked potential|Ophthalmology
+ERG|Electroretinogram|Ophthalmology
+ffERG|Full-field electroretinogram|Ophthalmology
+mfERG|Multifocal electroretinogram|Ophthalmology
+PERG|Pattern electroretinogram|Ophthalmology
+EOG|Electrooculogram|Ophthalmology
+CS|Contrast sensitivity|Ophthalmology
+CFF|Critical flicker fusion|Ophthalmology
+OKN|Optokinetic nystagmus|Ophthalmology
+VOR|Vestibulo-ocular reflex|Ophthalmology
+NPC|Near point of convergence|Ophthalmology
+NPA|Near point of accommodation|Ophthalmology
+CI|Convergence insufficiency|Ophthalmology
+CE|Convergence excess|Ophthalmology
+ET|Esotropia|Ophthalmology
+XT|Exotropia|Ophthalmology
+HT|Hypertropia|Ophthalmology
+RHT|Right hypertropia|Ophthalmology
+LHT|Left hypertropia|Ophthalmology
+E|Esophoria|Ophthalmology
+X|Exophoria|Ophthalmology
+IET|Infantile esotropia|Ophthalmology
+IXT|Intermittent exotropia|Ophthalmology
+SO|Superior oblique|Ophthalmology
+IO|Inferior oblique|Ophthalmology
+SR|Superior rectus|Ophthalmology
+IR|Inferior rectus|Ophthalmology
+MR|Medial rectus|Ophthalmology
+LR|Lateral rectus|Ophthalmology
+IOOA|Inferior oblique overaction|Ophthalmology
+SOOA|Superior oblique overaction|Ophthalmology
+SOP|Superior oblique palsy|Ophthalmology
+CSOP|Congenital superior oblique palsy|Ophthalmology
+PD|Prism diopters|Ophthalmology
+PD|Pupillary distance|Ophthalmology
+SPCT|Simultaneous prism and cover test|Ophthalmology
+APCT|Alternate prism cover test|Ophthalmology
+CT|Cover test|Ophthalmology
+ACT|Alternate cover test|Ophthalmology
+BV|Binocular vision|Ophthalmology
+SBV|Single binocular vision|Ophthalmology
+DBV|Double binocular vision|Ophthalmology
+ARC|Anomalous retinal correspondence|Ophthalmology
+NRC|Normal retinal correspondence|Ophthalmology
+ERC|Eccentric retinal correspondence|Ophthalmology
+MEN|Manifest esodeviation nystagmus|Ophthalmology
+LN|Latent nystagmus|Ophthalmology
+INS|Infantile nystagmus syndrome|Ophthalmology
+FSN|Fusion maldevelopment nystagmus syndrome|Ophthalmology
+CPA|Constant paralytic angle|Ophthalmology
+BTX|Botulinum toxin|Ophthalmology
+BTA|Botulinum toxin A|Ophthalmology
+TED|Thyroid eye disease|Ophthalmology
+CAS|Clinical activity score|Ophthalmology
+DON|Dysthyroid optic neuropathy|Ophthalmology
+TSH|Thyroid-stimulating hormone|Ophthalmology
+IGF-1R|Insulin-like growth factor 1 receptor|Ophthalmology
+OCS|Orbital compartment syndrome|Ophthalmology
+IOFB|Intraocular foreign body|Ophthalmology
+CFB|Corneal foreign body|Ophthalmology
+FB|Foreign body|Ophthalmology
+FBS|Foreign body sensation|Ophthalmology
+OGI|Open globe injury|Ophthalmology
+CGI|Closed globe injury|Ophthalmology
+SCH|Subconjunctival hemorrhage|Ophthalmology
+CRT|Commotio retinae|Ophthalmology
+BCC|Basal cell carcinoma|Ophthalmology
+SCC|Squamous cell carcinoma|Ophthalmology
+SGC|Sebaceous gland carcinoma|Ophthalmology
+OSSN|Ocular surface squamous neoplasia|Ophthalmology
+CIN|Conjunctival intraepithelial neoplasia|Ophthalmology
+CIS|Carcinoma in situ|Ophthalmology
+MM|Malignant melanoma|Ophthalmology
+CM|Choroidal melanoma|Ophthalmology
+CMM|Conjunctival malignant melanoma|Ophthalmology
+PAM|Primary acquired melanosis|Ophthalmology
+OPT|Ocular proton therapy|Ophthalmology
+PBT|Proton beam therapy|Ophthalmology
+EBRT|External beam radiation therapy|Ophthalmology
+GKRS|Gamma Knife radiosurgery|Ophthalmology
+BT|Brachytherapy|Ophthalmology
+TTT|Transpupillary thermotherapy|Ophthalmology
+PVRL|Primary vitreoretinal lymphoma|Ophthalmology
+PCNSL|Primary central nervous system lymphoma|Ophthalmology
+ROS|Review of systems|Ophthalmology
+HPI|History of present illness|Ophthalmology
+POHx|Past ocular history|Ophthalmology
+POH|Past ocular history|Ophthalmology
+PMH|Past medical history|Ophthalmology
+FOH|Family ocular history|Ophthalmology
+FH|Family history|Ophthalmology
+SH|Social history|Ophthalmology
+NKDA|No known drug allergies|Ophthalmology
+C/O|Complains of|Ophthalmology
+s/p|Status post|Ophthalmology
+h/o|History of|Ophthalmology
+f/u|Follow-up|Ophthalmology
+RTC|Return to clinic|Ophthalmology
+RTO|Return to office|Ophthalmology
+wks|Weeks|Ophthalmology
+mos|Months|Ophthalmology
+HST|Horseshoe tear|Ophthalmology
+RT|Retinal tear|Ophthalmology
+RH|Retinal hole|Ophthalmology
+LD|Lattice degeneration|Ophthalmology
+WWP|White without pressure|Ophthalmology
+WWOP|White with or without pressure|Ophthalmology
+CRD|Cone-rod dystrophy|Ophthalmology
+CD|Cone dystrophy|Ophthalmology
+CSNB|Congenital stationary night blindness|Ophthalmology
+XLRS|X-linked retinoschisis|Ophthalmology
+XLRP|X-linked retinitis pigmentosa|Ophthalmology
+LCA|Leber congenital amaurosis|Ophthalmology
+OCA|Oculocutaneous albinism|Ophthalmology
+OA|Ocular albinism|Ophthalmology
+FEVR|Familial exudative vitreoretinopathy|Ophthalmology
+APROP|Aggressive posterior retinopathy of prematurity|Ophthalmology
+AP-ROP|Aggressive posterior retinopathy of prematurity|Ophthalmology
+PHPV|Persistent hyperplastic primary vitreous|Ophthalmology
+PFV|Persistent fetal vasculature|Ophthalmology
+NLD|Nasolacrimal duct|Ophthalmology
+NLDO|Nasolacrimal duct obstruction|Ophthalmology
+DCR|Dacryocystorhinostomy|Ophthalmology
+MRD|Margin reflex distance|Ophthalmology
+MRD1|Margin reflex distance 1 (to upper lid)|Ophthalmology
+LPS|Levator palpebrae superioris|Ophthalmology
+CPEO|Chronic progressive external ophthalmoplegia|Ophthalmology
+MG|Myasthenia gravis|Ophthalmology
+OMG|Ocular myasthenia gravis|Ophthalmology
+AChR|Acetylcholine receptor|Ophthalmology
+Ach|Acetylcholine|Ophthalmology
+SFEMG|Single-fiber electromyography|Ophthalmology
+RNS|Repetitive nerve stimulation|Ophthalmology
+ULBL|Upper lid blepharoplasty|Ophthalmology
+LLBL|Lower lid blepharoplasty|Ophthalmology
+CH|Chalazion|Ophthalmology
+I&C|Incision and curettage|Ophthalmology
+I&D|Incision and drainage|Ophthalmology
+BCC|Basal cell carcinoma of eyelid|Ophthalmology
+MMS|Mohs micrographic surgery|Ophthalmology
+FFS|Frozen section|Ophthalmology
+CRP|C-reactive protein|Ophthalmology
+ESR|Erythrocyte sedimentation rate|Ophthalmology
+ANA|Antinuclear antibody|Ophthalmology
+ANCA|Antineutrophil cytoplasmic antibody|Ophthalmology
+ACE|Angiotensin-converting enzyme|Ophthalmology
+FTA-ABS|Fluorescent treponemal antibody absorption test|Ophthalmology
+RPR|Rapid plasma reagin|Ophthalmology
+VDRL|Venereal Disease Research Laboratory test|Ophthalmology
+IGRA|Interferon-gamma release assay|Ophthalmology
+PPD|Purified protein derivative (tuberculin skin test)|Ophthalmology
+PCR|Polymerase chain reaction|Ophthalmology
+CXR|Chest X-ray|Ophthalmology
+CT|Computed tomography|Ophthalmology
+CTA|Computed tomography angiography|Ophthalmology
+MRI|Magnetic resonance imaging|Ophthalmology
+MRA|Magnetic resonance angiography|Ophthalmology
+MRV|Magnetic resonance venography|Ophthalmology
+CTV|Computed tomography venography|Ophthalmology
+OP|Opening pressure|Ophthalmology
+CSF|Cerebrospinal fluid|Ophthalmology
+TIA|Transient ischemic attack|Ophthalmology
+CVA|Cerebrovascular accident|Ophthalmology
+AF|Atrial fibrillation|Ophthalmology
+CAD|Coronary artery disease|Ophthalmology
+HTN|Hypertension|Ophthalmology
+HLD|Hyperlipidemia|Ophthalmology
+DM|Diabetes mellitus|Ophthalmology
+DM2|Type 2 diabetes mellitus|Ophthalmology
+T2DM|Type 2 diabetes mellitus|Ophthalmology
+T1DM|Type 1 diabetes mellitus|Ophthalmology
+HbA1c|Glycated hemoglobin|Ophthalmology
+A1c|Glycated hemoglobin|Ophthalmology
+HTR|Hypertensive retinopathy|Ophthalmology
+AV|Arteriovenous|Ophthalmology
+AVN|Arteriovenous nicking|Ophthalmology
+A/V ratio|Arteriole to venule ratio|Ophthalmology
+SRNVM|Subretinal neovascular membrane|Ophthalmology
+FAZ|Foveal avascular zone|Ophthalmology
+SCP|Superficial capillary plexus|Ophthalmology
+DCP|Deep capillary plexus|Ophthalmology
+CVI|Choroidal vascularity index|Ophthalmology
+SFCT|Subfoveal choroidal thickness|Ophthalmology
+DRIL|Disorganization of the retinal inner layers|Ophthalmology
+SDD|Subretinal drusenoid deposits|Ophthalmology
+RPD|Reticular pseudodrusen|Ophthalmology
+CMV-R|Cytomegalovirus retinitis|Ophthalmology
+CMVR|Cytomegalovirus retinitis|Ophthalmology
+HIV|Human immunodeficiency virus|Ophthalmology
+HAART|Highly active antiretroviral therapy|Ophthalmology
+ART|Antiretroviral therapy|Ophthalmology
+TORCH|Toxoplasmosis, other, rubella, cytomegalovirus, herpes|Ophthalmology
+RC|Retinochoroiditis|Ophthalmology
+OT|Ocular toxoplasmosis|Ophthalmology
+OTX|Ocular toxocariasis|Ophthalmology
+DUSN|Diffuse unilateral subacute neuroretinitis|Ophthalmology
+CRS|Congenital rubella syndrome|Ophthalmology
+SLE|Systemic lupus erythematosus|Ophthalmology
+RA|Rheumatoid arthritis|Ophthalmology
+GPA|Granulomatosis with polyangiitis|Ophthalmology
+TEN|Toxic epidermal necrolysis|Ophthalmology
+OCP|Ocular cicatricial pemphigoid|Ophthalmology
+MMP|Mucous membrane pemphigoid|Ophthalmology
+GVHD|Graft-versus-host disease|Ophthalmology
+oGVHD|Ocular graft-versus-host disease|Ophthalmology
+HCQ|Hydroxychloroquine|Ophthalmology
+MTX|Methotrexate|Ophthalmology
+MMF|Mycophenolate mofetil|Ophthalmology
+CsA|Cyclosporine A|Ophthalmology
+AZA|Azathioprine|Ophthalmology
+PO|By mouth|Ophthalmology
+IV|Intravenous|Ophthalmology
+IM|Intramuscular|Ophthalmology
+SQ|Subcutaneous|Ophthalmology
+SC|Subcutaneous|Ophthalmology
+BSS|Balanced salt solution|Ophthalmology
+TPA|Tissue plasminogen activator|Ophthalmology
+CSM|Central steady maintained|Ophthalmology
+ETDRS|Early Treatment Diabetic Retinopathy Study chart|Ophthalmology
+MRx|Manifest refraction|Ophthalmology
+MR|Manifest refraction|Ophthalmology
+CR|Cycloplegic refraction|Ophthalmology
+CRx|Cycloplegic refraction|Ophthalmology
+ARK|Autorefractor keratometer|Ophthalmology
+WRx|Wearing glasses prescription|Ophthalmology
+CLRx|Contact lens prescription|Ophthalmology
+OC|Optical center|Ophthalmology
+PAL|Progressive addition lens|Ophthalmology
+PALs|Progressive addition lenses|Ophthalmology
+SV|Single vision|Ophthalmology
+FT|Flat top (bifocal)|Ophthalmology
+HM|High myopia|Ophthalmology
+PM|Pathologic myopia|Ophthalmology
+LB|Lacquer cracks|Ophthalmology
+MTM|Myopic traction maculopathy|Ophthalmology
+MCNV|Myopic choroidal neovascularization|Ophthalmology
+CVI|Cerebral visual impairment|Ophthalmology
+CVI|Cortical visual impairment|Ophthalmology
+AS|Anterior segment|Ophthalmology
+PS|Posterior segment|Ophthalmology
+ASOCT|Anterior segment optical coherence tomography|Ophthalmology
+NdYAG|Neodymium-doped yttrium aluminum garnet laser|Ophthalmology
+YAG cap|YAG laser capsulotomy|Ophthalmology
+YAG LPI|YAG laser peripheral iridotomy|Ophthalmology
+AK|Arcuate keratotomy|Ophthalmology
+HCU|Homocystinuria|Ophthalmology
+NF1|Neurofibromatosis type 1|Ophthalmology
+NF2|Neurofibromatosis type 2|Ophthalmology
+TSC|Tuberous sclerosis complex|Ophthalmology
+OPG|Optic pathway glioma|Ophthalmology
+OPG|Optic nerve glioma|Ophthalmology
+ONSM|Optic nerve sheath meningioma|Ophthalmology
+CLP|Cleft lip and palate|Ophthalmology
+FAS|Fetal alcohol syndrome|Ophthalmology
+IVH|Intraventricular hemorrhage|Ophthalmology
+NICU|Neonatal intensive care unit|Ophthalmology
+PMA|Postmenstrual age|Ophthalmology
+BW|Birth weight|Ophthalmology
+BCVA|Best-corrected visual acuity|Ophthalmology
+EOM|Extraocular muscle|Ophthalmology
+EUA|Examination under anesthesia|Ophthalmology
+EUA|Exam under anesthesia|Ophthalmology
+MAC|Monitored anesthesia care|Ophthalmology
+LA|Local anesthesia|Ophthalmology
+RBA|Retrobulbar anesthesia|Ophthalmology
+RBB|Retrobulbar block|Ophthalmology
+PBB|Peribulbar block|Ophthalmology
+STB|Sub-Tenon block|Ophthalmology
+OCR|Oculocardiac reflex|Ophthalmology
+MH|Malignant hyperthermia|Ophthalmology
+PONV|Postoperative nausea and vomiting|Ophthalmology
+OR|Operating room|Ophthalmology
+ASC|Ambulatory surgery center|Ophthalmology
+ED|Emergency department|Ophthalmology
+ER|Emergency room|Ophthalmology
+POD|Postoperative day|Ophthalmology
+POD1|Postoperative day 1|Ophthalmology
+POW1|Postoperative week 1|Ophthalmology
+POM1|Postoperative month 1|Ophthalmology
+PO|Postoperative|Ophthalmology
+POD|Post-op day|Ophthalmology
+PPA|Peripapillary atrophy|Ophthalmology
+BMO-MRW|Bruch membrane opening minimum rim width|Ophthalmology
+ONHD|Optic nerve head drusen|Ophthalmology
+ODD|Optic disc drusen|Ophthalmology
+SOD|Septo-optic dysplasia|Ophthalmology
+ACA|Anterior chamber angle|Ophthalmology
+AOD|Angle opening distance|Ophthalmology
+TISA|Trabecular-iris space area|Ophthalmology
+ARA|Angle recess area|Ophthalmology
+PI|Plateau iris|Ophthalmology
+PB|Pupillary block|Ophthalmology
+IB|Iris bombe|Ophthalmology
+ICE|Iridocorneal endothelial syndrome|Ophthalmology
+PPMD|Posterior polymorphous corneal dystrophy|Ophthalmology
+CHED|Congenital hereditary endothelial dystrophy|Ophthalmology

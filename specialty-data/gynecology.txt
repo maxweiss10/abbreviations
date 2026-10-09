@@ -1,0 +1,94 @@
+AUB|Abnormal uterine bleeding|Gynecology
+DUB|Dysfunctional uterine bleeding|Gynecology
+PCOS|Polycystic ovary syndrome|Gynecology
+PID|Pelvic inflammatory disease|Gynecology
+BV|Bacterial vaginosis|Gynecology
+VVC|Vulvovaginal candidiasis|Gynecology
+TV|Trichomonas vaginalis|Gynecology
+STI|Sexually transmitted infection|Gynecology
+PrEP|Preexposure prophylaxis|Gynecology
+LEEP|Loop electrosurgical excision procedure|Gynecology
+LSIL|Low-grade squamous intraepithelial lesion|Gynecology
+HSIL|High-grade squamous intraepithelial lesion|Gynecology
+ASCUS|Atypical squamous cells of undetermined significance|Gynecology
+AGUS|Atypical glandular cells of undetermined significance|Gynecology
+HPV|Human papillomavirus|Gynecology
+AIS|Adenocarcinoma in situ|Gynecology
+CIN|Cervical intraepithelial neoplasia|Gynecology
+VIN|Vulvar intraepithelial neoplasia|Gynecology
+VAIN|Vaginal intraepithelial neoplasia|Gynecology
+CIN1|Cervical intraepithelial neoplasia grade 1|Gynecology
+CIN2|Cervical intraepithelial neoplasia grade 2|Gynecology
+CIN3|Cervical intraepithelial neoplasia grade 3|Gynecology
+TVUS|Transvaginal ultrasound|Gynecology
+HSG|Hysterosalpingogram|Gynecology
+PAP|Papanicolaou test (Pap smear)|Gynecology
+HPV-DNA|Human papillomavirus DNA test|Gynecology
+COC|Combined oral contraceptive|Gynecology
+POP|Progestin-only pill|Gynecology
+DMPA|Depot medroxyprogesterone acetate|Gynecology
+IUD|Intrauterine device|Gynecology
+LNG-IUD|Levonorgestrel intrauterine device|Gynecology
+LARC|Long-acting reversible contraception|Gynecology
+NFP|Natural family planning|Gynecology
+IVF|In vitro fertilization|Gynecology
+IUI|Intrauterine insemination|Gynecology
+ART|Assisted reproductive technology|Gynecology
+OHSS|Ovarian hyperstimulation syndrome|Gynecology
+TOA|Tubo-ovarian abscess|Gynecology
+POI|Premature ovarian insufficiency|Gynecology
+POF|Premature ovarian failure|Gynecology
+AMH|Anti-Müllerian hormone|Gynecology
+FSH|Follicle-stimulating hormone|Gynecology
+LH|Luteinizing hormone|Gynecology
+E2|Estradiol|Gynecology
+P4|Progesterone|Gynecology
+GnRH|Gonadotropin-releasing hormone|Gynecology
+GnRHa|Gonadotropin-releasing hormone agonist|Gynecology
+HRT|Hormone replacement therapy|Gynecology
+MHT|Menopausal hormone therapy|Gynecology
+VMS|Vasomotor symptoms|Gynecology
+GSM|Genitourinary syndrome of menopause|Gynecology
+SUI|Stress urinary incontinence|Gynecology
+UUI|Urge urinary incontinence|Gynecology
+POP-Q|Pelvic organ prolapse quantification|Gynecology
+POP|Pelvic organ prolapse|Gynecology
+PFMT|Pelvic floor muscle training|Gynecology
+TVT|Transvaginal tape (midurethral sling)|Gynecology
+TOT|Transobturator tape|Gynecology
+IUGR|Intrauterine growth restriction|Gynecology
+PMB|Postmenopausal bleeding|Gynecology
+TAH|Total abdominal hysterectomy|Gynecology
+TLH|Total laparoscopic hysterectomy|Gynecology
+LAVH|Laparoscopically assisted vaginal hysterectomy|Gynecology
+LSH|Laparoscopic supracervical hysterectomy|Gynecology
+TVH|Total vaginal hysterectomy|Gynecology
+BSO|Bilateral salpingo-oophorectomy|Gynecology
+USO|Unilateral salpingo-oophorectomy|Gynecology
+TOLAC|Trial of labor after cesarean|Gynecology
+VBAC|Vaginal birth after cesarean|Gynecology
+ECC|Endocervical curettage|Gynecology
+EMB|Endometrial biopsy|Gynecology
+D&C|Dilation and curettage|Gynecology
+D&E|Dilation and evacuation|Gynecology
+MVA|Manual vacuum aspiration|Gynecology
+IVF-ET|In vitro fertilization with embryo transfer|Gynecology
+PGT|Preimplantation genetic testing|Gynecology
+ET|Embryo transfer|Gynecology
+FET|Frozen embryo transfer|Gynecology
+ICSI|Intracytoplasmic sperm injection|Gynecology
+OCP|Oral contraceptive pill|Gynecology
+ECP|Emergency contraceptive pill|Gynecology
+TOP|Termination of pregnancy|Gynecology
+CA-125|Cancer antigen 125|Gynecology
+CA125|Cancer antigen 125|Gynecology
+HE4|Human epididymis protein 4|Gynecology
+ROMA|Risk of ovarian malignancy algorithm|Gynecology
+EOC|Epithelial ovarian cancer|Gynecology
+GTN|Gestational trophoblastic neoplasia|Gynecology
+GTD|Gestational trophoblastic disease|Gynecology
+HMB|Heavy menstrual bleeding|Gynecology
+LMP|Last menstrual period|Gynecology
+PMS|Premenstrual syndrome|Gynecology
+PMDD|Premenstrual dysphoric disorder|Gynecology
+VLP|Vulvar lichen planus|Gynecology
