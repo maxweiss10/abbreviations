@@ -29,7 +29,7 @@
 <main>
 <div class="bar">Medical Acronym Decoder</div>
 <div class="row">
-  <input id="q" type="search" placeholder="Acronym, string (3VCAD, s/p CABG), or a word…" autofocus autocomplete="off">
+  <input id="q" type="search" placeholder="Acronym or compound (3VCAD, s/p CABG)…" autofocus autocomplete="off">
   <select id="spec"><option value="">All specialties</option></select>
 </div>
 <div id="dec"></div>
@@ -118,7 +118,7 @@ function render(){
   if(raw){
     rows=rows.map(e=>{const na=norm(e[0]);
       let s=9;
-      if(na===n) s=0; else if(na.startsWith(n)) s=1; else if(e[1].toLowerCase().includes(raw)) s=2;
+      if(na===n) s=0; else if(na.startsWith(n)) s=1;
       return [s,e];
     }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
   } else rows=rows.slice().sort((x,y)=>x[0].localeCompare(y[0]));

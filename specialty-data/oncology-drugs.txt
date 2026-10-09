@@ -1,0 +1,700 @@
+CDDP|Cisplatin|Oncology
+CPT-11|Irinotecan|Oncology
+L-OHP|Oxaliplatin|Oncology
+CBDCA|Carboplatin (platinum agent)|Oncology
+MTX-IT|Intrathecal methotrexate|Oncology
+IT|Intrathecal|Oncology
+ITC|Intrathecal chemotherapy|Oncology
+IV|Intravenous|Oncology
+PO|By mouth|Oncology
+SC|Subcutaneous|Oncology
+IVPB|Intravenous piggyback|Oncology
+CIVI|Continuous intravenous infusion|Oncology
+LV|Leucovorin (folinic acid)|Oncology
+FA|Folinic acid|Oncology
+mesna|Mesna uroprotectant for ifosfamide and cyclophosphamide|Oncology
+IFOS|Ifosfamide|Oncology
+CPA|Cyclophosphamide|Oncology
+HD-CTX|High-dose cyclophosphamide|Oncology
+MEL|Melphalan|Oncology
+HDM|High-dose melphalan|Oncology
+Mel140|Melphalan 140 mg/m2 conditioning|Oncology
+Mel200|Melphalan 200 mg/m2 conditioning|Oncology
+BU|Busulfan|Oncology
+CLB|Chlorambucil|Oncology
+BEN|Bendamustine|Oncology
+BCNU|Carmustine|Oncology
+CCNU|Lomustine|Oncology
+PCZ|Procarbazine|Oncology
+TEPA|Thiotepa|Oncology
+FLU|Fludarabine|Oncology
+F-ara-A|Fludarabine|Oncology
+CLA|Cladribine|Oncology
+2-CdA|Cladribine|Oncology
+CLO|Clofarabine|Oncology
+NEL|Nelarabine|Oncology
+DAC|Decitabine|Oncology
+AZA|Azacitidine|Oncology
+AZA-VEN|Azacitidine plus venetoclax|Oncology
+HiDAC|High-dose cytarabine|Oncology
+IDAC|Intermediate-dose cytarabine|Oncology
+LDAC|Low-dose cytarabine|Oncology
+LoDAC|Low-dose cytarabine|Oncology
+IDA|Idarubicin|Oncology
+EPI|Epirubicin|Oncology
+MIT|Mitoxantrone|Oncology
+MITO|Mitoxantrone|Oncology
+DAUNO|Daunorubicin|Oncology
+PLD|Pegylated liposomal doxorubicin|Oncology
+LD|Liposomal doxorubicin|Oncology
+DXR|Doxorubicin|Oncology
+ADR|Doxorubicin (Adriamycin)|Oncology
+CPX-351|Liposomal daunorubicin and cytarabine|Oncology
+ACT-D|Dactinomycin|Oncology
+DACT|Dactinomycin|Oncology
+MMC|Mitomycin C (alkylating antibiotic)|Oncology
+TOPO|Topotecan|Oncology
+TPT|Topotecan|Oncology
+VP-16|Etoposide|Oncology
+VM-26|Teniposide|Oncology
+VCR|Vincristine (vinca alkaloid)|Oncology
+VDS|Vindesine|Oncology
+nab-PTX|Nanoparticle albumin-bound paclitaxel|Oncology
+nab-P|Nanoparticle albumin-bound paclitaxel|Oncology
+CBZ|Cabazitaxel|Oncology
+ERI|Eribulin|Oncology
+IXA|Ixabepilone|Oncology
+PEM|Pemetrexed|Oncology
+PMX|Pemetrexed|Oncology
+PRALA|Pralatrexate|Oncology
+RTX|Raltitrexed|Oncology
+TAS-102|Trifluridine and tipiracil|Oncology
+FTD/TPI|Trifluridine and tipiracil|Oncology
+S-1|Tegafur, gimeracil and oteracil oral fluoropyrimidine|Oncology
+UFT|Tegafur-uracil|Oncology
+DPD|Dihydropyrimidine dehydrogenase|Oncology
+DPYD|Dihydropyrimidine dehydrogenase deficiency testing|Oncology
+5-FU/LV|Fluorouracil with leucovorin|Oncology
+LV5FU2|Leucovorin and infusional fluorouracil regimen|Oncology
+FUDR|Floxuridine|Oncology
+FUDR-HAI|Floxuridine hepatic arterial infusion|Oncology
+TPZ|Tirapazamine|Oncology
+TRAB|Trabectedin|Oncology
+LUR|Lurbinectedin|Oncology
+BORT|Bortezomib|Oncology
+BTZ|Bortezomib|Oncology
+CFZ|Carfilzomib|Oncology
+IXZ|Ixazomib|Oncology
+LEN|Lenalidomide|Oncology
+POM|Pomalidomide|Oncology
+THAL|Thalidomide|Oncology
+DEX|Dexamethasone|Oncology
+HD-DEX|High-dose dexamethasone|Oncology
+PRED|Prednisone|Oncology
+PDN|Prednisone|Oncology
+MP|Melphalan and prednisone|Oncology
+DARA|Daratumumab|Oncology
+DARA-SC|Subcutaneous daratumumab|Oncology
+ISA|Isatuximab|Oncology
+ELO|Elotuzumab|Oncology
+SEL|Selinexor|Oncology
+VEN|Venetoclax|Oncology
+VenR|Venetoclax and rituximab|Oncology
+VenO|Venetoclax and obinutuzumab|Oncology
+VenAza|Venetoclax and azacitidine|Oncology
+VD|Bortezomib and dexamethasone|Oncology
+Vd|Bortezomib and dexamethasone|Oncology
+Kd|Carfilzomib and dexamethasone|Oncology
+Pd|Pomalidomide and dexamethasone|Oncology
+PVd|Pomalidomide, bortezomib and dexamethasone|Oncology
+DPd|Daratumumab, pomalidomide and dexamethasone|Oncology
+DKd|Daratumumab, carfilzomib and dexamethasone|Oncology
+DVd|Daratumumab, bortezomib and dexamethasone|Oncology
+IsaKd|Isatuximab, carfilzomib and dexamethasone|Oncology
+IsaPd|Isatuximab, pomalidomide and dexamethasone|Oncology
+EloPd|Elotuzumab, pomalidomide and dexamethasone|Oncology
+SVd|Selinexor, bortezomib and dexamethasone|Oncology
+IRd|Ixazomib, lenalidomide and dexamethasone|Oncology
+VTD|Bortezomib, thalidomide and dexamethasone|Oncology
+VTd|Bortezomib, thalidomide and dexamethasone|Oncology
+VTD-PACE|Bortezomib, thalidomide, dexamethasone with cisplatin, doxorubicin, cyclophosphamide and etoposide|Oncology
+DCEP|Dexamethasone, cyclophosphamide, etoposide and cisplatin regimen|Oncology
+D-PACE|Dexamethasone with cisplatin, doxorubicin, cyclophosphamide and etoposide|Oncology
+CTD|Cyclophosphamide, thalidomide and dexamethasone regimen|Oncology
+CRd|Cyclophosphamide, lenalidomide and dexamethasone regimen|Oncology
+VAD|Vincristine, doxorubicin and dexamethasone regimen|Oncology
+D-Rd|Daratumumab, lenalidomide and dexamethasone|Oncology
+D-VMP|Daratumumab, bortezomib, melphalan and prednisone|Oncology
+D-KRd|Daratumumab, carfilzomib, lenalidomide and dexamethasone|Oncology
+Isa-VRd|Isatuximab, bortezomib, lenalidomide and dexamethasone|Oncology
+Len maint|Lenalidomide maintenance|Oncology
+RVD|Lenalidomide, bortezomib and dexamethasone regimen|Oncology
+RTX|Rituximab|Oncology
+RIT|Rituximab|Oncology
+R-bendamustine|Rituximab and bendamustine|Oncology
+GA101|Obinutuzumab|Oncology
+G-Clb|Obinutuzumab and chlorambucil|Oncology
+R-Clb|Rituximab and chlorambucil|Oncology
+G-CHOP|Obinutuzumab plus CHOP regimen|Oncology
+R-miniCHOP|Reduced-dose rituximab plus CHOP regimen|Oncology
+Pola-R-CHP|Polatuzumab vedotin, rituximab, cyclophosphamide, doxorubicin and prednisone|Oncology
+Pola-BR|Polatuzumab vedotin with bendamustine and rituximab|Oncology
+POLA|Polatuzumab vedotin|Oncology
+R-GemOx|Rituximab, gemcitabine and oxaliplatin regimen|Oncology
+GemOx|Gemcitabine and oxaliplatin regimen|Oncology
+R-DHAP|Rituximab, dexamethasone, high-dose cytarabine and cisplatin|Oncology
+R-DHAX|Rituximab, dexamethasone, high-dose cytarabine and oxaliplatin|Oncology
+R-GDP|Rituximab, gemcitabine, dexamethasone and cisplatin|Oncology
+R-ESHAP|Rituximab with ESHAP regimen|Oncology
+R-MPV|Rituximab, methotrexate, procarbazine and vincristine regimen|Oncology
+MATRix|Methotrexate, cytarabine, thiotepa and rituximab regimen|Oncology
+R-HyperCVAD|Rituximab with hyperfractionated cyclophosphamide, vincristine, doxorubicin and dexamethasone|Oncology
+HyperCVAD|Hyperfractionated cyclophosphamide, vincristine, doxorubicin and dexamethasone|Oncology
+Hyper-CVAD|Hyperfractionated cyclophosphamide, vincristine, doxorubicin and dexamethasone|Oncology
+CVAD|Cyclophosphamide, vincristine, doxorubicin and dexamethasone|Oncology
+CVP|Cyclophosphamide, vincristine and prednisone regimen|Oncology
+COP|Cyclophosphamide, vincristine and prednisone regimen|Oncology
+CEOP|Cyclophosphamide, epirubicin, vincristine and prednisone regimen|Oncology
+CHOEP|CHOP plus etoposide regimen|Oncology
+CODOX-M|Cyclophosphamide, vincristine, doxorubicin and methotrexate regimen|Oncology
+IVAC|Ifosfamide, etoposide and high-dose cytarabine regimen|Oncology
+R-CODOX-M/R-IVAC|Rituximab with CODOX-M alternating with IVAC|Oncology
+SMILE|Dexamethasone, methotrexate, ifosfamide, L-asparaginase and etoposide regimen|Oncology
+Brentuximab-AVD|Brentuximab vedotin with doxorubicin, vinblastine and dacarbazine|Oncology
+BV-AVD|Brentuximab vedotin with doxorubicin, vinblastine and dacarbazine|Oncology
+A+AVD|Brentuximab vedotin plus doxorubicin, vinblastine and dacarbazine|Oncology
+AVD|Doxorubicin, vinblastine and dacarbazine regimen|Oncology
+escBEACOPP|Escalated BEACOPP regimen|Oncology
+BEACOPP-esc|Escalated BEACOPP regimen|Oncology
+ICE|Ifosfamide, carboplatin and etoposide regimen|Oncology
+IGEV|Ifosfamide, gemcitabine and vinorelbine regimen|Oncology
+GVD|Gemcitabine, vinorelbine and liposomal doxorubicin regimen|Oncology
+BV-Benda|Brentuximab vedotin and bendamustine|Oncology
+Nivo|Nivolumab|Oncology
+NIVO|Nivolumab|Oncology
+PEMBRO|Pembrolizumab|Oncology
+Pembro|Pembrolizumab|Oncology
+IPI|Ipilimumab|Oncology
+Ipi|Ipilimumab|Oncology
+Ipi/Nivo|Ipilimumab plus nivolumab|Oncology
+Ipi-Nivo|Ipilimumab plus nivolumab|Oncology
+Atezo|Atezolizumab|Oncology
+ATEZO|Atezolizumab|Oncology
+DURVA|Durvalumab|Oncology
+Durva|Durvalumab|Oncology
+Treme|Tremelimumab|Oncology
+TREME|Tremelimumab|Oncology
+Cemip|Cemiplimab|Oncology
+CEMI|Cemiplimab|Oncology
+Avelu|Avelumab|Oncology
+AVE|Avelumab|Oncology
+Dostar|Dostarlimab|Oncology
+Retifan|Retifanlimab|Oncology
+Tisle|Tislelizumab|Oncology
+Cadon|Cadonilimab|Oncology
+Rela|Relatlimab|Oncology
+Nivo-Rela|Nivolumab plus relatlimab|Oncology
+Atezo-Bev|Atezolizumab plus bevacizumab|Oncology
+IO|Immuno-oncology|Oncology
+IO therapy|Immuno-oncology therapy|Oncology
+ICB|Immune checkpoint blockade|Oncology
+CPI|Checkpoint inhibitor|Oncology
+PD-1i|PD-1 inhibitor|Oncology
+PD-L1i|PD-L1 inhibitor|Oncology
+CTLA-4i|CTLA-4 inhibitor|Oncology
+LAG-3|Lymphocyte-activation gene 3|Oncology
+TIGIT|T-cell immunoreceptor with Ig and ITIM domains|Oncology
+TIM-3|T-cell immunoglobulin and mucin-domain containing-3|Oncology
+IO-TKI|Immunotherapy plus tyrosine kinase inhibitor combination|Oncology
+ICI-colitis|Immune checkpoint inhibitor colitis|Oncology
+ICI-pneumonitis|Immune checkpoint inhibitor pneumonitis|Oncology
+ICI-hepatitis|Immune checkpoint inhibitor hepatitis|Oncology
+ICI-myocarditis|Immune checkpoint inhibitor myocarditis|Oncology
+ir-colitis|Immune-related colitis|Oncology
+ir-hepatitis|Immune-related hepatitis|Oncology
+ir-pneumonitis|Immune-related pneumonitis|Oncology
+irAEs|Immune-related adverse events|Oncology
+T-DM1|Ado-trastuzumab emtansine|Oncology
+T-DXd|Trastuzumab deruxtecan|Oncology
+DS-8201|Trastuzumab deruxtecan|Oncology
+SG|Sacituzumab govitecan|Oncology
+Dato-DXd|Datopotamab deruxtecan|Oncology
+EV|Enfortumab vedotin|Oncology
+EV-P|Enfortumab vedotin plus pembrolizumab|Oncology
+TV|Tisotumab vedotin|Oncology
+MIRV|Mirvetuximab soravtansine|Oncology
+BV|Brentuximab vedotin (antibody-drug conjugate)|Oncology
+InO|Inotuzumab ozogamicin|Oncology
+GO|Gemtuzumab ozogamicin|Oncology
+Loncas|Loncastuximab tesirine|Oncology
+Lonca|Loncastuximab tesirine|Oncology
+Belantamab|Belantamab mafodotin|Oncology
+Belamaf|Belantamab mafodotin|Oncology
+MMAE|Monomethyl auristatin E|Oncology
+MMAF|Monomethyl auristatin F|Oncology
+DM1|Mertansine (maytansinoid payload)|Oncology
+DXd|Deruxtecan (topoisomerase I inhibitor payload)|Oncology
+DAR|Drug-to-antibody ratio|Oncology
+Topo I|Topoisomerase I|Oncology
+Topo II|Topoisomerase II|Oncology
+TOP1i|Topoisomerase I inhibitor|Oncology
+TOP2i|Topoisomerase II inhibitor|Oncology
+Blina|Blinatumomab|Oncology
+BLINA|Blinatumomab|Oncology
+Tec|Teclistamab|Oncology
+Elran|Elranatamab|Oncology
+Tal|Talquetamab|Oncology
+Epco|Epcoritamab|Oncology
+Glofit|Glofitamab|Oncology
+Mosun|Mosunetuzumab|Oncology
+Tarla|Tarlatamab|Oncology
+Teclis|Teclistamab|Oncology
+BCMA|B-cell maturation antigen|Oncology
+GPRC5D|G protein-coupled receptor class C group 5 member D|Oncology
+BsAb|Bispecific antibody|Oncology
+BCMA-CAR-T|B-cell maturation antigen-directed CAR T-cell therapy|Oncology
+CD19-CAR-T|CD19-directed CAR T-cell therapy|Oncology
+Axi-cel|Axicabtagene ciloleucel|Oncology
+Tisa-cel|Tisagenlecleucel|Oncology
+Liso-cel|Lisocabtagene maraleucel|Oncology
+Brexu-cel|Brexucabtagene autoleucel|Oncology
+Ide-cel|Idecabtagene vicleucel|Oncology
+Cilta-cel|Ciltacabtagene autoleucel|Oncology
+Obe-cel|Obecabtagene autoleucel|Oncology
+LD chemo|Lymphodepleting chemotherapy|Oncology
+Flu/Cy|Fludarabine and cyclophosphamide lymphodepletion|Oncology
+TOCI|Tocilizumab|Oncology
+Toci|Tocilizumab|Oncology
+IL-2|Interleukin-2|Oncology
+HD IL-2|High-dose interleukin-2|Oncology
+IFN|Interferon|Oncology
+IFN-a|Interferon alfa|Oncology
+IFN-alpha|Interferon alfa|Oncology
+Peg-IFN|Pegylated interferon|Oncology
+T-VEC|Talimogene laherparepvec|Oncology
+BCG|Bacillus Calmette-Guerin|Oncology
+TLR|Toll-like receptor|Oncology
+LAK|Lymphokine-activated killer cell|Oncology
+DLI|Donor lymphocyte infusion|Oncology
+TCR-T|T-cell receptor-engineered T-cell therapy|Oncology
+TCR|T-cell receptor|Oncology
+NK|Natural killer cell|Oncology
+Treg|Regulatory T cell|Oncology
+TRAST|Trastuzumab|Oncology
+TRAS|Trastuzumab|Oncology
+HP|Trastuzumab and pertuzumab|Oncology
+THP|Docetaxel, trastuzumab and pertuzumab|Oncology
+TCHP|Docetaxel, carboplatin, trastuzumab and pertuzumab|Oncology
+TH|Paclitaxel and trastuzumab|Oncology
+TPH|Paclitaxel, pertuzumab and trastuzumab|Oncology
+AC-TH|Doxorubicin and cyclophosphamide followed by paclitaxel and trastuzumab|Oncology
+AC-THP|Doxorubicin and cyclophosphamide followed by docetaxel, trastuzumab and pertuzumab|Oncology
+AC-TCH|Doxorubicin and cyclophosphamide followed by docetaxel, carboplatin and trastuzumab|Oncology
+ddAC-T|Dose-dense doxorubicin and cyclophosphamide followed by a taxane|Oncology
+dd AC-T|Dose-dense doxorubicin and cyclophosphamide followed by a taxane|Oncology
+AC|Doxorubicin and cyclophosphamide regimen|Oncology
+EC|Epirubicin and cyclophosphamide regimen|Oncology
+FEC|Fluorouracil, epirubicin and cyclophosphamide regimen|Oncology
+FAC|Fluorouracil, doxorubicin and cyclophosphamide regimen|Oncology
+TAC|Docetaxel, doxorubicin and cyclophosphamide regimen|Oncology
+TC|Docetaxel and cyclophosphamide regimen|Oncology
+TC-H|Docetaxel, cyclophosphamide and trastuzumab|Oncology
+CAF|Cyclophosphamide, doxorubicin and fluorouracil regimen|Oncology
+GemCarbo|Gemcitabine and carboplatin regimen|Oncology
+XEL|Capecitabine|Oncology
+CAPTEM|Capecitabine and temozolomide|Oncology
+XELIRI|Capecitabine and irinotecan regimen|Oncology
+FOLFOXIRI|Fluorouracil, leucovorin, oxaliplatin and irinotecan regimen|Oncology
+mFOLFOX6|Modified FOLFOX6 regimen|Oncology
+mFOLFIRINOX|Modified FOLFIRINOX regimen|Oncology
+FOLFIRI-Bev|FOLFIRI with bevacizumab|Oncology
+FOLFOX-Bev|FOLFOX with bevacizumab|Oncology
+FOLFIRI-Pani|FOLFIRI with panitumumab|Oncology
+FOLFOX-Pani|FOLFOX with panitumumab|Oncology
+FOLFIRI-Cetux|FOLFIRI with cetuximab|Oncology
+FOLFOX-Cetux|FOLFOX with cetuximab|Oncology
+FOLFOX4|FOLFOX4 regimen of fluorouracil, leucovorin and oxaliplatin|Oncology
+FOLFOX6|FOLFOX6 regimen of fluorouracil, leucovorin and oxaliplatin|Oncology
+FLOT4|Fluorouracil, leucovorin, oxaliplatin and docetaxel (FLOT4) perioperative regimen|Oncology
+ECF|Epirubicin, cisplatin and fluorouracil regimen|Oncology
+ECX|Epirubicin, cisplatin and capecitabine regimen|Oncology
+EOX|Epirubicin, oxaliplatin and capecitabine regimen|Oncology
+DCF|Docetaxel, cisplatin and fluorouracil regimen|Oncology
+mDCF|Modified DCF regimen|Oncology
+CF|Cisplatin and fluorouracil regimen|Oncology
+TPF|Docetaxel, cisplatin and fluorouracil regimen|Oncology
+Carbo/Tax|Carboplatin and paclitaxel|Oncology
+CP|Carboplatin and paclitaxel regimen|Oncology
+CarboTaxol|Carboplatin and paclitaxel|Oncology
+Carbo-Pem|Carboplatin and pemetrexed|Oncology
+Cis-Pem|Cisplatin and pemetrexed|Oncology
+Carbo-Gem|Carboplatin and gemcitabine|Oncology
+Cis-Gem|Cisplatin and gemcitabine|Oncology
+Carbo-Etop|Carboplatin and etoposide|Oncology
+CE|Carboplatin and etoposide regimen|Oncology
+IP-Etop|Irinotecan and cisplatin regimen|Oncology
+IC|Irinotecan and cisplatin regimen|Oncology
+PCV|Procarbazine, lomustine and vincristine regimen|Oncology
+VAC|Vincristine, dactinomycin and cyclophosphamide regimen|Oncology
+VDC/IE|Vincristine, doxorubicin and cyclophosphamide alternating with ifosfamide and etoposide|Oncology
+VDC|Vincristine, doxorubicin and cyclophosphamide regimen|Oncology
+IE|Ifosfamide and etoposide regimen|Oncology
+MAID|Mesna, doxorubicin, ifosfamide and dacarbazine regimen|Oncology
+GemTax|Gemcitabine and docetaxel regimen|Oncology
+GD|Gemcitabine and docetaxel regimen|Oncology
+GnP|Gemcitabine and nab-paclitaxel regimen|Oncology
+Gem/nab-P|Gemcitabine and nab-paclitaxel|Oncology
+NALIRIFOX|Liposomal irinotecan, fluorouracil, leucovorin and oxaliplatin regimen|Oncology
+nal-IRI|Nanoliposomal irinotecan|Oncology
+Nal-IRI/5-FU/LV|Liposomal irinotecan with fluorouracil and leucovorin|Oncology
+PVB|Cisplatin, vinblastine and bleomycin regimen|Oncology
+TIP|Paclitaxel, ifosfamide and cisplatin regimen|Oncology
+VeIP|Vinblastine, ifosfamide and cisplatin regimen|Oncology
+VIP|Etoposide, ifosfamide and cisplatin regimen|Oncology
+TI-CE|High-dose paclitaxel and ifosfamide followed by carboplatin and etoposide|Oncology
+MAC-III|Methotrexate, dactinomycin and cyclophosphamide gestational trophoblastic regimen|Oncology
+EMA-CO|Etoposide, methotrexate, dactinomycin, cyclophosphamide and vincristine regimen|Oncology
+EMA/CO|Etoposide, methotrexate, dactinomycin, cyclophosphamide and vincristine regimen|Oncology
+MAP|Methotrexate, doxorubicin and cisplatin regimen|Oncology
+ICE-V|Ifosfamide, carboplatin and etoposide plus vincristine|Oncology
+Bev|Bevacizumab|Oncology
+BEV|Bevacizumab|Oncology
+Cetux|Cetuximab|Oncology
+CETUX|Cetuximab|Oncology
+Pani|Panitumumab|Oncology
+PANI|Panitumumab|Oncology
+Ramu|Ramucirumab|Oncology
+RAM|Ramucirumab|Oncology
+Necit|Necitumumab|Oncology
+Amivan|Amivantamab|Oncology
+Zolbet|Zolbetuximab|Oncology
+Nimo|Nimotuzumab|Oncology
+GD2|Disialoganglioside GD2|Oncology
+anti-GD2|Anti-GD2 antibody|Oncology
+anti-CD20|Anti-CD20 antibody|Oncology
+anti-CD38|Anti-CD38 antibody|Oncology
+anti-CD19|Anti-CD19 antibody|Oncology
+anti-CD22|Anti-CD22 antibody|Oncology
+anti-CD33|Anti-CD33 antibody|Oncology
+anti-CD30|Anti-CD30 antibody|Oncology
+anti-CD52|Anti-CD52 antibody|Oncology
+anti-CD79b|Anti-CD79b antibody|Oncology
+anti-EGFR|Anti-epidermal growth factor receptor antibody|Oncology
+anti-HER2|Anti-HER2 therapy|Oncology
+anti-VEGF|Anti-vascular endothelial growth factor therapy|Oncology
+anti-PD-1|Anti-PD-1 antibody|Oncology
+anti-PD-L1|Anti-PD-L1 antibody|Oncology
+anti-CTLA-4|Anti-CTLA-4 antibody|Oncology
+anti-RANKL|Anti-RANKL antibody|Oncology
+anti-CD20 mAb|Anti-CD20 monoclonal antibody|Oncology
+HER2-targeted|HER2-directed therapy|Oncology
+HER2i|HER2 inhibitor|Oncology
+EGFRi|Epidermal growth factor receptor inhibitor|Oncology
+VEGFi|Vascular endothelial growth factor inhibitor|Oncology
+VEGF-TKI|Vascular endothelial growth factor tyrosine kinase inhibitor|Oncology
+VEGFR-TKI|Vascular endothelial growth factor receptor tyrosine kinase inhibitor|Oncology
+ALK-TKI|Anaplastic lymphoma kinase tyrosine kinase inhibitor|Oncology
+ALKi|Anaplastic lymphoma kinase inhibitor|Oncology
+ROS1-TKI|ROS1 tyrosine kinase inhibitor|Oncology
+RET-TKI|RET tyrosine kinase inhibitor|Oncology
+MET-TKI|MET tyrosine kinase inhibitor|Oncology
+NTRK-TKI|NTRK tyrosine kinase inhibitor|Oncology
+FGFR-TKI|Fibroblast growth factor receptor tyrosine kinase inhibitor|Oncology
+FGFRi|Fibroblast growth factor receptor inhibitor|Oncology
+FLT3i|FLT3 inhibitor|Oncology
+IDH1i|IDH1 inhibitor|Oncology
+IDH2i|IDH2 inhibitor|Oncology
+IDHi|Isocitrate dehydrogenase inhibitor|Oncology
+MEKi|MEK inhibitor|Oncology
+BRAFi|BRAF inhibitor|Oncology
+BRAFi/MEKi|BRAF inhibitor plus MEK inhibitor|Oncology
+KRASi|KRAS inhibitor|Oncology
+KRAS G12Ci|KRAS G12C inhibitor|Oncology
+PI3Ki|Phosphoinositide 3-kinase inhibitor|Oncology
+AKTi|AKT inhibitor|Oncology
+JAKi|Janus kinase inhibitor|Oncology
+BCL2i|BCL-2 inhibitor|Oncology
+BCL-2i|BCL-2 inhibitor|Oncology
+XPO1i|Exportin-1 inhibitor|Oncology
+HDACi|Histone deacetylase inhibitor|Oncology
+EZH2i|EZH2 inhibitor|Oncology
+menin i|Menin inhibitor|Oncology
+Menini|Menin inhibitor|Oncology
+HHi|Hedgehog pathway inhibitor|Oncology
+SMOi|Smoothened inhibitor|Oncology
+CDK4/6|Cyclin-dependent kinase 4/6|Oncology
+CDK4/6 inhibitor|Cyclin-dependent kinase 4/6 inhibitor|Oncology
+CDK7i|CDK7 inhibitor|Oncology
+ATRi|ATR kinase inhibitor|Oncology
+WEE1i|WEE1 inhibitor|Oncology
+HIF-2a|Hypoxia-inducible factor 2 alpha|Oncology
+HIF-2ai|Hypoxia-inducible factor 2 alpha inhibitor|Oncology
+mTOR|Mammalian target of rapamycin|Oncology
+mTOR inhibitor|Mammalian target of rapamycin inhibitor|Oncology
+MKI|Multikinase inhibitor|Oncology
+mTKI|Multitargeted tyrosine kinase inhibitor|Oncology
+sTKI|Small-molecule tyrosine kinase inhibitor|Oncology
+1G TKI|First-generation tyrosine kinase inhibitor|Oncology
+2G TKI|Second-generation tyrosine kinase inhibitor|Oncology
+3G TKI|Third-generation tyrosine kinase inhibitor|Oncology
+1L|First-line therapy|Oncology
+2L|Second-line therapy|Oncology
+3L|Third-line therapy|Oncology
+2L+|Second-line therapy and beyond|Oncology
+3L+|Third-line therapy and beyond|Oncology
+4L+|Fourth-line therapy and beyond|Oncology
+1L TKI|First-line tyrosine kinase inhibitor therapy|Oncology
+IMA|Imatinib|Oncology
+DAS|Dasatinib|Oncology
+NIL|Nilotinib|Oncology
+BOS|Bosutinib|Oncology
+PON|Ponatinib|Oncology
+ASC|Asciminib|Oncology
+OSI|Osimertinib|Oncology
+OSIM|Osimertinib|Oncology
+ERL|Erlotinib|Oncology
+GEF|Gefitinib|Oncology
+AFA|Afatinib|Oncology
+LAZ|Lazertinib|Oncology
+Amivantamab-lazertinib|Amivantamab plus lazertinib|Oncology
+CRIZ|Crizotinib|Oncology
+ALEC|Alectinib|Oncology
+BRIG|Brigatinib|Oncology
+LORLA|Lorlatinib|Oncology
+CERI|Ceritinib|Oncology
+LAPA|Lapatinib|Oncology
+NERA|Neratinib|Oncology
+TUCA|Tucatinib|Oncology
+TUC|Tucatinib|Oncology
+PALBO|Palbociclib|Oncology
+RIBO|Ribociclib|Oncology
+ABEMA|Abemaciclib|Oncology
+Palbo|Palbociclib|Oncology
+Ribo|Ribociclib|Oncology
+Abema|Abemaciclib|Oncology
+EVE|Everolimus|Oncology
+EVER|Everolimus|Oncology
+ALP|Alpelisib|Oncology
+CAPIVA|Capivasertib|Oncology
+Capiva|Capivasertib|Oncology
+INAVO|Inavolisib|Oncology
+OLA|Olaparib|Oncology
+Ola|Olaparib|Oncology
+NIRA|Niraparib|Oncology
+Nira|Niraparib|Oncology
+RUCA|Rucaparib|Oncology
+Ruca|Rucaparib|Oncology
+TALA|Talazoparib|Oncology
+Tala|Talazoparib|Oncology
+Nira/Abi|Niraparib plus abiraterone|Oncology
+SUN|Sunitinib|Oncology
+SOR|Sorafenib|Oncology
+PAZ|Pazopanib|Oncology
+AXI|Axitinib|Oncology
+CABO|Cabozantinib|Oncology
+Cabo|Cabozantinib|Oncology
+LEN-PEM|Lenvatinib plus pembrolizumab|Oncology
+Lenva|Lenvatinib|Oncology
+LENVA|Lenvatinib|Oncology
+REGO|Regorafenib|Oncology
+Rego|Regorafenib|Oncology
+FRU|Fruquintinib|Oncology
+VAN|Vandetanib|Oncology
+SELPER|Selpercatinib|Oncology
+PRALSE|Pralsetinib|Oncology
+CAPM|Capmatinib|Oncology
+TEPO|Tepotinib|Oncology
+SOTO|Sotorasib|Oncology
+ADAG|Adagrasib|Oncology
+Soto|Sotorasib|Oncology
+Adagra|Adagrasib|Oncology
+DAB|Dabrafenib|Oncology
+TRAM|Trametinib|Oncology
+Dab/Tram|Dabrafenib plus trametinib|Oncology
+D+T|Dabrafenib plus trametinib|Oncology
+VEM|Vemurafenib|Oncology
+COBI|Cobimetinib|Oncology
+Vem/Cobi|Vemurafenib plus cobimetinib|Oncology
+ENCO|Encorafenib|Oncology
+BINI|Binimetinib|Oncology
+Enco/Bini|Encorafenib plus binimetinib|Oncology
+Enco-Cetux|Encorafenib plus cetuximab|Oncology
+IBR|Ibrutinib|Oncology
+IBRU|Ibrutinib|Oncology
+ACALA|Acalabrutinib|Oncology
+ZANU|Zanubrutinib|Oncology
+PIRTO|Pirtobrutinib|Oncology
+Acala|Acalabrutinib|Oncology
+Zanu|Zanubrutinib|Oncology
+Pirto|Pirtobrutinib|Oncology
+Ibr|Ibrutinib|Oncology
+IDELA|Idelalisib|Oncology
+DUVE|Duvelisib|Oncology
+Gilt|Gilteritinib|Oncology
+GILT|Gilteritinib|Oncology
+MIDO|Midostaurin|Oncology
+Mido|Midostaurin|Oncology
+QUIZ|Quizartinib|Oncology
+Quiz|Quizartinib|Oncology
+IVO|Ivosidenib|Oncology
+ENA|Enasidenib|Oncology
+OLU|Olutasidenib|Oncology
+Ivo|Ivosidenib|Oncology
+Ena|Enasidenib|Oncology
+GLAS|Glasdegib|Oncology
+Glas|Glasdegib|Oncology
+RUXO|Ruxolitinib|Oncology
+Ruxo|Ruxolitinib|Oncology
+FEDRA|Fedratinib|Oncology
+PACRI|Pacritinib|Oncology
+MOME|Momelotinib|Oncology
+Momelo|Momelotinib|Oncology
+LUSPA|Luspatercept|Oncology
+Luspa|Luspatercept|Oncology
+IMETELSTAT|Imetelstat|Oncology
+VOR|Vorinostat|Oncology
+ROMI|Romidepsin|Oncology
+PANO|Panobinostat|Oncology
+Pano|Panobinostat|Oncology
+BELI|Belinostat|Oncology
+TAZ|Tazemetostat|Oncology
+Taz|Tazemetostat|Oncology
+SELINEXOR|Selinexor|Oncology
+Seli|Selinexor|Oncology
+ENZA|Enzalutamide|Oncology
+Enza|Enzalutamide|Oncology
+APA|Apalutamide|Oncology
+Apa|Apalutamide|Oncology
+DARO|Darolutamide|Oncology
+Daro|Darolutamide|Oncology
+ABI|Abiraterone|Oncology
+Abi|Abiraterone|Oncology
+ABI-P|Abiraterone plus prednisone|Oncology
+AAP|Abiraterone acetate plus prednisone|Oncology
+Abi/Pred|Abiraterone plus prednisone|Oncology
+BICA|Bicalutamide|Oncology
+FLUT|Flutamide|Oncology
+MAB|Maximal androgen blockade|Oncology
+IAD|Intermittent androgen deprivation|Oncology
+CAD|Continuous androgen deprivation|Oncology
+LHRHa|Luteinizing hormone-releasing hormone agonist|Oncology
+GnRHa|Gonadotropin-releasing hormone agonist|Oncology
+GnRH-ant|Gonadotropin-releasing hormone antagonist|Oncology
+GnRHant|Gonadotropin-releasing hormone antagonist|Oncology
+LHRH-A|Luteinizing hormone-releasing hormone agonist|Oncology
+LHRH-ant|Luteinizing hormone-releasing hormone antagonist|Oncology
+DES|Diethylstilbestrol|Oncology
+ADT-ARPI|Androgen deprivation therapy plus androgen receptor pathway inhibitor|Oncology
+ADT+Doce|Androgen deprivation therapy plus docetaxel|Oncology
+BAT|Bipolar androgen therapy|Oncology
+Lu-PSMA|Lutetium-177 PSMA radioligand therapy|Oncology
+177Lu-PSMA|Lutetium-177 PSMA radioligand therapy|Oncology
+Lu-DOTATATE|Lutetium-177 dotatate radioligand therapy|Oncology
+177Lu-DOTATATE|Lutetium-177 dotatate radioligand therapy|Oncology
+Ra-223|Radium-223 dichloride|Oncology
+Sm-153|Samarium-153 lexidronam|Oncology
+Sr-89|Strontium-89 chloride|Oncology
+I-131|Iodine-131|Oncology
+131I|Iodine-131|Oncology
+131I-MIBG|Iodine-131 metaiodobenzylguanidine therapy|Oncology
+RLT|Radioligand therapy|Oncology
+TAM|Tamoxifen|Oncology
+TAMOX|Tamoxifen|Oncology
+Tam|Tamoxifen|Oncology
+TOR|Toremifene|Oncology
+RAL|Raloxifene|Oncology
+FUL|Fulvestrant|Oncology
+FULV|Fulvestrant|Oncology
+Fulv|Fulvestrant|Oncology
+ELA|Elacestrant|Oncology
+Elac|Elacestrant|Oncology
+CAMI|Camizestrant|Oncology
+IMLU|Imlunestrant|Oncology
+LET|Letrozole|Oncology
+LETRO|Letrozole|Oncology
+Letro|Letrozole|Oncology
+ANA|Anastrozole|Oncology
+ANAS|Anastrozole|Oncology
+Anas|Anastrozole|Oncology
+EXE|Exemestane|Oncology
+Exem|Exemestane|Oncology
+SAI|Steroidal aromatase inhibitor|Oncology
+NSAI|Nonsteroidal aromatase inhibitor|Oncology
+AIs|Aromatase inhibitors|Oncology
+ET|Endocrine therapy|Oncology
+AET|Adjuvant endocrine therapy|Oncology
+EET|Extended endocrine therapy|Oncology
+OFS+AI|Ovarian function suppression plus aromatase inhibitor|Oncology
+OFS+TAM|Ovarian function suppression plus tamoxifen|Oncology
+GOS|Goserelin|Oncology
+LEU|Leuprolide|Oncology
+LEUP|Leuprolide|Oncology
+TRIP|Triptorelin|Oncology
+DEG|Degarelix|Oncology
+REL|Relugolix|Oncology
+Relu|Relugolix|Oncology
+MPA|Medroxyprogesterone acetate|Oncology
+MEG|Megestrol acetate|Oncology
+LNG-IUS|Levonorgestrel intrauterine system|Oncology
+OCT|Octreotide|Oncology
+LAN|Lanreotide|Oncology
+Oct LAR|Octreotide long-acting release|Oncology
+LAR-oct|Octreotide long-acting release|Oncology
+SSTR|Somatostatin receptor|Oncology
+SSTR2|Somatostatin receptor subtype 2|Oncology
+CPT|Camptothecin|Oncology
+DOXO|Doxorubicin|Oncology
+ZOL|Zoledronic acid|Oncology
+ZA|Zoledronic acid|Oncology
+ZOLE|Zoledronic acid|Oncology
+PAM|Pamidronate|Oncology
+DEN|Denosumab|Oncology
+BP|Bisphosphonate|Oncology
+BPs|Bisphosphonates|Oncology
+Ca/VitD|Calcium and vitamin D supplementation|Oncology
+5-HT3 RA|5-HT3 receptor antagonist|Oncology
+5HT3|Serotonin type 3 receptor antagonist|Oncology
+5-HT3|Serotonin type 3 receptor|Oncology
+5HT3-RA|Serotonin type 3 receptor antagonist|Oncology
+NK1 RA|Neurokinin-1 receptor antagonist|Oncology
+NK1-RA|Neurokinin-1 receptor antagonist|Oncology
+NK-1|Neurokinin-1|Oncology
+NK1|Neurokinin-1 receptor|Oncology
+OND|Ondansetron|Oncology
+ONDAN|Ondansetron|Oncology
+GRAN|Granisetron|Oncology
+PALO|Palonosetron|Oncology
+Palo|Palonosetron|Oncology
+APREP|Aprepitant|Oncology
+FOSAPREP|Fosaprepitant|Oncology
+Fosaprep|Fosaprepitant|Oncology
+NETU|Netupitant|Oncology
+NEPA|Netupitant and palonosetron fixed combination|Oncology
+FOSNETU|Fosnetupitant|Oncology
+OLZ|Olanzapine|Oncology
+OLANZ|Olanzapine|Oncology
+PCM|Prochlorperazine|Oncology
+PROCHLOR|Prochlorperazine|Oncology
+LZP|Lorazepam|Oncology
+LORA|Lorazepam|Oncology
+DEX-sparing|Dexamethasone-sparing antiemetic regimen|Oncology
+HEC|Highly emetogenic chemotherapy|Oncology
+MEC|Moderately emetogenic chemotherapy|Oncology
+LEC|Low emetogenic chemotherapy|Oncology
+MinEC|Minimally emetogenic chemotherapy|Oncology
+BTN|Breakthrough nausea|Oncology
+BTNV|Breakthrough nausea and vomiting|Oncology
+AINV|Anticipatory nausea and vomiting|Oncology
+ANV|Anticipatory nausea and vomiting|Oncology
+DINV|Delayed nausea and vomiting|Oncology
+RINV|Radiation-induced nausea and vomiting|Oncology
+CINV-acute|Acute chemotherapy-induced nausea and vomiting|Oncology
+CINV-delayed|Delayed chemotherapy-induced nausea and vomiting|Oncology
+PONV|Postoperative nausea and vomiting|Oncology
+FILG|Filgrastim|Oncology
+Peg-G|Pegfilgrastim|Oncology
+PEG-G-CSF|Pegylated granulocyte colony-stimulating factor|Oncology
+Pegfil|Pegfilgrastim|Oncology
+PEGFIL|Pegfilgrastim|Oncology
+LA-G-CSF|Long-acting granulocyte colony-stimulating factor|Oncology
+SA-G-CSF|Short-acting granulocyte colony-stimulating factor|Oncology

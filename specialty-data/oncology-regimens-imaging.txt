@@ -1,0 +1,657 @@
+TC|Docetaxel and cyclophosphamide regimen|Oncology
+TC-H|Docetaxel, carboplatin and trastuzumab regimen|Oncology
+TCHP|Docetaxel, carboplatin, trastuzumab and pertuzumab regimen|Oncology
+TCb|Docetaxel and carboplatin regimen|Oncology
+AC|Doxorubicin and cyclophosphamide regimen|Oncology
+EC|Epirubicin and cyclophosphamide regimen|Oncology
+FEC|Fluorouracil, epirubicin and cyclophosphamide regimen|Oncology
+FAC|Fluorouracil, doxorubicin and cyclophosphamide regimen|Oncology
+CAF|Cyclophosphamide, doxorubicin and fluorouracil regimen|Oncology
+TAC|Docetaxel, doxorubicin and cyclophosphamide regimen|Oncology
+AC-TH|Doxorubicin and cyclophosphamide followed by paclitaxel and trastuzumab|Oncology
+AC-THP|Doxorubicin and cyclophosphamide followed by a taxane with trastuzumab and pertuzumab|Oncology
+dd-AC-T|Dose-dense doxorubicin and cyclophosphamide followed by paclitaxel|Oncology
+FEC-D|Fluorouracil, epirubicin and cyclophosphamide followed by docetaxel|Oncology
+CMF-oral|Oral cyclophosphamide with methotrexate and fluorouracil regimen|Oncology
+GemCarbo|Gemcitabine and carboplatin regimen|Oncology
+GemCap|Gemcitabine and capecitabine regimen|Oncology
+GemOx|Gemcitabine and oxaliplatin regimen|Oncology
+GEMOX|Gemcitabine and oxaliplatin regimen|Oncology
+GemDoce|Gemcitabine and docetaxel regimen|Oncology
+Gem/Nab-P|Gemcitabine with nab-paclitaxel regimen|Oncology
+NALIRIFOX|Liposomal irinotecan, oxaliplatin, fluorouracil and leucovorin regimen|Oncology
+mFOLFIRINOX|Modified folinic acid, fluorouracil, irinotecan and oxaliplatin regimen|Oncology
+mFOLFOX6|Modified folinic acid, fluorouracil and oxaliplatin regimen, version 6|Oncology
+mFOLFOX|Modified folinic acid, fluorouracil and oxaliplatin regimen|Oncology
+FOLFOXIRI|Folinic acid, fluorouracil, oxaliplatin and irinotecan regimen|Oncology
+FOLFOX-bev|FOLFOX with bevacizumab|Oncology
+FOLFIRI-bev|FOLFIRI with bevacizumab|Oncology
+FOLFOX-pmab|FOLFOX with panitumumab|Oncology
+FOLFIRI-cetux|FOLFIRI with cetuximab|Oncology
+FOLFIRI-aflibercept|FOLFIRI with aflibercept|Oncology
+XELIRI|Capecitabine and irinotecan regimen|Oncology
+CAPIRI|Capecitabine and irinotecan regimen|Oncology
+FLOX|Fluorouracil, leucovorin and oxaliplatin regimen|Oncology
+FOLFOX4|Folinic acid, fluorouracil and oxaliplatin regimen, version 4|Oncology
+FOLFOX6|Folinic acid, fluorouracil and oxaliplatin regimen, version 6|Oncology
+LV5FU2|Leucovorin with bolus and infusional fluorouracil regimen|Oncology
+FU/LV|Fluorouracil with leucovorin|Oncology
+5-FU/LV|Fluorouracil with leucovorin|Oncology
+CAPEOX|Capecitabine and oxaliplatin regimen|Oncology
+SOX|S-1 and oxaliplatin regimen|Oncology
+XP|Capecitabine and cisplatin regimen|Oncology
+FP|Fluorouracil and cisplatin regimen|Oncology
+CF|Cisplatin and fluorouracil regimen|Oncology
+ECF|Epirubicin, cisplatin and fluorouracil regimen|Oncology
+ECX|Epirubicin, cisplatin and capecitabine regimen|Oncology
+EOX|Epirubicin, oxaliplatin and capecitabine regimen|Oncology
+EOF|Epirubicin, oxaliplatin and fluorouracil regimen|Oncology
+DCF|Docetaxel, cisplatin and fluorouracil regimen|Oncology
+mDCF|Modified docetaxel, cisplatin and fluorouracil regimen|Oncology
+TPF|Docetaxel, cisplatin and fluorouracil regimen|Oncology
+PF|Cisplatin and fluorouracil regimen|Oncology
+CarboTaxol|Carboplatin and paclitaxel regimen|Oncology
+CP|Carboplatin and paclitaxel regimen|Oncology
+PC|Paclitaxel and carboplatin regimen|Oncology
+TP|Paclitaxel and cisplatin regimen|Oncology
+TIP|Paclitaxel, ifosfamide and cisplatin regimen|Oncology
+VeIP|Vinblastine, ifosfamide and cisplatin regimen|Oncology
+VIP|Etoposide, ifosfamide and cisplatin regimen|Oncology
+EP-cis|Etoposide and cisplatin regimen|Oncology
+EC-carbo|Etoposide and carboplatin regimen|Oncology
+IC|Irinotecan and cisplatin regimen|Oncology
+CE|Carboplatin and etoposide regimen|Oncology
+CAV|Cyclophosphamide, doxorubicin and vincristine regimen|Oncology
+VAC|Vincristine, dactinomycin and cyclophosphamide regimen|Oncology
+VDC|Vincristine, doxorubicin and cyclophosphamide regimen|Oncology
+IE|Ifosfamide and etoposide regimen|Oncology
+VDC/IE|Alternating VDC and IE regimen|Oncology
+VIDE|Vincristine, ifosfamide, doxorubicin and etoposide regimen|Oncology
+VAI|Vincristine, dactinomycin and ifosfamide regimen|Oncology
+VI|Vincristine and irinotecan regimen|Oncology
+VIT|Vincristine, irinotecan and temozolomide regimen|Oncology
+ICE|Ifosfamide, carboplatin and etoposide regimen|Oncology
+IVAC|Ifosfamide, etoposide and cytarabine regimen|Oncology
+MAID|Mesna, doxorubicin, ifosfamide and dacarbazine regimen|Oncology
+AIM|Doxorubicin, ifosfamide and mesna regimen|Oncology
+GD|Gemcitabine and docetaxel regimen|Oncology
+CYVADIC|Cyclophosphamide, vincristine, doxorubicin and dacarbazine regimen|Oncology
+CAP|Cyclophosphamide, doxorubicin and cisplatin regimen|Oncology
+PAC|Cisplatin, doxorubicin and cyclophosphamide regimen|Oncology
+CHOEP|CHOP with etoposide regimen|Oncology
+CHOP-14|CHOP given every 14 days|Oncology
+CHOP-21|CHOP given every 21 days|Oncology
+CEOP|Cyclophosphamide, epirubicin, vincristine and prednisone regimen|Oncology
+mini-CHOP|Reduced-dose CHOP regimen|Oncology
+R-miniCHOP|Reduced-dose CHOP with rituximab|Oncology
+R-CHOEP|Rituximab plus CHOEP regimen|Oncology
+Pola-R-CHP|Polatuzumab vedotin, rituximab, cyclophosphamide, doxorubicin and prednisone regimen|Oncology
+CHP|Cyclophosphamide, doxorubicin and prednisone regimen|Oncology
+BV-CHP|Brentuximab vedotin, cyclophosphamide, doxorubicin and prednisone regimen|Oncology
+CVP|Cyclophosphamide, vincristine and prednisone regimen|Oncology
+COP|Cyclophosphamide, vincristine and prednisone regimen|Oncology
+R-CEOP|Rituximab, cyclophosphamide, etoposide, vincristine and prednisone regimen|Oncology
+R-GemOx|Rituximab, gemcitabine and oxaliplatin regimen|Oncology
+R-DHAP|Rituximab plus DHAP regimen|Oncology
+R-ESHAP|Rituximab plus ESHAP regimen|Oncology
+R-GDP|Rituximab plus GDP regimen|Oncology
+R-MPV|Rituximab, methotrexate, procarbazine and vincristine regimen|Oncology
+MATRix|Methotrexate, cytarabine, thiotepa and rituximab regimen|Oncology
+R-MTX|Rituximab with high-dose methotrexate|Oncology
+R-BAC|Rituximab, bendamustine and cytarabine regimen|Oncology
+R-Benda|Rituximab and bendamustine regimen|Oncology
+BendaR|Bendamustine and rituximab regimen|Oncology
+R-squared|Rituximab and lenalidomide regimen|Oncology
+G-CHOP|Obinutuzumab plus CHOP regimen|Oncology
+G-Benda|Obinutuzumab and bendamustine regimen|Oncology
+O-FC|Ofatumumab, fludarabine and cyclophosphamide regimen|Oncology
+FR|Fludarabine and rituximab regimen|Oncology
+FMD|Fludarabine, mitoxantrone and dexamethasone regimen|Oncology
+Chl-R|Chlorambucil and rituximab regimen|Oncology
+Chl-O|Chlorambucil and obinutuzumab regimen|Oncology
+VenO|Venetoclax and obinutuzumab regimen|Oncology
+VenR|Venetoclax and rituximab regimen|Oncology
+Ven-Aza|Venetoclax and azacitidine regimen|Oncology
+Ven-Dec|Venetoclax and decitabine regimen|Oncology
+Ven/LDAC|Venetoclax and low-dose cytarabine regimen|Oncology
+LDAC|Low-dose cytarabine|Oncology
+IDAC|Intermediate-dose cytarabine|Oncology
+HiDAC|High-dose cytarabine|Oncology
+HIDAC|High-dose cytarabine|Oncology
+DA|Daunorubicin and cytarabine regimen|Oncology
+DA-7+3|Daunorubicin and cytarabine regimen (7 plus 3)|Oncology
+FLAG|Fludarabine, cytarabine and G-CSF regimen|Oncology
+FLAG-Ida|Fludarabine, cytarabine, G-CSF and idarubicin regimen|Oncology
+FLAGM|Fludarabine, cytarabine, G-CSF and mitoxantrone regimen|Oncology
+MEC|Mitoxantrone, etoposide and cytarabine regimen|Oncology
+CLAG-M|Cladribine, cytarabine, G-CSF and mitoxantrone regimen|Oncology
+CLAG-Ida|Cladribine, cytarabine, G-CSF and idarubicin regimen|Oncology
+EMA|Etoposide, mitoxantrone and cytarabine regimen|Oncology
+EMA-CO|Etoposide, methotrexate, dactinomycin, cyclophosphamide and vincristine regimen|Oncology
+EMA/EP|Etoposide, methotrexate and dactinomycin alternating with etoposide and cisplatin|Oncology
+TIP-GCT|Paclitaxel, ifosfamide and cisplatin regimen for germ cell tumors|Oncology
+HyperCVAD|Hyperfractionated cyclophosphamide, vincristine, doxorubicin and dexamethasone regimen|Oncology
+Hyper-CVAD|Hyperfractionated cyclophosphamide, vincristine, doxorubicin and dexamethasone regimen|Oncology
+HCVAD|Hyperfractionated cyclophosphamide, vincristine, doxorubicin and dexamethasone regimen|Oncology
+R-HyperCVAD|Rituximab plus hyper-CVAD regimen|Oncology
+hyper-CVAD/MA|Hyper-CVAD alternating with high-dose methotrexate and cytarabine|Oncology
+POMP|Mercaptopurine, vincristine, methotrexate and prednisone maintenance regimen|Oncology
+VP|Vincristine and prednisone regimen|Oncology
+VPL|Vincristine, prednisone and L-asparaginase regimen|Oncology
+PEG-ASP|Pegaspargase|Oncology
+L-ASP|L-asparaginase|Oncology
+Ven-Obi|Venetoclax and obinutuzumab regimen|Oncology
+VD|Bortezomib and dexamethasone regimen|Oncology
+Vd|Bortezomib and dexamethasone regimen|Oncology
+KD|Carfilzomib and dexamethasone regimen|Oncology
+Kd|Carfilzomib and dexamethasone regimen|Oncology
+IRd|Ixazomib, lenalidomide and dexamethasone regimen|Oncology
+IRD|Ixazomib, lenalidomide and dexamethasone regimen|Oncology
+DVd|Daratumumab, bortezomib and dexamethasone regimen|Oncology
+DKd|Daratumumab, carfilzomib and dexamethasone regimen|Oncology
+DPd|Daratumumab, pomalidomide and dexamethasone regimen|Oncology
+D-Rd|Daratumumab, lenalidomide and dexamethasone regimen|Oncology
+D-VMP|Daratumumab, bortezomib, melphalan and prednisone regimen|Oncology
+D-VTd|Daratumumab, bortezomib, thalidomide and dexamethasone regimen|Oncology
+D-KRd|Daratumumab, carfilzomib, lenalidomide and dexamethasone regimen|Oncology
+Isa-Kd|Isatuximab, carfilzomib and dexamethasone regimen|Oncology
+Isa-Pd|Isatuximab, pomalidomide and dexamethasone regimen|Oncology
+Isa-VRd|Isatuximab, bortezomib, lenalidomide and dexamethasone regimen|Oncology
+EloRd|Elotuzumab, lenalidomide and dexamethasone regimen|Oncology
+EPd|Elotuzumab, pomalidomide and dexamethasone regimen|Oncology
+Pd|Pomalidomide and dexamethasone regimen|Oncology
+PVd|Pomalidomide, bortezomib and dexamethasone regimen|Oncology
+PCd|Pomalidomide, cyclophosphamide and dexamethasone regimen|Oncology
+Td|Thalidomide and dexamethasone regimen|Oncology
+VTd|Bortezomib, thalidomide and dexamethasone regimen|Oncology
+VTD|Bortezomib, thalidomide and dexamethasone regimen|Oncology
+VTD-PACE|Bortezomib, thalidomide, dexamethasone with cisplatin, doxorubicin, cyclophosphamide and etoposide|Oncology
+DT-PACE|Dexamethasone, thalidomide with cisplatin, doxorubicin, cyclophosphamide and etoposide|Oncology
+VDT-PACE|Bortezomib, dexamethasone, thalidomide with cisplatin, doxorubicin, cyclophosphamide and etoposide|Oncology
+PACE|Cisplatin, doxorubicin, cyclophosphamide and etoposide regimen|Oncology
+VAD|Vincristine, doxorubicin and dexamethasone regimen|Oncology
+MP|Melphalan and prednisone regimen|Oncology
+MPV|Melphalan, prednisone and bortezomib regimen|Oncology
+CTd|Cyclophosphamide, thalidomide and dexamethasone regimen|Oncology
+CRd|Cyclophosphamide, lenalidomide and dexamethasone regimen|Oncology
+VCD|Bortezomib, cyclophosphamide and dexamethasone regimen|Oncology
+VRD|Bortezomib, lenalidomide and dexamethasone regimen|Oncology
+VRD-lite|Reduced-intensity bortezomib, lenalidomide and dexamethasone regimen|Oncology
+KRD|Carfilzomib, lenalidomide and dexamethasone regimen|Oncology
+KCd|Carfilzomib, cyclophosphamide and dexamethasone regimen|Oncology
+Mel-140|Melphalan 140 mg per square meter conditioning dose|Oncology
+Mel-200|Melphalan 200 mg per square meter conditioning dose|Oncology
+HDM|High-dose melphalan|Oncology
+HDT|High-dose therapy|Oncology
+HDCT|High-dose chemotherapy|Oncology
+HDT/ASCT|High-dose therapy with autologous stem cell transplant|Oncology
+Bu-Flu|Busulfan and fludarabine conditioning|Oncology
+Flu-Bu|Fludarabine and busulfan conditioning|Oncology
+Flu-Mel|Fludarabine and melphalan conditioning|Oncology
+Flu-Cy|Fludarabine and cyclophosphamide conditioning|Oncology
+Flu/Cy|Fludarabine and cyclophosphamide lymphodepletion or conditioning|Oncology
+Cy-TBI|Cyclophosphamide and total body irradiation conditioning|Oncology
+Cy/TBI|Cyclophosphamide and total body irradiation conditioning|Oncology
+Flu-TBI|Fludarabine and total body irradiation conditioning|Oncology
+Flu/TBI|Fludarabine and total body irradiation conditioning|Oncology
+BuCy|Busulfan and cyclophosphamide conditioning|Oncology
+BuMel|Busulfan and melphalan conditioning|Oncology
+BuFlu|Busulfan and fludarabine conditioning|Oncology
+FluBu2|Fludarabine with two days of busulfan conditioning|Oncology
+FluBu4|Fludarabine with four days of busulfan conditioning|Oncology
+FluMel140|Fludarabine and melphalan 140 conditioning|Oncology
+TBF|Thiotepa, busulfan and fludarabine conditioning|Oncology
+TT-Bu-Flu|Thiotepa, busulfan and fludarabine conditioning|Oncology
+CBV|Cyclophosphamide, carmustine and etoposide conditioning|Oncology
+BEAC|Carmustine, etoposide, cytarabine and cyclophosphamide conditioning|Oncology
+TEAM|Thiotepa, etoposide, cytarabine and melphalan conditioning|Oncology
+BCNU|Carmustine|Oncology
+CCNU|Lomustine|Oncology
+PCV|Procarbazine, lomustine and vincristine regimen|Oncology
+MOPP|Mechlorethamine, vincristine, procarbazine and prednisone regimen|Oncology
+COPP|Cyclophosphamide, vincristine, procarbazine and prednisone regimen|Oncology
+ABVD-BV|Brentuximab vedotin with doxorubicin, vinblastine and dacarbazine regimen|Oncology
+AVD|Doxorubicin, vinblastine and dacarbazine regimen|Oncology
+A-AVD|Brentuximab vedotin plus doxorubicin, vinblastine and dacarbazine regimen|Oncology
+BV-AVD|Brentuximab vedotin plus doxorubicin, vinblastine and dacarbazine regimen|Oncology
+BEACOPP-esc|Escalated-dose BEACOPP regimen|Oncology
+BEACOPP-14|BEACOPP given every 14 days|Oncology
+eBEACOPP|Escalated-dose BEACOPP regimen|Oncology
+ICE-BV|Ifosfamide, carboplatin and etoposide with brentuximab vedotin|Oncology
+BV-Benda|Brentuximab vedotin and bendamustine regimen|Oncology
+BV-Nivo|Brentuximab vedotin and nivolumab regimen|Oncology
+IGEV|Ifosfamide, gemcitabine and vinorelbine regimen|Oncology
+GVD|Gemcitabine, vinorelbine and liposomal doxorubicin regimen|Oncology
+GCD|Gemcitabine, cisplatin and dexamethasone regimen|Oncology
+DICE|Dexamethasone, ifosfamide, cisplatin and etoposide regimen|Oncology
+MINE|Mesna, ifosfamide, mitoxantrone and etoposide regimen|Oncology
+ASHAP|Doxorubicin, methylprednisolone, cytarabine and cisplatin regimen|Oncology
+CODOX-M|Cyclophosphamide, vincristine, doxorubicin and high-dose methotrexate regimen|Oncology
+IVAC-regimen|Ifosfamide, etoposide and high-dose cytarabine regimen|Oncology
+R-CODOX-M/IVAC|Rituximab with CODOX-M alternating with IVAC|Oncology
+SMILE|Dexamethasone, methotrexate, ifosfamide, L-asparaginase and etoposide regimen|Oncology
+AspaMetDex|Asparaginase, methotrexate and dexamethasone regimen|Oncology
+GELOX|Gemcitabine, L-asparaginase and oxaliplatin regimen|Oncology
+DDGP|Dexamethasone, cisplatin, gemcitabine and pegaspargase regimen|Oncology
+CHOP-E|CHOP with etoposide regimen|Oncology
+CHOP-BV|CHOP with brentuximab vedotin regimen|Oncology
+HD-AraC|High-dose cytarabine|Oncology
+HD-Ara-C|High-dose cytarabine|Oncology
+HD-CTX|High-dose cyclophosphamide|Oncology
+HD-IL2|High-dose interleukin-2|Oncology
+IL-2|Interleukin-2|Oncology
+IFN|Interferon|Oncology
+IFN-alpha|Interferon alfa|Oncology
+BCG|Bacillus Calmette-Guerin intravesical therapy|Oncology
+GemDoce-BCG|Sequential intravesical gemcitabine and docetaxel for bladder cancer|Oncology
+EV-P|Enfortumab vedotin with pembrolizumab|Oncology
+EV-Pembro|Enfortumab vedotin with pembrolizumab|Oncology
+Ipi/Nivo|Ipilimumab and nivolumab combination|Oncology
+Ipi-Nivo|Ipilimumab and nivolumab combination|Oncology
+Pembro-chemo|Pembrolizumab combined with chemotherapy|Oncology
+chemo-IO|Chemotherapy combined with immunotherapy|Oncology
+IO|Immuno-oncology|Oncology
+IO-IO|Dual immunotherapy combination|Oncology
+IO-TKI|Immunotherapy combined with tyrosine kinase inhibitor|Oncology
+Atezo-Bev|Atezolizumab and bevacizumab combination|Oncology
+CarboPem|Carboplatin and pemetrexed regimen|Oncology
+CisPem|Cisplatin and pemetrexed regimen|Oncology
+PemCarbo|Pemetrexed and carboplatin regimen|Oncology
+PemCis|Pemetrexed and cisplatin regimen|Oncology
+nab-P|Nab-paclitaxel|Oncology
+nab-PTX|Nab-paclitaxel|Oncology
+T-DM1|Trastuzumab emtansine|Oncology
+T-DXd|Trastuzumab deruxtecan|Oncology
+SG|Sacituzumab govitecan|Oncology
+HP|Trastuzumab and pertuzumab combination|Oncology
+THP|Docetaxel, trastuzumab and pertuzumab regimen|Oncology
+PH|Pertuzumab and trastuzumab combination|Oncology
+TAM|Tamoxifen|Oncology
+DoceP|Docetaxel and prednisone regimen|Oncology
+Lu-PSMA|Lutetium-177 PSMA radioligand therapy|Oncology
+Lu-177|Lutetium-177|Oncology
+177Lu-PSMA|Lutetium-177 PSMA radioligand therapy|Oncology
+177Lu-DOTATATE|Lutetium-177 DOTATATE radioligand therapy|Oncology
+Lu-DOTATATE|Lutetium-177 DOTATATE radioligand therapy|Oncology
+Ra-223|Radium-223|Oncology
+Sm-153|Samarium-153|Oncology
+Sr-89|Strontium-89|Oncology
+I-131|Iodine-131|Oncology
+I-125|Iodine-125|Oncology
+I-123|Iodine-123|Oncology
+Pd-103|Palladium-103|Oncology
+Ir-192|Iridium-192|Oncology
+Cs-131|Cesium-131|Oncology
+Ru-106|Ruthenium-106|Oncology
+Co-60|Cobalt-60|Oncology
+131I-MIBG|Iodine-131 metaiodobenzylguanidine therapy|Oncology
+I-131 MIBG|Iodine-131 metaiodobenzylguanidine|Oncology
+123I-MIBG|Iodine-123 metaiodobenzylguanidine scan|Oncology
+RLT|Radioligand therapy|Oncology
+RIT|Radioimmunotherapy|Oncology
+RNT|Radionuclide therapy|Oncology
+RPT|Radiopharmaceutical therapy|Oncology
+TRT|Targeted radionuclide therapy|Oncology
+RIT-Y90|Yttrium-90 radioimmunotherapy|Oncology
+SIRT|Selective internal radiation therapy|Oncology
+cTACE|Conventional transarterial chemoembolization|Oncology
+DEB-TACE|Drug-eluting bead transarterial chemoembolization|Oncology
+TAE|Transarterial embolization|Oncology
+PVE|Portal vein embolization|Oncology
+ALPPS|Associating liver partition and portal vein ligation for staged hepatectomy|Oncology
+IRE|Irreversible electroporation|Oncology
+HIFU-ablation|High-intensity focused ultrasound ablation|Oncology
+LITT|Laser interstitial thermal therapy|Oncology
+EBRT-boost|External beam radiation therapy boost|Oncology
+SIB|Simultaneous integrated boost|Oncology
+HFRT|Hypofractionated radiation therapy|Oncology
+UHRT|Ultra-hypofractionated radiation therapy|Oncology
+HypoRT|Hypofractionated radiation therapy|Oncology
+HFx|Hyperfractionated radiation therapy|Oncology
+Hyperfx|Hyperfractionated radiation therapy|Oncology
+CHART|Continuous hyperfractionated accelerated radiotherapy|Oncology
+Fx|Fraction|Oncology
+fx|Fraction|Oncology
+Gy/fx|Gray per fraction|Oncology
+EQD2|Equivalent dose in 2-Gy fractions|Oncology
+LQ|Linear-quadratic model|Oncology
+NTCP|Normal tissue complication probability|Oncology
+TCP|Tumor control probability|Oncology
+MU|Monitor unit|Oncology
+SSD|Source-to-skin distance|Oncology
+SAD|Source-to-axis distance|Oncology
+DRR|Digitally reconstructed radiograph|Oncology
+EPID|Electronic portal imaging device|Oncology
+kV|Kilovoltage imaging|Oncology
+MV|Megavoltage|Oncology
+MVCT|Megavoltage computed tomography|Oncology
+4DCT|Four-dimensional computed tomography|Oncology
+4D-CT|Four-dimensional computed tomography|Oncology
+DIBH|Deep inspiration breath hold|Oncology
+ABC|Active breathing control|Oncology
+IGBT|Image-guided brachytherapy|Oncology
+ISBT|Interstitial brachytherapy|Oncology
+ICBT|Intracavitary brachytherapy|Oncology
+PDR|Pulsed dose rate (brachytherapy)|Oncology
+HDR-BT|High-dose-rate brachytherapy|Oncology
+LDR-BT|Low-dose-rate brachytherapy|Oncology
+BT|Brachytherapy|Oncology
+VCB|Vaginal cuff brachytherapy|Oncology
+EBT|External beam therapy|Oncology
+CIRT|Carbon ion radiotherapy|Oncology
+IMPT|Intensity-modulated proton therapy|Oncology
+PSPT|Passively scattered proton therapy|Oncology
+CSI|Craniospinal irradiation|Oncology
+TSEBT|Total skin electron beam therapy|Oncology
+TSEB|Total skin electron beam therapy|Oncology
+TLI|Total lymphoid irradiation|Oncology
+TMI|Total marrow irradiation|Oncology
+TMLI|Total marrow and lymphoid irradiation|Oncology
+HBI|Hemibody irradiation|Oncology
+TNI|Total nodal irradiation|Oncology
+WAI|Whole abdominal irradiation|Oncology
+WPRT|Whole pelvic radiation therapy|Oncology
+PORT|Postoperative radiation therapy|Oncology
+PBI|Partial breast irradiation|Oncology
+RNI|Regional nodal irradiation|Oncology
+IMN|Internal mammary nodes|Oncology
+CW|Chest wall|Oncology
+SCV|Supraclavicular|Oncology
+PCI-SCLC|Prophylactic cranial irradiation in small cell lung cancer|Oncology
+TRT-SCLC|Thoracic radiation therapy in small cell lung cancer|Oncology
+CRT-SCLC|Chemoradiotherapy in small cell lung cancer|Oncology
+EFRT|Elective field radiation therapy|Oncology
+ENI|Elective nodal irradiation|Oncology
+IFI-RT|Involved-field irradiation|Oncology
+INRT|Involved-node radiation therapy|Oncology
+SBRT-LC|Stereotactic body radiation therapy for lung cancer|Oncology
+GKRS|Gamma Knife radiosurgery|Oncology
+GK|Gamma Knife|Oncology
+CK|CyberKnife|Oncology
+LINAC|Linear accelerator|Oncology
+LINAC-SRS|Linear accelerator-based stereotactic radiosurgery|Oncology
+PBS|Pencil beam scanning|Oncology
+PRV|Planning organ-at-risk volume|Oncology
+D95|Dose received by 95 percent of target volume|Oncology
+Dmax|Maximum dose|Oncology
+Dmean|Mean dose|Oncology
+V20|Volume receiving 20 Gy or more|Oncology
+V5|Volume receiving 5 Gy or more|Oncology
+MLD|Mean lung dose|Oncology
+MHD|Mean heart dose|Oncology
+IGART|Image-guided adaptive radiation therapy|Oncology
+ART|Adaptive radiation therapy|Oncology
+MR-Linac|Magnetic resonance-guided linear accelerator|Oncology
+MRgRT|Magnetic resonance-guided radiation therapy|Oncology
+MRI-Linac|Magnetic resonance-guided linear accelerator|Oncology
+SGRT|Surface-guided radiation therapy|Oncology
+FLASH|Ultra-high dose rate radiation therapy|Oncology
+FLASH-RT|Ultra-high dose rate radiation therapy|Oncology
+SFRT|Spatially fractionated radiation therapy|Oncology
+BNCT|Boron neutron capture therapy|Oncology
+ORN|Osteoradionecrosis|Oncology
+RION|Radiation-induced optic neuropathy|Oncology
+RIL|Radiation-induced lymphopenia|Oncology
+RILD|Radiation-induced liver disease|Oncology
+RRD|Radiation recall dermatitis|Oncology
+RD|Radiation dermatitis|Oncology
+CCRT-C|Concurrent chemoradiotherapy with cisplatin|Oncology
+cis-RT|Cisplatin with radiation therapy|Oncology
+cetux-RT|Cetuximab with radiation therapy|Oncology
+carbo-RT|Carboplatin with radiation therapy|Oncology
+CRT-D|Chemoradiotherapy followed by durvalumab|Oncology
+SBRT-IO|Stereotactic body radiation therapy with immunotherapy|Oncology
+PET-CT|Positron emission tomography with computed tomography|Oncology
+PET-MRI|Positron emission tomography with magnetic resonance imaging|Oncology
+PET/MRI|Positron emission tomography with magnetic resonance imaging|Oncology
+FDG-PET|Fluorodeoxyglucose positron emission tomography|Oncology
+FDG-PET/CT|Fluorodeoxyglucose positron emission tomography with computed tomography|Oncology
+18F-FDG|Fluorine-18 fluorodeoxyglucose|Oncology
+F-18 FDG|Fluorine-18 fluorodeoxyglucose|Oncology
+18F-FDG PET|Fluorine-18 fluorodeoxyglucose positron emission tomography|Oncology
+PSMA-PET|Prostate-specific membrane antigen positron emission tomography|Oncology
+PSMA PET/CT|Prostate-specific membrane antigen positron emission tomography with computed tomography|Oncology
+Ga-68|Gallium-68|Oncology
+68Ga|Gallium-68|Oncology
+68Ga-PSMA|Gallium-68 prostate-specific membrane antigen tracer|Oncology
+68Ga-DOTATATE|Gallium-68 DOTATATE somatostatin receptor tracer|Oncology
+68Ga-DOTATOC|Gallium-68 DOTATOC somatostatin receptor tracer|Oncology
+Ga-68 DOTATATE|Gallium-68 DOTATATE somatostatin receptor scan|Oncology
+Cu-64|Copper-64|Oncology
+64Cu-DOTATATE|Copper-64 DOTATATE somatostatin receptor tracer|Oncology
+DOTATOC|DOTA-octreotide somatostatin receptor imaging agent|Oncology
+DOTANOC|DOTA-NOC somatostatin receptor imaging agent|Oncology
+SSTR|Somatostatin receptor|Oncology
+SSTR-PET|Somatostatin receptor positron emission tomography|Oncology
+In-111|Indium-111|Oncology
+Tc-99m|Technetium-99m|Oncology
+99mTc|Technetium-99m|Oncology
+99mTc-MDP|Technetium-99m methylene diphosphonate bone scan tracer|Oncology
+MDP|Methylene diphosphonate|Oncology
+Tc-99m sestamibi|Technetium-99m sestamibi|Oncology
+MIBI|Methoxyisobutylisonitrile (sestamibi)|Oncology
+sestamibi|Technetium-99m sestamibi scan agent|Oncology
+F-18 fluciclovine|Fluorine-18 fluciclovine|Oncology
+18F-DCFPyL|Fluorine-18 piflufolastat PSMA tracer|Oncology
+18F-PSMA|Fluorine-18 labeled PSMA tracer|Oncology
+F-18 PSMA|Fluorine-18 labeled PSMA tracer|Oncology
+18F-NaF|Fluorine-18 sodium fluoride|Oncology
+NaF PET|Sodium fluoride positron emission tomography|Oncology
+FES-PET|Fluoroestradiol positron emission tomography|Oncology
+18F-FES|Fluorine-18 fluoroestradiol|Oncology
+FLT-PET|Fluorothymidine positron emission tomography|Oncology
+18F-FLT|Fluorine-18 fluorothymidine|Oncology
+FET-PET|Fluoroethyltyrosine positron emission tomography|Oncology
+18F-FET|Fluorine-18 fluoroethyltyrosine|Oncology
+FDOPA|Fluorodihydroxyphenylalanine|Oncology
+18F-FDOPA|Fluorine-18 fluorodihydroxyphenylalanine|Oncology
+F-DOPA PET|Fluorodihydroxyphenylalanine positron emission tomography|Oncology
+FMISO|Fluoromisonidazole (hypoxia imaging agent)|Oncology
+C-11 choline|Carbon-11 choline|Oncology
+11C-choline|Carbon-11 choline|Oncology
+11C-methionine|Carbon-11 methionine|Oncology
+FAPI|Fibroblast activation protein inhibitor imaging agent|Oncology
+FAPI-PET|Fibroblast activation protein inhibitor positron emission tomography|Oncology
+FDG-avid|Taking up fluorodeoxyglucose on PET|Oncology
+non-FDG-avid|Not taking up fluorodeoxyglucose on PET|Oncology
+SUVpeak|Peak standardized uptake value|Oncology
+SUVmean|Mean standardized uptake value|Oncology
+SUL|Standardized uptake value normalized to lean body mass|Oncology
+SUVlbm|Standardized uptake value normalized to lean body mass|Oncology
+SULpeak|Peak standardized uptake value corrected for lean body mass|Oncology
+dSUV|Change in standardized uptake value|Oncology
+SUV-ratio|Ratio of standardized uptake values|Oncology
+TBR|Tumor-to-background ratio|Oncology
+TLR|Tumor-to-liver ratio|Oncology
+iPET|Interim positron emission tomography|Oncology
+PET2|Interim positron emission tomography after two cycles|Oncology
+PET-adapted|Treatment adapted to interim PET result|Oncology
+EOT-PET|End-of-treatment positron emission tomography|Oncology
+EoT PET|End-of-treatment positron emission tomography|Oncology
+PET-neg|Negative on positron emission tomography|Oncology
+PET-pos|Positive on positron emission tomography|Oncology
+PET-negative|Negative on positron emission tomography|Oncology
+PET-positive|Positive on positron emission tomography|Oncology
+CT-CAP|Computed tomography of chest, abdomen and pelvis|Oncology
+CT C/A/P|Computed tomography of chest, abdomen and pelvis|Oncology
+CT CAP|Computed tomography of chest, abdomen and pelvis|Oncology
+CT-NCP|Computed tomography of neck, chest and pelvis|Oncology
+CTAP|Computed tomography of abdomen and pelvis|Oncology
+CT A/P|Computed tomography of abdomen and pelvis|Oncology
+CT C/A/P w/ con|Computed tomography of chest, abdomen and pelvis with contrast|Oncology
+CTPA|Computed tomography pulmonary angiogram|Oncology
+CTA|Computed tomography angiography|Oncology
+CTU|Computed tomography urography|Oncology
+CTE|Computed tomography enterography|Oncology
+HRCT|High-resolution computed tomography|Oncology
+NCCT|Non-contrast computed tomography|Oncology
+CT-NC|Non-contrast computed tomography|Oncology
+CT-guided|Guided by computed tomography|Oncology
+CT-bx|Computed tomography-guided biopsy|Oncology
+CT-FNA|Computed tomography-guided fine-needle aspiration|Oncology
+US-guided|Guided by ultrasound|Oncology
+US-FNA|Ultrasound-guided fine-needle aspiration|Oncology
+US-CNB|Ultrasound-guided core needle biopsy|Oncology
+EUS-FNB|Endoscopic ultrasound-guided fine-needle biopsy|Oncology
+FNB|Fine-needle biopsy|Oncology
+EUS-TCB|Endoscopic ultrasound-guided through-the-needle biopsy|Oncology
+EUS-guided|Guided by endoscopic ultrasound|Oncology
+EBUS-FNA|Endobronchial ultrasound-guided fine-needle aspiration|Oncology
+TBNA|Transbronchial needle aspiration|Oncology
+TBBx|Transbronchial biopsy|Oncology
+ENB|Electromagnetic navigation bronchoscopy|Oncology
+RB-EBUS|Radial probe endobronchial ultrasound|Oncology
+TTNA|Transthoracic needle aspiration|Oncology
+PTNB|Percutaneous transthoracic needle biopsy|Oncology
+MRI-guided biopsy|Biopsy guided by magnetic resonance imaging|Oncology
+MRI-fusion|Magnetic resonance imaging-ultrasound fusion biopsy|Oncology
+TRUS|Transrectal ultrasound|Oncology
+TRUS-bx|Transrectal ultrasound-guided biopsy|Oncology
+TPUS|Transperineal ultrasound|Oncology
+TVUS|Transvaginal ultrasound|Oncology
+TRUS-guided|Guided by transrectal ultrasound|Oncology
+US|Ultrasound|Oncology
+CEUS|Contrast-enhanced ultrasound|Oncology
+ABUS|Automated breast ultrasound|Oncology
+HHUS|Handheld ultrasound|Oncology
+DCE-MRI|Dynamic contrast-enhanced magnetic resonance imaging|Oncology
+DCE|Dynamic contrast-enhanced|Oncology
+BPE|Background parenchymal enhancement|Oncology
+AB-MRI|Abbreviated breast magnetic resonance imaging|Oncology
+CEM|Contrast-enhanced mammography|Oncology
+CESM|Contrast-enhanced spectral mammography|Oncology
+MMG|Mammogram|Oncology
+2D-DM|Two-dimensional digital mammography|Oncology
+SFM|Screen-film mammography|Oncology
+MBI|Molecular breast imaging|Oncology
+BSGI|Breast-specific gamma imaging|Oncology
+PEM|Positron emission mammography|Oncology
+DW-MRI|Diffusion-weighted magnetic resonance imaging|Oncology
+DWI-MRI|Diffusion-weighted magnetic resonance imaging|Oncology
+WB-MRI|Whole-body magnetic resonance imaging|Oncology
+WB-DWI|Whole-body diffusion-weighted imaging|Oncology
+WBDWI|Whole-body diffusion-weighted imaging|Oncology
+WB-CT|Whole-body computed tomography|Oncology
+WBLDCT|Whole-body low-dose computed tomography|Oncology
+LD-CT|Low-dose computed tomography|Oncology
+ADC-value|Apparent diffusion coefficient value|Oncology
+IVIM|Intravoxel incoherent motion|Oncology
+DTI|Diffusion tensor imaging|Oncology
+MRS|Magnetic resonance spectroscopy|Oncology
+fMRI|Functional magnetic resonance imaging|Oncology
+PWI|Perfusion-weighted imaging|Oncology
+DSC|Dynamic susceptibility contrast|Oncology
+rCBV|Relative cerebral blood volume|Oncology
+Cho/NAA|Choline to N-acetylaspartate ratio on spectroscopy|Oncology
+T1W|T1-weighted|Oncology
+T2W|T2-weighted|Oncology
+T1WI|T1-weighted imaging|Oncology
+T2WI|T2-weighted imaging|Oncology
+T1-Gd|T1-weighted with gadolinium contrast|Oncology
+T1+C|T1-weighted with contrast|Oncology
+T2/FLAIR|T2-weighted fluid-attenuated inversion recovery|Oncology
+FLAIR|Fluid-attenuated inversion recovery|Oncology
+STIR|Short tau inversion recovery|Oncology
+SWI|Susceptibility-weighted imaging|Oncology
+GRE|Gradient echo|Oncology
+FSE|Fast spin echo|Oncology
+TSE|Turbo spin echo|Oncology
+HASTE|Half-Fourier acquisition single-shot turbo spin echo|Oncology
+MRCP|Magnetic resonance cholangiopancreatography|Oncology
+MRE|Magnetic resonance enterography|Oncology
+MRA|Magnetic resonance angiography|Oncology
+MRV|Magnetic resonance venography|Oncology
+MRU|Magnetic resonance urography|Oncology
+MR-elastography|Magnetic resonance elastography|Oncology
+MRE-liver|Magnetic resonance elastography of the liver|Oncology
+EOB-MRI|Gadoxetate-enhanced liver magnetic resonance imaging|Oncology
+Gd|Gadolinium|Oncology
+GBCA|Gadolinium-based contrast agent|Oncology
+IV contrast|Intravenous contrast|Oncology
+PO contrast|Oral contrast|Oncology
+w/ contrast|With contrast|Oncology
+w/o contrast|Without contrast|Oncology
+MRI-pelvis|Magnetic resonance imaging of the pelvis|Oncology
+MRI-rectal|Rectal magnetic resonance imaging|Oncology
+MRF|Mesorectal fascia|Oncology
+CRM|Circumferential resection margin|Oncology
+EMVI|Extramural vascular invasion|Oncology
+mrEMVI|Magnetic resonance imaging-detected extramural vascular invasion|Oncology
+mrTRG|Magnetic resonance tumor regression grade|Oncology
+TRG|Tumor regression grade|Oncology
+NAR|Neoadjuvant rectal score|Oncology
+cCR-wait|Clinical complete response managed by watch and wait|Oncology
+W&W|Watch and wait|Oncology
+WW|Watch and wait|Oncology
+AS|Active surveillance|Oncology
+MRI-brain|Magnetic resonance imaging of the brain|Oncology
+MRI-spine|Magnetic resonance imaging of the spine|Oncology
+MRI-WS|Magnetic resonance imaging of the whole spine|Oncology
+MRI-C|Magnetic resonance imaging of the cervical spine|Oncology
+MRI-T|Magnetic resonance imaging of the thoracic spine|Oncology
+MRI-L|Magnetic resonance imaging of the lumbar spine|Oncology
+BS|Bone scan|Oncology
+WBBS|Whole-body bone scan|Oncology
+NM bone scan|Nuclear medicine bone scan|Oncology
+WBLD-CT|Whole-body low-dose computed tomography|Oncology
+BSI|Bone scan index|Oncology
+RECIST 1.1|Response Evaluation Criteria in Solid Tumors version 1.1|Oncology
+mRECIST|Modified Response Evaluation Criteria in Solid Tumors|Oncology
+irRECIST|Immune-related Response Evaluation Criteria in Solid Tumors|Oncology
+imRECIST|Immune-modified Response Evaluation Criteria in Solid Tumors|Oncology
+iUPD|Immune unconfirmed progressive disease|Oncology
+iCPD|Immune confirmed progressive disease|Oncology
+iCR|Immune complete response|Oncology
+iPR|Immune partial response|Oncology
+iSD|Immune stable disease|Oncology
+SLD|Sum of longest diameters|Oncology
+LD|Longest diameter|Oncology
+SAD-node|Short-axis diameter of a lymph node|Oncology
+SPD|Sum of the products of diameters|Oncology
+PPD|Product of perpendicular diameters|Oncology
+TL|Target lesion|Oncology
+NTL|Non-target lesion|Oncology
+NT|Non-target|Oncology
+NL|New lesion|Oncology
+BOR|Best overall response|Oncology
+BORR|Best overall response rate|Oncology
+CRR|Complete response rate|Oncology
+PRR|Partial response rate|Oncology
+MRR|Major response rate|Oncology
+ORR-BICR|Objective response rate by blinded independent central review|Oncology
+BICR|Blinded independent central review|Oncology
+IRC|Independent review committee|Oncology
+IRF|Independent review facility|Oncology
+PFS2|Progression-free survival on the next line of therapy|Oncology
+PFS-2|Progression-free survival on the next line of therapy|Oncology
+rPFS|Radiographic progression-free survival|Oncology
+iPFS|Investigator-assessed progression-free survival|Oncology
+mOS|Median overall survival|Oncology
+mPFS|Median progression-free survival|Oncology
+2-y OS|Two-year overall survival|Oncology
+5-y OS|Five-year overall survival|Oncology
+5-yr OS|Five-year overall survival|Oncology
+3-y PFS|Three-year progression-free survival|Oncology
+CSS|Cancer-specific survival|Oncology
+DSS|Disease-specific survival|Oncology
+LRFS|Locoregional recurrence-free survival|Oncology
+LC|Local control|Oncology
+LR|Local recurrence|Oncology
+LRR|Locoregional recurrence|Oncology
+IDFS|Invasive disease-free survival|Oncology
+iDFS|Invasive disease-free survival|Oncology
+BCFS|Biochemical failure-free survival|Oncology
+bPFS|Biochemical progression-free survival|Oncology
+BCR|Biochemical recurrence|Oncology
+bRFS|Biochemical relapse-free survival|Oncology
+TTR|Time to recurrence|Oncology
+TTM|Time to metastasis|Oncology
+TTNT|Time to next treatment|Oncology
+TFS|Treatment-free survival|Oncology
+ToT|Time on treatment|Oncology
+TTD|Time to deterioration|Oncology
+TTR-resp|Time to response|Oncology
+QALY|Quality-adjusted life year|Oncology
+Q-TWiST|Quality-adjusted time without symptoms or toxicity|Oncology
+NNT|Number needed to treat|Oncology
+ITT|Intention to treat|Oncology
